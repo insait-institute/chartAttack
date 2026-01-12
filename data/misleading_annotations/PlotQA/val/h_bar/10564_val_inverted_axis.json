@@ -1,0 +1,72 @@
+{
+    "title": "Total commercial service import",
+    "legend": {
+        "2005": "#FF0000",
+        "2006": "#CD853F",
+        "2007": "#808000"
+    },
+    "categories": [
+        "Slovenia",
+        "South Africa",
+        "Suriname",
+        "Switzerland",
+        "Thailand",
+        "Turkey"
+    ],
+    "data": {
+        "2005": [
+            2899400000.0,
+            11859024508.9184,
+            339200000.0,
+            46599739727.6233,
+            26656175951.0129,
+            10756000000.0
+        ],
+        "2006": [
+            3235472332.76435,
+            13803105646.2274,
+            250900000.0,
+            48686299165.492,
+            32429912980.7722,
+            11017000000.0
+        ],
+        "2007": [
+            4252717913.03634,
+            15890238013.1241,
+            292900000.0,
+            56396625454.3751,
+            37813881186.8384,
+            14933000000.0
+        ]
+    },
+    "colors": {
+        "2005": "#FF0000",
+        "2006": "#CD853F",
+        "2007": "#808000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 56396625460
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

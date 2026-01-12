@@ -1,0 +1,68 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in South Asia",
+    "legend": {
+        "Europe(developing only)": "#A52A2A",
+        "Netherlands": "#D2B48C",
+        "Turkmenistan": "#0000FF"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "data": {
+        "Europe(developing only)": [
+            0.770520781379115,
+            0.645871406026944,
+            0.678368483523774,
+            0.952547664908788,
+            1.04065511377453
+        ],
+        "Netherlands": [
+            0.469211661385791,
+            0.421493340322724,
+            0.415700294805656,
+            0.4987590322847871,
+            0.430841424662509
+        ],
+        "Turkmenistan": [
+            0.2328969725042311,
+            0.762569647625805,
+            2.77701226382595,
+            1.51401912227539,
+            3.01680480031449
+        ]
+    },
+    "colors": {
+        "Europe(developing only)": "#A52A2A",
+        "Netherlands": "#D2B48C",
+        "Turkmenistan": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

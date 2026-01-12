@@ -1,0 +1,52 @@
+{
+    "title": "Spending in billion Mexican pesos",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*"
+        ]
+    },
+    "y_axis": {
+        "label": "Spending in billion Mexican pesos"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            77.02,
+            79.3,
+            83.05,
+            84.62,
+            78.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

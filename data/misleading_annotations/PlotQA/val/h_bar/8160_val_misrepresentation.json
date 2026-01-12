@@ -1,0 +1,70 @@
+{
+    "title": "Rural vs urban population in the year 1986",
+    "legend": {
+        "Bahrain": "#90EE90",
+        "Equatorial Guinea": "#4169E1",
+        "Marshall Islands": "#D2691E"
+    },
+    "categories": [
+        "Rural",
+        "Urban"
+    ],
+    "data": {
+        "Bahrain": [
+            54806,
+            378681
+        ],
+        "Equatorial Guinea": [
+            228296,
+            101951
+        ],
+        "Marshall Islands": [
+            14991,
+            25212
+        ]
+    },
+    "colors": {
+        "Bahrain": "#90EE90",
+        "Equatorial Guinea": "#4169E1",
+        "Marshall Islands": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 378690
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Bahrain": [
+            1.75,
+            0.25
+        ],
+        "Equatorial Guinea": [
+            1.75,
+            0.25
+        ],
+        "Marshall Islands": [
+            1.75,
+            0.25
+        ]
+    }
+}

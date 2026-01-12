@@ -1,0 +1,53 @@
+{
+    "title": "Rent as percent of GDP towards fuel resources of different countries in 1987",
+    "legend": {
+        "High income": "#2F4F4F",
+        "OECD members": "#8B0000"
+    },
+    "categories": [
+        "Coal",
+        "Natural Gas",
+        "Oil"
+    ],
+    "data": {
+        "High income": [
+            0.00390686974972846,
+            0.219892897013205,
+            0.847884074512255
+        ],
+        "OECD members": [
+            0.004099725991281379,
+            0.190378134339374,
+            0.54548993003032
+        ]
+    },
+    "colors": {
+        "High income": "#2F4F4F",
+        "OECD members": "#8B0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

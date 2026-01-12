@@ -1,0 +1,57 @@
+{
+    "title": "Adjusted net savings of different countries in the year 2004",
+    "legend": {
+        "Monaco": "#f27979",
+        "Myanmar": "#79f200",
+        "San Marino": "#52a5a5",
+        "Sao Tome and Principe": "#5200a5"
+    },
+    "categories": [
+        "Adjusted net savings of different countries in the year 2004"
+    ],
+    "data": {
+        "Monaco": [
+            9815166.00420304
+        ],
+        "Myanmar": [
+            706858085.460116
+        ],
+        "San Marino": [
+            3300732.90977464
+        ],
+        "Sao Tome and Principe": [
+            12677.1862113976
+        ]
+    },
+    "colors": {
+        "Monaco": "#f27979",
+        "Myanmar": "#79f200",
+        "San Marino": "#52a5a5",
+        "Sao Tome and Principe": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 706858090
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

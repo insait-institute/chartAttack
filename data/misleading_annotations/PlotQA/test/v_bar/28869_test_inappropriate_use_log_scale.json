@@ -1,0 +1,76 @@
+{
+    "title": "Different expenses of government of different countries in 2006",
+    "x_axis": {
+        "categories": [
+            "Liberia",
+            "Lithuania",
+            "Luxembourg",
+            "Macao",
+            "Macedonia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Salary of employees": "#F0E68C",
+        "Custom duties": "#191970",
+        "Interest Payments": "#2F4F4F",
+        "Other expenses": "#8A2BE2"
+    },
+    "data": {
+        "Salary of employees": [
+            627818.034829944,
+            4636200000.0,
+            1922906787.74561,
+            5861000000.0,
+            23917514918.5
+        ],
+        "Custom duties": [
+            12344000000.0,
+            6698318000.0,
+            14597713000.0,
+            1083000000.0,
+            972000000.0
+        ],
+        "Interest Payments": [
+            20671.8114639229,
+            600300000.0,
+            38929774.71012121,
+            3140066325.33,
+            284800000000.0
+        ],
+        "Other expenses": [
+            1082073.02463401,
+            23529500000.0,
+            11782175699.4649,
+            12932000000.0,
+            98983464608.33
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 284800000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Total financial assets in trillion Indian rupees",
+    "x_axis": {
+        "categories": [
+            "FY 2015",
+            "FY 2016",
+            "FY 2017",
+            "FY 2018",
+            "FY 2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Total financial assets in trillion Indian rupees"
+    },
+    "legend": {
+        "Total Assets": "#2876dd"
+    },
+    "data": {
+        "Total Assets": [
+            160.56,
+            177.88,
+            203.91,
+            236.22,
+            262.11
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 270
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Total Assets": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

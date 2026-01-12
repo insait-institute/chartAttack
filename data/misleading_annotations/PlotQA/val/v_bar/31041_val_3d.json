@@ -1,0 +1,81 @@
+{
+    "title": "Number of start-up procedures to register a business",
+    "x_axis": {
+        "categories": [
+            "Uruguay",
+            "Uzbekistan",
+            "Vanuatu",
+            "Venezuela",
+            "Vietnam",
+            "Yemen, Rep."
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2003": "#FFA500",
+        "2004": "#FFA07A",
+        "2005": "#9ACD32",
+        "2006": "#20B2AA"
+    },
+    "data": {
+        "2003": [
+            11.0,
+            11.0,
+            7.0,
+            16.0,
+            12.0,
+            12.0
+        ],
+        "2004": [
+            11.0,
+            11.0,
+            7.0,
+            16.0,
+            11.0,
+            12.0
+        ],
+        "2005": [
+            11.0,
+            11.0,
+            8.0,
+            16.0,
+            11.0,
+            12.0
+        ],
+        "2006": [
+            10.0,
+            11.0,
+            8.0,
+            16.0,
+            11.0,
+            12.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

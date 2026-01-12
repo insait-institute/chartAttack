@@ -1,0 +1,172 @@
+{
+    "title": "",
+    "legend": {
+        "California": "#f27979",
+        "Florida": "#f23500",
+        "Texas": "#f2ae79",
+        "North Carolina": "#f2a100",
+        "New York": "#f2e479",
+        "Ohio": "#d7f200",
+        "Illinois": "#c9f279",
+        "Georgia": "#6bf200",
+        "Arizona": "#94f279",
+        "Michigan": "#00f200",
+        "New Jersey": "#52a565",
+        "Virginia": "#00a549",
+        "Massachusetts": "#52a58a",
+        "Hawaii": "#00a593",
+        "Washington": "#529ca5",
+        "Minnesota": "#006ea5",
+        "Wisconsin": "#5277a5",
+        "South Carolina": "#0024a5",
+        "Oregon": "#5252a5",
+        "Pennsylvania": "#2400a5",
+        "Indiana": "#ae79f2",
+        "New Mexico": "#a100f2",
+        "Connecticut": "#e479f2",
+        "Louisiana": "#f200d7",
+        "Iowa": "#f279c9",
+        "Kentucky": "#f2006b",
+        "Colorado": "#f27994"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "California": [
+            4.8
+        ],
+        "Florida": [
+            4.7
+        ],
+        "Texas": [
+            2.4
+        ],
+        "North Carolina": [
+            1.7
+        ],
+        "New York": [
+            1.6
+        ],
+        "Ohio": [
+            1.5
+        ],
+        "Illinois": [
+            1.5
+        ],
+        "Georgia": [
+            1.5
+        ],
+        "Arizona": [
+            1.4
+        ],
+        "Michigan": [
+            1.4
+        ],
+        "New Jersey": [
+            0.97
+        ],
+        "Virginia": [
+            0.95
+        ],
+        "Massachusetts": [
+            0.86
+        ],
+        "Hawaii": [
+            0.85
+        ],
+        "Washington": [
+            0.8
+        ],
+        "Minnesota": [
+            0.78
+        ],
+        "Wisconsin": [
+            0.77
+        ],
+        "South Carolina": [
+            0.71
+        ],
+        "Oregon": [
+            0.7
+        ],
+        "Pennsylvania": [
+            0.7
+        ],
+        "Indiana": [
+            0.53
+        ],
+        "New Mexico": [
+            0.43
+        ],
+        "Connecticut": [
+            0.34
+        ],
+        "Louisiana": [
+            0.28
+        ],
+        "Iowa": [
+            0.23
+        ],
+        "Kentucky": [
+            0.22
+        ],
+        "Colorado": [
+            0.18
+        ]
+    },
+    "colors": {
+        "California": "#f27979",
+        "Florida": "#f23500",
+        "Texas": "#f2ae79",
+        "North Carolina": "#f2a100",
+        "New York": "#f2e479",
+        "Ohio": "#d7f200",
+        "Illinois": "#c9f279",
+        "Georgia": "#6bf200",
+        "Arizona": "#94f279",
+        "Michigan": "#00f200",
+        "New Jersey": "#52a565",
+        "Virginia": "#00a549",
+        "Massachusetts": "#52a58a",
+        "Hawaii": "#00a593",
+        "Washington": "#529ca5",
+        "Minnesota": "#006ea5",
+        "Wisconsin": "#5277a5",
+        "South Carolina": "#0024a5",
+        "Oregon": "#5252a5",
+        "Pennsylvania": "#2400a5",
+        "Indiana": "#ae79f2",
+        "New Mexico": "#a100f2",
+        "Connecticut": "#e479f2",
+        "Louisiana": "#f200d7",
+        "Iowa": "#f279c9",
+        "Kentucky": "#f2006b",
+        "Colorado": "#f27994"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

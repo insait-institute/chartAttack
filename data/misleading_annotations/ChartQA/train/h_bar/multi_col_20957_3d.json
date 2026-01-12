@@ -1,0 +1,56 @@
+{
+    "title": "Box office gross in million U.S. dollars",
+    "legend": {
+        "Worldwide": "#2876dd",
+        "North America": "#0f283e"
+    },
+    "categories": [
+        "Toy Story",
+        "Toy Story 2",
+        "Toy Story 3",
+        "Toy Story 4"
+    ],
+    "data": {
+        "Worldwide": [
+            191.8,
+            245.85,
+            415,
+            434.04
+        ],
+        "North America": [
+            373.6,
+            497.4,
+            1067,
+            1073.39
+        ]
+    },
+    "colors": {
+        "Worldwide": "#2876dd",
+        "North America": "#0f283e"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1080
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

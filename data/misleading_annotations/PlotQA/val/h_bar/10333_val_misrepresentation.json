@@ -1,0 +1,98 @@
+{
+    "title": "Value added by agricultural sector in constant LCU",
+    "legend": {
+        "Colombia": "#D2B48C",
+        "Micronesia": "#8A2BE2",
+        "Swaziland": "#4B0082"
+    },
+    "categories": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "Colombia": [
+            23945761427000.0,
+            23955049062400.0,
+            23943647017700.0,
+            22629000000000.0,
+            23029000000000.0,
+            24077000000000.0
+        ],
+        "Micronesia": [
+            50021300.0,
+            57341600.0,
+            52980500.0,
+            56557000.0,
+            54656400.0,
+            55748800.0
+        ],
+        "Swaziland": [
+            1961280743.82217,
+            1958243138.12704,
+            2130171620.471389,
+            2146777198.27143,
+            1966545927.027061,
+            2071242069.98587
+        ]
+    },
+    "colors": {
+        "Colombia": "#D2B48C",
+        "Micronesia": "#8A2BE2",
+        "Swaziland": "#4B0082"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 24077000000000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Colombia": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Micronesia": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Swaziland": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

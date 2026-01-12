@@ -1,0 +1,57 @@
+{
+    "title": "Number of trademark applications made by an economy in 1992",
+    "x_axis": {
+        "categories": [
+            "Finland",
+            "France",
+            "Georgia",
+            "Germany"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Nonresident": "#191970",
+        "Resident": "#663399"
+    },
+    "data": {
+        "Nonresident": [
+            4591,
+            24112,
+            1010,
+            10107
+        ],
+        "Resident": [
+            50407,
+            207,
+            101,
+            3817
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50410
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

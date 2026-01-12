@@ -1,0 +1,52 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in Saharan Africa",
+    "legend": {
+        "1966": "#f27979",
+        "1967": "#00f200",
+        "1968": "#5252a5"
+    },
+    "categories": [
+        "Merchandise exports to low and middle-income economies in Saharan Africa"
+    ],
+    "data": {
+        "1966": [
+            3.95348837209302
+        ],
+        "1967": [
+            8.57740585774058
+        ],
+        "1968": [
+            2.75314617618587
+        ]
+    },
+    "colors": {
+        "1966": "#f27979",
+        "1967": "#00f200",
+        "1968": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Current account balance of a country after exporting goods and services",
+    "legend": {
+        "2005": "#9ACD32",
+        "2006": "#A020F0",
+        "2007": "#FFA500"
+    },
+    "categories": [
+        "Canada",
+        "Chile",
+        "Colombia"
+    ],
+    "data": {
+        "2005": [
+            21910175972.0,
+            1448786756.0,
+            -1892371327.0
+        ],
+        "2006": [
+            17953526441.0,
+            7154259466.0,
+            -2911241701.0
+        ],
+        "2007": [
+            11307224323.0,
+            7458194607.0,
+            -6008879635.0
+        ]
+    },
+    "colors": {
+        "2005": "#9ACD32",
+        "2006": "#A020F0",
+        "2007": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 21910175980
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

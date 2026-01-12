@@ -1,0 +1,76 @@
+{
+    "title": "Total electricity produced from coal sources",
+    "x_axis": {
+        "categories": [
+            "Finland",
+            "France",
+            "Germany",
+            "Greece",
+            "Ireland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#BDB76B",
+        "1961": "#000000",
+        "1962": "#006400",
+        "1963": "#EE82EE"
+    },
+    "data": {
+        "1960": [
+            22.46368390470661,
+            36.4686446661959,
+            87.02877131169059,
+            53.3624454148472,
+            4.68611847922193
+        ],
+        "1961": [
+            11.3276026743075,
+            40.0342997346152,
+            86.72576878933,
+            51.56308851224111,
+            3.62821035466775
+        ],
+        "1962": [
+            6.77513774104683,
+            44.77706129380179,
+            86.90910680333059,
+            42.4396873938158,
+            4.64088397790055
+        ],
+        "1963": [
+            10.2832980972516,
+            38.2104920875786,
+            85.7424256636338,
+            45.03152206544578,
+            2.16494845360825
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

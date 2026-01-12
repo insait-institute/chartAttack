@@ -1,0 +1,63 @@
+{
+    "title": "Amount of CO2 emissions in Arab World",
+    "legend": {
+        "CO2 emissions": "#BDB76B"
+    },
+    "x_axis": [
+        "1967",
+        "1968",
+        "1969",
+        "1970",
+        "1971",
+        "1972",
+        "1973",
+        "1974",
+        "1975"
+    ],
+    "y_axis_label": "Emissions(metric tons per capita)",
+    "data": [
+        {
+            "label": "CO2 emissions",
+            "color": "#BDB76B",
+            "values": [
+                1.33330536441291,
+                1.54840356399428,
+                1.79544563024165,
+                1.80827067264931,
+                2.00295146730493,
+                2.12149452127734,
+                2.41152870680884,
+                2.28850349454314,
+                2.199429464007471
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

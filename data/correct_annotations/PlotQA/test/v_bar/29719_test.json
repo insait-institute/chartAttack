@@ -1,0 +1,61 @@
+{
+    "title": "Value added in manufacturing in 2006",
+    "x_axis": {
+        "categories": [
+            "Chemicals",
+            "Food and tobacco"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Kenya": "#BDB76B",
+        "Kyrgyz Republic": "#663399",
+        "Latvia": "#008B8B",
+        "Spain": "#7FFFD4"
+    },
+    "data": {
+        "Kenya": [
+            5.21695929485615,
+            29.4030781733846
+        ],
+        "Kyrgyz Republic": [
+            1.14870949477508,
+            24.68619409579161
+        ],
+        "Latvia": [
+            4.059942407136529,
+            21.1628255679266
+        ],
+        "Spain": [
+            8.45206617789277,
+            14.5403036937691
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

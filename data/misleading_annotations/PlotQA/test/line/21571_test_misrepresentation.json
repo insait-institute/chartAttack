@@ -1,0 +1,70 @@
+{
+    "title": "Unemployed male youth population of France",
+    "legend": {
+        "Unemployment youth male": "#D2B48C"
+    },
+    "x_axis": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "y_axis_label": "Unemployed males(% of male labor force ages 15-24)",
+    "data": [
+        {
+            "label": "Unemployment youth male",
+            "color": "#D2B48C",
+            "values": [
+                16.7999992370605,
+                17.0,
+                18.6000003814697,
+                23.60000038146969,
+                27.2000007629395,
+                23.7000007629395
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Unemployment youth male",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

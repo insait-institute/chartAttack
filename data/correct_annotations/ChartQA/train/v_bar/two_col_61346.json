@@ -1,0 +1,52 @@
+{
+    "title": "Spending in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Spending in million U.S. dollars"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            167.55,
+            207.97,
+            251.66,
+            1207.06,
+            606.19
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1210
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

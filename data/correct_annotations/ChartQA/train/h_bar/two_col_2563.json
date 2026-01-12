@@ -1,0 +1,58 @@
+{
+    "title": "Fatality rate by age group",
+    "categories": [
+        "0-9 years",
+        "10-19 years",
+        "20-29 years",
+        "30-39 years",
+        "40-49 years",
+        "50-59 years",
+        "60-69 years",
+        "70-79 years",
+        "80 years and older"
+    ],
+    "data": {
+        "Fatality rate": [
+            0,
+            0.2,
+            0.2,
+            0.2,
+            0.4,
+            1.3,
+            3.6,
+            8,
+            14.8
+        ]
+    },
+    "colors": {
+        "Fatality rate": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Fatality rate": "#2876dd"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Net Official DA received by a country",
+    "legend": {
+        "East Asia (developing only)": "#FFFF00",
+        "Bahrain": "#2E8B57",
+        "Maldives": "#191970"
+    },
+    "categories": [
+        "1969",
+        "1970",
+        "1971"
+    ],
+    "data": {
+        "East Asia (developing only)": [
+            1245020000,
+            1360130000,
+            1563610000
+        ],
+        "Bahrain": [
+            140000.0,
+            950000.0,
+            4700000.0
+        ],
+        "Maldives": [
+            170000,
+            240000,
+            850000
+        ]
+    },
+    "colors": {
+        "East Asia (developing only)": "#FFFF00",
+        "Bahrain": "#2E8B57",
+        "Maldives": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1563610000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

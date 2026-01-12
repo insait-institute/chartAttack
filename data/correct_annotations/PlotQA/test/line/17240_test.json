@@ -1,0 +1,64 @@
+{
+    "title": "Net incurrence of liabilities in Kyrgyz Republic",
+    "legend": {
+        "Domestic liabilities": "#87CEEB",
+        "Foreign liabilities": "#9ACD32"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Liability (% of GDP)",
+    "data": [
+        {
+            "label": "Domestic liabilities",
+            "color": "#87CEEB",
+            "values": [
+                0.0618031159067413,
+                0.0664044567877659,
+                0.528716661970382,
+                -0.0870688430738764
+            ]
+        },
+        {
+            "label": "Foreign liabilities",
+            "color": "#9ACD32",
+            "values": [
+                1.26091705503331,
+                0.3365751396735711,
+                7.55296887183318,
+                3.01292784430499
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -10,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

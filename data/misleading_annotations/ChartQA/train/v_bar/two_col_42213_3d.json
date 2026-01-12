@@ -1,0 +1,64 @@
+{
+    "title": "Index score",
+    "x_axis": {
+        "categories": [
+            "1990",
+            "1995",
+            "2000",
+            "2005",
+            "2010",
+            "2015",
+            "2020",
+            "2025",
+            "2030",
+            "2035",
+            "2040"
+        ]
+    },
+    "y_axis": {
+        "label": "Index score"
+    },
+    "legend": {
+        "Index score": "#2876dd"
+    },
+    "data": {
+        "Index score": [
+            1,
+            1.12,
+            1.29,
+            1.53,
+            1.79,
+            2.06,
+            2.36,
+            2.64,
+            2.92,
+            3.2,
+            3.45
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

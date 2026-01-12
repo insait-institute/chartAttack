@@ -1,0 +1,91 @@
+{
+    "title": "Educated female labor force in European Union",
+    "legend": {
+        "Primary education": "#808000",
+        "Secondary education": "#87CEEB",
+        "Tertiary education": "#00FF7F"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "y_axis_label": "Educated females (as % of female labor force)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#808000",
+            "values": [
+                35.1966736935571,
+                34.1095287177745,
+                33.7511608393115,
+                28.0013736456453,
+                26.82117167113931,
+                25.6665666783702,
+                24.7498055978215,
+                24.0756902613805
+            ]
+        },
+        {
+            "label": "Secondary education",
+            "color": "#87CEEB",
+            "values": [
+                44.447632282229,
+                44.4277025204428,
+                46.7940044792544,
+                49.28244192234779,
+                49.6330668522968,
+                50.04930849660979,
+                50.3219632808709,
+                49.9640455039705
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "color": "#00FF7F",
+            "values": [
+                19.2988302500516,
+                20.7476932047509,
+                19.2548724749212,
+                20.6845489653698,
+                21.4764477799183,
+                21.9157897016459,
+                22.7405249656286,
+                23.6413047765352
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

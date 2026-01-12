@@ -1,0 +1,68 @@
+{
+    "title": "Cost of communications and computers with respect to service exports",
+    "x_axis": {
+        "categories": [
+            "Seychelles",
+            "Singapore",
+            "Slovak Republic",
+            "Slovenia",
+            "South Africa"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#DC143C",
+        "2006": "#556B2F",
+        "2007": "#8A2BE2"
+    },
+    "data": {
+        "2005": [
+            10.9321593234227,
+            31.338816023594,
+            31.9807632562248,
+            25.0452716297787,
+            13.8085376466896
+        ],
+        "2006": [
+            9.73534531190902,
+            34.8675512173323,
+            33.2718079768175,
+            23.2183509865914,
+            14.1402361155014
+        ],
+        "2007": [
+            3.07790891897515,
+            32.1764102129613,
+            33.94019024885061,
+            24.9603092484926,
+            15.0421181689829
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Plot of fertility rates in Comoros",
+    "legend": {
+        "Adolescent fertility rate": "#4682B4",
+        "Fertility rate": "#663399"
+    },
+    "x_axis": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "y_axis_label": "Rate",
+    "data": [
+        {
+            "label": "Adolescent fertility rate",
+            "color": "#4682B4",
+            "values": [
+                102.645,
+                100.793,
+                98.941,
+                97.5918,
+                96.2426,
+                94.8934,
+                93.5442,
+                92.195
+            ]
+        },
+        {
+            "label": "Fertility rate",
+            "color": "#663399",
+            "values": [
+                5.835,
+                5.736000000000002,
+                5.642,
+                5.552,
+                5.466,
+                5.384,
+                5.307,
+                5.235
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

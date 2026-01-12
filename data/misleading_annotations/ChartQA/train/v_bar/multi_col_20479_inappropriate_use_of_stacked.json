@@ -1,0 +1,87 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "2012": "#f27979",
+        "2013": "#f2a100",
+        "2014": "#c9f279",
+        "2015": "#00f200",
+        "2016": "#52a58a",
+        "2017": "#006ea5",
+        "2018": "#5252a5",
+        "2019": "#6e00a5",
+        "2020": "#f279c9"
+    },
+    "data": {
+        "2012": [
+            10435.0
+        ],
+        "2013": [
+            10181.0
+        ],
+        "2014": [
+            10845.0
+        ],
+        "2015": [
+            13561.0
+        ],
+        "2016": [
+            15947.0
+        ],
+        "2017": [
+            18251.0
+        ],
+        "2018": [
+            21524.0
+        ],
+        "2019": [
+            23907.0
+        ],
+        "2020": [
+            34879.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34880
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2012": "#f27979",
+        "2013": "#f2a100",
+        "2014": "#c9f279",
+        "2015": "#00f200",
+        "2016": "#52a58a",
+        "2017": "#006ea5",
+        "2018": "#5252a5",
+        "2019": "#6e00a5",
+        "2020": "#f279c9"
+    }
+}

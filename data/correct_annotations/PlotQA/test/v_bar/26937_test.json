@@ -1,0 +1,60 @@
+{
+    "title": "Agricultural raw materials,food and fuel exports of countries in 1966",
+    "x_axis": {
+        "categories": [
+            "Agricultural raw materials",
+            "Food",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cote d'Ivoire": "#66CDAA",
+        "Korea (Republic)": "#00FF7F",
+        "Libya": "#FF0000"
+    },
+    "data": {
+        "Cote d'Ivoire": [
+            26.7336222945342,
+            67.3008791952263,
+            0.0120601228699526
+        ],
+        "Korea (Republic)": [
+            8.40940991423994,
+            19.051777107723,
+            0.603301748029889
+        ],
+        "Libya": [
+            0.160634738086375,
+            0.11721216914251,
+            99.6222831303825
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

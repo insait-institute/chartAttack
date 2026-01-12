@@ -1,0 +1,62 @@
+{
+    "title": "Share of revenue",
+    "x_axis": {
+        "categories": [
+            "2005",
+            "2011"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of revenue"
+    },
+    "legend": {
+        "Germany": "#2876dd",
+        "China": "#0f283e"
+    },
+    "data": {
+        "Germany": [
+            63,
+            18
+        ],
+        "China": [
+            11,
+            50
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 18,
+                "max_value": 63
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 11,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

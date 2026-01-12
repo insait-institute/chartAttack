@@ -1,0 +1,88 @@
+{
+    "title": "",
+    "legend": {
+        "4shared.com": "#f27979",
+        "mp3toys.xyz": "#f29100",
+        "rapidgator.net": "#daf279",
+        "chomikuj.pl": "#30f200",
+        "uploaded.net": "#52a574",
+        "unblocksites.co": "#00a5a5",
+        "mangapark.me": "#5274a5",
+        "ninemanga.com": "#2100a5",
+        "video.az": "#da79f2",
+        "voir-films.info": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "4shared.com": [
+            68.4
+        ],
+        "mp3toys.xyz": [
+            51.27
+        ],
+        "rapidgator.net": [
+            38.06
+        ],
+        "chomikuj.pl": [
+            30.18
+        ],
+        "uploaded.net": [
+            27.86
+        ],
+        "unblocksites.co": [
+            26.69
+        ],
+        "mangapark.me": [
+            23.71
+        ],
+        "ninemanga.com": [
+            21.09
+        ],
+        "video.az": [
+            16.11
+        ],
+        "voir-films.info": [
+            15.91
+        ]
+    },
+    "colors": {
+        "4shared.com": "#f27979",
+        "mp3toys.xyz": "#f29100",
+        "rapidgator.net": "#daf279",
+        "chomikuj.pl": "#30f200",
+        "uploaded.net": "#52a574",
+        "unblocksites.co": "#00a5a5",
+        "mangapark.me": "#5274a5",
+        "ninemanga.com": "#2100a5",
+        "video.az": "#da79f2",
+        "voir-films.info": "#f20091"
+    },
+    "y_label": "Number of URLs requested to be removed in millions",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

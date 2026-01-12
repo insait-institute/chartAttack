@@ -1,0 +1,100 @@
+{
+    "title": "",
+    "legend": {
+        "Cities": "#2876dd"
+    },
+    "categories": [
+        "Paris",
+        "Naples",
+        "Venice",
+        "Milan",
+        "Granada",
+        "Prague",
+        "Lisbon",
+        "Tours",
+        "Genoa",
+        "Florence",
+        "Ghent",
+        "Roma",
+        "Palermo",
+        "Bologna",
+        "Verona",
+        "London",
+        "Lyon",
+        "Orleans",
+        "Bordeaux",
+        "Brescia",
+        "Seville",
+        "Marseille",
+        "Cologne",
+        "Valencia",
+        "Malaga",
+        "Ferrara",
+        "Rouen",
+        "Cremona",
+        "Nuremburg",
+        "Bruges"
+    ],
+    "data": {
+        "Cities": [
+            225,
+            125,
+            100,
+            100,
+            70,
+            70,
+            65,
+            60,
+            58,
+            55,
+            55,
+            55,
+            55,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50,
+            49,
+            45,
+            45,
+            45,
+            42,
+            42,
+            42,
+            40,
+            40,
+            38,
+            35
+        ]
+    },
+    "colors": {
+        "Cities": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 230
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

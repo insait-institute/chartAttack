@@ -1,0 +1,91 @@
+{
+    "title": "",
+    "legend": {
+        "Disapprove": "#2876dd",
+        "Approve": "#0f283e"
+    },
+    "x_axis": [
+        "Jun '20",
+        "Jul '20",
+        "Aug '20",
+        "Sep '20",
+        "Oct '20",
+        "Nov '20",
+        "Dec '20",
+        "Jan '21",
+        "Feb '21",
+        "Mar '21",
+        "Apr '21",
+        "May '21",
+        "Jun '21"
+    ],
+    "y_axis_label": "Share of respondents",
+    "data": [
+        {
+            "label": "Disapprove",
+            "color": "#2876dd",
+            "values": [
+                71,
+                77,
+                75,
+                80,
+                77,
+                73,
+                82,
+                71,
+                62,
+                61,
+                62,
+                63,
+                71
+            ]
+        },
+        {
+            "label": "Approve",
+            "color": "#0f283e",
+            "values": [
+                25,
+                18,
+                21,
+                17,
+                19,
+                23,
+                15,
+                25,
+                35,
+                36,
+                33,
+                31,
+                26
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

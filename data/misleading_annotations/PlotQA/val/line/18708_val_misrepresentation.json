@@ -1,0 +1,139 @@
+{
+    "title": "Zambia's claim on it's government institutions and different sectors",
+    "legend": {
+        "Central government": "#FF4500",
+        "Domestic economy": "#DC143C",
+        "Private sector": "#2F4F4F"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Claims(annual growth as % of broad money)",
+    "data": [
+        {
+            "label": "Central government",
+            "color": "#FF4500",
+            "values": [
+                -41.8362226467613,
+                -36.6516451062128,
+                -8.72281634176301,
+                2.00273785868702,
+                16.2074245991594,
+                11.4897286155384,
+                -1.94386855937646,
+                -8.97940736980388,
+                27.6003639129915
+            ]
+        },
+        {
+            "label": "Domestic economy",
+            "color": "#DC143C",
+            "values": [
+                7.94090394353099,
+                22.6865879701121,
+                22.5643590973071,
+                24.5923243258868,
+                -3.42403590512947,
+                8.17112616609934,
+                14.0092952031689,
+                22.2287154491132,
+                6.11583594375058
+            ]
+        },
+        {
+            "label": "Private sector",
+            "color": "#2F4F4F",
+            "values": [
+                6.656863882412879,
+                22.36134897631111,
+                20.539116983877,
+                26.4340641086817,
+                -3.65063556243394,
+                8.70057802861594,
+                14.0229359487841,
+                19.5039712007515,
+                7.65915689197074
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -50,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Central government",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Domestic economy",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Private sector",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        }
+    ]
+}

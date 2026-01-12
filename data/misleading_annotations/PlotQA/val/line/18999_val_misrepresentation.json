@@ -1,0 +1,139 @@
+{
+    "title": "Amount of agricultural raw materials,food and fuel imports of South Asia",
+    "legend": {
+        "Agricultural raw materials": "#663399",
+        "Food": "#00FF7F",
+        "Fuel": "#FF4500"
+    },
+    "x_axis": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "y_axis_label": "Amount of imports(as % of merchandise imports)",
+    "data": [
+        {
+            "label": "Agricultural raw materials",
+            "color": "#663399",
+            "values": [
+                4.02291730033241,
+                3.269612635656709,
+                3.69521117433476,
+                3.53137852312415,
+                4.289546127415741,
+                4.15946872435449,
+                3.35583645237359,
+                3.80194236621189,
+                3.67163062385579
+            ]
+        },
+        {
+            "label": "Food",
+            "color": "#00FF7F",
+            "values": [
+                7.08048313255749,
+                5.79472201019289,
+                7.00040929492931,
+                6.092318740343488,
+                6.726904028881481,
+                7.29867257206683,
+                7.24215764212723,
+                8.47744170725945,
+                11.120061116669
+            ]
+        },
+        {
+            "label": "Fuel",
+            "color": "#FF4500",
+            "values": [
+                24.789312301785,
+                25.8892617651068,
+                25.590820641125,
+                23.67735367521211,
+                22.7149332860808,
+                21.4102202344095,
+                26.32834674391449,
+                22.808064942738,
+                18.71335831439
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Agricultural raw materials",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Food",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Fuel",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        }
+    ]
+}

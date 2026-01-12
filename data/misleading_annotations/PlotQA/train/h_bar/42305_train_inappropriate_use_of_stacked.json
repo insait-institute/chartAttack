@@ -1,0 +1,62 @@
+{
+    "title": "Global C02 emissions",
+    "legend": {
+        "Iran": "#f27979",
+        "Iraq": "#c1f200",
+        "Ireland": "#52a574",
+        "Israel": "#0042a5",
+        "Italy": "#da79f2"
+    },
+    "categories": [
+        "Global C02 emissions"
+    ],
+    "data": {
+        "Iran": [
+            1.70687730649309
+        ],
+        "Iraq": [
+            1.1338396783762
+        ],
+        "Ireland": [
+            3.95272679063848
+        ],
+        "Israel": [
+            3.05985184624554
+        ],
+        "Italy": [
+            2.1784447715823
+        ]
+    },
+    "colors": {
+        "Iran": "#f27979",
+        "Iraq": "#c1f200",
+        "Ireland": "#52a574",
+        "Israel": "#0042a5",
+        "Italy": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

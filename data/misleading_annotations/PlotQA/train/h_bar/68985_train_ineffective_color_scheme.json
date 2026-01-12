@@ -1,0 +1,78 @@
+{
+    "title": "Net official aid flow in an economy from UNTA",
+    "legend": {
+        "Bulgaria": "#191970",
+        "Oman": "#231970",
+        "St. Lucia": "#311b78",
+        "Tuvalu": "#341866"
+    },
+    "categories": [
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "data": {
+        "Bulgaria": [
+            680000.0,
+            630000.0,
+            510000.0,
+            870000.0
+        ],
+        "Oman": [
+            1200000.0,
+            510000.0,
+            780000.0,
+            540000.0
+        ],
+        "St. Lucia": [
+            340000.0,
+            300000.0,
+            140000.0,
+            340000.0
+        ],
+        "Tuvalu": [
+            130000.0,
+            90000.0,
+            90000.0,
+            10000.0
+        ]
+    },
+    "colors": {
+        "Bulgaria": "#191970",
+        "Oman": "#C71585",
+        "St. Lucia": "#B8860B",
+        "Tuvalu": "#8B4513"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1200000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Bulgaria": "#191970",
+        "Oman": "#231970",
+        "St. Lucia": "#311b78",
+        "Tuvalu": "#341866"
+    }
+}

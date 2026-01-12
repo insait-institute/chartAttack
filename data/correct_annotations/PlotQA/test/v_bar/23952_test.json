@@ -1,0 +1,60 @@
+{
+    "title": "Number of people participated in R&D projects in 2007",
+    "x_axis": {
+        "categories": [
+            "China",
+            "Colombia",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Researchers": "#FF8C00",
+        "Technicians": "#6B8E23"
+    },
+    "data": {
+        "Researchers": [
+            1078.62521,
+            184.99694,
+            1406.66505,
+            751.618,
+            2698.59737
+        ],
+        "Technicians": [
+            12.0902,
+            1823.00207,
+            1325.21975,
+            15.21659,
+            36.96287
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2700
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

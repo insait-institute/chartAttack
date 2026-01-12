@@ -1,0 +1,72 @@
+{
+    "title": "Net financial flows from International Banks",
+    "x_axis": {
+        "categories": [
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income",
+            "Algeria",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#FF7F50",
+        "1971": "#00FF00",
+        "1972": "#20B2AA"
+    },
+    "data": {
+        "1970": [
+            33687000.0,
+            45466000.0,
+            45466000.0,
+            257222000.0,
+            -2614000.0,
+            46914000.0
+        ],
+        "1971": [
+            891000.0,
+            91526000.0,
+            91526000.0,
+            314322000.0,
+            -2599000.0,
+            86780000.0
+        ],
+        "1972": [
+            -19962000.0,
+            150728000.0,
+            150728000.0,
+            413696000.0,
+            -2824000.0,
+            138199000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 413696000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

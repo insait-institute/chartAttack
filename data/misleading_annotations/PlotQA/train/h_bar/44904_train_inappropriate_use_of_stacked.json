@@ -1,0 +1,67 @@
+{
+    "title": "Unemployed male youth population of a country",
+    "legend": {
+        "North America": "#f27979",
+        "Australia": "#f2f200",
+        "Canada": "#79f279",
+        "Finland": "#00a5a5",
+        "Israel": "#5252a5",
+        "Japan": "#a500a5"
+    },
+    "categories": [
+        "Unemployed male youth population of a country"
+    ],
+    "data": {
+        "North America": [
+            14.4777083468661
+        ],
+        "Australia": [
+            11.3999996185303
+        ],
+        "Canada": [
+            13.3999996185303
+        ],
+        "Finland": [
+            6.699999809265139
+        ],
+        "Israel": [
+            13.3999996185303
+        ],
+        "Japan": [
+            4.5
+        ]
+    },
+    "colors": {
+        "North America": "#f27979",
+        "Australia": "#f2f200",
+        "Canada": "#79f279",
+        "Finland": "#00a5a5",
+        "Israel": "#5252a5",
+        "Japan": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

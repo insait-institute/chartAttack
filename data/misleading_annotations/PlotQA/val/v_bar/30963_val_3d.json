@@ -1,0 +1,81 @@
+{
+    "title": "Number of start-up procedures to register a property",
+    "x_axis": {
+        "categories": [
+            "Benin",
+            "Bhutan",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Botswana",
+            "Bulgaria"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2004": "#008B8B",
+        "2005": "#00FFFF",
+        "2006": "#8B008B",
+        "2007": "#EE82EE"
+    },
+    "data": {
+        "2004": [
+            4.0,
+            3.0,
+            7.0,
+            7.0,
+            3.0,
+            8.0
+        ],
+        "2005": [
+            4.0,
+            3.0,
+            7.0,
+            7.0,
+            3.0,
+            8.0
+        ],
+        "2006": [
+            4.0,
+            3.0,
+            7.0,
+            7.0,
+            3.0,
+            8.0
+        ],
+        "2007": [
+            4.0,
+            3.0,
+            7.0,
+            7.0,
+            3.0,
+            8.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

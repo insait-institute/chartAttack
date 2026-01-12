@@ -1,0 +1,59 @@
+{
+    "title": "Net disbursements received from Regional Development Bank in 2008",
+    "legend": {
+        "RDB concessional": "#BA55D3",
+        "RDB nonconcessional": "#F0E68C"
+    },
+    "categories": [
+        "Costa Rica",
+        "Cote d'Ivoire",
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt, Arab Rep."
+    ],
+    "data": {
+        "RDB concessional": [
+            -9724000,
+            -616000,
+            -22234000,
+            -27930000,
+            8507000
+        ],
+        "RDB nonconcessional": [
+            -261530000,
+            -59613000,
+            -9310000,
+            -9980000,
+            125522000
+        ]
+    },
+    "colors": {
+        "RDB concessional": "#BA55D3",
+        "RDB nonconcessional": "#F0E68C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 125522000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

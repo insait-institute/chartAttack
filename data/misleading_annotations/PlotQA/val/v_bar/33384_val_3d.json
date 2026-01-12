@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of infants who were provided with ARI treatment in the year 2001",
+    "x_axis": {
+        "categories": [
+            "Benin",
+            "Congo (Democratic)",
+            "Maldives",
+            "Mali",
+            "Mauritania",
+            "Nepal"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "ARI treatment": "#FF00FF"
+    },
+    "data": {
+        "ARI treatment": [
+            35,
+            36,
+            22,
+            36,
+            41,
+            26
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Annual freshwater withdrawals (billion cubic metres) in Ghana",
+    "legend": {
+        "Annual freshwater withdrawals": "#40E0D0"
+    },
+    "categories": [
+        "1972",
+        "2002",
+        "2013"
+    ],
+    "data": {
+        "Annual freshwater withdrawals": [
+            0.3,
+            0.982,
+            0.982
+        ]
+    },
+    "colors": {
+        "Annual freshwater withdrawals": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Annual freshwater withdrawals": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

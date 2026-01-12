@@ -1,0 +1,56 @@
+{
+    "title": "Number of teachers providing primary vs secondary education in different countries",
+    "legend": {
+        "Primary education": "#FF7F50",
+        "Secondary Education": "#A020F0"
+    },
+    "categories": [
+        "Eritrea",
+        "Estonia",
+        "Ethiopia",
+        "Fiji"
+    ],
+    "data": {
+        "Primary education": [
+            8166.0,
+            6431.0,
+            270375.0,
+            3671.0
+        ],
+        "Secondary Education": [
+            1290585.0,
+            14256.0,
+            624215.0,
+            190468.0
+        ]
+    },
+    "colors": {
+        "Primary education": "#FF7F50",
+        "Secondary Education": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1290590
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

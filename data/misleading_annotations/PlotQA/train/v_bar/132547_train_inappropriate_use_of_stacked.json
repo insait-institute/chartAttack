@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the total labor force of different age groups participating in production in 2008",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Burundi": "#f27979",
+        "Cabo Verde": "#f2f200",
+        "Cambodia": "#79f279",
+        "Cameroon": "#00a5a5",
+        "Canada": "#5252a5",
+        "Central African Republic": "#a500a5"
+    },
+    "data": {
+        "Burundi": [
+            65.6999969482422
+        ],
+        "Cabo Verde": [
+            59.9000015258789
+        ],
+        "Cambodia": [
+            74.099998474121
+        ],
+        "Cameroon": [
+            47.7000007629395
+        ],
+        "Canada": [
+            67.6999969482422
+        ],
+        "Central African Republic": [
+            63.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Burundi": "#f27979",
+        "Cabo Verde": "#f2f200",
+        "Cambodia": "#79f279",
+        "Cameroon": "#00a5a5",
+        "Canada": "#5252a5",
+        "Central African Republic": "#a500a5"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Arable land in different countries as per the survey report of the year 2012",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Georgia": "#f27979",
+        "Germany": "#f2f200",
+        "Ghana": "#79f279",
+        "Greece": "#00a5a5",
+        "Greenland": "#5252a5",
+        "Grenada": "#a500a5"
+    },
+    "data": {
+        "Georgia": [
+            400000.0
+        ],
+        "Germany": [
+            11834000.0
+        ],
+        "Ghana": [
+            4700000.0
+        ],
+        "Greece": [
+            2540000.0
+        ],
+        "Greenland": [
+            900.0
+        ],
+        "Grenada": [
+            3000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11834000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Georgia": "#f27979",
+        "Germany": "#f2f200",
+        "Ghana": "#79f279",
+        "Greece": "#00a5a5",
+        "Greenland": "#5252a5",
+        "Grenada": "#a500a5"
+    }
+}

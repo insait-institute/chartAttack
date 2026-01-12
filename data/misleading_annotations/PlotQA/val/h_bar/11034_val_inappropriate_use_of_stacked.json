@@ -1,0 +1,62 @@
+{
+    "title": "Number of fixed telephone subscriptions",
+    "legend": {
+        "Ethiopia": "#f27979",
+        "Faeroe Islands": "#c1f200",
+        "Fiji": "#52a574",
+        "Finland": "#0042a5",
+        "France": "#da79f2"
+    },
+    "categories": [
+        "Number of fixed telephone subscriptions"
+    ],
+    "data": {
+        "Ethiopia": [
+            8636.0
+        ],
+        "Faeroe Islands": [
+            3208.0
+        ],
+        "Fiji": [
+            5164.0
+        ],
+        "Finland": [
+            428283.0
+        ],
+        "France": [
+            2193711.0
+        ]
+    },
+    "colors": {
+        "Ethiopia": "#f27979",
+        "Faeroe Islands": "#c1f200",
+        "Fiji": "#52a574",
+        "Finland": "#0042a5",
+        "France": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4268000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

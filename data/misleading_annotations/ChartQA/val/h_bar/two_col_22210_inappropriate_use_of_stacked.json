@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Jamaal Charles": "#f27979",
+        "Priest Holmes": "#f24800",
+        "Larry Johnson": "#f2c179",
+        "Christian Okoye": "#f2da00",
+        "Ed Podolak": "#daf279",
+        "Abner Haynes": "#79f200",
+        "Marcus Allen": "#91f279",
+        "Mike Garrett": "#00a510",
+        "Curtis McClinton": "#52a574",
+        "Herman Heard": "#00a574",
+        "Wendell Hayes": "#52a5a5",
+        "Greg Hill": "#0074a5",
+        "Ted McKnight": "#5274a5",
+        "Barry Word": "#0010a5",
+        "Kimble Anders": "#9179f2",
+        "Tony Reed": "#7900f2",
+        "Kareem Hunt": "#da79f2",
+        "Donnell Bennett": "#f200da",
+        "Robert Holmes": "#f279c1",
+        "Alex Smith": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Jamaal Charles": [
+            7260.0
+        ],
+        "Priest Holmes": [
+            6070.0
+        ],
+        "Larry Johnson": [
+            6015.0
+        ],
+        "Christian Okoye": [
+            4897.0
+        ],
+        "Ed Podolak": [
+            4451.0
+        ],
+        "Abner Haynes": [
+            3814.0
+        ],
+        "Marcus Allen": [
+            3698.0
+        ],
+        "Mike Garrett": [
+            3246.0
+        ],
+        "Curtis McClinton": [
+            3124.0
+        ],
+        "Herman Heard": [
+            2694.0
+        ],
+        "Wendell Hayes": [
+            2560.0
+        ],
+        "Greg Hill": [
+            2436.0
+        ],
+        "Ted McKnight": [
+            2344.0
+        ],
+        "Barry Word": [
+            2306.0
+        ],
+        "Kimble Anders": [
+            2261.0
+        ],
+        "Tony Reed": [
+            2184.0
+        ],
+        "Kareem Hunt": [
+            2151.0
+        ],
+        "Donnell Bennett": [
+            1902.0
+        ],
+        "Robert Holmes": [
+            1719.0
+        ],
+        "Alex Smith": [
+            1672.0
+        ]
+    },
+    "colors": {
+        "Jamaal Charles": "#f27979",
+        "Priest Holmes": "#f24800",
+        "Larry Johnson": "#f2c179",
+        "Christian Okoye": "#f2da00",
+        "Ed Podolak": "#daf279",
+        "Abner Haynes": "#79f200",
+        "Marcus Allen": "#91f279",
+        "Mike Garrett": "#00a510",
+        "Curtis McClinton": "#52a574",
+        "Herman Heard": "#00a574",
+        "Wendell Hayes": "#52a5a5",
+        "Greg Hill": "#0074a5",
+        "Ted McKnight": "#5274a5",
+        "Barry Word": "#0010a5",
+        "Kimble Anders": "#9179f2",
+        "Tony Reed": "#7900f2",
+        "Kareem Hunt": "#da79f2",
+        "Donnell Bennett": "#f200da",
+        "Robert Holmes": "#f279c1",
+        "Alex Smith": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7260
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

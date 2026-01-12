@@ -1,0 +1,97 @@
+{
+    "title": "Mineral rent of different countries at the time of the survey in 2007",
+    "x_axis": {
+        "categories": [
+            "Europe(all income levels)",
+            "Europe(developing only)",
+            "European Union",
+            "Fragile and conflict affected situations"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Coal": "#000000",
+        "Natural Gas": "#008080",
+        "Oil": "#2F4F4F",
+        "Other Minerals": "#2E8B57"
+    },
+    "data": {
+        "Coal": [
+            0.0793172861498719,
+            0.37541372577071,
+            0.0149384715727588,
+            0.0408052956331956
+        ],
+        "Natural Gas": [
+            0.9477750760265559,
+            1.85211877431887,
+            0.242243235124901,
+            1.34658840431028
+        ],
+        "Oil": [
+            1.76902243966549,
+            4.5856431984477,
+            0.270420694042357,
+            29.5812356903289
+        ],
+        "Other Minerals": [
+            0.241042033725827,
+            1.36568797364681,
+            0.053963713406176,
+            0.548731931850137
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Coal": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Natural Gas": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Oil": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Other Minerals": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

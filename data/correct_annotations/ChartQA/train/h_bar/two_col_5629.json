@@ -1,0 +1,60 @@
+{
+    "title": "Number of followers in million followers",
+    "categories": [
+        "Cristiano Ronaldo",
+        "Paulo Dybala",
+        "Gianluigi Buffon",
+        "Juan Cuadrado",
+        "Douglas Costa",
+        "Sami Khedira",
+        "Blaise Matuidi",
+        "Miralem Pjanic",
+        "Matthijs De Ligt",
+        "Leonardo Bonucci"
+    ],
+    "data": {
+        "Followers": [
+            180.48,
+            36.13,
+            8.65,
+            7.74,
+            6.05,
+            5.47,
+            5.36,
+            4.77,
+            4.44,
+            4.17
+        ]
+    },
+    "colors": {
+        "Followers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 190
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Followers": "#2876dd"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Total male labor force participation rate for ages 20-60",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#f2f200",
+        "Middle income": "#79f279",
+        "North America": "#00a5a5",
+        "OECD members": "#5252a5",
+        "Other small states": "#a500a5"
+    },
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            76.925941214514
+        ],
+        "Middle East & North Africa (developing only)": [
+            76.6092939025714
+        ],
+        "Middle income": [
+            82.82989173490371
+        ],
+        "North America": [
+            75.46154705371309
+        ],
+        "OECD members": [
+            73.7259606264622
+        ],
+        "Other small states": [
+            76.7915635888841
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#f2f200",
+        "Middle income": "#79f279",
+        "North America": "#00a5a5",
+        "OECD members": "#5252a5",
+        "Other small states": "#a500a5"
+    }
+}

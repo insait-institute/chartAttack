@@ -1,0 +1,53 @@
+{
+    "title": "Agricultural and industrial emissions by different countries in 1990",
+    "legend": {
+        "Canada": "#32CD32",
+        "Pakistan": "#2E8B57"
+    },
+    "categories": [
+        "Methane",
+        "Agricultural Nitrous Oxide",
+        "Industrial Nitrous Oxide"
+    ],
+    "data": {
+        "Canada": [
+            18923.5,
+            16999.4,
+            11770.0
+        ],
+        "Pakistan": [
+            64592.0,
+            13668.2,
+            625.0
+        ]
+    },
+    "colors": {
+        "Canada": "#32CD32",
+        "Pakistan": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 64600
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

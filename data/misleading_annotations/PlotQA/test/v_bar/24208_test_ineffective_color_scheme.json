@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education in different countries",
+    "x_axis": {
+        "categories": [
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: nonOECD",
+            "High income: OECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female entrants": "#000000",
+        "Male entrants": "#000000"
+    },
+    "data": {
+        "Female entrants": [
+            34.9191703796387,
+            94.66357421875,
+            88.9478225708008,
+            96.64300537109379
+        ],
+        "Male entrants": [
+            61.48049545288089,
+            47.5332374572754,
+            93.71871948242192,
+            88.24810791015629
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Female entrants": "#000000",
+        "Male entrants": "#000000"
+    }
+}

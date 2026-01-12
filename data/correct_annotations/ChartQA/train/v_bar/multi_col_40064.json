@@ -1,0 +1,99 @@
+{
+    "title": "Net sales in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Net sales in million U.S. dollars"
+    },
+    "legend": {
+        "Asia Pacific": "#2876dd",
+        "North America": "#0f283e",
+        "EMEA": "#bababa",
+        "China": "#a60b0b",
+        "Mexico": "#87bc24",
+        "South & Central America": "#ebb523"
+    },
+    "data": {
+        "Asia Pacific": [
+            938.6,
+            913,
+            915.9,
+            1053.4,
+            1249,
+            1347.7
+        ],
+        "North America": [
+            879.5,
+            955.7,
+            840.2,
+            948.3,
+            1025.5,
+            1372.9
+        ],
+        "EMEA": [
+            755.1,
+            815.6,
+            868.7,
+            977,
+            998,
+            1208.3
+        ],
+        "China": [
+            846.2,
+            868.8,
+            885.9,
+            1007.6,
+            752,
+            809.6
+        ],
+        "Mexico": [
+            479.9,
+            446.6,
+            442.7,
+            467.9,
+            473.6,
+            436.9
+        ],
+        "South & Central America": [
+            569.7,
+            488.7,
+            474.3,
+            437.6,
+            379,
+            366.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1380
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

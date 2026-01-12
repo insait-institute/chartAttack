@@ -1,0 +1,100 @@
+{
+    "title": "Number of events",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of events"
+    },
+    "legend": {
+        "5k": "#2876dd",
+        "10k": "#2868dd",
+        "8k/5 mile": "#3160de",
+        "Half-Marathon": "#2547d6",
+        "Marathon": "#374ae2",
+        "Other": "#2329cd"
+    },
+    "data": {
+        "5k": [
+            15000,
+            15200,
+            15100,
+            16500,
+            17000
+        ],
+        "10k": [
+            3200,
+            3200,
+            3700,
+            4200,
+            4200
+        ],
+        "8k/5 mile": [
+            1020,
+            2000,
+            1400,
+            1200,
+            1200
+        ],
+        "Half-Marathon": [
+            1900,
+            2100,
+            2500,
+            2700,
+            2800
+        ],
+        "Marathon": [
+            850,
+            1100,
+            1100,
+            1100,
+            1100
+        ],
+        "Other": [
+            4400,
+            4600,
+            4200,
+            4600,
+            4100
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "color": {
+        "5k": "#2876dd",
+        "10k": "#2868dd",
+        "8k/5 mile": "#3160de",
+        "Half-Marathon": "#2547d6",
+        "Marathon": "#374ae2",
+        "Other": "#2329cd"
+    }
+}

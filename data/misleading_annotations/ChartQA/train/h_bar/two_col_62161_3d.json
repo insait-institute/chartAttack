@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Cruise Lines": "#2876dd"
+    },
+    "categories": [
+        "Disney Cruise Line",
+        "Cunard Line",
+        "Holland America Line",
+        "Princess Cruises",
+        "Celebrity Cruises",
+        "Carnival Cruise Line",
+        "Royal Caribbean International",
+        "Norwegian Cruise Line",
+        "P&O Cruises",
+        "MSC Cruises",
+        "Costa Cruises"
+    ],
+    "data": {
+        "Cruise Lines": [
+            94.25,
+            89.63,
+            87.46,
+            88.01,
+            88.76,
+            84.33,
+            84.58,
+            86.41,
+            82.17,
+            80.87,
+            74.83
+        ]
+    },
+    "colors": {
+        "Cruise Lines": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

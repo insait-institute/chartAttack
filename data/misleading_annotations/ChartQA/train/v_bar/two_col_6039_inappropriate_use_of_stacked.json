@@ -1,0 +1,92 @@
+{
+    "title": "Export value in billion Indian rupees",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Export value in billion Indian rupees"
+    },
+    "legend": {
+        "FY 2011": "#f27979",
+        "FY 2012": "#f29100",
+        "FY 2013": "#daf279",
+        "FY 2014": "#30f200",
+        "FY 2015": "#52a574",
+        "FY 2016": "#00a5a5",
+        "FY 2017": "#5274a5",
+        "FY 2018": "#2100a5",
+        "FY 2019": "#da79f2",
+        "FY 2020": "#f20091"
+    },
+    "data": {
+        "FY 2011": [
+            174.18
+        ],
+        "FY 2012": [
+            224.57
+        ],
+        "FY 2013": [
+            259.96
+        ],
+        "FY 2014": [
+            338.22
+        ],
+        "FY 2015": [
+            368.47
+        ],
+        "FY 2016": [
+            353.67
+        ],
+        "FY 2017": [
+            346.51
+        ],
+        "FY 2018": [
+            340.84
+        ],
+        "FY 2019": [
+            359.34
+        ],
+        "FY 2020": [
+            328.77
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 370
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "FY 2011": "#f27979",
+        "FY 2012": "#f29100",
+        "FY 2013": "#daf279",
+        "FY 2014": "#30f200",
+        "FY 2015": "#52a574",
+        "FY 2016": "#00a5a5",
+        "FY 2017": "#5274a5",
+        "FY 2018": "#2100a5",
+        "FY 2019": "#da79f2",
+        "FY 2020": "#f20091"
+    }
+}

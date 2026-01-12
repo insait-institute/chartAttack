@@ -1,0 +1,50 @@
+{
+    "title": "Net energy imports of Nepal",
+    "legend": {
+        "Energy imports": "#483D8B"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Energy imports": [
+            8.86254940980045,
+            10.0692740009548,
+            11.4908576787166,
+            13.0611097247724,
+            13.493922323639
+        ]
+    },
+    "colors": {
+        "Energy imports": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

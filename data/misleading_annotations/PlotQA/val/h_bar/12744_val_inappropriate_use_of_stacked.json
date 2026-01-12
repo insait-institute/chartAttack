@@ -1,0 +1,57 @@
+{
+    "title": "Value added in manufacturing (in %) by advanced machineries",
+    "legend": {
+        "1981": "#f27979",
+        "1982": "#79f200",
+        "1983": "#52a5a5",
+        "1984": "#5200a5"
+    },
+    "categories": [
+        "Value added in manufacturing (in %) by advanced machineries"
+    ],
+    "data": {
+        "1981": [
+            2.12740949694405
+        ],
+        "1982": [
+            0.3279476657337609
+        ],
+        "1983": [
+            0.577168879904576
+        ],
+        "1984": [
+            0.29429270913072
+        ]
+    },
+    "colors": {
+        "1981": "#f27979",
+        "1982": "#79f200",
+        "1983": "#52a5a5",
+        "1984": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

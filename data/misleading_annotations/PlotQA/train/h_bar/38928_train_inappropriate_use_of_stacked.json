@@ -1,0 +1,52 @@
+{
+    "title": "Educated female labor force in different countries in the year 2003",
+    "legend": {
+        "Primary education": "#f27979",
+        "Secondary education": "#00f200",
+        "Tertiary education": "#5252a5"
+    },
+    "categories": [
+        "Educated female labor force in different countries in the year 2003"
+    ],
+    "data": {
+        "Primary education": [
+            28.47688975254971
+        ],
+        "Secondary education": [
+            45.58057269566322
+        ],
+        "Tertiary education": [
+            24.1385551474937
+        ]
+    },
+    "colors": {
+        "Primary education": "#f27979",
+        "Secondary education": "#00f200",
+        "Tertiary education": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

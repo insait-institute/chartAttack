@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Deaths per 100,000 population": "#2876dd"
+    },
+    "categories": [
+        "Oklahoma",
+        "Mississippi",
+        "Arkansas",
+        "Alabama",
+        "Louisiana",
+        "Tennessee",
+        "Nevada",
+        "West Virginia",
+        "Kentucky",
+        "Michigan"
+    ],
+    "data": {
+        "Deaths per 100,000 population": [
+            231.4,
+            226.7,
+            226.5,
+            219.6,
+            207.8,
+            202.8,
+            198.1,
+            197.4,
+            196.4,
+            193.8
+        ]
+    },
+    "colors": {
+        "Deaths per 100,000 population": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 240
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

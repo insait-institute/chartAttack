@@ -1,0 +1,71 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 2005",
+    "x_axis": {
+        "categories": [
+            "Compensation of employees",
+            "Goods and services",
+            "Subsidies and Transfers",
+            "Other expenses"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "High income": "#FF0000",
+        "El Salvador": "#556B2F",
+        "Georgia": "#008B8B",
+        "Kuwait": "#40E0D0"
+    },
+    "data": {
+        "High income": [
+            16.0696803440467,
+            10.0948078884812,
+            59.0717056568099,
+            6.30071320485821
+        ],
+        "El Salvador": [
+            39.2490446918093,
+            18.3884366173783,
+            24.58880212659911,
+            5.299883701611559
+        ],
+        "Georgia": [
+            16.7287722959209,
+            20.8774283301038,
+            53.1077656878819,
+            3.31892482734635
+        ],
+        "Kuwait": [
+            29.1192720181995,
+            21.9532011699708,
+            27.2668183295418,
+            21.44946376340589
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

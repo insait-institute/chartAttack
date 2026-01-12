@@ -1,0 +1,137 @@
+{
+    "title": "Prize money earned in million U.S. dollars",
+    "categories": [
+        "Prize money earned in million U.S. dollars"
+    ],
+    "data": {
+        "Novak Djokovic": [
+            143.63
+        ],
+        "Roger Federer": [
+            129.95
+        ],
+        "Rafael Nadal": [
+            120.96
+        ],
+        "Andy Murray": [
+            61.54
+        ],
+        "Pete Sampras": [
+            43.28
+        ],
+        "Stan Wawrinka": [
+            34.28
+        ],
+        "David Ferrer": [
+            31.48
+        ],
+        "Andre Agassi": [
+            31.15
+        ],
+        "Tomas Berdych": [
+            29.49
+        ],
+        "Marin Cilic": [
+            27.86
+        ],
+        "Juan Martin del Potro": [
+            25.89
+        ],
+        "Boris Becker": [
+            25.08
+        ],
+        "Yevgeny Kafelnikov": [
+            23.88
+        ],
+        "Dominic Thiem": [
+            23.87
+        ],
+        "Kei Nishikori": [
+            23.85
+        ],
+        "Jo-Wilfried Tsonga": [
+            22.16
+        ],
+        "Ivan Lendl": [
+            21.26
+        ],
+        "Alexander Zverev": [
+            21.01
+        ],
+        "Lleyton Hewitt": [
+            20.89
+        ],
+        "Andy Roddick": [
+            20.64
+        ]
+    },
+    "colors": {
+        "Novak Djokovic": "#f27979",
+        "Roger Federer": "#f24800",
+        "Rafael Nadal": "#f2c179",
+        "Andy Murray": "#f2da00",
+        "Pete Sampras": "#daf279",
+        "Stan Wawrinka": "#79f200",
+        "David Ferrer": "#91f279",
+        "Andre Agassi": "#00a510",
+        "Tomas Berdych": "#52a574",
+        "Marin Cilic": "#00a574",
+        "Juan Martin del Potro": "#52a5a5",
+        "Boris Becker": "#0074a5",
+        "Yevgeny Kafelnikov": "#5274a5",
+        "Dominic Thiem": "#0010a5",
+        "Kei Nishikori": "#9179f2",
+        "Jo-Wilfried Tsonga": "#7900f2",
+        "Ivan Lendl": "#da79f2",
+        "Alexander Zverev": "#f200da",
+        "Lleyton Hewitt": "#f279c1",
+        "Andy Roddick": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 150
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Novak Djokovic": "#f27979",
+        "Roger Federer": "#f24800",
+        "Rafael Nadal": "#f2c179",
+        "Andy Murray": "#f2da00",
+        "Pete Sampras": "#daf279",
+        "Stan Wawrinka": "#79f200",
+        "David Ferrer": "#91f279",
+        "Andre Agassi": "#00a510",
+        "Tomas Berdych": "#52a574",
+        "Marin Cilic": "#00a574",
+        "Juan Martin del Potro": "#52a5a5",
+        "Boris Becker": "#0074a5",
+        "Yevgeny Kafelnikov": "#5274a5",
+        "Dominic Thiem": "#0010a5",
+        "Kei Nishikori": "#9179f2",
+        "Jo-Wilfried Tsonga": "#7900f2",
+        "Ivan Lendl": "#da79f2",
+        "Alexander Zverev": "#f200da",
+        "Lleyton Hewitt": "#f279c1",
+        "Andy Roddick": "#f20048"
+    }
+}

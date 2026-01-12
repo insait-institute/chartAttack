@@ -1,0 +1,72 @@
+{
+    "title": "Net official aid flow in an economy from UNAIDS",
+    "legend": {
+        "2005": "#32CD32",
+        "2006": "#DC143C",
+        "2007": "#8A2BE2",
+        "2008": "#00FF7F"
+    },
+    "categories": [
+        "Colombia",
+        "Congo (Republic)",
+        "Cote d'Ivoire",
+        "Dominican Republic"
+    ],
+    "data": {
+        "2005": [
+            210000.0,
+            400000.0,
+            330000.0,
+            270000.0
+        ],
+        "2006": [
+            200000.0,
+            740000.0,
+            390000.0,
+            170000.0
+        ],
+        "2007": [
+            340000.0,
+            460000.0,
+            620000.0,
+            550000.0
+        ],
+        "2008": [
+            200000.0,
+            460000.0,
+            720000.0,
+            330000.0
+        ]
+    },
+    "colors": {
+        "2005": "#32CD32",
+        "2006": "#DC143C",
+        "2007": "#8A2BE2",
+        "2008": "#00FF7F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 740000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

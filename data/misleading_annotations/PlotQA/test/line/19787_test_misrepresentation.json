@@ -1,0 +1,133 @@
+{
+    "title": "Enrolments of both sexes in different levels of education in Europe(all income levels)",
+    "legend": {
+        "Primary": "#BDB76B",
+        "Secondary": "#87CEEB",
+        "Secondary general": "#228B22",
+        "Secondary vocational": "#FFD700"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Number of enrolments of both sexes",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#BDB76B",
+            "values": [
+                58115756,
+                57806788,
+                57096232,
+                56164984,
+                54754188
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#87CEEB",
+            "values": [
+                84308656,
+                84519360,
+                83802168,
+                84890456,
+                85584320
+            ]
+        },
+        {
+            "label": "Secondary general",
+            "color": "#228B22",
+            "values": [
+                64579912,
+                65301080,
+                67349616,
+                68254416,
+                69976912
+            ]
+        },
+        {
+            "label": "Secondary vocational",
+            "color": "#FFD700",
+            "values": [
+                19728748,
+                19218280,
+                16452549,
+                16636040,
+                15607404
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 15607400,
+                "max_value": 85584320
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Secondary",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Secondary general",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Secondary vocational",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Price in U.S. dollars per thousand cubic feet*",
+    "x_axis": {
+        "categories": [
+            "1975",
+            "1980",
+            "1985",
+            "1990",
+            "1995",
+            "2000",
+            "2005",
+            "2010",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Price in U.S. dollars per thousand cubic feet*"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            1.71,
+            3.68,
+            6.12,
+            5.8,
+            6.06,
+            7.76,
+            12.7,
+            11.39,
+            10.38,
+            10.05,
+            10.91,
+            10.5,
+            10.51,
+            10.83
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

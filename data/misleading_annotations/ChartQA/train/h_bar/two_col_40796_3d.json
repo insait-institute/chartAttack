@@ -1,0 +1,60 @@
+{
+    "title": "Number of home runs",
+    "categories": [
+        "Carl Yastrzemski",
+        "Ted Williams",
+        "David Ortiz",
+        "Jim Rice",
+        "Dwight Evans",
+        "Bobby Doerr",
+        "Manny Ramirez",
+        "Jimmie Foxx",
+        "Rico Petrocelli",
+        "Jason Varitek"
+    ],
+    "data": {
+        "Home Runs": [
+            1844,
+            1839,
+            1530,
+            1451,
+            1346,
+            1247,
+            868,
+            788,
+            773,
+            757
+        ]
+    },
+    "colors": {
+        "Home Runs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1850
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Home Runs": "#2876dd"
+    }
+}

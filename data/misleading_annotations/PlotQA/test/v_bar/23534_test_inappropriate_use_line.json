@@ -1,0 +1,63 @@
+{
+    "title": "Cost of damage due to depletion of various resources",
+    "x_axis": {
+        "categories": [
+            "Indonesia",
+            "Italy",
+            "Japan",
+            "Malaysia",
+            "Mexico",
+            "Morocco"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#000000",
+        "1971": "#228B22"
+    },
+    "data": {
+        "1970": [
+            1.40250235663675,
+            0.103666998663961,
+            0.0110221845927991,
+            0.0952827426214561,
+            0.3721973312847979,
+            0.00890918192454595
+        ],
+        "1971": [
+            2.23535728837198,
+            0.108613561590137,
+            0.0142865411426809,
+            0.406130222446429,
+            0.443714782300296,
+            0.0287396640749098
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

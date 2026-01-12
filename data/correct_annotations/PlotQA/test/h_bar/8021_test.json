@@ -1,0 +1,56 @@
+{
+    "title": "Net disbursements received from Regional Development Bank in 1991",
+    "legend": {
+        "Mali": "#708090",
+        "Mauritius": "#9ACD32",
+        "Niger": "#DAA520"
+    },
+    "categories": [
+        "RDB concessional",
+        "RDB nonconcessional"
+    ],
+    "data": {
+        "Mali": [
+            25114000,
+            245000
+        ],
+        "Mauritius": [
+            -56000,
+            4587000
+        ],
+        "Niger": [
+            282000,
+            -482000
+        ]
+    },
+    "colors": {
+        "Mali": "#708090",
+        "Mauritius": "#9ACD32",
+        "Niger": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25114000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

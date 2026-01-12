@@ -1,0 +1,57 @@
+{
+    "title": "Market value in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Market value in billion U.S. dollars"
+    },
+    "legend": {
+        "2018": "#f27979",
+        "2020": "#00f200",
+        "2024*": "#5252a5"
+    },
+    "data": {
+        "2018": [
+            19.4
+        ],
+        "2020": [
+            20.0
+        ],
+        "2024*": [
+            28.7
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2018": "#f27979",
+        "2020": "#00f200",
+        "2024*": "#5252a5"
+    }
+}

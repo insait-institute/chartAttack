@@ -1,0 +1,67 @@
+{
+    "title": "Agricultural and industrial emissions by Ireland",
+    "legend": {
+        "Methane": "#A020F0",
+        "Agricultural Nitrous Oxide": "#ADFF2F",
+        "Industrial Nitrous Oxide": "#2F4F4F"
+    },
+    "x_axis": [
+        "1990",
+        "2000"
+    ],
+    "y_axis_label": "Emissions (1000 metric ton of CO2 equivalent)",
+    "data": [
+        {
+            "label": "Methane",
+            "color": "#A020F0",
+            "values": [
+                10806.5,
+                11839.6
+            ]
+        },
+        {
+            "label": "Agricultural Nitrous Oxide",
+            "color": "#ADFF2F",
+            "values": [
+                6644.8,
+                6977.3
+            ]
+        },
+        {
+            "label": "Industrial Nitrous Oxide",
+            "color": "#2F4F4F",
+            "values": [
+                945.3,
+                725.4
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 720,
+                "max_value": 11840
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

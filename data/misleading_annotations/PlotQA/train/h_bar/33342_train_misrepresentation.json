@@ -1,0 +1,70 @@
+{
+    "title": "Overall average of statistical capacity score",
+    "legend": {
+        "2004": "#6B8E23",
+        "2005": "#FFA500"
+    },
+    "categories": [
+        "Niger",
+        "Nigeria",
+        "Pakistan",
+        "Panama"
+    ],
+    "data": {
+        "2004": [
+            64.4444444444444,
+            44.4444444444444,
+            73.3333333333333,
+            75.55555555555559
+        ],
+        "2005": [
+            65.5555555555556,
+            50.0,
+            80.0,
+            75.55555555555559
+        ]
+    },
+    "colors": {
+        "2004": "#6B8E23",
+        "2005": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2004": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2005": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

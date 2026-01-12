@@ -1,0 +1,62 @@
+{
+    "title": "Area of land (as % of tota land area) under cultivation",
+    "legend": {
+        "Botswana": "#f27979",
+        "Brazil": "#c1f200",
+        "Brunei Darussalam": "#52a574",
+        "Bulgaria": "#0042a5",
+        "Burkina Faso": "#da79f2"
+    },
+    "categories": [
+        "Area of land (as % of tota land area) under cultivation"
+    ],
+    "data": {
+        "Botswana": [
+            0.00176450867256013
+        ],
+        "Brazil": [
+            0.751124053916302
+        ],
+        "Brunei Darussalam": [
+            2.08728652751423
+        ],
+        "Bulgaria": [
+            3.3173641869294
+        ],
+        "Burkina Faso": [
+            0.0548245614035088
+        ]
+    },
+    "colors": {
+        "Botswana": "#f27979",
+        "Brazil": "#c1f200",
+        "Brunei Darussalam": "#52a574",
+        "Bulgaria": "#0042a5",
+        "Burkina Faso": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

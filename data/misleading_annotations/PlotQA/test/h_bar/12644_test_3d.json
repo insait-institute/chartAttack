@@ -1,0 +1,72 @@
+{
+    "title": "Total female labor force participation rate for ages 20-60",
+    "legend": {
+        "1990": "#B8860B",
+        "1991": "#D2B48C",
+        "1992": "#00CED1",
+        "1993": "#8B4513"
+    },
+    "categories": [
+        "United Arab Emirates",
+        "United Kingdom",
+        "United States",
+        "Uruguay"
+    ],
+    "data": {
+        "1990": [
+            25.0,
+            52.5999984741211,
+            56.4000015258789,
+            45.0
+        ],
+        "1991": [
+            26.10000038146969,
+            52.5,
+            56.0999984741211,
+            45.4000015258789
+        ],
+        "1992": [
+            27.2999992370605,
+            52.2000007629395,
+            56.5,
+            47.4000015258789
+        ],
+        "1993": [
+            28.60000038146969,
+            52.2000007629395,
+            56.5999984741211,
+            46.7999992370605
+        ]
+    },
+    "colors": {
+        "1990": "#B8860B",
+        "1991": "#D2B48C",
+        "1992": "#00CED1",
+        "1993": "#8B4513"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

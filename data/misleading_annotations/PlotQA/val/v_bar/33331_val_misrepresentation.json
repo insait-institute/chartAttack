@@ -1,0 +1,64 @@
+{
+    "title": "Population in the largest city of different countries",
+    "x_axis": {
+        "categories": [
+            "Congo (Republic)",
+            "Costa Rica",
+            "Cote d'Ivoire",
+            "Croatia",
+            "Cuba",
+            "Czech Republic"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Population in largest city": "#006400"
+    },
+    "data": {
+        "Population in largest city": [
+            616150,
+            648576,
+            1792171,
+            681132,
+            2025096,
+            1199608
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2025100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Population in largest city": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

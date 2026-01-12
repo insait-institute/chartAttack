@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of the unemployed male labor force with different levels of education in Iceland",
+    "legend": {
+        "1994": "#f27979",
+        "1995": "#79f200",
+        "1996": "#52a5a5",
+        "1997": "#5200a5"
+    },
+    "categories": [
+        "Percentage of the unemployed male labor force with different levels of education in Iceland"
+    ],
+    "data": {
+        "1994": [
+            57.5
+        ],
+        "1995": [
+            60.5
+        ],
+        "1996": [
+            51.9000015258789
+        ],
+        "1997": [
+            38.5
+        ]
+    },
+    "colors": {
+        "1994": "#f27979",
+        "1995": "#79f200",
+        "1996": "#52a5a5",
+        "1997": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

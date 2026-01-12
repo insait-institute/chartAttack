@@ -1,0 +1,87 @@
+{
+    "title": "Share of population who are undernourished",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of population who are undernourished"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f2a100",
+        "2012": "#c9f279",
+        "2013": "#00f200",
+        "2014": "#52a58a",
+        "2015": "#006ea5",
+        "2016": "#5252a5",
+        "2017": "#6e00a5",
+        "2018": "#f279c9"
+    },
+    "data": {
+        "2010": [
+            11.1
+        ],
+        "2011": [
+            10.5
+        ],
+        "2012": [
+            10.1
+        ],
+        "2013": [
+            9.8
+        ],
+        "2014": [
+            9.0
+        ],
+        "2015": [
+            8.2
+        ],
+        "2016": [
+            7.6
+        ],
+        "2017": [
+            6.9
+        ],
+        "2018": [
+            6.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f2a100",
+        "2012": "#c9f279",
+        "2013": "#00f200",
+        "2014": "#52a58a",
+        "2015": "#006ea5",
+        "2016": "#5252a5",
+        "2017": "#6e00a5",
+        "2018": "#f279c9"
+    }
+}

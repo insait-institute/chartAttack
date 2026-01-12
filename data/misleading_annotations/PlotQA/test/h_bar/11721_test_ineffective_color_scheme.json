@@ -1,0 +1,88 @@
+{
+    "title": "CO2 emissions from liquid fuel consumption",
+    "legend": {
+        "1960": "#40e0d0",
+        "1961": "#40dde0",
+        "1962": "#49cce1",
+        "1963": "#3ab2dc"
+    },
+    "categories": [
+        "Uganda",
+        "United Kingdom",
+        "United States",
+        "Uruguay",
+        "Venezuela",
+        "Vietnam"
+    ],
+    "data": {
+        "1960": [
+            91.304347826087,
+            22.07731894063011,
+            44.372700748446,
+            91.25636672325979,
+            26.1003662532931,
+            23.9843367596672
+        ],
+        "1961": [
+            91.8918918918919,
+            23.4961551632888,
+            45.07467018704778,
+            92.2597864768683,
+            22.2441917943648,
+            25.3902662993572
+        ],
+        "1962": [
+            93.1623931623932,
+            25.0050985408903,
+            44.718696715888,
+            92.6873857404022,
+            14.8763131141986,
+            21.2632404864653
+        ],
+        "1963": [
+            94.06779661016952,
+            25.97774862750811,
+            43.6123213366219,
+            93.2937181663837,
+            23.3509493051478,
+            23.8841978287093
+        ]
+    },
+    "colors": {
+        "1960": "#40E0D0",
+        "1961": "#9ACD32",
+        "1962": "#D2691E",
+        "1963": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#40e0d0",
+        "1961": "#40dde0",
+        "1962": "#49cce1",
+        "1963": "#3ab2dc"
+    }
+}

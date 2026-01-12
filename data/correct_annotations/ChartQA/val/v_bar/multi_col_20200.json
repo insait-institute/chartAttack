@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of households",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2015",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of households"
+    },
+    "legend": {
+        "Stand-alone air conditioning": "#2876dd",
+        "Central air conditioning": "#0f283e",
+        "Air conditioning (total)": "#bababa"
+    },
+    "data": {
+        "Stand-alone air conditioning": [
+            18,
+            18,
+            18
+        ],
+        "Central air conditioning": [
+            37,
+            39,
+            42
+        ],
+        "Air conditioning (total)": [
+            55,
+            57,
+            60
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

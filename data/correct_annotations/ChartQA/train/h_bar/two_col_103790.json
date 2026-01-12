@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Receiving yards": "#2876dd"
+    },
+    "categories": [
+        "Steve Largent",
+        "Brian Blades",
+        "Doug Baldwin",
+        "Darrell Jackson",
+        "Tyler Lockett",
+        "Bobby Engram",
+        "Joey Galloway",
+        "John Williams",
+        "Koren Robinson",
+        "Sam McCullum",
+        "Deion Branch",
+        "Sherman Smith",
+        "Mike Pritchard",
+        "D.K. Metcalf",
+        "Golden Tate",
+        "Jermaine Kearse",
+        "Jimmy Graham",
+        "Tommy Kane",
+        "Dan Doornink",
+        "Paul Skansi"
+    ],
+    "data": {
+        "Receiving yards": [
+            13089,
+            7620,
+            6563,
+            6445,
+            4892,
+            4859,
+            4457,
+            4151,
+            3567,
+            3409,
+            2347,
+            2342,
+            2288,
+            2203,
+            2195,
+            2109,
+            2048,
+            2034,
+            1940,
+            1911
+        ]
+    },
+    "colors": {
+        "Receiving yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13090
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

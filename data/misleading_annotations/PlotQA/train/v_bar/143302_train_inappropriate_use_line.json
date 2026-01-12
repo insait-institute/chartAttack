@@ -1,0 +1,61 @@
+{
+    "title": "Trade statistics with developing economies of North Africa in 1962",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "High income": "#228B22",
+        "Libya": "#6B8E23",
+        "Mozambique": "#EE82EE",
+        "Tanzania": "#006400"
+    },
+    "data": {
+        "High income": [
+            3.11927971787279,
+            3.31737410782658
+        ],
+        "Libya": [
+            0.283486888731396,
+            2.67509727626459
+        ],
+        "Mozambique": [
+            0.116548758172982,
+            6.508422664624809
+        ],
+        "Tanzania": [
+            0.5427408412483039,
+            6.66666666666667
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

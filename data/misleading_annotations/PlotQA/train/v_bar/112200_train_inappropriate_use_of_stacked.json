@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of GDP spent on health care in different countries in 1997",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Denmark": "#f27979",
+        "Djibouti": "#f2f200",
+        "Dominica": "#79f279",
+        "Dominican Republic": "#00a5a5",
+        "Ecuador": "#5252a5",
+        "Egypt, Arab Rep.": "#a500a5"
+    },
+    "data": {
+        "Denmark": [
+            1.44459912196559
+        ],
+        "Djibouti": [
+            1.76523132988769
+        ],
+        "Dominica": [
+            1.62327735566374
+        ],
+        "Dominican Republic": [
+            4.16449186879587
+        ],
+        "Ecuador": [
+            1.72958649626927
+        ],
+        "Egypt, Arab Rep.": [
+            3.04635411937621
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Denmark": "#f27979",
+        "Djibouti": "#f2f200",
+        "Dominica": "#79f279",
+        "Dominican Republic": "#00a5a5",
+        "Ecuador": "#5252a5",
+        "Egypt, Arab Rep.": "#a500a5"
+    }
+}

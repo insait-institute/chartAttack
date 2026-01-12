@@ -1,0 +1,56 @@
+{
+    "title": "Mortality rate in different countries in 1999",
+    "legend": {
+        "Burkina Faso": "#00BFFF",
+        "Kyrgyz Republic": "#4169E1",
+        "Tajikistan": "#C71585"
+    },
+    "categories": [
+        "Infant",
+        "Under five"
+    ],
+    "data": {
+        "Burkina Faso": [
+            97.3,
+            188.5
+        ],
+        "Kyrgyz Republic": [
+            43.5,
+            51.1
+        ],
+        "Tajikistan": [
+            78.8,
+            99.4
+        ]
+    },
+    "colors": {
+        "Burkina Faso": "#00BFFF",
+        "Kyrgyz Republic": "#4169E1",
+        "Tajikistan": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 190
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

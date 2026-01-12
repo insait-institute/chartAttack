@@ -1,0 +1,60 @@
+{
+    "title": "Measures of the flow of containers from land to sea transport modes and vice versa",
+    "x_axis": {
+        "categories": [
+            "New Zealand",
+            "Oman",
+            "Panama"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2000": "#FF69B4",
+        "2001": "#8FBC8F",
+        "2002": "#DC143C"
+    },
+    "data": {
+        "2000": [
+            1067438.0,
+            1161549.0,
+            2369681.0
+        ],
+        "2001": [
+            1139143.0,
+            1331686.0,
+            2376045.0
+        ],
+        "2002": [
+            1407130.0,
+            1415500.0,
+            1344790.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2376050
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

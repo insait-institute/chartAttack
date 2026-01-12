@@ -1,0 +1,68 @@
+{
+    "title": "Total reserves (excluding gold) of a country",
+    "legend": {
+        "1960": "#B8860B",
+        "1961": "#228B22",
+        "1962": "#483D8B"
+    },
+    "categories": [
+        "Peru",
+        "Philippines",
+        "Portugal",
+        "Saudi Arabia",
+        "Sierra Leone"
+    ],
+    "data": {
+        "1960": [
+            33699999.9925,
+            111669999.99333,
+            85000000.0,
+            166759999.98624,
+            27200000.0
+        ],
+        "1961": [
+            63029999.99186999,
+            26589999.99041,
+            109000000.0,
+            172759999.98624,
+            27800000.0
+        ],
+        "1962": [
+            69249999.99125,
+            34000000.0,
+            208999999.985,
+            189749999.98625,
+            31800000.0
+        ]
+    },
+    "colors": {
+        "1960": "#B8860B",
+        "1961": "#228B22",
+        "1962": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 209000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

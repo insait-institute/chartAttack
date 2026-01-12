@@ -1,0 +1,62 @@
+{
+    "title": "Prevalence of weight issues in children under 5 in different countries in 1978",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Egypt, Arab Rep.": "#f27979",
+        "Haiti": "#79f200",
+        "Jamaica": "#52a5a5",
+        "Sri Lanka": "#5200a5"
+    },
+    "data": {
+        "Egypt, Arab Rep.": [
+            3.79999995231628
+        ],
+        "Haiti": [
+            1.5
+        ],
+        "Jamaica": [
+            15.6000003814697
+        ],
+        "Sri Lanka": [
+            0.200000002980232
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Egypt, Arab Rep.": "#f27979",
+        "Haiti": "#79f200",
+        "Jamaica": "#52a5a5",
+        "Sri Lanka": "#5200a5"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Employment to population ratio of the male population between the ages 0 to 14",
+    "legend": {
+        "Georgia": "#f27979",
+        "Germany": "#c1f200",
+        "Ghana": "#52a574",
+        "Greece": "#0042a5",
+        "Guatemala": "#da79f2"
+    },
+    "categories": [
+        "Employment to population ratio of the male population between the ages 0 to 14"
+    ],
+    "data": {
+        "Georgia": [
+            28.0
+        ],
+        "Germany": [
+            60.9000015258789
+        ],
+        "Ghana": [
+            37.7000007629395
+        ],
+        "Greece": [
+            37.5999984741211
+        ],
+        "Guatemala": [
+            75.6999969482422
+        ]
+    },
+    "colors": {
+        "Georgia": "#f27979",
+        "Germany": "#c1f200",
+        "Ghana": "#52a574",
+        "Greece": "#0042a5",
+        "Guatemala": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

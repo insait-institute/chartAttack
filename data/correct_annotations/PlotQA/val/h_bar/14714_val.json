@@ -1,0 +1,77 @@
+{
+    "title": "Percentage of female pupils in tertiary schools",
+    "legend": {
+        "East Asia (all income levels)": "#ADFF2F",
+        "European Union": "#483D8B",
+        "Latvia": "#90EE90",
+        "United States": "#8A2BE2"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "East Asia (all income levels)": [
+            47.9888114929199,
+            48.1421585083008,
+            48.1840400695801,
+            48.22677993774411,
+            48.3202514648438
+        ],
+        "European Union": [
+            48.84637069702151,
+            48.7783203125,
+            48.7540893554688,
+            48.73086166381839,
+            48.5776710510254
+        ],
+        "Latvia": [
+            48.9936714172363,
+            49.09222030639651,
+            49.6145515441895,
+            49.58945083618161,
+            49.28849029541021
+        ],
+        "United States": [
+            49.15185928344729,
+            48.57213973999021,
+            48.9053611755371,
+            48.6280288696289,
+            49.0878601074219
+        ]
+    },
+    "colors": {
+        "East Asia (all income levels)": "#ADFF2F",
+        "European Union": "#483D8B",
+        "Latvia": "#90EE90",
+        "United States": "#8A2BE2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

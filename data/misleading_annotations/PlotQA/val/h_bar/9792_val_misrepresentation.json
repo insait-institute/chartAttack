@@ -1,0 +1,91 @@
+{
+    "title": "Percentage of the unemployed labor force with different levels of education in countries",
+    "legend": {
+        "Primary education": "#FFA07A",
+        "Secondary education": "#8B4513",
+        "Tertiary education": "#40E0D0"
+    },
+    "categories": [
+        "Bulgaria",
+        "Canada",
+        "Chile",
+        "Colombia",
+        "Costa Rica"
+    ],
+    "data": {
+        "Primary education": [
+            35.9000015258789,
+            29.0,
+            18.5,
+            23.7999992370605,
+            68.3000030517578
+        ],
+        "Secondary education": [
+            40.9000015258789,
+            59.0,
+            20.7999992370605,
+            19.2999992370605,
+            67.40000152587889
+        ],
+        "Tertiary education": [
+            11.6000003814697,
+            30.10000038146969,
+            21.7999992370605,
+            17.0,
+            9.10000038146973
+        ]
+    },
+    "colors": {
+        "Primary education": "#FFA07A",
+        "Secondary education": "#8B4513",
+        "Tertiary education": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Primary education": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Secondary education": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Tertiary education": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

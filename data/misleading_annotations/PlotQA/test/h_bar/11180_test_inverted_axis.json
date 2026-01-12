@@ -1,0 +1,64 @@
+{
+    "title": "Net energy imports of a country",
+    "legend": {
+        "1960": "#FF1493",
+        "1961": "#B03060",
+        "1962": "#00BFFF"
+    },
+    "categories": [
+        "New Zealand",
+        "Norway",
+        "Poland",
+        "Portugal"
+    ],
+    "data": {
+        "1960": [
+            40.5221850096777,
+            56.5416845138657,
+            -19.6273506939111,
+            57.57389123357861
+        ],
+        "1961": [
+            42.0829192604815,
+            54.91717075249021,
+            -17.6999364814919,
+            59.7427313541302
+        ],
+        "1962": [
+            40.9532235802975,
+            51.8003663459867,
+            -14.7122901351909,
+            60.85374485808372
+        ]
+    },
+    "colors": {
+        "1960": "#FF1493",
+        "1961": "#B03060",
+        "1962": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

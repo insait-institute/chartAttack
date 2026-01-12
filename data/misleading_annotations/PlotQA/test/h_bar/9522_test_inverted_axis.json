@@ -1,0 +1,64 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1999",
+    "legend": {
+        "Coal sources": "#32CD32",
+        "Natural gas sources": "#8FBC8F",
+        "Oil sources": "#6495ED"
+    },
+    "categories": [
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Japan"
+    ],
+    "data": {
+        "Coal sources": [
+            26.7953135768436,
+            66.8978707127375,
+            10.8869645715608,
+            20.2908037614433
+        ],
+        "Natural gas sources": [
+            31.968757178957,
+            0.051000892515619,
+            33.551136911535,
+            24.19250356963611
+        ],
+        "Oil sources": [
+            28.3436710314725,
+            32.5997704959837,
+            35.2467647682783,
+            10.5835333756113
+        ]
+    },
+    "colors": {
+        "Coal sources": "#32CD32",
+        "Natural gas sources": "#8FBC8F",
+        "Oil sources": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Total exports of goods and services in US$",
+    "x_axis": {
+        "categories": [
+            "Austria",
+            "Bangladesh",
+            "Belgium",
+            "Benin",
+            "Bolivia",
+            "Botswana"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#F0E68C",
+        "1961": "#6A5ACD",
+        "1962": "#0000FF",
+        "1963": "#87CEEB"
+    },
+    "data": {
+        "1960": [
+            1532657935.92003,
+            427347691.352062,
+            4407077777.67983,
+            13852022.2493431,
+            75126462.87918,
+            7990793.68413588
+        ],
+        "1961": [
+            1682092116.85016,
+            519448521.025637,
+            4837690320.53443,
+            10801828.2732842,
+            83473847.6435333,
+            8954875.93831382
+        ],
+        "1962": [
+            1816199711.6468,
+            546086853.300458,
+            5381621192.67603,
+            8317363.66858349,
+            83473847.6435333,
+            9954217.68895451
+        ],
+        "1963": [
+            1961802212.17205,
+            531067333.063947,
+            5948215317.59445,
+            9703492.00469945,
+            100168617.17224,
+            11044514.9345657
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5948215320
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

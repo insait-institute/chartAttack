@@ -1,0 +1,82 @@
+{
+    "title": "Total enrollments in schools as per the survey of 2012 conducted in different countries",
+    "x_axis": {
+        "categories": [
+            "Italy",
+            "Jamaica",
+            "Japan",
+            "Jordan",
+            "Kazakhstan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Pre-primary schools": "#008b8b",
+        "Primary schools": "#007a8b",
+        "Secondary schools": "#007195",
+        "Tertiary schools": "#015280"
+    },
+    "data": {
+        "Pre-primary schools": [
+            98.57836151123051,
+            74.7110366821289,
+            87.8651275634766,
+            34.1785507202148,
+            53.71073150634771
+        ],
+        "Primary schools": [
+            98.1103668212891,
+            114.059913635254,
+            108.526252746582,
+            105.951538085938,
+            104.412452697754
+        ],
+        "Secondary schools": [
+            101.809410095215,
+            87.8294677734375,
+            102.167152404785,
+            66.9884414672852,
+            46.5407295227051
+        ],
+        "Tertiary schools": [
+            56.2928810119629,
+            16.7253704071045,
+            65.133430480957,
+            46.2645111083984,
+            10.8256702423096
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Pre-primary schools": "#008b8b",
+        "Primary schools": "#007a8b",
+        "Secondary schools": "#007195",
+        "Tertiary schools": "#015280"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Earnings from merchandise exports and imports by the reporting economy(residual) of Oman",
+    "legend": {
+        "1989": "#f27979",
+        "1990": "#c1f200",
+        "1991": "#52a574",
+        "1992": "#0042a5",
+        "1993": "#da79f2"
+    },
+    "categories": [
+        "Earnings from merchandise exports and imports by the reporting economy(residual) of Oman"
+    ],
+    "data": {
+        "1989": [
+            1.65516568488679
+        ],
+        "1990": [
+            0.181163530249482
+        ],
+        "1991": [
+            0.0597709572574466
+        ],
+        "1992": [
+            0.008188396286521009
+        ],
+        "1993": [
+            0.0144825937580471
+        ]
+    },
+    "colors": {
+        "1989": "#f27979",
+        "1990": "#c1f200",
+        "1991": "#52a574",
+        "1992": "#0042a5",
+        "1993": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

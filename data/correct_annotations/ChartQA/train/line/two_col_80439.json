@@ -1,0 +1,55 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "2017",
+        "2018",
+        "2019",
+        "2020*",
+        "2021*"
+    ],
+    "y_axis_label": "Change in percent",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                24.9,
+                19.7,
+                19.1,
+                17.2,
+                15.9
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

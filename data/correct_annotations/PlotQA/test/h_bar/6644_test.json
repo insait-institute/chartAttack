@@ -1,0 +1,56 @@
+{
+    "title": "Land Geography of Sub-Saharan Africa (all income levels)",
+    "legend": {
+        "Forest land": "#CD5C5C",
+        "Agricultural land": "#8FBC8F"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "data": {
+        "Forest land": [
+            29.0779379483534,
+            28.92751489781411,
+            28.7770918472747,
+            28.6266683733186
+        ],
+        "Agricultural land": [
+            40.1620119847451,
+            40.2533000939826,
+            40.1664966635252,
+            40.2587509771599
+        ]
+    },
+    "colors": {
+        "Forest land": "#CD5C5C",
+        "Agricultural land": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

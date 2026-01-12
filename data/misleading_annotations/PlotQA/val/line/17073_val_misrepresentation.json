@@ -1,0 +1,99 @@
+{
+    "title": "Percentage share of income between different subgroups of population of Chile",
+    "legend": {
+        "Highest 20% of population": "#DC143C",
+        "Lowest 20% of population": "#A0522D"
+    },
+    "x_axis": [
+        "1987",
+        "1990",
+        "1992",
+        "1994",
+        "1996",
+        "1998",
+        "2000"
+    ],
+    "y_axis_label": "Income share held (as % of total income)",
+    "data": [
+        {
+            "label": "Highest 20% of population",
+            "color": "#DC143C",
+            "values": [
+                61.4,
+                62.46,
+                60.14,
+                61.5,
+                60.1,
+                60.68,
+                60.55
+            ]
+        },
+        {
+            "label": "Lowest 20% of population",
+            "color": "#A0522D",
+            "values": [
+                3.34,
+                3.36,
+                3.85,
+                3.46,
+                3.65,
+                3.51,
+                3.68
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Highest 20% of population",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Lowest 20% of population",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

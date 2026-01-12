@@ -1,0 +1,77 @@
+{
+    "title": "Claims on the central government of different countries",
+    "legend": {
+        "Central African Republic": "#D2691E",
+        "Jamaica": "#A0522D",
+        "Paraguay": "#00CED1",
+        "Tajikistan": "#BDB76B"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Central African Republic": [
+            8.97052477016374,
+            9.93357957807224,
+            10.854071266946,
+            10.471395496931,
+            10.7933190823624
+        ],
+        "Jamaica": [
+            29.0562962832103,
+            26.9625404840377,
+            22.6610920574856,
+            19.4053835001445,
+            21.9446116057106
+        ],
+        "Paraguay": [
+            1.16620784667994,
+            0.707038518436464,
+            0.0106798374293331,
+            -1.50884622155553,
+            -3.089711482316509
+        ],
+        "Tajikistan": [
+            -3.5121576889208,
+            -3.53266676520631,
+            -3.78661590509418,
+            -4.2250066397255,
+            -6.684401417482951
+        ]
+    },
+    "colors": {
+        "Central African Republic": "#D2691E",
+        "Jamaica": "#A0522D",
+        "Paraguay": "#00CED1",
+        "Tajikistan": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

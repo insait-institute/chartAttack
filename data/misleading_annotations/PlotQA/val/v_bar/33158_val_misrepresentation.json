@@ -1,0 +1,58 @@
+{
+    "title": "Prevalence of severe wasting among children with age under 5 years in 2005",
+    "x_axis": {
+        "categories": [
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "South Asia",
+            "Sub-Saharan Africa (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Prevalence of severe wasting": "#8FBC8F"
+    },
+    "data": {
+        "Prevalence of severe wasting": [
+            2.379529,
+            2.82035802,
+            5.055874,
+            3.231381
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Prevalence of severe wasting": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

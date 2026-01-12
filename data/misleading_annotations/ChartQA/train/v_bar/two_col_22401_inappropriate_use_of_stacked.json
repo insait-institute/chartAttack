@@ -1,0 +1,92 @@
+{
+    "title": "Return on sales",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Return on sales"
+    },
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#f29100",
+        "2008": "#daf279",
+        "2009": "#30f200",
+        "2010": "#52a574",
+        "2011": "#00a5a5",
+        "2012": "#5274a5",
+        "2013": "#2100a5",
+        "2014": "#da79f2",
+        "2015": "#f20091"
+    },
+    "data": {
+        "2006": [
+            7.4
+        ],
+        "2007": [
+            7.8
+        ],
+        "2008": [
+            5.9
+        ],
+        "2009": [
+            4.6
+        ],
+        "2010": [
+            5.9
+        ],
+        "2011": [
+            6.7
+        ],
+        "2012": [
+            6.4
+        ],
+        "2013": [
+            7.9
+        ],
+        "2014": [
+            8.5
+        ],
+        "2015": [
+            9.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#f29100",
+        "2008": "#daf279",
+        "2009": "#30f200",
+        "2010": "#52a574",
+        "2011": "#00a5a5",
+        "2012": "#5274a5",
+        "2013": "#2100a5",
+        "2014": "#da79f2",
+        "2015": "#f20091"
+    }
+}

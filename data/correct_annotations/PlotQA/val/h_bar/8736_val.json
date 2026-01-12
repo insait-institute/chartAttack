@@ -1,0 +1,64 @@
+{
+    "title": "Mineral rent of different countries at the time of the survey in 1999",
+    "legend": {
+        "Euro area": "#B8860B",
+        "European Union": "#6B8E23",
+        "Iran": "#BEBEBE"
+    },
+    "categories": [
+        "Coal",
+        "Natural Gas",
+        "Oil",
+        "Other Minerals"
+    ],
+    "data": {
+        "Euro area": [
+            0.000106248915549003,
+            0.0638402776061728,
+            0.0157427250143707,
+            0.00024509609013583
+        ],
+        "European Union": [
+            7.968829103317441e-05,
+            0.104436653728847,
+            0.159089457999947,
+            0.00256019155097718
+        ],
+        "Iran": [
+            0.000455890791475561,
+            2.87024037989086,
+            17.9525696737787,
+            0.0431208598636504
+        ]
+    },
+    "colors": {
+        "Euro area": "#B8860B",
+        "European Union": "#6B8E23",
+        "Iran": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

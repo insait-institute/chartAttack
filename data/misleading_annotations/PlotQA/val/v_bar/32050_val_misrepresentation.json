@@ -1,0 +1,64 @@
+{
+    "title": "Long-term female unemployment in 2002",
+    "x_axis": {
+        "categories": [
+            "High income",
+            "High income: OECD",
+            "North America",
+            "OECD members",
+            "Australia",
+            "Austria"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Long-term unemployment female": "#008B8B"
+    },
+    "data": {
+        "Long-term unemployment female": [
+            25.9799796680502,
+            23.2569695342528,
+            8.130848318675058,
+            22.2058564472598,
+            18.3999996185303,
+            23.2999992370605
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Long-term unemployment female": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

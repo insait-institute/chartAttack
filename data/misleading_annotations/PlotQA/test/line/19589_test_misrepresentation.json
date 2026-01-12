@@ -1,0 +1,97 @@
+{
+    "title": "Amount received by the population participating in labor market programs in Chile",
+    "legend": {
+        "Social insurance": "#008B8B",
+        "Social Protection": "#32CD32",
+        "Unemployment benefits": "#BEBEBE"
+    },
+    "x_axis": [
+        "2006",
+        "2009",
+        "2011"
+    ],
+    "y_axis_label": "Adequacy of programs (% of total welfare of beneficiary households)",
+    "data": [
+        {
+            "label": "Social insurance",
+            "color": "#008B8B",
+            "values": [
+                27.8534808178373,
+                25.3552266155854,
+                26.48288509654761
+            ]
+        },
+        {
+            "label": "Social Protection",
+            "color": "#32CD32",
+            "values": [
+                18.9283267826426,
+                17.6209796916985,
+                18.04547088517111
+            ]
+        },
+        {
+            "label": "Unemployment benefits",
+            "color": "#BEBEBE",
+            "values": [
+                3.53695108362944,
+                2.55474960900335,
+                0.494145325990916
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Social insurance",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "label": "Social Protection",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "label": "Unemployment benefits",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        }
+    ]
+}

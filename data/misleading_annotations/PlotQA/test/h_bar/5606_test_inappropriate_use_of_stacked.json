@@ -1,0 +1,67 @@
+{
+    "title": "Number of people participated in R&D projects in Mexico",
+    "legend": {
+        "1996": "#f27979",
+        "1997": "#f2f200",
+        "1998": "#79f279",
+        "1999": "#00a5a5",
+        "2000": "#5252a5",
+        "2001": "#a500a5"
+    },
+    "categories": [
+        "Number of people participated in R&D projects in Mexico"
+    ],
+    "data": {
+        "1996": [
+            206.83766
+        ],
+        "1997": [
+            218.70635
+        ],
+        "1998": [
+            209.08882
+        ],
+        "1999": [
+            216.05353
+        ],
+        "2000": [
+            216.20761
+        ],
+        "2001": [
+            224.38993
+        ]
+    },
+    "colors": {
+        "1996": "#f27979",
+        "1997": "#f2f200",
+        "1998": "#79f279",
+        "1999": "#00a5a5",
+        "2000": "#5252a5",
+        "2001": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 230
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

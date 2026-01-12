@@ -1,0 +1,77 @@
+{
+    "title": "Refugee population by country or territory of asylum",
+    "legend": {
+        "1990": "#556B2F",
+        "1991": "#D2691E",
+        "1992": "#006400",
+        "1993": "#708090"
+    },
+    "categories": [
+        "Least developed countries",
+        "Low & middle income",
+        "Low income",
+        "Lower middle income",
+        "Middle East & North Africa (all income levels)"
+    ],
+    "data": {
+        "1990": [
+            5154454.0,
+            17641443.0,
+            3965732.0,
+            6976156.0,
+            6858896.0
+        ],
+        "1991": [
+            4544317.0,
+            17099622.0,
+            3587337.0,
+            6580889.0,
+            7452190.0
+        ],
+        "1992": [
+            4789360.0,
+            16713098.0,
+            3705996.0,
+            5928645.0,
+            7387352.0
+        ],
+        "1993": [
+            5414332.0,
+            15274672.0,
+            4205531.0,
+            5692830.0,
+            5887941.0
+        ]
+    },
+    "colors": {
+        "1990": "#556B2F",
+        "1991": "#D2691E",
+        "1992": "#006400",
+        "1993": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17641450
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

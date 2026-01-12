@@ -1,0 +1,56 @@
+{
+    "title": "Number of commercial bank branches and ATMs in different countries",
+    "legend": {
+        "Denmark": "#40E0D0",
+        "Samoa": "#32CD32",
+        "Tunisia": "#F4A460"
+    },
+    "categories": [
+        "Commercial bank branches",
+        "Automatic Teller Machines"
+    ],
+    "data": {
+        "Denmark": [
+            52.390267665442,
+            61.6571976728144
+        ],
+        "Samoa": [
+            9.52716671589036,
+            11.4326000590684
+        ],
+        "Tunisia": [
+            12.0280734117332,
+            5.715157305938691
+        ]
+    },
+    "colors": {
+        "Denmark": "#40E0D0",
+        "Samoa": "#32CD32",
+        "Tunisia": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

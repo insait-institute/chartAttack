@@ -1,0 +1,84 @@
+{
+    "title": "Net official aid flow (from UN agencies) in different countries in 2012",
+    "legend": {
+        "South Asia": "#BC8F8F",
+        "South Sudan": "#FF1493",
+        "Sudan": "#006400"
+    },
+    "categories": [
+        "UNPBF",
+        "WHO",
+        "WFP",
+        "UNDP"
+    ],
+    "data": {
+        "South Asia": [
+            270000,
+            15700000,
+            45630000,
+            65010000
+        ],
+        "South Sudan": [
+            1280000,
+            480000,
+            16230000,
+            3510000
+        ],
+        "Sudan": [
+            490000,
+            870000,
+            280000,
+            3140000
+        ]
+    },
+    "colors": {
+        "South Asia": "#BC8F8F",
+        "South Sudan": "#FF1493",
+        "Sudan": "#006400"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 65010000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "South Asia": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "South Sudan": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Sudan": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

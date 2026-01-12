@@ -1,0 +1,65 @@
+{
+    "title": "",
+    "legend": {
+        "Provinces": "#2876dd"
+    },
+    "categories": [
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Northwest Territories",
+        "Nova Scotia",
+        "Ontario",
+        "Prince Edward Island",
+        "Quebec",
+        "Saskatchewan",
+        "Yukon"
+    ],
+    "data": {
+        "Provinces": [
+            8295.71,
+            6685.02,
+            2512.25,
+            1043.67,
+            820.09,
+            328.69,
+            1473.86,
+            26947.59,
+            230.55,
+            13731.45,
+            2497.91,
+            132.51
+        ]
+    },
+    "colors": {
+        "Provinces": "#2876dd"
+    },
+    "y_label": "Expenditure in million Canadian dollars",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 26950
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

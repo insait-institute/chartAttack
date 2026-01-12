@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of population using sanitaion services",
+    "x_axis": {
+        "categories": [
+            "United States",
+            "Uruguay",
+            "Uzbekistan",
+            "Venezuela"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#663399",
+        "1991": "#87CEEB",
+        "1992": "#DB7093"
+    },
+    "data": {
+        "1990": [
+            99.5,
+            92.0,
+            83.7,
+            82.1
+        ],
+        "1991": [
+            99.5,
+            92.0,
+            83.7,
+            82.8
+        ],
+        "1992": [
+            99.6,
+            92.0,
+            83.6,
+            83.4
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Demand in million metric tons",
+    "x_axis": {
+        "categories": [
+            "2018",
+            "2019*",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*",
+            "2026*",
+            "2027*",
+            "2028*",
+            "2029*",
+            "2030*"
+        ]
+    },
+    "y_axis": {
+        "label": "Demand in million metric tons"
+    },
+    "legend": {
+        "2018-2030": "#2876dd"
+    },
+    "data": {
+        "2018-2030": [
+            41,
+            43,
+            44,
+            45,
+            46,
+            48,
+            49,
+            51,
+            52,
+            54,
+            55,
+            57,
+            59
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

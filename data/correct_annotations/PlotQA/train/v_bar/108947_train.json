@@ -1,0 +1,57 @@
+{
+    "title": "Prevalence of weight issues in children under 5 in different countries in 1978",
+    "x_axis": {
+        "categories": [
+            "Egypt, Arab Rep.",
+            "Haiti",
+            "Jamaica",
+            "Sri Lanka"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Overweight": "#483D8B",
+        "Low weight for height": "#8A2BE2"
+    },
+    "data": {
+        "Overweight": [
+            3.79999995231628,
+            1.5,
+            15.6000003814697,
+            0.200000002980232
+        ],
+        "Low weight for height": [
+            1.70000004768372,
+            10.6000003814697,
+            6.300000190734861,
+            6.599999904632571
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

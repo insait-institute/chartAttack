@@ -1,0 +1,72 @@
+{
+    "title": "Expenses (in %) made by the government on interest payments",
+    "legend": {
+        "Canada": "#6A5ACD",
+        "Cote d'Ivoire": "#F4A460",
+        "Iceland": "#8FBC8F",
+        "Serbia": "#ADFF2F"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Canada": [
+            5.022956841138661,
+            5.204345506964558,
+            5.087653169441499,
+            5.073888541014401
+        ],
+        "Cote d'Ivoire": [
+            8.00047764045615,
+            15.6341448042798,
+            15.012610405666,
+            10.6792893515826
+        ],
+        "Iceland": [
+            36.6121846623783,
+            9.83016440850585,
+            18.1140456851738,
+            12.3823331129445
+        ],
+        "Serbia": [
+            1.17555840300945,
+            0.9207796889879007,
+            0.986396034625338,
+            1.34211275198577
+        ]
+    },
+    "colors": {
+        "Canada": "#6A5ACD",
+        "Cote d'Ivoire": "#F4A460",
+        "Iceland": "#8FBC8F",
+        "Serbia": "#ADFF2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

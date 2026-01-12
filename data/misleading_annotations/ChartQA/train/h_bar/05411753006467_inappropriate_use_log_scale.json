@@ -1,0 +1,46 @@
+{
+    "title": "Projected mismanaged plastic waste in 2025",
+    "legend": {
+        "bars": "#2e5778"
+    },
+    "categories": [
+        "Dominican Republic",
+        "Ireland",
+        "Guadeloupe"
+    ],
+    "data": {
+        "bars": [
+            228671,
+            14045,
+            11502
+        ]
+    },
+    "colors": {
+        "bars": "#2e5778"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 228680
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Age dependency ratio",
+    "x_axis": {
+        "categories": [
+            "Kenya",
+            "Kiribati",
+            "Korea (Democratic)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#228B22",
+        "1961": "#A020F0",
+        "1962": "#FFA07A"
+    },
+    "data": {
+        "1960": [
+            100.464319906374,
+            95.9418361528227,
+            69.3228776908895
+        ],
+        "1961": [
+            102.889364534407,
+            97.8511235955056,
+            71.14842457557641
+        ],
+        "1962": [
+            104.907756788526,
+            99.00753537952579,
+            69.630556167585
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

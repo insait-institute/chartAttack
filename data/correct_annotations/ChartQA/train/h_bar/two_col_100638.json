@@ -1,0 +1,96 @@
+{
+    "title": "",
+    "legend": {
+        "Import value": "#2876dd"
+    },
+    "categories": [
+        "Austria",
+        "United States of America",
+        "France",
+        "Germany",
+        "Italy",
+        "Switzerland",
+        "Canada",
+        "Czech Republic",
+        "Norway",
+        "Russian Federation",
+        "Sweden",
+        "Japan",
+        "Netherlands",
+        "Spain",
+        "Finland",
+        "Poland",
+        "United Kingdom",
+        "Australia",
+        "Belgium",
+        "China",
+        "Slovakia",
+        "Korea, Republic of",
+        "Romania",
+        "Andorra",
+        "Slovenia",
+        "Denmark",
+        "Ukraine",
+        "New Zealand"
+    ],
+    "data": {
+        "Import value": [
+            163473,
+            149279,
+            94032,
+            71820,
+            71654,
+            60995,
+            45372,
+            32129,
+            32102,
+            26742,
+            23399,
+            22473,
+            15062,
+            13237,
+            12173,
+            10766,
+            7238,
+            6534,
+            6275,
+            5154,
+            4925,
+            4391,
+            3812,
+            3711,
+            3631,
+            2953,
+            2469,
+            2389
+        ]
+    },
+    "colors": {
+        "Import value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 163480
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

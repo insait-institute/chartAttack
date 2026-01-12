@@ -1,0 +1,61 @@
+{
+    "title": "Countrywise comparison of arm exports and imports in 1968",
+    "x_axis": {
+        "categories": [
+            "Arms exports",
+            "Arms imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "European Union": "#BA55D3",
+        "Austria": "#191970",
+        "Germany": "#556B2F",
+        "United Kingdom": "#8FBC8F"
+    },
+    "data": {
+        "European Union": [
+            4534000000,
+            6978000000
+        ],
+        "Austria": [
+            1000000,
+            1000000
+        ],
+        "Germany": [
+            588000000,
+            985000000
+        ],
+        "United Kingdom": [
+            1504000000,
+            2288000000
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6978000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

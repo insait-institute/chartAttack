@@ -1,0 +1,60 @@
+{
+    "title": "Value added in manufacturing in 1968",
+    "x_axis": {
+        "categories": [
+            "Malawi",
+            "Malaysia",
+            "Malta",
+            "Mauritius",
+            "Mozambique"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chemicals": "#556B2F",
+        "Food and tobacco": "#90EE90"
+    },
+    "data": {
+        "Chemicals": [
+            8.76921219867859,
+            8.178732433210161,
+            2.92861371733279,
+            2.81115739215298,
+            2.55102059525979
+        ],
+        "Food and tobacco": [
+            41.5561223667415,
+            53.81504579483911,
+            25.49483002912011,
+            28.0484622253032,
+            78.28458036664159
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

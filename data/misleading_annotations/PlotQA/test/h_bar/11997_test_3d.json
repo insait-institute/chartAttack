@@ -1,0 +1,62 @@
+{
+    "title": "Death rate and birth rate according to the survey of 1967",
+    "legend": {
+        "Luxembourg": "#228B22",
+        "Moldova": "#8B0000",
+        "Myanmar": "#90EE90",
+        "Namibia": "#5F9EA0"
+    },
+    "categories": [
+        "Death rate",
+        "Birth rate"
+    ],
+    "data": {
+        "Luxembourg": [
+            12.3,
+            14.8
+        ],
+        "Moldova": [
+            9.803,
+            20.94400000000001
+        ],
+        "Myanmar": [
+            16.788,
+            41.018
+        ],
+        "Namibia": [
+            15.612,
+            42.467
+        ]
+    },
+    "colors": {
+        "Luxembourg": "#228B22",
+        "Moldova": "#8B0000",
+        "Myanmar": "#90EE90",
+        "Namibia": "#5F9EA0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

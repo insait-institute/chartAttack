@@ -1,0 +1,57 @@
+{
+    "title": "Net enrollment of males recorded in primary and secondary education in year 2008",
+    "x_axis": {
+        "categories": [
+            "Kyrgyz Republic",
+            "Lao PDR",
+            "Latvia",
+            "Lebanon"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary": "#B8860B",
+        "Secondary": "#7FFFD4"
+    },
+    "data": {
+        "Primary": [
+            86.7903900146484,
+            87.1408233642578,
+            94.8663482666016,
+            91.7849807739258
+        ],
+        "Secondary": [
+            66.0298309326172,
+            35.9079704284667,
+            76.7267608642578,
+            66.230827331543
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

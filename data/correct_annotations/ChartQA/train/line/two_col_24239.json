@@ -1,0 +1,136 @@
+{
+    "title": "",
+    "legend": {
+        "Unemployment rate": "#2876dd"
+    },
+    "y_axis": {
+        "label": "Unemployment rate",
+        "ticks": [
+            "7.6%",
+            "6.4%",
+            "6.2%",
+            "5.3%",
+            "5.5%",
+            "4.6%",
+            "4.3%",
+            "4.5%",
+            "4%",
+            "4.7%",
+            "6.2%",
+            "5.8%",
+            "5%",
+            "4.7%",
+            "4.3%",
+            "3.8%",
+            "5.8%",
+            "9.7%",
+            "10.3%",
+            "9.4%",
+            "8.3%",
+            "7.8%",
+            "6.8%",
+            "6.1%",
+            "5.5%",
+            "4.9%",
+            "4.8%",
+            "4.9%",
+            "7.9%"
+        ]
+    },
+    "x_axis": [
+        "'92",
+        "'93",
+        "'94",
+        "'95",
+        "'96",
+        "'97",
+        "'98",
+        "'99",
+        "'00",
+        "'01",
+        "'02",
+        "'03",
+        "'04",
+        "'05",
+        "'06",
+        "'07",
+        "'08",
+        "'09",
+        "'10",
+        "'11",
+        "'12",
+        "'13",
+        "'14",
+        "'15",
+        "'16",
+        "'17",
+        "'18",
+        "'19",
+        "'20"
+    ],
+    "data": [
+        {
+            "label": "Unemployment rate",
+            "color": "#2876dd",
+            "values": [
+                7.6,
+                6.4,
+                6.2,
+                5.3,
+                5.5,
+                4.6,
+                4.3,
+                4.5,
+                4.0,
+                4.7,
+                6.2,
+                5.8,
+                5.0,
+                4.7,
+                4.3,
+                3.8,
+                5.8,
+                9.7,
+                10.3,
+                9.4,
+                8.3,
+                7.8,
+                6.8,
+                6.1,
+                5.5,
+                4.9,
+                4.8,
+                4.9,
+                7.9
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

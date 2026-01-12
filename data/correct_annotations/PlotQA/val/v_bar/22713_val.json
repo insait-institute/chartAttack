@@ -1,0 +1,57 @@
+{
+    "title": "Net taxes on products in different countries in different currencies",
+    "x_axis": {
+        "categories": [
+            "Argentina",
+            "Austria",
+            "Belgium",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "constant 2005 US$": "#DB7093",
+        "US$": "#663399"
+    },
+    "data": {
+        "constant 2005 US$": [
+            -1.00159e-05,
+            880550592.0,
+            1355605120.0,
+            0.0033100001
+        ],
+        "US$": [
+            -476947.611103739,
+            466024623.54286,
+            1093699502.26758,
+            4100223963.8883
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4100223970
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

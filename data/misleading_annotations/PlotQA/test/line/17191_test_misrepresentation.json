@@ -1,0 +1,84 @@
+{
+    "title": "Total expenditure of government of European Union in healthcare and R&D projects",
+    "legend": {
+        "Health": "#9ACD32",
+        "Research and Development": "#8B0000"
+    },
+    "x_axis": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Expenditure(as % of GDP)",
+    "data": [
+        {
+            "label": "Health",
+            "color": "#9ACD32",
+            "values": [
+                8.483379709242799,
+                8.47699910337471,
+                8.57031436163204,
+                8.54331405745268
+            ]
+        },
+        {
+            "label": "Research and Development",
+            "color": "#8B0000",
+            "values": [
+                1.69651641623822,
+                1.77907577740208,
+                1.74546779841743,
+                1.80290198431793
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Health",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Research and Development",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

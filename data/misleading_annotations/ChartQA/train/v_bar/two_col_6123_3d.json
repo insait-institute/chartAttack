@@ -1,0 +1,74 @@
+{
+    "title": "Gross profit (in billion U.S. dollars)",
+    "x_axis": {
+        "categories": [
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021"
+        ]
+    },
+    "y_axis": {
+        "label": "Gross profit (in billion U.S. dollars)"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            1.33,
+            1.43,
+            1.65,
+            1.5,
+            1.39,
+            1.68,
+            2.04,
+            1.94,
+            1.86,
+            1.78,
+            1.8,
+            2.01,
+            2.27,
+            2.37,
+            2.42,
+            2.56
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

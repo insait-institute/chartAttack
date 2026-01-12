@@ -1,0 +1,68 @@
+{
+    "title": "Net bilateral aid flow from DA Committee",
+    "x_axis": {
+        "categories": [
+            "Brazil",
+            "Burundi",
+            "Cambodia",
+            "Cameroon",
+            "Chile"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00FF7F",
+        "1961": "#006400",
+        "1962": "#FF4500"
+    },
+    "data": {
+        "1960": [
+            40300000.0,
+            7510000.0,
+            26830000.0,
+            320000.0,
+            16460000.0
+        ],
+        "1961": [
+            290920000.0,
+            7170000.0,
+            24520000.0,
+            6760000.0,
+            123900000.0
+        ],
+        "1962": [
+            178580000.0,
+            10810000.0,
+            21180000.0,
+            8250000.0,
+            131800000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 290920000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

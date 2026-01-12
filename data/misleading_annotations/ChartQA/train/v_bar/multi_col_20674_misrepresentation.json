@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of votes",
+    "x_axis": {
+        "categories": [
+            "Gay, lesbian, bisexual, transgender",
+            "Straight"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of votes"
+    },
+    "legend": {
+        "Hillary Clinton": "#4080FF",
+        "Donald Trump": "#FF0000"
+    },
+    "data": {
+        "Hillary Clinton": [
+            45,
+            64
+        ],
+        "Donald Trump": [
+            50,
+            31
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Hillary Clinton": [
+            1.75,
+            0.25
+        ],
+        "Donald Trump": [
+            1.75,
+            0.25
+        ]
+    }
+}

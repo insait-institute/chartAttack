@@ -1,0 +1,64 @@
+{
+    "title": "Ratio of government expenditure to GDP",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*",
+            "2026*"
+        ]
+    },
+    "y_axis": {
+        "label": "Ratio of government expenditure to GDP"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            22.09,
+            22.17,
+            22.97,
+            22.11,
+            28.61,
+            26.96,
+            23.84,
+            23.14,
+            22.46,
+            22.21,
+            22.26
+        ]
+    },
+    "type": "v_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

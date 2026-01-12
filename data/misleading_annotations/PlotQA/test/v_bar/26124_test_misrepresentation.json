@@ -1,0 +1,91 @@
+{
+    "title": "Female life expectancy at birth in countries",
+    "x_axis": {
+        "categories": [
+            "Iraq",
+            "Ireland",
+            "Italy",
+            "Jamaica",
+            "Japan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FF8C00",
+        "1961": "#00BFFF",
+        "1962": "#BC8F8F"
+    },
+    "data": {
+        "1960": [
+            47.56100000000001,
+            71.571,
+            71.69,
+            66.131,
+            70.14
+        ],
+        "1961": [
+            48.68,
+            71.831,
+            72.48,
+            66.704,
+            70.83
+        ],
+        "1962": [
+            49.815,
+            72.063,
+            71.89,
+            67.221,
+            71.12
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Global emissions of Sulfur hexafluoride",
+    "x_axis": {
+        "categories": [
+            "South Africa",
+            "Spain",
+            "Sweden",
+            "Switzerland",
+            "Thailand",
+            "Turkey"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#2E8B57",
+        "2000": "#FF0000",
+        "2005": "#D2691E",
+        "2008": "#8FBC8F"
+    },
+    "data": {
+        "1990": [
+            1053.9,
+            408.3,
+            173.5,
+            586.8,
+            1429.5,
+            2027.1
+        ],
+        "2000": [
+            1015.4,
+            2456.5,
+            194.0,
+            293.1,
+            453.1,
+            989.2
+        ],
+        "2005": [
+            1519.7,
+            743.8,
+            214.2,
+            348.7,
+            1103.9,
+            1602.2
+        ],
+        "2008": [
+            1743.6,
+            893.4,
+            168.1,
+            448.3,
+            1274.5,
+            1898.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2460
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

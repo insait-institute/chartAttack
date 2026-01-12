@@ -1,0 +1,61 @@
+{
+    "title": "Gross Domestic Product of different countries in the year 1964",
+    "legend": {
+        "Botswana": "#66CDAA",
+        "Burundi": "#8FBC8F",
+        "Iceland": "#F0E68C",
+        "Turkey": "#DAA520"
+    },
+    "categories": [
+        "GDP at market prices",
+        "GDP per capita"
+    ],
+    "data": {
+        "Botswana": [
+            255436050.708294,
+            440.741339478732
+        ],
+        "Burundi": [
+            426491450.078644,
+            141.599448491012
+        ],
+        "Iceland": [
+            3628512901.78207,
+            19200.2079646427
+        ],
+        "Turkey": [
+            79386799666.342,
+            2620.63449991785
+        ]
+    },
+    "colors": {
+        "Botswana": "#66CDAA",
+        "Burundi": "#8FBC8F",
+        "Iceland": "#F0E68C",
+        "Turkey": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 79386799670
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

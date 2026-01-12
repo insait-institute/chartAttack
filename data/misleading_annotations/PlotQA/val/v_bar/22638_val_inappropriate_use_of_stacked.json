@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of firms in different countries offering various services in 2002",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Insurance services": "#f27979",
+        "Offering training": "#79f200",
+        "Payroll services": "#52a5a5",
+        "Quality Certification": "#5200a5"
+    },
+    "data": {
+        "Insurance services": [
+            48.1
+        ],
+        "Offering training": [
+            21.4
+        ],
+        "Payroll services": [
+            66.3
+        ],
+        "Quality Certification": [
+            9.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Insurance services": "#f27979",
+        "Offering training": "#79f200",
+        "Payroll services": "#52a5a5",
+        "Quality Certification": "#5200a5"
+    }
+}

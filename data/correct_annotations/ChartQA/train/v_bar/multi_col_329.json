@@ -1,0 +1,114 @@
+{
+    "title": "Sponsorship spending in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018**"
+        ]
+    },
+    "y_axis": {
+        "label": "Sponsorship spending in billion U.S. dollars"
+    },
+    "legend": {
+        "All other countries": "#2876dd",
+        "Central / South America": "#0f283e",
+        "Asia Pacific": "#bababa",
+        "Europe": "#a60b0b",
+        "North America": "#87bc24"
+    },
+    "data": {
+        "All other countries": [
+            1.9,
+            2,
+            2.1,
+            2.2,
+            2.3,
+            2.4,
+            2.5,
+            2.6,
+            2.7,
+            2.8
+        ],
+        "Central / South America": [
+            3.5,
+            3.6,
+            3.7,
+            3.9,
+            4,
+            4.2,
+            4.3,
+            4.4,
+            4.5,
+            4.6
+        ],
+        "Asia Pacific": [
+            10,
+            10.6,
+            11.2,
+            12,
+            12.6,
+            13.3,
+            14,
+            14.8,
+            15.7,
+            16.6
+        ],
+        "Europe": [
+            12.1,
+            12.9,
+            13.5,
+            14.1,
+            14.5,
+            14.8,
+            15.3,
+            16,
+            16.7,
+            17.6
+        ],
+        "North America": [
+            16.5,
+            17.2,
+            18.1,
+            18.9,
+            19.8,
+            20.6,
+            21.4,
+            22.3,
+            23.1,
+            24.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

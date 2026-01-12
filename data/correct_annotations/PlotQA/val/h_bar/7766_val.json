@@ -1,0 +1,64 @@
+{
+    "title": "Net bilateral aid flow in 2010 from different donors of DA Committee",
+    "legend": {
+        "World": "#DB7093",
+        "Cameroon": "#DC143C",
+        "Dominican Republic": "#7FFFD4"
+    },
+    "categories": [
+        "Austria",
+        "Belgium",
+        "Denmark",
+        "Korea"
+    ],
+    "data": {
+        "World": [
+            612430000,
+            2051410000,
+            2108740000,
+            900610000
+        ],
+        "Cameroon": [
+            340000,
+            4250000,
+            210000,
+            2570000
+        ],
+        "Dominican Republic": [
+            20000,
+            870000,
+            70000,
+            2740000
+        ]
+    },
+    "colors": {
+        "World": "#DB7093",
+        "Cameroon": "#DC143C",
+        "Dominican Republic": "#7FFFD4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2108740000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

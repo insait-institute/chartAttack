@@ -1,0 +1,90 @@
+{
+    "title": "",
+    "legend": {
+        "Country Scores": "#2876dd"
+    },
+    "categories": [
+        "Barbados",
+        "Ecuador",
+        "Honduras",
+        "Panama",
+        "Bolivia",
+        "Bahamas",
+        "Costa Rica",
+        "Jamaica",
+        "Peru",
+        "Paraguay",
+        "Uruguay",
+        "El Salvador",
+        "Brazil",
+        "Suriname",
+        "Belize",
+        "Argentina",
+        "Chile",
+        "Trinidad and Tobago",
+        "Colombia",
+        "Dominican Republic",
+        "Mexico",
+        "Guatemala",
+        "Nicaragua",
+        "Venezuela",
+        "Guyana"
+    ],
+    "data": {
+        "Country Scores": [
+            0.87,
+            0.72,
+            0.69,
+            0.67,
+            0.67,
+            0.66,
+            0.65,
+            0.63,
+            0.63,
+            0.61,
+            0.61,
+            0.61,
+            0.57,
+            0.57,
+            0.56,
+            0.55,
+            0.55,
+            0.54,
+            0.54,
+            0.52,
+            0.51,
+            0.47,
+            0.46,
+            0.43,
+            0.39
+        ]
+    },
+    "colors": {
+        "Country Scores": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

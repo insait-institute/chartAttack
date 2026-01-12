@@ -1,0 +1,52 @@
+{
+    "title": "Investment in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Investment in million U.S. dollars"
+    },
+    "legend": {
+        "Investment": "#2876dd"
+    },
+    "data": {
+        "Investment": [
+            17757,
+            11636,
+            15568,
+            17449,
+            12989
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17760
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

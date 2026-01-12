@@ -1,0 +1,67 @@
+{
+    "title": "Proportion of the male population (ages 15-24) that is economically active",
+    "legend": {
+        "Israel": "#f27979",
+        "Italy": "#f2f200",
+        "Japan": "#79f279",
+        "Korea (Republic)": "#00a5a5",
+        "Netherlands": "#5252a5",
+        "Norway": "#a500a5"
+    },
+    "categories": [
+        "Proportion of the male population (ages 15-24) that is economically active"
+    ],
+    "data": {
+        "Israel": [
+            31.2000007629395
+        ],
+        "Italy": [
+            49.4000015258789
+        ],
+        "Japan": [
+            42.9000015258789
+        ],
+        "Korea (Republic)": [
+            46.4000015258789
+        ],
+        "Netherlands": [
+            49.4000015258789
+        ],
+        "Norway": [
+            65.099998474121
+        ]
+    },
+    "colors": {
+        "Israel": "#f27979",
+        "Italy": "#f2f200",
+        "Japan": "#79f279",
+        "Korea (Republic)": "#00a5a5",
+        "Netherlands": "#5252a5",
+        "Norway": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

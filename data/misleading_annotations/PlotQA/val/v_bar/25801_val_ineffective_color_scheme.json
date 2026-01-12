@@ -1,0 +1,61 @@
+{
+    "title": "Share of expenditures made in public institutions in 2001",
+    "x_axis": {
+        "categories": [
+            "All education staff compensation",
+            "Current education expenditure"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Finland": "#ffd700",
+        "Ireland": "#feff00",
+        "Panama": "#d7ff0a"
+    },
+    "data": {
+        "Finland": [
+            59.9794006347656,
+            92.2831268310547
+        ],
+        "Ireland": [
+            67.9654693603516,
+            87.3647003173828
+        ],
+        "Panama": [
+            61.5537300109863,
+            96.5690231323242
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Finland": "#ffd700",
+        "Ireland": "#feff00",
+        "Panama": "#d7ff0a"
+    }
+}

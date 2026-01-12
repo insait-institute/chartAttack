@@ -1,0 +1,56 @@
+{
+    "title": "Different expenses of government of different countries in 2006",
+    "legend": {
+        "Hungary": "#F0E68C",
+        "Macedonia": "#66CDAA"
+    },
+    "categories": [
+        "Salary of employees",
+        "Custom duties",
+        "Interest Payments",
+        "Other expenses"
+    ],
+    "data": {
+        "Hungary": [
+            1405498000000,
+            -195000000,
+            917056000000,
+            10474810000000
+        ],
+        "Macedonia": [
+            23917514918.5,
+            5397238666.0,
+            3140066325.33,
+            98983464608.33
+        ]
+    },
+    "colors": {
+        "Hungary": "#F0E68C",
+        "Macedonia": "#66CDAA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10474810000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

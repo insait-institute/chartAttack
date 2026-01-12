@@ -1,0 +1,139 @@
+{
+    "title": "Total electricity produced from different non-renewable sources in Portugal",
+    "legend": {
+        "Coal sources": "#FF7F50",
+        "Natural gas sources": "#9ACD32",
+        "Oil sources": "#8B4513"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Coal sources",
+            "color": "#FF7F50",
+            "values": [
+                33.865166466845,
+                29.5052850459193,
+                33.3231106243154,
+                31.22675780830161,
+                33.1452026680349,
+                32.9652723651165,
+                30.79298418972331,
+                26.4372227908564,
+                24.62228673220289
+            ]
+        },
+        {
+            "label": "Natural gas sources",
+            "color": "#9ACD32",
+            "values": [
+                16.457622429217,
+                15.6212094957546,
+                19.7962760131435,
+                16.6376475140259,
+                26.0758025297254,
+                29.4578678444618,
+                25.4096673254282,
+                27.9853292391675,
+                33.4256998966374
+            ]
+        },
+        {
+            "label": "Oil sources",
+            "color": "#8B4513",
+            "values": [
+                19.4157520981278,
+                20.2261306532663,
+                24.9879518072289,
+                13.4842329270652,
+                12.7110892988601,
+                19.0330821858491,
+                10.8016304347826,
+                10.384680996247,
+                9.122297728222383
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Coal sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Natural gas sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Oil sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        }
+    ]
+}

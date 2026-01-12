@@ -1,0 +1,95 @@
+{
+    "title": "Amount of ores,manufactures and fuel imports of Israel",
+    "legend": {
+        "Ores and metals": "#556B2F",
+        "Manufactures": "#4B0082",
+        "Fuel": "#00FF7F"
+    },
+    "x_axis": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "y_axis_label": "Amount of imports(as % of merchandise imports)",
+    "data": [
+        {
+            "label": "Ores and metals",
+            "color": "#556B2F",
+            "values": [
+                2.28836034967603,
+                1.99737054720748,
+                2.2111900610224,
+                2.33751172962891,
+                2.05348796902055,
+                2.00289862438483,
+                1.87958953985877,
+                1.68525728608896,
+                1.90037587459208
+            ]
+        },
+        {
+            "label": "Manufactures",
+            "color": "#4B0082",
+            "values": [
+                82.09094339436041,
+                82.29472623151071,
+                81.1349815508794,
+                82.41659623396521,
+                83.4297418856852,
+                81.2325684744464,
+                81.2532314134036,
+                81.2929512235333,
+                79.3020159343475
+            ]
+        },
+        {
+            "label": "Fuel",
+            "color": "#00FF7F",
+            "values": [
+                5.9777098406025,
+                6.096526846750491,
+                7.850568970322207,
+                6.60627671093416,
+                6.83594538950866,
+                9.8274557228779,
+                9.34421393219056,
+                9.270035586274698,
+                10.8453867618588
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

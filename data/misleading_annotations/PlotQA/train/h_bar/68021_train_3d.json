@@ -1,0 +1,77 @@
+{
+    "title": "Emissions caused as the side-product of greenhouse gases",
+    "legend": {
+        "Argentina": "#E9967A",
+        "Hong Kong": "#40E0D0",
+        "Slovak Republic": "#B03060",
+        "United Kingdom": "#20B2AA"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "data": {
+        "Argentina": [
+            2296.5,
+            408.8,
+            664.9,
+            872.4,
+            1084.0
+        ],
+        "Hong Kong": [
+            379.0,
+            155.3,
+            119.0,
+            137.4,
+            150.0
+        ],
+        "Slovak Republic": [
+            68.3,
+            185.6,
+            391.3,
+            525.8,
+            1576.0
+        ],
+        "United Kingdom": [
+            5244.2,
+            8376.7,
+            10189.0,
+            12797.3,
+            14291.0
+        ]
+    },
+    "colors": {
+        "Argentina": "#E9967A",
+        "Hong Kong": "#40E0D0",
+        "Slovak Republic": "#B03060",
+        "United Kingdom": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 14300
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

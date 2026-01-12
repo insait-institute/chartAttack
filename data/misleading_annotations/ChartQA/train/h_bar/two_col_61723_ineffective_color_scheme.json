@@ -1,0 +1,79 @@
+{
+    "title": "Voter turnout",
+    "categories": [
+        "Brest Oblast",
+        "Mogilev Oblast",
+        "Gomel Oblast",
+        "Grodno Oblast",
+        "Minsk Oblast",
+        "Belarus on average",
+        "Vitebsk Oblast",
+        "Minsk"
+    ],
+    "data": {
+        "turnout": [
+            92.14,
+            90.96,
+            89.81,
+            88.62,
+            84.81,
+            84.17,
+            82.73,
+            66.45
+        ]
+    },
+    "colors": {
+        "Brest Oblast": "#2876dd",
+        "Mogilev Oblast": "#2876dd",
+        "Gomel Oblast": "#2876dd",
+        "Grodno Oblast": "#2876dd",
+        "Minsk Oblast": "#2876dd",
+        "Belarus on average": "#808080",
+        "Vitebsk Oblast": "#2876dd",
+        "Minsk": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Brest Oblast": "#2876dd",
+        "Mogilev Oblast": "#286bdd",
+        "Gomel Oblast": "#3167de",
+        "Grodno Oblast": "#2551d6",
+        "Minsk Oblast": "#3758e2",
+        "Belarus on average": "#233acd",
+        "Vitebsk Oblast": "#3e4ae6",
+        "Minsk": "#2426c2"
+    },
+    "color": {
+        "Brest Oblast": "#2876dd",
+        "Mogilev Oblast": "#286bdd",
+        "Gomel Oblast": "#3167de",
+        "Grodno Oblast": "#2551d6",
+        "Minsk Oblast": "#3758e2",
+        "Belarus on average": "#233acd",
+        "Vitebsk Oblast": "#3e4ae6",
+        "Minsk": "#2426c2"
+    }
+}

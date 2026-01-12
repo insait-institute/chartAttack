@@ -1,0 +1,63 @@
+{
+    "title": "Percentage of votes",
+    "x_axis": {
+        "categories": [
+            "18 to 24 years",
+            "25 to 29 years",
+            "30 to 39 years",
+            "40 to 49 years",
+            "50 to 64 years",
+            "65 years and older"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of votes"
+    },
+    "legend": {
+        "Hillary Clinton": "#4080FF",
+        "Donald Trump": "#FF0000"
+    },
+    "data": {
+        "Hillary Clinton": [
+            56,
+            53,
+            51,
+            46,
+            44,
+            45
+        ],
+        "Donald Trump": [
+            35,
+            39,
+            40,
+            50,
+            53,
+            53
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

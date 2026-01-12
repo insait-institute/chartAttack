@@ -1,0 +1,63 @@
+{
+    "title": "Earnings from tourism in West Bank and Gaza",
+    "legend": {
+        "National Visitors": "#a52a2a",
+        "International Visitors": "#a5482a"
+    },
+    "categories": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "data": {
+        "National Visitors": [
+            242000000,
+            239000000,
+            346000000,
+            377000000,
+            283000000
+        ],
+        "International Visitors": [
+            191000000,
+            218000000,
+            287000000,
+            294000000,
+            316000000
+        ]
+    },
+    "colors": {
+        "National Visitors": "#A52A2A",
+        "International Visitors": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 377000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "National Visitors": "#a52a2a",
+        "International Visitors": "#a5482a"
+    }
+}

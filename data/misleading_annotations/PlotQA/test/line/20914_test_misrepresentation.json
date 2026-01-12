@@ -1,0 +1,160 @@
+{
+    "title": "Amount collected by government from different taxes in Belarus",
+    "legend": {
+        "Taxes on revenue": "#5F9EA0",
+        "Taxes on exports": "#90EE90",
+        "Taxes on goods and services": "#E9967A",
+        "Taxes on income": "#00FF00"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Taxes (in $)",
+    "data": [
+        {
+            "label": "Taxes on revenue",
+            "color": "#5F9EA0",
+            "values": [
+                120156100000,
+                504519800000,
+                1518470000000,
+                2705580000000,
+                3711910000000,
+                6467626400000,
+                9184167000000,
+                13110797000000
+            ]
+        },
+        {
+            "label": "Taxes on exports",
+            "color": "#90EE90",
+            "values": [
+                288102000000,
+                490454000000,
+                606211000000,
+                4420411000000,
+                8139148000000,
+                5637208000000,
+                1655547539000,
+                7125500000000
+            ]
+        },
+        {
+            "label": "Taxes on goods and services",
+            "color": "#E9967A",
+            "values": [
+                77577500000,
+                329424700000,
+                1016560000000,
+                1782420000000,
+                2510790000000,
+                3701894000000,
+                5439910000000,
+                7380474000000
+            ]
+        },
+        {
+            "label": "Taxes on income",
+            "color": "#00FF00",
+            "values": [
+                21137200000,
+                93152800000,
+                287010000000,
+                468620000000,
+                457170000000,
+                687844000000,
+                1153310000000,
+                1756519000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 21137200000,
+                "max_value": 13110797000000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Taxes on revenue",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Taxes on exports",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Taxes on goods and services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Taxes on income",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Net official aid flow in an economy from UNHCR",
+    "legend": {
+        "Europe(developing only)": "#00CED1",
+        "Low & middle income": "#66CDAA",
+        "Algeria": "#663399",
+        "Papua New Guinea": "#8B4513"
+    },
+    "categories": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "Europe(developing only)": [
+            14280000,
+            135910000,
+            106570000,
+            90800000
+        ],
+        "Low & middle income": [
+            255630000,
+            491780000,
+            541080000,
+            628610000
+        ],
+        "Algeria": [
+            3340000.0,
+            3070000.0,
+            3500000.0,
+            4090000.0
+        ],
+        "Papua New Guinea": [
+            110000.0,
+            160000.0,
+            400000.0,
+            150000.0
+        ]
+    },
+    "colors": {
+        "Europe(developing only)": "#00CED1",
+        "Low & middle income": "#66CDAA",
+        "Algeria": "#663399",
+        "Papua New Guinea": "#8B4513"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 628610000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Percentage of newborns who have received the vaccination for tetanus",
+    "legend": {
+        "1980": "#FF69B4",
+        "1981": "#4B0082",
+        "1982": "#F0E68C",
+        "1983": "#9ACD32"
+    },
+    "categories": [
+        "Iran",
+        "Iraq",
+        "Kuwait",
+        "Malaysia",
+        "Maldives",
+        "Mauritius"
+    ],
+    "data": {
+        "1980": [
+            1.0,
+            4.0,
+            6.0,
+            20.0,
+            8.0,
+            1.0
+        ],
+        "1981": [
+            2.0,
+            5.0,
+            28.0,
+            22.0,
+            4.0,
+            1.0
+        ],
+        "1982": [
+            4.0,
+            4.0,
+            28.0,
+            21.0,
+            28.0,
+            1.0
+        ],
+        "1983": [
+            5.0,
+            4.0,
+            29.0,
+            23.0,
+            20.0,
+            1.0
+        ]
+    },
+    "colors": {
+        "1980": "#FF69B4",
+        "1981": "#4B0082",
+        "1982": "#F0E68C",
+        "1983": "#9ACD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

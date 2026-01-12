@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of food imported from different countries",
+    "x_axis": {
+        "categories": [
+            "High income",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "North America"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#4682B4",
+        "1963": "#FF1493",
+        "1964": "#8B0000",
+        "1965": "#FF0000"
+    },
+    "data": {
+        "1962": [
+            21.9120213590718,
+            21.9183589060947,
+            10.3647520944372,
+            9.697666974462098,
+            21.6873601232926
+        ],
+        "1963": [
+            21.2253574199818,
+            21.08686035897961,
+            11.2982380876268,
+            10.7430060079791,
+            21.7711586037454
+        ],
+        "1964": [
+            20.0246763441652,
+            19.7954552073632,
+            11.3295762823561,
+            10.7395396000043,
+            20.6103885787943
+        ],
+        "1965": [
+            19.3551434796437,
+            19.161342464016,
+            10.26445255644381,
+            9.61678790076386,
+            18.0735772165182
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

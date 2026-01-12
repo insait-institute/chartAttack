@@ -1,0 +1,76 @@
+{
+    "title": "Total male labor force participation rate for ages 60+",
+    "x_axis": {
+        "categories": [
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "North America",
+            "OECD members"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#0000FF",
+        "1991": "#006400",
+        "1992": "#B8860B",
+        "1993": "#BA55D3"
+    },
+    "data": {
+        "1990": [
+            79.22390074145001,
+            78.8588095237297,
+            85.778901235439,
+            84.45200806219059,
+            81.72149229996721
+        ],
+        "1991": [
+            78.96274447635041,
+            78.5723668813355,
+            85.70726043704741,
+            83.8104023638497,
+            81.758876617748
+        ],
+        "1992": [
+            78.330063646246,
+            77.845618890203,
+            85.6164869988956,
+            83.6859071663481,
+            81.4298814886543
+        ],
+        "1993": [
+            78.695956081968,
+            78.27887862581191,
+            85.5044564280075,
+            83.38633238812321,
+            81.1410125553469
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

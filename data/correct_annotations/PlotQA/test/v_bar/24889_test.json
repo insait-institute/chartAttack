@@ -1,0 +1,72 @@
+{
+    "title": "Number of secure internet servers",
+    "x_axis": {
+        "categories": [
+            "Bulgaria",
+            "Cambodia",
+            "Canada",
+            "Chile",
+            "China",
+            "Colombia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2001": "#8B4513",
+        "2003": "#FF4500",
+        "2004": "#8A2BE2"
+    },
+    "data": {
+        "2001": [
+            2.24431011278656,
+            0.160657010055763,
+            162.634845360161,
+            9.180633057389107,
+            0.14467114832724,
+            1.73217589177599
+        ],
+        "2003": [
+            3.067658355400241,
+            0.0775120672724131,
+            340.478595782296,
+            14.813149601113,
+            0.141260478112387,
+            2.4909763196641
+        ],
+        "2004": [
+            5.911714203060441,
+            0.152528146400176,
+            482.606657290202,
+            17.2184975176771,
+            0.226067164323052,
+            3.72154797577399
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 490
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

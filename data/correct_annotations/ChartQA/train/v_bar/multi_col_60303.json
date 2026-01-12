@@ -1,0 +1,54 @@
+{
+    "title": "Rate of per 100 persons",
+    "x_axis": {
+        "categories": [
+            "All",
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": "Rate of per 100 persons"
+    },
+    "legend": {
+        "Cocaine": "#2876dd",
+        "Heroin": "#0f283e"
+    },
+    "data": {
+        "Cocaine": [
+            0.8,
+            0.5,
+            1.1
+        ],
+        "Heroin": [
+            0.2,
+            0.1,
+            0.3
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

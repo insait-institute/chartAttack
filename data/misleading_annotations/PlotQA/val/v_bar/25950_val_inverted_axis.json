@@ -1,0 +1,68 @@
+{
+    "title": "Value added by agricultural sector in current LCU",
+    "x_axis": {
+        "categories": [
+            "Algeria",
+            "Bangladesh",
+            "Benin",
+            "Botswana",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#8B008B",
+        "1961": "#FFA07A",
+        "1962": "#F0E68C"
+    },
+    "data": {
+        "1960": [
+            2498526500.0,
+            11793436700.0,
+            25600018400.0,
+            9376400.0,
+            0.0001820725
+        ],
+        "1961": [
+            2141594000.0,
+            13409423400.0,
+            26700013600.0,
+            9859000.0,
+            0.0002551016
+        ],
+        "1962": [
+            1784661600.0,
+            13907277800.0,
+            25900009500.0,
+            10341600.0,
+            0.0004361738
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 26700013600
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

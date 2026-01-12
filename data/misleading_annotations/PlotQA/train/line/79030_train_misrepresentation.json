@@ -1,0 +1,84 @@
+{
+    "title": "Net Official Development Assistance received by Central African Republic",
+    "legend": {
+        "% of GNI": "#9ACD32",
+        "% of gross capital formation": "#708090"
+    },
+    "x_axis": [
+        "1970",
+        "1971",
+        "1972",
+        "1973"
+    ],
+    "y_axis_label": "ODA received (in %)",
+    "data": [
+        {
+            "label": "% of GNI",
+            "color": "#9ACD32",
+            "values": [
+                7.67725235963784,
+                7.81638185877836,
+                11.2376142159837,
+                9.54926141233843
+            ]
+        },
+        {
+            "label": "% of gross capital formation",
+            "color": "#708090",
+            "values": [
+                42.2837967981601,
+                41.1710935084498,
+                60.4159612991537,
+                45.28541952171039
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "% of GNI",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "% of gross capital formation",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

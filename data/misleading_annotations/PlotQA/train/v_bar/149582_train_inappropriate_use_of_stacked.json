@@ -1,0 +1,72 @@
+{
+    "title": "Number of usable tractors in agriculture in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cuba": "#f27979",
+        "Cyprus": "#f2f200",
+        "Czech Republic": "#79f279",
+        "Denmark": "#00a5a5",
+        "Djibouti": "#5252a5",
+        "Dominican Republic": "#a500a5"
+    },
+    "data": {
+        "Cuba": [
+            75887.0
+        ],
+        "Cyprus": [
+            14309.0
+        ],
+        "Czech Republic": [
+            96716.0
+        ],
+        "Denmark": [
+            123221.0
+        ],
+        "Djibouti": [
+            8.0
+        ],
+        "Dominican Republic": [
+            1868.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 123230
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Cuba": "#f27979",
+        "Cyprus": "#f2f200",
+        "Czech Republic": "#79f279",
+        "Denmark": "#00a5a5",
+        "Djibouti": "#5252a5",
+        "Dominican Republic": "#a500a5"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in North Africa",
+    "x_axis": {
+        "categories": [
+            "Tanzania",
+            "Thailand",
+            "Tunisia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00bfff",
+        "1961": "#0096ff",
+        "1962": "#0a73ff"
+    },
+    "data": {
+        "1960": [
+            0.324254215304799,
+            2.38233585124927,
+            11.5481171548117
+        ],
+        "1961": [
+            0.289435600578871,
+            0.9018036072144292,
+            4.44242973708069
+        ],
+        "1962": [
+            0.5427408412483039,
+            0.729356603282105,
+            3.457216940363009
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#00bfff",
+        "1961": "#0096ff",
+        "1962": "#0a73ff"
+    }
+}

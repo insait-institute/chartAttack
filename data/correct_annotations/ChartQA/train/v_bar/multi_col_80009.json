@@ -1,0 +1,120 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Canada": "#2876dd",
+        "Europe": "#0f283e",
+        "Middle East": "#bababa",
+        "United States": "#a60b0b",
+        "Africa": "#87bc24",
+        "Other countries": "#ebb523"
+    },
+    "data": {
+        "Canada": [
+            299,
+            431,
+            747,
+            752,
+            185,
+            145,
+            224,
+            21,
+            39
+        ],
+        "Europe": [
+            519,
+            582,
+            575,
+            624,
+            495,
+            498,
+            480,
+            989,
+            1058
+        ],
+        "Middle East": [
+            701,
+            568,
+            590,
+            707,
+            786,
+            849,
+            836,
+            884,
+            1027
+        ],
+        "United States": [
+            1979,
+            2118,
+            2470,
+            2324,
+            2212,
+            2111,
+            1986,
+            2260,
+            2705
+        ],
+        "Africa": [
+            2079,
+            1610,
+            593,
+            251,
+            164,
+            111,
+            121,
+            133,
+            197
+        ],
+        "Other countries": [
+            133,
+            106,
+            73,
+            328,
+            418,
+            178,
+            65,
+            107,
+            111
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2710
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

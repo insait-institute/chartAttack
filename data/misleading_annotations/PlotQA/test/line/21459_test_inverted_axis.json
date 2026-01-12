@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of children (under age 5) infected with anaemia in Middle East _ North Africa (developing only)",
+    "legend": {
+        "Prevalence of anemia among children": "#FF4500"
+    },
+    "x_axis": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "y_axis_label": "Number of anaemic children (in %)",
+    "data": [
+        {
+            "label": "Prevalence of anemia among children",
+            "color": "#FF4500",
+            "values": [
+                48.743728423815,
+                47.3450123615855,
+                45.96175618104999,
+                44.72408995467789,
+                43.5449518067887,
+                42.33136840878171
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

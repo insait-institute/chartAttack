@@ -1,0 +1,66 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1998",
+    "x_axis": {
+        "categories": [
+            "Coal sources",
+            "Natural gas sources",
+            "Oil sources"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Belgium": "#BC8F8F",
+        "Korea (Republic)": "#B03060",
+        "Portugal": "#C71585",
+        "United States": "#7FFFD4"
+    },
+    "data": {
+        "Belgium": [
+            20.5787389582699,
+            18.319829424307,
+            3.14346634176058
+        ],
+        "Korea (Republic)": [
+            37.1742360079419,
+            12.5686701933179,
+            6.737199690839501
+        ],
+        "Portugal": [
+            30.9793642227533,
+            5.18592758204199,
+            27.46382956852469
+        ],
+        "United States": [
+            52.73512657628961,
+            14.6786282784826,
+            3.86644356268255
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

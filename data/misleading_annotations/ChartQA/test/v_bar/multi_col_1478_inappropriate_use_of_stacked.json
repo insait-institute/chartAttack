@@ -1,0 +1,67 @@
+{
+    "title": "Share of individuals",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of individuals"
+    },
+    "legend": {
+        "25 to 34": "#f27979",
+        "35 to 44": "#c1f200",
+        "45 to 54": "#52a574",
+        "55 to 64": "#0042a5",
+        "65 and older": "#da79f2"
+    },
+    "data": {
+        "25 to 34": [
+            45.0
+        ],
+        "35 to 44": [
+            43.0
+        ],
+        "45 to 54": [
+            36.0
+        ],
+        "55 to 64": [
+            32.0
+        ],
+        "65 and older": [
+            30.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "25 to 34": "#f27979",
+        "35 to 44": "#c1f200",
+        "45 to 54": "#52a574",
+        "55 to 64": "#0042a5",
+        "65 and older": "#da79f2"
+    }
+}

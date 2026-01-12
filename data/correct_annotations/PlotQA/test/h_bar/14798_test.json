@@ -1,0 +1,67 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1988",
+    "legend": {
+        "North America": "#FF7F50",
+        "Argentina": "#C71585",
+        "Austria": "#FFFF00",
+        "Bulgaria": "#FFA500"
+    },
+    "categories": [
+        "Coal sources",
+        "Natural gas sources",
+        "Oil sources"
+    ],
+    "data": {
+        "North America": [
+            51.7123837004244,
+            8.31812260202779,
+            5.08618776609814
+        ],
+        "Argentina": [
+            2.98778853883551,
+            40.3380163074685,
+            16.5716035677372
+        ],
+        "Austria": [
+            8.27223826040001,
+            11.8652516147791,
+            3.2150200419531
+        ],
+        "Bulgaria": [
+            36.5807067812799,
+            19.3243153195176,
+            2.72317363008374
+        ]
+    },
+    "colors": {
+        "North America": "#FF7F50",
+        "Argentina": "#C71585",
+        "Austria": "#FFFF00",
+        "Bulgaria": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

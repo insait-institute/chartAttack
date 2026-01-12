@@ -1,0 +1,107 @@
+{
+    "title": "Percentage of individuals or firms listed by a private credit bureau",
+    "legend": {
+        "Fragile and conflict affected situations": "#E9967A",
+        "Ghana": "#FF4500",
+        "Lithuania": "#00CED1",
+        "Portugal": "#4B0082"
+    },
+    "categories": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "data": {
+        "Fragile and conflict affected situations": [
+            2.60666666666667,
+            2.35333333333333,
+            1.08484848484848,
+            1.11818181818182,
+            1.18484848484848
+        ],
+        "Ghana": [
+            2.1,
+            3.3,
+            5.7,
+            10.4,
+            14.1
+        ],
+        "Lithuania": [
+            67.8,
+            75.6,
+            81.2,
+            89.4,
+            97.7
+        ],
+        "Portugal": [
+            16.3,
+            21.5,
+            22.9,
+            23.2,
+            23.4
+        ]
+    },
+    "colors": {
+        "Fragile and conflict affected situations": "#E9967A",
+        "Ghana": "#FF4500",
+        "Lithuania": "#00CED1",
+        "Portugal": "#4B0082"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Fragile and conflict affected situations": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Ghana": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Lithuania": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Portugal": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

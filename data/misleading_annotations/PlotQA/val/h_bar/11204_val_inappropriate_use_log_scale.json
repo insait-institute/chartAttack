@@ -1,0 +1,63 @@
+{
+    "title": "Number of infant deaths",
+    "legend": {
+        "Barbados": "#DAA520",
+        "Korea (Republic)": "#6B8E23",
+        "Turkmenistan": "#0000FF"
+    },
+    "categories": [
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+    ],
+    "data": {
+        "Barbados": [
+            75,
+            69,
+            64,
+            60
+        ],
+        "Korea (Republic)": [
+            4371,
+            3774,
+            3424,
+            3414
+        ],
+        "Turkmenistan": [
+            9683.0,
+            9721.0,
+            9731.0,
+            9666.0
+        ]
+    },
+    "colors": {
+        "Barbados": "#DAA520",
+        "Korea (Republic)": "#6B8E23",
+        "Turkmenistan": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9740
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

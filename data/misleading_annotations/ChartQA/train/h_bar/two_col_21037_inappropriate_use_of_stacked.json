@@ -1,0 +1,262 @@
+{
+    "title": "",
+    "legend": {
+        "Turkey": "#f27979",
+        "Russia": "#f22000",
+        "Georgia": "#f29979",
+        "Lithuania": "#f26000",
+        "Azerbaijan": "#f2b979",
+        "Czechia": "#f2a100",
+        "Poland": "#f2da79",
+        "Slovakia": "#f2e200",
+        "Estonia": "#eaf279",
+        "Latvia": "#c1f200",
+        "Montenegro": "#c9f279",
+        "Hungary": "#81f200",
+        "Moldova": "#a9f279",
+        "Serbia": "#40f200",
+        "Malta": "#89f279",
+        "Scotland": "#00f200",
+        "England & Wales": "#52a55d",
+        "Portugal": "#00a52c",
+        "Spain": "#52a574",
+        "Romania": "#00a558",
+        "Bulgaria": "#52a58a",
+        "France": "#00a584",
+        "Austria": "#52a5a0",
+        "Greece": "#009aa5",
+        "North Macedonia": "#5295a5",
+        "Italy": "#006ea5",
+        "Luxembourg": "#527fa5",
+        "Belgium": "#0042a5",
+        "Cyprus": "#5268a5",
+        "Croatia": "#0016a5",
+        "Northern Ireland": "#5252a5",
+        "Ireland": "#1600a5",
+        "Switzerland": "#9979f2",
+        "Germany": "#6000f2",
+        "Armenia": "#b979f2",
+        "Denmark": "#a100f2",
+        "Slovenia": "#da79f2",
+        "Sweden": "#e200f2",
+        "Andorra": "#f279ea",
+        "Norway": "#f200c1",
+        "Netherlands": "#f279c9",
+        "Finland": "#f20081",
+        "Iceland": "#f279a9",
+        "Liechtenstein": "#f20040",
+        "Monaco": "#f27989"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Turkey": [
+            357.2
+        ],
+        "Russia": [
+            356.1
+        ],
+        "Georgia": [
+            263.8
+        ],
+        "Lithuania": [
+            219.7
+        ],
+        "Azerbaijan": [
+            208.7
+        ],
+        "Czechia": [
+            196.8
+        ],
+        "Poland": [
+            195.3
+        ],
+        "Slovakia": [
+            193.4
+        ],
+        "Estonia": [
+            184.4
+        ],
+        "Latvia": [
+            179.0
+        ],
+        "Montenegro": [
+            178.2
+        ],
+        "Hungary": [
+            171.8
+        ],
+        "Moldova": [
+            166.5
+        ],
+        "Serbia": [
+            159.9
+        ],
+        "Malta": [
+            154.1
+        ],
+        "Scotland": [
+            146.6
+        ],
+        "England & Wales": [
+            138.0
+        ],
+        "Portugal": [
+            124.3
+        ],
+        "Spain": [
+            123.3
+        ],
+        "Romania": [
+            106.5
+        ],
+        "Bulgaria": [
+            105.6
+        ],
+        "France": [
+            105.3
+        ],
+        "Austria": [
+            103.2
+        ],
+        "Greece": [
+            102.4
+        ],
+        "North Macedonia": [
+            101.8
+        ],
+        "Italy": [
+            101.2
+        ],
+        "Luxembourg": [
+            94.9
+        ],
+        "Belgium": [
+            93.6
+        ],
+        "Cyprus": [
+            93.4
+        ],
+        "Croatia": [
+            87.1
+        ],
+        "Northern Ireland": [
+            82.8
+        ],
+        "Ireland": [
+            81.6
+        ],
+        "Switzerland": [
+            80.2
+        ],
+        "Germany": [
+            76.2
+        ],
+        "Armenia": [
+            75.0
+        ],
+        "Denmark": [
+            71.1
+        ],
+        "Slovenia": [
+            69.1
+        ],
+        "Sweden": [
+            65.0
+        ],
+        "Andorra": [
+            64.5
+        ],
+        "Norway": [
+            58.8
+        ],
+        "Netherlands": [
+            58.5
+        ],
+        "Finland": [
+            49.9
+        ],
+        "Iceland": [
+            45.0
+        ],
+        "Liechtenstein": [
+            36.1
+        ],
+        "Monaco": [
+            33.3
+        ]
+    },
+    "colors": {
+        "Turkey": "#f27979",
+        "Russia": "#f22000",
+        "Georgia": "#f29979",
+        "Lithuania": "#f26000",
+        "Azerbaijan": "#f2b979",
+        "Czechia": "#f2a100",
+        "Poland": "#f2da79",
+        "Slovakia": "#f2e200",
+        "Estonia": "#eaf279",
+        "Latvia": "#c1f200",
+        "Montenegro": "#c9f279",
+        "Hungary": "#81f200",
+        "Moldova": "#a9f279",
+        "Serbia": "#40f200",
+        "Malta": "#89f279",
+        "Scotland": "#00f200",
+        "England & Wales": "#52a55d",
+        "Portugal": "#00a52c",
+        "Spain": "#52a574",
+        "Romania": "#00a558",
+        "Bulgaria": "#52a58a",
+        "France": "#00a584",
+        "Austria": "#52a5a0",
+        "Greece": "#009aa5",
+        "North Macedonia": "#5295a5",
+        "Italy": "#006ea5",
+        "Luxembourg": "#527fa5",
+        "Belgium": "#0042a5",
+        "Cyprus": "#5268a5",
+        "Croatia": "#0016a5",
+        "Northern Ireland": "#5252a5",
+        "Ireland": "#1600a5",
+        "Switzerland": "#9979f2",
+        "Germany": "#6000f2",
+        "Armenia": "#b979f2",
+        "Denmark": "#a100f2",
+        "Slovenia": "#da79f2",
+        "Sweden": "#e200f2",
+        "Andorra": "#f279ea",
+        "Norway": "#f200c1",
+        "Netherlands": "#f279c9",
+        "Finland": "#f20081",
+        "Iceland": "#f279a9",
+        "Liechtenstein": "#f20040",
+        "Monaco": "#f27989"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 360
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

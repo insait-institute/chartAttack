@@ -1,0 +1,72 @@
+{
+    "title": "Imports of goods and services",
+    "legend": {
+        "Angola": "#FF00FF",
+        "Chile": "#BC8F8F",
+        "Nepal": "#00BFFF",
+        "Uganda": "#FF1493"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Angola": [
+            41829350283.0,
+            35421222361.0,
+            43898332405.0,
+            45836104199.0
+        ],
+        "Chile": [
+            50605914888,
+            68400663545,
+            86556562205,
+            90588418262
+        ],
+        "Nepal": [
+            5101053816.0,
+            5878849339.0,
+            6447235614.0,
+            6847432219.0
+        ],
+        "Uganda": [
+            5228194441.0,
+            6178344726.0,
+            7430351143.0,
+            7735509074.0
+        ]
+    },
+    "colors": {
+        "Angola": "#FF00FF",
+        "Chile": "#BC8F8F",
+        "Nepal": "#00BFFF",
+        "Uganda": "#FF1493"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90588418270
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

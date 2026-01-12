@@ -1,0 +1,64 @@
+{
+    "title": "Trade statistics of Chile with developing economies in North Africa",
+    "legend": {
+        "Merchandise exports": "#8A2BE2",
+        "Merchandise imports": "#B8860B"
+    },
+    "x_axis": [
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+    ],
+    "y_axis_label": "Trade with economies of Middle East & North Africa(%)",
+    "data": [
+        {
+            "label": "Merchandise exports",
+            "color": "#8A2BE2",
+            "values": [
+                0.146585548648768,
+                0.452744419780831,
+                0.113976423962032,
+                0.13965269991516
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "color": "#B8860B",
+            "values": [
+                0.00262116327226023,
+                0.670310943335564,
+                0.87515311874447,
+                0.102841674219111
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

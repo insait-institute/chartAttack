@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Rushing yards": "#2876dd"
+    },
+    "categories": [
+        "Deuce McAllister",
+        "Mark Ingram",
+        "George Rogers",
+        "Dalton Hilliard",
+        "Pierre Thomas",
+        "Rueben Mayes",
+        "Chuck Muncie",
+        "Alvin Kamara",
+        "Ricky Williams",
+        "Tony Galbreath",
+        "Mario Bates",
+        "Wayne Wilson",
+        "Reggie Bush",
+        "Archie Manning",
+        "Mike Strachan",
+        "Craig Heyward",
+        "Aaron Brooks",
+        "Derek Brown",
+        "Hokie Gajan",
+        "Ray Zellars"
+    ],
+    "data": {
+        "Rushing yards": [
+            6096,
+            6007,
+            4267,
+            4164,
+            3745,
+            3408,
+            3393,
+            3340,
+            3129,
+            2865,
+            2554,
+            2462,
+            2090,
+            2058,
+            1902,
+            1813,
+            1410,
+            1383,
+            1358,
+            1351
+        ]
+    },
+    "colors": {
+        "Rushing yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

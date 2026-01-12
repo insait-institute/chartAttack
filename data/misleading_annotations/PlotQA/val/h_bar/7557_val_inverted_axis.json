@@ -1,0 +1,62 @@
+{
+    "title": "Official Aid vs Net Official Development Assistance received in 1973 ",
+    "legend": {
+        "Official aid received": "#BDB76B",
+        "ODA received": "#A020F0"
+    },
+    "categories": [
+        "Low income",
+        "Lower middle income",
+        "Middle East & North Africa (all income levels)",
+        "Middle East & North Africa (developing only)",
+        "Middle income",
+        "OECD members"
+    ],
+    "data": {
+        "Official aid received": [
+            1752750000,
+            5012180000,
+            2367880000,
+            2113390000,
+            6454870000,
+            660790000
+        ],
+        "ODA received": [
+            5012180000,
+            2367880000,
+            2113390000,
+            6454870000,
+            660790000,
+            44370000
+        ]
+    },
+    "colors": {
+        "Official aid received": "#BDB76B",
+        "ODA received": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6454870000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

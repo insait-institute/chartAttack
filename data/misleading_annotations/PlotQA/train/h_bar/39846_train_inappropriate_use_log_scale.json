@@ -1,0 +1,60 @@
+{
+    "title": "Proportion of the male labor force (ages 15+) who participated in production",
+    "legend": {
+        "Cambodia": "#87CEEB",
+        "Congo (Republic)": "#8B4513",
+        "Moldova": "#2F4F4F"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Cambodia": [
+            86.099998474121,
+            86.1999969482422,
+            86.3000030517578
+        ],
+        "Congo (Republic)": [
+            72.4000015258789,
+            72.599998474121,
+            72.8000030517578
+        ],
+        "Moldova": [
+            47.4000015258789,
+            46.0999984741211,
+            44.9000015258789
+        ]
+    },
+    "colors": {
+        "Cambodia": "#87CEEB",
+        "Congo (Republic)": "#8B4513",
+        "Moldova": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

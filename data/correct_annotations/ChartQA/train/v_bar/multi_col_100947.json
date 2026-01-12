@@ -1,0 +1,76 @@
+{
+    "title": "Number of inhabitants",
+    "x_axis": {
+        "categories": [
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of inhabitants"
+    },
+    "legend": {
+        "Never married": "#2876dd",
+        "Married/separated": "#0f283e",
+        "Widowed": "#bababa",
+        "Divorced": "#a60b0b"
+    },
+    "data": {
+        "Never married": [
+            2785800,
+            2811181,
+            2830166,
+            2844060,
+            2861497
+        ],
+        "Married/separated": [
+            2140830,
+            2141429,
+            2141704,
+            2146017,
+            2136102
+        ],
+        "Widowed": [
+            292682,
+            290746,
+            289126,
+            288098,
+            287344
+        ],
+        "Divorced": [
+            529457,
+            537834,
+            545085,
+            544588,
+            555102
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2861500
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of male children (ages 7-14) in employment in Nepal",
+    "legend": {
+        "Self-employed": "#A52A2A",
+        "Unpaid family workers": "#CD853F",
+        "Wage workers": "#663399"
+    },
+    "x_axis": [
+        "1999",
+        "2008"
+    ],
+    "y_axis_label": "% of male children in employment",
+    "data": [
+        {
+            "label": "Self-employed",
+            "color": "#A52A2A",
+            "values": [
+                4.1,
+                5.17
+            ]
+        },
+        {
+            "label": "Unpaid family workers",
+            "color": "#CD853F",
+            "values": [
+                91.8,
+                91.97
+            ]
+        },
+        {
+            "label": "Wage workers",
+            "color": "#663399",
+            "values": [
+                4.0,
+                2.54
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

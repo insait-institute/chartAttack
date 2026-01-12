@@ -1,0 +1,62 @@
+{
+    "title": "Net bilateral aid flow in an economy from United Kingdom",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Tanzania": "#f27979",
+        "Turkey": "#79f200",
+        "Uganda": "#52a5a5",
+        "Yemen, Rep.": "#5200a5"
+    },
+    "data": {
+        "Tanzania": [
+            9770000.0
+        ],
+        "Turkey": [
+            -1820000.0
+        ],
+        "Uganda": [
+            20070000.0
+        ],
+        "Yemen, Rep.": [
+            9510000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 37700000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Tanzania": "#f27979",
+        "Turkey": "#79f200",
+        "Uganda": "#52a5a5",
+        "Yemen, Rep.": "#5200a5"
+    }
+}

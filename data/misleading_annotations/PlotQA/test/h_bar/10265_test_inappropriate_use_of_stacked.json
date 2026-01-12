@@ -1,0 +1,67 @@
+{
+    "title": "Nitrous oxide emission due to human activities",
+    "legend": {
+        "Australia": "#f27979",
+        "Austria": "#f2f200",
+        "Azerbaijan": "#79f279",
+        "Bahrain": "#00a5a5",
+        "Bangladesh": "#5252a5",
+        "Belarus": "#a500a5"
+    },
+    "categories": [
+        "Nitrous oxide emission due to human activities"
+    ],
+    "data": {
+        "Australia": [
+            63067.1
+        ],
+        "Austria": [
+            5086.3
+        ],
+        "Azerbaijan": [
+            2665.8
+        ],
+        "Bahrain": [
+            70.2
+        ],
+        "Bangladesh": [
+            15150.6
+        ],
+        "Belarus": [
+            16372.3
+        ]
+    },
+    "colors": {
+        "Australia": "#f27979",
+        "Austria": "#f2f200",
+        "Azerbaijan": "#79f279",
+        "Bahrain": "#00a5a5",
+        "Bangladesh": "#5252a5",
+        "Belarus": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 75590
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

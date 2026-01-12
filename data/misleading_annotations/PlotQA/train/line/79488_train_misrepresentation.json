@@ -1,0 +1,89 @@
+{
+    "title": "Percentage of population using safely managed services in Togo",
+    "legend": {
+        "Sanitation services": "#BC8F8F",
+        "Drinking water services": "#66CDAA"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "y_axis_label": "% of population",
+    "data": [
+        {
+            "label": "Sanitation services",
+            "color": "#BC8F8F",
+            "values": [
+                11.4,
+                11.4,
+                11.4,
+                11.4,
+                11.4
+            ]
+        },
+        {
+            "label": "Drinking water services",
+            "color": "#66CDAA",
+            "values": [
+                52.3,
+                53.0,
+                53.6,
+                54.2,
+                54.8
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Sanitation services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Drinking water services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "City GDP": "#2876dd"
+    },
+    "categories": [
+        "New York, U.S.",
+        "Tokyo, Japan",
+        "Beijing, China",
+        "Osaka, Japan",
+        "Shanghai, China",
+        "Sao Paulo, Brazil",
+        "Bombay, India",
+        "Guangzhou, China",
+        "Mexico City, Mexico",
+        "Delhi, India"
+    ],
+    "data": {
+        "City GDP": [
+            44,
+            40,
+            10,
+            10,
+            10,
+            8,
+            7,
+            6,
+            5,
+            4
+        ]
+    },
+    "colors": {
+        "City GDP": "#2876dd"
+    },
+    "y_label": "GDP in billion U.S. dollars",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

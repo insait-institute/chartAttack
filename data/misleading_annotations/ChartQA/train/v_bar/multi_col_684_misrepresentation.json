@@ -1,0 +1,97 @@
+{
+    "title": "Capacity in million units",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2022"
+        ]
+    },
+    "y_axis": {
+        "label": "Capacity in million units"
+    },
+    "legend": {
+        "North America": "#2876dd",
+        "EU": "#0f283e",
+        "Eastern Europe": "#bababa",
+        "Asia-Pacific": "#a60b0b",
+        "Middle East & Africa": "#87bc24",
+        "South America": "#ebb523"
+    },
+    "data": {
+        "North America": [
+            19.9,
+            22.8
+        ],
+        "EU": [
+            22.2,
+            23.5
+        ],
+        "Eastern Europe": [
+            5.9,
+            7
+        ],
+        "Asia-Pacific": [
+            68.1,
+            77
+        ],
+        "Middle East & Africa": [
+            3.7,
+            4.4
+        ],
+        "South America": [
+            5.8,
+            6.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "North America": [
+            1.75,
+            0.25
+        ],
+        "EU": [
+            1.75,
+            0.25
+        ],
+        "Eastern Europe": [
+            1.75,
+            0.25
+        ],
+        "Asia-Pacific": [
+            1.75,
+            0.25
+        ],
+        "Middle East & Africa": [
+            1.75,
+            0.25
+        ],
+        "South America": [
+            1.75,
+            0.25
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Consumption in million U.S. dollars*",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Consumption in million U.S. dollars*"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            378.2,
+            349.2,
+            402.3,
+            453.6,
+            482.5,
+            476.9,
+            486.9,
+            514,
+            575.4,
+            604.4
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 610
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Stacked vertical bar chart": false
+}

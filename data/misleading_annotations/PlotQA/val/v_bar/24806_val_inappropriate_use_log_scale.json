@@ -1,0 +1,60 @@
+{
+    "title": "CO2 emissions from electricity and heat production",
+    "x_axis": {
+        "categories": [
+            "Austria",
+            "Belgium",
+            "Canada"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#2F4F4F",
+        "1961": "#FF69B4",
+        "1962": "#8A2BE2"
+    },
+    "data": {
+        "1960": [
+            17.62554040572,
+            32.063305978898,
+            13.3465707845873
+        ],
+        "1961": [
+            20.745382585752,
+            31.08929406264611,
+            14.321647539695
+        ],
+        "1962": [
+            19.93984962406011,
+            29.9267714839543,
+            16.1670761670762
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

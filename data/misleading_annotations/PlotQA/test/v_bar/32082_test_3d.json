@@ -1,0 +1,54 @@
+{
+    "title": "Current operating expenditures of countries in 1971 towards education",
+    "x_axis": {
+        "categories": [
+            "Australia",
+            "Austria",
+            "Bahamas",
+            "Barbados",
+            "Belgium",
+            "Belize"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Education expenditure": "#0000FF"
+    },
+    "data": {
+        "Education expenditure": [
+            2281491768.414,
+            608202665.494,
+            17905489.8,
+            10791077.9903,
+            1272906339.936,
+            2407138.22608266
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2281491770
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

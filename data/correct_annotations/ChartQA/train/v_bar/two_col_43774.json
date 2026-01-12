@@ -1,0 +1,52 @@
+{
+    "title": "Sales value in million Canadian dollars",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales value in million Canadian dollars"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            210,
+            250,
+            200,
+            240,
+            370
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 370
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

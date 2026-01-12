@@ -1,0 +1,61 @@
+{
+    "title": "Number of commercial bank branches and ATMs in Hong Kong",
+    "legend": {
+        "Commercial bank branches": "#D2691E",
+        "Automatic Teller Machines": "#F4A460"
+    },
+    "categories": [
+        "2004",
+        "2005"
+    ],
+    "data": {
+        "Commercial bank branches": [
+            23.5561019033727,
+            23.2038458230948
+        ],
+        "Automatic Teller Machines": [
+            46.9926094527438,
+            49.77183612219979
+        ]
+    },
+    "colors": {
+        "Commercial bank branches": "#D2691E",
+        "Automatic Teller Machines": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 23.2038458230948,
+                "max_value": 23.5561019033727
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 46.9926094527438,
+                "max_value": 49.77183612219979
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Net official aid flow from official donors to countries",
+    "legend": {
+        "East Asia (all income levels)": "#FF0000",
+        "Bermuda": "#FF4500",
+        "Hong Kong": "#CD853F"
+    },
+    "categories": [
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "data": {
+        "East Asia (all income levels)": [
+            119780000.0,
+            25030000.0,
+            1105940000.0
+        ],
+        "Bermuda": [
+            740000.0,
+            130000.0,
+            110000.0
+        ],
+        "Hong Kong": [
+            9640000.0,
+            4730000.0,
+            5830000.0
+        ]
+    },
+    "colors": {
+        "East Asia (all income levels)": "#FF0000",
+        "Bermuda": "#FF4500",
+        "Hong Kong": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1105940000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

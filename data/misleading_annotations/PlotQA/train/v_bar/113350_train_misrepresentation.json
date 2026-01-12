@@ -1,0 +1,76 @@
+{
+    "title": "Age dependency ratio as per the census of 2003",
+    "x_axis": {
+        "categories": [
+            "Least developed countries",
+            "Low & middle income",
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Dependency ratio(old)": "#483D8B",
+        "Dependency ratio(young)": "#FF00FF"
+    },
+    "data": {
+        "Dependency ratio(old)": [
+            6.1448032854566,
+            8.570246346509611,
+            6.113005081461441,
+            7.71243826306961,
+            7.321525390632321
+        ],
+        "Dependency ratio(young)": [
+            78.7921930222527,
+            49.9517894953399,
+            85.0574148928877,
+            57.1893100189327,
+            55.0352840579288
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Dependency ratio(old)": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Dependency ratio(young)": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

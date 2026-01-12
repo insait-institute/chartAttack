@@ -1,0 +1,74 @@
+{
+    "title": "Exports in million short tons",
+    "x_axis": {
+        "categories": [
+            "1985",
+            "1990",
+            "1995",
+            "2000",
+            "2005",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Exports in million short tons"
+    },
+    "legend": {
+        "Series 1": "#2876dd"
+    },
+    "data": {
+        "Series 1": [
+            91,
+            106,
+            88,
+            57,
+            50,
+            81,
+            107,
+            125,
+            117,
+            97,
+            74,
+            60,
+            97,
+            116,
+            93,
+            69
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

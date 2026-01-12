@@ -1,0 +1,60 @@
+{
+    "title": "Sales in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2008",
+            "2009",
+            "2010"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales in million U.S. dollars"
+    },
+    "legend": {
+        "Apparel": "#2876dd",
+        "Socks": "#0f283e",
+        "Arms/legs sleeves": "#bababa"
+    },
+    "data": {
+        "Apparel": [
+            2.7,
+            3.7,
+            4.8
+        ],
+        "Socks": [
+            0.17,
+            0.51,
+            1.2
+        ],
+        "Arms/legs sleeves": [
+            0.27,
+            1.2,
+            2.3
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

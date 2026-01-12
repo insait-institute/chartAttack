@@ -1,0 +1,70 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in the year 1994",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Jordan": "#483D8B",
+        "Mozambique": "#00FF7F",
+        "Tunisia": "#FFA07A"
+    },
+    "data": {
+        "Jordan": [
+            100.28352,
+            99.43697
+        ],
+        "Mozambique": [
+            62.45915,
+            81.04029
+        ],
+        "Tunisia": [
+            100.50849,
+            104.0251
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Jordan": [
+            1.75,
+            0.25
+        ],
+        "Mozambique": [
+            1.75,
+            0.25
+        ],
+        "Tunisia": [
+            1.75,
+            0.25
+        ]
+    }
+}

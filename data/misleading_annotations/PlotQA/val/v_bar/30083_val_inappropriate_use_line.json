@@ -1,0 +1,71 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 1982 ",
+    "x_axis": {
+        "categories": [
+            "Brazil",
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Coal": "#ADFF2F",
+        "Minerals": "#CD853F",
+        "Energy": "#FF7F50",
+        "Water": "#FFFF00"
+    },
+    "data": {
+        "Coal": [
+            0.223775121045743,
+            1.59339506946309,
+            0.114640557713298,
+            0.0544621054458936
+        ],
+        "Minerals": [
+            0.568844626805265,
+            0.1583575468870919,
+            0.31460255652224,
+            0.174426751981451
+        ],
+        "Energy": [
+            6.20730170809092,
+            0.430868783840215,
+            0.7560961984651241,
+            0.535003938419724
+        ],
+        "Water": [
+            10.8881550247458,
+            0.710513887310605,
+            14.2995711641861,
+            3.24487343377377
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

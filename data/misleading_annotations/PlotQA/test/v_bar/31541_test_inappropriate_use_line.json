@@ -1,0 +1,66 @@
+{
+    "title": "Balance of Payments as percentage of service export of countries in 2013",
+    "x_axis": {
+        "categories": [
+            "Transport services",
+            "Travel services",
+            "ICT services"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "South Asia": "#FF00FF",
+        "Bahrain": "#40E0D0",
+        "Chile": "#C71585",
+        "Tajikistan": "#808000"
+    },
+    "data": {
+        "South Asia": [
+            12.4051306239396,
+            13.9427771682414,
+            63.3265931165317
+        ],
+        "Bahrain": [
+            21.1938134358118,
+            35.2988561293412,
+            21.6288061832355
+        ],
+        "Chile": [
+            48.8821447146751,
+            17.5113512303317,
+            26.03424489879789
+        ],
+        "Tajikistan": [
+            28.73327561125211,
+            0.504076586875468,
+            14.8958027664462
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

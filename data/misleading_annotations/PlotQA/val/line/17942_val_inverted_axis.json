@@ -1,0 +1,67 @@
+{
+    "title": "Official Aid vs Net Official Development Assistance received by Zambia ",
+    "legend": {
+        "Official aid received": "#2F4F4F",
+        "ODA received": "#DAA520"
+    },
+    "x_axis": [
+        "1974",
+        "1975",
+        "1976",
+        "1977",
+        "1978"
+    ],
+    "y_axis_label": "Aid received (current US$)",
+    "data": [
+        {
+            "label": "Official aid received",
+            "color": "#2F4F4F",
+            "values": [
+                57100000,
+                86200000,
+                61610000,
+                107990000,
+                183990000
+            ]
+        },
+        {
+            "label": "ODA received",
+            "color": "#DAA520",
+            "values": [
+                57100000,
+                86200000,
+                61610000,
+                107990000,
+                183990000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 57100000,
+                "max_value": 183990000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

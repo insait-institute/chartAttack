@@ -1,0 +1,79 @@
+{
+    "title": "Units sold",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Units sold"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            13136,
+            17858,
+            16945,
+            13865,
+            10889,
+            11309,
+            12324,
+            12628,
+            11734,
+            10051,
+            9181
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17860
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false,
+    "scaling_factors": {
+        "Series": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.75,
+            0.25,
+            1.75
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Total enrollments of male students in schools as per the survey of 1998 conducted in different countries",
+    "legend": {
+        "Pre-primary schools": "#F4A460",
+        "Primary schools": "#556B2F",
+        "Secondary schools": "#008080",
+        "Tertiary schools": "#00BFFF"
+    },
+    "categories": [
+        "Kuwait",
+        "Lao PDR",
+        "Latvia",
+        "Lebanon",
+        "Lesotho"
+    ],
+    "data": {
+        "Pre-primary schools": [
+            93.52954,
+            8.08098,
+            49.58182,
+            82.77318000000002,
+            24.54769
+        ],
+        "Primary schools": [
+            110.44365,
+            93.90808,
+            99.77539,
+            98.75377,
+            84.89053
+        ],
+        "Secondary schools": [
+            72.53984,
+            65.3287,
+            70.89964,
+            31.46623,
+            59.37289000000001
+        ],
+        "Tertiary schools": [
+            45.68341,
+            49.26677,
+            44.46748,
+            19.91341,
+            8.90904
+        ]
+    },
+    "colors": {
+        "Pre-primary schools": "#F4A460",
+        "Primary schools": "#556B2F",
+        "Secondary schools": "#008080",
+        "Tertiary schools": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

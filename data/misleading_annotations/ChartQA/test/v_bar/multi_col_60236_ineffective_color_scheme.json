@@ -1,0 +1,55 @@
+{
+    "title": "Penetration rate",
+    "x_axis": {
+        "categories": [
+            "Instagram",
+            "Snapchat"
+        ]
+    },
+    "y_axis": {
+        "label": "Penetration rate"
+    },
+    "legend": {
+        "2014": "#2876dd",
+        "2016": "#284bdd"
+    },
+    "data": {
+        "2014": [
+            20,
+            17
+        ],
+        "2016": [
+            30,
+            30
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false,
+    "color": {
+        "2014": "#2876dd",
+        "2016": "#284bdd"
+    }
+}

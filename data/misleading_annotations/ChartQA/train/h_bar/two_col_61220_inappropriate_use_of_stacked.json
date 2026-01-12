@@ -1,0 +1,97 @@
+{
+    "title": "Profit or loss in thousand GBP",
+    "categories": [
+        "Profit or loss in thousand GBP"
+    ],
+    "data": {
+        "British Airways Plc": [
+            895647.0
+        ],
+        "EasyJet Airline Company Ltd": [
+            436768.0
+        ],
+        "Thomson Airways Ltd": [
+            257955.0
+        ],
+        "Thomas Cook Airlines Ltd": [
+            93275.0
+        ],
+        "BA CityFlyer Ltd": [
+            15996.0
+        ],
+        "Jet2.Com Ltd": [
+            14134.0
+        ],
+        "Titan Airways Ltd": [
+            2987.0
+        ],
+        "Atlantic Airlines Ltd": [
+            -370.0
+        ],
+        "Global Supply Systems Ltd": [
+            -2167.0
+        ],
+        "Virgin Atlantic Airways Ltd": [
+            -2412.0
+        ],
+        "FlyBe Ltd": [
+            -2640.0
+        ],
+        "Monarch Airlines": [
+            -205538.0
+        ]
+    },
+    "colors": {
+        "British Airways Plc": "#f27979",
+        "EasyJet Airline Company Ltd": "#f27900",
+        "Thomson Airways Ltd": "#f2f279",
+        "Thomas Cook Airlines Ltd": "#79f200",
+        "BA CityFlyer Ltd": "#79f279",
+        "Jet2.Com Ltd": "#00a552",
+        "Titan Airways Ltd": "#52a5a5",
+        "Atlantic Airlines Ltd": "#0052a5",
+        "Global Supply Systems Ltd": "#5252a5",
+        "Virgin Atlantic Airways Ltd": "#5200a5",
+        "FlyBe Ltd": "#f279f2",
+        "Monarch Airlines": "#f20079"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 895650
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "British Airways Plc": "#f27979",
+        "EasyJet Airline Company Ltd": "#f27900",
+        "Thomson Airways Ltd": "#f2f279",
+        "Thomas Cook Airlines Ltd": "#79f200",
+        "BA CityFlyer Ltd": "#79f279",
+        "Jet2.Com Ltd": "#00a552",
+        "Titan Airways Ltd": "#52a5a5",
+        "Atlantic Airlines Ltd": "#0052a5",
+        "Global Supply Systems Ltd": "#5252a5",
+        "Virgin Atlantic Airways Ltd": "#5200a5",
+        "FlyBe Ltd": "#f279f2",
+        "Monarch Airlines": "#f20079"
+    }
+}

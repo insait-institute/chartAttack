@@ -1,0 +1,67 @@
+{
+    "title": "Employment to population ratio (male)",
+    "legend": {
+        "Lesotho": "#f27979",
+        "Liberia": "#f2f200",
+        "Libya": "#79f279",
+        "Lithuania": "#00a5a5",
+        "Luxembourg": "#5252a5",
+        "Macao": "#a500a5"
+    },
+    "categories": [
+        "Employment to population ratio (male)"
+    ],
+    "data": {
+        "Lesotho": [
+            60.0
+        ],
+        "Liberia": [
+            62.0999984741211
+        ],
+        "Libya": [
+            61.5
+        ],
+        "Lithuania": [
+            61.0999984741211
+        ],
+        "Luxembourg": [
+            68.099998474121
+        ],
+        "Macao": [
+            69.599998474121
+        ]
+    },
+    "colors": {
+        "Lesotho": "#f27979",
+        "Liberia": "#f2f200",
+        "Libya": "#79f279",
+        "Lithuania": "#00a5a5",
+        "Luxembourg": "#5252a5",
+        "Macao": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

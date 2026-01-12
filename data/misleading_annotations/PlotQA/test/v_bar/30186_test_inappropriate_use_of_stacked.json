@@ -1,0 +1,67 @@
+{
+    "title": "Net bilateral aid flow in an economy from France",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Arab World": "#f27979",
+        "East Asia (all income levels)": "#c1f200",
+        "East Asia (developing only)": "#52a574",
+        "Latin America(all income levels)": "#0042a5",
+        "Latin America(developing only)": "#da79f2"
+    },
+    "data": {
+        "Arab World": [
+            354000000.0
+        ],
+        "East Asia (all income levels)": [
+            21700000.0
+        ],
+        "East Asia (developing only)": [
+            21700000.0
+        ],
+        "Latin America(all income levels)": [
+            44600000.0
+        ],
+        "Latin America(developing only)": [
+            44600000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 463500000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Arab World": "#f27979",
+        "East Asia (all income levels)": "#c1f200",
+        "East Asia (developing only)": "#52a574",
+        "Latin America(all income levels)": "#0042a5",
+        "Latin America(developing only)": "#da79f2"
+    }
+}

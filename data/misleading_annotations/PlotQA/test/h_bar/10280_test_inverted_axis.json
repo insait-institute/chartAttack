@@ -1,0 +1,56 @@
+{
+    "title": "Trade statistics with developing economies of Saharan Africa in 1992",
+    "legend": {
+        "Low income": "#00FA9A",
+        "Cabo Verde": "#EE82EE",
+        "United States": "#FF0000"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Low income": [
+            9.82647145829886,
+            11.7529224940786
+        ],
+        "Cabo Verde": [
+            9.409119863094881,
+            10.8593178021251
+        ],
+        "United States": [
+            1.19925522926511,
+            2.29963826402926
+        ]
+    },
+    "colors": {
+        "Low income": "#00FA9A",
+        "Cabo Verde": "#EE82EE",
+        "United States": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

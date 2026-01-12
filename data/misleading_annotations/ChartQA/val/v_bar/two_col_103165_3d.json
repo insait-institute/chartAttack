@@ -1,0 +1,66 @@
+{
+    "title": "Emissions in million tons of CO2 equivalent",
+    "x_axis": {
+        "categories": [
+            "1990",
+            "1995",
+            "2000",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "Emissions in million tons of CO2 equivalent"
+    },
+    "legend": {
+        "Emissions": "#2876dd"
+    },
+    "data": {
+        "Emissions": [
+            7.5,
+            6.7,
+            6.6,
+            6.7,
+            6.5,
+            6.5,
+            6.6,
+            6.6,
+            6.6,
+            6.7,
+            6.6,
+            6.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

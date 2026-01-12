@@ -1,0 +1,54 @@
+{
+    "title": "Population of different countries in 1976",
+    "x_axis": {
+        "categories": [
+            "Ages 65 and above",
+            "Ages 0-14",
+            "Ages 15-64"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ghana": "#BA55D3",
+        "Rwanda": "#00CED1"
+    },
+    "data": {
+        "Ghana": [
+            2.56683538067801,
+            46.10523639964639,
+            51.3279282196756
+        ],
+        "Rwanda": [
+            2.55002533490972,
+            47.33727876401201,
+            50.1126959010783
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Annual urban population growth",
+    "legend": {
+        "Caribbean small states": "#FFD700",
+        "Brunei Darussalam": "#B8860B",
+        "Cameroon": "#FF1493",
+        "Jordan": "#FF00FF"
+    },
+    "categories": [
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+    ],
+    "data": {
+        "Caribbean small states": [
+            1.55296496473474,
+            1.71874697740122,
+            1.42039511493918,
+            1.36807620943233,
+            1.18718795315316,
+            1.04123239252927
+        ],
+        "Brunei Darussalam": [
+            2.38775989050691,
+            3.88419244085887,
+            4.055357190446069,
+            3.99776509861694,
+            3.98316219278715,
+            3.97809204252331
+        ],
+        "Cameroon": [
+            5.56488184439437,
+            5.55978785124545,
+            5.547227954368879,
+            5.5299512011632,
+            5.499289630943309,
+            5.47143420388317
+        ],
+        "Jordan": [
+            6.24065664745337,
+            6.28002023617942,
+            6.1891537174579,
+            5.92622131425746,
+            5.59542917223,
+            5.66205824194368
+        ]
+    },
+    "colors": {
+        "Caribbean small states": "#FFD700",
+        "Brunei Darussalam": "#B8860B",
+        "Cameroon": "#FF1493",
+        "Jordan": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

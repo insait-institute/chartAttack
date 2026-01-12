@@ -1,0 +1,62 @@
+{
+    "title": "Participation of the population in various social programs organised in 2011",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chile": "#f27979",
+        "Costa Rica": "#79f200",
+        "Ecuador": "#52a5a5",
+        "El Salvador": "#5200a5"
+    },
+    "data": {
+        "Chile": [
+            0.589844094701568
+        ],
+        "Costa Rica": [
+            21.7640048039912
+        ],
+        "Ecuador": [
+            0.256914928727819
+        ],
+        "El Salvador": [
+            0.8372445090422049
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Chile": "#f27979",
+        "Costa Rica": "#79f200",
+        "Ecuador": "#52a5a5",
+        "El Salvador": "#5200a5"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "Revenue": "#2876dd"
+    },
+    "data": {
+        "Revenue": [
+            7,
+            8.2,
+            8.4,
+            8.6,
+            9,
+            9.6,
+            10.3
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

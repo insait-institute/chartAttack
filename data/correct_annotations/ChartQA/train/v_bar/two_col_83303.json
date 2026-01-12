@@ -1,0 +1,84 @@
+{
+    "title": "Number of registered cars",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of registered cars"
+    },
+    "legend": {
+        "Cars": "#2876dd"
+    },
+    "data": {
+        "Cars": [
+            1524411,
+            1489086,
+            1431240,
+            1366327,
+            1319158,
+            1263007,
+            1223645,
+            1214389,
+            1214830,
+            1228349,
+            1252370,
+            1270289,
+            1303926,
+            1345298,
+            1389233,
+            1435817,
+            1475843,
+            1488837,
+            1508268,
+            1515652,
+            1491443
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1524420
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

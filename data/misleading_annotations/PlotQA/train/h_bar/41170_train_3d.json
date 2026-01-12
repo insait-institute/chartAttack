@@ -1,0 +1,56 @@
+{
+    "title": "Plot of number of days required to export and import the goods in different countries",
+    "legend": {
+        "Central Europe": "#8A2BE2",
+        "Luxembourg": "#708090",
+        "Nepal": "#556B2F"
+    },
+    "categories": [
+        "Export",
+        "Import"
+    ],
+    "data": {
+        "Central Europe": [
+            1.33333333333333,
+            2.0
+        ],
+        "Luxembourg": [
+            1,
+            1
+        ],
+        "Nepal": [
+            3,
+            3
+        ]
+    },
+    "colors": {
+        "Central Europe": "#8A2BE2",
+        "Luxembourg": "#708090",
+        "Nepal": "#556B2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

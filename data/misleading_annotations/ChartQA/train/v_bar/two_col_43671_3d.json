@@ -1,0 +1,64 @@
+{
+    "title": "Expenditure in million SEK",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Expenditure in million SEK"
+    },
+    "legend": {
+        "Expenditure": "#2876dd"
+    },
+    "data": {
+        "Expenditure": [
+            42423,
+            41070,
+            42301,
+            42528,
+            44976,
+            45438,
+            46491,
+            47323,
+            49840,
+            55213,
+            59425
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 59430
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

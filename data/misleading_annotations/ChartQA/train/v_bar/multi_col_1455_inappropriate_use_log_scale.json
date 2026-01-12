@@ -1,0 +1,66 @@
+{
+    "title": "Average user acquisition cost in U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "Install",
+            "Purchase",
+            "Subscribe"
+        ]
+    },
+    "y_axis": {
+        "label": "Average user acquisition cost in U.S. dollars"
+    },
+    "legend": {
+        "APAC": "#2876dd",
+        "EMEA": "#0f283e",
+        "Latin America": "#bababa",
+        "North America": "#a60b0b"
+    },
+    "data": {
+        "APAC": [
+            0.93,
+            33.05,
+            21.87
+        ],
+        "EMEA": [
+            1.03,
+            42.15,
+            69.44
+        ],
+        "Latin America": [
+            0.34,
+            5.31,
+            18.62
+        ],
+        "North America": [
+            5.28,
+            74.68,
+            64.27
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

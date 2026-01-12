@@ -1,0 +1,147 @@
+{
+    "title": "",
+    "legend": {
+        "Italy": "#f27979",
+        "Germany": "#f24200",
+        "France": "#f2bb79",
+        "Poland (MSP)": "#f2c600",
+        "Spain": "#e7f279",
+        "Ukraine*": "#9af200",
+        "Sweden": "#a5f279",
+        "Belgium": "#16f200",
+        "Netherlands": "#52a561",
+        "Switzerland (CP)": "#00a54b",
+        "Romania": "#52a58f",
+        "Austria": "#00a5a5",
+        "Czechia*": "#528fa5",
+        "Greece (WP)": "#004ba5",
+        "Ireland": "#5261a5",
+        "Finland (WP)": "#0f00a5",
+        "Hungary (MSP)": "#a579f2",
+        "Norway": "#9a00f2",
+        "Croatia (WP)": "#e779f2",
+        "Denmark*": "#f200c6",
+        "Slovenia": "#f279bb",
+        "Latvia": "#f20042"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Italy": [
+            515.36
+        ],
+        "Germany": [
+            476.0
+        ],
+        "France": [
+            472.0
+        ],
+        "Poland (MSP)": [
+            356.48
+        ],
+        "Spain": [
+            318.0
+        ],
+        "Ukraine*": [
+            201.32
+        ],
+        "Sweden": [
+            177.36
+        ],
+        "Belgium": [
+            147.58
+        ],
+        "Netherlands": [
+            142.86
+        ],
+        "Switzerland (CP)": [
+            107.62
+        ],
+        "Romania": [
+            103.1
+        ],
+        "Austria": [
+            97.59
+        ],
+        "Czechia*": [
+            72.8
+        ],
+        "Greece (WP)": [
+            70.63
+        ],
+        "Ireland": [
+            50.5
+        ],
+        "Finland (WP)": [
+            47.2
+        ],
+        "Hungary (MSP)": [
+            34.57
+        ],
+        "Norway": [
+            31.35
+        ],
+        "Croatia (WP)": [
+            24.47
+        ],
+        "Denmark*": [
+            23.23
+        ],
+        "Slovenia": [
+            10.98
+        ],
+        "Latvia": [
+            5.21
+        ]
+    },
+    "colors": {
+        "Italy": "#f27979",
+        "Germany": "#f24200",
+        "France": "#f2bb79",
+        "Poland (MSP)": "#f2c600",
+        "Spain": "#e7f279",
+        "Ukraine*": "#9af200",
+        "Sweden": "#a5f279",
+        "Belgium": "#16f200",
+        "Netherlands": "#52a561",
+        "Switzerland (CP)": "#00a54b",
+        "Romania": "#52a58f",
+        "Austria": "#00a5a5",
+        "Czechia*": "#528fa5",
+        "Greece (WP)": "#004ba5",
+        "Ireland": "#5261a5",
+        "Finland (WP)": "#0f00a5",
+        "Hungary (MSP)": "#a579f2",
+        "Norway": "#9a00f2",
+        "Croatia (WP)": "#e779f2",
+        "Denmark*": "#f200c6",
+        "Slovenia": "#f279bb",
+        "Latvia": "#f20042"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 520
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

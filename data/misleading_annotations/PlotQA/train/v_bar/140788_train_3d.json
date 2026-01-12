@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of total land area covered by agricultural land",
+    "x_axis": {
+        "categories": [
+            "Grenada",
+            "Guam",
+            "Guatemala",
+            "Guinea",
+            "Guinea-Bissau"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1961": "#DB7093",
+        "1962": "#7FFFD4",
+        "1963": "#00FF00",
+        "1964": "#708090"
+    },
+    "data": {
+        "1961": [
+            64.7058823529412,
+            29.6296296296296,
+            24.6920492721165,
+            59.4986163112486,
+            48.2930298719772
+        ],
+        "1962": [
+            64.7058823529412,
+            29.6296296296296,
+            24.8040313549832,
+            59.4945466384503,
+            48.2930298719772
+        ],
+        "1963": [
+            64.7058823529412,
+            31.4814814814815,
+            24.91601343784989,
+            59.3968744912909,
+            48.2930298719772
+        ],
+        "1964": [
+            64.7058823529412,
+            31.4814814814815,
+            25.0279955207167,
+            59.2992023441315,
+            48.2930298719772
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

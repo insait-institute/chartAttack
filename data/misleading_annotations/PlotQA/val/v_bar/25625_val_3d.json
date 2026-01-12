@@ -1,0 +1,56 @@
+{
+    "title": "Death rate and birth rate according to the survey of 1986",
+    "x_axis": {
+        "categories": [
+            "Death rate",
+            "Birth rate"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Guinea-Bissau": "#008B8B",
+        "St. Lucia": "#A52A2A",
+        "Togo": "#6B8E23"
+    },
+    "data": {
+        "Guinea-Bissau": [
+            18.79,
+            46.912
+        ],
+        "St. Lucia": [
+            5.924,
+            31.127
+        ],
+        "Togo": [
+            12.821,
+            44.691
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

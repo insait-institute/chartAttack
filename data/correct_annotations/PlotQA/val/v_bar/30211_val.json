@@ -1,0 +1,71 @@
+{
+    "title": "Net bilateral aid flow in an economy from Denmark",
+    "x_axis": {
+        "categories": [
+            "Low & middle income",
+            "Middle income",
+            "OECD members",
+            "World"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FFA500",
+        "1961": "#FF69B4",
+        "1962": "#87CEEB",
+        "1963": "#663399"
+    },
+    "data": {
+        "1960": [
+            130000.0,
+            20000.0,
+            530000.0,
+            660000.0
+        ],
+        "1961": [
+            650000.0,
+            550000.0,
+            1900000.0,
+            2090000.0
+        ],
+        "1962": [
+            100000.0,
+            -120000.0,
+            440000.0,
+            660000.0
+        ],
+        "1963": [
+            1100000.0,
+            -100000.0,
+            -600000.0,
+            600000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2090000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

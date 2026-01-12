@@ -1,0 +1,60 @@
+{
+    "title": "Ores,manufactures and fuel exports of different countries in 2001",
+    "x_axis": {
+        "categories": [
+            "Ores and metals",
+            "Manufactures",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Albania": "#008080",
+        "Barbados": "#FF7F50",
+        "Slovenia": "#8FBC8F"
+    },
+    "data": {
+        "Albania": [
+            2.91299590250377,
+            84.1798037431494,
+            1.44835970613169
+        ],
+        "Barbados": [
+            0.134232546724927,
+            50.6055521550295,
+            5.132705329879889
+        ],
+        "Slovenia": [
+            4.263132532405029,
+            89.55975004145171,
+            0.97418302840022
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

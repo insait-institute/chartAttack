@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the total labor force of different age groups participating in production in 2008",
+    "x_axis": {
+        "categories": [
+            "Burundi",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "Central African Republic"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ages 15-20": "#556B2F",
+        "Ages 20-60": "#6495ED",
+        "Ages 60+": "#FFA500"
+    },
+    "data": {
+        "Ages 15-20": [
+            65.6999969482422,
+            59.9000015258789,
+            74.099998474121,
+            47.7000007629395,
+            67.6999969482422,
+            63.0
+        ],
+        "Ages 20-60": [
+            82.1999969482422,
+            65.8000030517578,
+            82.4000015258789,
+            69.5,
+            67.3000030517578,
+            78.5
+        ],
+        "Ages 60+": [
+            83.099998474121,
+            69.8000030517578,
+            84.5,
+            70.4000015258789,
+            78.599998474121,
+            78.8000030517578
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

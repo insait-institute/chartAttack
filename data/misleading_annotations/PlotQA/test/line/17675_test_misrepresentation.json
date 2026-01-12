@@ -1,0 +1,109 @@
+{
+    "title": "Amount spent on the transport and travel items of national tourists visited in Lebanon",
+    "legend": {
+        "Passenger Transport Items": "#FFFF00",
+        "Travel Items": "#FF7F50"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Amount spent (in US$)",
+    "data": [
+        {
+            "label": "Passenger Transport Items",
+            "color": "#FFFF00",
+            "values": [
+                437000000,
+                476000000,
+                580000000,
+                498000000,
+                383000000,
+                165000000,
+                252000000,
+                525000000,
+                514000000
+            ]
+        },
+        {
+            "label": "Travel Items",
+            "color": "#FF7F50",
+            "values": [
+                5411000000,
+                5532000000,
+                4981000000,
+                5216000000,
+                5819000000,
+                6774000000,
+                7861000000,
+                6545000000,
+                6300000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 165000000,
+                "max_value": 7861000000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Passenger Transport Items",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Travel Items",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Johnny Morris": "#f27979",
+        "Harlon Hill": "#f24800",
+        "Alshon Jeffery": "#f2c179",
+        "Walter Payton": "#f2da00",
+        "Mike Ditka": "#daf279",
+        "Curtis Conway": "#79f200",
+        "Matt Forte": "#91f279",
+        "Marty Booker": "#00a510",
+        "Willie Gault": "#52a574",
+        "Ken Kavanaugh": "#00a574",
+        "Dick Gordon": "#52a5a5",
+        "Brandon Marshall": "#0074a5",
+        "James Scott": "#5274a5",
+        "Jim Dooley": "#0010a5",
+        "Allen Robinson": "#9179f2",
+        "Jim Keane": "#7900f2",
+        "Wendell Davis": "#da79f2",
+        "Dennis McKinnon": "#f200da",
+        "Bobby Engram": "#f279c1",
+        "Bill McColl": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Johnny Morris": [
+            5059.0
+        ],
+        "Harlon Hill": [
+            4616.0
+        ],
+        "Alshon Jeffery": [
+            4549.0
+        ],
+        "Walter Payton": [
+            4538.0
+        ],
+        "Mike Ditka": [
+            4503.0
+        ],
+        "Curtis Conway": [
+            4498.0
+        ],
+        "Matt Forte": [
+            4116.0
+        ],
+        "Marty Booker": [
+            3895.0
+        ],
+        "Willie Gault": [
+            3650.0
+        ],
+        "Ken Kavanaugh": [
+            3626.0
+        ],
+        "Dick Gordon": [
+            3550.0
+        ],
+        "Brandon Marshall": [
+            3524.0
+        ],
+        "James Scott": [
+            3202.0
+        ],
+        "Jim Dooley": [
+            3172.0
+        ],
+        "Allen Robinson": [
+            3151.0
+        ],
+        "Jim Keane": [
+            3031.0
+        ],
+        "Wendell Davis": [
+            3000.0
+        ],
+        "Dennis McKinnon": [
+            2840.0
+        ],
+        "Bobby Engram": [
+            2831.0
+        ],
+        "Bill McColl": [
+            2815.0
+        ]
+    },
+    "colors": {
+        "Johnny Morris": "#f27979",
+        "Harlon Hill": "#f24800",
+        "Alshon Jeffery": "#f2c179",
+        "Walter Payton": "#f2da00",
+        "Mike Ditka": "#daf279",
+        "Curtis Conway": "#79f200",
+        "Matt Forte": "#91f279",
+        "Marty Booker": "#00a510",
+        "Willie Gault": "#52a574",
+        "Ken Kavanaugh": "#00a574",
+        "Dick Gordon": "#52a5a5",
+        "Brandon Marshall": "#0074a5",
+        "James Scott": "#5274a5",
+        "Jim Dooley": "#0010a5",
+        "Allen Robinson": "#9179f2",
+        "Jim Keane": "#7900f2",
+        "Wendell Davis": "#da79f2",
+        "Dennis McKinnon": "#f200da",
+        "Bobby Engram": "#f279c1",
+        "Bill McColl": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

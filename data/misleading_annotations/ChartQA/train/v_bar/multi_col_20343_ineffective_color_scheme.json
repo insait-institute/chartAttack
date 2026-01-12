@@ -1,0 +1,69 @@
+{
+    "title": "Number of stores",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of stores"
+    },
+    "legend": {
+        "Owned stores": "#2876dd",
+        "Franchised stores": "#284bdd"
+    },
+    "data": {
+        "Owned stores": [
+            594,
+            618,
+            620,
+            625,
+            634,
+            641,
+            633
+        ],
+        "Franchised stores": [
+            35,
+            36,
+            34,
+            34,
+            34,
+            25,
+            26
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 650
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Owned stores": "#2876dd",
+        "Franchised stores": "#284bdd"
+    }
+}

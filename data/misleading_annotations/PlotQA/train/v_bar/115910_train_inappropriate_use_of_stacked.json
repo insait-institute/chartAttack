@@ -1,0 +1,67 @@
+{
+    "title": "Information and communication technology goods imported",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "High income": "#f27979",
+        "High income: nonOECD": "#c1f200",
+        "High income: OECD": "#52a574",
+        "Latin America(all income levels)": "#0042a5",
+        "Latin America(developing only)": "#da79f2"
+    },
+    "data": {
+        "High income": [
+            15.4583184583609
+        ],
+        "High income: nonOECD": [
+            22.6584528805096
+        ],
+        "High income: OECD": [
+            14.4293252313295
+        ],
+        "Latin America(all income levels)": [
+            13.2748209503115
+        ],
+        "Latin America(developing only)": [
+            14.0466466438277
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "High income": "#f27979",
+        "High income: nonOECD": "#c1f200",
+        "High income: OECD": "#52a574",
+        "Latin America(all income levels)": "#0042a5",
+        "Latin America(developing only)": "#da79f2"
+    }
+}

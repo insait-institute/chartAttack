@@ -1,0 +1,76 @@
+{
+    "title": "Total unemployed labor force of Ukraine",
+    "legend": {
+        "Unemployment total": "#00FFFF"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Unemployed laborers (% of total labor force)",
+    "data": [
+        {
+            "label": "Unemployment total",
+            "color": "#00FFFF",
+            "values": [
+                6.400000095367429,
+                6.400000095367429,
+                8.80000019073486,
+                8.10000038146973,
+                7.900000095367429,
+                7.5,
+                7.199999809265139,
+                9.30000019073486
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Unemployment total",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Methodology assessment of statistical capacity",
+    "legend": {
+        "Dominica": "#00FF7F",
+        "Turkmenistan": "#0000FF"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Dominica": [
+            50.0,
+            30.0,
+            40.0,
+            50.0
+        ],
+        "Turkmenistan": [
+            40,
+            30,
+            30,
+            30
+        ]
+    },
+    "colors": {
+        "Dominica": "#00FF7F",
+        "Turkmenistan": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 30.0,
+                "max_value": 50.0
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

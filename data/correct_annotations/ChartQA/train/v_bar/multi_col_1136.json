@@ -1,0 +1,78 @@
+{
+    "title": "Unemployment rate",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Unemployment rate"
+    },
+    "legend": {
+        "EU": "#2876dd",
+        "Euro area": "#0f283e"
+    },
+    "data": {
+        "EU": [
+            9,
+            9.9,
+            9.9,
+            10.9,
+            11.4,
+            10.9,
+            10.1,
+            9.1,
+            8.2,
+            7.3,
+            6.7
+        ],
+        "Euro area": [
+            9.6,
+            10.2,
+            10.2,
+            11.4,
+            12,
+            11.6,
+            10.9,
+            10,
+            9.1,
+            8.2,
+            7.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

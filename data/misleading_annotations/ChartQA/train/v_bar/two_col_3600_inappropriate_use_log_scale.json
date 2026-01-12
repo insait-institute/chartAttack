@@ -1,0 +1,106 @@
+{
+    "title": "Revenues in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "'00",
+            "'01",
+            "'02",
+            "'03",
+            "'04",
+            "'05",
+            "'06",
+            "'07",
+            "'08",
+            "'09",
+            "'10",
+            "'11",
+            "'12",
+            "'13",
+            "'14",
+            "'15",
+            "'16",
+            "'17",
+            "'18",
+            "'19",
+            "'20",
+            "'21*",
+            "'22*",
+            "'23*",
+            "'24*",
+            "'25*",
+            "'26*",
+            "'27*",
+            "'28*",
+            "'29*",
+            "'30*",
+            "'31*"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenues in billion U.S. dollars"
+    },
+    "legend": {
+        "Series 1": "#2876dd"
+    },
+    "data": {
+        "Series 1": [
+            207.3,
+            151.1,
+            148.0,
+            131.8,
+            189.4,
+            278.3,
+            353.9,
+            370.2,
+            304.3,
+            138.2,
+            191.4,
+            181.1,
+            242.3,
+            273.5,
+            320.7,
+            343.8,
+            299.6,
+            297.0,
+            204.7,
+            230.0,
+            212.0,
+            164.0,
+            252.0,
+            304.0,
+            328.0,
+            355.0,
+            365.0,
+            361.0,
+            369.0,
+            377.0,
+            385.0,
+            393.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 400
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

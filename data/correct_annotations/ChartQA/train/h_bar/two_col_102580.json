@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Latin America": "#2876dd"
+    },
+    "categories": [
+        "Argentina",
+        "Brazil",
+        "Mexico",
+        "Ecuador",
+        "Venezuela",
+        "Peru",
+        "Chile",
+        "Bolivia",
+        "Dominican Republic",
+        "Cuba",
+        "Panama"
+    ],
+    "data": {
+        "Latin America": [
+            8438,
+            8225,
+            4441,
+            812,
+            751,
+            584,
+            379,
+            273,
+            164,
+            113,
+            61
+        ]
+    },
+    "colors": {
+        "Latin America": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8440
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

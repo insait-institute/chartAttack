@@ -1,0 +1,63 @@
+{
+    "title": "Lower secondary completion rate of students in different countries",
+    "x_axis": {
+        "categories": [
+            "Bahrain",
+            "Bolivia",
+            "Botswana",
+            "Bulgaria",
+            "Burundi",
+            "Comoros"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#00FFFF",
+        "Male": "#008B8B"
+    },
+    "data": {
+        "Female": [
+            103.78067,
+            48.95676,
+            78.82573000000002,
+            81.55814000000002,
+            3.72107,
+            16.4859
+        ],
+        "Male": [
+            92.37689,
+            55.52856,
+            64.32603,
+            82.09654,
+            6.14245,
+            24.68395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

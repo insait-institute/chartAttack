@@ -1,0 +1,67 @@
+{
+    "title": "Methane emission due to human activities and industrial production in Macedonia",
+    "legend": {
+        "From human activities": "#20B2AA",
+        "From production": "#FFA07A"
+    },
+    "x_axis": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "y_axis_label": "Methane emission (as thousand metric tons of CO2 equivalent)",
+    "data": [
+        {
+            "label": "From human activities",
+            "color": "#20B2AA",
+            "values": [
+                1662.6,
+                1490.0,
+                1417.7,
+                1376.4,
+                1369.3
+            ]
+        },
+        {
+            "label": "From production",
+            "color": "#FFA07A",
+            "values": [
+                311.0,
+                454.8,
+                464.2,
+                461.8,
+                460.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 310,
+                "max_value": 1670
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

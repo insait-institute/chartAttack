@@ -1,0 +1,82 @@
+{
+    "title": "Share of respondents who use network most often",
+    "legend": {
+        "Instagram": "#f27979",
+        "Facebook": "#f2a100",
+        "Snapchat": "#c9f279",
+        "YouTube": "#00f200",
+        "Twitter": "#52a58a",
+        "WhatsApp": "#006ea5",
+        "TikTok": "#5252a5",
+        "Other": "#6e00a5",
+        "Don't know": "#f279c9"
+    },
+    "categories": [
+        "Share of respondents who use network most often"
+    ],
+    "data": {
+        "Instagram": [
+            25.0
+        ],
+        "Facebook": [
+            24.0
+        ],
+        "Snapchat": [
+            22.0
+        ],
+        "YouTube": [
+            16.0
+        ],
+        "Twitter": [
+            5.0
+        ],
+        "WhatsApp": [
+            4.0
+        ],
+        "TikTok": [
+            2.0
+        ],
+        "Other": [
+            1.0
+        ],
+        "Don't know": [
+            1.0
+        ]
+    },
+    "colors": {
+        "Instagram": "#f27979",
+        "Facebook": "#f2a100",
+        "Snapchat": "#c9f279",
+        "YouTube": "#00f200",
+        "Twitter": "#52a58a",
+        "WhatsApp": "#006ea5",
+        "TikTok": "#5252a5",
+        "Other": "#6e00a5",
+        "Don't know": "#f279c9"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

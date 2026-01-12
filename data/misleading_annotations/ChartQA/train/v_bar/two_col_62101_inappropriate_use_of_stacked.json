@@ -1,0 +1,77 @@
+{
+    "title": "Revenue in thousand British pounds",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in thousand British pounds"
+    },
+    "legend": {
+        "2012": "#f27979",
+        "2013": "#f2cf00",
+        "2014": "#9bf279",
+        "2015": "#00a55e",
+        "2016": "#5282a5",
+        "2017": "#2f00a5",
+        "2018": "#f279e0"
+    },
+    "data": {
+        "2012": [
+            1145965.0
+        ],
+        "2013": [
+            1761540.0
+        ],
+        "2014": [
+            2167911.0
+        ],
+        "2015": [
+            2230551.0
+        ],
+        "2016": [
+            2232461.0
+        ],
+        "2017": [
+            2198189.0
+        ],
+        "2018": [
+            2323087.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2323090
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2012": "#f27979",
+        "2013": "#f2cf00",
+        "2014": "#9bf279",
+        "2015": "#00a55e",
+        "2016": "#5282a5",
+        "2017": "#2f00a5",
+        "2018": "#f279e0"
+    }
+}

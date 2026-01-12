@@ -1,0 +1,72 @@
+{
+    "title": "Global emissions of Sulfur hexafluoride",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "South Africa": "#f27979",
+        "Spain": "#f2f200",
+        "Sweden": "#79f279",
+        "Switzerland": "#00a5a5",
+        "Thailand": "#5252a5",
+        "Turkey": "#a500a5"
+    },
+    "data": {
+        "South Africa": [
+            1053.9
+        ],
+        "Spain": [
+            408.3
+        ],
+        "Sweden": [
+            173.5
+        ],
+        "Switzerland": [
+            586.8
+        ],
+        "Thailand": [
+            1429.5
+        ],
+        "Turkey": [
+            2027.1
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2460
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "South Africa": "#f27979",
+        "Spain": "#f2f200",
+        "Sweden": "#79f279",
+        "Switzerland": "#00a5a5",
+        "Thailand": "#5252a5",
+        "Turkey": "#a500a5"
+    }
+}

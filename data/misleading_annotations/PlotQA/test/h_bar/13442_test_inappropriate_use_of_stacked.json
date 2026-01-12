@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of ores and metals exported to different countries",
+    "legend": {
+        "OECD members": "#f27979",
+        "South Asia": "#c1f200",
+        "World": "#52a574",
+        "Argentina": "#0042a5",
+        "Belgium": "#da79f2"
+    },
+    "categories": [
+        "Percentage of ores and metals exported to different countries"
+    ],
+    "data": {
+        "OECD members": [
+            7.4620929279864
+        ],
+        "South Asia": [
+            5.584197846763232
+        ],
+        "World": [
+            6.920907291569621
+        ],
+        "Argentina": [
+            0.8133354663925592
+        ],
+        "Belgium": [
+            9.733424366437221
+        ]
+    },
+    "colors": {
+        "OECD members": "#f27979",
+        "South Asia": "#c1f200",
+        "World": "#52a574",
+        "Argentina": "#0042a5",
+        "Belgium": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

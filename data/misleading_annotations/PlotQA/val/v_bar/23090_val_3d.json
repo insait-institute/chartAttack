@@ -1,0 +1,60 @@
+{
+    "title": "Survival rate of children of different countries in Grade 5 of primary education",
+    "x_axis": {
+        "categories": [
+            "Costa Rica",
+            "Kenya",
+            "New Caledonia",
+            "Nicaragua",
+            "Panama"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#6B8E23",
+        "Male": "#FFFF00"
+    },
+    "data": {
+        "Female": [
+            70.03251999999999,
+            49.37304,
+            56.66816,
+            24.42514,
+            59.40098
+        ],
+        "Male": [
+            66.27391999999999,
+            55.99923,
+            46.93155,
+            22.77677000000001,
+            55.63466999999999
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

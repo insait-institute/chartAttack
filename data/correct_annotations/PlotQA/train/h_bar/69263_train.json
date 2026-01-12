@@ -1,0 +1,77 @@
+{
+    "title": "Percentage of female pupils in higher and secondary (vocational) schools",
+    "legend": {
+        "Europe(all income levels)": "#FFD700",
+        "Least developed countries": "#006400",
+        "Belize": "#E9967A",
+        "Bhutan": "#6A5ACD"
+    },
+    "categories": [
+        "1977",
+        "2001",
+        "2005",
+        "2006",
+        "2013"
+    ],
+    "data": {
+        "Europe(all income levels)": [
+            43.36637115478521,
+            42.3686103820801,
+            42.4338989257813,
+            42.0253105163574,
+            43.8067207336426
+        ],
+        "Least developed countries": [
+            29.1450691223145,
+            33.7821617126465,
+            36.5936889648438,
+            36.95981979370121,
+            37.7793617248535
+        ],
+        "Belize": [
+            100.0,
+            50.4149398803711,
+            47.69841003417971,
+            39.96305084228521,
+            46.09635162353521
+        ],
+        "Bhutan": [
+            3.81471,
+            37.6126098632813,
+            33.6507911682129,
+            32.9629592895508,
+            39.6039581298828
+        ]
+    },
+    "colors": {
+        "Europe(all income levels)": "#FFD700",
+        "Least developed countries": "#006400",
+        "Belize": "#E9967A",
+        "Bhutan": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

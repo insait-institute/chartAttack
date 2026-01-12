@@ -1,0 +1,187 @@
+{
+    "title": "Total payroll in million U.S. dollars",
+    "categories": [
+        "Total payroll in million U.S. dollars"
+    ],
+    "data": {
+        "Los Angeles Dodgers": [
+            272.8
+        ],
+        "Paris Saint-Germain": [
+            227.1
+        ],
+        "New York Yankees": [
+            219.3
+        ],
+        "Real Madrid": [
+            216.0
+        ],
+        "Manchester City": [
+            215.0
+        ],
+        "FC Barcelona": [
+            202.1
+        ],
+        "Manchester United": [
+            200.6
+        ],
+        "Bayern Munich": [
+            191.5
+        ],
+        "Boston Red Sox": [
+            187.4
+        ],
+        "Chelsea London": [
+            186.6
+        ],
+        "Detroit Tigers": [
+            173.8
+        ],
+        "Arsenal London": [
+            173.8
+        ],
+        "San Francisco Giants": [
+            172.7
+        ],
+        "Washington Nationals": [
+            164.9
+        ],
+        "Los Angeles Angels": [
+            150.9
+        ],
+        "FC Liverpool": [
+            150.4
+        ],
+        "Texas Rangers": [
+            142.1
+        ],
+        "Philadelphia Phillies": [
+            135.8
+        ],
+        "Juventus Turin": [
+            127.4
+        ],
+        "Miami Dolphins": [
+            124.3
+        ],
+        "Cincinnati Bengals": [
+            123.3
+        ],
+        "Green Bay Packers": [
+            123.2
+        ],
+        "Toronto Blue Jays": [
+            122.5
+        ],
+        "Denver Broncos": [
+            122.3
+        ],
+        "Tampa Bay Buccaneers": [
+            122.2
+        ],
+        "St. Louis Cardinals": [
+            120.9
+        ],
+        "Tottenham": [
+            120.5
+        ],
+        "Seattle Mariners": [
+            119.8
+        ],
+        "Chicago Cubs": [
+            119.0
+        ],
+        "Detroit Lions": [
+            118.8
+        ]
+    },
+    "colors": {
+        "Los Angeles Dodgers": "#f27979",
+        "Paris Saint-Germain": "#f23000",
+        "New York Yankees": "#f2a979",
+        "Real Madrid": "#f29100",
+        "Manchester City": "#f2da79",
+        "FC Barcelona": "#f2f200",
+        "Manchester United": "#daf279",
+        "Bayern Munich": "#91f200",
+        "Boston Red Sox": "#a9f279",
+        "Chelsea London": "#30f200",
+        "Detroit Tigers": "#79f279",
+        "Arsenal London": "#00a521",
+        "San Francisco Giants": "#52a574",
+        "Washington Nationals": "#00a563",
+        "Los Angeles Angels": "#52a595",
+        "FC Liverpool": "#00a5a5",
+        "Texas Rangers": "#5295a5",
+        "Philadelphia Phillies": "#0063a5",
+        "Juventus Turin": "#5274a5",
+        "Miami Dolphins": "#0021a5",
+        "Cincinnati Bengals": "#5252a5",
+        "Green Bay Packers": "#2100a5",
+        "Toronto Blue Jays": "#a979f2",
+        "Denver Broncos": "#9100f2",
+        "Tampa Bay Buccaneers": "#da79f2",
+        "St. Louis Cardinals": "#f200f2",
+        "Tottenham": "#f279da",
+        "Seattle Mariners": "#f20091",
+        "Chicago Cubs": "#f279a9",
+        "Detroit Lions": "#f20030"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Los Angeles Dodgers": "#f27979",
+        "Paris Saint-Germain": "#f23000",
+        "New York Yankees": "#f2a979",
+        "Real Madrid": "#f29100",
+        "Manchester City": "#f2da79",
+        "FC Barcelona": "#f2f200",
+        "Manchester United": "#daf279",
+        "Bayern Munich": "#91f200",
+        "Boston Red Sox": "#a9f279",
+        "Chelsea London": "#30f200",
+        "Detroit Tigers": "#79f279",
+        "Arsenal London": "#00a521",
+        "San Francisco Giants": "#52a574",
+        "Washington Nationals": "#00a563",
+        "Los Angeles Angels": "#52a595",
+        "FC Liverpool": "#00a5a5",
+        "Texas Rangers": "#5295a5",
+        "Philadelphia Phillies": "#0063a5",
+        "Juventus Turin": "#5274a5",
+        "Miami Dolphins": "#0021a5",
+        "Cincinnati Bengals": "#5252a5",
+        "Green Bay Packers": "#2100a5",
+        "Toronto Blue Jays": "#a979f2",
+        "Denver Broncos": "#9100f2",
+        "Tampa Bay Buccaneers": "#da79f2",
+        "St. Louis Cardinals": "#f200f2",
+        "Tottenham": "#f279da",
+        "Seattle Mariners": "#f20091",
+        "Chicago Cubs": "#f279a9",
+        "Detroit Lions": "#f20030"
+    }
+}

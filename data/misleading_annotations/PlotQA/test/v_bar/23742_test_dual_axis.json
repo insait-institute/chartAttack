@@ -1,0 +1,68 @@
+{
+    "title": "Cost of damage due to depletion of various resources in 1979 ",
+    "x_axis": {
+        "categories": [
+            "CO2 damage",
+            "Minerals",
+            "Energy",
+            "Forest"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#BDB76B",
+        "Thailand": "#FF7F50"
+    },
+    "data": {
+        "Australia": [
+            543247317.925871,
+            1155147805.94672,
+            4948371399.5244,
+            742202974.341439
+        ],
+        "Thailand": [
+            97316875.5428245,
+            101716172.300187,
+            4487289.94324836,
+            468900255.1763769
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 543247317.925871,
+                "max_value": 4948371399.5244
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 4487289.94324836,
+                "max_value": 468900255.1763769
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

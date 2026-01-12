@@ -1,0 +1,67 @@
+{
+    "title": "Agricultural production relative to the base period 2004-2006",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Sierra Leone": "#f27979",
+        "Singapore": "#c1f200",
+        "Solomon Islands": "#52a574",
+        "Somalia": "#0042a5",
+        "South Africa": "#da79f2"
+    },
+    "data": {
+        "Sierra Leone": [
+            32.91
+        ],
+        "Singapore": [
+            390.47
+        ],
+        "Solomon Islands": [
+            30.18
+        ],
+        "Somalia": [
+            56.82
+        ],
+        "South Africa": [
+            39.63
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 400
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Sierra Leone": "#f27979",
+        "Singapore": "#c1f200",
+        "Solomon Islands": "#52a574",
+        "Somalia": "#0042a5",
+        "South Africa": "#da79f2"
+    }
+}

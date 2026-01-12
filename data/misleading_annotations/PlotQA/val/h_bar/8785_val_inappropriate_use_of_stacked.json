@@ -1,0 +1,57 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in South Asia",
+    "legend": {
+        "Japan": "#f27979",
+        "Jordan": "#79f200",
+        "Kenya": "#52a5a5",
+        "Morocco": "#5200a5"
+    },
+    "categories": [
+        "Merchandise exports to low and middle-income economies in South Asia"
+    ],
+    "data": {
+        "Japan": [
+            5.21876916785933
+        ],
+        "Jordan": [
+            8.16326530612245
+        ],
+        "Kenya": [
+            4.37556973564266
+        ],
+        "Morocco": [
+            0.283768444948922
+        ]
+    },
+    "colors": {
+        "Japan": "#f27979",
+        "Jordan": "#79f200",
+        "Kenya": "#52a5a5",
+        "Morocco": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

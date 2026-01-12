@@ -1,0 +1,63 @@
+{
+    "title": "Share of exams",
+    "x_axis": {
+        "categories": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of exams"
+    },
+    "legend": {
+        "Male": "#2876dd",
+        "Female": "#0f283e"
+    },
+    "data": {
+        "Male": [
+            21,
+            26,
+            26,
+            12,
+            8,
+            2
+        ],
+        "Female": [
+            26,
+            29,
+            25,
+            12,
+            6,
+            2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

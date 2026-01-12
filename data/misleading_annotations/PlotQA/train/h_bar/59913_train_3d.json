@@ -1,0 +1,77 @@
+{
+    "title": "Total labor force participation rate for ages 15-24",
+    "legend": {
+        "Bulgaria": "#00FF7F",
+        "Malta": "#483D8B",
+        "Rwanda": "#2E8B57",
+        "West Bank and Gaza": "#FF00FF"
+    },
+    "categories": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "Bulgaria": [
+            34.7000007629395,
+            32.7000007629395,
+            30.60000038146969,
+            35.7000007629395,
+            33.0
+        ],
+        "Malta": [
+            61.5,
+            60.5999984741211,
+            59.4000015258789,
+            64.599998474121,
+            59.7000007629395
+        ],
+        "Rwanda": [
+            77.8000030517578,
+            76.9000015258789,
+            75.9000015258789,
+            74.9000015258789,
+            74.4000015258789
+        ],
+        "West Bank and Gaza": [
+            26.10000038146969,
+            25.0,
+            25.7000007629395,
+            27.10000038146969,
+            24.5
+        ]
+    },
+    "colors": {
+        "Bulgaria": "#00FF7F",
+        "Malta": "#483D8B",
+        "Rwanda": "#2E8B57",
+        "West Bank and Gaza": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

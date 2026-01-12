@@ -1,0 +1,56 @@
+{
+    "title": "Payments made towards primary income, imports of goods and services by countries",
+    "x_axis": {
+        "categories": [
+            "Goods and services",
+            "Primary income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Algeria": "#FF69B4",
+        "Mali": "#00BFFF",
+        "United Kingdom": "#808000"
+    },
+    "data": {
+        "Algeria": [
+            49067925414,
+            55408989663
+        ],
+        "Mali": [
+            3757124284.0,
+            4171389185.3
+        ],
+        "United Kingdom": [
+            865601000000,
+            1403622000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1403622000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Terry Turner",
+        "Nap Lajoie",
+        "Lou Boudreau",
+        "Jim Hegan",
+        "Tris Speaker",
+        "Ken Keltner",
+        "Joe Sewell",
+        "Earl Averill",
+        "Charlie Jamieson",
+        "Omar Vizquel"
+    ],
+    "data": {
+        "Players": [
+            1619,
+            1614,
+            1560,
+            1526,
+            1519,
+            1513,
+            1513,
+            1510,
+            1483,
+            1478
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "y_label": "Number of games played",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1620
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

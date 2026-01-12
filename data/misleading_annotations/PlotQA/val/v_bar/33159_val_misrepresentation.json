@@ -1,0 +1,64 @@
+{
+    "title": "Total labor force participation rate in the year 2011",
+    "x_axis": {
+        "categories": [
+            "Montenegro",
+            "Morocco",
+            "Netherlands",
+            "New Zealand",
+            "Norway",
+            "Panama"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Labor force participation rate for ages 15-24 total": "#483D8B"
+    },
+    "data": {
+        "Labor force participation rate for ages 15-24 total": [
+            20.8999996185303,
+            35.0,
+            68.8000030517578,
+            59.5999984741211,
+            55.5999984741211,
+            44.0999984741211
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Labor force participation rate for ages 15-24 total": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Agricultural production relative to the base period 2004-2006",
+    "x_axis": {
+        "categories": [
+            "Burkina Faso",
+            "Burundi",
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1961": "#6A5ACD",
+        "1962": "#FFD700",
+        "1963": "#F0E68C",
+        "1964": "#8FBC8F"
+    },
+    "data": {
+        "1961": [
+            16.5,
+            54.84,
+            42.16,
+            46.11,
+            25.96
+        ],
+        "1962": [
+            18.85,
+            54.68,
+            46.21,
+            40.41,
+            27.99
+        ],
+        "1963": [
+            18.84,
+            54.67,
+            48.0,
+            49.71,
+            31.04
+        ],
+        "1964": [
+            21.12,
+            60.44,
+            51.75,
+            53.2,
+            31.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Lower secondary completion rate of students in different countries",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Congo (Republic)": "#a52a2a",
+        "Spain": "#a53e2a",
+        "St. Lucia": "#ad552c"
+    },
+    "data": {
+        "Congo (Republic)": [
+            27.32735,
+            45.36448
+        ],
+        "Spain": [
+            90.74342,
+            85.20864
+        ],
+        "St. Lucia": [
+            55.96784,
+            38.96572000000001
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Congo (Republic)": "#a52a2a",
+        "Spain": "#a53e2a",
+        "St. Lucia": "#ad552c"
+    }
+}

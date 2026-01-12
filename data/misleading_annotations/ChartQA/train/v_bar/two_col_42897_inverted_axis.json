@@ -1,0 +1,62 @@
+{
+    "title": "Share of individuals",
+    "x_axis": {
+        "categories": [
+            "20-24 years",
+            "25-29 years",
+            "30-34 years",
+            "35-39 years",
+            "40-44 years",
+            "45-49 years",
+            "50-54 years",
+            "55-59 years",
+            "60-64 years",
+            "65 years and over"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of individuals"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            10,
+            27.8,
+            27.6,
+            26.4,
+            21.6,
+            18.4,
+            14.7,
+            12.7,
+            13,
+            8.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Customs and other import duties (as % of tax revenue) of a country",
+    "legend": {
+        "Greece": "#BDB76B",
+        "Poland": "#B03060",
+        "Rwanda": "#FFFF00"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Greece": [
+            0.0041957748547213,
+            0.0022063365987115,
+            0.00224992125275615,
+            0.0044973128555688
+        ],
+        "Poland": [
+            0.7474225700200029,
+            0.723855338262292,
+            0.716033831964528,
+            0.7541245404854939
+        ],
+        "Rwanda": [
+            12.6892707888224,
+            11.1678814222497,
+            7.6805201465312,
+            7.75428869212337
+        ]
+    },
+    "colors": {
+        "Greece": "#BDB76B",
+        "Poland": "#B03060",
+        "Rwanda": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

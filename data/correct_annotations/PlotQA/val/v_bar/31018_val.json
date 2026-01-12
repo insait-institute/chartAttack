@@ -1,0 +1,76 @@
+{
+    "title": "CPIA building human resources rating",
+    "x_axis": {
+        "categories": [
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income",
+            "World",
+            "Bangladesh",
+            "Benin"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#4B0082",
+        "2006": "#0000FF",
+        "2007": "#A0522D",
+        "2008": "#6495ED"
+    },
+    "data": {
+        "2005": [
+            3.189189189189189,
+            3.58333333333333,
+            3.38815789473684,
+            4.0,
+            3.5
+        ],
+        "2006": [
+            3.21621621621622,
+            3.58333333333333,
+            3.38461538461538,
+            4.0,
+            3.5
+        ],
+        "2007": [
+            3.25675675675676,
+            3.7,
+            3.41333333333333,
+            4.0,
+            3.5
+        ],
+        "2008": [
+            3.25675675675676,
+            3.8,
+            3.44,
+            4.0,
+            3.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

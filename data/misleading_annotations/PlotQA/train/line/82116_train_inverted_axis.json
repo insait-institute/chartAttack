@@ -1,0 +1,64 @@
+{
+    "title": "Mortality rates in Seychelles",
+    "legend": {
+        "Infant": "#00FF7F",
+        "Under five": "#7FFFD4"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Mortality Rate (per 1000 live birth or children)",
+    "data": [
+        {
+            "label": "Infant",
+            "color": "#00FF7F",
+            "values": [
+                12.3,
+                12.2,
+                12.2,
+                12.2
+            ]
+        },
+        {
+            "label": "Under five",
+            "color": "#7FFFD4",
+            "values": [
+                14.2,
+                14.2,
+                14.2,
+                14.2
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

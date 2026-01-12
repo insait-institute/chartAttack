@@ -1,0 +1,87 @@
+{
+    "title": "Spending in billion euros",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Spending in billion euros"
+    },
+    "legend": {
+        "2012": "#f27979",
+        "2013": "#f2a100",
+        "2014": "#c9f279",
+        "2015": "#00f200",
+        "2016": "#52a58a",
+        "2017": "#006ea5",
+        "2018*": "#5252a5",
+        "2019": "#6e00a5",
+        "2020": "#f279c9"
+    },
+    "data": {
+        "2012": [
+            12.8
+        ],
+        "2013": [
+            14.4
+        ],
+        "2014": [
+            15.7
+        ],
+        "2015": [
+            16.3
+        ],
+        "2016": [
+            15.7
+        ],
+        "2017": [
+            17.1
+        ],
+        "2018*": [
+            18.0
+        ],
+        "2019": [
+            23.2
+        ],
+        "2020": [
+            5.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2012": "#f27979",
+        "2013": "#f2a100",
+        "2014": "#c9f279",
+        "2015": "#00f200",
+        "2016": "#52a58a",
+        "2017": "#006ea5",
+        "2018*": "#5252a5",
+        "2019": "#6e00a5",
+        "2020": "#f279c9"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Total imports of goods and services in constant 2005 US$",
+    "legend": {
+        "1960": "#d2b48c",
+        "1961": "#d2bc8c",
+        "1962": "#d5c993",
+        "1963": "#cdc986"
+    },
+    "categories": [
+        "Canada",
+        "Chile",
+        "Colombia",
+        "Congo (Democratic)",
+        "Congo (Republic)"
+    ],
+    "data": {
+        "1960": [
+            35973419928.4844,
+            1632207932300.0,
+            5213439960200.0,
+            117364179300.0,
+            88347801100.0
+        ],
+        "1961": [
+            36064343103.4572,
+            1824917705200.0,
+            5430049484500.0,
+            134159236100.0,
+            98270923400.0
+        ],
+        "1962": [
+            36900865537.2088,
+            1686364655400.0,
+            5619318622300.0,
+            120496543100.0,
+            80985486500.0
+        ],
+        "1963": [
+            37882868703.9173,
+            1730295685700.0,
+            5610204964800.0,
+            121772780400.0,
+            76504070900.0
+        ]
+    },
+    "colors": {
+        "1960": "#D2B48C",
+        "1961": "#40E0D0",
+        "1962": "#32CD32",
+        "1963": "#FF1493"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5619318622300
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#d2b48c",
+        "1961": "#d2bc8c",
+        "1962": "#d5c993",
+        "1963": "#cdc986"
+    }
+}

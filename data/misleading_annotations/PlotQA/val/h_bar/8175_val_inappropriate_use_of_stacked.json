@@ -1,0 +1,62 @@
+{
+    "title": "Earning from merchandise trade",
+    "legend": {
+        "Cameroon": "#f27979",
+        "Canada": "#c1f200",
+        "Central African Republic": "#52a574",
+        "Chad": "#0042a5",
+        "Chile": "#da79f2"
+    },
+    "categories": [
+        "Earning from merchandise trade"
+    ],
+    "data": {
+        "Cameroon": [
+            29.25295254916231
+        ],
+        "Canada": [
+            28.9374072369078
+        ],
+        "Central African Republic": [
+            30.2680387885645
+        ],
+        "Chad": [
+            12.2802363159623
+        ],
+        "Chile": [
+            26.439542635244
+        ]
+    },
+    "colors": {
+        "Cameroon": "#f27979",
+        "Canada": "#c1f200",
+        "Central African Republic": "#52a574",
+        "Chad": "#0042a5",
+        "Chile": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

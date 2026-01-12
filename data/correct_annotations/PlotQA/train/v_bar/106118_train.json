@@ -1,0 +1,54 @@
+{
+    "title": "Net bilateral aid flow in countries from different members of DA Committee",
+    "x_axis": {
+        "categories": [
+            "New Zealand",
+            "Ireland",
+            "Spain"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Mauritania": "#483D8B",
+        "Rwanda": "#00FF7F"
+    },
+    "data": {
+        "Mauritania": [
+            350000,
+            210000,
+            15740000
+        ],
+        "Rwanda": [
+            110000,
+            2630000,
+            850000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15740000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

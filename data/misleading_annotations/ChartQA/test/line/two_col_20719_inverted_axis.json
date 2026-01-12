@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "May '20",
+        "Jun '20",
+        "Jul '20",
+        "Aug '20",
+        "Sep '20",
+        "Oct '20",
+        "Nov '20",
+        "Dec '20",
+        "Jan '21",
+        "Feb '21",
+        "Mar '21",
+        "Apr '21",
+        "May '21"
+    ],
+    "y_axis": "Number of full-time employees in millions",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                116.55,
+                118.94,
+                119.53,
+                122.46,
+                122.57,
+                123.65,
+                124.29,
+                124.69,
+                124.99,
+                124.87,
+                125.8,
+                126.16,
+                126.38
+            ]
+        }
+    ],
+    "type": "line",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 110,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

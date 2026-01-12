@@ -1,0 +1,117 @@
+{
+    "title": "",
+    "legend": {
+        "Uruguay": "#f27979",
+        "Chile": "#f25a00",
+        "Argentina": "#f2d379",
+        "Brazil": "#d3f200",
+        "Costa Rica": "#b5f279",
+        "Colombia": "#1ef200",
+        "Mexico": "#52a567",
+        "Peru": "#00a567",
+        "Ecuador": "#52a5a5",
+        "Panama": "#0067a5",
+        "Dominican Rep.": "#5267a5",
+        "El Slavador": "#1400a5",
+        "Venezuela": "#b579f2",
+        "Honduras": "#d300f2",
+        "Cuba": "#f279d3",
+        "Haiti": "#f2005a"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Uruguay": [
+            0.79
+        ],
+        "Chile": [
+            0.74
+        ],
+        "Argentina": [
+            0.73
+        ],
+        "Brazil": [
+            0.73
+        ],
+        "Costa Rica": [
+            0.7
+        ],
+        "Colombia": [
+            0.69
+        ],
+        "Mexico": [
+            0.68
+        ],
+        "Peru": [
+            0.65
+        ],
+        "Ecuador": [
+            0.61
+        ],
+        "Panama": [
+            0.61
+        ],
+        "Dominican Rep.": [
+            0.57
+        ],
+        "El Slavador": [
+            0.55
+        ],
+        "Venezuela": [
+            0.53
+        ],
+        "Honduras": [
+            0.45
+        ],
+        "Cuba": [
+            0.41
+        ],
+        "Haiti": [
+            0.3
+        ]
+    },
+    "colors": {
+        "Uruguay": "#f27979",
+        "Chile": "#f25a00",
+        "Argentina": "#f2d379",
+        "Brazil": "#d3f200",
+        "Costa Rica": "#b5f279",
+        "Colombia": "#1ef200",
+        "Mexico": "#52a567",
+        "Peru": "#00a567",
+        "Ecuador": "#52a5a5",
+        "Panama": "#0067a5",
+        "Dominican Rep.": "#5267a5",
+        "El Slavador": "#1400a5",
+        "Venezuela": "#b579f2",
+        "Honduras": "#d300f2",
+        "Cuba": "#f279d3",
+        "Haiti": "#f2005a"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

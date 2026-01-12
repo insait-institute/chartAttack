@@ -1,0 +1,50 @@
+{
+    "title": "Number of RTC premises in millions",
+    "x_axis": {
+        "categories": [
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of RTC premises in millions"
+    },
+    "legend": {
+        "RTC premises": "#2876dd"
+    },
+    "data": {
+        "RTC premises": [
+            5.4,
+            7,
+            10,
+            11.7
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

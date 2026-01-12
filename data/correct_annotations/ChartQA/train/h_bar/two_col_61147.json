@@ -1,0 +1,104 @@
+{
+    "title": "Properties key",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Tower Hamlets",
+        "W&C",
+        "Hackney",
+        "Camden",
+        "K&C",
+        "Islington",
+        "Southwark",
+        "Lambeth",
+        "H&F",
+        "Wandsworth",
+        "Hounslow",
+        "Haringey",
+        "Brent",
+        "Lewisham",
+        "Newham",
+        "Ealing",
+        "Greenwich",
+        "Waltham Forest",
+        "Barnet",
+        "Richmond Upon Thames",
+        "Merton",
+        "Kingston Upon Thames",
+        "Croydon",
+        "Redbridge",
+        "Harrow",
+        "Bromley",
+        "Enfield",
+        "Sutton",
+        "Hillingdon",
+        "Bexley",
+        "Havering",
+        "Barking and Dagenham"
+    ],
+    "data": {
+        "Model": [
+            3335,
+            3181,
+            3040,
+            2313,
+            2127,
+            2101,
+            1961,
+            1835,
+            1548,
+            1435,
+            887,
+            881,
+            867,
+            818,
+            714,
+            517,
+            507,
+            500,
+            471,
+            467,
+            395,
+            251,
+            247,
+            241,
+            213,
+            169,
+            142,
+            91,
+            78,
+            59,
+            43,
+            40
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3340
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

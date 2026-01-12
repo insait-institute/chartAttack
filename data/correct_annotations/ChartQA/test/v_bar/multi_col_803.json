@@ -1,0 +1,91 @@
+{
+    "title": "Number of stores",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of stores"
+    },
+    "legend": {
+        "Western Europe": "#2876dd",
+        "North America": "#0f283e",
+        "Japan": "#bababa",
+        "Emerging countries": "#a60b0b"
+    },
+    "data": {
+        "Western Europe": [
+            31,
+            33,
+            35,
+            37,
+            47,
+            43,
+            46,
+            47
+        ],
+        "North America": [
+            17,
+            22,
+            21,
+            25,
+            29,
+            34,
+            43,
+            47
+        ],
+        "Japan": [
+            21,
+            21,
+            25,
+            27,
+            30,
+            26,
+            31,
+            32
+        ],
+        "Emerging countries": [
+            46,
+            52,
+            61,
+            70,
+            78,
+            91,
+            102,
+            113
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

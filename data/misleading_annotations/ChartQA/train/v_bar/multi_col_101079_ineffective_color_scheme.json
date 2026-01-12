@@ -1,0 +1,106 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Calvin Klein North America": "#2876dd",
+        "Calvin Klein International": "#2868dd",
+        "Tommy Hilfiger North America": "#3160de",
+        "Tommy Hilfiger International": "#2547d6",
+        "Heritage Brands Wholesale": "#374ae2",
+        "Heritage Brands Retail": "#2329cd"
+    },
+    "data": {
+        "Calvin Klein North America": [
+            1511,
+            1513,
+            1511.3,
+            1599.9,
+            1467,
+            826.8
+        ],
+        "Calvin Klein International": [
+            1645,
+            1346,
+            1645,
+            1828,
+            1896.7,
+            1614.6
+        ],
+        "Tommy Hilfiger North America": [
+            1482,
+            1502,
+            1482,
+            1574,
+            1540.2,
+            901.2
+        ],
+        "Tommy Hilfiger International": [
+            2268,
+            1899,
+            2268,
+            2600,
+            2994.2,
+            2615.6
+        ],
+        "Heritage Brands Wholesale": [
+            1274,
+            1272,
+            1274,
+            1293,
+            1248.5,
+            703.1
+        ],
+        "Heritage Brands Retail": [
+            259,
+            259,
+            259,
+            259,
+            253.4,
+            137.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Calvin Klein North America": "#2876dd",
+        "Calvin Klein International": "#2868dd",
+        "Tommy Hilfiger North America": "#3160de",
+        "Tommy Hilfiger International": "#2547d6",
+        "Heritage Brands Wholesale": "#374ae2",
+        "Heritage Brands Retail": "#2329cd"
+    }
+}

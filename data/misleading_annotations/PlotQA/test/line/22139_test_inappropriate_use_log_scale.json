@@ -1,0 +1,55 @@
+{
+    "title": "Total interest payments of Malawi to exports of goods, services and primary income",
+    "legend": {
+        "Interest payments on external debt": "#228B22"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Payments(% of exports of goods, services and primary income)",
+    "data": [
+        {
+            "label": "Interest payments on external debt",
+            "color": "#228B22",
+            "values": [
+                3.26049176673155,
+                3.68454212222193,
+                3.01583092348238,
+                4.39992147941174,
+                3.9236928904877
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

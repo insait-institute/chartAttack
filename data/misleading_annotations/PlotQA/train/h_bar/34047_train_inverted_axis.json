@@ -1,0 +1,56 @@
+{
+    "title": "Total commercial services traded in 2007",
+    "legend": {
+        "Commercial service exports": "#6A5ACD",
+        "Commercial service imports": "#191970"
+    },
+    "categories": [
+        "Botswana",
+        "Brazil",
+        "Brunei Darussalam",
+        "Bulgaria"
+    ],
+    "data": {
+        "Commercial service exports": [
+            835985179.413101,
+            22614703577.8683,
+            813339672.9835839,
+            6761485336.574039
+        ],
+        "Commercial service imports": [
+            726594645.873736,
+            34699657001.2415,
+            1115051369.18976,
+            5193028737.87183
+        ]
+    },
+    "colors": {
+        "Commercial service exports": "#6A5ACD",
+        "Commercial service imports": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34699657010
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

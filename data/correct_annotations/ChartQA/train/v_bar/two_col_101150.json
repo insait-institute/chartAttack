@@ -1,0 +1,66 @@
+{
+    "title": "Index 1990 = 100",
+    "x_axis": {
+        "categories": [
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Index 1990 = 100"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            61.3,
+            61.7,
+            60.3,
+            52.3,
+            50,
+            52.1,
+            50.8,
+            46.9,
+            47,
+            47.1,
+            46.3,
+            46.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

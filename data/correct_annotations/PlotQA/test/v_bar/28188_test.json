@@ -1,0 +1,68 @@
+{
+    "title": "Percentage of the unemployed labor force with different levels of education in countries",
+    "x_axis": {
+        "categories": [
+            "Slovenia",
+            "South Africa",
+            "Spain",
+            "St. Lucia",
+            "Sweden"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary education": "#40E0D0",
+        "Secondary education": "#F0E68C",
+        "Tertiary education": "#8FBC8F"
+    },
+    "data": {
+        "Primary education": [
+            29.10000038146969,
+            54.4000015258789,
+            58.9000015258789,
+            52.9000015258789,
+            31.7000007629395
+        ],
+        "Secondary education": [
+            64.40000152587889,
+            35.4000015258789,
+            20.0,
+            27.2000007629395,
+            52.7000007629395
+        ],
+        "Tertiary education": [
+            6.599999904632571,
+            4.0,
+            21.1000003814697,
+            3.90000009536743,
+            14.6000003814697
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

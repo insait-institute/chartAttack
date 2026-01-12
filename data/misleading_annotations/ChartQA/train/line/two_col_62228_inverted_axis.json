@@ -1,0 +1,71 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "4/2020",
+        "5/2020",
+        "6/2020",
+        "7/2020",
+        "8/2020",
+        "9/2020",
+        "10/2020",
+        "11/2020",
+        "12/2020",
+        "1/2021",
+        "2/2021",
+        "3/2021",
+        "4/2021"
+    ],
+    "y_axis_label": "Food price index (2014-2016=100)",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                63.2,
+                67.8,
+                74.9,
+                76,
+                81.1,
+                79,
+                84.7,
+                87.5,
+                87.1,
+                94.2,
+                100.2,
+                96.2,
+                100
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

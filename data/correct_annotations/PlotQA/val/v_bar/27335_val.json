@@ -1,0 +1,68 @@
+{
+    "title": "IDA resource allocation index of a country",
+    "x_axis": {
+        "categories": [
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "Other small states",
+            "Pacific island small states",
+            "Small states"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#191970",
+        "2006": "#0000FF",
+        "2007": "#FF0000"
+    },
+    "data": {
+        "2005": [
+            3.21666666666667,
+            3.45583333333333,
+            3.28055555555556,
+            3.20666666666667,
+            3.38245614035088
+        ],
+        "2006": [
+            3.15416666666667,
+            3.4390522875817,
+            3.17416666666667,
+            3.15666666666667,
+            3.315
+        ],
+        "2007": [
+            3.15,
+            3.46440972222222,
+            3.21083333333333,
+            3.19166666666667,
+            3.34041666666667
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,137 @@
+{
+    "title": "Rushing yards",
+    "categories": [
+        "Rushing yards"
+    ],
+    "data": {
+        "Shaun Alexander": [
+            9429.0
+        ],
+        "Chris Warren": [
+            6706.0
+        ],
+        "Curt Warner": [
+            6705.0
+        ],
+        "Marshawn Lynch": [
+            6381.0
+        ],
+        "John Williams": [
+            4579.0
+        ],
+        "Russell Wilson": [
+            4506.0
+        ],
+        "Ricky Watters": [
+            4009.0
+        ],
+        "Sherman Smith": [
+            3429.0
+        ],
+        "Chris Carson": [
+            3270.0
+        ],
+        "Maurice Morris": [
+            2612.0
+        ],
+        "Dan Doornink": [
+            1530.0
+        ],
+        "Jim Zorn": [
+            1491.0
+        ],
+        "Julius Jones": [
+            1391.0
+        ],
+        "Thomas Rawls": [
+            1336.0
+        ],
+        "Justin Forsett": [
+            1287.0
+        ],
+        "Lamar Smith": [
+            1286.0
+        ],
+        "David Sims": [
+            1174.0
+        ],
+        "Derrick Fenner": [
+            1167.0
+        ],
+        "Matt Hasselbeck": [
+            1129.0
+        ],
+        "Dave Krieg": [
+            1090.0
+        ]
+    },
+    "colors": {
+        "Shaun Alexander": "#f27979",
+        "Chris Warren": "#f24800",
+        "Curt Warner": "#f2c179",
+        "Marshawn Lynch": "#f2da00",
+        "John Williams": "#daf279",
+        "Russell Wilson": "#79f200",
+        "Ricky Watters": "#91f279",
+        "Sherman Smith": "#00a510",
+        "Chris Carson": "#52a574",
+        "Maurice Morris": "#00a574",
+        "Dan Doornink": "#52a5a5",
+        "Jim Zorn": "#0074a5",
+        "Julius Jones": "#5274a5",
+        "Thomas Rawls": "#0010a5",
+        "Justin Forsett": "#9179f2",
+        "Lamar Smith": "#7900f2",
+        "David Sims": "#da79f2",
+        "Derrick Fenner": "#f200da",
+        "Matt Hasselbeck": "#f279c1",
+        "Dave Krieg": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9430
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Shaun Alexander": "#f27979",
+        "Chris Warren": "#f24800",
+        "Curt Warner": "#f2c179",
+        "Marshawn Lynch": "#f2da00",
+        "John Williams": "#daf279",
+        "Russell Wilson": "#79f200",
+        "Ricky Watters": "#91f279",
+        "Sherman Smith": "#00a510",
+        "Chris Carson": "#52a574",
+        "Maurice Morris": "#00a574",
+        "Dan Doornink": "#52a5a5",
+        "Jim Zorn": "#0074a5",
+        "Julius Jones": "#5274a5",
+        "Thomas Rawls": "#0010a5",
+        "Justin Forsett": "#9179f2",
+        "Lamar Smith": "#7900f2",
+        "David Sims": "#da79f2",
+        "Derrick Fenner": "#f200da",
+        "Matt Hasselbeck": "#f279c1",
+        "Dave Krieg": "#f20048"
+    }
+}

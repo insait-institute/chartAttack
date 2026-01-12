@@ -1,0 +1,104 @@
+{
+    "title": "",
+    "legend": {
+        "Smokers": "#2876dd"
+    },
+    "categories": [
+        "Emilia-Romagna",
+        "Umbria",
+        "Tuscany",
+        "Sicily",
+        "Lombardy",
+        "Piedmont",
+        "Sardinia",
+        "Campania",
+        "Apulia",
+        "Marche",
+        "Lazio",
+        "Abruzzo",
+        "Liguria",
+        "Trentino-South Tyrol",
+        "Molise",
+        "Aosta Valley",
+        "Calabria",
+        "Veneto",
+        "Basilicata",
+        "Friuli-Venezia Giulia"
+    ],
+    "data": {
+        "Smokers": [
+            20.5,
+            20.4,
+            20.4,
+            20.3,
+            19.8,
+            19.7,
+            19.3,
+            19.3,
+            18.8,
+            18.7,
+            18.7,
+            18.7,
+            18.4,
+            18.0,
+            17.9,
+            17.2,
+            17.0,
+            16.5,
+            16.4,
+            15.7
+        ]
+    },
+    "colors": {
+        "Smokers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Smokers": [
+            1.5,
+            1.25,
+            2.0,
+            1.75,
+            0.75,
+            0.5,
+            1.25,
+            0.25,
+            1.5,
+            1.5,
+            1.5,
+            0.5,
+            0.75,
+            0.25,
+            1.75,
+            0.75,
+            0.25,
+            1.5,
+            2.0,
+            0.25
+        ]
+    }
+}

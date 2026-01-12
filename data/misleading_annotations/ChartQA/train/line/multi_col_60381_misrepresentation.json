@@ -1,0 +1,167 @@
+{
+    "title": "",
+    "legend": {
+        "Extreme poverty (subsistence minimum)": "#2876dd",
+        "Relative poverty": "#0f283e",
+        "\"Legal\" poverty": "#bababa"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+    ],
+    "y_axis_label": "Share of people in households",
+    "data": [
+        {
+            "label": "Extreme poverty (subsistence minimum)",
+            "color": "#2876dd",
+            "values": [
+                5.6,
+                5.7,
+                5.8,
+                6.8,
+                6.8,
+                7.4,
+                7.4,
+                6.5,
+                4.9,
+                4.3,
+                5.4,
+                4.2,
+                5.2
+            ]
+        },
+        {
+            "label": "Relative poverty",
+            "color": "#0f283e",
+            "values": [
+                17.6,
+                17.3,
+                17.4,
+                16.9,
+                16.3,
+                16.2,
+                16.2,
+                15.5,
+                13.9,
+                13.4,
+                14.2,
+                13,
+                11.8
+            ]
+        },
+        {
+            "label": "\"Legal\" poverty",
+            "color": "#bababa",
+            "values": [
+                10.6,
+                8.3,
+                7.4,
+                6.6,
+                7.2,
+                12.8,
+                12.2,
+                12.2,
+                12.7,
+                10.7,
+                10.9,
+                9,
+                9.1
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": [
+        {
+            "label": "Extreme poverty (subsistence minimum)",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5
+            ]
+        },
+        {
+            "label": "Relative poverty",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5
+            ]
+        },
+        {
+            "label": "\"Legal\" poverty",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5
+            ]
+        }
+    ]
+}

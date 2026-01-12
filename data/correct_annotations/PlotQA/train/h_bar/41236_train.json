@@ -1,0 +1,60 @@
+{
+    "title": "Balance of payments recorded for exporting goods",
+    "legend": {
+        "High income: OECD": "#191970",
+        "Australia": "#DAA520",
+        "Austria": "#EE82EE"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "High income: OECD": [
+            8309909679154.0,
+            9370797137054.0,
+            10841218299710.0
+        ],
+        "Australia": [
+            137449000000,
+            157749000000,
+            182994000000
+        ],
+        "Austria": [
+            159059000000,
+            175028000000,
+            211313000000
+        ]
+    },
+    "colors": {
+        "High income: OECD": "#191970",
+        "Australia": "#DAA520",
+        "Austria": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10841218299710
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

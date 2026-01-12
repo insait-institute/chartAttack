@@ -1,0 +1,70 @@
+{
+    "title": "Ticket sales (in million U.S. dollars)",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013"
+        ]
+    },
+    "y_axis": {
+        "label": "Ticket sales (in million U.S. dollars)"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            25.08,
+            27.5,
+            35.23,
+            32.25,
+            37.68,
+            36.21,
+            41.22,
+            47,
+            51.45,
+            62.67,
+            62.31,
+            65.02,
+            67.18,
+            71.71
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

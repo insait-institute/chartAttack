@@ -1,0 +1,97 @@
+{
+    "title": "Population growth compared to previous year",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Population growth compared to previous year"
+    },
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#f28400",
+        "2011": "#e7f279",
+        "2012": "#58f200",
+        "2013": "#52a561",
+        "2014": "#00a578",
+        "2015": "#528fa5",
+        "2016": "#001ea5",
+        "2017": "#a579f2",
+        "2018": "#dc00f2",
+        "2019": "#f279bb"
+    },
+    "data": {
+        "2009": [
+            14.14
+        ],
+        "2010": [
+            11.48
+        ],
+        "2011": [
+            9.23
+        ],
+        "2012": [
+            7.57
+        ],
+        "2013": [
+            6.2
+        ],
+        "2014": [
+            5.11
+        ],
+        "2015": [
+            4.24
+        ],
+        "2016": [
+            3.4
+        ],
+        "2017": [
+            2.62
+        ],
+        "2018": [
+            2.07
+        ],
+        "2019": [
+            1.8
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#f28400",
+        "2011": "#e7f279",
+        "2012": "#58f200",
+        "2013": "#52a561",
+        "2014": "#00a578",
+        "2015": "#528fa5",
+        "2016": "#001ea5",
+        "2017": "#a579f2",
+        "2018": "#dc00f2",
+        "2019": "#f279bb"
+    }
+}

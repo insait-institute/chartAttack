@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Average daily usage time": "#2876dd"
+    },
+    "categories": [
+        "Indonesia",
+        "India",
+        "Philippines",
+        "China",
+        "Malaysia",
+        "Thailand",
+        "South Korea",
+        "Vietnam",
+        "Singapore",
+        "Japan"
+    ],
+    "data": {
+        "Average daily usage time": [
+            66,
+            62,
+            56,
+            55,
+            54,
+            50,
+            50,
+            47,
+            46,
+            38
+        ]
+    },
+    "colors": {
+        "Average daily usage time": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

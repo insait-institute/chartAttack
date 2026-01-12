@@ -1,0 +1,70 @@
+{
+    "title": "Total gross merchandise volume excl. vehicles in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014*",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Total gross merchandise volume excl. vehicles in billion U.S. dollars"
+    },
+    "legend": {
+        "Total GMV": "#2876dd"
+    },
+    "data": {
+        "Total GMV": [
+            46.57,
+            48,
+            48.35,
+            53.53,
+            60.33,
+            67.76,
+            76.42,
+            82.75,
+            81.3,
+            83.49,
+            88.4,
+            89.83,
+            85.51,
+            100
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

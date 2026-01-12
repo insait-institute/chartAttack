@@ -1,0 +1,72 @@
+{
+    "title": "Fuel imports from different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Germany": "#f27979",
+        "Greece": "#f2f200",
+        "Hong Kong": "#79f279",
+        "Iceland": "#00a5a5",
+        "Israel": "#5252a5",
+        "Italy": "#a500a5"
+    },
+    "data": {
+        "Germany": [
+            12.6225348665643
+        ],
+        "Greece": [
+            7.29574286245445
+        ],
+        "Hong Kong": [
+            3.59651491345603
+        ],
+        "Iceland": [
+            12.7311363906351
+        ],
+        "Israel": [
+            6.454334599234017
+        ],
+        "Italy": [
+            13.3521215895756
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Germany": "#f27979",
+        "Greece": "#f2f200",
+        "Hong Kong": "#79f279",
+        "Iceland": "#00a5a5",
+        "Israel": "#5252a5",
+        "Italy": "#a500a5"
+    }
+}

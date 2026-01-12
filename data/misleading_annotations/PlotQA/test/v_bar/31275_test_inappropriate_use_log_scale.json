@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of ores and metals exported to different countries",
+    "x_axis": {
+        "categories": [
+            "Portugal",
+            "Singapore",
+            "Spain",
+            "Sweden"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#BA55D3",
+        "1963": "#90EE90",
+        "1964": "#5F9EA0",
+        "1965": "#8FBC8F"
+    },
+    "data": {
+        "1962": [
+            3.51287098772595,
+            1.4304003196628,
+            6.12526128125952,
+            8.90393042284682
+        ],
+        "1963": [
+            2.61828663828563,
+            1.64754752300659,
+            5.669254270008468,
+            12.8712160629331
+        ],
+        "1964": [
+            2.68517845574666,
+            1.46092126772905,
+            5.62552011246835,
+            13.2376761550632
+        ],
+        "1965": [
+            2.77938742618032,
+            1.49856343732701,
+            5.54516594903353,
+            13.3240062115929
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

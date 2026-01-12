@@ -1,0 +1,63 @@
+{
+    "title": "Balance of Payments as percentage of service export of Bangladesh",
+    "legend": {
+        "Transport services": "#8B0000",
+        "Travel services": "#4B0082",
+        "ICT services": "#20B2AA"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Transport services": [
+            8.40053502063286,
+            5.59524501494186,
+            4.80799997216216,
+            6.205188012182941
+        ],
+        "Travel services": [
+            5.13093114726879,
+            5.095603758233072,
+            4.19293950919995,
+            3.06055203449471
+        ],
+        "ICT services": [
+            18.5811826602398,
+            24.6467908966461,
+            26.9294417268176,
+            32.77788410758539
+        ]
+    },
+    "colors": {
+        "Transport services": "#8B0000",
+        "Travel services": "#4B0082",
+        "ICT services": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

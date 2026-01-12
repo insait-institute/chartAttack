@@ -1,0 +1,60 @@
+{
+    "title": "CO2 emissions from different fuel consumption in 1977",
+    "legend": {
+        "Afghanistan": "#FFA500",
+        "Albania": "#BC8F8F",
+        "Brazil": "#FF8C00"
+    },
+    "categories": [
+        "Gaseous fuel",
+        "Liquid fuel",
+        "Solid fuel"
+    ],
+    "data": {
+        "Afghanistan": [
+            21.4723926380368,
+            40.7975460122699,
+            18.8650306748466
+        ],
+        "Albania": [
+            12.2435897435897,
+            51.5384615384615,
+            29.7435897435897
+        ],
+        "Brazil": [
+            0.6953195319531948,
+            83.0895589558956,
+            9.246174617461751
+        ]
+    },
+    "colors": {
+        "Afghanistan": "#FFA500",
+        "Albania": "#BC8F8F",
+        "Brazil": "#FF8C00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

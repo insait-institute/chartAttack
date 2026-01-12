@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of population infected with HIV in 2005",
+    "legend": {
+        "Congo (Democratic)": "#4169E1",
+        "Peru": "#6495ED",
+        "Uruguay": "#BDB76B"
+    },
+    "categories": [
+        "Female",
+        "Male"
+    ],
+    "data": {
+        "Congo (Democratic)": [
+            0.7,
+            0.4
+        ],
+        "Peru": [
+            0.2,
+            0.3
+        ],
+        "Uruguay": [
+            0.1,
+            0.8
+        ]
+    },
+    "colors": {
+        "Congo (Democratic)": "#4169E1",
+        "Peru": "#6495ED",
+        "Uruguay": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

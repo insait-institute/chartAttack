@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Farms": "#2876dd"
+    },
+    "categories": [
+        "Texas",
+        "Missouri",
+        "Iowa",
+        "Ohio",
+        "Oklahoma",
+        "Kentucky",
+        "Illinois",
+        "California",
+        "Minnesota",
+        "Wisconsin"
+    ],
+    "data": {
+        "Farms": [
+            247000,
+            95000,
+            85000,
+            77800,
+            77300,
+            74500,
+            71100,
+            69600,
+            67500,
+            64400
+        ]
+    },
+    "colors": {
+        "Farms": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 247000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

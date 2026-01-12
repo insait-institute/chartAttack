@@ -1,0 +1,64 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service exports",
+    "legend": {
+        "2005": "#D2691E",
+        "2006": "#808000",
+        "2007": "#008B8B"
+    },
+    "categories": [
+        "Japan",
+        "Korea (Republic)",
+        "Latvia",
+        "Macedonia"
+    ],
+    "data": {
+        "2005": [
+            45.6974641333278,
+            37.4814700651564,
+            26.37187230371011,
+            61.4628174065599
+        ],
+        "2006": [
+            49.7659459876165,
+            40.0818983469531,
+            24.9731009253282,
+            56.0863705756915
+        ],
+        "2007": [
+            50.70734149824879,
+            39.7198930750074,
+            26.7916548469453,
+            56.2517896296245
+        ]
+    },
+    "colors": {
+        "2005": "#D2691E",
+        "2006": "#808000",
+        "2007": "#008B8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

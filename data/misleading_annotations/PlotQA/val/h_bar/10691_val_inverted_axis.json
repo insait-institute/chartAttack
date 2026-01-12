@@ -1,0 +1,72 @@
+{
+    "title": "Current account balance of a country after exporting goods and services",
+    "legend": {
+        "Iraq": "#66CDAA",
+        "Mexico": "#C71585",
+        "Niger": "#FFA07A"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Iraq": [
+            4.11634619404996,
+            17.4688441903884,
+            21.6089269712602,
+            -1.01064961357147,
+            4.684127573834139,
+            14.065166727563
+        ],
+        "Mexico": [
+            -0.8083739308035591,
+            -1.40570481300707,
+            -1.83184704106914,
+            -0.931433210789362,
+            -0.478390417180799,
+            -1.13783642048115
+        ],
+        "Niger": [
+            -8.602985518323509,
+            -8.185411157298219,
+            -12.0562240868714,
+            -24.45854327795811,
+            -19.86455377775561,
+            -23.76229565224861
+        ]
+    },
+    "colors": {
+        "Iraq": "#66CDAA",
+        "Mexico": "#C71585",
+        "Niger": "#FFA07A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

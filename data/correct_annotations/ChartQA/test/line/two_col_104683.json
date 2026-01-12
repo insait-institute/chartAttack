@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "1921",
+        "1926",
+        "1931",
+        "1936",
+        "1946",
+        "1954",
+        "1962",
+        "1968",
+        "1975",
+        "1982",
+        "1990",
+        "1999",
+        "2010",
+        "2015"
+    ],
+    "y_axis_label": "Share of immigrants",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                3.7,
+                5.7,
+                6.6,
+                5.6,
+                5.0,
+                5.4,
+                6.2,
+                6.6,
+                7.4,
+                7.4,
+                7.4,
+                7.3,
+                8.5,
+                9.3
+            ]
+        }
+    ],
+    "type": "line",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

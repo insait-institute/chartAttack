@@ -1,0 +1,64 @@
+{
+    "title": "Split of the income in different subgroups of a country in 2008",
+    "legend": {
+        "Armenia": "#BDB76B",
+        "Jordan": "#DC143C",
+        "Latvia": "#8B008B"
+    },
+    "categories": [
+        "First 20% of population",
+        "Second 20% of population",
+        "Third 20% of population",
+        "Fourth 20% of population"
+    ],
+    "data": {
+        "Armenia": [
+            39.71,
+            12.76,
+            16.66,
+            21.98
+        ],
+        "Jordan": [
+            41.66,
+            12.37,
+            16.08,
+            21.46
+        ],
+        "Latvia": [
+            42.98,
+            11.5,
+            16.28,
+            22.37
+        ]
+    },
+    "colors": {
+        "Armenia": "#BDB76B",
+        "Jordan": "#DC143C",
+        "Latvia": "#8B008B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

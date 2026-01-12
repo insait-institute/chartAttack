@@ -1,0 +1,47 @@
+{
+    "title": "Split of tax revenue collected by government in 2002",
+    "legend": {
+        "Taxes on exports": "#f27979",
+        "Taxes on profits and capital gains": "#00a5a5"
+    },
+    "categories": [
+        "Split of tax revenue collected by government in 2002"
+    ],
+    "data": {
+        "Taxes on exports": [
+            4.755177544301731e-06
+        ],
+        "Taxes on profits and capital gains": [
+            16.715509472813
+        ]
+    },
+    "colors": {
+        "Taxes on exports": "#f27979",
+        "Taxes on profits and capital gains": "#00a5a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

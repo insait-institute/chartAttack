@@ -1,0 +1,50 @@
+{
+    "title": "Percentage of youth(female) who are not in education, employment or training in Czech Republic",
+    "legend": {
+        "Unemployed(female)": "#8A2BE2"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "data": {
+        "Unemployed(female)": [
+            9.89000034332275,
+            10.2700004577637,
+            9.5,
+            9.77000045776367,
+            10.8100004196166
+        ]
+    },
+    "colors": {
+        "Unemployed(female)": "#8A2BE2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Percentage of global reserves",
+    "x_axis": {
+        "categories": [
+            "2009*",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of global reserves"
+    },
+    "legend": {
+        "Global Reserves": "#2876dd"
+    },
+    "data": {
+        "Global Reserves": [
+            18,
+            17.6,
+            18.3,
+            18.3,
+            16.6,
+            16.8,
+            16.9,
+            17.1,
+            16.7,
+            16.2,
+            16.3,
+            15.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

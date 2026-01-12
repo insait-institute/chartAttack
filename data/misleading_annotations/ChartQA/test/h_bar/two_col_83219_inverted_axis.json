@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "0 - 2.5 years",
+        "2.6 - 4.5 years",
+        "4.6 - 6.5 years",
+        "6.6 - 10.5 years",
+        "More than 10.5 years"
+    ],
+    "data": {
+        "Model": [
+            140994,
+            274713,
+            156134,
+            413077,
+            258081
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 413080
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of trained teachers in primary education in different countries",
+    "x_axis": {
+        "categories": [
+            "Ghana",
+            "Liberia",
+            "Morocco",
+            "Nepal",
+            "Saudi Arabia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Trained teacher": "#6A5ACD"
+    },
+    "data": {
+        "Trained teacher": [
+            52.3977584838867,
+            56.388500213623,
+            100.0,
+            93.5815200805664,
+            100.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Trained teacher": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

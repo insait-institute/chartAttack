@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of repeaters in secondary general education in the year 2009",
+    "x_axis": {
+        "categories": [
+            "Pacific island small states",
+            "Small states",
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#8A2BE2",
+        "Male": "#6B8E23"
+    },
+    "data": {
+        "Female": [
+            2.14135909080505,
+            7.39243221282958,
+            3.95336842536926,
+            11.6418991088867,
+            11.6425180435181
+        ],
+        "Male": [
+            2.40734004974365,
+            8.089770317077638,
+            4.83607006072998,
+            12.01416015625,
+            12.0144901275635
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

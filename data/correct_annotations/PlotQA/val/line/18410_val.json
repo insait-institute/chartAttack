@@ -1,0 +1,83 @@
+{
+    "title": "Amount of ores,manufactures and fuel imports of Hungary",
+    "legend": {
+        "Ores and metals": "#ADFF2F",
+        "Manufactures": "#FF4500",
+        "Fuel": "#BEBEBE"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "Amount of imports(as % of merchandise imports)",
+    "data": [
+        {
+            "label": "Ores and metals",
+            "color": "#ADFF2F",
+            "values": [
+                2.34989270049923,
+                2.31267681128835,
+                2.62161285638116,
+                1.95280411882964,
+                2.61637072402877,
+                2.64158846875202
+            ]
+        },
+        {
+            "label": "Manufactures",
+            "color": "#FF4500",
+            "values": [
+                84.30799073858,
+                84.3179550272441,
+                83.9970337536257,
+                77.39295516511591,
+                74.9078418876002,
+                75.76888632428579
+            ]
+        },
+        {
+            "label": "Fuel",
+            "color": "#BEBEBE",
+            "values": [
+                7.44240546781442,
+                5.64260696639177,
+                7.29941631963663,
+                10.1267754979923,
+                7.475939194022289,
+                9.4897502213009
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

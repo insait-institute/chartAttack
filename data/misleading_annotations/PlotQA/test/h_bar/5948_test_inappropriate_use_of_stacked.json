@@ -1,0 +1,62 @@
+{
+    "title": "Trade statistics with developing economies of North Africa in 1995",
+    "legend": {
+        "Other small states": "#f27979",
+        "Pacific island small states": "#c1f200",
+        "Small states": "#52a574",
+        "South Asia": "#0042a5",
+        "Sub-Saharan Africa (all income levels)": "#da79f2"
+    },
+    "categories": [
+        "Trade statistics with developing economies of North Africa in 1995"
+    ],
+    "data": {
+        "Other small states": [
+            1.53018988957384
+        ],
+        "Pacific island small states": [
+            0.000614135197908672
+        ],
+        "Small states": [
+            0.663094783362745
+        ],
+        "South Asia": [
+            2.20064345172259
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            0.9062163561560608
+        ]
+    },
+    "colors": {
+        "Other small states": "#f27979",
+        "Pacific island small states": "#c1f200",
+        "Small states": "#52a574",
+        "South Asia": "#0042a5",
+        "Sub-Saharan Africa (all income levels)": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

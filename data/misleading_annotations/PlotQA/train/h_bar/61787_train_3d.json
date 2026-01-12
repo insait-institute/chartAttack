@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of repeaters in secondary general education in the year 1972",
+    "legend": {
+        "Benin": "#FF69B4",
+        "Cuba": "#BC8F8F",
+        "Gabon": "#BEBEBE",
+        "Iraq": "#008B8B"
+    },
+    "categories": [
+        "Female",
+        "Male"
+    ],
+    "data": {
+        "Benin": [
+            15.88105,
+            11.46194
+        ],
+        "Cuba": [
+            19.48945,
+            16.36568
+        ],
+        "Gabon": [
+            9.22619,
+            8.61229
+        ],
+        "Iraq": [
+            22.53136,
+            27.45148
+        ]
+    },
+    "colors": {
+        "Benin": "#FF69B4",
+        "Cuba": "#BC8F8F",
+        "Gabon": "#BEBEBE",
+        "Iraq": "#008B8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Educated male labor force in Canada",
+    "legend": {
+        "Primary education": "#708090",
+        "Secondary education": "#6A5ACD",
+        "Tertiary education": "#556B2F"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Educated males (% of male labor force)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#708090",
+            "values": [
+                17.2000007629395,
+                16.6000003814697,
+                16.2000007629395,
+                15.6000003814697,
+                15.3000001907349
+            ]
+        },
+        {
+            "label": "Secondary education",
+            "color": "#6A5ACD",
+            "values": [
+                44.2000007629395,
+                43.7000007629395,
+                43.0,
+                43.0999984741211,
+                43.0999984741211
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "color": "#556B2F",
+            "values": [
+                38.5,
+                39.7000007629395,
+                40.7999992370605,
+                41.2999992370605,
+                41.5999984741211
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary education",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Secondary education",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "title": "Number of playoff appearances",
+    "categories": [
+        "Green Bay Packers",
+        "Dallas Cowboys",
+        "New York Giants",
+        "Pittsburgh Steelers",
+        "Minnesota Vikings",
+        "Cleveland Browns",
+        "Indianapolis Colts",
+        "Los Angeles Rams",
+        "New England Patriots",
+        "Chicago Bears",
+        "Philadelphia Eagles",
+        "San Francisco 49ers",
+        "Washington Football Team",
+        "Tennessee Titans",
+        "Kansas City Chiefs",
+        "Miami Dolphins",
+        "Denver Broncos",
+        "Las Vegas Raiders",
+        "Buffalo Bills",
+        "Los Angeles Chargers",
+        "Seattle Seahawks",
+        "Detroit Lions",
+        "Atlanta Falcons",
+        "Cincinnati Bengals",
+        "New Orleans Saints",
+        "New York Jets",
+        "Baltimore Ravens",
+        "Tampa Bay Buccaneers",
+        "Arizona Cardinals",
+        "Carolina Panthers",
+        "Jacksonville Jaguars",
+        "Houston Texans"
+    ],
+    "data": {
+        "Playoff Appearances": [
+            34,
+            33,
+            32,
+            32,
+            30,
+            29,
+            29,
+            29,
+            27,
+            27,
+            27,
+            27,
+            25,
+            24,
+            23,
+            23,
+            22,
+            22,
+            20,
+            19,
+            19,
+            17,
+            14,
+            14,
+            14,
+            14,
+            13,
+            11,
+            10,
+            8,
+            7,
+            6
+        ]
+    },
+    "colors": {
+        "Playoff Appearances": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Playoff Appearances": "#2876dd"
+    }
+}

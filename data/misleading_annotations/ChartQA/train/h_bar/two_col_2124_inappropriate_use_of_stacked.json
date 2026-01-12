@@ -1,0 +1,142 @@
+{
+    "title": "Homicides per 100,000 inhabitants",
+    "categories": [
+        "Homicides per 100,000 inhabitants"
+    ],
+    "data": {
+        "El Salvador": [
+            52.0
+        ],
+        "Jamaica": [
+            43.9
+        ],
+        "Honduras": [
+            38.9
+        ],
+        "Venezuela": [
+            36.7
+        ],
+        "Mexico": [
+            29.1
+        ],
+        "Brazil": [
+            27.4
+        ],
+        "Colombia": [
+            25.3
+        ],
+        "Guatemala": [
+            22.5
+        ],
+        "Saint Lucia": [
+            21.4
+        ],
+        "Puerto Rico": [
+            21.1
+        ],
+        "Guyana": [
+            14.2
+        ],
+        "Uruguay": [
+            12.1
+        ],
+        "Costa Rica": [
+            11.3
+        ],
+        "Dominican Republic": [
+            10.0
+        ],
+        "Barbados": [
+            9.8
+        ],
+        "Panama": [
+            9.4
+        ],
+        "Paraguay": [
+            7.1
+        ],
+        "Haiti": [
+            6.7
+        ],
+        "Ecuador": [
+            5.8
+        ],
+        "Argentina": [
+            5.3
+        ],
+        "Chile": [
+            4.4
+        ]
+    },
+    "colors": {
+        "El Salvador": "#f27979",
+        "Jamaica": "#f24500",
+        "Honduras": "#f2be79",
+        "Venezuela": "#f2cf00",
+        "Mexico": "#e0f279",
+        "Brazil": "#8af200",
+        "Colombia": "#9bf279",
+        "Guatemala": "#00f200",
+        "Saint Lucia": "#52a56a",
+        "Puerto Rico": "#00a55e",
+        "Guyana": "#52a599",
+        "Uruguay": "#008ea5",
+        "Costa Rica": "#5282a5",
+        "Dominican Republic": "#002fa5",
+        "Barbados": "#5252a5",
+        "Panama": "#2f00a5",
+        "Paraguay": "#be79f2",
+        "Haiti": "#cf00f2",
+        "Ecuador": "#f279e0",
+        "Argentina": "#f2008a",
+        "Chile": "#f2799b"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "El Salvador": "#f27979",
+        "Jamaica": "#f24500",
+        "Honduras": "#f2be79",
+        "Venezuela": "#f2cf00",
+        "Mexico": "#e0f279",
+        "Brazil": "#8af200",
+        "Colombia": "#9bf279",
+        "Guatemala": "#00f200",
+        "Saint Lucia": "#52a56a",
+        "Puerto Rico": "#00a55e",
+        "Guyana": "#52a599",
+        "Uruguay": "#008ea5",
+        "Costa Rica": "#5282a5",
+        "Dominican Republic": "#002fa5",
+        "Barbados": "#5252a5",
+        "Panama": "#2f00a5",
+        "Paraguay": "#be79f2",
+        "Haiti": "#cf00f2",
+        "Ecuador": "#f279e0",
+        "Argentina": "#f2008a",
+        "Chile": "#f2799b"
+    }
+}

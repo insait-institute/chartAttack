@@ -1,0 +1,78 @@
+{
+    "title": "Share of vaccinated infants",
+    "legend": {
+        "Vaccinated": "#2876dd"
+    },
+    "categories": [
+        "Ceuta",
+        "Region of Valencia",
+        "Balearic Islands",
+        "Andalusia",
+        "Melilla",
+        "Murcia",
+        "Aragon",
+        "Navarra",
+        "Castile and Leon",
+        "Cantabria",
+        "Castile-La Mancha",
+        "Basque Country",
+        "Extremadura",
+        "Galicia",
+        "Catalonia",
+        "Community of Madrid",
+        "Asturias",
+        "La Rioja",
+        "Canary Islands"
+    ],
+    "data": {
+        "Vaccinated": [
+            99.6,
+            99.3,
+            98.8,
+            97,
+            96.6,
+            96.1,
+            95.8,
+            95.2,
+            95.1,
+            93.4,
+            93.4,
+            93.4,
+            93.3,
+            93.1,
+            92.9,
+            92.1,
+            90.2,
+            90,
+            85.5
+        ]
+    },
+    "colors": {
+        "Vaccinated": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

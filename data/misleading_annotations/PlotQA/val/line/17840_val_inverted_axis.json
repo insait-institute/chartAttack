@@ -1,0 +1,79 @@
+{
+    "title": "Balance of payments as percentage of commercial service imports in Singapore",
+    "legend": {
+        "Transport services": "#663399",
+        "Travel services": "#6B8E23"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Balance of Payment (as % of commercial service imports)",
+    "data": [
+        {
+            "label": "Transport services",
+            "color": "#663399",
+            "values": [
+                35.4181917747791,
+                35.8302075660239,
+                32.8177827647486,
+                29.5397772008118,
+                29.47179586212501,
+                28.98044332797111,
+                28.2999696477461,
+                26.716160611336,
+                27.82750885023231
+            ]
+        },
+        {
+            "label": "Travel services",
+            "color": "#6B8E23",
+            "values": [
+                17.0216326088237,
+                17.6987279221395,
+                17.9648289039863,
+                18.7134440638361,
+                18.5108848268722,
+                18.3386187981695,
+                17.8070900133635,
+                17.0998281748095,
+                16.9334162091465
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

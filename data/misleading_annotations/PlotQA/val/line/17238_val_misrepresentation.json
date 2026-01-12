@@ -1,0 +1,99 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in Nigeria",
+    "legend": {
+        "Female": "#663399",
+        "Male": "#FFA500"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Gross intake ratio(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#663399",
+            "values": [
+                105.39705657959,
+                103.151977539063,
+                101.452079772949,
+                96.4681396484375,
+                83.7849197387695,
+                88.2555313110352,
+                84.197151184082
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#FFA500",
+            "values": [
+                123.219223022461,
+                119.883140563965,
+                116.763031005859,
+                107.466888427734,
+                93.8084182739258,
+                96.4776229858398,
+                94.1795272827148
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 80,
+                "max_value": 130
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Female",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Male",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

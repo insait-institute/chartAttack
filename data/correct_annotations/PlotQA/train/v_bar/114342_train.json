@@ -1,0 +1,68 @@
+{
+    "title": "Cost of communications and computers with respect to service imports",
+    "x_axis": {
+        "categories": [
+            "Italy",
+            "Jamaica",
+            "Japan",
+            "Kenya",
+            "Korea (Republic)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#8B0000",
+        "2006": "#D2691E",
+        "2007": "#C71585"
+    },
+    "data": {
+        "2005": [
+            47.3018399271862,
+            34.0771496449387,
+            40.6370999320927,
+            45.55131496056151,
+            37.8091766537589
+        ],
+        "2006": [
+            50.33865548594849,
+            32.2250267614845,
+            45.35591264831299,
+            33.4037554713752,
+            37.2885904515513
+        ],
+        "2007": [
+            51.0845198546401,
+            33.3488389161252,
+            47.5185235840103,
+            33.9346679512846,
+            36.4935363232133
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Asset Managers": "#2876dd"
+    },
+    "categories": [
+        "Nomura",
+        "Nikko Asset Management",
+        "Daiwa Asset Management",
+        "Mitsubishi UFJ",
+        "iShares",
+        "Samsung Asset Management",
+        "State Street",
+        "Fortune SG Fund Management",
+        "China Asset Management",
+        "Yuanta"
+    ],
+    "data": {
+        "Asset Managers": [
+            27.03,
+            11.96,
+            11.67,
+            5.1,
+            4.59,
+            3.83,
+            3.63,
+            3.11,
+            2.67,
+            2.12
+        ]
+    },
+    "colors": {
+        "Asset Managers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

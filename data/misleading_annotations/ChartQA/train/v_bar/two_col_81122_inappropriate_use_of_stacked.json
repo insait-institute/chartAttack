@@ -1,0 +1,97 @@
+{
+    "title": "Average number of civilian deaths per day",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Average number of civilian deaths per day"
+    },
+    "legend": {
+        "2003": "#f27979",
+        "2004": "#f28400",
+        "2005": "#e7f279",
+        "2006": "#58f200",
+        "2007": "#52a561",
+        "2008": "#00a578",
+        "2009": "#528fa5",
+        "2010": "#001ea5",
+        "2011": "#a579f2",
+        "2012": "#dc00f2",
+        "2013*": "#f279bb"
+    },
+    "data": {
+        "2003": [
+            15.0
+        ],
+        "2004": [
+            19.0
+        ],
+        "2005": [
+            30.0
+        ],
+        "2006": [
+            59.0
+        ],
+        "2007": [
+            42.0
+        ],
+        "2008": [
+            15.0
+        ],
+        "2009": [
+            4.7
+        ],
+        "2010": [
+            4.0
+        ],
+        "2011": [
+            4.8
+        ],
+        "2012": [
+            5.0
+        ],
+        "2013*": [
+            2.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2003": "#f27979",
+        "2004": "#f28400",
+        "2005": "#e7f279",
+        "2006": "#58f200",
+        "2007": "#52a561",
+        "2008": "#00a578",
+        "2009": "#528fa5",
+        "2010": "#001ea5",
+        "2011": "#a579f2",
+        "2012": "#dc00f2",
+        "2013*": "#f279bb"
+    }
+}

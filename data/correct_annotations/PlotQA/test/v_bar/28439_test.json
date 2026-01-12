@@ -1,0 +1,56 @@
+{
+    "title": "Official Aid vs Net Official DA received in 1961 ",
+    "x_axis": {
+        "categories": [
+            "Official aid received",
+            "ODA received"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Lesotho": "#6B8E23",
+        "Myanmar": "#32CD32",
+        "Sudan": "#4169E1"
+    },
+    "data": {
+        "Lesotho": [
+            4140000,
+            4140000
+        ],
+        "Myanmar": [
+            21380000,
+            21380000
+        ],
+        "Sudan": [
+            14380000,
+            14380000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 21380000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

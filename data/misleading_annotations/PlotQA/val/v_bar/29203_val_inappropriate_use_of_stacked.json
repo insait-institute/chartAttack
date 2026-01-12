@@ -1,0 +1,72 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 1999",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Mongolia": "#f27979",
+        "Namibia": "#f2f200",
+        "Netherlands": "#79f279",
+        "Nicaragua": "#00a5a5",
+        "Oman": "#5252a5",
+        "Pakistan": "#a500a5"
+    },
+    "data": {
+        "Mongolia": [
+            12.5707714516405
+        ],
+        "Namibia": [
+            52.3402470421476
+        ],
+        "Netherlands": [
+            8.47343731000365
+        ],
+        "Nicaragua": [
+            23.1314225689451
+        ],
+        "Oman": [
+            33.2263897800852
+        ],
+        "Pakistan": [
+            4.44616051687624
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Mongolia": "#f27979",
+        "Namibia": "#f2f200",
+        "Netherlands": "#79f279",
+        "Nicaragua": "#00a5a5",
+        "Oman": "#5252a5",
+        "Pakistan": "#a500a5"
+    }
+}

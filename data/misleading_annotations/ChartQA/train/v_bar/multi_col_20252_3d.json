@@ -1,0 +1,72 @@
+{
+    "title": "Sales price (in U.S. dollars)",
+    "x_axis": {
+        "categories": [
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales price (in U.S. dollars)"
+    },
+    "legend": {
+        "Beer*": "#2876dd",
+        "Soft drink**": "#0f283e",
+        "Hot dog": "#bababa"
+    },
+    "data": {
+        "Beer*": [
+            7.5,
+            7.5,
+            7.75,
+            8.25,
+            8.5,
+            8.5
+        ],
+        "Soft drink**": [
+            2.75,
+            3,
+            3,
+            3.75,
+            4,
+            4
+        ],
+        "Hot dog": [
+            4,
+            4.5,
+            4.5,
+            5,
+            5.25,
+            5.25
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

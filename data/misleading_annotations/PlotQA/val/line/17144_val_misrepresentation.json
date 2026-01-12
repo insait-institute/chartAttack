@@ -1,0 +1,84 @@
+{
+    "title": "Percentage of adults (ages 15+) who smoke any form of tobacco in South Asia",
+    "legend": {
+        "Females": "#87CEEB",
+        "Males": "#00FFFF"
+    },
+    "x_axis": [
+        "2000",
+        "2005",
+        "2010",
+        "2012"
+    ],
+    "y_axis_label": "People smoking (as % of total adults)",
+    "data": [
+        {
+            "label": "Females",
+            "color": "#87CEEB",
+            "values": [
+                7.6715063463652,
+                4.828643889504661,
+                3.07230567245792,
+                2.56493359427077
+            ]
+        },
+        {
+            "label": "Males",
+            "color": "#00FFFF",
+            "values": [
+                38.7206090050849,
+                32.8863670024358,
+                28.2901273926713,
+                26.8098622992419
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Females",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Males",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

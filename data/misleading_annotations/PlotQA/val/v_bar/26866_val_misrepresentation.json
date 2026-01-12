@@ -1,0 +1,77 @@
+{
+    "title": "Agricultural raw materials,food and fuel exports of countries in 1981",
+    "x_axis": {
+        "categories": [
+            "Agricultural raw materials",
+            "Food",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chile": "#8B0000",
+        "Greece": "#5F9EA0",
+        "Nigeria": "#CD5C5C"
+    },
+    "data": {
+        "Chile": [
+            9.2951384923715,
+            17.9285926535861,
+            1.80077741297323
+        ],
+        "Greece": [
+            1.92622819493327,
+            26.51415904025431,
+            9.505953032509108
+        ],
+        "Nigeria": [
+            0.11669017557608,
+            2.18009141776035,
+            97.0634480894586
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Chile": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Greece": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Nigeria": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

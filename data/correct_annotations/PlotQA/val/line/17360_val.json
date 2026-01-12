@@ -1,0 +1,70 @@
+{
+    "title": "Expenditure on health care (as % of GDP) in Bahrain",
+    "legend": {
+        "Private funds": "#F4A460",
+        "Public funds": "#00BFFF"
+    },
+    "x_axis": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "y_axis_label": "Health expenditure (as % of GDP)",
+    "data": [
+        {
+            "label": "Private funds",
+            "color": "#F4A460",
+            "values": [
+                1.29983103815906,
+                1.43537769215652,
+                1.35017292340281,
+                1.14654134829544,
+                1.26243287351798,
+                1.3098081553458
+            ]
+        },
+        {
+            "label": "Public funds",
+            "color": "#00BFFF",
+            "values": [
+                3.11798250184094,
+                2.88224391784348,
+                2.83870873659719,
+                2.36240391170456,
+                2.53286281648202,
+                2.5843074146542
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

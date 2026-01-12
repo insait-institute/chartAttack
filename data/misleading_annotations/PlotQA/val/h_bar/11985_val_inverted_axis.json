@@ -1,0 +1,77 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "legend": {
+        "Cote d'Ivoire": "#00FA9A",
+        "United States": "#B03060",
+        "Venezuela": "#6B8E23",
+        "Vietnam": "#BEBEBE"
+    },
+    "categories": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "data": {
+        "Cote d'Ivoire": [
+            1844543564.58214,
+            1808451685.27983,
+            1760480758.49778,
+            1885035425.48068,
+            2063557689.90514
+        ],
+        "United States": [
+            1509321000000.0,
+            1431415000000.0,
+            1423323000000.0,
+            1480142000000.0,
+            1566578000000.0
+        ],
+        "Venezuela": [
+            21706316548.0322,
+            20881537891.7899,
+            15269742882.9838,
+            14314549237.7754,
+            18506971977.441
+        ],
+        "Vietnam": [
+            5750363579.60329,
+            6425801632.12495,
+            7173075035.17785,
+            8040061252.453171,
+            9238854312.20627
+        ]
+    },
+    "colors": {
+        "Cote d'Ivoire": "#00FA9A",
+        "United States": "#B03060",
+        "Venezuela": "#6B8E23",
+        "Vietnam": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1566578000000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

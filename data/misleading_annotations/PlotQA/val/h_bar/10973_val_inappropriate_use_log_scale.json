@@ -1,0 +1,63 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 2009",
+    "legend": {
+        "Estonia": "#40E0D0",
+        "Georgia": "#228B22",
+        "Mongolia": "#EE82EE"
+    },
+    "categories": [
+        "Compensation of employees",
+        "Goods and services",
+        "Subsidies and Transfers",
+        "Other expenses"
+    ],
+    "data": {
+        "Estonia": [
+            21.25756223346231,
+            12.6252107507686,
+            44.2943568382426,
+            3.86591292274125
+        ],
+        "Georgia": [
+            16.9191238567553,
+            18.9603435574003,
+            49.0252097820423,
+            12.0909923993316
+        ],
+        "Mongolia": [
+            33.2358749894449,
+            19.6151498446671,
+            44.5565299770255,
+            0.8937478990954789
+        ]
+    },
+    "colors": {
+        "Estonia": "#40E0D0",
+        "Georgia": "#228B22",
+        "Mongolia": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

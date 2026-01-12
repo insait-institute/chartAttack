@@ -1,0 +1,72 @@
+{
+    "title": "Sales price in U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Sales price in U.S. dollars"
+    },
+    "legend": {
+        "2010/11": "#f27979",
+        "2011/12": "#f2f200",
+        "2012/13": "#79f279",
+        "2013/14": "#00a5a5",
+        "2014/15": "#5252a5",
+        "2015/16": "#a500a5"
+    },
+    "data": {
+        "2010/11": [
+            5.5
+        ],
+        "2011/12": [
+            5.5
+        ],
+        "2012/13": [
+            7.5
+        ],
+        "2013/14": [
+            7.5
+        ],
+        "2014/15": [
+            7.5
+        ],
+        "2015/16": [
+            7.5
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2010/11": "#f27979",
+        "2011/12": "#f2f200",
+        "2012/13": "#79f279",
+        "2013/14": "#00a5a5",
+        "2014/15": "#5252a5",
+        "2015/16": "#a500a5"
+    }
+}

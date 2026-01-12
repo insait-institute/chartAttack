@@ -1,0 +1,91 @@
+{
+    "title": "CPIA ratings of different financial policies of Cote d'Ivoire",
+    "legend": {
+        "Financial sector": "#228B22",
+        "Trade": "#4169E1",
+        "Budget management": "#4B0082",
+        "Fiscal policy": "#008080"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Rating (1=low 6=high)",
+    "data": [
+        {
+            "label": "Financial sector",
+            "color": "#228B22",
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "label": "Trade",
+            "color": "#4169E1",
+            "values": [
+                4.0,
+                4.0,
+                4.0,
+                4.0,
+                4.0
+            ]
+        },
+        {
+            "label": "Budget management",
+            "color": "#4B0082",
+            "values": [
+                2.5,
+                2.5,
+                3.0,
+                3.0,
+                3.0
+            ]
+        },
+        {
+            "label": "Fiscal policy",
+            "color": "#008080",
+            "values": [
+                2.5,
+                2.5,
+                3.0,
+                3.5,
+                3.5
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

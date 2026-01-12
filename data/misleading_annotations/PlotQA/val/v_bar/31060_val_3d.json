@@ -1,0 +1,71 @@
+{
+    "title": "Net disbursements of loans in different countries in 2003",
+    "x_axis": {
+        "categories": [
+            "Regional development banks",
+            "International Monetary Fund",
+            "International Development Association",
+            "Others"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Low income": "#0000FF",
+        "Cameroon": "#00FF00",
+        "Mozambique": "#B8860B",
+        "Niger": "#6A5ACD"
+    },
+    "data": {
+        "Low income": [
+            587231000,
+            165577000,
+            2031829000,
+            130366000
+        ],
+        "Cameroon": [
+            9536000,
+            10929000,
+            29224000,
+            5277000
+        ],
+        "Mozambique": [
+            27436000,
+            3128000,
+            153841000,
+            11690000
+        ],
+        "Niger": [
+            34534000,
+            18443000,
+            71839000,
+            -1291000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2031829000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

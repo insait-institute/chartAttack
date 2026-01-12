@@ -1,0 +1,111 @@
+{
+    "title": "Net bilateral aid flow in Sub-Saharan Africa (all income levels) from different donors of DAC",
+    "legend": {
+        "Austria": "#0000FF",
+        "Belgium": "#FFFF00",
+        "Denmark": "#F4A460",
+        "Korea": "#DC143C"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "Austria",
+            "color": "#0000FF",
+            "values": [
+                125210000,
+                126640000,
+                528350000,
+                390720000,
+                128790000,
+                127880000,
+                226640000,
+                112990000,
+                164030000
+            ]
+        },
+        {
+            "label": "Belgium",
+            "color": "#FFFF00",
+            "values": [
+                522680000,
+                579460000,
+                817600000,
+                637510000,
+                599590000,
+                761860000,
+                1181750000,
+                782120000,
+                755520000
+            ]
+        },
+        {
+            "label": "Denmark",
+            "color": "#F4A460",
+            "values": [
+                508350000,
+                581760000,
+                732810000,
+                865240000,
+                868480000,
+                865740000,
+                836340000,
+                953640000,
+                776200000
+            ]
+        },
+        {
+            "label": "Korea",
+            "color": "#DC143C",
+            "values": [
+                21930000,
+                33310000,
+                38320000,
+                58150000,
+                87550000,
+                81430000,
+                124390000,
+                158280000,
+                241950000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 21930000,
+                "max_value": 1181750000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

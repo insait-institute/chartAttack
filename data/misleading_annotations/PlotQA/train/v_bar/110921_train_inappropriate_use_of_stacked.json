@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the population (ages 15-24) that is economically active in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "New Zealand": "#f27979",
+        "Norway": "#f2f200",
+        "Pakistan": "#79f279",
+        "Panama": "#00a5a5",
+        "Paraguay": "#5252a5",
+        "Philippines": "#a500a5"
+    },
+    "data": {
+        "New Zealand": [
+            60.5999984741211
+        ],
+        "Norway": [
+            52.7000007629395
+        ],
+        "Pakistan": [
+            12.8999996185303
+        ],
+        "Panama": [
+            35.5
+        ],
+        "Paraguay": [
+            54.0
+        ],
+        "Philippines": [
+            38.5999984741211
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "New Zealand": "#f27979",
+        "Norway": "#f2f200",
+        "Pakistan": "#79f279",
+        "Panama": "#00a5a5",
+        "Paraguay": "#5252a5",
+        "Philippines": "#a500a5"
+    }
+}

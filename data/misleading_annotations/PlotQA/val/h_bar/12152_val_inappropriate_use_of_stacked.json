@@ -1,0 +1,57 @@
+{
+    "title": "Fuel exports to different countries",
+    "legend": {
+        "Italy": "#f27979",
+        "Japan": "#79f200",
+        "Mexico": "#52a5a5",
+        "Netherlands": "#5200a5"
+    },
+    "categories": [
+        "Fuel exports to different countries"
+    ],
+    "data": {
+        "Italy": [
+            5.58975385372496
+        ],
+        "Japan": [
+            0.396572157992249
+        ],
+        "Mexico": [
+            4.60922628422934
+        ],
+        "Netherlands": [
+            23.5841099766735
+        ]
+    },
+    "colors": {
+        "Italy": "#f27979",
+        "Japan": "#79f200",
+        "Mexico": "#52a5a5",
+        "Netherlands": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

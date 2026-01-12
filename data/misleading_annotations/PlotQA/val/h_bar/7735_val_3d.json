@@ -1,0 +1,60 @@
+{
+    "title": "PPP conversion factor for private consumption",
+    "legend": {
+        "Burundi": "#556B2F",
+        "Spain": "#C71585",
+        "Timor-Leste": "#DB7093"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Burundi": [
+            312.087439931846,
+            328.743888853867,
+            392.911093595856
+        ],
+        "Spain": [
+            0.787783,
+            0.798319,
+            0.789817
+        ],
+        "Timor-Leste": [
+            0.426803760848355,
+            0.4577113911599861,
+            0.480743218529541
+        ]
+    },
+    "colors": {
+        "Burundi": "#556B2F",
+        "Spain": "#C71585",
+        "Timor-Leste": "#DB7093"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

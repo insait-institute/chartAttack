@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of ores and metals imported from different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chile": "#f27979",
+        "Denmark": "#c1f200",
+        "France": "#52a574",
+        "Germany": "#0042a5",
+        "Greece": "#da79f2"
+    },
+    "data": {
+        "Chile": [
+            1.63477114949108
+        ],
+        "Denmark": [
+            3.24509060859627
+        ],
+        "France": [
+            7.05983698960944
+        ],
+        "Germany": [
+            10.2970635331295
+        ],
+        "Greece": [
+            2.57068124636824
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Chile": "#f27979",
+        "Denmark": "#c1f200",
+        "France": "#52a574",
+        "Germany": "#0042a5",
+        "Greece": "#da79f2"
+    }
+}

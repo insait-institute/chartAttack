@@ -1,0 +1,57 @@
+{
+    "title": "Total unemployment among female youth",
+    "legend": {
+        "Romania": "#f27979",
+        "Russian Federation": "#79f200",
+        "Rwanda": "#52a5a5",
+        "Saudi Arabia": "#5200a5"
+    },
+    "categories": [
+        "Total unemployment among female youth"
+    ],
+    "data": {
+        "Romania": [
+            21.7999992370605
+        ],
+        "Russian Federation": [
+            24.5
+        ],
+        "Rwanda": [
+            0.5
+        ],
+        "Saudi Arabia": [
+            44.5
+        ]
+    },
+    "colors": {
+        "Romania": "#f27979",
+        "Russian Federation": "#79f200",
+        "Rwanda": "#52a5a5",
+        "Saudi Arabia": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

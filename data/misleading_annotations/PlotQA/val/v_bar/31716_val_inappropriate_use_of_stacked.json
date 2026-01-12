@@ -1,0 +1,67 @@
+{
+    "title": "Oil rents as percent of GDP towards fuel resources",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Latin America(all income levels)": "#f27979",
+        "Latin America(developing only)": "#c1f200",
+        "Low & middle income": "#52a574",
+        "Lower middle income": "#0042a5",
+        "Middle East & North Africa (developing only)": "#da79f2"
+    },
+    "data": {
+        "Latin America(all income levels)": [
+            1.15276011889722
+        ],
+        "Latin America(developing only)": [
+            0.315451143704164
+        ],
+        "Low & middle income": [
+            0.9921665210591372
+        ],
+        "Lower middle income": [
+            0.6349881882007329
+        ],
+        "Middle East & North Africa (developing only)": [
+            7.943529848421558
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Latin America(all income levels)": "#f27979",
+        "Latin America(developing only)": "#c1f200",
+        "Low & middle income": "#52a574",
+        "Lower middle income": "#0042a5",
+        "Middle East & North Africa (developing only)": "#da79f2"
+    }
+}

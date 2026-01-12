@@ -1,0 +1,54 @@
+{
+    "title": "Demand in million barrels per day",
+    "x_axis": {
+        "categories": [
+            "2018",
+            "2020",
+            "2025",
+            "2030",
+            "2035",
+            "2040"
+        ]
+    },
+    "y_axis": {
+        "label": "Demand in million barrels per day"
+    },
+    "legend": {
+        "2018-2040": "#2876dd"
+    },
+    "data": {
+        "2018-2040": [
+            8.8,
+            9,
+            10,
+            10.9,
+            11.5,
+            11.8
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

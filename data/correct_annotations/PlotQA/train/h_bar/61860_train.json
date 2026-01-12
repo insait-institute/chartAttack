@@ -1,0 +1,62 @@
+{
+    "title": "Domestic credit provided to private sector by different financial corporations in countries",
+    "legend": {
+        "Small states": "#C71585",
+        "Chad": "#EE82EE",
+        "Costa Rica": "#DAA520",
+        "Macao": "#008080"
+    },
+    "categories": [
+        "Banks",
+        "Money lenders"
+    ],
+    "data": {
+        "Small states": [
+            31.2849939245192,
+            31.7877324800957
+        ],
+        "Chad": [
+            4.338486053348,
+            4.338486053348
+        ],
+        "Costa Rica": [
+            27.5064095237388,
+            27.7322071834918
+        ],
+        "Macao": [
+            66.77143796195091,
+            66.77143796195091
+        ]
+    },
+    "colors": {
+        "Small states": "#C71585",
+        "Chad": "#EE82EE",
+        "Costa Rica": "#DAA520",
+        "Macao": "#008080"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

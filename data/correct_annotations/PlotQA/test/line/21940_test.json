@@ -1,0 +1,59 @@
+{
+    "title": "Irrigated land as percentage of total agricultural land available in Finland",
+    "legend": {
+        "Agricultural irrigated land ": "#20B2AA"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2010",
+        "2013"
+    ],
+    "y_axis_label": "% of total agricultural land",
+    "data": [
+        {
+            "label": "Agricultural irrigated land ",
+            "color": "#20B2AA",
+            "values": [
+                2.88028802880288,
+                2.86225402504472,
+                2.84951024042743,
+                2.84065690190857,
+                2.81467147506377,
+                0.6553514551245689,
+                0.420633163604162
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

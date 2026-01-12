@@ -1,0 +1,80 @@
+{
+    "title": "Price in U.S. dollars",
+    "legend": {
+        "Price": "#2876dd"
+    },
+    "categories": [
+        "Brazil",
+        "Argentina",
+        "India",
+        "Indonesia",
+        "Thailand",
+        "South Africa",
+        "United Kingdom",
+        "Philippines",
+        "Germany",
+        "Malaysia",
+        "Russia",
+        "Singapore",
+        "South Korea",
+        "Australia",
+        "United Arab Emirates",
+        "Canada",
+        "Hong Kong",
+        "Taiwan",
+        "United States",
+        "Japan"
+    ],
+    "data": {
+        "Price": [
+            1702.43,
+            1387.9,
+            653.54,
+            619.76,
+            614.77,
+            585.79,
+            580.94,
+            559.51,
+            557.07,
+            550.76,
+            523.85,
+            505.7,
+            466.82,
+            492.84,
+            462.56,
+            451.42,
+            435.23,
+            427.83,
+            399.99,
+            392.38
+        ]
+    },
+    "colors": {
+        "Price": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1710
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

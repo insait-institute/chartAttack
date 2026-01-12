@@ -1,0 +1,96 @@
+{
+    "title": "Share of employees",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of employees"
+    },
+    "legend": {
+        "Asian": "#2876dd",
+        "Black": "#0f283e",
+        "Latinx": "#bababa",
+        "Native American*": "#a60b0b",
+        "White": "#87bc24"
+    },
+    "data": {
+        "Asian": [
+            31.5,
+            32.7,
+            33.9,
+            36.3,
+            38.1,
+            39.8,
+            41.9
+        ],
+        "Black": [
+            2.4,
+            2.5,
+            2.8,
+            2.8,
+            3,
+            3.3,
+            3.7
+        ],
+        "Latinx": [
+            4.5,
+            4.9,
+            5.2,
+            5.3,
+            5.3,
+            5.7,
+            5.9
+        ],
+        "Native American*": [
+            1,
+            1,
+            0.8,
+            0.8,
+            0.3,
+            0.8,
+            0.8
+        ],
+        "White": [
+            64.5,
+            62.9,
+            61,
+            58.5,
+            56.6,
+            54.4,
+            51.7
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

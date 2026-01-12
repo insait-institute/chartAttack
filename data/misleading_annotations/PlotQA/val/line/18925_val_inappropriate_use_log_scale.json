@@ -1,0 +1,95 @@
+{
+    "title": "Amount of agricultural raw materials,food and fuel imports of Bolivia",
+    "legend": {
+        "Agricultural raw materials": "#8A2BE2",
+        "Food": "#FF69B4",
+        "Fuel": "#A0522D"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Amount of imports(as % of merchandise imports)",
+    "data": [
+        {
+            "label": "Agricultural raw materials",
+            "color": "#8A2BE2",
+            "values": [
+                1.08602645922266,
+                1.48978669423614,
+                1.7859291664324,
+                1.44407598199732,
+                1.33460274665405,
+                1.12984489409372,
+                0.8859372997869359,
+                0.7242392199420041,
+                0.685259996735062
+            ]
+        },
+        {
+            "label": "Food",
+            "color": "#FF69B4",
+            "values": [
+                13.2368065603754,
+                13.3147488246435,
+                11.5632058316194,
+                10.2667626484606,
+                9.32643844905282,
+                10.4560158105121,
+                9.35927409210622,
+                9.1543967188214,
+                7.692568753659859
+            ]
+        },
+        {
+            "label": "Fuel",
+            "color": "#A0522D",
+            "values": [
+                5.05255965817449,
+                7.395425277872549,
+                7.22152927267218,
+                10.4424080344169,
+                9.82781730349145,
+                8.12214627055068,
+                11.2162563002265,
+                10.8031856523608,
+                12.3545884189545
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

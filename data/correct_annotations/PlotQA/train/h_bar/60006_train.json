@@ -1,0 +1,77 @@
+{
+    "title": "Number of start-up procedures to register a business",
+    "legend": {
+        "2003": "#FF0000",
+        "2004": "#228B22",
+        "2005": "#808000",
+        "2006": "#4169E1"
+    },
+    "categories": [
+        "Tanzania",
+        "Thailand",
+        "Togo",
+        "Tonga",
+        "Tunisia"
+    ],
+    "data": {
+        "2003": [
+            11.0,
+            9.0,
+            13.0,
+            4.0,
+            10.0
+        ],
+        "2004": [
+            11.0,
+            9.0,
+            13.0,
+            4.0,
+            10.0
+        ],
+        "2005": [
+            11.0,
+            9.0,
+            13.0,
+            4.0,
+            10.0
+        ],
+        "2006": [
+            11.0,
+            9.0,
+            13.0,
+            4.0,
+            10.0
+        ]
+    },
+    "colors": {
+        "2003": "#FF0000",
+        "2004": "#228B22",
+        "2005": "#808000",
+        "2006": "#4169E1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,112 @@
+{
+    "title": "Consumption in kilowatt hours per capita",
+    "categories": [
+        "Consumption in kilowatt hours per capita"
+    ],
+    "data": {
+        "Canada": [
+            15438.0
+        ],
+        "United States": [
+            13098.0
+        ],
+        "Saudi Arabia": [
+            10239.0
+        ],
+        "Japan": [
+            8010.0
+        ],
+        "France": [
+            7141.0
+        ],
+        "Russia": [
+            6917.0
+        ],
+        "Germany": [
+            6848.0
+        ],
+        "United Kingdom": [
+            4906.0
+        ],
+        "China": [
+            4906.0
+        ],
+        "Turkey": [
+            3348.0
+        ],
+        "Brazil": [
+            2570.0
+        ],
+        "Mexico": [
+            2329.0
+        ],
+        "India": [
+            968.0
+        ],
+        "South Korea": [
+            509.0
+        ],
+        "Nigeria": [
+            157.0
+        ]
+    },
+    "colors": {
+        "Canada": "#f27979",
+        "United States": "#f26000",
+        "Saudi Arabia": "#f2da79",
+        "Japan": "#c1f200",
+        "France": "#a9f279",
+        "Russia": "#00f200",
+        "Germany": "#52a574",
+        "United Kingdom": "#00a584",
+        "China": "#5295a5",
+        "Turkey": "#0042a5",
+        "Brazil": "#5252a5",
+        "Mexico": "#4200a5",
+        "India": "#da79f2",
+        "South Korea": "#f200c1",
+        "Nigeria": "#f279a9"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15440
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Canada": "#f27979",
+        "United States": "#f26000",
+        "Saudi Arabia": "#f2da79",
+        "Japan": "#c1f200",
+        "France": "#a9f279",
+        "Russia": "#00f200",
+        "Germany": "#52a574",
+        "United Kingdom": "#00a584",
+        "China": "#5295a5",
+        "Turkey": "#0042a5",
+        "Brazil": "#5252a5",
+        "Mexico": "#4200a5",
+        "India": "#da79f2",
+        "South Korea": "#f200c1",
+        "Nigeria": "#f279a9"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Share of municipalities covered",
+    "legend": {
+        "Municipalities": "#2876dd"
+    },
+    "categories": [
+        "Enna",
+        "Ragusa",
+        "Trapani",
+        "Catania",
+        "Agrigento",
+        "Palermo",
+        "Messina",
+        "Siracusa",
+        "Caltanissetta"
+    ],
+    "data": {
+        "Municipalities": [
+            100,
+            100,
+            100,
+            100,
+            97.7,
+            93.9,
+            99.1,
+            95.2,
+            90.9
+        ]
+    },
+    "colors": {
+        "Municipalities": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

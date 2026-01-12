@@ -1,0 +1,72 @@
+{
+    "title": "Number of fixed telephone subscribers",
+    "x_axis": {
+        "categories": [
+            "Mauritius",
+            "Mexico",
+            "Moldova",
+            "Monaco",
+            "Morocco",
+            "Mozambique"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00FF00",
+        "1965": "#CD5C5C",
+        "1970": "#B8860B"
+    },
+    "data": {
+        "1960": [
+            0.916180193720522,
+            0.875068458044313,
+            0.6825240872738559,
+            16.299991092901,
+            0.6382754024119979,
+            0.122958687031893
+        ],
+        "1965": [
+            1.22131729690622,
+            1.09166035548295,
+            0.839422896758478,
+            25.7698750161062,
+            0.5960715055893411,
+            0.200617263918029
+        ],
+        "1970": [
+            1.35652981981906,
+            1.62073254961327,
+            1.44105632023894,
+            31.9366377107818,
+            0.57173779451329,
+            0.253877583402753
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

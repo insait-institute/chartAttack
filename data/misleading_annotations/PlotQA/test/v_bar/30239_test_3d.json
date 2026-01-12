@@ -1,0 +1,76 @@
+{
+    "title": "CPIA policy and institutions for environmental sustainability rating",
+    "x_axis": {
+        "categories": [
+            "Eritrea",
+            "Ethiopia",
+            "Gambia, The",
+            "Ghana",
+            "Grenada"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#A0522D",
+        "2006": "#FFA500",
+        "2007": "#0000FF",
+        "2008": "#DB7093"
+    },
+    "data": {
+        "2005": [
+            3.0,
+            3.5,
+            3.0,
+            3.5,
+            4.0
+        ],
+        "2006": [
+            2.0,
+            3.5,
+            3.0,
+            3.5,
+            4.0
+        ],
+        "2007": [
+            2.0,
+            3.5,
+            3.0,
+            3.5,
+            4.0
+        ],
+        "2008": [
+            2.0,
+            3.0,
+            3.5,
+            3.5,
+            4.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

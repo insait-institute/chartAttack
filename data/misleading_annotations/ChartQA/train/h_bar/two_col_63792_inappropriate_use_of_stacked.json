@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Harmon Killebrew": "#f27979",
+        "Kent Hrbek": "#f29100",
+        "Kirby Puckett": "#daf279",
+        "Sam Rice": "#30f200",
+        "Mickey Vernon": "#52a574",
+        "Joe Judge": "#00a5a5",
+        "Tony Oliva": "#5274a5",
+        "Goose Goslin": "#2100a5",
+        "Joe Mauer": "#da79f2",
+        "Justin Morneau": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Harmon Killebrew": [
+            1540.0
+        ],
+        "Kent Hrbek": [
+            1086.0
+        ],
+        "Kirby Puckett": [
+            1085.0
+        ],
+        "Sam Rice": [
+            1044.0
+        ],
+        "Mickey Vernon": [
+            1026.0
+        ],
+        "Joe Judge": [
+            1001.0
+        ],
+        "Tony Oliva": [
+            947.0
+        ],
+        "Goose Goslin": [
+            932.0
+        ],
+        "Joe Mauer": [
+            923.0
+        ],
+        "Justin Morneau": [
+            860.0
+        ]
+    },
+    "colors": {
+        "Harmon Killebrew": "#f27979",
+        "Kent Hrbek": "#f29100",
+        "Kirby Puckett": "#daf279",
+        "Sam Rice": "#30f200",
+        "Mickey Vernon": "#52a574",
+        "Joe Judge": "#00a5a5",
+        "Tony Oliva": "#5274a5",
+        "Goose Goslin": "#2100a5",
+        "Joe Mauer": "#da79f2",
+        "Justin Morneau": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1540
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

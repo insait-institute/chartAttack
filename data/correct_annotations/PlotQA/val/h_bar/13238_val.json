@@ -1,0 +1,62 @@
+{
+    "title": "Resource balance of an economy in 1999",
+    "legend": {
+        "Benin": "#FF69B4",
+        "Greece": "#B8860B",
+        "Kazakhstan": "#191970",
+        "Switzerland": "#FFD700"
+    },
+    "categories": [
+        "US$",
+        "Local Currency"
+    ],
+    "data": {
+        "Benin": [
+            -465162284.628969,
+            -286400000000.0
+        ],
+        "Greece": [
+            -12636863839.7613,
+            -11860960400.0
+        ],
+        "Kazakhstan": [
+            395627353.098128,
+            47286700000.0
+        ],
+        "Switzerland": [
+            13730168020.237,
+            20625458400.0
+        ]
+    },
+    "colors": {
+        "Benin": "#FF69B4",
+        "Greece": "#B8860B",
+        "Kazakhstan": "#191970",
+        "Switzerland": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 47286700000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

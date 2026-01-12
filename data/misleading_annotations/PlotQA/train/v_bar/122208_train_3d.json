@@ -1,0 +1,64 @@
+{
+    "title": "General government consumption in constant 2005 US$",
+    "x_axis": {
+        "categories": [
+            "Brazil",
+            "Cameroon",
+            "Canada",
+            "Chile"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00BFFF",
+        "1961": "#FF7F50",
+        "1962": "#CD5C5C"
+    },
+    "data": {
+        "1960": [
+            30116901177.4779,
+            233280071.341042,
+            54572973264.6101,
+            3493207246.66247
+        ],
+        "1961": [
+            32517446160.2917,
+            240854092.0943069,
+            61722206765.8832,
+            3470543641.94589
+        ],
+        "1962": [
+            33172048860.2869,
+            253729889.020437,
+            64204088884.4553,
+            3657539996.89669
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 64204088890
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

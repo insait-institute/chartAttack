@@ -1,0 +1,82 @@
+{
+    "title": "Market share",
+    "categories": [
+        "Samsung",
+        "Nike",
+        "Garmin",
+        "Fitbit",
+        "Sony",
+        "Pebble",
+        "Shanda/Geak",
+        "Mio Alpha",
+        "Yinqu Technology",
+        "Casio",
+        "Other 30 companies"
+    ],
+    "data": {
+        "Market share": [
+            33.8,
+            8.4,
+            8.4,
+            8.2,
+            7,
+            6.3,
+            4.2,
+            2.8,
+            1.8,
+            1.4,
+            17.6
+        ]
+    },
+    "colors": {
+        "Samsung": "#2876dd",
+        "Nike": "#2876dd",
+        "Garmin": "#2876dd",
+        "Fitbit": "#2876dd",
+        "Sony": "#2876dd",
+        "Pebble": "#2876dd",
+        "Shanda/Geak": "#2876dd",
+        "Mio Alpha": "#2876dd",
+        "Yinqu Technology": "#2876dd",
+        "Casio": "#2876dd",
+        "Other 30 companies": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Samsung": "#2876dd",
+        "Nike": "#2876dd",
+        "Garmin": "#2876dd",
+        "Fitbit": "#2876dd",
+        "Sony": "#2876dd",
+        "Pebble": "#2876dd",
+        "Shanda/Geak": "#2876dd",
+        "Mio Alpha": "#2876dd",
+        "Yinqu Technology": "#2876dd",
+        "Casio": "#2876dd",
+        "Other 30 companies": "#2876dd"
+    }
+}

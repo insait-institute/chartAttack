@@ -1,0 +1,58 @@
+{
+    "title": "Real GDP growth",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019e",
+            "2020f",
+            "2021f"
+        ]
+    },
+    "y_axis": {
+        "label": "Real GDP growth"
+    },
+    "legend": {
+        "GDP Growth": "#2876dd"
+    },
+    "data": {
+        "GDP Growth": [
+            4.2,
+            3.8,
+            3.4,
+            3.8,
+            3.9,
+            3.3,
+            3.7,
+            3.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Cost to Income ratio",
+    "categories": [
+        "Banca Populare di Vicenca",
+        "Banca Carige",
+        "Veneto Banca SpA",
+        "UniCredit",
+        "Banco Popolare",
+        "UBI Banca",
+        "Banca Nazionale del Lavoro",
+        "Banca Populare di Milana",
+        "Banca popolare dell'Emilia",
+        "Intesa Sanpaolo",
+        "Banca Monte dei Paschi",
+        "Mediobanca",
+        "Banca IMI SpA"
+    ],
+    "data": {
+        "Values": [
+            121.5,
+            90.1,
+            82,
+            74.4,
+            71.2,
+            70.6,
+            65.2,
+            63.9,
+            62.7,
+            62,
+            60.3,
+            54.9,
+            42.3
+        ]
+    },
+    "colors": {
+        "Values": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Values": "#2876dd"
+    }
+}

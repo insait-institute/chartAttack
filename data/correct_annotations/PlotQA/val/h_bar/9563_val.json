@@ -1,0 +1,64 @@
+{
+    "title": "Measure of country's business executives perception of the quality of port infrastructure",
+    "legend": {
+        "2007": "#8B0000",
+        "2008": "#BC8F8F",
+        "2009": "#8A2BE2"
+    },
+    "categories": [
+        "Slovenia",
+        "South Africa",
+        "Spain",
+        "Sri Lanka"
+    ],
+    "data": {
+        "2007": [
+            4.452129630888138,
+            4.39741861221001,
+            5.34423845325599,
+            4.05711023455146
+        ],
+        "2008": [
+            4.812885535492009,
+            4.403771253438831,
+            5.045910403225808,
+            4.5104602207245
+        ],
+        "2009": [
+            5.2482252541,
+            4.6620694482,
+            5.1806028977,
+            4.7882668599
+        ]
+    },
+    "colors": {
+        "2007": "#8B0000",
+        "2008": "#BC8F8F",
+        "2009": "#8A2BE2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

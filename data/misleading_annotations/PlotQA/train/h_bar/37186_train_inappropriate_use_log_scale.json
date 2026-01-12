@@ -1,0 +1,72 @@
+{
+    "title": "Number of infant deaths",
+    "legend": {
+        "Antigua and Barbuda": "#C71585",
+        "Mauritania": "#FF7F50",
+        "Venezuela": "#708090"
+    },
+    "categories": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Antigua and Barbuda": [
+            21.0,
+            20.0,
+            19.0,
+            17.0,
+            16.0,
+            15.0
+        ],
+        "Mauritania": [
+            7822,
+            8006,
+            8178,
+            8318,
+            8419,
+            8508
+        ],
+        "Venezuela": [
+            10474,
+            10244,
+            9997,
+            9736,
+            9464,
+            9185
+        ]
+    },
+    "colors": {
+        "Antigua and Barbuda": "#C71585",
+        "Mauritania": "#FF7F50",
+        "Venezuela": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10480
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

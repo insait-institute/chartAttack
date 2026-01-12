@@ -1,0 +1,52 @@
+{
+    "title": "Survival rate of children upto Grade 5 of primary education in 1992 ",
+    "legend": {
+        "Survival rate": "#FFFF00"
+    },
+    "categories": [
+        "Cuba",
+        "Cyprus",
+        "Djibouti",
+        "El Salvador",
+        "Fiji",
+        "Finland"
+    ],
+    "data": {
+        "Survival rate": [
+            69.82793000000001,
+            88.53243,
+            73.81541999999997,
+            52.1371,
+            90.49004,
+            95.16835
+        ]
+    },
+    "colors": {
+        "Survival rate": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

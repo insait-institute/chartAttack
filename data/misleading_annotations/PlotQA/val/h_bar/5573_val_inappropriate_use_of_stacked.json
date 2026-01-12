@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of female workers employed in Agricultural sector",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#c1f200",
+        "2006": "#52a574",
+        "2007": "#0042a5",
+        "2008": "#da79f2"
+    },
+    "categories": [
+        "Percentage of female workers employed in Agricultural sector"
+    ],
+    "data": {
+        "2004": [
+            7.599999904632571
+        ],
+        "2005": [
+            6.400000095367429
+        ],
+        "2006": [
+            5.800000190734861
+        ],
+        "2007": [
+            5.400000095367429
+        ],
+        "2008": [
+            5.5
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#c1f200",
+        "2006": "#52a574",
+        "2007": "#0042a5",
+        "2008": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

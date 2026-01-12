@@ -1,0 +1,77 @@
+{
+    "title": "Number of cooks in millions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of cooks in millions"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f2cf00",
+        "2012": "#9bf279",
+        "2014": "#00a55e",
+        "2015": "#5282a5",
+        "2016*": "#2f00a5",
+        "2026*": "#f279e0"
+    },
+    "data": {
+        "2010": [
+            2.07
+        ],
+        "2011": [
+            2.08
+        ],
+        "2012": [
+            2.1
+        ],
+        "2014": [
+            2.27
+        ],
+        "2015": [
+            2.34
+        ],
+        "2016*": [
+            2.42
+        ],
+        "2026*": [
+            2.69
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f2cf00",
+        "2012": "#9bf279",
+        "2014": "#00a55e",
+        "2015": "#5282a5",
+        "2016*": "#2f00a5",
+        "2026*": "#f279e0"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Proportion of the female labor force (ages 15+) who participated in production",
+    "legend": {
+        "1995": "#f27979",
+        "1996": "#c1f200",
+        "1997": "#52a574",
+        "1998": "#0042a5",
+        "1999": "#da79f2"
+    },
+    "categories": [
+        "Proportion of the female labor force (ages 15+) who participated in production"
+    ],
+    "data": {
+        "1995": [
+            71.9000015258789
+        ],
+        "1996": [
+            71.4000015258789
+        ],
+        "1997": [
+            71.3000030517578
+        ],
+        "1998": [
+            71.5
+        ],
+        "1999": [
+            71.4000015258789
+        ]
+    },
+    "colors": {
+        "1995": "#f27979",
+        "1996": "#c1f200",
+        "1997": "#52a574",
+        "1998": "#0042a5",
+        "1999": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,65 @@
+{
+    "title": "Current value of exports of goods and services deflated by the import price index",
+    "x_axis": {
+        "categories": [
+            "Bangladesh",
+            "Belgium",
+            "Benin"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#ee82ee",
+        "1961": "#ee82dd",
+        "1962": "#ef8bcf"
+    },
+    "data": {
+        "1960": [
+            237790059008.856,
+            24869206408.0166,
+            48387826613.6667
+        ],
+        "1961": [
+            269955740253.172,
+            26612470688.536,
+            37251247529.618
+        ],
+        "1962": [
+            289024274462.364,
+            29372717572.0568,
+            28615155564.6607
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 289024274470
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#ee82ee",
+        "1961": "#ee82dd",
+        "1962": "#ef8bcf"
+    }
+}

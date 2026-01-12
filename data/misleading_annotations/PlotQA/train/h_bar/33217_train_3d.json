@@ -1,0 +1,59 @@
+{
+    "title": "Prevalence of stunting in children of Bangladesh with age under 5 years",
+    "legend": {
+        "Female": "#556B2F",
+        "Male": "#CD853F"
+    },
+    "categories": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "data": {
+        "Female": [
+            69.6999969482422,
+            68.5,
+            66.0,
+            59.5,
+            60.7000007629395
+        ],
+        "Male": [
+            70.5,
+            68.40000152587889,
+            67.0,
+            59.7999992370605,
+            62.9000015258789
+        ]
+    },
+    "colors": {
+        "Female": "#556B2F",
+        "Male": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 1993",
+    "x_axis": {
+        "categories": [
+            "Compensation of employees",
+            "Goods and services",
+            "Subsidies and Transfers",
+            "Other expenses"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "North America": "#663399",
+        "Bahamas": "#723399",
+        "Czech Republic": "#8536a1",
+        "Ethiopia": "#82328f"
+    },
+    "data": {
+        "North America": [
+            10.6356935543357,
+            6.62686343786581,
+            56.5849043493134,
+            5.18956421344081
+        ],
+        "Bahamas": [
+            55.9369202226345,
+            18.9053803339518,
+            9.44341372912802,
+            1.4100185528757
+        ],
+        "Czech Republic": [
+            8.22740246868111,
+            16.0613216488927,
+            66.1910384384157,
+            4.716383311758999
+        ],
+        "Ethiopia": [
+            47.3584236652821,
+            29.7335629622125,
+            14.461554047209,
+            0.0911761726268868
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "North America": "#663399",
+        "Bahamas": "#723399",
+        "Czech Republic": "#8536a1",
+        "Ethiopia": "#82328f"
+    }
+}

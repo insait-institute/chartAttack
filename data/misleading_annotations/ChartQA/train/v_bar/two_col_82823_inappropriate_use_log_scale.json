@@ -1,0 +1,50 @@
+{
+    "title": "Consumption in million metric tons",
+    "x_axis": {
+        "categories": [
+            "2019",
+            "2020*",
+            "2021*"
+        ]
+    },
+    "y_axis": {
+        "label": "Consumption in million metric tons"
+    },
+    "legend": {
+        "2019": "#2876dd",
+        "2020*": "#2876dd",
+        "2021*": "#2876dd"
+    },
+    "data": {
+        "values": [
+            23.6,
+            22.9,
+            23.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

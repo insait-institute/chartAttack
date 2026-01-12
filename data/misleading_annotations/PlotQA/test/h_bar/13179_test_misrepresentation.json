@@ -1,0 +1,98 @@
+{
+    "title": "Expenses (in %) made by the government on goods and services",
+    "legend": {
+        "Afghanistan": "#8FBC8F",
+        "Botswana": "#008B8B",
+        "Hong Kong": "#BEBEBE",
+        "Sao Tome and Principe": "#DAA520"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Afghanistan": [
+            57.2163766333674,
+            66.5901367809826,
+            72.458784315372,
+            71.7241186786376
+        ],
+        "Botswana": [
+            32.5367688235745,
+            33.32284172216831,
+            32.9877127531016,
+            31.0336244108844
+        ],
+        "Hong Kong": [
+            28.7639297440467,
+            29.96533294814389,
+            26.0246037692899,
+            27.8491272020169
+        ],
+        "Sao Tome and Principe": [
+            20.5302783033832,
+            21.9371866707765,
+            28.8456238594834,
+            30.03286858428189
+        ]
+    },
+    "colors": {
+        "Afghanistan": "#8FBC8F",
+        "Botswana": "#008B8B",
+        "Hong Kong": "#BEBEBE",
+        "Sao Tome and Principe": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Afghanistan": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Botswana": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Hong Kong": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Sao Tome and Principe": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

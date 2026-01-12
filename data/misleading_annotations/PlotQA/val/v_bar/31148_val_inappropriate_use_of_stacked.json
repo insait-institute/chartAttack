@@ -1,0 +1,57 @@
+{
+    "title": "Value added by different sectors to the total GDP of different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Industry": "#f27979",
+        "Services": "#00f200",
+        "Agriculture": "#5252a5"
+    },
+    "data": {
+        "Industry": [
+            115177087674.936
+        ],
+        "Services": [
+            264507189474.796
+        ],
+        "Agriculture": [
+            12680650880.9215
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 264507189480
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Industry": "#f27979",
+        "Services": "#00f200",
+        "Agriculture": "#5252a5"
+    }
+}

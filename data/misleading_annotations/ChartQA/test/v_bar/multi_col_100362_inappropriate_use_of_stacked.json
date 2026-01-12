@@ -1,0 +1,57 @@
+{
+    "title": "Estimated number of Christians in millions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Estimated number of Christians in millions"
+    },
+    "legend": {
+        "Global North": "#f27979",
+        "Global South": "#00f200",
+        "World Total": "#5252a5"
+    },
+    "data": {
+        "Global North": [
+            502.9
+        ],
+        "Global South": [
+            108.91
+        ],
+        "World Total": [
+            611.81
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2190
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "Global North": "#f27979",
+        "Global South": "#00f200",
+        "World Total": "#5252a5"
+    }
+}

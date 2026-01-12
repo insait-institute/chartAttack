@@ -1,0 +1,72 @@
+{
+    "title": "Annual population growth of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Honduras": "#f27979",
+        "Hong Kong": "#f2f200",
+        "Hungary": "#79f279",
+        "Iceland": "#00a5a5",
+        "India": "#5252a5",
+        "Indonesia": "#a500a5"
+    },
+    "data": {
+        "Honduras": [
+            3.18745433147418
+        ],
+        "Hong Kong": [
+            4.45099050762392
+        ],
+        "Hungary": [
+            0.26750579682728
+        ],
+        "Iceland": [
+            1.795326707432159
+        ],
+        "India": [
+            1.95220635040549
+        ],
+        "Indonesia": [
+            2.6202781645452
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Honduras": "#f27979",
+        "Hong Kong": "#f2f200",
+        "Hungary": "#79f279",
+        "Iceland": "#00a5a5",
+        "India": "#5252a5",
+        "Indonesia": "#a500a5"
+    }
+}

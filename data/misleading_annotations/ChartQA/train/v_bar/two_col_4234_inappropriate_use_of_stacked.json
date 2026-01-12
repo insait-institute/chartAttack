@@ -1,0 +1,57 @@
+{
+    "title": "Average cost in U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Average cost in U.S. dollars"
+    },
+    "legend": {
+        "Per day": "#f27979",
+        "Per week": "#00f200",
+        "Per year": "#5252a5"
+    },
+    "data": {
+        "Per day": [
+            11.14
+        ],
+        "Per week": [
+            20.05
+        ],
+        "Per year": [
+            1043.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1050
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "Per day": "#f27979",
+        "Per week": "#00f200",
+        "Per year": "#5252a5"
+    }
+}

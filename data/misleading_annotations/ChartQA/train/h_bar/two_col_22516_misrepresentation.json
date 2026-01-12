@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Game Sales": "#2876dd"
+    },
+    "categories": [
+        "Destiny",
+        "Grand Theft Auto V",
+        "Call of Duty: Modern Warfare 2",
+        "Star Wars: The Old Republic",
+        "Final Fantasy VII",
+        "Shenmue II",
+        "Max Payne 3",
+        "Grand Theft Auto IV",
+        "Red Dead Redemption",
+        "Too Human"
+    ],
+    "data": {
+        "Game Sales": [
+            500,
+            265,
+            250,
+            200,
+            145,
+            132,
+            105,
+            100,
+            100,
+            100
+        ]
+    },
+    "colors": {
+        "Game Sales": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 500
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Game Sales": [
+            1.75,
+            1.25,
+            2.0,
+            0.75,
+            1.75,
+            1.5,
+            1.25,
+            1.75,
+            1.5,
+            0.5
+        ]
+    }
+}

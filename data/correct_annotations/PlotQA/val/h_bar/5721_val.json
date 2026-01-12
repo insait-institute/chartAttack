@@ -1,0 +1,62 @@
+{
+    "title": "Net enrolment rate in primary and secondary education of males of Turkey",
+    "legend": {
+        "Primary": "#D2B48C",
+        "Secondary": "#663399"
+    },
+    "categories": [
+        "1974",
+        "1994",
+        "1995",
+        "1997",
+        "1999",
+        "2009"
+    ],
+    "data": {
+        "Primary": [
+            93.30091,
+            94.32611,
+            93.76003,
+            94.80182,
+            98.3152923583984,
+            97.3134613037109
+        ],
+        "Secondary": [
+            33.07194,
+            62.98068000000001,
+            65.2427825927734,
+            71.1501007080078,
+            79.47511291503909,
+            78.5669021606445
+        ]
+    },
+    "colors": {
+        "Primary": "#D2B48C",
+        "Secondary": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

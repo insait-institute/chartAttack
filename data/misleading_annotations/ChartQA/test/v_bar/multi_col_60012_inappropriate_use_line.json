@@ -1,0 +1,66 @@
+{
+    "title": "Median hourly pay in GBP",
+    "x_axis": {
+        "categories": [
+            "16 to 17",
+            "18 to 21",
+            "22 to 29",
+            "30 to 39",
+            "40 to 49",
+            "50 to 59",
+            "60 and over"
+        ]
+    },
+    "y_axis": {
+        "label": "Median hourly pay in GBP"
+    },
+    "legend": {
+        "Male": "#2876dd",
+        "Female": "#0f283e"
+    },
+    "data": {
+        "Male": [
+            5,
+            9.21,
+            12.99,
+            16.25,
+            18.43,
+            17.04,
+            14.45
+        ],
+        "Female": [
+            6.2,
+            9.06,
+            12.82,
+            16.13,
+            16.29,
+            14.77,
+            12.53
+        ]
+    },
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

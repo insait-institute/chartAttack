@@ -1,0 +1,72 @@
+{
+    "title": "Net bilateral aid flow in an economy from Sweden",
+    "legend": {
+        "Azerbaijan": "#00FF00",
+        "Burundi": "#BEBEBE",
+        "Chad": "#FFFF00",
+        "Turkey": "#00FF7F"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Azerbaijan": [
+            310000.0,
+            470000.0,
+            1160000.0,
+            580000.0
+        ],
+        "Burundi": [
+            5220000.0,
+            6560000.0,
+            5270000.0,
+            8240000.0
+        ],
+        "Chad": [
+            310000.0,
+            1490000.0,
+            2470000.0,
+            3610000.0
+        ],
+        "Turkey": [
+            1500000.0,
+            1810000.0,
+            2510000.0,
+            3240000.0
+        ]
+    },
+    "colors": {
+        "Azerbaijan": "#00FF00",
+        "Burundi": "#BEBEBE",
+        "Chad": "#FFFF00",
+        "Turkey": "#00FF7F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8240000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

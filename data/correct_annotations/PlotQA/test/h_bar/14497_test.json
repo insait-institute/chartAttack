@@ -1,0 +1,62 @@
+{
+    "title": "Trade statistics of goods and services in 1993",
+    "legend": {
+        "Dominican Republic": "#00FF00",
+        "Kenya": "#008080",
+        "Russian Federation": "#BC8F8F",
+        "Thailand": "#483D8B"
+    },
+    "categories": [
+        "Exports",
+        "Imports"
+    ],
+    "data": {
+        "Dominican Republic": [
+            150865340300,
+            239393162700
+        ],
+        "Kenya": [
+            409498686400,
+            248800439800
+        ],
+        "Russian Federation": [
+            2002469340600,
+            1506241695900
+        ],
+        "Thailand": [
+            1744192000000,
+            2018537000000
+        ]
+    },
+    "colors": {
+        "Dominican Republic": "#00FF00",
+        "Kenya": "#008080",
+        "Russian Federation": "#BC8F8F",
+        "Thailand": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2018537000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

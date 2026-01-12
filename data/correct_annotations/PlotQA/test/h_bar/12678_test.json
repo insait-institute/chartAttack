@@ -1,0 +1,72 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 2011",
+    "legend": {
+        "Brunei Darussalam": "#DB7093",
+        "Gabon": "#FF1493",
+        "Iraq": "#00BFFF",
+        "Lao PDR": "#483D8B"
+    },
+    "categories": [
+        "Industry",
+        "Manufacturing",
+        "Services",
+        "Agriculture"
+    ],
+    "data": {
+        "Brunei Darussalam": [
+            12056832816.5991,
+            1934891485.80968,
+            4529843071.78631,
+            104857301.852294
+        ],
+        "Gabon": [
+            11072148019.5335,
+            397747126.9921701,
+            5005488101.17955,
+            624212629.81172
+        ],
+        "Iraq": [
+            116182753589.744,
+            5241675897.4359,
+            61089717008.54701,
+            8477193846.15385
+        ],
+        "Lao PDR": [
+            2716842339.61038,
+            587997918.121358,
+            2791077931.69536,
+            2306437024.55338
+        ]
+    },
+    "colors": {
+        "Brunei Darussalam": "#DB7093",
+        "Gabon": "#FF1493",
+        "Iraq": "#00BFFF",
+        "Lao PDR": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 116182753590
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Total female labor force of Caribbean small states",
+    "legend": {
+        "Female Labor force": "#FF4500"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Female Labor Force(as % of total labor force)",
+    "data": [
+        {
+            "label": "Female Labor force",
+            "color": "#FF4500",
+            "values": [
+                42.4271093766414,
+                42.6083746065615,
+                42.6551859281303,
+                42.8272709821025,
+                42.8553796997486
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

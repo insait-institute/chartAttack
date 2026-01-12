@@ -1,0 +1,56 @@
+{
+    "title": "Rent as percent of GDP towards minerals,forest of countries in 1970",
+    "x_axis": {
+        "categories": [
+            "Mineral",
+            "Forest"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Small states": "#FF7F50",
+        "Australia": "#7FFFD4",
+        "Rwanda": "#A0522D"
+    },
+    "data": {
+        "Small states": [
+            4.63463666969147,
+            2.14047711292808
+        ],
+        "Australia": [
+            1.47351518276266,
+            0.403892521039724
+        ],
+        "Rwanda": [
+            0.196494187627078,
+            8.07105826931397
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Brand Value": "#2876dd"
+    },
+    "categories": [
+        "Dallas Cowboys",
+        "New York Yankees",
+        "New York Knicks",
+        "FC Barcelona",
+        "Real Madrid",
+        "Golden State Warriors",
+        "Los Angeles Lakers",
+        "New England Patriots",
+        "New York Giants",
+        "Bayern Munich",
+        "Manchester United",
+        "Liverpool FC",
+        "Los Angeles Rams",
+        "Manchester City",
+        "San Francisco 49ers",
+        "Los Angeles Dodgers",
+        "New York Jets",
+        "Chicago Bears",
+        "Washington Football Team",
+        "Boston Red Sox"
+    ],
+    "data": {
+        "Brand Value": [
+            5.7,
+            5.25,
+            5,
+            4.76,
+            4.75,
+            4.7,
+            4.6,
+            4.4,
+            4.3,
+            4.21,
+            4.2,
+            4.1,
+            4,
+            4,
+            3.8,
+            3.57,
+            3.55,
+            3.53,
+            3.5,
+            3.47
+        ]
+    },
+    "colors": {
+        "Brand Value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

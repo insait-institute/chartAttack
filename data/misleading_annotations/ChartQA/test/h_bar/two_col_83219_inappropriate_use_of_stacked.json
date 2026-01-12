@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "0 - 2.5 years": "#f27979",
+        "2.6 - 4.5 years": "#c1f200",
+        "4.6 - 6.5 years": "#52a574",
+        "6.6 - 10.5 years": "#0042a5",
+        "More than 10.5 years": "#da79f2"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "0 - 2.5 years": [
+            140994.0
+        ],
+        "2.6 - 4.5 years": [
+            274713.0
+        ],
+        "4.6 - 6.5 years": [
+            156134.0
+        ],
+        "6.6 - 10.5 years": [
+            413077.0
+        ],
+        "More than 10.5 years": [
+            258081.0
+        ]
+    },
+    "colors": {
+        "0 - 2.5 years": "#f27979",
+        "2.6 - 4.5 years": "#c1f200",
+        "4.6 - 6.5 years": "#52a574",
+        "6.6 - 10.5 years": "#0042a5",
+        "More than 10.5 years": "#da79f2"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 413080
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

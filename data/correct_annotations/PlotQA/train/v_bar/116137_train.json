@@ -1,0 +1,60 @@
+{
+    "title": "Male life expectancy at birth in countries",
+    "x_axis": {
+        "categories": [
+            "Peru",
+            "Philippines",
+            "Poland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#6B8E23",
+        "1961": "#DB7093",
+        "1962": "#008080"
+    },
+    "data": {
+        "1960": [
+            46.455,
+            56.609,
+            64.9
+        ],
+        "1961": [
+            46.97,
+            56.913,
+            64.9
+        ],
+        "1962": [
+            47.464,
+            57.203,
+            64.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

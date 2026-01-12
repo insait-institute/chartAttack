@@ -1,0 +1,84 @@
+{
+    "title": "Percentage of workers who hold self-employment jobs",
+    "legend": {
+        "Ecuador": "#708090",
+        "Israel": "#00FFFF",
+        "Maldives": "#CD853F"
+    },
+    "categories": [
+        "1995",
+        "2000",
+        "2006",
+        "2010"
+    ],
+    "data": {
+        "Ecuador": [
+            7.0,
+            11.3999996185303,
+            14.6999998092651,
+            10.6000003814697
+        ],
+        "Israel": [
+            0.6000000238418579,
+            0.5,
+            0.300000011920929,
+            0.200000002980232
+        ],
+        "Maldives": [
+            6.300000190734861,
+            2.0,
+            13.3999996185303,
+            1.5
+        ]
+    },
+    "colors": {
+        "Ecuador": "#708090",
+        "Israel": "#00FFFF",
+        "Maldives": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Ecuador": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Israel": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Maldives": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

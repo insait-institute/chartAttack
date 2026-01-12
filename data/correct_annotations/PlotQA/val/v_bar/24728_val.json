@@ -1,0 +1,60 @@
+{
+    "title": "Agricultural raw materials,food and fuel exports of countries in 1978",
+    "x_axis": {
+        "categories": [
+            "Agricultural raw materials",
+            "Food",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Colombia": "#8B4513",
+        "India": "#00BFFF",
+        "Ireland": "#000000"
+    },
+    "data": {
+        "Colombia": [
+            3.71519452926402,
+            74.3745150894755,
+            4.309938455958
+        ],
+        "India": [
+            2.85365661675533,
+            28.50866738120969,
+            0.386469355771503
+        ],
+        "Ireland": [
+            2.16340954807442,
+            40.6782989167963,
+            0.410568497333104
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

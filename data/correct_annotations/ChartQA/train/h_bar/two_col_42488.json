@@ -1,0 +1,74 @@
+{
+    "title": "Number of cases",
+    "legend": {
+        "Cases": "#2876dd"
+    },
+    "categories": [
+        "Gyeonggi",
+        "Seoul",
+        "Gyeongbuk",
+        "Busan",
+        "Gyeongnam",
+        "Incheon",
+        "Jeonnam",
+        "Chungnam",
+        "Daegu",
+        "Gangwon",
+        "Jeonbuk",
+        "Chungbuk",
+        "Gwangju",
+        "Daejeon",
+        "Ulsan",
+        "Jeju",
+        "Sejong"
+    ],
+    "data": {
+        "Cases": [
+            5231,
+            4259,
+            1786,
+            1642,
+            1532,
+            1313,
+            1295,
+            1122,
+            1061,
+            1010,
+            937,
+            677,
+            578,
+            515,
+            470,
+            322,
+            71
+        ]
+    },
+    "colors": {
+        "Cases": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5240
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

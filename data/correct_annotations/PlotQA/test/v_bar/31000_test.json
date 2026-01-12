@@ -1,0 +1,66 @@
+{
+    "title": "Total CO2 emission from different fuels in 1980",
+    "x_axis": {
+        "categories": [
+            "Gaseous fuel",
+            "Liquid fuel",
+            "Solid fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bulgaria": "#00FF00",
+        "Macao": "#BEBEBE",
+        "Malawi": "#663399",
+        "Poland": "#9ACD32"
+    },
+    "data": {
+        "Bulgaria": [
+            77487.37700000001,
+            30960.481,
+            36603.994
+        ],
+        "Macao": [
+            528.048,
+            517.047,
+            11.001
+        ],
+        "Malawi": [
+            711.398,
+            495.045,
+            172.349
+        ],
+        "Poland": [
+            464575.8970000001,
+            56295.78400000001,
+            381210.319
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 464580
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

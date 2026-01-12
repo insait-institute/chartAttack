@@ -1,0 +1,67 @@
+{
+    "title": "Use of IMF credit in the Department of Defense",
+    "legend": {
+        "Low & middle income": "#f27979",
+        "Low income": "#f2f200",
+        "Lower middle income": "#79f279",
+        "Middle East & North Africa (developing only)": "#00a5a5",
+        "Middle income": "#5252a5",
+        "South Asia": "#a500a5"
+    },
+    "categories": [
+        "Use of IMF credit in the Department of Defense"
+    ],
+    "data": {
+        "Low & middle income": [
+            736220000.0
+        ],
+        "Low income": [
+            48810000.0
+        ],
+        "Lower middle income": [
+            514960000.0
+        ],
+        "Middle East & North Africa (developing only)": [
+            99610000.0
+        ],
+        "Middle income": [
+            687410000.0
+        ],
+        "South Asia": [
+            123900000.0
+        ]
+    },
+    "colors": {
+        "Low & middle income": "#f27979",
+        "Low income": "#f2f200",
+        "Lower middle income": "#79f279",
+        "Middle East & North Africa (developing only)": "#00a5a5",
+        "Middle income": "#5252a5",
+        "South Asia": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 848026030
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

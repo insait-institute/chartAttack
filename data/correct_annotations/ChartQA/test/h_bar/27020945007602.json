@@ -1,0 +1,52 @@
+{
+    "title": "Alcohol consumption per person, 2016",
+    "categories": [
+        "Slovenia",
+        "Nauru",
+        "Ecuador"
+    ],
+    "data": {
+        "bars": [
+            12.6,
+            6,
+            4.4
+        ]
+    },
+    "colors": {
+        "bars": "#2e5778"
+    },
+    "y_ticks": [
+        "0 liters",
+        "2 liters",
+        "4 liters",
+        "6 liters",
+        "8 liters",
+        "10 liters",
+        "12 liters"
+    ],
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": true,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

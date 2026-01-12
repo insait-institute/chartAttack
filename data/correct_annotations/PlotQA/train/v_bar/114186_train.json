@@ -1,0 +1,72 @@
+{
+    "title": "Insurance provided to nonresidents by resident insurance enterprises of a country",
+    "x_axis": {
+        "categories": [
+            "Chile",
+            "Colombia",
+            "Congo (Democratic)",
+            "Costa Rica",
+            "Czech Republic",
+            "Egypt, Arab Rep."
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#A020F0",
+        "2006": "#708090",
+        "2007": "#4169E1"
+    },
+    "data": {
+        "2005": [
+            9.19558820493743,
+            11.471794756758,
+            9.6647280191584,
+            6.72368045649501,
+            12.0293055688868,
+            9.316622415089313
+        ],
+        "2006": [
+            8.82526258247843,
+            10.9550603474959,
+            13.3141973945683,
+            6.521583420953269,
+            11.6618686958729,
+            9.03001071811361
+        ],
+        "2007": [
+            8.720947419245501,
+            10.3904692329264,
+            14.9666172106825,
+            7.58242173060379,
+            7.46857054349498,
+            9.531180276662212
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

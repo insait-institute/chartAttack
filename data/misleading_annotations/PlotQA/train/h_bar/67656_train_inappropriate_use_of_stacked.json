@@ -1,0 +1,57 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "legend": {
+        "Low & middle income": "#f27979",
+        "Middle income": "#79f200",
+        "South Asia": "#52a5a5",
+        "Sub-Saharan Africa (all income levels)": "#5200a5"
+    },
+    "categories": [
+        "Value added by manufacturing to the total GDP of a country"
+    ],
+    "data": {
+        "Low & middle income": [
+            53219236177.3524
+        ],
+        "Middle income": [
+            52315258254.5442
+        ],
+        "South Asia": [
+            5855166632.503679
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            3015762445.93982
+        ]
+    },
+    "colors": {
+        "Low & middle income": "#f27979",
+        "Middle income": "#79f200",
+        "South Asia": "#52a5a5",
+        "Sub-Saharan Africa (all income levels)": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 53219236180
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

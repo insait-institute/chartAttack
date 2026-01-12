@@ -1,0 +1,82 @@
+{
+    "title": "Employment to population ratio (male)",
+    "legend": {
+        "Central Europe": "#FFA07A",
+        "Latin America(developing only)": "#4682B4",
+        "Malaysia": "#FF7F50",
+        "Trinidad and Tobago": "#DB7093"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Central Europe": [
+            58.52249698888571,
+            59.7207450607553,
+            58.3809812203946,
+            57.4499871868117,
+            57.59816332303389,
+            57.9153711116438
+        ],
+        "Latin America(developing only)": [
+            76.49355108636009,
+            76.9556677262932,
+            75.7918873556713,
+            76.07858483137429,
+            76.1889109695908,
+            76.5503142340605
+        ],
+        "Malaysia": [
+            74.0,
+            73.3000030517578,
+            72.4000015258789,
+            72.599998474121,
+            72.9000015258789,
+            73.099998474121
+        ],
+        "Trinidad and Tobago": [
+            73.8000030517578,
+            73.1999969482422,
+            72.1999969482422,
+            71.5,
+            72.5,
+            72.4000015258789
+        ]
+    },
+    "colors": {
+        "Central Europe": "#FFA07A",
+        "Latin America(developing only)": "#4682B4",
+        "Malaysia": "#FF7F50",
+        "Trinidad and Tobago": "#DB7093"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

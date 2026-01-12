@@ -1,0 +1,80 @@
+{
+    "title": "Brand value in billion U.S. dollars",
+    "categories": [
+        "Apple",
+        "Amazon",
+        "Microsoft",
+        "Google",
+        "Samsung",
+        "Coca-Cola",
+        "Toyota",
+        "Mercendes-Benz",
+        "McDonald's",
+        "Disney",
+        "BMW",
+        "Intel",
+        "Facebook",
+        "IBM",
+        "Nike",
+        "Cisco",
+        "Louis Vuitton",
+        "SAP",
+        "Instagram",
+        "Honda"
+    ],
+    "data": {
+        "Brand Value": [
+            323,
+            200.67,
+            166,
+            165.44,
+            62.29,
+            56.89,
+            51.6,
+            49.27,
+            42.82,
+            40.77,
+            39.76,
+            36.97,
+            35.18,
+            34.89,
+            34.39,
+            34.12,
+            31.72,
+            28.01,
+            26.06,
+            21.69
+        ]
+    },
+    "colors": {
+        "Brand Value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 330
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Brand Value": "#2876dd"
+    }
+}

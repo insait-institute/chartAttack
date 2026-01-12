@@ -1,0 +1,60 @@
+{
+    "title": "Undisbursed external debt of different countries in 1994",
+    "x_axis": {
+        "categories": [
+            "Belarus",
+            "Belize",
+            "Bolivia",
+            "Botswana",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Official creditors": "#2F4F4F",
+        "Private creditors": "#483D8B"
+    },
+    "data": {
+        "Official creditors": [
+            265303000.0,
+            78075000.0,
+            1193611000.0,
+            183180000.0,
+            11994017000.0
+        ],
+        "Private creditors": [
+            128838000.0,
+            15045000.0,
+            6628000.0,
+            3390000.0,
+            9297483000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11994017000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

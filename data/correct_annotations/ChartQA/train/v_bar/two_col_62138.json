@@ -1,0 +1,54 @@
+{
+    "title": "Share of population older than 65 years old",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2020",
+            "2025*",
+            "2030*",
+            "2035*",
+            "2040"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of population older than 65 years old"
+    },
+    "legend": {
+        "Population": "#2876dd"
+    },
+    "data": {
+        "Population": [
+            5.3,
+            6.2,
+            7.4,
+            8.5,
+            9.8,
+            11
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

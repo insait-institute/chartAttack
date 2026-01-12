@@ -1,0 +1,73 @@
+{
+    "title": "Total commercial services traded in Fragile and conflict affected situations",
+    "legend": {
+        "Commercial service exports": "#8B0000",
+        "Commercial service imports": "#E9967A"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Amount (in US$)",
+    "data": [
+        {
+            "label": "Commercial service exports",
+            "color": "#8B0000",
+            "values": [
+                26034491409.2214,
+                34191338449.1332,
+                34700197267.9938,
+                38583737599.7516,
+                44662293136.7072,
+                41923944706.6765,
+                40605213549.9057
+            ]
+        },
+        {
+            "label": "Commercial service imports",
+            "color": "#E9967A",
+            "values": [
+                36848703653.5914,
+                47030916283.2904,
+                48244557348.1948,
+                53199428959.3652,
+                53786103740.814,
+                58898798517.2674,
+                63026209522.1529
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 26034491400,
+                "max_value": 63026209530
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

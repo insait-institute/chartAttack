@@ -1,0 +1,60 @@
+{
+    "title": "Population of different countries in 1979",
+    "legend": {
+        "Canada": "#90EE90",
+        "Chile": "#FF69B4",
+        "Poland": "#6495ED"
+    },
+    "categories": [
+        "Ages 65 and above",
+        "Ages 0-14",
+        "Ages 15-64"
+    ],
+    "data": {
+        "Canada": [
+            9.216136604479411,
+            23.32406915541581,
+            67.4597942401048
+        ],
+        "Chile": [
+            5.90305611516614,
+            33.8993394698089,
+            60.1976044150249
+        ],
+        "Poland": [
+            10.1251489073412,
+            23.8620160439097,
+            66.01283504874911
+        ]
+    },
+    "colors": {
+        "Canada": "#90EE90",
+        "Chile": "#FF69B4",
+        "Poland": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

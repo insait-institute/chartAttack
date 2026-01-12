@@ -1,0 +1,87 @@
+{
+    "title": "Grants received by the government including technical cooeration",
+    "x_axis": {
+        "categories": [
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Jamaica",
+            "Jordan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#556b2f",
+        "1971": "#4e6b2f",
+        "1972": "#4b7232",
+        "1973": "#3c622d"
+    },
+    "data": {
+        "1970": [
+            45890000.0,
+            25730000.0,
+            12150000.0,
+            4020000.0,
+            4810000.0,
+            31010000.0
+        ],
+        "1971": [
+            58320000.0,
+            36840000.0,
+            12360000.0,
+            4750000.0,
+            6990000.0,
+            4690000.0
+        ],
+        "1972": [
+            49870000.0,
+            39940000.0,
+            13070000.0,
+            5900000.0,
+            7180000.0,
+            6590000.0
+        ],
+        "1973": [
+            46430000.0,
+            54610000.0,
+            13750000.0,
+            5820000.0,
+            7700000.0,
+            7110000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 58320000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1970": "#556b2f",
+        "1971": "#4e6b2f",
+        "1972": "#4b7232",
+        "1973": "#3c622d"
+    }
+}

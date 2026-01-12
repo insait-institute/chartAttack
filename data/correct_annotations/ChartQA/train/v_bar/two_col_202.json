@@ -1,0 +1,62 @@
+{
+    "title": "Number of registered voters in millions",
+    "x_axis": {
+        "categories": [
+            "1996",
+            "2000",
+            "2004",
+            "2008",
+            "2010",
+            "2012",
+            "2014",
+            "2016",
+            "2018",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of registered voters in millions"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            127.66,
+            129.55,
+            142.07,
+            146.31,
+            137.26,
+            153.16,
+            142.17,
+            157.6,
+            153.07,
+            168.31
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

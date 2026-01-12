@@ -1,0 +1,68 @@
+{
+    "title": "Number of mobile cellular subscribers",
+    "legend": {
+        "Georgia": "#40E0D0",
+        "Puerto Rico": "#F0E68C",
+        "Yemen, Rep.": "#0000FF"
+    },
+    "categories": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "data": {
+        "Georgia": [
+            2.77398178590106,
+            4.10534972344791,
+            6.43546213498096,
+            10.896511495321,
+            15.5801458858806
+        ],
+        "Puerto Rico": [
+            21.4899637802478,
+            34.7143954631324,
+            42.8535821051872,
+            43.4005283119106,
+            45.1528615941949
+        ],
+        "Yemen, Rep.": [
+            0.16246631819108,
+            0.182861648401713,
+            0.819950583441842,
+            2.62339073955203,
+            3.53834271092346
+        ]
+    },
+    "colors": {
+        "Georgia": "#40E0D0",
+        "Puerto Rico": "#F0E68C",
+        "Yemen, Rep.": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

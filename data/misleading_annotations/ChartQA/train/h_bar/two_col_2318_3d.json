@@ -1,0 +1,104 @@
+{
+    "title": "",
+    "legend": {
+        "CT scanners per million population": "#2876dd"
+    },
+    "categories": [
+        "Japan**",
+        "Australia",
+        "Iceland",
+        "United States",
+        "Denmark",
+        "Greece*",
+        "Switzerland*",
+        "South Korea*",
+        "Latvia*",
+        "Germany*",
+        "Italy*",
+        "Austria*",
+        "Chile**",
+        "Belgium",
+        "Ireland",
+        "Spain**",
+        "Estonia",
+        "Slovakia*",
+        "Slovenia",
+        "France",
+        "Poland*",
+        "Finland*",
+        "Luxembourg",
+        "Czechia",
+        "New Zealand",
+        "Turkey*",
+        "Canada",
+        "Netherlands*",
+        "Russia*",
+        "Israel*",
+        "Hungary*",
+        "Mexico*"
+    ],
+    "data": {
+        "CT scanners per million population": [
+            111.49,
+            70.25,
+            47.62,
+            44.94,
+            40.65,
+            40.62,
+            39.7,
+            38.56,
+            38.4,
+            35.13,
+            35.12,
+            28.84,
+            24.21,
+            23.74,
+            21.41,
+            19.12,
+            18.91,
+            18.36,
+            18.26,
+            18.24,
+            18.14,
+            16.5,
+            16.13,
+            16.09,
+            15.44,
+            14.88,
+            14.82,
+            14.22,
+            13.37,
+            9.57,
+            9.41,
+            5.9
+        ]
+    },
+    "colors": {
+        "CT scanners per million population": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

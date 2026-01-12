@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Trade value": "#2876dd"
+    },
+    "categories": [
+        "China",
+        "Turkey",
+        "United States",
+        "Italy",
+        "Germany",
+        "Vietnam",
+        "Bangladesh",
+        "Republic of Korea",
+        "India",
+        "China, Hong Kong SAR"
+    ],
+    "data": {
+        "Trade value": [
+            7204.8,
+            3216.6,
+            2399.4,
+            2347.1,
+            2118.1,
+            2089,
+            2035.8,
+            1929.5,
+            1372.8,
+            1318.7
+        ]
+    },
+    "colors": {
+        "Trade value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7210
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

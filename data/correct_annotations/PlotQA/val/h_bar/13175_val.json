@@ -1,0 +1,77 @@
+{
+    "title": "Total labor force with secondary education as their highest grade",
+    "legend": {
+        "Canada": "#A0522D",
+        "Macao": "#FFA500",
+        "Moldova": "#0000FF",
+        "Uruguay": "#DB7093"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Canada": [
+            40.0,
+            39.7999992370605,
+            39.5999984741211,
+            39.2000007629395,
+            38.2999992370605
+        ],
+        "Macao": [
+            27.2999992370605,
+            27.2999992370605,
+            28.2999992370605,
+            28.5,
+            29.10000038146969
+        ],
+        "Moldova": [
+            58.2000007629395,
+            57.5999984741211,
+            55.5999984741211,
+            55.5999984741211,
+            54.5
+        ],
+        "Uruguay": [
+            52.0999984741211,
+            56.0999984741211,
+            56.0,
+            56.9000015258789,
+            27.10000038146969
+        ]
+    },
+    "colors": {
+        "Canada": "#A0522D",
+        "Macao": "#FFA500",
+        "Moldova": "#0000FF",
+        "Uruguay": "#DB7093"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

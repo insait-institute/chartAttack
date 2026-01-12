@@ -1,0 +1,80 @@
+{
+    "title": "Number of hospital beds",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011 *",
+            "2013",
+            "2014*",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019**"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of hospital beds"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            22927,
+            22604,
+            23040,
+            22281,
+            21462,
+            20902,
+            20613,
+            20159,
+            19615,
+            19296,
+            19405,
+            17433,
+            17241,
+            15174,
+            14380,
+            14871,
+            15037,
+            14077,
+            15073
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23040
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

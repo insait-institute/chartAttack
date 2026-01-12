@@ -1,0 +1,62 @@
+{
+    "title": "Time required to trade the goods and services in 2009",
+    "legend": {
+        "Ghana": "#008B8B",
+        "Kyrgyz Republic": "#B03060",
+        "Palau": "#6B8E23",
+        "Slovak Republic": "#20B2AA"
+    },
+    "categories": [
+        "Time to export",
+        "Time to import"
+    ],
+    "data": {
+        "Ghana": [
+            19,
+            37
+        ],
+        "Kyrgyz Republic": [
+            63,
+            72
+        ],
+        "Palau": [
+            26,
+            31
+        ],
+        "Slovak Republic": [
+            20,
+            22
+        ]
+    },
+    "colors": {
+        "Ghana": "#008B8B",
+        "Kyrgyz Republic": "#B03060",
+        "Palau": "#6B8E23",
+        "Slovak Republic": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

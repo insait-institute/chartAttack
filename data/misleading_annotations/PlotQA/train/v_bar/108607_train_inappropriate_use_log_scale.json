@@ -1,0 +1,63 @@
+{
+    "title": "Net bilateral aid flow in an economy from Greece",
+    "x_axis": {
+        "categories": [
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income",
+            "World",
+            "Albania",
+            "Armenia",
+            "Bosnia and Herzegovina"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1996": "#90EE90",
+        "1997": "#00BFFF"
+    },
+    "data": {
+        "1996": [
+            6380000.0,
+            13420000.0,
+            28540000.0,
+            4830000.0,
+            3240000.0,
+            7220000.0
+        ],
+        "1997": [
+            900000.0,
+            32850000.0,
+            45310000.0,
+            14400000.0,
+            1090000.0,
+            10390000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 45310000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Official entrance age of children to secondary education",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Sierra Leone": "#f27979",
+        "Singapore": "#79f200",
+        "Slovak Republic": "#52a5a5",
+        "Slovenia": "#5200a5"
+    },
+    "data": {
+        "Sierra Leone": [
+            5.0
+        ],
+        "Singapore": [
+            6.0
+        ],
+        "Slovak Republic": [
+            6.0
+        ],
+        "Slovenia": [
+            7.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Sierra Leone": "#f27979",
+        "Singapore": "#79f200",
+        "Slovak Republic": "#52a5a5",
+        "Slovenia": "#5200a5"
+    }
+}

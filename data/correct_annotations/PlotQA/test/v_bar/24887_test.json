@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of children (ages 7-14) in employment in 2005",
+    "x_axis": {
+        "categories": [
+            "Azerbaijan",
+            "Nicaragua",
+            "Paraguay"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Self-employed": "#8A2BE2",
+        "Unpaid family workers": "#808000",
+        "Wage workers": "#FF0000"
+    },
+    "data": {
+        "Self-employed": [
+            4.1,
+            1.18,
+            9.33
+        ],
+        "Unpaid family workers": [
+            94.5,
+            92.1,
+            78.77
+        ],
+        "Wage workers": [
+            1.4,
+            3.8,
+            9.17
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

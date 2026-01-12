@@ -1,0 +1,63 @@
+{
+    "title": "Electricity production from renewable resources",
+    "legend": {
+        "1960": "#ADFF2F",
+        "1961": "#0000FF",
+        "1962": "#CD5C5C"
+    },
+    "categories": [
+        "Australia",
+        "Italy",
+        "New Zealand",
+        "Poland"
+    ],
+    "data": {
+        "1960": [
+            303000000.0,
+            2112000000.0,
+            407000000.0,
+            10000000.0
+        ],
+        "1961": [
+            303000000.0,
+            2311000000.0,
+            524000000.0,
+            11000000.0
+        ],
+        "1962": [
+            295000000.0,
+            2362000000.0,
+            813000000.0,
+            18000000.0
+        ]
+    },
+    "colors": {
+        "1960": "#ADFF2F",
+        "1961": "#0000FF",
+        "1962": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2362000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

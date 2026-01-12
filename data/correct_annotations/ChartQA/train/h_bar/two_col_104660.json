@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Suspected Cases": "#2876dd"
+    },
+    "categories": [
+        "Lombardy",
+        "Campania",
+        "Lazio",
+        "Emilia-Romagna",
+        "Sicily",
+        "Piedmont",
+        "Tuscany",
+        "Veneto",
+        "Apulia",
+        "Calabria",
+        "Liguria",
+        "Marche",
+        "Abruzzo",
+        "Friuli-Venezia Giulia",
+        "Umbria",
+        "Trentino-South Tyrol",
+        "Sardinia",
+        "Basilicata",
+        "Molise",
+        "Aosta Valley"
+    ],
+    "data": {
+        "Suspected Cases": [
+            23791,
+            22143,
+            15153,
+            10846,
+            8092,
+            7718,
+            7127,
+            6799,
+            5660,
+            3817,
+            3109,
+            2508,
+            1939,
+            1437,
+            1200,
+            1029,
+            867,
+            708,
+            585,
+            124
+        ]
+    },
+    "colors": {
+        "Suspected Cases": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23800
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Risk index score",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Risk index score"
+    },
+    "legend": {
+        "2015": "#f27979",
+        "2016": "#f2f200",
+        "2017": "#79f279",
+        "2018": "#00a5a5",
+        "2019": "#5252a5",
+        "2020": "#a500a5"
+    },
+    "data": {
+        "2015": [
+            4.16
+        ],
+        "2016": [
+            4.16
+        ],
+        "2017": [
+            6.6
+        ],
+        "2018": [
+            6.48
+        ],
+        "2019": [
+            6.24
+        ],
+        "2020": [
+            5.99
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2015": "#f27979",
+        "2016": "#f2f200",
+        "2017": "#79f279",
+        "2018": "#00a5a5",
+        "2019": "#5252a5",
+        "2020": "#a500a5"
+    }
+}

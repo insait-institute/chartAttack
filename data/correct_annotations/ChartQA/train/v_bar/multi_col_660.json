@@ -1,0 +1,120 @@
+{
+    "title": "Sales in billion New Taiwan dollars",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales in billion New Taiwan dollars"
+    },
+    "legend": {
+        "Taiwan": "#2876dd",
+        "China": "#0f283e",
+        "Singapore": "#bababa",
+        "USA": "#a60b0b",
+        "Europe": "#87bc24",
+        "Others": "#ebb523"
+    },
+    "data": {
+        "Taiwan": [
+            46.44,
+            52.35,
+            60.74,
+            65.83,
+            65.47,
+            69.87,
+            69.89,
+            62.92,
+            48.3
+        ],
+        "China": [
+            80.53,
+            79.92,
+            80.23,
+            71.95,
+            79.3,
+            77.63,
+            71.94,
+            71.94,
+            64.37
+        ],
+        "Singapore": [
+            197.75,
+            217.43,
+            216.13,
+            233.1,
+            188.44,
+            182.29,
+            174.0,
+            151.02,
+            142.26
+        ],
+        "USA": [
+            51.87,
+            87.03,
+            89.12,
+            79.27,
+            77.56,
+            70.8,
+            64.47,
+            62.22,
+            62.16
+        ],
+        "Europe": [
+            2.33,
+            2.46,
+            2.55,
+            3.72,
+            34.65,
+            38.85,
+            28.93,
+            18.58,
+            20.62
+        ],
+        "Others": [
+            5.19,
+            9.5,
+            14.52,
+            23.53,
+            26.92,
+            27.37,
+            24.72,
+            24.88,
+            30.75
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 240
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,133 @@
+{
+    "title": "Value added by different sectors to the total GDP of Djibouti",
+    "legend": {
+        "Industry": "#00FF00",
+        "Manufacturing": "#008B8B",
+        "Services": "#663399",
+        "Agriculture": "#66CDAA"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Value added (% of GDP)",
+    "data": [
+        {
+            "label": "Industry",
+            "color": "#00FF00",
+            "values": [
+                15.9891566500878,
+                16.1605443938751,
+                16.6228295788728,
+                16.6060597407303,
+                16.3823693539916
+            ]
+        },
+        {
+            "label": "Manufacturing",
+            "color": "#008B8B",
+            "values": [
+                2.64407236729075,
+                2.66975234506685,
+                2.66128327817301,
+                2.58591533710688,
+                2.51706932773109
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#663399",
+            "values": [
+                80.42901476879051,
+                80.22645481869199,
+                79.7589121931808,
+                79.8604151849575,
+                80.1108685661765
+            ]
+        },
+        {
+            "label": "Agriculture",
+            "color": "#66CDAA",
+            "values": [
+                3.58182858112178,
+                3.613000787432819,
+                3.61825822794639,
+                3.53352507431227,
+                3.506762079831931
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Industry",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Manufacturing",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Agriculture",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

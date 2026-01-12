@@ -1,0 +1,67 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in Latin America",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Morocco": "#f27979",
+        "Netherlands": "#c1f200",
+        "Nicaragua": "#52a574",
+        "Norway": "#0042a5",
+        "Panama": "#da79f2"
+    },
+    "data": {
+        "Morocco": [
+            6.24694973157638
+        ],
+        "Netherlands": [
+            2.89048115530513
+        ],
+        "Nicaragua": [
+            9.845288326300981
+        ],
+        "Norway": [
+            2.80643829962856
+        ],
+        "Panama": [
+            2.84263959390863
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Morocco": "#f27979",
+        "Netherlands": "#c1f200",
+        "Nicaragua": "#52a574",
+        "Norway": "#0042a5",
+        "Panama": "#da79f2"
+    }
+}

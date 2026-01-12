@@ -1,0 +1,52 @@
+{
+    "title": "Tuberculosis treatment success rate in 2013",
+    "x_axis": {
+        "categories": [
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income",
+            "World"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Tuberculosis treatment success rate": "#32CD32"
+    },
+    "data": {
+        "Tuberculosis treatment success rate": [
+            89,
+            79,
+            79,
+            85,
+            86
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

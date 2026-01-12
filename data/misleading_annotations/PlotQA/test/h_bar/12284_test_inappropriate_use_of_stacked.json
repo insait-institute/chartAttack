@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of total fuel imported from different countries",
+    "legend": {
+        "Hong Kong": "#f27979",
+        "Iceland": "#f2f200",
+        "Israel": "#79f279",
+        "Italy": "#00a5a5",
+        "Japan": "#5252a5",
+        "Mexico": "#a500a5"
+    },
+    "categories": [
+        "Percentage of total fuel imported from different countries"
+    ],
+    "data": {
+        "Hong Kong": [
+            3.59651491345603
+        ],
+        "Iceland": [
+            12.7311363906351
+        ],
+        "Israel": [
+            6.454334599234017
+        ],
+        "Italy": [
+            13.3521215895756
+        ],
+        "Japan": [
+            18.4743040845683
+        ],
+        "Mexico": [
+            2.74710248420855
+        ]
+    },
+    "colors": {
+        "Hong Kong": "#f27979",
+        "Iceland": "#f2f200",
+        "Israel": "#79f279",
+        "Italy": "#00a5a5",
+        "Japan": "#5252a5",
+        "Mexico": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

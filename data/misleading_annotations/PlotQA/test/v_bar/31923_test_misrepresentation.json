@@ -1,0 +1,61 @@
+{
+    "title": "Total reserves (including gold) of different countries",
+    "x_axis": {
+        "categories": [
+            "Mexico",
+            "Morocco",
+            "Myanmar",
+            "Nepal",
+            "Netherlands"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Total reserves (includes gold": "#CD5C5C"
+    },
+    "data": {
+        "Total reserves (includes gold": [
+            3087691808.87478,
+            917484589.28479,
+            331879504.39532,
+            235268986.49595,
+            30104385298.0992
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30104385300
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Total reserves (includes gold": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

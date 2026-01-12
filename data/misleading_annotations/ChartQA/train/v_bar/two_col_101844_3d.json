@@ -1,0 +1,56 @@
+{
+    "title": "Number of cooks in millions",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2014",
+            "2015",
+            "2016*",
+            "2026*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of cooks in millions"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            2.07,
+            2.08,
+            2.1,
+            2.27,
+            2.34,
+            2.42,
+            2.69
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

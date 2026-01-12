@@ -1,0 +1,52 @@
+{
+    "title": "Transfers recorded in the balance of payments as the secondary income of a country",
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#00f200",
+        "2009": "#5252a5"
+    },
+    "categories": [
+        "Transfers recorded in the balance of payments as the secondary income of a country"
+    ],
+    "data": {
+        "2007": [
+            117581.7371
+        ],
+        "2008": [
+            90196.09476
+        ],
+        "2009": [
+            301536.7656
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#00f200",
+        "2009": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 802735890
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

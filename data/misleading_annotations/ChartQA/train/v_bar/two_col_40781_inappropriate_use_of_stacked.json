@@ -1,0 +1,67 @@
+{
+    "title": "Market revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Market revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "2019": "#f27979",
+        "2020": "#c1f200",
+        "2021": "#52a574",
+        "2022": "#0042a5",
+        "2023": "#da79f2"
+    },
+    "data": {
+        "2019": [
+            1.24
+        ],
+        "2020": [
+            1.41
+        ],
+        "2021": [
+            1.64
+        ],
+        "2022": [
+            1.93
+        ],
+        "2023": [
+            2.28
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2019": "#f27979",
+        "2020": "#c1f200",
+        "2021": "#52a574",
+        "2022": "#0042a5",
+        "2023": "#da79f2"
+    }
+}

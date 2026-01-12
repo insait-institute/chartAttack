@@ -1,0 +1,56 @@
+{
+    "title": "Balance of goods and services traded in 2007",
+    "legend": {
+        "Bermuda": "#B03060",
+        "France": "#FFFF00",
+        "Nigeria": "#2F4F4F"
+    },
+    "categories": [
+        "Exports",
+        "Imports"
+    ],
+    "data": {
+        "Bermuda": [
+            25315598.7,
+            1165781450.0
+        ],
+        "France": [
+            544410000000,
+            590319000000
+        ],
+        "Nigeria": [
+            66039563856,
+            28291161806
+        ]
+    },
+    "colors": {
+        "Bermuda": "#B03060",
+        "France": "#FFFF00",
+        "Nigeria": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 590319000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

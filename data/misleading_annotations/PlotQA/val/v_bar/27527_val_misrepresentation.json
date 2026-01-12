@@ -1,0 +1,98 @@
+{
+    "title": "Annual population growth of a country",
+    "x_axis": {
+        "categories": [
+            "Armenia",
+            "Aruba",
+            "Australia",
+            "Austria",
+            "Azerbaijan",
+            "Bahamas"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#F4A460",
+        "1961": "#FF4500",
+        "1962": "#8B008B"
+    },
+    "data": {
+        "1960": [
+            3.55528978042172,
+            3.13488848888506,
+            2.2669115425423,
+            0.510799364664575,
+            3.27801851740892,
+            4.78748189323243
+        ],
+        "1961": [
+            3.51690204227287,
+            2.23826641947257,
+            1.9897400460104,
+            0.548472356417754,
+            3.33635089645226,
+            4.97088540971246
+        ],
+        "1962": [
+            3.45176249003758,
+            1.41681201454265,
+            2.4406394012832,
+            0.612895847822874,
+            3.35316192596975,
+            5.06054427625651
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

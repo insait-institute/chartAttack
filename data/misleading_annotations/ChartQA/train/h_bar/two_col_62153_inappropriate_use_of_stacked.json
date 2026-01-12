@@ -1,0 +1,92 @@
+{
+    "title": "",
+    "legend": {
+        "Canada": "#f27979",
+        "Mexico": "#f28400",
+        "Brazil": "#e7f279",
+        "South Korea": "#58f200",
+        "Japan": "#52a561",
+        "Germany": "#00a578",
+        "Taiwan": "#528fa5",
+        "China": "#001ea5",
+        "Italy": "#a579f2",
+        "Russia": "#dc00f2",
+        "Other countries": "#f279bb"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Canada": [
+            3952.03
+        ],
+        "Mexico": [
+            2183.87
+        ],
+        "Brazil": [
+            1841.51
+        ],
+        "South Korea": [
+            1519.7
+        ],
+        "Japan": [
+            992.67
+        ],
+        "Germany": [
+            1116.71
+        ],
+        "Taiwan": [
+            606.59
+        ],
+        "China": [
+            464.88
+        ],
+        "Italy": [
+            364.48
+        ],
+        "Russia": [
+            208.56
+        ],
+        "Other countries": [
+            3689.94
+        ]
+    },
+    "colors": {
+        "Canada": "#f27979",
+        "Mexico": "#f28400",
+        "Brazil": "#e7f279",
+        "South Korea": "#58f200",
+        "Japan": "#52a561",
+        "Germany": "#00a578",
+        "Taiwan": "#528fa5",
+        "China": "#001ea5",
+        "Italy": "#a579f2",
+        "Russia": "#dc00f2",
+        "Other countries": "#f279bb"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3960
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

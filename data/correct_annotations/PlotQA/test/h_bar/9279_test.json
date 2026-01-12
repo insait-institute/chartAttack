@@ -1,0 +1,64 @@
+{
+    "title": "Population in urban agglomerations of countries",
+    "legend": {
+        "1960": "#C71585",
+        "1961": "#4169E1",
+        "1962": "#BDB76B"
+    },
+    "categories": [
+        "Uruguay",
+        "Uzbekistan",
+        "Venezuela",
+        "Vietnam"
+    ],
+    "data": {
+        "1960": [
+            50.6157797980108,
+            10.9665040937519,
+            28.8450559695195,
+            5.9344846443888
+        ],
+        "1961": [
+            50.2579820048365,
+            11.0691809574942,
+            29.3488033824,
+            6.03085694930563
+        ],
+        "1962": [
+            49.92758902364039,
+            11.1587089879189,
+            29.57521622553211,
+            6.1297179082579
+        ]
+    },
+    "colors": {
+        "1960": "#C71585",
+        "1961": "#4169E1",
+        "1962": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

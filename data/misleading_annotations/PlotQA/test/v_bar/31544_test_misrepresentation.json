@@ -1,0 +1,115 @@
+{
+    "title": "Total population between the ages 15 to 64 as a percentage of the total population",
+    "x_axis": {
+        "categories": [
+            "Swaziland",
+            "Sweden",
+            "Switzerland",
+            "Syrian Arab Republic",
+            "Tajikistan",
+            "Tanzania"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#4B0082",
+        "1961": "#E9967A",
+        "1962": "#B03060",
+        "1963": "#20B2AA"
+    },
+    "data": {
+        "1960": [
+            52.0723986564844,
+            65.816215889562,
+            65.66922577282989,
+            49.6832090911446,
+            56.1010351084163,
+            51.816201117873
+        ],
+        "1961": [
+            51.7168174266199,
+            65.8935515640127,
+            65.43684506891829,
+            49.2729720178569,
+            54.717944620968,
+            51.6480549252028
+        ],
+        "1962": [
+            51.4487899179424,
+            66.0556781031948,
+            65.3418499000545,
+            48.7943059091425,
+            53.30591072844971,
+            51.608843147738
+        ],
+        "1963": [
+            51.251768090676,
+            66.2421100297048,
+            65.343279650277,
+            48.349695768438,
+            51.9625740584804,
+            51.6459743980537
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1963": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

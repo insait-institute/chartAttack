@@ -1,0 +1,87 @@
+{
+    "title": "Points scored by basketball players",
+    "legend": {
+        "Dominique Wilkins": "#f27979",
+        "Bob Pettit": "#f29100",
+        "Lou Hudson": "#daf279",
+        "Cliff Hagan": "#30f200",
+        "John Drew": "#52a574",
+        "Joe Johnson": "#00a5a5",
+        "Kevin Willis": "#5274a5",
+        "Josh Smith": "#2100a5",
+        "Eddie Johnson": "#da79f2",
+        "Zelmo Beaty": "#f20091"
+    },
+    "categories": [
+        "Points scored by basketball players"
+    ],
+    "data": {
+        "Dominique Wilkins": [
+            23292.0
+        ],
+        "Bob Pettit": [
+            20880.0
+        ],
+        "Lou Hudson": [
+            16049.0
+        ],
+        "Cliff Hagan": [
+            13447.0
+        ],
+        "John Drew": [
+            12621.0
+        ],
+        "Joe Johnson": [
+            10606.0
+        ],
+        "Kevin Willis": [
+            10582.0
+        ],
+        "Josh Smith": [
+            10371.0
+        ],
+        "Eddie Johnson": [
+            9631.0
+        ],
+        "Zelmo Beaty": [
+            8727.0
+        ]
+    },
+    "colors": {
+        "Dominique Wilkins": "#f27979",
+        "Bob Pettit": "#f29100",
+        "Lou Hudson": "#daf279",
+        "Cliff Hagan": "#30f200",
+        "John Drew": "#52a574",
+        "Joe Johnson": "#00a5a5",
+        "Kevin Willis": "#5274a5",
+        "Josh Smith": "#2100a5",
+        "Eddie Johnson": "#da79f2",
+        "Zelmo Beaty": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23300
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

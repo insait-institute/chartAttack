@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of unemployed male labor force of a country",
+    "legend": {
+        "1989": "#f27979",
+        "1991": "#79f200",
+        "1997": "#52a5a5",
+        "1999": "#5200a5"
+    },
+    "categories": [
+        "Percentage of unemployed male labor force of a country"
+    ],
+    "data": {
+        "1989": [
+            3.20000004768372
+        ],
+        "1991": [
+            4.699999809265138
+        ],
+        "1997": [
+            4.90000009536743
+        ],
+        "1999": [
+            5.0
+        ]
+    },
+    "colors": {
+        "1989": "#f27979",
+        "1991": "#79f200",
+        "1997": "#52a5a5",
+        "1999": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

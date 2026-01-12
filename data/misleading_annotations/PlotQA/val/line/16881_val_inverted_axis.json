@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education in Solomon Islands",
+    "legend": {
+        "Female entrants": "#F4A460",
+        "Male entrants": "#A0522D"
+    },
+    "x_axis": [
+        "1982",
+        "1983",
+        "1986",
+        "2013"
+    ],
+    "y_axis_label": "Primary completion rate (% of total enrollments)",
+    "data": [
+        {
+            "label": "Female entrants",
+            "color": "#F4A460",
+            "values": [
+                45.54555,
+                44.3787,
+                45.34402,
+                86.25408935546879
+            ]
+        },
+        {
+            "label": "Male entrants",
+            "color": "#A0522D",
+            "values": [
+                64.57484000000001,
+                60.82625,
+                59.51396999999999,
+                86.3318405151367
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

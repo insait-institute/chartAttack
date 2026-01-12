@@ -1,0 +1,97 @@
+{
+    "title": "World population in billions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "World population in billions"
+    },
+    "legend": {
+        "0": "#f27979",
+        "1000": "#f28400",
+        "1250": "#e7f279",
+        "1500": "#58f200",
+        "1750": "#52a561",
+        "1800": "#00a578",
+        "1850": "#528fa5",
+        "1900": "#001ea5",
+        "1950*": "#a579f2",
+        "2000*": "#dc00f2",
+        "2010*": "#f279bb"
+    },
+    "data": {
+        "0": [
+            0.3
+        ],
+        "1000": [
+            0.31
+        ],
+        "1250": [
+            0.4
+        ],
+        "1500": [
+            0.5
+        ],
+        "1750": [
+            0.79
+        ],
+        "1800": [
+            0.98
+        ],
+        "1850": [
+            1.26
+        ],
+        "1900": [
+            1.65
+        ],
+        "1950*": [
+            2.53
+        ],
+        "2000*": [
+            6.12
+        ],
+        "2010*": [
+            6.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "0": "#f27979",
+        "1000": "#f28400",
+        "1250": "#e7f279",
+        "1500": "#58f200",
+        "1750": "#52a561",
+        "1800": "#00a578",
+        "1850": "#528fa5",
+        "1900": "#001ea5",
+        "1950*": "#a579f2",
+        "2000*": "#dc00f2",
+        "2010*": "#f279bb"
+    }
+}

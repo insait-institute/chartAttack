@@ -1,0 +1,52 @@
+{
+    "title": "",
+    "legend": {
+        "Share of mobile app developers": "#2876dd"
+    },
+    "categories": [
+        "Asia",
+        "Europe",
+        "North America",
+        "South America",
+        "Africa",
+        "Oceania"
+    ],
+    "data": {
+        "Share of mobile app developers": [
+            32.9,
+            29.7,
+            29.4,
+            3.5,
+            3.0,
+            1.5
+        ]
+    },
+    "colors": {
+        "Share of mobile app developers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

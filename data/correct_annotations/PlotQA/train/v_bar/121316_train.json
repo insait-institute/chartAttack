@@ -1,0 +1,72 @@
+{
+    "title": "Educated labor force (as % of total labor force) in different countries in 2009",
+    "x_axis": {
+        "categories": [
+            "Iceland",
+            "Indonesia",
+            "Ireland",
+            "Italy",
+            "Jordan",
+            "Kazakhstan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary education": "#00FFFF",
+        "Secondary education": "#FF8C00",
+        "Tertiary education": "#A52A2A"
+    },
+    "data": {
+        "Primary education": [
+            33.9000015258789,
+            63.5,
+            21.0,
+            35.9000015258789,
+            49.7999992370605,
+            35.5
+        ],
+        "Secondary education": [
+            37.4000015258789,
+            24.7000007629395,
+            38.5,
+            46.4000015258789,
+            24.2000007629395,
+            39.5999984741211
+        ],
+        "Tertiary education": [
+            28.39999961853031,
+            6.300000190734861,
+            37.0999984741211,
+            16.8999996185303,
+            24.60000038146969,
+            24.89999961853031
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

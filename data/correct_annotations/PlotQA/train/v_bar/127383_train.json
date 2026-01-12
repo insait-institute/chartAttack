@@ -1,0 +1,72 @@
+{
+    "title": "Current account balance of a country after exporting goods and services",
+    "x_axis": {
+        "categories": [
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Brazil",
+            "Bulgaria",
+            "Cabo Verde",
+            "Canada"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#00FF7F",
+        "2006": "#BEBEBE",
+        "2007": "#483D8B"
+    },
+    "data": {
+        "2005": [
+            6.51831708183819,
+            -16.9152190587994,
+            1.56760514609709,
+            -11.2233811103291,
+            -4.18458377090171,
+            1.88208428683922
+        ],
+        "2006": [
+            11.5044303951688,
+            -7.95290953286297,
+            1.22959468398752,
+            -17.0917531434836,
+            -7.467369038362381,
+            1.36971106642534
+        ],
+        "2007": [
+            12.1282311991628,
+            -9.39140792634926,
+            0.111092686309803,
+            -25.5485736309042,
+            -13.0959820505375,
+            0.7755980359751129
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

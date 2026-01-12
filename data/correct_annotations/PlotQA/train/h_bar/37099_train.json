@@ -1,0 +1,72 @@
+{
+    "title": "Electricity produced from renewable sources in countries in 1963",
+    "legend": {
+        "Hydroelectric sources": "#00FA9A",
+        "Nuclear sources": "#A020F0",
+        "Renewable sources": "#B03060"
+    },
+    "categories": [
+        "High income",
+        "High income: OECD",
+        "North America",
+        "OECD members",
+        "Italy",
+        "United States"
+    ],
+    "data": {
+        "Hydroelectric sources": [
+            24.8007253666214,
+            29.0017458246211,
+            24.8449340561632,
+            28.8147921165545,
+            64.46794131726409,
+            17.2554153454428
+        ],
+        "Nuclear sources": [
+            0.440566151151284,
+            0.5151941060489129,
+            0.321911802535782,
+            0.5101055454902029,
+            0.454763044518909,
+            0.353732927008749
+        ],
+        "Renewable sources": [
+            0.175581151738145,
+            0.2053230241869169,
+            0.026081239525562,
+            0.206274255068904,
+            3.59445836735843,
+            0.0294348609614496
+        ]
+    },
+    "colors": {
+        "Hydroelectric sources": "#00FA9A",
+        "Nuclear sources": "#A020F0",
+        "Renewable sources": "#B03060"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

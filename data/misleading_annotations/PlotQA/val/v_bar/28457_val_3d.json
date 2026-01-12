@@ -1,0 +1,61 @@
+{
+    "title": "Mobile cellular and fixed telephone subscriptions recorded in 2014",
+    "x_axis": {
+        "categories": [
+            "Mobile cellular",
+            "Fixed telephone"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cambodia": "#006400",
+        "Panama": "#556B2F",
+        "Saudi Arabia": "#6A5ACD",
+        "Uganda": "#2F4F4F"
+    },
+    "data": {
+        "Cambodia": [
+            155.111508300413,
+            2.84327831742305
+        ],
+        "Panama": [
+            158.054282495466,
+            14.9871230817391
+        ],
+        "Saudi Arabia": [
+            179.561171569293,
+            13.355003032405
+        ],
+        "Uganda": [
+            52.42923962914411,
+            0.835230120904247
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 180
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

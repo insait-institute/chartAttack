@@ -1,0 +1,62 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Core Laboratory": "#f27979",
+        "Molecular": "#79f200",
+        "Point of Care": "#52a5a5",
+        "Rapid Diagnostics": "#5200a5"
+    },
+    "data": {
+        "Core Laboratory": [
+            4386.0
+        ],
+        "Molecular": [
+            484.0
+        ],
+        "Point of Care": [
+            553.0
+        ],
+        "Rapid Diagnostics": [
+            2072.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4660
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "Core Laboratory": "#f27979",
+        "Molecular": "#79f200",
+        "Point of Care": "#52a5a5",
+        "Rapid Diagnostics": "#5200a5"
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Short term external debts owed by residents of a country",
+    "legend": {
+        "1970": "#DB7093",
+        "1971": "#BEBEBE",
+        "1972": "#008B8B",
+        "1973": "#00FA9A"
+    },
+    "categories": [
+        "Ecuador",
+        "Egypt, Arab Rep.",
+        "India",
+        "Indonesia",
+        "Kenya",
+        "Malaysia"
+    ],
+    "data": {
+        "1970": [
+            106000000.0,
+            397000000.0,
+            283000000.0,
+            339000000.0,
+            -225332000.0,
+            62000000.0
+        ],
+        "1971": [
+            13000000.0,
+            69000000.0,
+            35000000.0,
+            126000000.0,
+            3000000.0,
+            25000000.0
+        ],
+        "1972": [
+            11000000.0,
+            -3000000.0,
+            32000000.0,
+            109000000.0,
+            12000000.0,
+            30000000.0
+        ],
+        "1973": [
+            9000000.0,
+            61000000.0,
+            28000000.0,
+            144000000.0,
+            38000000.0,
+            10000000.0
+        ]
+    },
+    "colors": {
+        "1970": "#DB7093",
+        "1971": "#BEBEBE",
+        "1972": "#008B8B",
+        "1973": "#00FA9A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 397000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

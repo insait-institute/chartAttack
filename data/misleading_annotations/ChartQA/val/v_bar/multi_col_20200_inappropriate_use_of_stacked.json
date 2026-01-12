@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of households",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of households"
+    },
+    "legend": {
+        "2013": "#f27979",
+        "2015": "#00f200",
+        "2017": "#5252a5"
+    },
+    "data": {
+        "2013": [
+            18.0
+        ],
+        "2015": [
+            18.0
+        ],
+        "2017": [
+            18.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2013": "#f27979",
+        "2015": "#00f200",
+        "2017": "#5252a5"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Resource balance of an economy in 1977",
+    "legend": {
+        "Brunei Darussalam": "#BEBEBE",
+        "Colombia": "#A0522D",
+        "Congo (Democratic)": "#000000"
+    },
+    "categories": [
+        "US$",
+        "Local Currency"
+    ],
+    "data": {
+        "Brunei Darussalam": [
+            1360990407.47725,
+            3320000000.0
+        ],
+        "Colombia": [
+            707018030.773414,
+            25999998900.0
+        ],
+        "Congo (Democratic)": [
+            -1153531818.66861,
+            -0.00329333334229887
+        ]
+    },
+    "colors": {
+        "Brunei Darussalam": "#BEBEBE",
+        "Colombia": "#A0522D",
+        "Congo (Democratic)": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25999998900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,72 @@
+{
+    "title": "CPIA ratings of different policies of Uzbekistan",
+    "legend": {
+        "Gender equality": "#FF4500",
+        "Social Protection": "#FF0000",
+        "Quality of public administration": "#708090",
+        "Public sector management": "#008080"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Gender equality": [
+            4.0,
+            4.0,
+            4.0,
+            4.0
+        ],
+        "Social Protection": [
+            3.5,
+            3.5,
+            3.5,
+            3.5
+        ],
+        "Quality of public administration": [
+            3.0,
+            3.0,
+            3.0,
+            3.0
+        ],
+        "Public sector management": [
+            2.8,
+            2.8,
+            2.9,
+            2.9
+        ]
+    },
+    "colors": {
+        "Gender equality": "#FF4500",
+        "Social Protection": "#FF0000",
+        "Quality of public administration": "#708090",
+        "Public sector management": "#008080"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

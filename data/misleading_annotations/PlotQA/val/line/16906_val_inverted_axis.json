@@ -1,0 +1,67 @@
+{
+    "title": "Number of people participated in R&D projects in Iraq",
+    "legend": {
+        "Researchers": "#708090",
+        "Technicians": "#20B2AA"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Number of participants (per million people)",
+    "data": [
+        {
+            "label": "Researchers",
+            "color": "#708090",
+            "values": [
+                370.71388,
+                381.02649,
+                401.9935,
+                416.25421,
+                425.47706
+            ]
+        },
+        {
+            "label": "Technicians",
+            "color": "#20B2AA",
+            "values": [
+                51.50661,
+                58.05236,
+                59.89196,
+                62.42679,
+                60.87658
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 430
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

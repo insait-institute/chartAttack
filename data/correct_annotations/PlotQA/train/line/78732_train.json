@@ -1,0 +1,64 @@
+{
+    "title": "Land Geography of United States",
+    "legend": {
+        "Forest land": "#E9967A",
+        "Agricultural land": "#228B22"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Area (% of total land area)",
+    "data": [
+        {
+            "label": "Forest land",
+            "color": "#E9967A",
+            "values": [
+                33.5761121715194,
+                33.6627595540601,
+                33.7494069366007,
+                33.7794700582241
+            ]
+        },
+        {
+            "label": "Agricultural land",
+            "color": "#228B22",
+            "values": [
+                46.7479932219379,
+                46.7479932219379,
+                46.7479932219379,
+                47.1013084455004
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

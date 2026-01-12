@@ -1,0 +1,68 @@
+{
+    "title": "Male life expectancy at birth in countries",
+    "x_axis": {
+        "categories": [
+            "Guam",
+            "Guatemala",
+            "Guinea",
+            "Guinea-Bissau",
+            "Guyana"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00BFFF",
+        "1961": "#66CDAA",
+        "1962": "#87CEEB"
+    },
+    "data": {
+        "1960": [
+            59.12,
+            44.877,
+            33.762,
+            36.338,
+            57.74800000000001
+        ],
+        "1961": [
+            59.617,
+            45.382,
+            33.966,
+            36.635,
+            57.94600000000001
+        ],
+        "1962": [
+            60.107,
+            45.9,
+            34.156,
+            36.956,
+            58.147
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

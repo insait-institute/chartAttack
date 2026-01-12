@@ -1,0 +1,57 @@
+{
+    "title": "Measure of agricultural productivity of Comoros",
+    "legend": {
+        "Agriculture value added per worker": "#8B0000"
+    },
+    "x_axis": [
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+    ],
+    "y_axis_label": "Agriculture value added per worker (constant 2005 US$)",
+    "data": [
+        {
+            "label": "Agriculture value added per worker",
+            "color": "#8B0000",
+            "values": [
+                649.114973569005,
+                657.186044117419,
+                665.1773428261699,
+                682.418214248766,
+                697.39624125095,
+                702.659092958974
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 640,
+                "max_value": 710
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

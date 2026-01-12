@@ -1,0 +1,47 @@
+{
+    "title": "Plot of number of days required to export and import the goods in different countries",
+    "legend": {
+        "Export": "#f27979",
+        "Import": "#00a5a5"
+    },
+    "categories": [
+        "Plot of number of days required to export and import the goods in different countries"
+    ],
+    "data": {
+        "Export": [
+            1.33333333333333
+        ],
+        "Import": [
+            2.0
+        ]
+    },
+    "colors": {
+        "Export": "#f27979",
+        "Import": "#00a5a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

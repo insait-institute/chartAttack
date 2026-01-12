@@ -1,0 +1,72 @@
+{
+    "title": "Amount of goods and services exported by countries",
+    "x_axis": {
+        "categories": [
+            "Germany",
+            "Greece",
+            "Guatemala",
+            "Hong Kong",
+            "Hungary",
+            "Iceland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#DB7093",
+        "2006": "#FF4500",
+        "2007": "#FF0000"
+    },
+    "data": {
+        "2005": [
+            920097000000.0,
+            17468864750.0,
+            5459500000.0,
+            274879000000.0,
+            58646121095.0,
+            2885621199.0
+        ],
+        "2006": [
+            1057330000000.0,
+            20130051076.0,
+            6082100000.0,
+            303914000000.0,
+            70187887613.0,
+            3098737092.0
+        ],
+        "2007": [
+            1270940000000.0,
+            23751941163.0,
+            6983200000.0,
+            330036000000.0,
+            89603470549.0,
+            4118484195.0
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1270940000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

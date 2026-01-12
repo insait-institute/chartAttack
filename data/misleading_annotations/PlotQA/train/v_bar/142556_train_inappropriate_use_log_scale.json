@@ -1,0 +1,81 @@
+{
+    "title": "CPIA business regulatory environment rating",
+    "x_axis": {
+        "categories": [
+            "Least developed countries",
+            "Low & middle income",
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#7FFFD4",
+        "2006": "#D2B48C",
+        "2007": "#FF69B4",
+        "2008": "#EE82EE"
+    },
+    "data": {
+        "2005": [
+            3.075,
+            3.30921052631579,
+            3.05769230769231,
+            3.35526315789474,
+            3.0,
+            3.0
+        ],
+        "2006": [
+            2.98809523809524,
+            3.21794871794872,
+            2.98148148148148,
+            3.256410256410259,
+            3.0,
+            3.0
+        ],
+        "2007": [
+            3.04761904761905,
+            3.28,
+            2.96296296296296,
+            3.36842105263158,
+            3.5,
+            3.5
+        ],
+        "2008": [
+            3.03571428571429,
+            3.27333333333333,
+            2.94444444444444,
+            3.36842105263158,
+            3.5,
+            3.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

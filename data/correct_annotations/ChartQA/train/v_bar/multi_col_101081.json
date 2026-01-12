@@ -1,0 +1,64 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "Core Laboratory",
+            "Molecular",
+            "Point of Care",
+            "Rapid Diagnostics"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "2018": "#2876dd",
+        "2019": "#0f283e",
+        "2020": "#bababa"
+    },
+    "data": {
+        "2018": [
+            4386,
+            484,
+            553,
+            2072
+        ],
+        "2019": [
+            4656,
+            442,
+            561,
+            2054
+        ],
+        "2020": [
+            4475,
+            1438,
+            516,
+            4376
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4660
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Share of expenditures made in tertiary public institutions in 1998",
+    "legend": {
+        "France": "#f27979",
+        "Germany": "#f2f200",
+        "Greece": "#79f279",
+        "Hungary": "#00a5a5",
+        "Ireland": "#5252a5",
+        "Israel": "#a500a5"
+    },
+    "categories": [
+        "Share of expenditures made in tertiary public institutions in 1998"
+    ],
+    "data": {
+        "France": [
+            64.71951
+        ],
+        "Germany": [
+            67.38828000000001
+        ],
+        "Greece": [
+            43.44719
+        ],
+        "Hungary": [
+            56.17729
+        ],
+        "Ireland": [
+            66.66667
+        ],
+        "Israel": [
+            63.34661
+        ]
+    },
+    "colors": {
+        "France": "#f27979",
+        "Germany": "#f2f200",
+        "Greece": "#79f279",
+        "Hungary": "#00a5a5",
+        "Ireland": "#5252a5",
+        "Israel": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

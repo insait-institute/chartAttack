@@ -1,0 +1,142 @@
+{
+    "title": "",
+    "legend": {
+        "Autonomous province of Bolzano": "#f27979",
+        "Aosta Valley": "#f24500",
+        "Campania": "#f2be79",
+        "Sicily": "#f2cf00",
+        "Lombardy": "#e0f279",
+        "Piedmont": "#8af200",
+        "Autonomous province of Trento": "#9bf279",
+        "Emilia-Romagna": "#00f200",
+        "Liguria": "#52a56a",
+        "Lazio": "#00a55e",
+        "Friuli-Venezia Giulia": "#52a599",
+        "Calabria": "#008ea5",
+        "Basilicata": "#5282a5",
+        "Tuscany": "#002fa5",
+        "Veneto": "#5252a5",
+        "Marche": "#2f00a5",
+        "Sardinia": "#be79f2",
+        "Apulia": "#cf00f2",
+        "Umbria": "#f279e0",
+        "Abruzzo": "#f2008a",
+        "Molise": "#f2799b"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Autonomous province of Bolzano": [
+            30.6
+        ],
+        "Aosta Valley": [
+            27.9
+        ],
+        "Campania": [
+            26.4
+        ],
+        "Sicily": [
+            24.4
+        ],
+        "Lombardy": [
+            23.4
+        ],
+        "Piedmont": [
+            23.4
+        ],
+        "Autonomous province of Trento": [
+            22.5
+        ],
+        "Emilia-Romagna": [
+            22.3
+        ],
+        "Liguria": [
+            22.2
+        ],
+        "Lazio": [
+            20.8
+        ],
+        "Friuli-Venezia Giulia": [
+            20.7
+        ],
+        "Calabria": [
+            20.4
+        ],
+        "Basilicata": [
+            20.0
+        ],
+        "Tuscany": [
+            19.4
+        ],
+        "Veneto": [
+            18.3
+        ],
+        "Marche": [
+            17.8
+        ],
+        "Sardinia": [
+            15.8
+        ],
+        "Apulia": [
+            15.6
+        ],
+        "Umbria": [
+            14.1
+        ],
+        "Abruzzo": [
+            11.3
+        ],
+        "Molise": [
+            6.9
+        ]
+    },
+    "colors": {
+        "Autonomous province of Bolzano": "#f27979",
+        "Aosta Valley": "#f24500",
+        "Campania": "#f2be79",
+        "Sicily": "#f2cf00",
+        "Lombardy": "#e0f279",
+        "Piedmont": "#8af200",
+        "Autonomous province of Trento": "#9bf279",
+        "Emilia-Romagna": "#00f200",
+        "Liguria": "#52a56a",
+        "Lazio": "#00a55e",
+        "Friuli-Venezia Giulia": "#52a599",
+        "Calabria": "#008ea5",
+        "Basilicata": "#5282a5",
+        "Tuscany": "#002fa5",
+        "Veneto": "#5252a5",
+        "Marche": "#2f00a5",
+        "Sardinia": "#be79f2",
+        "Apulia": "#cf00f2",
+        "Umbria": "#f279e0",
+        "Abruzzo": "#f2008a",
+        "Molise": "#f2799b"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

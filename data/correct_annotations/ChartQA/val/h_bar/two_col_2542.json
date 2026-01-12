@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "y_label": "Spending in million U.S. dollars",
+    "categories": [
+        "Akin, Gump et al",
+        "Brownstein, Hyatt et al",
+        "BGR Group",
+        "Cornerstone Government Affairs",
+        "Holland & Knight",
+        "Ballard Partners",
+        "Squire Patton Boggs",
+        "Ivariant LLC",
+        "Forbes Tate Partners",
+        "Capitol Counsel",
+        "K&L Gates",
+        "Mehlman, Castagnetti et al",
+        "Peck Madigan Jones",
+        "Van Scoyoc Assoc",
+        "Crossroads Strategies",
+        "Cassidy & Assoc",
+        "Covington & Burling",
+        "American Continental Group",
+        "Alpine Group",
+        "Subject Matter"
+    ],
+    "data": {
+        "Model": [
+            49.87,
+            48.37,
+            31.63,
+            28,
+            27.99,
+            24.43,
+            24.22,
+            21.14,
+            19.44,
+            19.11,
+            18.33,
+            17.84,
+            17.15,
+            17.13,
+            16.55,
+            16.43,
+            16.34,
+            15,
+            14.6,
+            14.55
+        ]
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Model": "#2876dd"
+    }
+}

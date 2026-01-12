@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Mining Companies": "#2876dd"
+    },
+    "categories": [
+        "BHP Group",
+        "Rio Tinto",
+        "Anglo American",
+        "Glencore",
+        "Antofagasta",
+        "Kaz Minerals",
+        "Hochschild Mining",
+        "Petropavlovsk",
+        "Greatland Gold",
+        "Eurasia Mining"
+    ],
+    "data": {
+        "Mining Companies": [
+            125.68,
+            100.02,
+            43.47,
+            40.1,
+            18.4,
+            4,
+            1.06,
+            1.04,
+            0.86,
+            0.76
+        ]
+    },
+    "colors": {
+        "Mining Companies": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

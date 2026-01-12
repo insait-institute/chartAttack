@@ -1,0 +1,61 @@
+{
+    "title": "Countrywise comparison of arm exports and imports in 1987",
+    "x_axis": {
+        "categories": [
+            "Arms exports",
+            "Arms imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "European Union": "#FFD700",
+        "North America": "#00FF7F",
+        "Chad": "#BC8F8F",
+        "Iran": "#B8860B"
+    },
+    "data": {
+        "European Union": [
+            8313000000,
+            4790000000
+        ],
+        "North America": [
+            12513000000,
+            2778000000
+        ],
+        "Chad": [
+            20000000,
+            15000000
+        ],
+        "Iran": [
+            1000000,
+            833000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12513000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

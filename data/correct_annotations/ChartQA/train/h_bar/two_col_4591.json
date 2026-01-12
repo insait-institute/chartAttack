@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "legend": {
+        "Average age in years": "#2876dd"
+    },
+    "categories": [
+        "Italy",
+        "Canada",
+        "Russia",
+        "United Kingdom",
+        "United States",
+        "Venezuela",
+        "Colombia",
+        "Saudi Arabia",
+        "Mexico",
+        "Turkey",
+        "Brazil",
+        "Spain",
+        "France",
+        "Argentina",
+        "Indonesia",
+        "Japan",
+        "Thailand",
+        "South Korea",
+        "Philippines"
+    ],
+    "data": {
+        "Average age in years": [
+            32,
+            29.38,
+            26.88,
+            26.58,
+            25.62,
+            24.94,
+            24.79,
+            24.22,
+            24.03,
+            23.54,
+            22.67,
+            22.6,
+            22.26,
+            22.01,
+            20.94,
+            19.9,
+            18.63,
+            18.39,
+            17.63
+        ]
+    },
+    "colors": {
+        "Average age in years": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

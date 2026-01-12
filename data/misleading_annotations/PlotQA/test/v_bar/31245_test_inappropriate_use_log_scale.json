@@ -1,0 +1,76 @@
+{
+    "title": "Total agricultural land (as % of total land area) in different countries",
+    "x_axis": {
+        "categories": [
+            "Belize",
+            "Benin",
+            "Bermuda",
+            "Bhutan",
+            "Bolivia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1961": "#DAA520",
+        "1962": "#DC143C",
+        "1963": "#663399",
+        "1964": "#A0522D"
+    },
+    "data": {
+        "1961": [
+            3.46339324857519,
+            12.7882227740333,
+            8.0,
+            7.72638743231385,
+            27.7319302132373
+        ],
+        "1962": [
+            3.46339324857519,
+            12.9655906349769,
+            6.0,
+            7.769192902852991,
+            27.6396196806056
+        ],
+        "1963": [
+            3.50723366944323,
+            13.1429584959205,
+            6.0,
+            7.769192902852991,
+            27.5150004615527
+        ],
+        "1964": [
+            3.50723366944323,
+            13.3203263568641,
+            8.0,
+            7.811998373392121,
+            27.5805409397212
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

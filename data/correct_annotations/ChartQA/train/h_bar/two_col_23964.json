@@ -1,0 +1,80 @@
+{
+    "title": "Box office gross in million U.S. dollars",
+    "categories": [
+        "Steven Spielberg",
+        "Michael Bay",
+        "Anthony Russo",
+        "Joe Russo",
+        "Peter Jackson",
+        "Ron Howard",
+        "Robert Zemeckis",
+        "Christopher Nolan",
+        "James Cameron",
+        "Clint Eastwood",
+        "Tim Burton",
+        "David Yates",
+        "Chris Columbus",
+        "George Lucas",
+        "J.J. Abrams",
+        "Ridley Scott",
+        "Lee Unkrich",
+        "Gore Verbinski",
+        "Sam Raimi",
+        "Francis Lawrence"
+    ],
+    "data": {
+        "Directors": [
+            4672.2,
+            2326.5,
+            2264.5,
+            2264.5,
+            2152.7,
+            2111.6,
+            2104.3,
+            2006.7,
+            1976,
+            1956.1,
+            1955.4,
+            1791.8,
+            1750.8,
+            1743.9,
+            1684.2,
+            1661.1,
+            1541.3,
+            1529.4,
+            1526.7,
+            1481.5
+        ]
+    },
+    "colors": {
+        "Directors": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4680
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Directors": "#2876dd"
+    }
+}

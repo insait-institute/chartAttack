@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of female children (ages 7-14) in employment in 2006",
+    "legend": {
+        "Burkina Faso": "#BA55D3",
+        "Turkey": "#32CD32",
+        "Uganda": "#CD5C5C"
+    },
+    "categories": [
+        "Self-employed",
+        "Unpaid family workers",
+        "Wage workers"
+    ],
+    "data": {
+        "Burkina Faso": [
+            2.46,
+            95.2,
+            2.34
+        ],
+        "Turkey": [
+            1.7,
+            63.73,
+            34.57
+        ],
+        "Uganda": [
+            1.34,
+            96.95,
+            1.71
+        ]
+    },
+    "colors": {
+        "Burkina Faso": "#BA55D3",
+        "Turkey": "#32CD32",
+        "Uganda": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

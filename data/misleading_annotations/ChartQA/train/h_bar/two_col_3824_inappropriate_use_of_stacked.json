@@ -1,0 +1,112 @@
+{
+    "title": "Market share",
+    "legend": {
+        "Whirlpool": "#f27979",
+        "Electrolux": "#f26000",
+        "Bosch-Siemens": "#f2da79",
+        "Haier": "#c1f200",
+        "LG Electronics": "#a9f279",
+        "GE/Mabe": "#00f200",
+        "Samsung": "#52a574",
+        "Panasonic": "#00a584",
+        "Groupe SEB": "#5295a5",
+        "Arcelik": "#0042a5",
+        "Midea": "#5252a5",
+        "Indesit": "#4200a5",
+        "Hitachi": "#da79f2",
+        "Fagor": "#f200c1",
+        "Other": "#f279a9"
+    },
+    "categories": [
+        "Market share"
+    ],
+    "data": {
+        "Whirlpool": [
+            13.0
+        ],
+        "Electrolux": [
+            10.0
+        ],
+        "Bosch-Siemens": [
+            8.0
+        ],
+        "Haier": [
+            8.0
+        ],
+        "LG Electronics": [
+            7.0
+        ],
+        "GE/Mabe": [
+            6.0
+        ],
+        "Samsung": [
+            6.0
+        ],
+        "Panasonic": [
+            5.0
+        ],
+        "Groupe SEB": [
+            3.0
+        ],
+        "Arcelik": [
+            3.0
+        ],
+        "Midea": [
+            3.0
+        ],
+        "Indesit": [
+            3.0
+        ],
+        "Hitachi": [
+            2.0
+        ],
+        "Fagor": [
+            1.0
+        ],
+        "Other": [
+            22.0
+        ]
+    },
+    "colors": {
+        "Whirlpool": "#f27979",
+        "Electrolux": "#f26000",
+        "Bosch-Siemens": "#f2da79",
+        "Haier": "#c1f200",
+        "LG Electronics": "#a9f279",
+        "GE/Mabe": "#00f200",
+        "Samsung": "#52a574",
+        "Panasonic": "#00a584",
+        "Groupe SEB": "#5295a5",
+        "Arcelik": "#0042a5",
+        "Midea": "#5252a5",
+        "Indesit": "#4200a5",
+        "Hitachi": "#da79f2",
+        "Fagor": "#f200c1",
+        "Other": "#f279a9"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

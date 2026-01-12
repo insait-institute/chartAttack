@@ -1,0 +1,79 @@
+{
+    "title": "Expenditure of United Kingdom on education as percentage of government expenditure",
+    "legend": {
+        "Primary": "#FF7F50",
+        "Secondary": "#00FF00",
+        "Tertiary": "#8B0000"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "y_axis_label": "Expenditure(% of government expenditure on education)",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#FF7F50",
+            "values": [
+                23.63436,
+                24.4413795471191,
+                24.7113494873047,
+                24.9893608093262,
+                23.6289005279541
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#00FF00",
+            "values": [
+                46.07624000000001,
+                46.70775985717771,
+                48.7332992553711,
+                48.3563003540039,
+                47.1480712890625
+            ]
+        },
+        {
+            "label": "Tertiary",
+            "color": "#8B0000",
+            "values": [
+                21.94441,
+                20.1130790710449,
+                17.5405502319336,
+                17.2376194000244,
+                20.6379203796387
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

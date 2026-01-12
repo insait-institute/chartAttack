@@ -1,0 +1,70 @@
+{
+    "title": "",
+    "legend": {
+        "Browsers": "#2876dd"
+    },
+    "categories": [
+        "Chrome 88.0",
+        "Firefox 85.0",
+        "Edge 88",
+        "Safari 14.0",
+        "Opera 73.0",
+        "Chrome 87.0",
+        "IE 11.0",
+        "Chrome 75.0",
+        "Firefox 86.0",
+        "Opera 74.0",
+        "Safari 13.1",
+        "Opera 72.0",
+        "Chrome for Android",
+        "Firefox 78.0",
+        "Firefox 84.0"
+    ],
+    "data": {
+        "Browsers": [
+            36.04,
+            14.99,
+            11.81,
+            8.62,
+            3.27,
+            2.15,
+            2.03,
+            2.02,
+            1.73,
+            1.47,
+            1.44,
+            1.19,
+            0.95,
+            0.79,
+            0.75
+        ]
+    },
+    "colors": {
+        "Browsers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

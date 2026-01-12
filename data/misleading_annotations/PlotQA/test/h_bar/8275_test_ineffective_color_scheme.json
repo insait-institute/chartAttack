@@ -1,0 +1,65 @@
+{
+    "title": "Freshwater withdrawals in different countries in 1997",
+    "legend": {
+        "China": "#8fbc8f",
+        "Estonia": "#8fbc96",
+        "Qatar": "#95c0a3"
+    },
+    "categories": [
+        "Agriculture",
+        "Domestic",
+        "Industry"
+    ],
+    "data": {
+        "China": [
+            77.6,
+            4.789,
+            17.62
+        ],
+        "Estonia": [
+            5.063,
+            55.7,
+            39.24
+        ],
+        "Qatar": [
+            73.92,
+            23.13,
+            2.948
+        ]
+    },
+    "colors": {
+        "China": "#8FBC8F",
+        "Estonia": "#DC143C",
+        "Qatar": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "China": "#8fbc8f",
+        "Estonia": "#8fbc96",
+        "Qatar": "#95c0a3"
+    }
+}

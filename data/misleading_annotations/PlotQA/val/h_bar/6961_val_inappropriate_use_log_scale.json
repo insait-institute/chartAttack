@@ -1,0 +1,58 @@
+{
+    "title": "Source data assessment of statistical capacity",
+    "legend": {
+        "2004": "#8B008B",
+        "2005": "#FF00FF"
+    },
+    "categories": [
+        "Botswana",
+        "Brazil",
+        "Bulgaria",
+        "Burkina Faso",
+        "Burundi"
+    ],
+    "data": {
+        "2004": [
+            80.0,
+            80.0,
+            80.0,
+            80.0,
+            20.0
+        ],
+        "2005": [
+            80.0,
+            80.0,
+            80.0,
+            60.0,
+            20.0
+        ]
+    },
+    "colors": {
+        "2004": "#8B008B",
+        "2005": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

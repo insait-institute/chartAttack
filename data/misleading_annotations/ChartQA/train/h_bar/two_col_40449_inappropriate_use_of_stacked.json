@@ -1,0 +1,137 @@
+{
+    "title": "Rushing yards",
+    "legend": {
+        "Gerald Riggs": "#f27979",
+        "Michael Turner": "#f24800",
+        "William Andrews": "#f2c179",
+        "Warrick Dunn": "#f2da00",
+        "Jamal Anderson": "#daf279",
+        "Devonta Freeman": "#79f200",
+        "Michael Vick": "#91f279",
+        "Dave Hampton": "#00a510",
+        "Haskel Stanback": "#52a574",
+        "Tevin Coleman": "#00a574",
+        "Lynn Cain": "#52a5a5",
+        "Cannonball Butler": "#0074a5",
+        "Craig Heyward": "#5274a5",
+        "T.J. Duckett": "#0010a5",
+        "Art Malone": "#9179f2",
+        "Jerious Norwood": "#7900f2",
+        "Erric Pegram": "#da79f2",
+        "John Settle": "#f200da",
+        "Junior Coffey": "#f279c1",
+        "Bubba Bean": "#f20048"
+    },
+    "categories": [
+        "Rushing yards"
+    ],
+    "data": {
+        "Gerald Riggs": [
+            6631.0
+        ],
+        "Michael Turner": [
+            6081.0
+        ],
+        "William Andrews": [
+            5986.0
+        ],
+        "Warrick Dunn": [
+            5981.0
+        ],
+        "Jamal Anderson": [
+            5336.0
+        ],
+        "Devonta Freeman": [
+            3972.0
+        ],
+        "Michael Vick": [
+            3859.0
+        ],
+        "Dave Hampton": [
+            3482.0
+        ],
+        "Haskel Stanback": [
+            2662.0
+        ],
+        "Tevin Coleman": [
+            2340.0
+        ],
+        "Lynn Cain": [
+            2263.0
+        ],
+        "Cannonball Butler": [
+            2250.0
+        ],
+        "Craig Heyward": [
+            2183.0
+        ],
+        "T.J. Duckett": [
+            2175.0
+        ],
+        "Art Malone": [
+            2118.0
+        ],
+        "Jerious Norwood": [
+            1995.0
+        ],
+        "Erric Pegram": [
+            1981.0
+        ],
+        "John Settle": [
+            1801.0
+        ],
+        "Junior Coffey": [
+            1612.0
+        ],
+        "Bubba Bean": [
+            1528.0
+        ]
+    },
+    "colors": {
+        "Gerald Riggs": "#f27979",
+        "Michael Turner": "#f24800",
+        "William Andrews": "#f2c179",
+        "Warrick Dunn": "#f2da00",
+        "Jamal Anderson": "#daf279",
+        "Devonta Freeman": "#79f200",
+        "Michael Vick": "#91f279",
+        "Dave Hampton": "#00a510",
+        "Haskel Stanback": "#52a574",
+        "Tevin Coleman": "#00a574",
+        "Lynn Cain": "#52a5a5",
+        "Cannonball Butler": "#0074a5",
+        "Craig Heyward": "#5274a5",
+        "T.J. Duckett": "#0010a5",
+        "Art Malone": "#9179f2",
+        "Jerious Norwood": "#7900f2",
+        "Erric Pegram": "#da79f2",
+        "John Settle": "#f200da",
+        "Junior Coffey": "#f279c1",
+        "Bubba Bean": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6640
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

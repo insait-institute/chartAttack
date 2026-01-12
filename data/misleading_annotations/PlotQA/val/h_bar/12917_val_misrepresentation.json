@@ -1,0 +1,98 @@
+{
+    "title": "Total enrollments in different levels of education as per the survey of 1979",
+    "legend": {
+        "Primary": "#D2B48C",
+        "Secondary": "#008080",
+        "Secondary general": "#006400",
+        "Secondary vocational": "#FF7F50"
+    },
+    "categories": [
+        "Middle income",
+        "North America",
+        "OECD members",
+        "Other small states"
+    ],
+    "data": {
+        "Primary": [
+            394548480.0,
+            21414316.0,
+            96664880.0,
+            1516485.75
+        ],
+        "Secondary": [
+            185877376.0,
+            22037444.0,
+            87757248.0,
+            373703.4375
+        ],
+        "Secondary general": [
+            172609232.0,
+            22037260.0,
+            72093240.0,
+            331062.09375
+        ],
+        "Secondary vocational": [
+            13268150.0,
+            184.0,
+            15664007.0,
+            42641.328125
+        ]
+    },
+    "colors": {
+        "Primary": "#D2B48C",
+        "Secondary": "#008080",
+        "Secondary general": "#006400",
+        "Secondary vocational": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 394548480
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Primary": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Secondary": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Secondary general": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Secondary vocational": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

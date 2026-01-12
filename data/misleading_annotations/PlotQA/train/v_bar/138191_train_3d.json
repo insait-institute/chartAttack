@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of agricultural raw materials imported from different countries",
+    "x_axis": {
+        "categories": [
+            "Euro area",
+            "Europe(all income levels)",
+            "European Union",
+            "High income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#008B8B",
+        "1963": "#40E0D0",
+        "1964": "#FFD700",
+        "1965": "#228B22"
+    },
+    "data": {
+        "1962": [
+            12.4055117948362,
+            11.7869756054574,
+            12.3409192254437,
+            12.8363336648374
+        ],
+        "1963": [
+            10.261844794178,
+            10.253941443748,
+            10.6336199138937,
+            11.6320477283776
+        ],
+        "1964": [
+            10.194421449195,
+            10.1652444931848,
+            10.532923190329,
+            11.1169683001983
+        ],
+        "1965": [
+            9.13428685147533,
+            9.20240846336574,
+            9.48030777354245,
+            10.3136583656225
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

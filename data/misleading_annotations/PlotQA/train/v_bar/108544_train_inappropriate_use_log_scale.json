@@ -1,0 +1,57 @@
+{
+    "title": "Enrollment rate recorded in primary and secondary education in year 1985",
+    "x_axis": {
+        "categories": [
+            "High income: nonOECD",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary": "#6B8E23",
+        "Secondary": "#A52A2A"
+    },
+    "data": {
+        "Primary": [
+            86.6035003662109,
+            95.3307876586914,
+            89.97081756591801,
+            89.3204498291016
+        ],
+        "Secondary": [
+            75.7373428344727,
+            24.32013511657711,
+            38.8778953552246,
+            72.65131
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

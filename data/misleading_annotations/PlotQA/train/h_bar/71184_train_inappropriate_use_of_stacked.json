@@ -1,0 +1,57 @@
+{
+    "title": "Net financial flows in Bangladesh from International Banks",
+    "legend": {
+        "1998": "#f27979",
+        "1999": "#79f200",
+        "2000": "#52a5a5",
+        "2001": "#5200a5"
+    },
+    "categories": [
+        "Net financial flows in Bangladesh from International Banks"
+    ],
+    "data": {
+        "1998": [
+            -4448000.0
+        ],
+        "1999": [
+            -4947000.0
+        ],
+        "2000": [
+            -5330000.0
+        ],
+        "2001": [
+            -5211000.0
+        ]
+    },
+    "colors": {
+        "1998": "#f27979",
+        "1999": "#79f200",
+        "2000": "#52a5a5",
+        "2001": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 0
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

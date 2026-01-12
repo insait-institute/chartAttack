@@ -1,0 +1,76 @@
+{
+    "title": "Life expectancy at birth in 2010",
+    "x_axis": {
+        "categories": [
+            "North America",
+            "OECD members",
+            "Other small states",
+            "Pacific island small states",
+            "Small states"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#4169E1",
+        "Male": "#B03060"
+    },
+    "data": {
+        "Female": [
+            81.2136212897035,
+            82.2435273702901,
+            62.2898487405972,
+            71.555476305352,
+            65.8484972638327
+        ],
+        "Male": [
+            76.451465126681,
+            76.6947756228417,
+            59.39792458265079,
+            66.8385907529463,
+            62.16062922101089
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Female": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Male": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

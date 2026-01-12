@@ -1,0 +1,56 @@
+{
+    "title": "Lower secondary completion rate of students in different countries",
+    "legend": {
+        "Azerbaijan": "#F0E68C",
+        "Georgia": "#00FFFF",
+        "Togo": "#CD5C5C"
+    },
+    "categories": [
+        "Female",
+        "Male"
+    ],
+    "data": {
+        "Azerbaijan": [
+            36.898250579834,
+            39.6657295227051
+        ],
+        "Georgia": [
+            84.1521987915039,
+            84.70152282714841
+        ],
+        "Togo": [
+            13.4840402603149,
+            31.681770324707
+        ]
+    },
+    "colors": {
+        "Azerbaijan": "#F0E68C",
+        "Georgia": "#00FFFF",
+        "Togo": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

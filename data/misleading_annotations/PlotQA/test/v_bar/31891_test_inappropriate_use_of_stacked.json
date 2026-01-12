@@ -1,0 +1,67 @@
+{
+    "title": "Total labor force participation rate in the year 1992",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Spain": "#f27979",
+        "Sri Lanka": "#c1f200",
+        "Suriname": "#52a574",
+        "Sweden": "#0042a5",
+        "Switzerland": "#da79f2"
+    },
+    "data": {
+        "Spain": [
+            44.5
+        ],
+        "Sri Lanka": [
+            48.0
+        ],
+        "Suriname": [
+            35.7999992370605
+        ],
+        "Sweden": [
+            60.4000015258789
+        ],
+        "Switzerland": [
+            70.6999969482422
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Spain": "#f27979",
+        "Sri Lanka": "#c1f200",
+        "Suriname": "#52a574",
+        "Sweden": "#0042a5",
+        "Switzerland": "#da79f2"
+    }
+}

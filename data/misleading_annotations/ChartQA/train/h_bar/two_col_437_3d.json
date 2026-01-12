@@ -1,0 +1,60 @@
+{
+    "title": "Net worth in million U.S. dollars",
+    "categories": [
+        "Michelle Phan",
+        "PewDiePie",
+        "Smosh",
+        "Markiplier",
+        "Grace Helbig",
+        "Roman Atwood",
+        "Jenna Marbles",
+        "Rosanna Pansino",
+        "Lily Singh",
+        "Hank Green"
+    ],
+    "data": {
+        "Net worth": [
+            50,
+            18,
+            11.8,
+            5.1,
+            5,
+            4.5,
+            2.9,
+            2.5,
+            2.5,
+            2
+        ]
+    },
+    "colors": {
+        "Net worth": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Net worth": "#2876dd"
+    }
+}

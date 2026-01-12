@@ -1,0 +1,50 @@
+{
+    "title": "Percentage of firms either registered or unregistered in Nepal",
+    "legend": {
+        "Competing against unregistered firms": "#FF00FF",
+        "Formally registered": "#4169E1"
+    },
+    "categories": [
+        "2009",
+        "2013"
+    ],
+    "data": {
+        "Competing against unregistered firms": [
+            49.4,
+            55.7
+        ],
+        "Formally registered": [
+            94.0,
+            90.1
+        ]
+    },
+    "colors": {
+        "Competing against unregistered firms": "#FF00FF",
+        "Formally registered": "#4169E1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

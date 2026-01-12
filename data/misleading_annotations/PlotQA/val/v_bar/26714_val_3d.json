@@ -1,0 +1,68 @@
+{
+    "title": "Fossil fuel energy consumption",
+    "x_axis": {
+        "categories": [
+            "Germany",
+            "Greece",
+            "Iceland",
+            "Ireland",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#6B8E23",
+        "1961": "#006400",
+        "1962": "#BEBEBE"
+    },
+    "data": {
+        "1960": [
+            99.0201589215782,
+            98.3110386223895,
+            72.1277279748136,
+            67.2418696904053,
+            85.6104208954658
+        ],
+        "1961": [
+            99.04098583712091,
+            98.19956636876672,
+            69.7566907645904,
+            69.440433611152,
+            87.617144513331
+        ],
+        "1962": [
+            99.1926688882831,
+            98.1245797040102,
+            69.2171756036176,
+            70.085923827152,
+            89.3109802387936
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

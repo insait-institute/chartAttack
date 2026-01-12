@@ -1,0 +1,65 @@
+{
+    "title": "Balance of payments for travel services (% of commercial service exports)",
+    "legend": {
+        "Bahamas": "#8b0000",
+        "Congo (Democratic)": "#8b1600",
+        "Timor-Leste": "#953000"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Bahamas": [
+            85.22283612446721,
+            85.97838417838751,
+            87.1465799483134
+        ],
+        "Congo (Democratic)": [
+            0.276352151598895,
+            0.15527950310559,
+            4.595940252776709
+        ],
+        "Timor-Leste": [
+            83.13347941619621,
+            61.69630081840071,
+            69.0216857952839
+        ]
+    },
+    "colors": {
+        "Bahamas": "#8B0000",
+        "Congo (Democratic)": "#FF0000",
+        "Timor-Leste": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Bahamas": "#8b0000",
+        "Congo (Democratic)": "#8b1600",
+        "Timor-Leste": "#953000"
+    }
+}

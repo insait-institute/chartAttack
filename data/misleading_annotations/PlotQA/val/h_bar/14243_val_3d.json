@@ -1,0 +1,62 @@
+{
+    "title": "Number of trademark applications made by an economy in 1998",
+    "legend": {
+        "Bangladesh": "#A020F0",
+        "Macao": "#CD853F",
+        "Sweden": "#BC8F8F",
+        "Turkmenistan": "#556B2F"
+    },
+    "categories": [
+        "Nonresident",
+        "Resident"
+    ],
+    "data": {
+        "Bangladesh": [
+            926,
+            3269
+        ],
+        "Macao": [
+            1071,
+            83
+        ],
+        "Sweden": [
+            7915,
+            7397
+        ],
+        "Turkmenistan": [
+            803,
+            12
+        ]
+    },
+    "colors": {
+        "Bangladesh": "#A020F0",
+        "Macao": "#CD853F",
+        "Sweden": "#BC8F8F",
+        "Turkmenistan": "#556B2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7920
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

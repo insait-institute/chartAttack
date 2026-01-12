@@ -1,0 +1,88 @@
+{
+    "title": "Electricity produced from renewable sources in countries in 1982",
+    "x_axis": {
+        "categories": [
+            "Hydroelectric sources",
+            "Nuclear sources",
+            "Renewable sources"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Euro area": "#8B008B",
+        "Argentina": "#8FBC8F",
+        "France": "#D2B48C",
+        "Switzerland": "#6A5ACD"
+    },
+    "data": {
+        "Euro area": [
+            15.8803522427907,
+            17.7658718878567,
+            0.63400855972127
+        ],
+        "Argentina": [
+            44.1082083939227,
+            4.68836183121897,
+            0.273278844707416
+        ],
+        "France": [
+            25.337561227861,
+            39.1136504014824,
+            0.28513150523579
+        ],
+        "Switzerland": [
+            69.1951702597699,
+            28.8203702292984,
+            0.7427439628247121
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Euro area": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Argentina": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "France": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Switzerland": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

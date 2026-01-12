@@ -1,0 +1,71 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2019",
+            "2020",
+            "2021"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "U.S. Pharmaceutical": "#2876dd",
+        "International": "#2860dd",
+        "Medical-Surgical Solutions": "#3152de",
+        "Prescription Technology Solutions": "#2531d6"
+    },
+    "data": {
+        "U.S. Pharmaceutical": [
+            166189,
+            181700,
+            189274
+        ],
+        "International": [
+            38023,
+            38341,
+            35965
+        ],
+        "Medical-Surgical Solutions": [
+            7618,
+            8305,
+            10099
+        ],
+        "Prescription Technology Solutions": [
+            2489,
+            2705,
+            2890
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 189280
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "U.S. Pharmaceutical": "#2876dd",
+        "International": "#2860dd",
+        "Medical-Surgical Solutions": "#3152de",
+        "Prescription Technology Solutions": "#2531d6"
+    }
+}

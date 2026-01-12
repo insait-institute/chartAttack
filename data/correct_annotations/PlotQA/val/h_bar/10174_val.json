@@ -1,0 +1,64 @@
+{
+    "title": "Amount of ores,manufactures and fuel imports of Central African Republic",
+    "legend": {
+        "Ores and metals": "#FF69B4",
+        "Manufactures": "#FF4500",
+        "Fuel": "#4B0082"
+    },
+    "categories": [
+        "1989",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "data": {
+        "Ores and metals": [
+            1.8559383097886,
+            1.02233527279238,
+            3.45737872518764,
+            1.6313708756835
+        ],
+        "Manufactures": [
+            71.20265864805329,
+            62.65572138188661,
+            55.5058122361577,
+            64.2244301085274
+        ],
+        "Fuel": [
+            6.695710208764889,
+            17.1001742804119,
+            7.460161205718559,
+            8.686756030849969
+        ]
+    },
+    "colors": {
+        "Ores and metals": "#FF69B4",
+        "Manufactures": "#FF4500",
+        "Fuel": "#4B0082"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

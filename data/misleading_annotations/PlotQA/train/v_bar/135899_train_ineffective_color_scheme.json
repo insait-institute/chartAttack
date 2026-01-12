@@ -1,0 +1,77 @@
+{
+    "title": "Value added in manufacturing (in %) by advanced machineries",
+    "x_axis": {
+        "categories": [
+            "Costa Rica",
+            "Cyprus",
+            "Kenya",
+            "Singapore"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1963": "#00ff00",
+        "1964": "#00ff1f",
+        "1965": "#0aff45",
+        "1966": "#02f259"
+    },
+    "data": {
+        "1963": [
+            1.43114194807453,
+            3.64148236478971,
+            11.323645012162,
+            9.44409281966253
+        ],
+        "1964": [
+            1.37763041731873,
+            3.23080681230727,
+            14.2666935569818,
+            8.37773569288449
+        ],
+        "1965": [
+            2.30674974107787,
+            4.04101894661683,
+            13.7102135749946,
+            7.799160406826347
+        ],
+        "1966": [
+            3.06333838068924,
+            4.21534904844541,
+            10.0142807472166,
+            8.93251750307862
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1963": "#00ff00",
+        "1964": "#00ff1f",
+        "1965": "#0aff45",
+        "1966": "#02f259"
+    }
+}

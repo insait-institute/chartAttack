@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of female workers employed in different sectors of an economy in 1986",
+    "x_axis": {
+        "categories": [
+            "Agriculture",
+            "Industry",
+            "Services",
+            "Self-employed"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ireland": "#4169E1",
+        "Korea (Republic)": "#191970"
+    },
+    "data": {
+        "Ireland": [
+            4.30000019073486,
+            19.5,
+            75.8000030517578,
+            10.8999996185303
+        ],
+        "Korea (Republic)": [
+            26.2999992370605,
+            26.2000007629395,
+            47.5,
+            52.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

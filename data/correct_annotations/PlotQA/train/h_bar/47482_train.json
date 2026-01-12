@@ -1,0 +1,68 @@
+{
+    "title": "Total earnings of a country by trading services",
+    "legend": {
+        "Benin": "#FF0000",
+        "Bhutan": "#FF4500",
+        "Mauritius": "#4682B4"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Benin": [
+            -445428199.4,
+            -754037235.9,
+            -769515309.9,
+            -788159265.3,
+            -631878698.9
+        ],
+        "Bhutan": [
+            -135666508.3,
+            50402524.63,
+            -112000942.9,
+            -107898255.8,
+            -344757300.9
+        ],
+        "Mauritius": [
+            -725533821.1,
+            -781959446.3,
+            -1378116043.0,
+            -933687898.8,
+            -1179044055.0
+        ]
+    },
+    "colors": {
+        "Benin": "#FF0000",
+        "Bhutan": "#FF4500",
+        "Mauritius": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50402530
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

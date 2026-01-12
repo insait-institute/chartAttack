@@ -1,0 +1,81 @@
+{
+    "title": "Total resource balance of different countries in 2005 US$",
+    "x_axis": {
+        "categories": [
+            "Honduras",
+            "Hong Kong",
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Iran"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00FFFF",
+        "1961": "#8FBC8F",
+        "1962": "#40E0D0",
+        "1963": "#FFFF00"
+    },
+    "data": {
+        "1960": [
+            -11000000.0,
+            -684130800.0,
+            -3839856.0,
+            -4180000000.0,
+            12981300.0,
+            -11258231809.2381
+        ],
+        "1961": [
+            2800000.00000003,
+            -807159300.0,
+            3173824.0,
+            -3090000000.0,
+            -10873200.0,
+            -7145952885.6406
+        ],
+        "1962": [
+            3200000.0,
+            -956621799.999999,
+            4227552.0,
+            -3740000000.0,
+            9903800.0,
+            2910827366.3942
+        ],
+        "1963": [
+            -21600000.0,
+            -980956200.0,
+            -1745044.0,
+            -3750000000.0,
+            44217300.0,
+            10719059134.8053
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10719059140
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

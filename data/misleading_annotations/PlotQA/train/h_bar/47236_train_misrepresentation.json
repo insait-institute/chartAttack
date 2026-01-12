@@ -1,0 +1,70 @@
+{
+    "title": "Adult literacy rate among population of different countries with age above 15years",
+    "legend": {
+        "Algeria": "#708090",
+        "Mali": "#FF00FF",
+        "Uruguay": "#E9967A"
+    },
+    "categories": [
+        "Female",
+        "Male"
+    ],
+    "data": {
+        "Algeria": [
+            63.91878509521479,
+            81.28404235839841
+        ],
+        "Mali": [
+            18.1909122467041,
+            34.8578910827637
+        ],
+        "Uruguay": [
+            98.08435821533199,
+            97.4447784423828
+        ]
+    },
+    "colors": {
+        "Algeria": "#708090",
+        "Mali": "#FF00FF",
+        "Uruguay": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Algeria": [
+            1.75,
+            0.25
+        ],
+        "Mali": [
+            1.75,
+            0.25
+        ],
+        "Uruguay": [
+            1.75,
+            0.25
+        ]
+    }
+}

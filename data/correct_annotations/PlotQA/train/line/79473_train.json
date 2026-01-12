@@ -1,0 +1,76 @@
+{
+    "title": "Trade statistics of Libya with developing economies within region",
+    "legend": {
+        "Merchandise exports": "#D2B48C",
+        "Merchandise imports": "#C71585"
+    },
+    "x_axis": [
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981",
+        "1982",
+        "1983"
+    ],
+    "y_axis_label": "Trade with economies within region(%)",
+    "data": [
+        {
+            "label": "Merchandise exports",
+            "color": "#D2B48C",
+            "values": [
+                0.2107164358819989,
+                0.0727503739984015,
+                0.422946086991632,
+                0.151696011140953,
+                0.375473333637483,
+                0.181696778252886,
+                0.1816967782827289,
+                0.181696778249858
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "color": "#C71585",
+            "values": [
+                1.36986301369863,
+                1.76626123744051,
+                2.14721926412101,
+                1.3161115399823,
+                0.6537780401416771,
+                1.13461469630266,
+                1.63093303080245,
+                0.974518750770699
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

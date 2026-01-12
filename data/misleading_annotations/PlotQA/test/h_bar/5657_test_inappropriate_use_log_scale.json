@@ -1,0 +1,52 @@
+{
+    "title": "Rent as percent of GDP towards fuel resources of different countries in 1974",
+    "legend": {
+        "South Asia": "#556B2F",
+        "Mexico": "#FF00FF"
+    },
+    "categories": [
+        "Coal",
+        "Natural Gas",
+        "Oil"
+    ],
+    "data": {
+        "South Asia": [
+            0.251843703972998,
+            0.142767434158004,
+            0.48782997510933
+        ],
+        "Mexico": [
+            0.00640043649949904,
+            0.608544902402286,
+            3.38174073544074
+        ]
+    },
+    "colors": {
+        "South Asia": "#556B2F",
+        "Mexico": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

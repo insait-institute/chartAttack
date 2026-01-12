@@ -1,0 +1,76 @@
+{
+    "title": "Total electricity produced from coal sources",
+    "x_axis": {
+        "categories": [
+            "Italy",
+            "Japan",
+            "Netherlands",
+            "New Zealand",
+            "Poland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#E9967A",
+        "1961": "#A52A2A",
+        "1962": "#9ACD32",
+        "1963": "#2F4F4F"
+    },
+    "data": {
+        "1960": [
+            3.818539024825859,
+            32.2077922077922,
+            79.6924194720271,
+            14.4167383204357,
+            97.46260501331881
+        ],
+        "1961": [
+            7.154107601757443,
+            28.5389856169569,
+            79.2044938719927,
+            13.7083993660856,
+            96.55707196029779
+        ],
+        "1962": [
+            7.90904443996964,
+            33.048433048433,
+            76.3334198909374,
+            5.5363748458693,
+            95.8884741545074
+        ],
+        "1963": [
+            4.85174443161659,
+            33.4437707070076,
+            69.17174990468929,
+            12.6407873154729,
+            96.131669418803
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

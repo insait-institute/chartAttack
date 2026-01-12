@@ -1,0 +1,61 @@
+{
+    "title": "Total earnings from merchandise exports and imports in 1969",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brazil": "#a52a2a",
+        "Germany": "#a53e2a",
+        "Pakistan": "#ad552c"
+    },
+    "data": {
+        "Brazil": [
+            2311000000,
+            2265000000
+        ],
+        "Germany": [
+            28851600000,
+            24875700000
+        ],
+        "Pakistan": [
+            331614000,
+            713263000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 28851600000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Brazil": "#a52a2a",
+        "Germany": "#a53e2a",
+        "Pakistan": "#ad552c"
+    }
+}

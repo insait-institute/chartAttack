@@ -1,0 +1,67 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in Aruba",
+    "legend": {
+        "2003": "#f27979",
+        "2004": "#f2f200",
+        "2005": "#79f279",
+        "2006": "#00a5a5",
+        "2007": "#5252a5",
+        "2008": "#a500a5"
+    },
+    "categories": [
+        "Gross intake ratio in Grade 1 of primary education in Aruba"
+    ],
+    "data": {
+        "2003": [
+            100.269538879395
+        ],
+        "2004": [
+            97.8378372192383
+        ],
+        "2005": [
+            104.258239746094
+        ],
+        "2006": [
+            107.172996520996
+        ],
+        "2007": [
+            104.291847229004
+        ],
+        "2008": [
+            104.927543640137
+        ]
+    },
+    "colors": {
+        "2003": "#f27979",
+        "2004": "#f2f200",
+        "2005": "#79f279",
+        "2006": "#00a5a5",
+        "2007": "#5252a5",
+        "2008": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

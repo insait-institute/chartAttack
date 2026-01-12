@@ -1,0 +1,97 @@
+{
+    "title": "Share of global GDP",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of global GDP"
+    },
+    "legend": {
+        "2016": "#f27979",
+        "2017": "#f28400",
+        "2018": "#e7f279",
+        "2019": "#58f200",
+        "2020": "#52a561",
+        "2021*": "#00a578",
+        "2022*": "#528fa5",
+        "2023*": "#001ea5",
+        "2024*": "#a579f2",
+        "2025*": "#dc00f2",
+        "2026*": "#f279bb"
+    },
+    "data": {
+        "2016": [
+            0.26
+        ],
+        "2017": [
+            0.25
+        ],
+        "2018": [
+            0.25
+        ],
+        "2019": [
+            0.25
+        ],
+        "2020": [
+            0.23
+        ],
+        "2021*": [
+            0.23
+        ],
+        "2022*": [
+            0.23
+        ],
+        "2023*": [
+            0.23
+        ],
+        "2024*": [
+            0.22
+        ],
+        "2025*": [
+            0.22
+        ],
+        "2026*": [
+            0.22
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2016": "#f27979",
+        "2017": "#f28400",
+        "2018": "#e7f279",
+        "2019": "#58f200",
+        "2020": "#52a561",
+        "2021*": "#00a578",
+        "2022*": "#528fa5",
+        "2023*": "#001ea5",
+        "2024*": "#a579f2",
+        "2025*": "#dc00f2",
+        "2026*": "#f279bb"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Percentage of female children (ages 7-14) in employment in Niger",
+    "legend": {
+        "Self-employed": "#00FF7F",
+        "Unpaid family workers": "#0000FF",
+        "Wage workers": "#6B8E23"
+    },
+    "categories": [
+        "2006",
+        "2009"
+    ],
+    "data": {
+        "Self-employed": [
+            3.46,
+            4.75
+        ],
+        "Unpaid family workers": [
+            93.18,
+            72.08
+        ],
+        "Wage workers": [
+            77.3,
+            2.02
+        ]
+    },
+    "colors": {
+        "Self-employed": "#00FF7F",
+        "Unpaid family workers": "#0000FF",
+        "Wage workers": "#6B8E23"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

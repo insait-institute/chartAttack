@@ -1,0 +1,61 @@
+{
+    "title": "Fixed broadband subscriptions in Kuwait",
+    "legend": {
+        "Fixed broadband subscriptions": "#BDB76B"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Total subscribers",
+    "data": [
+        {
+            "label": "Fixed broadband subscriptions",
+            "color": "#BDB76B",
+            "values": [
+                20000,
+                25000,
+                30000,
+                35000,
+                40000,
+                45000,
+                46000,
+                47000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20000,
+                "max_value": 47000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

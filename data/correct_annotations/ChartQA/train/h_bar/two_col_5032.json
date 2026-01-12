@@ -1,0 +1,74 @@
+{
+    "title": "Market capitalization in billion euros",
+    "legend": {
+        "Company": "#2876dd"
+    },
+    "categories": [
+        "Enel",
+        "Stellantis",
+        "Intesa Sanpaolo",
+        "ENI",
+        "Ferrari",
+        "Generali",
+        "UniCredit",
+        "CNH Industrial",
+        "Exor N.V.",
+        "SNAM",
+        "Poste Italiane",
+        "Atlantia",
+        "Terna",
+        "Moncler",
+        "Tenaris",
+        "Campari",
+        "Telecom Italia"
+    ],
+    "data": {
+        "Company": [
+            86.14,
+            47.25,
+            45,
+            37.69,
+            34.58,
+            27,
+            20.27,
+            18.2,
+            17.44,
+            15.89,
+            14.24,
+            13.22,
+            12.95,
+            12.62,
+            11.35,
+            11.13,
+            10.08
+        ]
+    },
+    "colors": {
+        "Company": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Net bilateral aid flow in Heavily indebted poor countries from different members of DAC",
+    "legend": {
+        "European Union": "#00FA9A",
+        "United Kingdom": "#006400",
+        "United States": "#5F9EA0",
+        "Iceland": "#A0522D"
+    },
+    "x_axis": [
+        "1967",
+        "1968",
+        "1969",
+        "1970",
+        "1971"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "European Union",
+            "color": "#00FA9A",
+            "values": [
+                88810000,
+                144210000,
+                96860000,
+                123470000,
+                146610000
+            ]
+        },
+        {
+            "label": "United Kingdom",
+            "color": "#006400",
+            "values": [
+                91440000,
+                69300000,
+                66430000,
+                61060000,
+                67540000
+            ]
+        },
+        {
+            "label": "United States",
+            "color": "#5F9EA0",
+            "values": [
+                231620000,
+                211770000,
+                209000000,
+                178000000,
+                200000000
+            ]
+        },
+        {
+            "label": "Iceland",
+            "color": "#A0522D",
+            "values": [
+                3120000,
+                3940000,
+                4740000,
+                8580000,
+                14220000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 3120000,
+                "max_value": 231620000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

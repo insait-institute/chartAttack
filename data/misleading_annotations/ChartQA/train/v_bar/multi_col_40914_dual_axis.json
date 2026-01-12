@@ -1,0 +1,74 @@
+{
+    "title": "Percentage of mobile internet users",
+    "x_axis": {
+        "categories": [
+            "13-17",
+            "18-24",
+            "25-34",
+            "35-44",
+            "45-54",
+            "55 and over"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of mobile internet users"
+    },
+    "legend": {
+        "2014": "#2876dd",
+        "2015": "#0f283e"
+    },
+    "data": {
+        "2014": [
+            7,
+            16,
+            21,
+            19,
+            17,
+            20
+        ],
+        "2015": [
+            8,
+            15,
+            20,
+            18,
+            17,
+            21
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 7,
+                "max_value": 21
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 8,
+                "max_value": 21
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

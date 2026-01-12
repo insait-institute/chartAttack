@@ -1,0 +1,63 @@
+{
+    "title": "Trade statistics with developing economies outside region in 1961",
+    "x_axis": {
+        "categories": [
+            "Austria",
+            "Barbados",
+            "Brazil",
+            "Cameroon",
+            "Canada",
+            "China"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#FF00FF",
+        "Merchandise imports": "#DC143C"
+    },
+    "data": {
+        "Merchandise exports": [
+            9.33333333333333,
+            18.0,
+            2.20320855614973,
+            2.96220633299285,
+            7.73239805952537,
+            12.4521072796935
+        ],
+        "Merchandise imports": [
+            6.519972918077179,
+            13.9130434782609,
+            2.81293952180028,
+            0.545391784604764,
+            4.40713536201469,
+            5.01087632069608
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Adjusted net savings excluding particulate emission damage",
+    "x_axis": {
+        "categories": [
+            "Israel",
+            "Italy",
+            "Netherlands",
+            "South Africa",
+            "Sweden",
+            "United Kingdom"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#006400",
+        "1971": "#20B2AA",
+        "1972": "#BA55D3",
+        "1973": "#A52A2A"
+    },
+    "data": {
+        "1970": [
+            507932599.499004,
+            20871199650.003,
+            8988130259.3826,
+            2217873957.10954,
+            10297219627.2243,
+            20990719253.0741
+        ],
+        "1971": [
+            914221367.1873528,
+            20618418414.4558,
+            10153940510.0631,
+            2902712506.01277,
+            10607640489.7567,
+            22402344450.0397
+        ],
+        "1972": [
+            1340793012.77916,
+            22843687284.2864,
+            12735673725.6556,
+            3302333883.52572,
+            12215482011.8527,
+            21498850855.2409
+        ],
+        "1973": [
+            1246827931.8819,
+            27976445845.3169,
+            17850561489.2295,
+            4622150505.527229,
+            15017445408.9777,
+            26998640503.8068
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 27976445850
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Damage caused to an economy due to forest depletion",
+    "x_axis": {
+        "categories": [
+            "New Caledonia",
+            "Nicaragua",
+            "Niger",
+            "Nigeria",
+            "Oman"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#a020f0",
+        "1971": "#d220f0"
+    },
+    "data": {
+        "1970": [
+            159608.202603774,
+            6304207.93350034,
+            3156292.85245924,
+            5774782.30195927,
+            33309.0761167102
+        ],
+        "1971": [
+            465102.189900673,
+            9159328.22426171,
+            3019687.61426085,
+            4534087.81872735,
+            26527.32781717891
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9159330
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1970": "#a020f0",
+        "1971": "#d220f0"
+    }
+}

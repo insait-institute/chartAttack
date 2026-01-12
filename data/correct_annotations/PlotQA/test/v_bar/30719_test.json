@@ -1,0 +1,76 @@
+{
+    "title": "Split of the income in different subgroups of a country in 2009",
+    "x_axis": {
+        "categories": [
+            "Peru",
+            "Philippines",
+            "Poland",
+            "Portugal",
+            "Romania"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "First 20% of population": "#FF69B4",
+        "Second 20% of population": "#F0E68C",
+        "Third 20% of population": "#4169E1",
+        "Fourth 20% of population": "#FFA500"
+    },
+    "data": {
+        "First 20% of population": [
+            52.51,
+            49.61,
+            41.65,
+            42.52,
+            36.97
+        ],
+        "Second 20% of population": [
+            8.46,
+            9.5,
+            12.12,
+            12.02,
+            13.54
+        ],
+        "Third 20% of population": [
+            13.62,
+            13.82,
+            16.25,
+            16.27,
+            17.67
+        ],
+        "Fourth 20% of population": [
+            21.48,
+            21.09,
+            22.14,
+            22.04,
+            23.08
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

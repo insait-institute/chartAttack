@@ -1,0 +1,71 @@
+{
+    "title": "Total enrollments in schools as per the survey of 1993 conducted in different countries",
+    "x_axis": {
+        "categories": [
+            "Pre-primary schools",
+            "Primary schools",
+            "Secondary schools",
+            "Tertiary schools"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Euro area": "#808000",
+        "Cyprus": "#4682B4",
+        "Israel": "#00FA9A",
+        "Mexico": "#00FF00"
+    },
+    "data": {
+        "Euro area": [
+            89.8852386474609,
+            101.298042297363,
+            101.59162902832,
+            38.98231887817379
+        ],
+        "Cyprus": [
+            59.07801,
+            101.09881,
+            93.23836,
+            14.07258
+        ],
+        "Israel": [
+            85.43178,
+            101.38421,
+            91.21722,
+            38.33315
+        ],
+        "Mexico": [
+            63.38466999999999,
+            110.10451,
+            53.05756,
+            13.10998
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

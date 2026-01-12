@@ -1,0 +1,109 @@
+{
+    "title": "Trade statistics of Sri Lanka with developing economies in North Africa",
+    "legend": {
+        "Merchandise exports": "#708090",
+        "Merchandise imports": "#FF7F50"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Trade with economies of Middle East & North Africa(%)",
+    "data": [
+        {
+            "label": "Merchandise exports",
+            "color": "#708090",
+            "values": [
+                3.917563825634169,
+                3.86696737349984,
+                4.80605282253428,
+                5.48090731572165,
+                5.07542333875296,
+                4.60999020704588,
+                5.399234349998308,
+                4.81573370534992,
+                4.70400133600796
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "color": "#FF7F50",
+            "values": [
+                7.547765135332559,
+                7.64822466347297,
+                8.99861870981961,
+                9.12428802559561,
+                7.16446885359756,
+                7.87625512119622,
+                4.36607388662063,
+                0.230285066673713,
+                0.181995197753384
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Merchandise exports",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        }
+    ]
+}

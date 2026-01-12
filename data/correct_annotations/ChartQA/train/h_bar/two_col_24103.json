@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Ernie Banks",
+        "Cap Anson",
+        "Billy Williams",
+        "Ryne Sandberg",
+        "Ron Santo",
+        "Phil Cavarretta",
+        "Stan Hack",
+        "Gabby Hartnett",
+        "Mark Grace",
+        "Sammy Sosa"
+    ],
+    "data": {
+        "Players": [
+            2528,
+            2277,
+            2213,
+            2151,
+            2126,
+            1953,
+            1938,
+            1926,
+            1910,
+            1811
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2530
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

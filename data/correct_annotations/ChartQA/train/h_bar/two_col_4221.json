@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Lars",
+        "Mikael",
+        "Anders",
+        "Johan",
+        "Erik",
+        "Per",
+        "Peter",
+        "Karl",
+        "Thomas",
+        "Jan",
+        "Daniel",
+        "Fredrik",
+        "Andreas",
+        "Hans",
+        "Stefan",
+        "Mohamed",
+        "Mats",
+        "Marcus",
+        "Mattias",
+        "Magnus"
+    ],
+    "data": {
+        "Model": [
+            83396,
+            79760,
+            76856,
+            74652,
+            65824,
+            64294,
+            62207,
+            60784,
+            60712,
+            58242,
+            57654,
+            54569,
+            45564,
+            45278,
+            44942,
+            44825,
+            43011,
+            42860,
+            41894,
+            41667
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 83400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

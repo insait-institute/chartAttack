@@ -1,0 +1,59 @@
+{
+    "title": "Balance of payments as percentage of commercial service imports in 2005",
+    "legend": {
+        "Transport services": "#FF0000",
+        "Travel services": "#191970"
+    },
+    "categories": [
+        "North America",
+        "OECD members",
+        "Other small states",
+        "Pacific island small states",
+        "Small states"
+    ],
+    "data": {
+        "Transport services": [
+            26.70731614677949,
+            19.781868263437,
+            30.3383410440092,
+            53.94964968024771,
+            35.7662920713337
+        ],
+        "Travel services": [
+            28.7305329762912,
+            20.8792948237117,
+            32.7431404447821,
+            19.0300025640616,
+            28.34237034321869
+        ]
+    },
+    "colors": {
+        "Transport services": "#FF0000",
+        "Travel services": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Periodicty and timeliness assessment of statistical capacity",
+    "legend": {
+        "Bulgaria": "#00FA9A",
+        "Morocco": "#FF0000"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Bulgaria": [
+            90.0,
+            90.0,
+            90.0,
+            90.0,
+            93.33333,
+            93.33333
+        ],
+        "Morocco": [
+            90.0,
+            86.66667,
+            86.66667,
+            86.66667,
+            90.0,
+            86.66667
+        ]
+    },
+    "colors": {
+        "Bulgaria": "#00FA9A",
+        "Morocco": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 90.0,
+                "max_value": 93.33333
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 86.66667,
+                "max_value": 90.0
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

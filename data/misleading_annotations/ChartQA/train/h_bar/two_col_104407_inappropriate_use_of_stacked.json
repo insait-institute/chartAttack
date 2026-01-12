@@ -1,0 +1,67 @@
+{
+    "title": "",
+    "legend": {
+        "August 2010": "#f27979",
+        "August 2011": "#f2f200",
+        "August 2012": "#79f279",
+        "August 2013": "#00a5a5",
+        "August 2014": "#5252a5",
+        "August 2015": "#a500a5"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "August 2010": [
+            4309.0
+        ],
+        "August 2011": [
+            76890.0
+        ],
+        "August 2012": [
+            516617.0
+        ],
+        "August 2013": [
+            665591.0
+        ],
+        "August 2014": [
+            919694.0
+        ],
+        "August 2015": [
+            1016529.0
+        ]
+    },
+    "colors": {
+        "August 2010": "#f27979",
+        "August 2011": "#f2f200",
+        "August 2012": "#79f279",
+        "August 2013": "#00a5a5",
+        "August 2014": "#5252a5",
+        "August 2015": "#a500a5"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1016530
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

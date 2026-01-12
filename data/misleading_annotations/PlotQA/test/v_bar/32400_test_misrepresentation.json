@@ -1,0 +1,64 @@
+{
+    "title": "Female Population (% of total population) in the year 1971",
+    "x_axis": {
+        "categories": [
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Least developed countries",
+            "Low & middle income",
+            "Low income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#87CEEB"
+    },
+    "data": {
+        "Female": [
+            51.0735779521836,
+            50.0644180326626,
+            50.07664225809071,
+            50.2119452829665,
+            49.3160279209472,
+            50.6884175966387
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Female": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

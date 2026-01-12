@@ -1,0 +1,54 @@
+{
+    "title": "Acquisition costs in million GBP",
+    "x_axis": {
+        "categories": [
+            "Insurers",
+            "Intermediaries",
+            "Price comparison websites (PCW)"
+        ]
+    },
+    "y_axis": {
+        "label": "Acquisition costs in million GBP"
+    },
+    "legend": {
+        "Home insurance": "#2876dd",
+        "Motor insurance": "#0f283e"
+    },
+    "data": {
+        "Home insurance": [
+            1232,
+            59,
+            15
+        ],
+        "Motor insurance": [
+            739,
+            198,
+            96
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1240
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Percentage of labor market programs benefits received by the poorest 20% of the population of countries",
+    "x_axis": {
+        "categories": [
+            "Iraq",
+            "Kyrgyz Republic",
+            "Mauritius",
+            "Turkey",
+            "Ukraine"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Labor Market": "#D2B48C",
+        "Social Insurance": "#A0522D",
+        "Social Protection and Labor": "#006400"
+    },
+    "data": {
+        "Labor Market": [
+            18.1355367099095,
+            6.69576241902416,
+            8.51807342177112,
+            2.54320106951501,
+            25.7904714638485
+        ],
+        "Social Insurance": [
+            1.50279422763801,
+            4.75314100200934,
+            0.287490458124891,
+            10.2054376887883,
+            10.17895386466181
+        ],
+        "Social Protection and Labor": [
+            1.50279422763801,
+            7.84739358124002,
+            3.36046991013307,
+            12.4418747976856,
+            13.1851002103407
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

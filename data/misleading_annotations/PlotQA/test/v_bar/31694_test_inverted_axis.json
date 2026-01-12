@@ -1,0 +1,66 @@
+{
+    "title": "Gender parity index for gross enrollment ratio in different levels of education in 1999",
+    "x_axis": {
+        "categories": [
+            "Primary education",
+            "Secondary education",
+            "Tertiary education"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Benin": "#FF69B4",
+        "Croatia": "#4682B4",
+        "El Salvador": "#8B4513",
+        "Norway": "#808000"
+    },
+    "data": {
+        "Benin": [
+            0.641740024089813,
+            0.44870999455452,
+            0.240130007266998
+        ],
+        "Croatia": [
+            0.982969999313354,
+            1.01845002174377,
+            1.16382002830505
+        ],
+        "El Salvador": [
+            0.96942001581192,
+            0.9705399870872501,
+            1.17334997653961
+        ],
+        "Norway": [
+            0.9978899955749508,
+            1.02307999134064,
+            1.39417004585266
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

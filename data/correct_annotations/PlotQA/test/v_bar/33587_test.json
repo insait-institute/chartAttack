@@ -1,0 +1,52 @@
+{
+    "title": "Total production of clean energy in 1989",
+    "x_axis": {
+        "categories": [
+            "Egypt, Arab Rep.",
+            "El Salvador",
+            "Ethiopia",
+            "Finland",
+            "France"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Alternative and nuclear energy": "#FF1493"
+    },
+    "data": {
+        "Alternative and nuclear energy": [
+            2.78996491613361,
+            20.6203758508434,
+            0.305485701622657,
+            21.3402699977594,
+            37.9226250784805
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

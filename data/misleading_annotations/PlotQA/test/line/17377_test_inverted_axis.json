@@ -1,0 +1,70 @@
+{
+    "title": "Percentage share of income between different subgroups of population of Montenegro",
+    "legend": {
+        "Highest 10% of population": "#32CD32",
+        "Lowest 10% of population": "#A0522D"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Income share held (as % of total income)",
+    "data": [
+        {
+            "label": "Highest 10% of population",
+            "color": "#32CD32",
+            "values": [
+                23.88,
+                22.96,
+                23.91,
+                24.1,
+                24.2,
+                22.49
+            ]
+        },
+        {
+            "label": "Lowest 10% of population",
+            "color": "#A0522D",
+            "values": [
+                3.52,
+                3.55,
+                3.27,
+                3.5,
+                3.3,
+                3.64
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

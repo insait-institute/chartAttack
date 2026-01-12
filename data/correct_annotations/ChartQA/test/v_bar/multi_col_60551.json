@@ -1,0 +1,66 @@
+{
+    "title": "Loans in million euros",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Loans in million euros"
+    },
+    "legend": {
+        "New cars": "#2876dd",
+        "Used cars": "#0f283e"
+    },
+    "data": {
+        "New cars": [
+            3231,
+            2968,
+            2877,
+            2626,
+            2343,
+            2314,
+            2225
+        ],
+        "Used cars": [
+            2734,
+            2787,
+            2993,
+            3280,
+            3538,
+            3871,
+            4186
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4190
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

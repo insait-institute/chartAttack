@@ -1,0 +1,57 @@
+{
+    "title": "Amount of U.S. dollars pledged in millions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Amount of U.S. dollars pledged in millions"
+    },
+    "legend": {
+        "Q1 '14": "#f27979",
+        "Q2 '14": "#00f200",
+        "Q3 '14": "#5252a5"
+    },
+    "data": {
+        "Q1 '14": [
+            112.04
+        ],
+        "Q2 '14": [
+            144.21
+        ],
+        "Q3 '14": [
+            138.92
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 150
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "Q1 '14": "#f27979",
+        "Q2 '14": "#00f200",
+        "Q3 '14": "#5252a5"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of total fuel exports to different countries",
+    "legend": {
+        "1962": "#FFD700",
+        "1963": "#D2B48C",
+        "1964": "#0000FF",
+        "1965": "#FF00FF"
+    },
+    "categories": [
+        "Philippines",
+        "Portugal",
+        "Singapore",
+        "Spain"
+    ],
+    "data": {
+        "1962": [
+            0.38491401516063,
+            1.52805268886516,
+            17.1034639163054,
+            6.06607275317137
+        ],
+        "1963": [
+            0.395867257144788,
+            1.9087956699147,
+            16.8547532785868,
+            5.85725607673464
+        ],
+        "1964": [
+            0.483403335188008,
+            1.76651363708005,
+            18.2319078071313,
+            4.97803666889297
+        ],
+        "1965": [
+            0.7398004677803941,
+            1.46954618782517,
+            19.9217188076236,
+            3.93389571123952
+        ]
+    },
+    "colors": {
+        "1962": "#FFD700",
+        "1963": "#D2B48C",
+        "1964": "#0000FF",
+        "1965": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Republic of Congo": "#f27979",
+        "Philippines": "#f24800",
+        "Haiti": "#f2c179",
+        "Guatemala": "#f2da00",
+        "Bolivia": "#daf279",
+        "Uganda": "#79f200",
+        "Zambia": "#91f279",
+        "Lebanon": "#00a510",
+        "Burundi": "#52a574",
+        "Sudan": "#00a574",
+        "Peru": "#52a5a5",
+        "Madagascar": "#0074a5",
+        "Grenada": "#5274a5",
+        "Chad": "#0010a5",
+        "Mali": "#9179f2",
+        "Liberia": "#7900f2",
+        "Sierra Leone": "#da79f2",
+        "El Salvador": "#f200da",
+        "Bangladesh": "#f279c1",
+        "Mozambique": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Republic of Congo": [
+            616.9
+        ],
+        "Philippines": [
+            463.6
+        ],
+        "Haiti": [
+            454.4
+        ],
+        "Guatemala": [
+            372.0
+        ],
+        "Bolivia": [
+            363.9
+        ],
+        "Uganda": [
+            319.2
+        ],
+        "Zambia": [
+            303.0
+        ],
+        "Lebanon": [
+            286.6
+        ],
+        "Burundi": [
+            257.0
+        ],
+        "Sudan": [
+            255.3
+        ],
+        "Peru": [
+            241.3
+        ],
+        "Madagascar": [
+            237.4
+        ],
+        "Grenada": [
+            233.8
+        ],
+        "Chad": [
+            232.3
+        ],
+        "Mali": [
+            223.3
+        ],
+        "Liberia": [
+            222.1
+        ],
+        "Sierra Leone": [
+            220.2
+        ],
+        "El Salvador": [
+            215.2
+        ],
+        "Bangladesh": [
+            215.1
+        ],
+        "Mozambique": [
+            210.7
+        ]
+    },
+    "colors": {
+        "Republic of Congo": "#f27979",
+        "Philippines": "#f24800",
+        "Haiti": "#f2c179",
+        "Guatemala": "#f2da00",
+        "Bolivia": "#daf279",
+        "Uganda": "#79f200",
+        "Zambia": "#91f279",
+        "Lebanon": "#00a510",
+        "Burundi": "#52a574",
+        "Sudan": "#00a574",
+        "Peru": "#52a5a5",
+        "Madagascar": "#0074a5",
+        "Grenada": "#5274a5",
+        "Chad": "#0010a5",
+        "Mali": "#9179f2",
+        "Liberia": "#7900f2",
+        "Sierra Leone": "#da79f2",
+        "El Salvador": "#f200da",
+        "Bangladesh": "#f279c1",
+        "Mozambique": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 620
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

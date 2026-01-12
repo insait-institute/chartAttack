@@ -1,0 +1,47 @@
+{
+    "title": "Refugee population in 2014",
+    "legend": {
+        "By country of asylum": "#f27979",
+        "By country of origin": "#00a5a5"
+    },
+    "categories": [
+        "Refugee population in 2014"
+    ],
+    "data": {
+        "By country of asylum": [
+            17531780.0
+        ],
+        "By country of origin": [
+            17531780.0
+        ]
+    },
+    "colors": {
+        "By country of asylum": "#f27979",
+        "By country of origin": "#00a5a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17531780
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

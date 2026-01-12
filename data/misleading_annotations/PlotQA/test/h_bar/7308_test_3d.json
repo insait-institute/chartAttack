@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of urban population who used safely managed services in 2015",
+    "legend": {
+        "Sanitation services": "#FF7F50",
+        "Drinking water services": "#20B2AA"
+    },
+    "categories": [
+        "Bhutan",
+        "Bolivia",
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Brazil",
+        "Bulgaria"
+    ],
+    "data": {
+        "Sanitation services": [
+            77.9,
+            60.8,
+            98.9,
+            78.5,
+            88.0,
+            86.8
+        ],
+        "Drinking water services": [
+            85.2,
+            100.0,
+            96.7,
+            99.7,
+            99.2,
+            100.0
+        ]
+    },
+    "colors": {
+        "Sanitation services": "#FF7F50",
+        "Drinking water services": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

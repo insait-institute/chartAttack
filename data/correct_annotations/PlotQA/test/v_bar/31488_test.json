@@ -1,0 +1,66 @@
+{
+    "title": "Value added by different sectors to the total GDP of different countries",
+    "x_axis": {
+        "categories": [
+            "Industry",
+            "Services",
+            "Agriculture"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Iran": "#32CD32",
+        "Kenya": "#A52A2A",
+        "Netherlands": "#2E8B57",
+        "Togo": "#B8860B"
+    },
+    "data": {
+        "Iran": [
+            94309839559.1776,
+            44414378298.927,
+            3997441119.37948
+        ],
+        "Kenya": [
+            1177787014.53556,
+            2571708756.53952,
+            1881174551.38544
+        ],
+        "Netherlands": [
+            102605721658.048,
+            185697639609.778,
+            3948627756.24099
+        ],
+        "Togo": [
+            200593992.7080429,
+            674358806.875424,
+            293403170.522784
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 185697639610
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

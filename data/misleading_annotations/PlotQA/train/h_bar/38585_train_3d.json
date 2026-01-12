@@ -1,0 +1,60 @@
+{
+    "title": "Electricity produced from renewable sources in countries in 2009",
+    "legend": {
+        "Middle income": "#4169E1",
+        "Russian Federation": "#483D8B",
+        "United Kingdom": "#8FBC8F"
+    },
+    "categories": [
+        "Hydroelectric sources",
+        "Nuclear sources",
+        "Renewable sources"
+    ],
+    "data": {
+        "Middle income": [
+            19.9492089480141,
+            2.97204539664134,
+            1.87795273024002
+        ],
+        "Russian Federation": [
+            17.5934427223005,
+            16.5228853233944,
+            0.0506037604351317
+        ],
+        "United Kingdom": [
+            1.40483019272523,
+            18.5214570992039,
+            5.361728361969599
+        ]
+    },
+    "colors": {
+        "Middle income": "#4169E1",
+        "Russian Federation": "#483D8B",
+        "United Kingdom": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

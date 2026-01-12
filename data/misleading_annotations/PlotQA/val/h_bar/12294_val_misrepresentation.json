@@ -1,0 +1,98 @@
+{
+    "title": "Mineral rents as percent of GDP",
+    "legend": {
+        "1970": "#DAA520",
+        "1971": "#FF7F50",
+        "1972": "#90EE90",
+        "1973": "#EE82EE"
+    },
+    "categories": [
+        "High income: nonOECD",
+        "High income: OECD",
+        "Latin America(all income levels)",
+        "Latin America(developing only)"
+    ],
+    "data": {
+        "1970": [
+            0.229748436578027,
+            0.213614063539071,
+            1.02757111654131,
+            0.7504020026924549
+        ],
+        "1971": [
+            0.198510497354093,
+            0.144304132182891,
+            0.741447005365787,
+            0.566004846974624
+        ],
+        "1972": [
+            0.133115600402002,
+            0.126453426094171,
+            0.699919488914797,
+            0.58015050399343
+        ],
+        "1973": [
+            0.119027754097136,
+            0.2217480586719111,
+            0.945753532275967,
+            0.8001719548407109
+        ]
+    },
+    "colors": {
+        "1970": "#DAA520",
+        "1971": "#FF7F50",
+        "1972": "#90EE90",
+        "1973": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1970": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1971": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1972": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1973": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

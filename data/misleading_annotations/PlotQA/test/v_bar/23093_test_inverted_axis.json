@@ -1,0 +1,60 @@
+{
+    "title": "Damage caused to an economy due to the depletion of minerals",
+    "x_axis": {
+        "categories": [
+            "India",
+            "Indonesia",
+            "Iran",
+            "Jamaica",
+            "Japan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#008B8B",
+        "1971": "#808000"
+    },
+    "data": {
+        "1970": [
+            65141151.69798929,
+            15504635.67720919,
+            1697089.94499418,
+            48955048.27994461,
+            75066770.7670416
+        ],
+        "1971": [
+            71890917.0987803,
+            18946829.6205168,
+            1399612.75354041,
+            50296928.7556464,
+            50307348.9359705
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 75066780
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

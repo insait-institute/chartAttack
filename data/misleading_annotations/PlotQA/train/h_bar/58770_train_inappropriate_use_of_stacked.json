@@ -1,0 +1,62 @@
+{
+    "title": "Value added by the agricultural sector to the total GDP of an economy",
+    "legend": {
+        "2001": "#f27979",
+        "2002": "#c1f200",
+        "2003": "#52a574",
+        "2004": "#0042a5",
+        "2005": "#da79f2"
+    },
+    "categories": [
+        "Value added by the agricultural sector to the total GDP of an economy"
+    ],
+    "data": {
+        "2001": [
+            27.2808896482047
+        ],
+        "2002": [
+            23.1212419326898
+        ],
+        "2003": [
+            22.1871909863907
+        ],
+        "2004": [
+            19.89610467517051
+        ],
+        "2005": [
+            17.6714170262421
+        ]
+    },
+    "colors": {
+        "2001": "#f27979",
+        "2002": "#c1f200",
+        "2003": "#52a574",
+        "2004": "#0042a5",
+        "2005": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

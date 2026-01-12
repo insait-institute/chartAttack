@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Roddy White": "#f27979",
+        "Michael Turner": "#f24800",
+        "Julio Jones": "#f2c179",
+        "Terance Mathis": "#f2da00",
+        "Andre Rison": "#daf279",
+        "Gerald Riggs": "#79f200",
+        "Devonta Freeman": "#91f279",
+        "Jamal Anderson": "#00a510",
+        "William Andrews": "#52a574",
+        "Alfred Jenkins": "#00a574",
+        "Warrick Dunn": "#52a5a5",
+        "Alge Crumpler": "#0074a5",
+        "Tony Gonzalez": "#5274a5",
+        "Michael Haynes": "#0010a5",
+        "T.J. Duckett": "#9179f2",
+        "Jim Mitchell": "#7900f2",
+        "Tevin Coleman": "#da79f2",
+        "Wallace Francis": "#f200da",
+        "Haskel Stanback": "#f279c1",
+        "Calvin Ridley": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Roddy White": [
+            63.0
+        ],
+        "Michael Turner": [
+            61.0
+        ],
+        "Julio Jones": [
+            61.0
+        ],
+        "Terance Mathis": [
+            57.0
+        ],
+        "Andre Rison": [
+            56.0
+        ],
+        "Gerald Riggs": [
+            48.0
+        ],
+        "Devonta Freeman": [
+            43.0
+        ],
+        "Jamal Anderson": [
+            41.0
+        ],
+        "William Andrews": [
+            41.0
+        ],
+        "Alfred Jenkins": [
+            40.0
+        ],
+        "Warrick Dunn": [
+            36.0
+        ],
+        "Alge Crumpler": [
+            35.0
+        ],
+        "Tony Gonzalez": [
+            35.0
+        ],
+        "Michael Haynes": [
+            34.0
+        ],
+        "T.J. Duckett": [
+            31.0
+        ],
+        "Jim Mitchell": [
+            31.0
+        ],
+        "Tevin Coleman": [
+            29.0
+        ],
+        "Wallace Francis": [
+            28.0
+        ],
+        "Haskel Stanback": [
+            26.0
+        ],
+        "Calvin Ridley": [
+            26.0
+        ]
+    },
+    "colors": {
+        "Roddy White": "#f27979",
+        "Michael Turner": "#f24800",
+        "Julio Jones": "#f2c179",
+        "Terance Mathis": "#f2da00",
+        "Andre Rison": "#daf279",
+        "Gerald Riggs": "#79f200",
+        "Devonta Freeman": "#91f279",
+        "Jamal Anderson": "#00a510",
+        "William Andrews": "#52a574",
+        "Alfred Jenkins": "#00a574",
+        "Warrick Dunn": "#52a5a5",
+        "Alge Crumpler": "#0074a5",
+        "Tony Gonzalez": "#5274a5",
+        "Michael Haynes": "#0010a5",
+        "T.J. Duckett": "#9179f2",
+        "Jim Mitchell": "#7900f2",
+        "Tevin Coleman": "#da79f2",
+        "Wallace Francis": "#f200da",
+        "Haskel Stanback": "#f279c1",
+        "Calvin Ridley": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Ores,manufactures and fuel imports of different countries in 1971",
+    "x_axis": {
+        "categories": [
+            "Ores and metals",
+            "Manufactures",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#228B22",
+        "Nigeria": "#00CED1",
+        "Pakistan": "#A52A2A"
+    },
+    "data": {
+        "Australia": [
+            2.0055851843482,
+            80.44853672405429,
+            4.76199262480909
+        ],
+        "Nigeria": [
+            2.41354531499062,
+            86.2041667717116,
+            0.830945680525672
+        ],
+        "Pakistan": [
+            2.53000263244422,
+            66.2200722118123,
+            8.689343449679049
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

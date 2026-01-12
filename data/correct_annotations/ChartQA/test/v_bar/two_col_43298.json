@@ -1,0 +1,54 @@
+{
+    "title": "Export value in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "FY 2015",
+            "FY 2016",
+            "FY 2017",
+            "FY 2018",
+            "FY 2019",
+            "FY 2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Export value in million U.S. dollars"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            135.71,
+            128.38,
+            129.69,
+            129.67,
+            113.74,
+            90.77
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 140
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Female life expectancy at birth in countries",
+    "x_axis": {
+        "categories": [
+            "Bangladesh",
+            "Barbados",
+            "Belarus"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FF1493",
+        "1961": "#2E8B57",
+        "1962": "#6495ED"
+    },
+    "data": {
+        "1960": [
+            46.152,
+            63.025,
+            70.518
+        ],
+        "1961": [
+            46.776,
+            63.5,
+            71.041
+        ],
+        "1962": [
+            47.4,
+            63.978,
+            71.499
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Total reserves (including gold) of Zimbabwe",
+    "legend": {
+        "Total reserves (includes gold": "#FF7F50"
+    },
+    "x_axis": [
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977"
+    ],
+    "y_axis_label": "Total reserves (current US$)",
+    "data": [
+        {
+            "label": "Total reserves (includes gold",
+            "color": "#FF7F50",
+            "values": [
+                97094800.0,
+                208907500.0,
+                164413000.0,
+                129177750.0,
+                112348750.0,
+                97632400.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 97094800,
+                "max_value": 208907500
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

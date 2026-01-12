@@ -1,0 +1,62 @@
+{
+    "title": "Number of mobile cellular subscribers",
+    "legend": {
+        "1999": "#f27979",
+        "2000": "#c1f200",
+        "2001": "#52a574",
+        "2002": "#0042a5",
+        "2003": "#da79f2"
+    },
+    "categories": [
+        "Number of mobile cellular subscribers"
+    ],
+    "data": {
+        "1999": [
+            2.77398178590106
+        ],
+        "2000": [
+            4.10534972344791
+        ],
+        "2001": [
+            6.43546213498096
+        ],
+        "2002": [
+            10.896511495321
+        ],
+        "2003": [
+            15.5801458858806
+        ]
+    },
+    "colors": {
+        "1999": "#f27979",
+        "2000": "#c1f200",
+        "2001": "#52a574",
+        "2002": "#0042a5",
+        "2003": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

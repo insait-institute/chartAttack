@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of female workers employed in Industrial sector",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Norway": "#f27979",
+        "Portugal": "#f2f200",
+        "Romania": "#79f279",
+        "Spain": "#00a5a5",
+        "Sweden": "#5252a5",
+        "Switzerland": "#a500a5"
+    },
+    "data": {
+        "Norway": [
+            13.3000001907349
+        ],
+        "Portugal": [
+            25.2999992370605
+        ],
+        "Romania": [
+            33.9000015258789
+        ],
+        "Spain": [
+            21.2999992370605
+        ],
+        "Sweden": [
+            16.2000007629395
+        ],
+        "Switzerland": [
+            23.10000038146969
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Norway": "#f27979",
+        "Portugal": "#f2f200",
+        "Romania": "#79f279",
+        "Spain": "#00a5a5",
+        "Sweden": "#5252a5",
+        "Switzerland": "#a500a5"
+    }
+}

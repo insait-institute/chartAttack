@@ -1,0 +1,72 @@
+{
+    "title": "Agricultural nitrous oxide emissions by a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Other small states": "#f27979",
+        "Small states": "#f2f200",
+        "South Asia": "#79f279",
+        "Sub-Saharan Africa (all income levels)": "#00a5a5",
+        "Sub-Saharan Africa (developing only)": "#5252a5",
+        "Upper middle income": "#a500a5"
+    },
+    "data": {
+        "Other small states": [
+            88.4248427024864
+        ],
+        "Small states": [
+            86.24354589955071
+        ],
+        "South Asia": [
+            76.1189538840249
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            67.6207978180152
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            67.6207978180152
+        ],
+        "Upper middle income": [
+            73.8395629397429
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Other small states": "#f27979",
+        "Small states": "#f2f200",
+        "South Asia": "#79f279",
+        "Sub-Saharan Africa (all income levels)": "#00a5a5",
+        "Sub-Saharan Africa (developing only)": "#5252a5",
+        "Upper middle income": "#a500a5"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Percentage of individuals or firms listed by a public credit bureau",
+    "x_axis": {
+        "categories": [
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Least developed countries",
+            "Low & middle income",
+            "Low income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2004": "#BC8F8F",
+        "2005": "#B8860B",
+        "2006": "#BDB76B",
+        "2007": "#87CEEB"
+    },
+    "data": {
+        "2004": [
+            7.32758620689655,
+            9.22,
+            6.56666666666667,
+            0.132432432432432,
+            1.91188118811881,
+            0.108333333333333
+        ],
+        "2005": [
+            7.37241379310345,
+            6.04827586206897,
+            5.0047619047619,
+            0.552380952380952,
+            2.24869565217391,
+            0.485185185185185
+        ],
+        "2006": [
+            7.85666666666667,
+            7.20344827586207,
+            6.61904761904762,
+            0.590697674418605,
+            2.885470085470081,
+            0.5321428571428571
+        ],
+        "2007": [
+            8.03666666666667,
+            7.76666666666666,
+            7.961904761904758,
+            0.513953488372093,
+            3.45811965811966,
+            0.478571428571429
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

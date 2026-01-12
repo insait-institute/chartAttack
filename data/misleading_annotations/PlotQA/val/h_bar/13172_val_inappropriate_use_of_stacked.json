@@ -1,0 +1,57 @@
+{
+    "title": "Global emissions of Hydrofluorocarbons",
+    "legend": {
+        "Japan": "#f27979",
+        "Korea (Democratic)": "#79f200",
+        "Korea (Republic)": "#52a5a5",
+        "Kuwait": "#5200a5"
+    },
+    "categories": [
+        "Global emissions of Hydrofluorocarbons"
+    ],
+    "data": {
+        "Japan": [
+            9154.3
+        ],
+        "Korea (Democratic)": [
+            0.2
+        ],
+        "Korea (Republic)": [
+            1901.7
+        ],
+        "Kuwait": [
+            0.1
+        ]
+    },
+    "colors": {
+        "Japan": "#f27979",
+        "Korea (Democratic)": "#79f200",
+        "Korea (Republic)": "#52a5a5",
+        "Kuwait": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 52880
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

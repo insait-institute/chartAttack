@@ -1,0 +1,80 @@
+{
+    "title": "TNA in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "TNA in billion U.S. dollars"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            102,
+            151,
+            228,
+            301,
+            423,
+            608,
+            531,
+            777,
+            992,
+            1048,
+            1337,
+            1675,
+            1975,
+            2101,
+            2524,
+            3401,
+            3371,
+            4396,
+            5449
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5450
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

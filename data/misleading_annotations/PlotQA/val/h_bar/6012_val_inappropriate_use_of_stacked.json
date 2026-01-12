@@ -1,0 +1,67 @@
+{
+    "title": "Trade statistics of Ghana with developing economies in Saharan Africa",
+    "legend": {
+        "2005": "#f27979",
+        "2006": "#f2f200",
+        "2007": "#79f279",
+        "2008": "#00a5a5",
+        "2009": "#5252a5",
+        "2010": "#a500a5"
+    },
+    "categories": [
+        "Trade statistics of Ghana with developing economies in Saharan Africa"
+    ],
+    "data": {
+        "2005": [
+            9.34738880641309
+        ],
+        "2006": [
+            9.938041667052527
+        ],
+        "2007": [
+            10.9414332682734
+        ],
+        "2008": [
+            10.4809171288755
+        ],
+        "2009": [
+            11.5244765945968
+        ],
+        "2010": [
+            10.2039528801504
+        ]
+    },
+    "colors": {
+        "2005": "#f27979",
+        "2006": "#f2f200",
+        "2007": "#79f279",
+        "2008": "#00a5a5",
+        "2009": "#5252a5",
+        "2010": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

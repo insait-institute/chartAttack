@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Passwords": "#2876dd"
+    },
+    "categories": [
+        "Top 2,000 baby names",
+        "U.S. city names",
+        "Top 100 dog names",
+        "Top 1,000 world cities (by population)",
+        "U.S. state names"
+    ],
+    "data": {
+        "Passwords": [
+            8.4,
+            4.98,
+            1.06,
+            0.66,
+            0.12
+        ]
+    },
+    "colors": {
+        "Passwords": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,68 @@
+{
+    "title": "",
+    "legend": {
+        "Investment": "#2876dd"
+    },
+    "categories": [
+        "United Kingdom",
+        "Germany",
+        "Spain",
+        "France",
+        "Netherlands",
+        "Ireland",
+        "Italy",
+        "Sweden",
+        "Portugal",
+        "Switzerland",
+        "Poland",
+        "Norway",
+        "Hungary",
+        "Croatia"
+    ],
+    "data": {
+        "Investment": [
+            6483,
+            4156,
+            3551,
+            1393,
+            1323,
+            622,
+            402,
+            277,
+            228,
+            191,
+            117,
+            44,
+            35,
+            7
+        ]
+    },
+    "colors": {
+        "Investment": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6490
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

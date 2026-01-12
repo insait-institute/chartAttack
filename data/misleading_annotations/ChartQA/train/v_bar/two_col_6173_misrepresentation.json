@@ -1,0 +1,106 @@
+{
+    "title": "GDP in million chained 2012 Canadian dollars",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "GDP in million chained 2012 Canadian dollars"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            25058.0,
+            25444.8,
+            26653.8,
+            27240.8,
+            28008.6,
+            28281.0,
+            28787.2,
+            28962.4,
+            29215.2,
+            28802.1,
+            29404.4,
+            29467.6,
+            29117.4,
+            29017.0,
+            29039.6,
+            29275.7,
+            29546.0,
+            30223.9,
+            30446.6,
+            30745.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30750
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Series": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.75,
+            0.25,
+            1.75,
+            1.75,
+            1.5,
+            0.25,
+            1.5,
+            1.25,
+            0.25,
+            0.25,
+            0.25,
+            0.5
+        ]
+    }
+}

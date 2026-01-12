@@ -1,0 +1,56 @@
+{
+    "title": "Number of children died in 2011",
+    "x_axis": {
+        "categories": [
+            "Infant",
+            "Under-five"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Colombia": "#8FBC8F",
+        "Liberia": "#A0522D",
+        "Slovak Republic": "#00FF00"
+    },
+    "data": {
+        "Colombia": [
+            11680,
+            13743
+        ],
+        "Liberia": [
+            9015,
+            12218
+        ],
+        "Slovak Republic": [
+            406,
+            480
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13750
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

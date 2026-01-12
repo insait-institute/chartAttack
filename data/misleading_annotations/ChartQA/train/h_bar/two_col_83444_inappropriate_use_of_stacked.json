@@ -1,0 +1,87 @@
+{
+    "title": "IAAF score",
+    "categories": [
+        "IAAF score"
+    ],
+    "data": {
+        "Laura Strati": [
+            1136.0
+        ],
+        "Tania Vicenzino": [
+            1103.0
+        ],
+        "Carol Zangobbo": [
+            1051.0
+        ],
+        "Sofia Zanotti": [
+            1014.0
+        ],
+        "Marta Giaele Giovannini": [
+            981.0
+        ],
+        "Laura Oberto": [
+            976.0
+        ],
+        "Lucrezia Sartori": [
+            972.0
+        ],
+        "Chiara Smeraldo": [
+            967.0
+        ],
+        "Milica Travar": [
+            965.0
+        ],
+        "Stefania Barrucci": [
+            959.0
+        ]
+    },
+    "colors": {
+        "Laura Strati": "#f27979",
+        "Tania Vicenzino": "#f29100",
+        "Carol Zangobbo": "#daf279",
+        "Sofia Zanotti": "#30f200",
+        "Marta Giaele Giovannini": "#52a574",
+        "Laura Oberto": "#00a5a5",
+        "Lucrezia Sartori": "#5274a5",
+        "Chiara Smeraldo": "#2100a5",
+        "Milica Travar": "#da79f2",
+        "Stefania Barrucci": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Laura Strati": "#f27979",
+        "Tania Vicenzino": "#f29100",
+        "Carol Zangobbo": "#daf279",
+        "Sofia Zanotti": "#30f200",
+        "Marta Giaele Giovannini": "#52a574",
+        "Laura Oberto": "#00a5a5",
+        "Lucrezia Sartori": "#5274a5",
+        "Chiara Smeraldo": "#2100a5",
+        "Milica Travar": "#da79f2",
+        "Stefania Barrucci": "#f20091"
+    }
+}

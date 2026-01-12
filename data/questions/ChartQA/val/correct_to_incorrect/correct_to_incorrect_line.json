@@ -1,0 +1,84 @@
+[
+    {
+        "imgname": "two_col_80622",
+        "question": "What was the previous year's value of Hugo Boss' EBITDA?",
+        "gold": "707",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 476.0
+        }
+    },
+    {
+        "imgname": "multi_col_20125",
+        "question": "How many more men were there than women in 2018?",
+        "gold": "2.6",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.1
+        }
+    },
+    {
+        "imgname": "multi_col_100218",
+        "question": "What was Russia's fertility rate in 2020?",
+        "gold": "1.74",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.5
+        }
+    },
+    {
+        "imgname": "multi_col_267",
+        "question": "In year 2021, what is the highest percentage value shown?",
+        "gold": "95",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 83.0
+        }
+    },
+    {
+        "imgname": "multi_col_567",
+        "question": "What is the difference in the highest value of homicide in United States to lowest value in Canada ?",
+        "gold": "4.33",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "dual_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.5,
+            "dual_axis": 1.4,
+            "misrepresentation": 4.9
+        }
+    },
+    {
+        "imgname": "two_col_6132",
+        "question": "How many widowed people lived in Canada in 2000?",
+        "gold": "1.55",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.13
+        }
+    }
+]

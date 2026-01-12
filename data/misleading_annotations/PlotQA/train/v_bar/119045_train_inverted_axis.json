@@ -1,0 +1,60 @@
+{
+    "title": "Net energy imports of a country",
+    "x_axis": {
+        "categories": [
+            "Finland",
+            "France",
+            "Germany"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#008080",
+        "1961": "#6495ED",
+        "1962": "#BDB76B"
+    },
+    "data": {
+        "1960": [
+            45.6199010696797,
+            42.82320186437229,
+            11.8978308994024
+        ],
+        "1961": [
+            45.2804707663157,
+            46.5207617478281,
+            13.5823475519506
+        ],
+        "1962": [
+            47.59164104204911,
+            49.8880929350719,
+            19.12600831595289
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

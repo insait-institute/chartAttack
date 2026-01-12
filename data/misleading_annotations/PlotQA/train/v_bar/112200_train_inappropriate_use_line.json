@@ -1,0 +1,63 @@
+{
+    "title": "Percentage of GDP spent on health care in different countries in 1997",
+    "x_axis": {
+        "categories": [
+            "Denmark",
+            "Djibouti",
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt, Arab Rep."
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Private funds": "#00BFFF",
+        "Public funds": "#A0522D"
+    },
+    "data": {
+        "Private funds": [
+            1.44459912196559,
+            1.76523132988769,
+            1.62327735566374,
+            4.16449186879587,
+            1.72958649626927,
+            3.04635411937621
+        ],
+        "Public funds": [
+            6.706312228034411,
+            2.83292067011231,
+            4.37003661433626,
+            1.48820857120413,
+            1.97040350373073,
+            1.92356189062379
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

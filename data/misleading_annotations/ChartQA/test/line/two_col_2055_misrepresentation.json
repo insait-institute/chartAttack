@@ -1,0 +1,121 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "y_axis": {
+        "label": "Unemployment rate"
+    },
+    "x_axis": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+    ],
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                14.53,
+                13.99,
+                13.04,
+                16.17,
+                16.78,
+                15.07,
+                10.66,
+                8.61,
+                7.28,
+                6.25,
+                6.1,
+                7.11,
+                6.9,
+                6.6,
+                7.54,
+                7.48,
+                7.44,
+                7.39,
+                7.3,
+                7.22,
+                8.8,
+                9.38
+            ]
+        }
+    ],
+    "type": "line",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": [
+        {
+            "label": "line",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5,
+                0.25,
+                1.5,
+                1.25,
+                0.25,
+                0.25,
+                0.25,
+                0.5,
+                0.5,
+                1.5
+            ]
+        }
+    ]
+}

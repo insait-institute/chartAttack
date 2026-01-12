@@ -1,0 +1,62 @@
+{
+    "title": "Long-term unemployment in a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#f27979",
+        "Canada": "#79f200",
+        "Japan": "#52a5a5",
+        "United States": "#5200a5"
+    },
+    "data": {
+        "Australia": [
+            19.2000007629395
+        ],
+        "Canada": [
+            5.09999990463257
+        ],
+        "Japan": [
+            15.3000001907349
+        ],
+        "United States": [
+            4.30000019073486
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Australia": "#f27979",
+        "Canada": "#79f200",
+        "Japan": "#52a5a5",
+        "United States": "#5200a5"
+    }
+}

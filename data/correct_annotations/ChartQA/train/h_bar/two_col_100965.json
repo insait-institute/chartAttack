@@ -1,0 +1,56 @@
+{
+    "title": "Share of rugby fans",
+    "legend": {
+        "Fans": "#2876dd"
+    },
+    "categories": [
+        "Mathieu Bastareaud",
+        "Louis Picamoles",
+        "Camille Lopez",
+        "Yoann Maestri",
+        "Virimi Vakatawa",
+        "Guilhem Guirado",
+        "Scott Spedding",
+        "Is not pronounced"
+    ],
+    "data": {
+        "Fans": [
+            29,
+            26,
+            11,
+            9,
+            8,
+            7,
+            7,
+            4
+        ]
+    },
+    "colors": {
+        "Fans": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

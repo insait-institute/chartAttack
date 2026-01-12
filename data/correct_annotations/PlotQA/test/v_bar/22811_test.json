@@ -1,0 +1,54 @@
+{
+    "title": "Ores,manufactures and fuel imports of different countries in 1979",
+    "x_axis": {
+        "categories": [
+            "Ores and metals",
+            "Manufactures",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Jamaica": "#20B2AA",
+        "Tunisia": "#6495ED"
+    },
+    "data": {
+        "Jamaica": [
+            2.3612762613728,
+            46.42458206231979,
+            32.014135555238
+        ],
+        "Tunisia": [
+            2.712076958142891,
+            61.3718511439832,
+            17.75464117227001
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

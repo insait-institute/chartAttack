@@ -1,0 +1,82 @@
+{
+    "title": "Total male labor force participation rate for ages 15-24",
+    "legend": {
+        "1990": "#6B8E23",
+        "1991": "#4682B4",
+        "1992": "#B03060",
+        "1993": "#40E0D0"
+    },
+    "categories": [
+        "Mongolia",
+        "Montenegro",
+        "Morocco",
+        "Mozambique",
+        "Myanmar",
+        "Namibia"
+    ],
+    "data": {
+        "1990": [
+            45.5999984741211,
+            41.5,
+            67.8000030517578,
+            68.3000030517578,
+            57.0,
+            40.0999984741211
+        ],
+        "1991": [
+            47.5,
+            43.7000007629395,
+            67.1999969482422,
+            68.1999969482422,
+            57.0,
+            39.5999984741211
+        ],
+        "1992": [
+            49.5,
+            45.2000007629395,
+            67.90000152587889,
+            68.099998474121,
+            57.0,
+            39.2999992370605
+        ],
+        "1993": [
+            50.2999992370605,
+            45.7999992370605,
+            68.1999969482422,
+            68.0,
+            57.0,
+            39.0999984741211
+        ]
+    },
+    "colors": {
+        "1990": "#6B8E23",
+        "1991": "#4682B4",
+        "1992": "#B03060",
+        "1993": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

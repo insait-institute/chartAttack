@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of labor market programs benefits received by the poorest 20% of the population of countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Iraq": "#f27979",
+        "Kyrgyz Republic": "#c1f200",
+        "Mauritius": "#52a574",
+        "Turkey": "#0042a5",
+        "Ukraine": "#da79f2"
+    },
+    "data": {
+        "Iraq": [
+            18.1355367099095
+        ],
+        "Kyrgyz Republic": [
+            6.69576241902416
+        ],
+        "Mauritius": [
+            8.51807342177112
+        ],
+        "Turkey": [
+            2.54320106951501
+        ],
+        "Ukraine": [
+            25.7904714638485
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Iraq": "#f27979",
+        "Kyrgyz Republic": "#c1f200",
+        "Mauritius": "#52a574",
+        "Turkey": "#0042a5",
+        "Ukraine": "#da79f2"
+    }
+}

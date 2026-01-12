@@ -1,0 +1,50 @@
+{
+    "title": "Average age",
+    "x_axis": {
+        "categories": [
+            "Best Actor",
+            "Best Actress",
+            "Best Supporting Actor",
+            "Best Supporting Actress"
+        ]
+    },
+    "y_axis": {
+        "label": "Average age"
+    },
+    "legend": {
+        "Average Age": "#2876dd"
+    },
+    "data": {
+        "Average Age": [
+            44,
+            36,
+            49,
+            40
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

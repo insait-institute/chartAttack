@@ -1,0 +1,63 @@
+{
+    "title": "Average working hours of male children (ages 7-14) in different countries in 2006",
+    "x_axis": {
+        "categories": [
+            "Georgia",
+            "Ghana",
+            "Guinea-Bissau",
+            "Kazakhstan",
+            "Somalia",
+            "Syrian Arab Republic"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Study and work": "#B8860B",
+        "Working only": "#FF0000"
+    },
+    "data": {
+        "Study and work": [
+            5.4,
+            14.5,
+            13.4,
+            6.8,
+            25.6,
+            12.7
+        ],
+        "Working only": [
+            21.5,
+            13.2,
+            4.0,
+            35.6,
+            30.9,
+            8.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

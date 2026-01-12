@@ -1,0 +1,71 @@
+{
+    "title": "CPIA ratings of different policies in 2009",
+    "x_axis": {
+        "categories": [
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Building human resources": "#008B8B",
+        "Business regulatory environment": "#B03060",
+        "Debt policy": "#6B8E23",
+        "Management rating": "#20B2AA"
+    },
+    "data": {
+        "Building human resources": [
+            3.21428571428571,
+            3.47435897435897,
+            3.25,
+            3.25
+        ],
+        "Business regulatory environment": [
+            2.98214285714286,
+            3.33333333333333,
+            3.5,
+            3.5
+        ],
+        "Debt policy": [
+            3.053571428571431,
+            3.79487179487179,
+            3.0,
+            3.0
+        ],
+        "Management rating": [
+            3.32738095238095,
+            3.72222222222222,
+            3.08333333333333,
+            3.08333333333333
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

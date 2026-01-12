@@ -1,0 +1,54 @@
+{
+    "title": "",
+    "legend": {
+        "Google": "#2876dd"
+    },
+    "categories": [
+        "Google",
+        "Yelp",
+        "Facebook",
+        "Industry specific",
+        "Consumer Affairs",
+        "YellowPages.com",
+        "None of these"
+    ],
+    "data": {
+        "Google": [
+            81,
+            59,
+            49,
+            36,
+            21,
+            12,
+            5
+        ]
+    },
+    "colors": {
+        "Google": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

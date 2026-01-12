@@ -1,0 +1,56 @@
+{
+    "title": "Expenditures made by country's government on remittances and education in 1979",
+    "legend": {
+        "Colombia": "#FF4500",
+        "Congo (Republic)": "#4682B4",
+        "France": "#32CD32"
+    },
+    "categories": [
+        "Personal remittances",
+        " received (% of GDP)"
+    ],
+    "data": {
+        "Colombia": [
+            0.361483867295527,
+            1.75434
+        ],
+        "Congo (Republic)": [
+            0.257647052151681,
+            7.038139999999999
+        ],
+        "France": [
+            0.311990356626893,
+            4.26809
+        ]
+    },
+    "colors": {
+        "Colombia": "#FF4500",
+        "Congo (Republic)": "#4682B4",
+        "France": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

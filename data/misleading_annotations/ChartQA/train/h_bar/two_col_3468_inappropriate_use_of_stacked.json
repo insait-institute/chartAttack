@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Star Wars: The Force Awakens": "#f27979",
+        "Avengers: Endgame*": "#f24800",
+        "Avatar": "#f2c179",
+        "Black Panther": "#f2da00",
+        "Avengers: Infinity War": "#daf279",
+        "Jurassic World": "#79f200",
+        "Marvel's The Avengers": "#91f279",
+        "Star Wars: The Last Jedi": "#00a510",
+        "Incredibles 2": "#52a574",
+        "Rogue One: A Star Wars Story": "#00a574",
+        "Beauty and the Beast (2017)": "#52a5a5",
+        "Finding Dory": "#0074a5",
+        "Avengers: Age of Ultron": "#5274a5",
+        "Captain Marvel*": "#0010a5",
+        "Jurassic World: Fallen Kingdom": "#9179f2",
+        "Toy Story 3": "#7900f2",
+        "Wonder Woman": "#da79f2",
+        "Iron Man 3": "#f200da",
+        "Captain America: Civil War": "#f279c1",
+        "Jumanji: Welcome to the Jungle": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Star Wars: The Force Awakens": [
+            936.66
+        ],
+        "Avengers: Endgame*": [
+            842.76
+        ],
+        "Avatar": [
+            760.51
+        ],
+        "Black Panther": [
+            700.06
+        ],
+        "Avengers: Infinity War": [
+            678.82
+        ],
+        "Jurassic World": [
+            652.27
+        ],
+        "Marvel's The Avengers": [
+            623.36
+        ],
+        "Star Wars: The Last Jedi": [
+            620.18
+        ],
+        "Incredibles 2": [
+            608.59
+        ],
+        "Rogue One: A Star Wars Story": [
+            532.18
+        ],
+        "Beauty and the Beast (2017)": [
+            504.01
+        ],
+        "Finding Dory": [
+            486.3
+        ],
+        "Avengers: Age of Ultron": [
+            459.01
+        ],
+        "Captain Marvel*": [
+            426.82
+        ],
+        "Jurassic World: Fallen Kingdom": [
+            416.77
+        ],
+        "Toy Story 3": [
+            415.0
+        ],
+        "Wonder Woman": [
+            412.56
+        ],
+        "Iron Man 3": [
+            409.01
+        ],
+        "Captain America: Civil War": [
+            408.08
+        ],
+        "Jumanji: Welcome to the Jungle": [
+            404.52
+        ]
+    },
+    "colors": {
+        "Star Wars: The Force Awakens": "#f27979",
+        "Avengers: Endgame*": "#f24800",
+        "Avatar": "#f2c179",
+        "Black Panther": "#f2da00",
+        "Avengers: Infinity War": "#daf279",
+        "Jurassic World": "#79f200",
+        "Marvel's The Avengers": "#91f279",
+        "Star Wars: The Last Jedi": "#00a510",
+        "Incredibles 2": "#52a574",
+        "Rogue One: A Star Wars Story": "#00a574",
+        "Beauty and the Beast (2017)": "#52a5a5",
+        "Finding Dory": "#0074a5",
+        "Avengers: Age of Ultron": "#5274a5",
+        "Captain Marvel*": "#0010a5",
+        "Jurassic World: Fallen Kingdom": "#9179f2",
+        "Toy Story 3": "#7900f2",
+        "Wonder Woman": "#da79f2",
+        "Iron Man 3": "#f200da",
+        "Captain America: Civil War": "#f279c1",
+        "Jumanji: Welcome to the Jungle": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 940
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

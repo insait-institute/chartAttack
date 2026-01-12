@@ -1,0 +1,84 @@
+{
+    "title": "Fertilizer consumption per hectare of arable land",
+    "x_axis": {
+        "categories": [
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "North America",
+            "OECD members"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2002": "#00FA9A",
+        "2003": "#00FF7F",
+        "2004": "#C71585"
+    },
+    "data": {
+        "2002": [
+            87.88421006698229,
+            112.384134508811,
+            101.041581505512,
+            116.961597790393
+        ],
+        "2003": [
+            94.03588718096641,
+            119.040358543108,
+            106.839135018669,
+            122.590504536688
+        ],
+        "2004": [
+            93.6068972481897,
+            124.437808747334,
+            108.126913754559,
+            123.321889190279
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2002": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2003": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2004": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

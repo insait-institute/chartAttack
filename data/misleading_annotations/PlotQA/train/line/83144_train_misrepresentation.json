@@ -1,0 +1,89 @@
+{
+    "title": "Expenditures in secondary public institutions of Austria",
+    "legend": {
+        "All education staff compensation": "#228B22",
+        "Current education expenditure": "#A020F0"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "% of total expenditure in secondary public institutions",
+    "data": [
+        {
+            "label": "All education staff compensation",
+            "color": "#228B22",
+            "values": [
+                77.5908203125,
+                77.29212951660159,
+                77.68446350097659,
+                77.2370529174805,
+                74.8788986206055
+            ]
+        },
+        {
+            "label": "Current education expenditure",
+            "color": "#A020F0",
+            "values": [
+                98.2101516723633,
+                98.11717987060551,
+                98.13543701171879,
+                98.1357269287109,
+                98.0755233764648
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 70,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "All education staff compensation",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Current education expenditure",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

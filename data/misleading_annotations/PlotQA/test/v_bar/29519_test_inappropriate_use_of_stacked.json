@@ -1,0 +1,72 @@
+{
+    "title": "Net bilateral aid flow in an economy from Iceland",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle income": "#f27979",
+        "Other small states": "#f2f200",
+        "Small states": "#79f279",
+        "Sub-Saharan Africa (all income levels)": "#00a5a5",
+        "Sub-Saharan Africa (developing only)": "#5252a5",
+        "Upper middle income": "#a500a5"
+    },
+    "data": {
+        "Middle income": [
+            800000.0
+        ],
+        "Other small states": [
+            800000.0
+        ],
+        "Small states": [
+            800000.0
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            1550000.0
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            1550000.0
+        ],
+        "Upper middle income": [
+            700000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2200000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle income": "#f27979",
+        "Other small states": "#f2f200",
+        "Small states": "#79f279",
+        "Sub-Saharan Africa (all income levels)": "#00a5a5",
+        "Sub-Saharan Africa (developing only)": "#5252a5",
+        "Upper middle income": "#a500a5"
+    }
+}

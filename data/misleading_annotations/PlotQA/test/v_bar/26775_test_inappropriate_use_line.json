@@ -1,0 +1,60 @@
+{
+    "title": "Fixed broadband subscriptions in a country",
+    "x_axis": {
+        "categories": [
+            "Belgium",
+            "Brazil",
+            "Canada"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1998": "#6A5ACD",
+        "1999": "#DAA520",
+        "2000": "#000000"
+    },
+    "data": {
+        "1998": [
+            10924.0,
+            1000.0,
+            140000.0
+        ],
+        "1999": [
+            23000.0,
+            7000.0,
+            582000.0
+        ],
+        "2000": [
+            144215.0,
+            100000.0,
+            1410932.0
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1410940
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Merchandise exports to low and middle-income economies within region",
+    "x_axis": {
+        "categories": [
+            "East Asia (developing only)",
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "Latin America(all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#228B22",
+        "1961": "#20B2AA",
+        "1962": "#FFFF00"
+    },
+    "data": {
+        "1960": [
+            6.821910558348769,
+            8.000769258216161,
+            3.7499708710136,
+            1.17007742395859
+        ],
+        "1961": [
+            10.8042439458978,
+            8.89088500760324,
+            3.84898450074694,
+            1.28163696610475
+        ],
+        "1962": [
+            10.173971432363,
+            6.95064722387107,
+            4.60281895709444,
+            1.30190987123995
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

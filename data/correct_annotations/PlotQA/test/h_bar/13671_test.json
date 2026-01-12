@@ -1,0 +1,82 @@
+{
+    "title": "Split of the expenses made by the government on labor taxes",
+    "legend": {
+        "Hungary": "#0000FF",
+        "Lebanon": "#2E8B57",
+        "Peru": "#00FF7F",
+        "Russian Federation": "#00FF00"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Hungary": [
+            97905000000.0,
+            107750000000.0,
+            115070000000.0,
+            138320000000.0,
+            151674000000.0,
+            143105000000.0
+        ],
+        "Lebanon": [
+            672900000000.0,
+            655520000000.0,
+            837869000000.0,
+            803532000000.0,
+            1135441000000.0,
+            1204677000000.0
+        ],
+        "Peru": [
+            1647000000.0,
+            2758800000.0,
+            3359684466.1,
+            3839448358.01,
+            4364756342.37,
+            4448461479.68
+        ],
+        "Russian Federation": [
+            400716200.0,
+            75000000.0,
+            300000000.0,
+            32600000000.0,
+            300000000.0,
+            -100000000.0
+        ]
+    },
+    "colors": {
+        "Hungary": "#0000FF",
+        "Lebanon": "#2E8B57",
+        "Peru": "#00FF7F",
+        "Russian Federation": "#00FF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1204677000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

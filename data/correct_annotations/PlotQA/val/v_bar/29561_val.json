@@ -1,0 +1,61 @@
+{
+    "title": "Net enrollment of females recorded in primary and secondary education in year 1986",
+    "x_axis": {
+        "categories": [
+            "Primary",
+            "Secondary"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Botswana": "#0000FF",
+        "Burkina Faso": "#FF8C00",
+        "Djibouti": "#FF4500",
+        "Norway": "#EE82EE"
+    },
+    "data": {
+        "Botswana": [
+            87.85257,
+            25.03265
+        ],
+        "Burkina Faso": [
+            17.67217999999999,
+            2.39686
+        ],
+        "Djibouti": [
+            22.43694,
+            7.46001
+        ],
+        "Norway": [
+            96.46242,
+            87.73009
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

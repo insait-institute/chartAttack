@@ -1,0 +1,70 @@
+{
+    "title": "Logistics performance index assessing ease of arranging competitively priced shipments to markets",
+    "legend": {
+        "Austria": "#66CDAA",
+        "Slovenia": "#556B2F"
+    },
+    "categories": [
+        "2007",
+        "2010",
+        "2012",
+        "2014"
+    ],
+    "data": {
+        "Austria": [
+            3.97,
+            3.78,
+            3.71,
+            3.26111
+        ],
+        "Slovenia": [
+            3.14,
+            2.84,
+            3.34,
+            3.049875
+        ]
+    },
+    "colors": {
+        "Austria": "#66CDAA",
+        "Slovenia": "#556B2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Austria": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Slovenia": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

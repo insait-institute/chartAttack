@@ -1,0 +1,82 @@
+{
+    "title": "Net national savings in current US dollars",
+    "legend": {
+        "Dominica": "#A0522D",
+        "Gambia, The": "#CD5C5C",
+        "Jordan": "#6A5ACD",
+        "Turkey": "#20B2AA"
+    },
+    "categories": [
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+    ],
+    "data": {
+        "Dominica": [
+            16025492.3801314,
+            16210860.374664,
+            16864577.5739337,
+            14279173.8805882,
+            16282888.4245795,
+            25205358.9817184
+        ],
+        "Gambia, The": [
+            -4604484.75767495,
+            954375.064476229,
+            25355961.17729989,
+            33962447.7162404,
+            67274546.767076,
+            50354047.5513622
+        ],
+        "Jordan": [
+            737938849.630982,
+            699766303.6232599,
+            210369397.6767851,
+            539307700.7469032,
+            358105651.377389,
+            522146400.5949481
+        ],
+        "Turkey": [
+            4493126948.49679,
+            4462894616.140679,
+            5693677973.29012,
+            7995851329.7578,
+            14626744947.3587,
+            16657974756.3147
+        ]
+    },
+    "colors": {
+        "Dominica": "#A0522D",
+        "Gambia, The": "#CD5C5C",
+        "Jordan": "#6A5ACD",
+        "Turkey": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 16657974760
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Hotels": "#2876dd"
+    },
+    "categories": [
+        "Premier Inn",
+        "Travelodge",
+        "Walt Disney Parks and Resorts",
+        "Holday Inn",
+        "Hilton",
+        "Marriott",
+        "Savoy Hotel",
+        "Butlins",
+        "Ritz",
+        "Best Western"
+    ],
+    "data": {
+        "Hotels": [
+            70,
+            60,
+            56,
+            49,
+            48,
+            46,
+            37,
+            36,
+            34,
+            33
+        ]
+    },
+    "colors": {
+        "Hotels": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

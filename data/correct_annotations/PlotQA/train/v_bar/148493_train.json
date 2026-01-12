@@ -1,0 +1,52 @@
+{
+    "title": "Discrepancy in expenditure estimate of GDP of differenct countries in 2008",
+    "x_axis": {
+        "categories": [
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Belarus"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Discrepancy constant LCU": "#00CED1"
+    },
+    "data": {
+        "Discrepancy constant LCU": [
+            -4120500.0,
+            -61000.0,
+            830000.0,
+            11432000000.0,
+            -1275477392300.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11432000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

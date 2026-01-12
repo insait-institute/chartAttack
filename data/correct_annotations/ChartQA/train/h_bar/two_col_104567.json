@@ -1,0 +1,58 @@
+{
+    "title": "Number of countries in which institution ranked highest",
+    "legend": {
+        "Institution": "#2876dd"
+    },
+    "categories": [
+        "Political parties",
+        "Police",
+        "Judiciary",
+        "Public officials/civil servants",
+        "Parliament/legislature",
+        "Medical and health services",
+        "Media",
+        "Religious bodies",
+        "Business/private sector"
+    ],
+    "data": {
+        "Institution": [
+            51,
+            36,
+            20,
+            7,
+            7,
+            6,
+            4,
+            3,
+            3
+        ]
+    },
+    "colors": {
+        "Institution": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

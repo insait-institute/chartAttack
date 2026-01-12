@@ -1,0 +1,52 @@
+{
+    "title": "Female unemployment in Colombia",
+    "legend": {
+        "Unemployment": "#2E8B57"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Unemployment": [
+            18.3999996185303,
+            15.6999998092651,
+            15.1000003814697,
+            14.6999998092651,
+            14.6000003814697,
+            15.5
+        ]
+    },
+    "colors": {
+        "Unemployment": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

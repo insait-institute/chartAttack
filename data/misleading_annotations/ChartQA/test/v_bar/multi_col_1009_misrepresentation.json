@@ -1,0 +1,110 @@
+{
+    "title": "Market share",
+    "x_axis": {
+        "categories": [
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Market share"
+    },
+    "legend": {
+        "ASML": "#2876dd",
+        "Applied Materials": "#0f283e",
+        "Tokyo Electron": "#bababa",
+        "Lam Research": "#a60b0b",
+        "KLA": "#87bc24",
+        "Others": "#ebb523"
+    },
+    "data": {
+        "ASML": [
+            18,
+            21.6,
+            15.4
+        ],
+        "Applied Materials": [
+            19.2,
+            19.4,
+            16.4
+        ],
+        "Tokyo Electron": [
+            15.6,
+            14.8,
+            12.3
+        ],
+        "Lam Research": [
+            15.4,
+            14.2,
+            10.8
+        ],
+        "KLA": [
+            6.2,
+            6.9,
+            6.2
+        ],
+        "Others": [
+            25.8,
+            23.1,
+            38.8
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "scaling_factors": {
+        "ASML": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Applied Materials": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Tokyo Electron": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Lam Research": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "KLA": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Others": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

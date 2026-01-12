@@ -1,0 +1,55 @@
+{
+    "title": "",
+    "legend": {
+        "Diabetics": "#2876dd"
+    },
+    "categories": [
+        "Western Pacific",
+        "Southeast Asia",
+        "Middle East and North Africa",
+        "Europe",
+        "North America and Caribbean",
+        "South and Central America",
+        "Africa"
+    ],
+    "data": {
+        "Diabetics": [
+            212,
+            153,
+            108,
+            68,
+            63,
+            49,
+            47
+        ]
+    },
+    "colors": {
+        "Diabetics": "#2876dd"
+    },
+    "y_label": "Number of diabetics in millions",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 220
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

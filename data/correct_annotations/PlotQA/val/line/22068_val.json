@@ -1,0 +1,59 @@
+{
+    "title": "Current account balance of Timor-Leste after exporting goods and services",
+    "legend": {
+        "Current account balance": "#FFFF00"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Current account balance (% of GDP)",
+    "data": [
+        {
+            "label": "Current account balance",
+            "color": "#FFFF00",
+            "values": [
+                210.5910756708409,
+                291.317976080692,
+                157.085085819071,
+                178.948549678801,
+                206.155157205624,
+                211.275323397683,
+                181.200589916603
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 150,
+                "max_value": 300
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

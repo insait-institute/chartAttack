@@ -1,0 +1,72 @@
+{
+    "title": "CO2 emissions from different fuel consumption in New Zealand",
+    "legend": {
+        "Gaseous fuel": "#32CD32",
+        "Liquid fuel": "#FF00FF",
+        "Solid fuel": "#90EE90"
+    },
+    "categories": [
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987"
+    ],
+    "data": {
+        "Gaseous fuel": [
+            21.1901889827101,
+            23.3517044294754,
+            29.0193842645382,
+            31.5338042381433,
+            36.0083293288483,
+            32.851711026616
+        ],
+        "Liquid fuel": [
+            54.12143144350621,
+            49.9489691773831,
+            46.4842265298366,
+            47.8304742684157,
+            46.7563671311869,
+            48.1368821292776
+        ],
+        "Solid fuel": [
+            21.9943707277845,
+            24.0457236170647,
+            22.0448498669707,
+            18.4157416750757,
+            15.2490789684447,
+            17.1863117870722
+        ]
+    },
+    "colors": {
+        "Gaseous fuel": "#32CD32",
+        "Liquid fuel": "#FF00FF",
+        "Solid fuel": "#90EE90"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

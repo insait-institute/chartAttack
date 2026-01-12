@@ -1,0 +1,56 @@
+{
+    "title": "Time required to enforce a contract vs starting a business in 2007",
+    "legend": {
+        "Middle income": "#8A2BE2",
+        "Paraguay": "#8B0000",
+        "Tajikistan": "#A020F0"
+    },
+    "categories": [
+        "Enforce a contract",
+        "Start a business"
+    ],
+    "data": {
+        "Middle income": [
+            651.719101123595,
+            47.0955056179775
+        ],
+        "Paraguay": [
+            591,
+            34
+        ],
+        "Tajikistan": [
+            430,
+            66
+        ]
+    },
+    "colors": {
+        "Middle income": "#8A2BE2",
+        "Paraguay": "#8B0000",
+        "Tajikistan": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 660
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Jason Witten": "#f27979",
+        "Michael Irvin": "#f24800",
+        "Tony Hill": "#f2c179",
+        "Drew Pearson": "#f2da00",
+        "Dez Bryant": "#daf279",
+        "Bob Hayes": "#79f200",
+        "Frank Clarke": "#91f279",
+        "Miles Austin": "#00a510",
+        "Doug Cosbie": "#52a574",
+        "Terrell Owens": "#00a574",
+        "Jay Novacek": "#52a5a5",
+        "Billy Joe DuPree": "#0074a5",
+        "Lance Rentzel": "#5274a5",
+        "Tony Dorsett": "#0010a5",
+        "Terrance Williams": "#9179f2",
+        "Terry Glenn": "#7900f2",
+        "Cole Beasley": "#da79f2",
+        "Kelvin Martin": "#f200da",
+        "Amari Cooper": "#f279c1",
+        "Emmitt Smith": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Jason Witten": [
+            12977.0
+        ],
+        "Michael Irvin": [
+            11904.0
+        ],
+        "Tony Hill": [
+            7988.0
+        ],
+        "Drew Pearson": [
+            7822.0
+        ],
+        "Dez Bryant": [
+            7459.0
+        ],
+        "Bob Hayes": [
+            7295.0
+        ],
+        "Frank Clarke": [
+            5214.0
+        ],
+        "Miles Austin": [
+            4481.0
+        ],
+        "Doug Cosbie": [
+            3728.0
+        ],
+        "Terrell Owens": [
+            3587.0
+        ],
+        "Jay Novacek": [
+            3576.0
+        ],
+        "Billy Joe DuPree": [
+            3565.0
+        ],
+        "Lance Rentzel": [
+            3521.0
+        ],
+        "Tony Dorsett": [
+            3432.0
+        ],
+        "Terrance Williams": [
+            3377.0
+        ],
+        "Terry Glenn": [
+            3337.0
+        ],
+        "Cole Beasley": [
+            3271.0
+        ],
+        "Kelvin Martin": [
+            3083.0
+        ],
+        "Amari Cooper": [
+            3028.0
+        ],
+        "Emmitt Smith": [
+            3012.0
+        ]
+    },
+    "colors": {
+        "Jason Witten": "#f27979",
+        "Michael Irvin": "#f24800",
+        "Tony Hill": "#f2c179",
+        "Drew Pearson": "#f2da00",
+        "Dez Bryant": "#daf279",
+        "Bob Hayes": "#79f200",
+        "Frank Clarke": "#91f279",
+        "Miles Austin": "#00a510",
+        "Doug Cosbie": "#52a574",
+        "Terrell Owens": "#00a574",
+        "Jay Novacek": "#52a5a5",
+        "Billy Joe DuPree": "#0074a5",
+        "Lance Rentzel": "#5274a5",
+        "Tony Dorsett": "#0010a5",
+        "Terrance Williams": "#9179f2",
+        "Terry Glenn": "#7900f2",
+        "Cole Beasley": "#da79f2",
+        "Kelvin Martin": "#f200da",
+        "Amari Cooper": "#f279c1",
+        "Emmitt Smith": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12980
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

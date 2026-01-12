@@ -1,0 +1,60 @@
+{
+    "title": "Educated female labor force in different countries in the year 2003",
+    "legend": {
+        "Euro area": "#EE82EE",
+        "Lithuania": "#8A2BE2",
+        "Portugal": "#8B0000"
+    },
+    "categories": [
+        "Primary education",
+        "Secondary education",
+        "Tertiary education"
+    ],
+    "data": {
+        "Euro area": [
+            28.47688975254971,
+            45.58057269566322,
+            24.1385551474937
+        ],
+        "Lithuania": [
+            9.19999980926514,
+            62.2999992370605,
+            28.5
+        ],
+        "Portugal": [
+            62.7999992370605,
+            14.1999998092651,
+            14.1000003814697
+        ]
+    },
+    "colors": {
+        "Euro area": "#EE82EE",
+        "Lithuania": "#8A2BE2",
+        "Portugal": "#8B0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

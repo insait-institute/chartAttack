@@ -1,0 +1,72 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in the Arab World",
+    "legend": {
+        "Arab World": "#FF00FF",
+        "Hong Kong": "#B03060",
+        "St. Lucia": "#0000FF"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Arab World": [
+            8.84693932233241,
+            8.856399268305239,
+            11.34162443976381,
+            10.690683373686,
+            9.487378184616713,
+            9.380270386702321
+        ],
+        "Hong Kong": [
+            1.1105052292416,
+            1.16117650719988,
+            1.27839776095032,
+            1.10384802442614,
+            1.22671171525533,
+            1.43637741134686
+        ],
+        "St. Lucia": [
+            0.000445786834860063,
+            0.000594669358770072,
+            0.000383854288286801,
+            0.0009588334896838607,
+            0.0118355703237015,
+            0.0133552494456667
+        ]
+    },
+    "colors": {
+        "Arab World": "#FF00FF",
+        "Hong Kong": "#B03060",
+        "St. Lucia": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

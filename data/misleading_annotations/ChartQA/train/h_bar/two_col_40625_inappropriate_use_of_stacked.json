@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Norway": "#f27979",
+        "Germany": "#f24800",
+        "United States": "#f2c179",
+        "Finland": "#f2da00",
+        "Denmark": "#daf279",
+        "United Kingdom": "#79f200",
+        "Netherlands": "#91f279",
+        "China": "#00a510",
+        "France": "#52a574",
+        "Belgium": "#00a574",
+        "Poland": "#52a5a5",
+        "Italy": "#0074a5",
+        "Spain": "#5274a5",
+        "Japan": "#0010a5",
+        "Russia": "#9179f2",
+        "Australia": "#7900f2",
+        "Switzerland": "#da79f2",
+        "Austria": "#f200da",
+        "Korea": "#f279c1",
+        "Turkey": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Norway": [
+            162524.0
+        ],
+        "Germany": [
+            159149.0
+        ],
+        "United States": [
+            120872.0
+        ],
+        "Finland": [
+            108865.0
+        ],
+        "Denmark": [
+            105248.0
+        ],
+        "United Kingdom": [
+            81959.0
+        ],
+        "Netherlands": [
+            79623.0
+        ],
+        "China": [
+            71593.0
+        ],
+        "France": [
+            61466.0
+        ],
+        "Belgium": [
+            60830.0
+        ],
+        "Poland": [
+            49306.0
+        ],
+        "Italy": [
+            41598.0
+        ],
+        "Spain": [
+            30280.0
+        ],
+        "Japan": [
+            24973.0
+        ],
+        "Russia": [
+            21903.0
+        ],
+        "Australia": [
+            17641.0
+        ],
+        "Switzerland": [
+            17240.0
+        ],
+        "Austria": [
+            14819.0
+        ],
+        "Korea": [
+            14055.0
+        ],
+        "Turkey": [
+            13142.0
+        ]
+    },
+    "colors": {
+        "Norway": "#f27979",
+        "Germany": "#f24800",
+        "United States": "#f2c179",
+        "Finland": "#f2da00",
+        "Denmark": "#daf279",
+        "United Kingdom": "#79f200",
+        "Netherlands": "#91f279",
+        "China": "#00a510",
+        "France": "#52a574",
+        "Belgium": "#00a574",
+        "Poland": "#52a5a5",
+        "Italy": "#0074a5",
+        "Spain": "#5274a5",
+        "Japan": "#0010a5",
+        "Russia": "#9179f2",
+        "Australia": "#7900f2",
+        "Switzerland": "#da79f2",
+        "Austria": "#f200da",
+        "Korea": "#f279c1",
+        "Turkey": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 162530
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

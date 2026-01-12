@@ -1,0 +1,94 @@
+{
+    "title": "",
+    "legend": {
+        "Total wage income": "#2876dd"
+    },
+    "categories": [
+        "California",
+        "Florida",
+        "Texas",
+        "North Carolina",
+        "New York",
+        "Ohio",
+        "Illinois",
+        "Georgia",
+        "Arizona",
+        "Michigan",
+        "New Jersey",
+        "Virginia",
+        "Massachusetts",
+        "Hawaii",
+        "Washington",
+        "Minnesota",
+        "Wisconsin",
+        "South Carolina",
+        "Oregon",
+        "Pennsylvania",
+        "Indiana",
+        "New Mexico",
+        "Connecticut",
+        "Louisiana",
+        "Iowa",
+        "Kentucky",
+        "Colorado"
+    ],
+    "data": {
+        "Total wage income": [
+            4.8,
+            4.7,
+            2.4,
+            1.7,
+            1.6,
+            1.5,
+            1.5,
+            1.5,
+            1.4,
+            1.4,
+            0.97,
+            0.95,
+            0.86,
+            0.85,
+            0.8,
+            0.78,
+            0.77,
+            0.71,
+            0.7,
+            0.7,
+            0.53,
+            0.43,
+            0.34,
+            0.28,
+            0.23,
+            0.22,
+            0.18
+        ]
+    },
+    "colors": {
+        "Total wage income": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

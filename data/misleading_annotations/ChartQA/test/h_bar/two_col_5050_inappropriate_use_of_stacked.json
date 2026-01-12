@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Deuce McAllister": "#f27979",
+        "Mark Ingram": "#f24800",
+        "George Rogers": "#f2c179",
+        "Dalton Hilliard": "#f2da00",
+        "Pierre Thomas": "#daf279",
+        "Rueben Mayes": "#79f200",
+        "Chuck Muncie": "#91f279",
+        "Alvin Kamara": "#00a510",
+        "Ricky Williams": "#52a574",
+        "Tony Galbreath": "#00a574",
+        "Mario Bates": "#52a5a5",
+        "Wayne Wilson": "#0074a5",
+        "Reggie Bush": "#5274a5",
+        "Archie Manning": "#0010a5",
+        "Mike Strachan": "#9179f2",
+        "Craig Heyward": "#7900f2",
+        "Aaron Brooks": "#da79f2",
+        "Derek Brown": "#f200da",
+        "Hokie Gajan": "#f279c1",
+        "Ray Zellars": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Deuce McAllister": [
+            6096.0
+        ],
+        "Mark Ingram": [
+            6007.0
+        ],
+        "George Rogers": [
+            4267.0
+        ],
+        "Dalton Hilliard": [
+            4164.0
+        ],
+        "Pierre Thomas": [
+            3745.0
+        ],
+        "Rueben Mayes": [
+            3408.0
+        ],
+        "Chuck Muncie": [
+            3393.0
+        ],
+        "Alvin Kamara": [
+            3340.0
+        ],
+        "Ricky Williams": [
+            3129.0
+        ],
+        "Tony Galbreath": [
+            2865.0
+        ],
+        "Mario Bates": [
+            2554.0
+        ],
+        "Wayne Wilson": [
+            2462.0
+        ],
+        "Reggie Bush": [
+            2090.0
+        ],
+        "Archie Manning": [
+            2058.0
+        ],
+        "Mike Strachan": [
+            1902.0
+        ],
+        "Craig Heyward": [
+            1813.0
+        ],
+        "Aaron Brooks": [
+            1410.0
+        ],
+        "Derek Brown": [
+            1383.0
+        ],
+        "Hokie Gajan": [
+            1358.0
+        ],
+        "Ray Zellars": [
+            1351.0
+        ]
+    },
+    "colors": {
+        "Deuce McAllister": "#f27979",
+        "Mark Ingram": "#f24800",
+        "George Rogers": "#f2c179",
+        "Dalton Hilliard": "#f2da00",
+        "Pierre Thomas": "#daf279",
+        "Rueben Mayes": "#79f200",
+        "Chuck Muncie": "#91f279",
+        "Alvin Kamara": "#00a510",
+        "Ricky Williams": "#52a574",
+        "Tony Galbreath": "#00a574",
+        "Mario Bates": "#52a5a5",
+        "Wayne Wilson": "#0074a5",
+        "Reggie Bush": "#5274a5",
+        "Archie Manning": "#0010a5",
+        "Mike Strachan": "#9179f2",
+        "Craig Heyward": "#7900f2",
+        "Aaron Brooks": "#da79f2",
+        "Derek Brown": "#f200da",
+        "Hokie Gajan": "#f279c1",
+        "Ray Zellars": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

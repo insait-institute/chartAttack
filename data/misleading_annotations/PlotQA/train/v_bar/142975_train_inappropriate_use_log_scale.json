@@ -1,0 +1,71 @@
+{
+    "title": "Total imports of goods and services from different countries",
+    "x_axis": {
+        "categories": [
+            "Australia",
+            "Austria",
+            "Bangladesh",
+            "Belgium"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#5F9EA0",
+        "1961": "#FFFF00",
+        "1962": "#6A5ACD",
+        "1963": "#A0522D"
+    },
+    "data": {
+        "1960": [
+            2332000000.0,
+            2897704960.0,
+            1909802100.0,
+            5563581952.0
+        ],
+        "1961": [
+            2636000000.0,
+            3025859072.0,
+            2705552900.0,
+            6117906432.0
+        ],
+        "1962": [
+            2243000000.0,
+            3253688576.0,
+            2636179700.0,
+            6672229376.0
+        ],
+        "1963": [
+            2656000000.0,
+            3616791552.0,
+            2976244200.0,
+            7541857792.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7541857800
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

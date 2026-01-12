@@ -1,0 +1,70 @@
+{
+    "title": "",
+    "legend": {
+        "Foreigners": "#2876dd"
+    },
+    "categories": [
+        "Romania",
+        "Philippines",
+        "Bangladesh",
+        "China",
+        "Ukraine",
+        "India",
+        "Poland",
+        "Albania",
+        "Egypt",
+        "Peru",
+        "Moldova",
+        "Sri Lanka",
+        "Morocco",
+        "Ecuador",
+        "Nigeria"
+    ],
+    "data": {
+        "Foreigners": [
+            166990,
+            40033,
+            32762,
+            20602,
+            18218,
+            16297,
+            16050,
+            14976,
+            14430,
+            13555,
+            10797,
+            10267,
+            8345,
+            7749,
+            6294
+        ]
+    },
+    "colors": {
+        "Foreigners": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 166990
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

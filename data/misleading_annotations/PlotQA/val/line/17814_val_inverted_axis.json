@@ -1,0 +1,73 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in Algeria",
+    "legend": {
+        "Female": "#CD853F",
+        "Male": "#006400"
+    },
+    "x_axis": [
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981",
+        "1982",
+        "1983"
+    ],
+    "y_axis_label": "Gross intake ratio(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#CD853F",
+            "values": [
+                79.24047,
+                77.06836,
+                75.76661999999997,
+                76.21635,
+                74.60769,
+                74.8285,
+                76.09575
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#006400",
+            "values": [
+                100.40408,
+                96.66365,
+                96.48989,
+                95.15704,
+                92.52619,
+                91.47663,
+                91.44075
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 70,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

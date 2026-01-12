@@ -1,0 +1,77 @@
+{
+    "title": "Official DA received by a country",
+    "x_axis": {
+        "categories": [
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#8B4513",
+        "1961": "#BC8F8F",
+        "1962": "#FFD700"
+    },
+    "data": {
+        "1960": [
+            1.78329652187497,
+            2.61687153745862,
+            2.6202441718407
+        ],
+        "1961": [
+            1.58560425409086,
+            3.41410007760524,
+            3.41845780718722
+        ],
+        "1962": [
+            1.837754202323649,
+            3.8082130762759,
+            3.81302279571576
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

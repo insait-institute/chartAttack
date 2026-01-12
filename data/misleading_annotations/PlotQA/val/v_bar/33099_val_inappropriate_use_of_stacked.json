@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of children who received Vitamin A dosage in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Benin": "#f27979",
+        "Djibouti": "#f2f200",
+        "Iraq": "#79f279",
+        "Kyrgyz Republic": "#00a5a5",
+        "Sudan": "#5252a5",
+        "Uzbekistan": "#a500a5"
+    },
+    "data": {
+        "Benin": [
+            60.7
+        ],
+        "Djibouti": [
+            17.9
+        ],
+        "Iraq": [
+            0.84
+        ],
+        "Kyrgyz Republic": [
+            47.0
+        ],
+        "Sudan": [
+            76.4
+        ],
+        "Uzbekistan": [
+            72.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Benin": "#f27979",
+        "Djibouti": "#f2f200",
+        "Iraq": "#79f279",
+        "Kyrgyz Republic": "#00a5a5",
+        "Sudan": "#5252a5",
+        "Uzbekistan": "#a500a5"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Employment to population ratio of the male population between the ages 0 to 14",
+    "legend": {
+        "1995": "#f27979",
+        "1996": "#c1f200",
+        "1997": "#52a574",
+        "1998": "#0042a5",
+        "1999": "#da79f2"
+    },
+    "categories": [
+        "Employment to population ratio of the male population between the ages 0 to 14"
+    ],
+    "data": {
+        "1995": [
+            41.2000007629395
+        ],
+        "1996": [
+            40.9000015258789
+        ],
+        "1997": [
+            40.7000007629395
+        ],
+        "1998": [
+            40.5999984741211
+        ],
+        "1999": [
+            40.4000015258789
+        ]
+    },
+    "colors": {
+        "1995": "#f27979",
+        "1996": "#c1f200",
+        "1997": "#52a574",
+        "1998": "#0042a5",
+        "1999": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Annual rural population growth",
+    "legend": {
+        "2005": "#f27979",
+        "2006": "#c1f200",
+        "2007": "#52a574",
+        "2008": "#0042a5",
+        "2009": "#da79f2"
+    },
+    "categories": [
+        "Annual rural population growth"
+    ],
+    "data": {
+        "2005": [
+            0.700719022332891
+        ],
+        "2006": [
+            0.776489426109322
+        ],
+        "2007": [
+            0.8455843436759379
+        ],
+        "2008": [
+            0.8594969889005741
+        ],
+        "2009": [
+            0.79296002570932
+        ]
+    },
+    "colors": {
+        "2005": "#f27979",
+        "2006": "#c1f200",
+        "2007": "#52a574",
+        "2008": "#0042a5",
+        "2009": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

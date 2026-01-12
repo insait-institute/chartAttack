@@ -1,0 +1,52 @@
+{
+    "title": "Market value in billion GBP",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015*",
+            "2016"
+        ]
+    },
+    "y_axis": {
+        "label": "Market value in billion GBP"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            650,
+            687,
+            788,
+            926,
+            883
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 930
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

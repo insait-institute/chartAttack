@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Graduate": "#f27979",
+        "Post graduate & above": "#f29100",
+        "Certificate": "#daf279",
+        "Diploma": "#30f200",
+        "Higher secondary": "#52a574",
+        "Secondary": "#00a5a5",
+        "Middle": "#5274a5",
+        "Primary": "#2100a5",
+        "Illiterate": "#da79f2",
+        "Below primary": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Graduate": [
+            16.3
+        ],
+        "Post graduate & above": [
+            14.2
+        ],
+        "Certificate": [
+            11.3
+        ],
+        "Diploma": [
+            11.1
+        ],
+        "Higher secondary": [
+            7.4
+        ],
+        "Secondary": [
+            4.2
+        ],
+        "Middle": [
+            3.0
+        ],
+        "Primary": [
+            2.4
+        ],
+        "Illiterate": [
+            2.0
+        ],
+        "Below primary": [
+            1.8
+        ]
+    },
+    "colors": {
+        "Graduate": "#f27979",
+        "Post graduate & above": "#f29100",
+        "Certificate": "#daf279",
+        "Diploma": "#30f200",
+        "Higher secondary": "#52a574",
+        "Secondary": "#00a5a5",
+        "Middle": "#5274a5",
+        "Primary": "#2100a5",
+        "Illiterate": "#da79f2",
+        "Below primary": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

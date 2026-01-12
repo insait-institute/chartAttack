@@ -1,0 +1,68 @@
+{
+    "title": "Net bilateral aid flow in Syrian Arab Republic from different members of DAC",
+    "legend": {
+        "Greece": "#9acd32",
+        "Luxembourg": "#87cd32",
+        "Australia": "#7acf3a",
+        "Finland": "#5fc232"
+    },
+    "categories": [
+        "1996",
+        "1997"
+    ],
+    "data": {
+        "Greece": [
+            90000,
+            340000
+        ],
+        "Luxembourg": [
+            1980000,
+            7340000
+        ],
+        "Australia": [
+            50000,
+            10000
+        ],
+        "Finland": [
+            20000,
+            10000
+        ]
+    },
+    "colors": {
+        "Greece": "#9ACD32",
+        "Luxembourg": "#4B0082",
+        "Australia": "#FF00FF",
+        "Finland": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7340000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Greece": "#9acd32",
+        "Luxembourg": "#87cd32",
+        "Australia": "#7acf3a",
+        "Finland": "#5fc232"
+    }
+}

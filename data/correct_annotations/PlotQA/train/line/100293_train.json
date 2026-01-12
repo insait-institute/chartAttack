@@ -1,0 +1,57 @@
+{
+    "title": "Measure of agricultural productivity of Bulgaria",
+    "legend": {
+        "Agriculture value added per worker": "#FFA07A"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Agriculture value added per worker (constant 2005 US$)",
+    "data": [
+        {
+            "label": "Agriculture value added per worker",
+            "color": "#FFA07A",
+            "values": [
+                9690.21800887096,
+                10963.9194251167,
+                11679.4620860875,
+                12758.3907254805,
+                12485.8722830148,
+                12773.3206976987
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 9690,
+                "max_value": 12780
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

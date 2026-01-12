@@ -1,0 +1,56 @@
+{
+    "title": "Share of expenditures made in secondary public institutions in 2010",
+    "legend": {
+        "Cyprus": "#0000FF",
+        "Malaysia": "#D2691E",
+        "Mexico": "#FF8C00"
+    },
+    "categories": [
+        "All education staff compensation",
+        "Current education expenditure"
+    ],
+    "data": {
+        "Cyprus": [
+            85.76405334472659,
+            92.2985610961914
+        ],
+        "Malaysia": [
+            89.180320739746,
+            99.98706817626949
+        ],
+        "Mexico": [
+            87.8543472290039,
+            97.06146240234379
+        ]
+    },
+    "colors": {
+        "Cyprus": "#0000FF",
+        "Malaysia": "#D2691E",
+        "Mexico": "#FF8C00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

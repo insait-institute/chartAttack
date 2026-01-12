@@ -1,0 +1,52 @@
+{
+    "title": "Share of retail sales",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of retail sales"
+    },
+    "legend": {
+        "2013": "#f27979",
+        "2018*": "#00a5a5"
+    },
+    "data": {
+        "2013": [
+            99.6
+        ],
+        "2018*": [
+            99.3
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2013": "#f27979",
+        "2018*": "#00a5a5"
+    }
+}

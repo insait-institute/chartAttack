@@ -1,0 +1,134 @@
+{
+    "title": "Inhabitants in millions",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021"
+        ]
+    },
+    "y_axis": {
+        "label": "Inhabitants in millions"
+    },
+    "legend": {
+        "0-24 years": "#2876dd",
+        "25-34 years": "#0f283e",
+        "35-44 years": "#bababa",
+        "45-69 years": "#a60b0b",
+        "70-79 years": "#87bc24",
+        "80 years and older": "#ebb523"
+    },
+    "data": {
+        "0-24 years": [
+            1.56,
+            1.58,
+            1.59,
+            1.6,
+            1.6,
+            1.6,
+            1.61,
+            1.6,
+            1.6,
+            1.59,
+            1.58
+        ],
+        "25-34 years": [
+            0.63,
+            0.65,
+            0.67,
+            0.68,
+            0.7,
+            0.71,
+            0.72,
+            0.73,
+            0.74,
+            0.75,
+            0.75
+        ],
+        "35-44 years": [
+            0.73,
+            0.72,
+            0.72,
+            0.72,
+            0.72,
+            0.71,
+            0.71,
+            0.7,
+            0.7,
+            0.7,
+            0.71
+        ],
+        "45-69 years": [
+            1.48,
+            1.51,
+            1.54,
+            1.57,
+            1.59,
+            1.61,
+            1.62,
+            1.63,
+            1.65,
+            1.67,
+            1.67
+        ],
+        "70-79 years": [
+            0.29,
+            0.3,
+            0.31,
+            0.32,
+            0.34,
+            0.36,
+            0.38,
+            0.4,
+            0.42,
+            0.44,
+            0.45
+        ],
+        "80 years and older": [
+            0.29,
+            0.3,
+            0.31,
+            0.32,
+            0.34,
+            0.36,
+            0.38,
+            0.4,
+            0.23,
+            0.23,
+            0.24
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

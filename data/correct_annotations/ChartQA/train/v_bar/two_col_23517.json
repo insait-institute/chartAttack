@@ -1,0 +1,80 @@
+{
+    "title": "Exports in million metric tons",
+    "x_axis": {
+        "categories": [
+            "2000/01",
+            "2001/02",
+            "2002/03",
+            "2003/04",
+            "2004/05",
+            "2005/06",
+            "2006/07",
+            "2007/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19"
+        ]
+    },
+    "y_axis": {
+        "label": "Exports in million metric tons"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            21.89,
+            19.78,
+            11.85,
+            20.43,
+            18.87,
+            21.2,
+            24.42,
+            22.6,
+            22.6,
+            21.75,
+            20.84,
+            21.31,
+            24.67,
+            28.86,
+            27.8,
+            26.29,
+            24.93,
+            27.69,
+            28.39
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

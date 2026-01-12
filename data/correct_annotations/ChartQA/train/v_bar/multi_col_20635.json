@@ -1,0 +1,111 @@
+{
+    "title": "Net sales in billion yen",
+    "x_axis": {
+        "categories": [
+            "FY 2010**",
+            "FY 2011**",
+            "FY 2012",
+            "FY 2013",
+            "FY 2014",
+            "FY 2015",
+            "FY 2016",
+            "FY 2017",
+            "FY 2018",
+            "FY 2019",
+            "FY 2020",
+            "FY 2021"
+        ]
+    },
+    "y_axis": {
+        "label": "Net sales in billion yen"
+    },
+    "legend": {
+        "Merchandising": "#2876dd",
+        "Publication": "#0f283e",
+        "Amusement": "#bababa",
+        "Digital entertainment": "#a60b0b"
+    },
+    "data": {
+        "Merchandising": [
+            5.5,
+            3,
+            2.8,
+            3.26,
+            3.79,
+            4,
+            4.55,
+            6.45,
+            7.57,
+            7.4,
+            8.74,
+            9.4
+        ],
+        "Publication": [
+            14.4,
+            13,
+            11.3,
+            11.1,
+            10.23,
+            11.55,
+            9.97,
+            10.04,
+            11.05,
+            14.03,
+            19.45,
+            26.8
+        ],
+        "Amusement": [
+            52.3,
+            45,
+            41.9,
+            44.28,
+            46.95,
+            40.72,
+            41.14,
+            42.76,
+            41.75,
+            46.24,
+            45.67,
+            34.3
+        ],
+        "Digital entertainment": [
+            120.1,
+            64.2,
+            71.9,
+            89.48,
+            94.57,
+            111.93,
+            158.96,
+            199.02,
+            191.47,
+            204.59,
+            188.69,
+            263.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 270
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

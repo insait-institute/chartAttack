@@ -1,0 +1,82 @@
+{
+    "title": "Emissions caused as the side-product of greenhouse gases",
+    "x_axis": {
+        "categories": [
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#b03060",
+        "2000": "#b03051",
+        "2005": "#b83244",
+        "2008": "#a63032"
+    },
+    "data": {
+        "1990": [
+            1036.9,
+            9563.6,
+            1720.7,
+            2590.8,
+            252.9
+        ],
+        "2000": [
+            144.8,
+            13550.7,
+            997.4,
+            1833.4,
+            156.1
+        ],
+        "2005": [
+            151.7,
+            15539.7,
+            1020.5,
+            2464.0,
+            86.0
+        ],
+        "2008": [
+            358.5,
+            20406.9,
+            1146.0,
+            2828.5,
+            101.7
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20410
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1990": "#b03060",
+        "2000": "#b03051",
+        "2005": "#b83244",
+        "2008": "#a63032"
+    }
+}

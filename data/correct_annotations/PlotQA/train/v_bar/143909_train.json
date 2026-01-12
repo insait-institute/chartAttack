@@ -1,0 +1,76 @@
+{
+    "title": "Balance of Payments of ICT services as percentage of service exports",
+    "x_axis": {
+        "categories": [
+            "Colombia",
+            "Congo (Democratic)",
+            "Costa Rica",
+            "Czech Republic",
+            "Egypt, Arab Rep."
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#40E0D0",
+        "2006": "#BEBEBE",
+        "2007": "#191970",
+        "2008": "#FF7F50"
+    },
+    "data": {
+        "2005": [
+            16.8074667369634,
+            17.8904428904429,
+            13.3181963115448,
+            24.4221821421457,
+            13.2189638452187
+        ],
+        "2006": [
+            19.328705395144,
+            28.6209286209286,
+            19.25467148772989,
+            25.8591126163154,
+            11.6799405001704
+        ],
+        "2007": [
+            16.4777404914611,
+            34.1997961264016,
+            17.1714359524884,
+            27.526731125342,
+            10.2384748839215
+        ],
+        "2008": [
+            18.0136300051858,
+            26.370441922241,
+            19.5465678510396,
+            27.768926467345,
+            14.5239825143807
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

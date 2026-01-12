@@ -1,0 +1,63 @@
+{
+    "title": "Fixed broadband subscriptions (per 100 people) in Serbia",
+    "legend": {
+        "Fixed broadband subscriptions (per 100 people)": "#556B2F"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Total subscribers (per 100 people)",
+    "data": [
+        {
+            "label": "Fixed broadband subscriptions (per 100 people)",
+            "color": "#556B2F",
+            "values": [
+                1.49260026988369,
+                4.02639300428894,
+                5.69546555078076,
+                7.4119356830538,
+                10.866501281334,
+                12.4134366039211,
+                13.7131502674122,
+                15.2328080187388,
+                15.5666212332322
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

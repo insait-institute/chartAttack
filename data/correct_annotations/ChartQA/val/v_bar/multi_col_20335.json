@@ -1,0 +1,64 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "18-34",
+            "35-44",
+            "45-64",
+            "65+"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "Avid sports fan": "#2876dd",
+        "Casual fan": "#0f283e",
+        "Not a fan at all": "#bababa"
+    },
+    "data": {
+        "Avid sports fan": [
+            28,
+            32,
+            23,
+            17
+        ],
+        "Casual fan": [
+            45,
+            45,
+            48,
+            50
+        ],
+        "Not a fan at all": [
+            27,
+            22,
+            30,
+            33
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

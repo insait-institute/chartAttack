@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of women justifying marital abuse for various reasons in the survey of 2007",
+    "x_axis": {
+        "categories": [
+            "Argument",
+            "Burnt food",
+            "Permission",
+            "Negligence towards children"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Guyana": "#F0E68C",
+        "Namibia": "#00FF7F",
+        "Ukraine": "#FF7F50",
+        "Zambia": "#2F4F4F"
+    },
+    "data": {
+        "Guyana": [
+            9.6,
+            6.8,
+            9.7,
+            16.6
+        ],
+        "Namibia": [
+            15.5,
+            12.4,
+            18.9,
+            25.9
+        ],
+        "Ukraine": [
+            0.9,
+            0.1,
+            0.4,
+            3.1
+        ],
+        "Zambia": [
+            43.1,
+            32.9,
+            42.3,
+            42.6
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

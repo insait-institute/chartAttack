@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of rural population having access to electricity",
+    "legend": {
+        "1990": "#6A5ACD",
+        "2000": "#FFFF00",
+        "2010": "#E9967A"
+    },
+    "categories": [
+        "Luxembourg",
+        "Macao",
+        "Macedonia"
+    ],
+    "data": {
+        "1990": [
+            100.0,
+            64.642336,
+            89.36012
+        ],
+        "2000": [
+            100.0,
+            68.0,
+            93.28065
+        ],
+        "2010": [
+            100.0,
+            70.032376,
+            98.0
+        ]
+    },
+    "colors": {
+        "1990": "#6A5ACD",
+        "2000": "#FFFF00",
+        "2010": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

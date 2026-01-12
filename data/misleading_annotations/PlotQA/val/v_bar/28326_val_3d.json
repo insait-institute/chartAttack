@@ -1,0 +1,64 @@
+{
+    "title": "Mineral rent of different countries at the time of the survey in 1985",
+    "x_axis": {
+        "categories": [
+            "Coal",
+            "Natural Gas",
+            "Oil",
+            "Other Minerals"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Central Europe": "#E9967A",
+        "Greece": "#FF8C00",
+        "New Zealand": "#4169E1"
+    },
+    "data": {
+        "Central Europe": [
+            0.118560692793942,
+            0.00935030937811136,
+            0.185573232093602,
+            0.487366322042346
+        ],
+        "Greece": [
+            0.0395772416658675,
+            0.0142154159380395,
+            0.422646033234884,
+            0.107569577648921
+        ],
+        "New Zealand": [
+            0.0217345523340812,
+            1.30813299519486,
+            0.842208209662317,
+            0.139213754670054
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

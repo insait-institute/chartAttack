@@ -1,0 +1,132 @@
+{
+    "title": "Amount of CO2 emissions from various sources in India",
+    "legend": {
+        "Gaseous fuel": "#FF8C00",
+        "Liquid fuel": "#BA55D3",
+        "Solid fuel": "#7FFFD4"
+    },
+    "x_axis": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Emissions(kt)",
+    "data": [
+        {
+            "label": "Gaseous fuel",
+            "color": "#FF8C00",
+            "values": [
+                814297.687,
+                864931.623,
+                920046.633,
+                1002224.103,
+                1043939.895,
+                1071911.771,
+                1144390.026,
+                1186663.202
+            ]
+        },
+        {
+            "label": "Liquid fuel",
+            "color": "#BA55D3",
+            "values": [
+                187031.668,
+                199118.1,
+                216459.343,
+                243360.455,
+                244401.883,
+                263107.25,
+                285483.284,
+                303752.278
+            ]
+        },
+        {
+            "label": "Solid fuel",
+            "color": "#7FFFD4",
+            "values": [
+                569712.454,
+                604306.932,
+                630294.961,
+                677965.9609999999,
+                710004.54,
+                715464.703,
+                768665.5390000001,
+                788507.676
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 187030,
+                "max_value": 1186670
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Gaseous fuel",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Liquid fuel",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Solid fuel",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

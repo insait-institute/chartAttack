@@ -1,0 +1,62 @@
+{
+    "title": "Merchandise exports to low and middle-income economies outside region",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Least developed countries": "#f27979",
+        "Low & middle income": "#79f200",
+        "Lower middle income": "#52a5a5",
+        "Middle East & North Africa (all income levels)": "#5200a5"
+    },
+    "data": {
+        "Least developed countries": [
+            8.49376924862757
+        ],
+        "Low & middle income": [
+            5.41666109208358
+        ],
+        "Lower middle income": [
+            9.48212309676506
+        ],
+        "Middle East & North Africa (all income levels)": [
+            8.2315603406717
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Least developed countries": "#f27979",
+        "Low & middle income": "#79f200",
+        "Lower middle income": "#52a5a5",
+        "Middle East & North Africa (all income levels)": "#5200a5"
+    }
+}

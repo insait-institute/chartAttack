@@ -1,0 +1,57 @@
+{
+    "title": "Net official aid flow in an economy from WFP",
+    "legend": {
+        "1987": "#f27979",
+        "1989": "#79f200",
+        "1990": "#52a5a5",
+        "1991": "#5200a5"
+    },
+    "categories": [
+        "Net official aid flow in an economy from WFP"
+    ],
+    "data": {
+        "1987": [
+            530000.0
+        ],
+        "1989": [
+            20000.0
+        ],
+        "1990": [
+            1040000.0
+        ],
+        "1991": [
+            70000.0
+        ]
+    },
+    "colors": {
+        "1987": "#f27979",
+        "1989": "#79f200",
+        "1990": "#52a5a5",
+        "1991": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10630000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

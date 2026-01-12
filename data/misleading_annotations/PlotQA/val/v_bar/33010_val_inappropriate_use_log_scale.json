@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of students enrolled in private institutions in different countries",
+    "x_axis": {
+        "categories": [
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belgium",
+            "Belize"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Enrollments": "#FFA500"
+    },
+    "data": {
+        "Enrollments": [
+            27.55204963684081,
+            16.5182304382324,
+            95.8242874145508,
+            5.140250205993652,
+            68.3345184326172,
+            70.9513397216797
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Orderbook TEUs",
+    "categories": [
+        "Mediterranean Shipping",
+        "Evergreen Line",
+        "CMA CGM Group",
+        "Hapag-Lloyd",
+        "COSCO Group",
+        "ONE",
+        "Wan Hai Lines",
+        "Zim",
+        "Yang Ming Marine",
+        "Zhonggu Logistics Corp.",
+        "SITC",
+        "X-Press Feeders Group",
+        "Maersk",
+        "TS Lines",
+        "Sinokor Merchant"
+    ],
+    "data": {
+        "Orderbook TEUs": [
+            796644,
+            726077,
+            531085,
+            283200,
+            276000,
+            266644,
+            224898,
+            150000,
+            112872,
+            73740,
+            70658,
+            56000,
+            46306,
+            41000,
+            25440
+        ]
+    },
+    "colors": {
+        "Orderbook TEUs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 796650
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Orderbook TEUs": "#2876dd"
+    }
+}

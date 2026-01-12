@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Company": "#2876dd"
+    },
+    "categories": [
+        "Norilsk Nickel",
+        "Vale",
+        "BHP Billiton",
+        "PT Antam",
+        "Xstrata",
+        "Eramet",
+        "Jinchuan",
+        "Anglo American",
+        "Nickel Asia",
+        "Votorantim"
+    ],
+    "data": {
+        "Company": [
+            16.7,
+            14.4,
+            8.6,
+            7.6,
+            4.9,
+            4.8,
+            3.7,
+            3.3,
+            3,
+            2.5
+        ]
+    },
+    "colors": {
+        "Company": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

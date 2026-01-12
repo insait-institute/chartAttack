@@ -1,0 +1,57 @@
+{
+    "title": "Enrollment rate recorded in primary and secondary education in year 1996",
+    "x_axis": {
+        "categories": [
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Least developed countries",
+            "Low & middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary": "#20B2AA",
+        "Secondary": "#191970"
+    },
+    "data": {
+        "Primary": [
+            90.9477005004883,
+            90.7030868530273,
+            55.5423583984375,
+            78.8787384033203
+        ],
+        "Secondary": [
+            56.4308662414551,
+            20.4783420562744,
+            16.1400489807129,
+            55.3838577270508
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

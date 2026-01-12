@@ -1,0 +1,53 @@
+{
+    "title": "Number of students",
+    "x_axis": {
+        "categories": [
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of students"
+    },
+    "legend": {
+        "2016/17": "#2876dd",
+        "2017/18": "#2876dd",
+        "2018/19": "#2876dd",
+        "2019/20*": "#2876dd"
+    },
+    "data": {
+        "Students": [
+            537689,
+            522059,
+            519462,
+            509473
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 537690
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Value added in manufacturing (in %) by textiles and clothing",
+    "x_axis": {
+        "categories": [
+            "Costa Rica",
+            "Cyprus",
+            "Kenya",
+            "Singapore"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1963": "#006400",
+        "1964": "#4682B4",
+        "1965": "#191970",
+        "1966": "#40E0D0"
+    },
+    "data": {
+        "1963": [
+            13.0847230929605,
+            21.5234414144483,
+            6.47662305981431,
+            1.57716331778415
+        ],
+        "1964": [
+            12.634319325957,
+            21.0304092749967,
+            5.98749196878549,
+            3.29781134310804
+        ],
+        "1965": [
+            13.4720590674643,
+            20.5317130192917,
+            6.01137260833735,
+            3.58928520389784
+        ],
+        "1966": [
+            13.173790428226,
+            19.7756201470735,
+            7.558015431969169,
+            3.24156351135603
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

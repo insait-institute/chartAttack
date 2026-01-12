@@ -1,0 +1,77 @@
+{
+    "title": "Production volume in million cubic meters",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Production volume in million cubic meters"
+    },
+    "legend": {
+        "2011": "#f27979",
+        "2012": "#f2cf00",
+        "2013": "#9bf279",
+        "2014": "#00a55e",
+        "2015": "#5282a5",
+        "2017": "#2f00a5",
+        "2018": "#f279e0"
+    },
+    "data": {
+        "2011": [
+            1.15
+        ],
+        "2012": [
+            1.22
+        ],
+        "2013": [
+            1.83
+        ],
+        "2014": [
+            2.45
+        ],
+        "2015": [
+            2.94
+        ],
+        "2017": [
+            2.25
+        ],
+        "2018": [
+            1.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2011": "#f27979",
+        "2012": "#f2cf00",
+        "2013": "#9bf279",
+        "2014": "#00a55e",
+        "2015": "#5282a5",
+        "2017": "#2f00a5",
+        "2018": "#f279e0"
+    }
+}

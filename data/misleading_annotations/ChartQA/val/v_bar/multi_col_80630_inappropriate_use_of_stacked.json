@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of e-reader owners",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of e-reader owners"
+    },
+    "legend": {
+        "18-29": "#f27979",
+        "30-49": "#79f200",
+        "50-64": "#52a5a5",
+        "65 and older": "#5200a5"
+    },
+    "data": {
+        "18-29": [
+            6.0
+        ],
+        "30-49": [
+            5.0
+        ],
+        "50-64": [
+            9.0
+        ],
+        "65 and older": [
+            4.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "18-29": "#f27979",
+        "30-49": "#79f200",
+        "50-64": "#52a5a5",
+        "65 and older": "#5200a5"
+    }
+}

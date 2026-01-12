@@ -1,0 +1,56 @@
+{
+    "title": "Refugee population in 2012",
+    "x_axis": {
+        "categories": [
+            "By country of asylum",
+            "By country of origin"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Fiji": "#2F4F4F",
+        "France": "#BEBEBE",
+        "Guinea": "#00FA9A"
+    },
+    "data": {
+        "Fiji": [
+            6,
+            1317
+        ],
+        "France": [
+            217865,
+            100
+        ],
+        "Guinea": [
+            10371,
+            14061
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 217870
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

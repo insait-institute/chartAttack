@@ -1,0 +1,71 @@
+{
+    "title": "Balance of Payments of travel services as percentage of service exports",
+    "x_axis": {
+        "categories": [
+            "Kenya",
+            "Korea (Republic)",
+            "Kosovo",
+            "Kuwait"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#BC8F8F",
+        "2006": "#BEBEBE",
+        "2007": "#A52A2A",
+        "2008": "#FFA07A"
+    },
+    "data": {
+        "2005": [
+            30.7599325695766,
+            11.4440482315303,
+            32.9100187757843,
+            3.46435231683362
+        ],
+        "2006": [
+            28.21317503106561,
+            10.0072536596024,
+            35.0323917267725,
+            2.42419295573795
+        ],
+        "2007": [
+            31.18418190682189,
+            8.53629772297472,
+            31.36323216887111,
+            2.19369571948552
+        ],
+        "2008": [
+            23.05953144315431,
+            10.6757338232605,
+            32.3076396616387,
+            2.15244672879312
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

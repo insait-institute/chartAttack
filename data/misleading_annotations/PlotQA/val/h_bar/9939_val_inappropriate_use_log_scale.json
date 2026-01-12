@@ -1,0 +1,71 @@
+{
+    "title": "Total Amount earned from trade of goods and services",
+    "legend": {
+        "1960": "#DC143C",
+        "1961": "#32CD32",
+        "1962": "#F4A460"
+    },
+    "categories": [
+        "Greece",
+        "Guatemala",
+        "Honduras",
+        "Iceland",
+        "India",
+        "Indonesia"
+    ],
+    "data": {
+        "1960": [
+            2854963468.96978,
+            1815230926.80646,
+            852946018.377753,
+            662873121.805407,
+            7481120475.307091,
+            2626272118.58592
+        ],
+        "1961": [
+            3217692273.89231,
+            1680077672.75122,
+            871078965.561595,
+            602883671.3397889,
+            6751269760.955071,
+            3540345417.460279
+        ],
+        "1962": [
+            3543131747.92642,
+            1810835803.63341,
+            954537018.2005359,
+            725104646.01893,
+            7015191436.13518,
+            3472121642.45538
+        ]
+    },
+    "colors": {
+        "1960": "#DC143C",
+        "1961": "#32CD32",
+        "1962": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7481120480
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

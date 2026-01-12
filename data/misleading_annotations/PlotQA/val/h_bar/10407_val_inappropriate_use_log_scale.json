@@ -1,0 +1,63 @@
+{
+    "title": "CPIA ratings of different policies in the year 2008",
+    "legend": {
+        "Chad": "#00FA9A",
+        "Guinea": "#2F4F4F",
+        "Rwanda": "#E9967A"
+    },
+    "categories": [
+        "Gender equality",
+        "Social Protection",
+        "Quality of public administration",
+        "Public sector management"
+    ],
+    "data": {
+        "Chad": [
+            2.5,
+            2.5,
+            2.5,
+            2.2
+        ],
+        "Guinea": [
+            3.5,
+            3.0,
+            3.0,
+            2.6
+        ],
+        "Rwanda": [
+            3.5,
+            3.5,
+            3.5,
+            3.5
+        ]
+    },
+    "colors": {
+        "Chad": "#00FA9A",
+        "Guinea": "#2F4F4F",
+        "Rwanda": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

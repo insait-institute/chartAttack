@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Audience in millions": "#2876dd"
+    },
+    "categories": [
+        "India",
+        "United States",
+        "Brazil",
+        "Indonesia",
+        "Russia",
+        "Turkey",
+        "Japan",
+        "Mexico",
+        "United Kingdom",
+        "Germany",
+        "Italy",
+        "France",
+        "Spain",
+        "Argentina",
+        "South Korea",
+        "Philippines",
+        "Thailand",
+        "Colombia",
+        "Canada",
+        "Egypt"
+    ],
+    "data": {
+        "Audience in millions": [
+            150,
+            140,
+            100,
+            86,
+            57,
+            47,
+            45,
+            34,
+            34,
+            30,
+            28,
+            26,
+            24,
+            21,
+            17,
+            17,
+            17,
+            16,
+            15,
+            15
+        ]
+    },
+    "colors": {
+        "Audience in millions": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 150
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

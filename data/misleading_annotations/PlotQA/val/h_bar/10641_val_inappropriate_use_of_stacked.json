@@ -1,0 +1,57 @@
+{
+    "title": "Broad money growth rate",
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#79f200",
+        "2011": "#52a5a5",
+        "2012": "#5200a5"
+    },
+    "categories": [
+        "Broad money growth rate"
+    ],
+    "data": {
+        "2009": [
+            9.88594854042114
+        ],
+        "2010": [
+            5.97887647571808
+        ],
+        "2011": [
+            5.4758619616047
+        ],
+        "2012": [
+            4.8064654842376
+        ]
+    },
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#79f200",
+        "2011": "#52a5a5",
+        "2012": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

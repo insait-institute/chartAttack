@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Jonny Wilkinson",
+        "Owen Farrell",
+        "Jonathan Webb",
+        "Rob Andrew",
+        "Paul Grayson",
+        "Rory Underwood",
+        "George Ford",
+        "Will Greenwood",
+        "Dan Luger",
+        "Josh Lewsey",
+        "Chris Ashton",
+        "Manu Tuilagi",
+        "Neil Back",
+        "Jason Robinson",
+        "Jon Callard",
+        "Toby Flood",
+        "Mark Cueto",
+        "Jonny May",
+        "Anthony Watson",
+        "Jack Nowell"
+    ],
+    "data": {
+        "Players": [
+            277,
+            101,
+            99,
+            85,
+            84,
+            49,
+            42,
+            35,
+            30,
+            30,
+            30,
+            25,
+            25,
+            25,
+            21,
+            21,
+            20,
+            20,
+            20,
+            20
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

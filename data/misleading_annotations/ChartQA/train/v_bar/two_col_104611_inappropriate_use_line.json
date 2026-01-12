@@ -1,0 +1,60 @@
+{
+    "title": "Annual turnover in million euros",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018*"
+        ]
+    },
+    "y_axis": {
+        "label": "Annual turnover in million euros"
+    },
+    "legend": {
+        "Company": "#2876dd"
+    },
+    "data": {
+        "Company": [
+            40069.4,
+            44858.2,
+            49272.5,
+            55375.9,
+            58915.2,
+            58079.7,
+            60365.9,
+            60070,
+            77380.1
+        ]
+    },
+    "type": "line",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 77390
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

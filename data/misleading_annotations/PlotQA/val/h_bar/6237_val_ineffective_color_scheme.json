@@ -1,0 +1,66 @@
+{
+    "title": "Prevalence of obesity among children of different countries with age under 5 years",
+    "legend": {
+        "Female": "#ff00ff",
+        "Male": "#ff00c2"
+    },
+    "categories": [
+        "Egypt, Arab Rep.",
+        "El Salvador",
+        "Ghana",
+        "Togo",
+        "Tunisia",
+        "Uganda"
+    ],
+    "data": {
+        "Female": [
+            6.099999904632571,
+            2.20000004768372,
+            0.699999988079071,
+            2.5,
+            4.19999980926514,
+            3.70000004768372
+        ],
+        "Male": [
+            7.400000095367429,
+            3.79999995231628,
+            1.0,
+            3.90000009536743,
+            4.40000009536743,
+            3.59999990463257
+        ]
+    },
+    "colors": {
+        "Female": "#FF00FF",
+        "Male": "#4B0082"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Female": "#ff00ff",
+        "Male": "#ff00c2"
+    }
+}

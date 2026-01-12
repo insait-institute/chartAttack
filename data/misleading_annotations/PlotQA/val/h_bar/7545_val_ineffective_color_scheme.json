@@ -1,0 +1,66 @@
+{
+    "title": "Percentage of female workers employed in Agricultural sector",
+    "legend": {
+        "1980": "#adff2f",
+        "1981": "#7bff2f"
+    },
+    "categories": [
+        "Israel",
+        "Italy",
+        "Norway",
+        "Portugal",
+        "Romania",
+        "Spain"
+    ],
+    "data": {
+        "1980": [
+            4.099999904632569,
+            16.0,
+            6.099999904632571,
+            35.0999984741211,
+            39.2999992370605,
+            18.3999996185303
+        ],
+        "1981": [
+            3.40000009536743,
+            14.6999998092651,
+            5.900000095367429,
+            34.2000007629395,
+            38.5,
+            17.7000007629395
+        ]
+    },
+    "colors": {
+        "1980": "#ADFF2F",
+        "1981": "#DB7093"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1980": "#adff2f",
+        "1981": "#7bff2f"
+    }
+}

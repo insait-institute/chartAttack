@@ -1,0 +1,87 @@
+{
+    "title": "Percentage of the male workers employed in different sectors of an economy in 2012",
+    "x_axis": {
+        "categories": [
+            "Europe(all income levels)",
+            "Europe(developing only)",
+            "European Union",
+            "High income",
+            "High income: nonOECD",
+            "High income: OECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agriculture": "#808000",
+        "Industry": "#718000",
+        "Services": "#698a00",
+        "Self-employed": "#4b7501"
+    },
+    "data": {
+        "Agriculture": [
+            9.0444184692888,
+            20.7465518369332,
+            5.39452871081627,
+            5.149330757497331,
+            6.96960221279248,
+            4.565848511300072
+        ],
+        "Industry": [
+            34.9029530097749,
+            32.0335302523577,
+            35.2745033358759,
+            34.3351946680838,
+            35.0915867955159,
+            34.0785360237307
+        ],
+        "Services": [
+            55.6188018244447,
+            47.2145016972665,
+            58.6702329787726,
+            59.9712673319103,
+            58.091644938481,
+            60.6090599766208
+        ],
+        "Self-employed": [
+            20.2548285411657,
+            31.5818966099406,
+            20.2076275656379,
+            15.4040612813998,
+            16.6089778137494,
+            15.116564552507
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Agriculture": "#808000",
+        "Industry": "#718000",
+        "Services": "#698a00",
+        "Self-employed": "#4b7501"
+    }
+}

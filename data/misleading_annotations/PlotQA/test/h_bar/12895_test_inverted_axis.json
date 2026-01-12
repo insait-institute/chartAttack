@@ -1,0 +1,77 @@
+{
+    "title": "Long term external debts owed by residents of a country",
+    "legend": {
+        "1970": "#FF8C00",
+        "1971": "#BEBEBE",
+        "1972": "#FF1493",
+        "1973": "#00CED1"
+    },
+    "categories": [
+        "Jamaica",
+        "Jordan",
+        "Kenya",
+        "Lao PDR",
+        "Lebanon"
+    ],
+    "data": {
+        "1970": [
+            9736000.0,
+            11800000.0,
+            49345000.0,
+            4424000.0,
+            9726000.0
+        ],
+        "1971": [
+            30432000.0,
+            21845000.0,
+            31166000.0,
+            6124000.0,
+            1265000.0
+        ],
+        "1972": [
+            39404000.0,
+            27967000.0,
+            87229000.0,
+            2892000.0,
+            -6839000.0
+        ],
+        "1973": [
+            152994000.0,
+            30089000.0,
+            185779000.0,
+            10947000.0,
+            -8521000.0
+        ]
+    },
+    "colors": {
+        "1970": "#FF8C00",
+        "1971": "#BEBEBE",
+        "1972": "#FF1493",
+        "1973": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 185779000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

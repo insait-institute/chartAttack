@@ -1,0 +1,67 @@
+{
+    "title": "Net bilateral aid flow in an economy from Luxembourg",
+    "legend": {
+        "Brazil": "#f27979",
+        "Burkina Faso": "#f2f200",
+        "Cabo Verde": "#79f279",
+        "Chile": "#00a5a5",
+        "Congo (Democratic)": "#5252a5",
+        "El Salvador": "#a500a5"
+    },
+    "categories": [
+        "Net bilateral aid flow in an economy from Luxembourg"
+    ],
+    "data": {
+        "Brazil": [
+            270000.0
+        ],
+        "Burkina Faso": [
+            350000.0
+        ],
+        "Cabo Verde": [
+            470000.0
+        ],
+        "Chile": [
+            740000.0
+        ],
+        "Congo (Democratic)": [
+            320000.0
+        ],
+        "El Salvador": [
+            30000.0
+        ]
+    },
+    "colors": {
+        "Brazil": "#f27979",
+        "Burkina Faso": "#f2f200",
+        "Cabo Verde": "#79f279",
+        "Chile": "#00a5a5",
+        "Congo (Democratic)": "#5252a5",
+        "El Salvador": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1990000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

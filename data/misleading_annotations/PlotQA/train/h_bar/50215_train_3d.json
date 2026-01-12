@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the total labor force of different age groups participating in production in Timor-Leste",
+    "legend": {
+        "Ages 15-20": "#40E0D0",
+        "Ages 20-60": "#0000FF",
+        "Ages 60+": "#E9967A"
+    },
+    "categories": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "data": {
+        "Ages 15-20": [
+            50.9000015258789,
+            49.7000007629395,
+            48.0999984741211,
+            46.5,
+            46.2999992370605,
+            44.2000007629395
+        ],
+        "Ages 20-60": [
+            60.5999984741211,
+            60.0999984741211,
+            59.5999984741211,
+            59.0,
+            58.9000015258789,
+            57.9000015258789
+        ],
+        "Ages 60+": [
+            61.5,
+            61.0999984741211,
+            60.5,
+            59.9000015258789,
+            59.9000015258789,
+            59.0
+        ]
+    },
+    "colors": {
+        "Ages 15-20": "#40E0D0",
+        "Ages 20-60": "#0000FF",
+        "Ages 60+": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

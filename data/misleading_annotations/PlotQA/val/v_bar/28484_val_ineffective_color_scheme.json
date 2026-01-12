@@ -1,0 +1,87 @@
+{
+    "title": "Total electricity produced from coal sources",
+    "x_axis": {
+        "categories": [
+            "Australia",
+            "Austria",
+            "Belgium",
+            "Canada",
+            "Denmark",
+            "Finland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00bfff",
+        "1961": "#00a0ff",
+        "1962": "#0a87ff",
+        "1963": "#0260f2"
+    },
+    "data": {
+        "1960": [
+            74.4230500256422,
+            13.8647843543582,
+            85.3550686378036,
+            3.37771415759792,
+            71.6245487364621,
+            22.46368390470661
+        ],
+        "1961": [
+            72.9985254575418,
+            17.3759742669801,
+            83.2678270634475,
+            4.05394856672015,
+            69.8645598194131,
+            11.3276026743075
+        ],
+        "1962": [
+            75.5753798525398,
+            16.6647358665431,
+            83.55656882302651,
+            7.098920622150708,
+            72.3004694835681,
+            6.77513774104683
+        ],
+        "1963": [
+            71.8578835901556,
+            17.7020895187945,
+            79.23134169678929,
+            10.9168762100629,
+            68.1605351170569,
+            10.2832980972516
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#00bfff",
+        "1961": "#00a0ff",
+        "1962": "#0a87ff",
+        "1963": "#0260f2"
+    }
+}

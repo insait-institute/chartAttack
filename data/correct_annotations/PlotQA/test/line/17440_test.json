@@ -1,0 +1,73 @@
+{
+    "title": "Net enrollment rate in primary schools of Malta",
+    "legend": {
+        "Female": "#A020F0",
+        "Male": "#FF7F50"
+    },
+    "x_axis": [
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1982",
+        "1983"
+    ],
+    "y_axis_label": "Enrollment rate (%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#A020F0",
+            "values": [
+                83.22421,
+                83.77756,
+                86.04157,
+                88.71155999999998,
+                93.29048,
+                98.15531,
+                92.77155
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#FF7F50",
+            "values": [
+                84.52368,
+                84.20085999999998,
+                85.61098,
+                89.08864,
+                95.00278,
+                98.13394,
+                96.03611
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 80,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

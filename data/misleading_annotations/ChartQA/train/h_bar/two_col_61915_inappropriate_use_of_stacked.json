@@ -1,0 +1,92 @@
+{
+    "title": "Deal value in billion U.S. dollar",
+    "legend": {
+        "Goldman Sachs": "#f27979",
+        "Barclays": "#f28400",
+        "Credit Suisse": "#e7f279",
+        "Evercore Partners": "#58f200",
+        "Centerview Partners": "#52a561",
+        "Qatalyst Group": "#00a578",
+        "Lazard": "#528fa5",
+        "Rothschild": "#001ea5",
+        "Morgan Stanley": "#a579f2",
+        "Deutsche Bank": "#dc00f2",
+        "VTB Capital": "#f279bb"
+    },
+    "categories": [
+        "Deal value in billion U.S. dollar"
+    ],
+    "data": {
+        "Goldman Sachs": [
+            68.94
+        ],
+        "Barclays": [
+            56.34
+        ],
+        "Credit Suisse": [
+            55.4
+        ],
+        "Evercore Partners": [
+            49.33
+        ],
+        "Centerview Partners": [
+            45.87
+        ],
+        "Qatalyst Group": [
+            45.87
+        ],
+        "Lazard": [
+            19.18
+        ],
+        "Rothschild": [
+            18.76
+        ],
+        "Morgan Stanley": [
+            15.93
+        ],
+        "Deutsche Bank": [
+            14.33
+        ],
+        "VTB Capital": [
+            6.33
+        ]
+    },
+    "colors": {
+        "Goldman Sachs": "#f27979",
+        "Barclays": "#f28400",
+        "Credit Suisse": "#e7f279",
+        "Evercore Partners": "#58f200",
+        "Centerview Partners": "#52a561",
+        "Qatalyst Group": "#00a578",
+        "Lazard": "#528fa5",
+        "Rothschild": "#001ea5",
+        "Morgan Stanley": "#a579f2",
+        "Deutsche Bank": "#dc00f2",
+        "VTB Capital": "#f279bb"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

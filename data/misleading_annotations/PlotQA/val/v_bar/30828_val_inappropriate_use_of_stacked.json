@@ -1,0 +1,72 @@
+{
+    "title": "Annual rural population growth",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Oman": "#f27979",
+        "Pakistan": "#f2f200",
+        "Palau": "#79f279",
+        "Panama": "#00a5a5",
+        "Papua New Guinea": "#5252a5",
+        "Paraguay": "#a500a5"
+    },
+    "data": {
+        "Oman": [
+            1.10482944901523
+        ],
+        "Pakistan": [
+            1.65786926568011
+        ],
+        "Palau": [
+            2.18667604799624
+        ],
+        "Panama": [
+            1.9926672705613
+        ],
+        "Papua New Guinea": [
+            1.36573753272598
+        ],
+        "Paraguay": [
+            2.44858093966364
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Oman": "#f27979",
+        "Pakistan": "#f2f200",
+        "Palau": "#79f279",
+        "Panama": "#00a5a5",
+        "Papua New Guinea": "#5252a5",
+        "Paraguay": "#a500a5"
+    }
+}

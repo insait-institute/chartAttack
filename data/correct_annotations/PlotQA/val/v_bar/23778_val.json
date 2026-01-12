@@ -1,0 +1,57 @@
+{
+    "title": "Mobile cellular and fixed telephone subscriptions recorded in 1990",
+    "x_axis": {
+        "categories": [
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Low & middle income",
+            "Lower middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Mobile cellular": "#BDB76B",
+        "Fixed telephone": "#A52A2A"
+    },
+    "data": {
+        "Mobile cellular": [
+            125486,
+            69852,
+            306575,
+            26303
+        ],
+        "Fixed telephone": [
+            27617509,
+            20430465,
+            77645466,
+            22834470
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 77645470
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

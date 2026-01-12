@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of external PPG debt contracted in Euros for the low-income countries",
+    "x_axis": {
+        "categories": [
+            "Turkey",
+            "Turkmenistan",
+            "Uganda",
+            "Ukraine"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2001": "#8FBC8F",
+        "2002": "#8B0000",
+        "2003": "#D2691E"
+    },
+    "data": {
+        "2001": [
+            25.333,
+            19.7399,
+            1.7851,
+            22.6145
+        ],
+        "2002": [
+            25.1623,
+            21.717,
+            2.1846,
+            23.1787
+        ],
+        "2003": [
+            25.5166,
+            29.193,
+            3.2624,
+            21.7423
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

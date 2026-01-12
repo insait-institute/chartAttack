@@ -1,0 +1,72 @@
+{
+    "title": "Female Population as percentage of total population",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Maldives": "#f27979",
+        "Mali": "#f2f200",
+        "Malta": "#79f279",
+        "Mauritania": "#00a5a5",
+        "Mauritius": "#5252a5",
+        "Mexico": "#a500a5"
+    },
+    "data": {
+        "Maldives": [
+            45.5510431154381
+        ],
+        "Mali": [
+            49.4491928727347
+        ],
+        "Malta": [
+            51.61579088711839
+        ],
+        "Mauritania": [
+            50.4678560192037
+        ],
+        "Mauritius": [
+            50.1376467183719
+        ],
+        "Mexico": [
+            50.1820710233118
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Maldives": "#f27979",
+        "Mali": "#f2f200",
+        "Malta": "#79f279",
+        "Mauritania": "#00a5a5",
+        "Mauritius": "#5252a5",
+        "Mexico": "#a500a5"
+    }
+}

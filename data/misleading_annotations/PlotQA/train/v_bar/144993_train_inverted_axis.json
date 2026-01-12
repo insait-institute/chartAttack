@@ -1,0 +1,81 @@
+{
+    "title": "Net balance on the financial account after subtracting the balances on the current accounts",
+    "x_axis": {
+        "categories": [
+            "Tunisia",
+            "Turkey",
+            "Ukraine",
+            "United Kingdom",
+            "United States",
+            "Uruguay"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#ADFF2F",
+        "2006": "#008080",
+        "2007": "#87CEEB",
+        "2008": "#0000FF"
+    },
+    "data": {
+        "2005": [
+            -27053413.15,
+            1964000000.0,
+            104000000.0,
+            -306603843.0,
+            31614000000.0,
+            -174073752.6
+        ],
+        "2006": [
+            -37189384.12,
+            -227000000.0,
+            76000000.0,
+            1407328608.0,
+            -629000000.0,
+            -151510142.2
+        ],
+        "2007": [
+            -36913951.99,
+            515000000.0,
+            -480000000.0,
+            8981136226.0,
+            101008000000.0,
+            -279297148.9
+        ],
+        "2008": [
+            112730543.7,
+            2733000000.0,
+            526000000.0,
+            19806457139.0,
+            -45797000000.0,
+            863872091.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 101008000000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,112 @@
+{
+    "title": "",
+    "legend": {
+        "Indonesia": "#f27979",
+        "Australia": "#f26000",
+        "Russia": "#f2da79",
+        "United States": "#c1f200",
+        "Colombia": "#a9f279",
+        "South Africa": "#00f200",
+        "Canada": "#52a574",
+        "Netherlands": "#00a584",
+        "Kazakhstan": "#5295a5",
+        "Mongolia": "#0042a5",
+        "North Korea": "#5252a5",
+        "Poland": "#4200a5",
+        "Vietnam": "#da79f2",
+        "Ukraine": "#f200c1",
+        "Philippines": "#f279a9"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Indonesia": [
+            449943.0
+        ],
+        "Australia": [
+            387252.0
+        ],
+        "Russia": [
+            171415.0
+        ],
+        "United States": [
+            97257.0
+        ],
+        "Colombia": [
+            96035.0
+        ],
+        "South Africa": [
+            86054.0
+        ],
+        "Canada": [
+            37992.0
+        ],
+        "Netherlands": [
+            34454.0
+        ],
+        "Kazakhstan": [
+            32951.0
+        ],
+        "Mongolia": [
+            20734.0
+        ],
+        "North Korea": [
+            17244.0
+        ],
+        "Poland": [
+            10074.0
+        ],
+        "Vietnam": [
+            7971.0
+        ],
+        "Ukraine": [
+            7886.0
+        ],
+        "Philippines": [
+            5765.0
+        ]
+    },
+    "colors": {
+        "Indonesia": "#f27979",
+        "Australia": "#f26000",
+        "Russia": "#f2da79",
+        "United States": "#c1f200",
+        "Colombia": "#a9f279",
+        "South Africa": "#00f200",
+        "Canada": "#52a574",
+        "Netherlands": "#00a584",
+        "Kazakhstan": "#5295a5",
+        "Mongolia": "#0042a5",
+        "North Korea": "#5252a5",
+        "Poland": "#4200a5",
+        "Vietnam": "#da79f2",
+        "Ukraine": "#f200c1",
+        "Philippines": "#f279a9"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 449950
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

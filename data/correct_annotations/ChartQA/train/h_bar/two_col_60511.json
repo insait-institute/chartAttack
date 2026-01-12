@@ -1,0 +1,70 @@
+{
+    "title": "Market value in million euros",
+    "legend": {
+        "Market Value": "#2876dd"
+    },
+    "categories": [
+        "Yasir Al-Shahrani",
+        "Mohammed Al-Burayk",
+        "Motaz Hawsawi",
+        "Salman Al-Faraj",
+        "Hussein Al-Moghawi",
+        "Fahad Al-Muwallad",
+        "Abdullah Ateef",
+        "Muhannad Asiri",
+        "Mohammed Al-Owais",
+        "Yasser Al-Mosailem",
+        "Hattan Bahbir",
+        "Yahia Al-Shehri",
+        "Salem Al-Dawsari",
+        "Taisir Al-Jassim",
+        "Omar Hawsawi"
+    ],
+    "data": {
+        "Market Value": [
+            1.5,
+            1.3,
+            1.2,
+            1.1,
+            1,
+            1,
+            0.98,
+            0.95,
+            0.95,
+            0.9,
+            0.9,
+            0.8,
+            0.8,
+            0.75,
+            0.75
+        ]
+    },
+    "colors": {
+        "Market Value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

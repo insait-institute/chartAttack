@@ -1,0 +1,56 @@
+{
+    "title": "PPP conversion factor for GDP and private consumption in 2003",
+    "x_axis": {
+        "categories": [
+            "GDP",
+            " Private consumption"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Gabon": "#0000FF",
+        "Germany": "#EE82EE",
+        "Mozambique": "#FF0000"
+    },
+    "data": {
+        "Gabon": [
+            200.464541541068,
+            369.655746906623
+        ],
+        "Germany": [
+            0.91619,
+            0.923513
+        ],
+        "Mozambique": [
+            11.9643560653226,
+            9.062204383272695
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 370
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

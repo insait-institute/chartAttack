@@ -1,0 +1,56 @@
+{
+    "title": "Net disbursements of loans in 2006",
+    "x_axis": {
+        "categories": [
+            "From Government",
+            "From World Bank"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Belarus": "#BDB76B",
+        "Bolivia": "#4B0082",
+        "Jordan": "#7FFFD4"
+    },
+    "data": {
+        "Belarus": [
+            19268000,
+            -16019000
+        ],
+        "Bolivia": [
+            57160000,
+            7563000
+        ],
+        "Jordan": [
+            -90675000,
+            25837000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 57160000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

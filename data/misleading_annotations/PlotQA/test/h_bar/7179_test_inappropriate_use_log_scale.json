@@ -1,0 +1,58 @@
+{
+    "title": "Percentage of female workers employed in Industrial sector",
+    "legend": {
+        "1980": "#8A2BE2",
+        "1981": "#DC143C"
+    },
+    "categories": [
+        "Norway",
+        "Portugal",
+        "Romania",
+        "Spain",
+        "Sweden"
+    ],
+    "data": {
+        "1980": [
+            13.3000001907349,
+            25.2999992370605,
+            33.9000015258789,
+            21.2999992370605,
+            16.2000007629395
+        ],
+        "1981": [
+            12.6999998092651,
+            24.7999992370605,
+            34.4000015258789,
+            20.0,
+            15.3000001907349
+        ]
+    },
+    "colors": {
+        "1980": "#8A2BE2",
+        "1981": "#DC143C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

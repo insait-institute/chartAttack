@@ -1,0 +1,67 @@
+{
+    "title": "Net disbursements of loans in 1977",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Costa Rica": "#f27979",
+        "Cote d'Ivoire": "#c1f200",
+        "Dominican Republic": "#52a574",
+        "Ecuador": "#0042a5",
+        "Egypt, Arab Rep.": "#da79f2"
+    },
+    "data": {
+        "Costa Rica": [
+            24080000.0
+        ],
+        "Cote d'Ivoire": [
+            102603000.0
+        ],
+        "Dominican Republic": [
+            34797000.0
+        ],
+        "Ecuador": [
+            27805000.0
+        ],
+        "Egypt, Arab Rep.": [
+            553559000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1348752000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Costa Rica": "#f27979",
+        "Cote d'Ivoire": "#c1f200",
+        "Dominican Republic": "#52a574",
+        "Ecuador": "#0042a5",
+        "Egypt, Arab Rep.": "#da79f2"
+    }
+}

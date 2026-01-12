@@ -1,0 +1,60 @@
+{
+    "title": "Urban population of a country",
+    "legend": {
+        "1960": "#EE82EE",
+        "1961": "#708090",
+        "1962": "#87CEEB"
+    },
+    "categories": [
+        "United States",
+        "Uruguay",
+        "Uzbekistan"
+    ],
+    "data": {
+        "1960": [
+            126462473.0,
+            2037039.0,
+            2986494.0
+        ],
+        "1961": [
+            129276215.0,
+            2069234.0,
+            3096714.0
+        ],
+        "1962": [
+            131988693.0,
+            2100842.0,
+            3215231.0
+        ]
+    },
+    "colors": {
+        "1960": "#EE82EE",
+        "1961": "#708090",
+        "1962": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 131988700
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

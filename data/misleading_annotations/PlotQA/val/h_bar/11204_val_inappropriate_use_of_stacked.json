@@ -1,0 +1,57 @@
+{
+    "title": "Number of infant deaths",
+    "legend": {
+        "1988": "#f27979",
+        "1989": "#79f200",
+        "1990": "#52a5a5",
+        "1991": "#5200a5"
+    },
+    "categories": [
+        "Number of infant deaths"
+    ],
+    "data": {
+        "1988": [
+            75.0
+        ],
+        "1989": [
+            69.0
+        ],
+        "1990": [
+            64.0
+        ],
+        "1991": [
+            60.0
+        ]
+    },
+    "colors": {
+        "1988": "#f27979",
+        "1989": "#79f200",
+        "1990": "#52a5a5",
+        "1991": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9740
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Population in the largent city of the country",
+    "legend": {
+        "1971": "#f27979",
+        "1972": "#00f200",
+        "1973": "#5252a5"
+    },
+    "categories": [
+        "Population in the largent city of the country"
+    ],
+    "data": {
+        "1971": [
+            17.5776289331635
+        ],
+        "1972": [
+            17.6965131144681
+        ],
+        "1973": [
+            17.8010316467797
+        ]
+    },
+    "colors": {
+        "1971": "#f27979",
+        "1972": "#00f200",
+        "1973": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

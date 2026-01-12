@@ -1,0 +1,71 @@
+{
+    "title": "Value added by the agricultural sector to the total GDP of an economy",
+    "x_axis": {
+        "categories": [
+            "East Asia (all income levels)",
+            "East Asia (developing only)",
+            "South Asia",
+            "Algeria"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#40E0D0",
+        "1961": "#5F9EA0",
+        "1962": "#6A5ACD",
+        "1963": "#556B2F"
+    },
+    "data": {
+        "1960": [
+            124165479048.94,
+            63737589770.2032,
+            59017887671.6451,
+            1915337938.96467
+        ],
+        "1961": [
+            128302662488.912,
+            64935008197.0978,
+            59319511001.9128,
+            1608400031.2242
+        ],
+        "1962": [
+            131996735014.555,
+            67795083837.5144,
+            58930780388.6717,
+            1290199402.13055
+        ],
+        "1963": [
+            143186088041.63,
+            73602193592.5009,
+            60123767443.4032,
+            1388070316.21442
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 143186088050
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

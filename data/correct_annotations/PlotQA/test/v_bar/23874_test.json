@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of the male workers employed in different sectors of an economy in 1990",
+    "x_axis": {
+        "categories": [
+            "Agriculture",
+            "Industry",
+            "Services",
+            "Self-employed"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bolivia": "#228B22",
+        "Haiti": "#2E8B57"
+    },
+    "data": {
+        "Bolivia": [
+            1.89999997615814,
+            34.5999984741211,
+            63.2000007629395,
+            37.2999992370605
+        ],
+        "Haiti": [
+            76.099998474121,
+            8.5,
+            13.1000003814697,
+            81.1999969482422
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

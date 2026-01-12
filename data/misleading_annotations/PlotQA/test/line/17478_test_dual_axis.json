@@ -1,0 +1,90 @@
+{
+    "title": "Proportion of the population (ages 15-24) that is economically active in High income: OECD",
+    "legend": {
+        "Females": "#008B8B",
+        "Males": "#B8860B"
+    },
+    "x_axis": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "y_axis_label": "% of total population",
+    "data": [
+        {
+            "label": "Females",
+            "color": "#008B8B",
+            "values": [
+                53.3343971539882,
+                52.7825423118989,
+                51.387840789002,
+                50.5430384819705,
+                50.30769452750871,
+                49.76919395458421,
+                49.3127326011769,
+                49.0927911532772,
+                49.3621190707024
+            ]
+        },
+        {
+            "label": "Males",
+            "color": "#B8860B",
+            "values": [
+                58.75757106251,
+                58.0664767464788,
+                56.9517438650952,
+                56.2573100447491,
+                55.846228606016,
+                55.1886513531586,
+                54.6391795572546,
+                54.2663953096279,
+                54.3793540370113
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 49.0927911532772,
+                "max_value": 53.3343971539882
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 54.2663953096279,
+                "max_value": 58.75757106251
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

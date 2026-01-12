@@ -1,0 +1,81 @@
+{
+    "title": "Net official aid flow in an economy from UNHCR",
+    "x_axis": {
+        "categories": [
+            "Heavily indebted poor countries",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Least developed countries",
+            "Low & middle income",
+            "Low income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1969": "#D2691E",
+        "1970": "#00FF7F",
+        "1971": "#008080",
+        "1972": "#00FF00"
+    },
+    "data": {
+        "1969": [
+            5170000.0,
+            310000.0,
+            310000.0,
+            5220000.0,
+            7560000.0,
+            3920000.0
+        ],
+        "1970": [
+            4700000.0,
+            320000.0,
+            320000.0,
+            4800000.0,
+            7670000.0,
+            3280000.0
+        ],
+        "1971": [
+            4850000.0,
+            270000.0,
+            250000.0,
+            4910000.0,
+            8700000.0,
+            3820000.0
+        ],
+        "1972": [
+            18850000.0,
+            330000.0,
+            330000.0,
+            18930000.0,
+            22110000.0,
+            4760000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 22110000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

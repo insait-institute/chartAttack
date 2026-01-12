@@ -1,0 +1,210 @@
+{
+    "title": "",
+    "legend": {
+        "Android": "#2876dd",
+        "iOS": "#0f283e",
+        "Blackberry": "#bababa",
+        "Windows": "#a60b0b",
+        "Other": "#87bc24"
+    },
+    "x_axis": [
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+    ],
+    "y_axis_label": "Market share",
+    "data": [
+        {
+            "label": "Android",
+            "color": "#2876dd",
+            "values": [
+                52.8,
+                61.6,
+                57.3,
+                52.3,
+                60.1,
+                61.8,
+                61.0,
+                63.5,
+                58.8,
+                55.1
+            ]
+        },
+        {
+            "label": "iOS",
+            "color": "#0f283e",
+            "values": [
+                33.9,
+                31.1,
+                33.1,
+                38.4,
+                35.3,
+                36.8,
+                37.1,
+                36.4,
+                41.4,
+                44.6
+            ]
+        },
+        {
+            "label": "Blackberry",
+            "color": "#bababa",
+            "values": [
+                0.8,
+                0.5,
+                1.0,
+                1.6,
+                0.3,
+                0.3,
+                0.8,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "label": "Windows",
+            "color": "#a60b0b",
+            "values": [
+                3.3,
+                4.1,
+                6.9,
+                7.3,
+                3.7,
+                0.7,
+                0.9,
+                0.1,
+                0.1,
+                0.1
+            ]
+        },
+        {
+            "label": "Other",
+            "color": "#87bc24",
+            "values": [
+                9.2,
+                2.7,
+                1.7,
+                0.4,
+                0.6,
+                0.3,
+                0.2,
+                0.0,
+                0.0,
+                0.1
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": [
+        {
+            "label": "Android",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "iOS",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "Blackberry",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "Windows",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "Other",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25
+            ]
+        }
+    ]
+}

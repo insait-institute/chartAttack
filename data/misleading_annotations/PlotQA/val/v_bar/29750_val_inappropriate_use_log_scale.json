@@ -1,0 +1,81 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1961",
+    "x_axis": {
+        "categories": [
+            "Brazil",
+            "Burkina Faso",
+            "Chad",
+            "Chile",
+            "China",
+            "Congo (Republic)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Industry": "#00BFFF",
+        "Manufacturing": "#DB7093",
+        "Services": "#F0E68C",
+        "Agriculture": "#008B8B"
+    },
+    "data": {
+        "Industry": [
+            5577261388.21488,
+            69680027.3955589,
+            32653058.7203714,
+            1605353495.06231,
+            15797325259.1429,
+            27317940.24267811
+        ],
+        "Manufacturing": [
+            4193057035.9607,
+            37217132.0963543,
+            21990595.5528426,
+            1038758143.86385,
+            14708694976.4352,
+            15095996093.565
+        ],
+        "Services": [
+            15105196.668697,
+            5178179205.8387,
+            134767628.658392,
+            162476135.484737,
+            2388860433.21125,
+            15842007845.3734
+        ],
+        "Agriculture": [
+            2604792800.57867,
+            134169237.403435,
+            129374709.911082,
+            472162792.6653849,
+            17917717078.4467,
+            31081090.4407712
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17917717080
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

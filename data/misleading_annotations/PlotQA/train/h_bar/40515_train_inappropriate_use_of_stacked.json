@@ -1,0 +1,57 @@
+{
+    "title": "Split of the expenses of government of different countries in 1993",
+    "legend": {
+        "Miscellaneous expenses": "#f27979",
+        "Labor Taxes": "#79f200",
+        "Grants and Revenue": "#52a5a5",
+        "Services": "#5200a5"
+    },
+    "categories": [
+        "Split of the expenses of government of different countries in 1993"
+    ],
+    "data": {
+        "Miscellaneous expenses": [
+            10308000000.0
+        ],
+        "Labor Taxes": [
+            560000000.0
+        ],
+        "Grants and Revenue": [
+            24616000000.0
+        ],
+        "Services": [
+            9818000000.0
+        ]
+    },
+    "colors": {
+        "Miscellaneous expenses": "#f27979",
+        "Labor Taxes": "#79f200",
+        "Grants and Revenue": "#52a5a5",
+        "Services": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 24616000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

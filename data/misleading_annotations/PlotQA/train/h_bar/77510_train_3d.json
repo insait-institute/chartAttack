@@ -1,0 +1,50 @@
+{
+    "title": "Electric power transmission and distribution losses in East Asia (all income levels)",
+    "legend": {
+        "Electric power transmission and distribution losses": "#4682B4"
+    },
+    "categories": [
+        "1964",
+        "1965",
+        "1966",
+        "1967",
+        "1968"
+    ],
+    "data": {
+        "Electric power transmission and distribution losses": [
+            9.34592626308603,
+            9.16216502489143,
+            8.67487145868192,
+            7.9690015146061,
+            7.80001349271087
+        ]
+    },
+    "colors": {
+        "Electric power transmission and distribution losses": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Expenditure on health care via public funds",
+    "x_axis": {
+        "categories": [
+            "Europe(developing only)",
+            "European Union",
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: nonOECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#40E0D0",
+        "1996": "#8B008B",
+        "1997": "#C71585"
+    },
+    "data": {
+        "1995": [
+            3.10127565612329,
+            6.746807703969459,
+            1.68531383505881,
+            5.93182176545176,
+            3.45115898545769
+        ],
+        "1996": [
+            3.19336977902831,
+            6.779797188062839,
+            1.71376243855803,
+            5.961301573668012,
+            3.31591912907992
+        ],
+        "1997": [
+            3.41215827447896,
+            6.57631924888664,
+            1.65844495975188,
+            5.84204878792055,
+            3.56549308369684
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

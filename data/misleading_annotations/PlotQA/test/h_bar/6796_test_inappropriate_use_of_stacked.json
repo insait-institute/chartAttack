@@ -1,0 +1,57 @@
+{
+    "title": "Claims on the different sectors of the domestic economy of different countries",
+    "legend": {
+        "Canada": "#f27979",
+        "Central African Republic": "#79f200",
+        "Chad": "#52a5a5",
+        "Chile": "#5200a5"
+    },
+    "categories": [
+        "Claims on the different sectors of the domestic economy of different countries"
+    ],
+    "data": {
+        "Canada": [
+            11.0876794814484
+        ],
+        "Central African Republic": [
+            10.471395496931
+        ],
+        "Chad": [
+            -2.28445275215995
+        ],
+        "Chile": [
+            1.20306870586575
+        ]
+    },
+    "colors": {
+        "Canada": "#f27979",
+        "Central African Republic": "#79f200",
+        "Chad": "#52a5a5",
+        "Chile": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

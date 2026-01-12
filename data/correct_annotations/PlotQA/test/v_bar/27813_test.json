@@ -1,0 +1,56 @@
+{
+    "title": "Balance of payments as percentage of commercial service exports in 2005",
+    "x_axis": {
+        "categories": [
+            "Transport services",
+            "Travel services"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Armenia": "#00BFFF",
+        "Sierra Leone": "#FF4500",
+        "Tajikistan": "#F0E68C"
+    },
+    "data": {
+        "Armenia": [
+            22.13188303807869,
+            52.80115307773561
+        ],
+        "Sierra Leone": [
+            14.8613102792082,
+            81.939724436547
+        ],
+        "Tajikistan": [
+            54.79275090584471,
+            1.52178018687367
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

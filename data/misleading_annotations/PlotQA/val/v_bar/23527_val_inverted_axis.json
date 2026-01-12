@@ -1,0 +1,60 @@
+{
+    "title": "Amount earned/paid by the government for trading goods in 2003",
+    "x_axis": {
+        "categories": [
+            "Botswana",
+            "Brazil",
+            "Brunei Darussalam",
+            "Bulgaria",
+            "Burkina Faso"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Exports": "#2E8B57",
+        "Imports": "#DAA520"
+    },
+    "data": {
+        "Exports": [
+            4140992789.51591,
+            108289968539.515,
+            6822103238.79716,
+            9352949221.80986,
+            411084109.81567
+        ],
+        "Imports": [
+            2531518585.57832,
+            3160362601.52522,
+            89045541651.8727,
+            2437340849.81355,
+            11832249928.9792
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 108289968540
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Amount of goods and services exported by countries",
+    "x_axis": {
+        "categories": [
+            "Brazil",
+            "Bulgaria",
+            "Cabo Verde",
+            "Canada",
+            "Chile",
+            "Colombia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#2F4F4F",
+        "2006": "#00CED1",
+        "2007": "#FF7F50"
+    },
+    "data": {
+        "2005": [
+            118029000000.0,
+            11790949973.0,
+            77139149.06,
+            370465000000.0,
+            41266117619.0,
+            21708371927.0
+        ],
+        "2006": [
+            137808000000.0,
+            15154046460.0,
+            85824822.72,
+            398504000000.0,
+            58678306187.0,
+            25165469607.0
+        ],
+        "2007": [
+            160649000000.0,
+            19533494152.0,
+            69677530.02,
+            430472000000.0,
+            67971011581.0,
+            30555912438.0
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 430472000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

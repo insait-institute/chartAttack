@@ -1,0 +1,60 @@
+{
+    "title": "Revenue in million Russian rubles",
+    "categories": [
+        "Cruella",
+        "A Quiet Place Part II",
+        "F9",
+        "Conjuring: A Devil Made Me Do It",
+        "Luca",
+        "Hitman's Wife's Bodyguard",
+        "Peter Rabbit 2",
+        "Spirit Untammed",
+        "Misfits",
+        "Bajkal. Udivitelnye priklyucheniya Yumi"
+    ],
+    "data": {
+        "Revenue": [
+            553.1,
+            404.08,
+            213.67,
+            198.7,
+            155.8,
+            124.08,
+            91.95,
+            41.09,
+            38.24,
+            31.55
+        ]
+    },
+    "colors": {
+        "Revenue": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 560
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Revenue": "#2876dd"
+    }
+}

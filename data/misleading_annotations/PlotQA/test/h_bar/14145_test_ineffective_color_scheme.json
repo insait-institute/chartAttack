@@ -1,0 +1,78 @@
+{
+    "title": "Industrial nitrous oxide emissions in energy sector",
+    "legend": {
+        "1990": "#228b22",
+        "2000": "#228b2f",
+        "2005": "#24933f",
+        "2008": "#228144"
+    },
+    "categories": [
+        "Hungary",
+        "India",
+        "Indonesia",
+        "Iran"
+    ],
+    "data": {
+        "1990": [
+            3178.6,
+            1146.7,
+            139.5,
+            337.6
+        ],
+        "2000": [
+            1805.4,
+            1643.3,
+            175.8,
+            499.4
+        ],
+        "2005": [
+            1802.0,
+            1761.9,
+            219.6,
+            619.4
+        ],
+        "2008": [
+            6.0,
+            1659.8,
+            243.3,
+            916.2
+        ]
+    },
+    "colors": {
+        "1990": "#228B22",
+        "2000": "#6495ED",
+        "2005": "#B8860B",
+        "2008": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3180
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1990": "#228b22",
+        "2000": "#228b2f",
+        "2005": "#24933f",
+        "2008": "#228144"
+    }
+}

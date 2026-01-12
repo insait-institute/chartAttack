@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "categories": [
+        "Securitas AB",
+        "Norsk Sykepleierforbund",
+        "H & M Hennes & Mauritz AB",
+        "Nokia Oyj",
+        "Ericsson, Telefoni AB LM",
+        "Volvo AB",
+        "Medtronic Norge AS",
+        "KONE Oyj",
+        "Cbre AS",
+        "Assa Abloy AB",
+        "Electrolux AB",
+        "Scania CV AB",
+        "Scania AB",
+        "Essity AB",
+        "SKF AB",
+        "Volvo Car AB",
+        "Sandvik AB",
+        "Atlas Copco AB",
+        "Norsk Hydro ASA",
+        "Skanska AB"
+    ],
+    "data": {
+        "Company": [
+            302055,
+            151046,
+            126376,
+            101731,
+            94503,
+            93731,
+            90000,
+            53417,
+            51050,
+            48992,
+            48652,
+            47489,
+            47489,
+            45980,
+            41559,
+            41517,
+            41120,
+            37805,
+            36487,
+            34756
+        ]
+    },
+    "colors": {
+        "Company": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 302060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Company": "#2876dd"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "CO2 emissions from other sectors excluding residential buildings",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "France": "#f27979",
+        "Germany": "#f2f200",
+        "Greece": "#79f279",
+        "Iceland": "#00a5a5",
+        "Ireland": "#5252a5",
+        "Italy": "#a500a5"
+    },
+    "data": {
+        "France": [
+            0.9172551427694219
+        ],
+        "Germany": [
+            5.80794212888443
+        ],
+        "Greece": [
+            0.9602194787379952
+        ],
+        "Iceland": [
+            33.6206896551724
+        ],
+        "Ireland": [
+            0.694444444444443
+        ],
+        "Italy": [
+            3.91140912323478
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "France": "#f27979",
+        "Germany": "#f2f200",
+        "Greece": "#79f279",
+        "Iceland": "#00a5a5",
+        "Ireland": "#5252a5",
+        "Italy": "#a500a5"
+    }
+}

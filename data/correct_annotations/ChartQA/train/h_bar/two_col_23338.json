@@ -1,0 +1,75 @@
+{
+    "title": "",
+    "y_label": "Policyholder surplus in million U.S. dollars",
+    "categories": [
+        "National Indemnity Co.",
+        "General Re Group",
+        "Everest Reins. Co.",
+        "Transatlantic Reinsurance",
+        "Munich Re America Corp.",
+        "Swiss Reins. America Corp.",
+        "Odyssey Reins. Group",
+        "XL Reins. America",
+        "Endurance Reins. Corp. of America",
+        "SCOR U.S. Group/SCOR re",
+        "Partner Reins. Co.",
+        "Axis Reins. Co.",
+        "Renaissance Reinsurance U.S. Inc.",
+        "American Agricultural Ins. Co.",
+        "The Toa Reins. Co. of America",
+        "Sirius America Insurance Co.",
+        "EMC Reins. Co."
+    ],
+    "data": {
+        "Surplus": [
+            187617.23,
+            12180.63,
+            5276,
+            4813.45,
+            4422.48,
+            3973.36,
+            3666.49,
+            2869.15,
+            2045,
+            1240.07,
+            1169.46,
+            900.45,
+            722.72,
+            639.25,
+            581.08,
+            559.63,
+            237.2
+        ]
+    },
+    "colors": {
+        "Surplus": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 187620
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Surplus": "#2876dd"
+    }
+}

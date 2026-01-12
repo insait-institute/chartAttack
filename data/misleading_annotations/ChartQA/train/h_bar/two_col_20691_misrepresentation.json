@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Home Runs": "#2876dd"
+    },
+    "categories": [
+        "Juan Gonzalez",
+        "Rafael Palmeiro",
+        "Frank Howard",
+        "Ivan Rodriguez",
+        "Adrian Beltre",
+        "Ruben Sierra",
+        "Michael Young",
+        "Nelson Cruz",
+        "Ian Kinsler",
+        "Alex Rodriguez"
+    ],
+    "data": {
+        "Home Runs": [
+            372,
+            321,
+            246,
+            217,
+            199,
+            180,
+            177,
+            157,
+            156,
+            156
+        ]
+    },
+    "colors": {
+        "Home Runs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 380
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Home Runs": [
+            1.25,
+            0.5,
+            1.5,
+            0.75,
+            1.25,
+            0.5,
+            0.25,
+            0.25,
+            1.75,
+            0.25
+        ]
+    }
+}

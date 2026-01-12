@@ -1,0 +1,115 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "y_axis": {
+        "label": "Unemployment rate",
+        "major_labels": [
+            "4.0%",
+            "6.0%",
+            "8.0%",
+            "10.0%",
+            "12.0%",
+            "14.0%",
+            "16.0%",
+            "18.0%"
+        ]
+    },
+    "x_axis": [
+        "'92",
+        "'93",
+        "'94",
+        "'95",
+        "'96",
+        "'97",
+        "'98",
+        "'99",
+        "'00",
+        "'01",
+        "'02",
+        "'03",
+        "'04",
+        "'05",
+        "'06",
+        "'07",
+        "'08",
+        "'09",
+        "'10",
+        "'11",
+        "'12",
+        "'13",
+        "'14",
+        "'15",
+        "'16",
+        "'17",
+        "'18",
+        "'19",
+        "'20"
+    ],
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                7.4,
+                6.7,
+                5.7,
+                4.9,
+                5.0,
+                4.6,
+                4.3,
+                4.3,
+                4.1,
+                4.4,
+                5.8,
+                6.2,
+                6.3,
+                5.9,
+                5.4,
+                5.6,
+                6.6,
+                10.2,
+                10.3,
+                8.8,
+                7.4,
+                7.5,
+                5.8,
+                5.0,
+                5.0,
+                5.0,
+                4.5,
+                4.2,
+                8.1
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Wealth in billion U.S. dollars": "#2876dd"
+    },
+    "categories": [
+        "Vladimir Potanin",
+        "Vladimir Lisin",
+        "Leonid Mikhelson",
+        "Alexey Mordashov & Family",
+        "Vagit Alekperov",
+        "Gennady Timchenko",
+        "Alisher Usmanov",
+        "Mikhail Fridman",
+        "Andrey Melnichenko",
+        "Roman Abramovich"
+    ],
+    "data": {
+        "Wealth in billion U.S. dollars": [
+            19.7,
+            18.1,
+            17.1,
+            16.8,
+            15.2,
+            14.4,
+            13.4,
+            13,
+            12.5,
+            11.3
+        ]
+    },
+    "colors": {
+        "Wealth in billion U.S. dollars": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

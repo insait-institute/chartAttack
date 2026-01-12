@@ -1,0 +1,57 @@
+{
+    "title": "Logistics performance index measuring the ability to track consignments when shipping to a market",
+    "legend": {
+        "Luxembourg": "#f27979",
+        "Macedonia": "#79f200",
+        "Madagascar": "#52a5a5",
+        "Malaysia": "#5200a5"
+    },
+    "categories": [
+        "Logistics performance index measuring the ability to track consignments when shipping to a market"
+    ],
+    "data": {
+        "Luxembourg": [
+            3.56
+        ],
+        "Macedonia": [
+            2.5
+        ],
+        "Madagascar": [
+            2.19
+        ],
+        "Malaysia": [
+            3.51
+        ]
+    },
+    "colors": {
+        "Luxembourg": "#f27979",
+        "Macedonia": "#79f200",
+        "Madagascar": "#52a5a5",
+        "Malaysia": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

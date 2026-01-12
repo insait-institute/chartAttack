@@ -1,0 +1,62 @@
+{
+    "title": "Net bilateral aid flow in an economy from Finland",
+    "legend": {
+        "1996": "#f27979",
+        "1999": "#c1f200",
+        "2000": "#52a574",
+        "2001": "#0042a5",
+        "2002": "#da79f2"
+    },
+    "categories": [
+        "Net bilateral aid flow in an economy from Finland"
+    ],
+    "data": {
+        "1996": [
+            80000.0
+        ],
+        "1999": [
+            50000.0
+        ],
+        "2000": [
+            110000.0
+        ],
+        "2001": [
+            60000.0
+        ],
+        "2002": [
+            60000.0
+        ]
+    },
+    "colors": {
+        "1996": "#f27979",
+        "1999": "#c1f200",
+        "2000": "#52a574",
+        "2001": "#0042a5",
+        "2002": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

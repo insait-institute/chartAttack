@@ -1,0 +1,77 @@
+{
+    "title": "Female Population as percentage of total population",
+    "x_axis": {
+        "categories": [
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#4B0082",
+        "1961": "#FF7F50",
+        "1962": "#708090"
+    },
+    "data": {
+        "1960": [
+            50.0512300812868,
+            49.1025701288243,
+            51.7279688812017
+        ],
+        "1961": [
+            50.0421925082337,
+            49.2361956434242,
+            51.69088588654671
+        ],
+        "1962": [
+            50.0311642382215,
+            49.3707367964801,
+            51.6546842125265
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

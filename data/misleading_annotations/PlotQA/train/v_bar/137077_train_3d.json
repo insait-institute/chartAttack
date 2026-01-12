@@ -1,0 +1,71 @@
+{
+    "title": "Net disbursements of loans in different countries in 1979",
+    "x_axis": {
+        "categories": [
+            "Regional development banks",
+            "International Monetary Fund",
+            "International Development Association",
+            "Others"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bangladesh": "#F0E68C",
+        "Lesotho": "#20B2AA",
+        "Liberia": "#87CEEB",
+        "Sierra Leone": "#A52A2A"
+    },
+    "data": {
+        "Bangladesh": [
+            41583000,
+            48936000,
+            162568000,
+            22117000
+        ],
+        "Lesotho": [
+            4713000,
+            1957000,
+            2593000,
+            212000
+        ],
+        "Liberia": [
+            1292000,
+            11353000,
+            4917000,
+            8027000
+        ],
+        "Sierra Leone": [
+            357000,
+            9787000,
+            3349000,
+            566000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 162568000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

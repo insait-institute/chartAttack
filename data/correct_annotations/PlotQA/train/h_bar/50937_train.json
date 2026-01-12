@@ -1,0 +1,68 @@
+{
+    "title": "Total unemployment among male youth",
+    "legend": {
+        "Low income": "#483D8B",
+        "Pakistan": "#8FBC8F",
+        "Peru": "#90EE90"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Low income": [
+            8.88325189898997,
+            9.26216631311931,
+            9.343605373806831,
+            9.32193472219937,
+            9.20623411625302
+        ],
+        "Pakistan": [
+            7.199999809265139,
+            7.099999904632571,
+            7.599999904632571,
+            7.400000095367429,
+            7.300000190734861
+        ],
+        "Peru": [
+            9.60000038146973,
+            9.60000038146973,
+            9.39999961853027,
+            9.0,
+            9.30000019073486
+        ]
+    },
+    "colors": {
+        "Low income": "#483D8B",
+        "Pakistan": "#8FBC8F",
+        "Peru": "#90EE90"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

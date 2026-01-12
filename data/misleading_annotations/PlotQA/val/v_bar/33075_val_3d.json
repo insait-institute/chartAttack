@@ -1,0 +1,52 @@
+{
+    "title": "Current account balance of countries in 2008 after exporting goods and services",
+    "x_axis": {
+        "categories": [
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt, Arab Rep.",
+            "El Salvador",
+            "Estonia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Current account balance": "#00FFFF"
+    },
+    "data": {
+        "Current account balance": [
+            -4519700000.0,
+            1756197603.0,
+            -1414600000.0,
+            -1532170000.0,
+            -2216564330.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1756197610
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

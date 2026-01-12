@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Dwayne Johnson": "#f27979",
+        "Ryan Reynolds": "#f29100",
+        "Mark Wahlberg": "#daf279",
+        "Ben Affleck": "#30f200",
+        "Vin Diesel": "#52a574",
+        "Akshay Kumar": "#00a5a5",
+        "Lin-Manuel Miranda": "#5274a5",
+        "Will Smith": "#2100a5",
+        "Adam Sandler": "#da79f2",
+        "Jackie Chan": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Dwayne Johnson": [
+            87.5
+        ],
+        "Ryan Reynolds": [
+            71.5
+        ],
+        "Mark Wahlberg": [
+            58.0
+        ],
+        "Ben Affleck": [
+            55.0
+        ],
+        "Vin Diesel": [
+            54.0
+        ],
+        "Akshay Kumar": [
+            48.5
+        ],
+        "Lin-Manuel Miranda": [
+            45.5
+        ],
+        "Will Smith": [
+            44.5
+        ],
+        "Adam Sandler": [
+            41.0
+        ],
+        "Jackie Chan": [
+            40.0
+        ]
+    },
+    "colors": {
+        "Dwayne Johnson": "#f27979",
+        "Ryan Reynolds": "#f29100",
+        "Mark Wahlberg": "#daf279",
+        "Ben Affleck": "#30f200",
+        "Vin Diesel": "#52a574",
+        "Akshay Kumar": "#00a5a5",
+        "Lin-Manuel Miranda": "#5274a5",
+        "Will Smith": "#2100a5",
+        "Adam Sandler": "#da79f2",
+        "Jackie Chan": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

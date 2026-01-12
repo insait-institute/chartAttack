@@ -1,0 +1,60 @@
+{
+    "title": "BrandIndex Index score",
+    "categories": [
+        "John Lewis",
+        "Netflix",
+        "Visa",
+        "Marks & Spencer",
+        "Cadbury",
+        "Royal Mail",
+        "IKEA",
+        "Boots",
+        "Cathedral City",
+        "Samsung"
+    ],
+    "data": {
+        "BrandIndex": [
+            42.6,
+            42.2,
+            41.8,
+            41.8,
+            41.4,
+            41.2,
+            41.1,
+            38.4,
+            37.8,
+            37.7
+        ]
+    },
+    "colors": {
+        "BrandIndex": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "BrandIndex": "#2876dd"
+    }
+}

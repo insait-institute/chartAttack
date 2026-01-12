@@ -1,0 +1,111 @@
+{
+    "title": "Expenditure of Togo on education as percentage of government expenditure",
+    "legend": {
+        "Primary": "#FFA07A",
+        "Secondary": "#A020F0",
+        "Tertiary": "#ADFF2F"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "Expenditure(% of government expenditure on education)",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#FFA07A",
+            "values": [
+                49.0811080932617,
+                42.7954711914063,
+                41.77848052978521,
+                33.6255912780762,
+                40.724178314209
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#A020F0",
+            "values": [
+                35.3505783081055,
+                25.5790500640869,
+                29.3107795715332,
+                14.3409204483032,
+                15.8456296920776
+            ]
+        },
+        {
+            "label": "Tertiary",
+            "color": "#ADFF2F",
+            "values": [
+                14.4460697174072,
+                16.731409072876,
+                16.0223808288574,
+                18.3498992919922,
+                22.2091598510742
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Secondary",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Tertiary",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

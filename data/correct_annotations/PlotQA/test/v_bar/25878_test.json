@@ -1,0 +1,72 @@
+{
+    "title": "Fertilizer consumption per hectare of arable land",
+    "x_axis": {
+        "categories": [
+            "Morocco",
+            "Mozambique",
+            "Myanmar",
+            "Namibia",
+            "Nepal",
+            "Netherlands"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2002": "#66CDAA",
+        "2003": "#F0E68C",
+        "2004": "#556B2F"
+    },
+    "data": {
+        "2002": [
+            65.5542727921923,
+            5.977528089887638,
+            4.29010342729669,
+            3.9031862745098,
+            16.6809421841542,
+            428.823144104803
+        ],
+        "2003": [
+            55.31120927664272,
+            0.7362222222222221,
+            10.309004162014,
+            1.41104294478528,
+            5.05874730021598,
+            438.2913907284769
+        ],
+        "2004": [
+            48.95761266747871,
+            2.25978260869565,
+            19.9116222760291,
+            3.20490797546012,
+            8.02521739130435,
+            357.313525498891
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 440
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

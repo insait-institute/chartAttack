@@ -1,0 +1,70 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in United Arab Emirates",
+    "legend": {
+        "Female": "#6A5ACD",
+        "Male": "#ADFF2F"
+    },
+    "x_axis": [
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981"
+    ],
+    "y_axis_label": "Gross intake ratio(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#6A5ACD",
+            "values": [
+                84.89054,
+                80.6367,
+                76.55098000000002,
+                65.27074,
+                67.80129000000001,
+                67.10826
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#ADFF2F",
+            "values": [
+                84.24935,
+                81.50516,
+                75.15272,
+                63.19961,
+                66.18887,
+                66.92258000000001
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

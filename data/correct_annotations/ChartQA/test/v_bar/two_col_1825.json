@@ -1,0 +1,66 @@
+{
+    "title": "Production in trillion cubic feet",
+    "x_axis": {
+        "categories": [
+            "1999",
+            "2000",
+            "2005",
+            "2010",
+            "2015",
+            "2020*",
+            "2025*",
+            "2030*",
+            "2035*",
+            "2040*",
+            "2045*",
+            "2050*"
+        ]
+    },
+    "y_axis": {
+        "label": "Production in trillion cubic feet"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            1.73,
+            1.77,
+            1.97,
+            6.16,
+            13.64,
+            23.16,
+            27.23,
+            29.4,
+            30.08,
+            31.4,
+            32.54,
+            33.94
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

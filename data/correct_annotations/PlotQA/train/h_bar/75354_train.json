@@ -1,0 +1,50 @@
+{
+    "title": "Total reserves (excluding gold) of West Bank and Gaza",
+    "legend": {
+        "Total reserves minus gold (current US$)": "#FFD700"
+    },
+    "categories": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "data": {
+        "Total reserves minus gold (current US$)": [
+            531755697.08,
+            498047447.64,
+            664041719.54,
+            685224934.26,
+            672378108.54
+        ]
+    },
+    "colors": {
+        "Total reserves minus gold (current US$)": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 685224940
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

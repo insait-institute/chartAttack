@@ -1,0 +1,72 @@
+{
+    "title": "Amount of goods and services imported by countries",
+    "x_axis": {
+        "categories": [
+            "Luxembourg",
+            "Macedonia",
+            "Maldives",
+            "Malta",
+            "Mauritius",
+            "Mexico"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#40E0D0",
+        "2006": "#DB7093",
+        "2007": "#006400"
+    },
+    "data": {
+        "2005": [
+            18739346975.0,
+            2642109122.0,
+            655480835.4,
+            3696646481.0,
+            2935200756.0,
+            222295000000.0
+        ],
+        "2006": [
+            20535773651.0,
+            3206087491.0,
+            815342078.6,
+            4437600922.0,
+            3408815876.0,
+            256631000000.0
+        ],
+        "2007": [
+            22940734828.0,
+            4434403312.0,
+            1304793082.0,
+            4979028620.0,
+            3655656548.0,
+            282604000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 282604000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

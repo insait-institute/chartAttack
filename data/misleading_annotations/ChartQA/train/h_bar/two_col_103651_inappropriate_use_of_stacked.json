@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Russell Westbrook": "#f27979",
+        "Gary Payton": "#f29100",
+        "Kevin Durant": "#daf279",
+        "Fred Brown": "#30f200",
+        "Jack Sikma": "#52a574",
+        "Rashard Lewis": "#00a5a5",
+        "Shawn Kemp": "#5274a5",
+        "Gus Williams": "#2100a5",
+        "Dale Ellis": "#da79f2",
+        "Xavier McDaniel": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Russell Westbrook": [
+            18859.0
+        ],
+        "Gary Payton": [
+            18207.0
+        ],
+        "Kevin Durant": [
+            17566.0
+        ],
+        "Fred Brown": [
+            14018.0
+        ],
+        "Jack Sikma": [
+            12034.0
+        ],
+        "Rashard Lewis": [
+            10251.0
+        ],
+        "Shawn Kemp": [
+            10148.0
+        ],
+        "Gus Williams": [
+            9676.0
+        ],
+        "Dale Ellis": [
+            9405.0
+        ],
+        "Xavier McDaniel": [
+            8438.0
+        ]
+    },
+    "colors": {
+        "Russell Westbrook": "#f27979",
+        "Gary Payton": "#f29100",
+        "Kevin Durant": "#daf279",
+        "Fred Brown": "#30f200",
+        "Jack Sikma": "#52a574",
+        "Rashard Lewis": "#00a5a5",
+        "Shawn Kemp": "#5274a5",
+        "Gus Williams": "#2100a5",
+        "Dale Ellis": "#da79f2",
+        "Xavier McDaniel": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 18860
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

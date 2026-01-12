@@ -1,0 +1,87 @@
+{
+    "title": "Number of companies",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of companies"
+    },
+    "legend": {
+        "2011": "#f27979",
+        "2012": "#f2a100",
+        "2013": "#c9f279",
+        "2014": "#00f200",
+        "2015": "#52a58a",
+        "2016": "#006ea5",
+        "2017": "#5252a5",
+        "2018": "#6e00a5",
+        "2019": "#f279c9"
+    },
+    "data": {
+        "2011": [
+            27.0
+        ],
+        "2012": [
+            25.0
+        ],
+        "2013": [
+            30.0
+        ],
+        "2014": [
+            24.0
+        ],
+        "2015": [
+            30.0
+        ],
+        "2016": [
+            27.0
+        ],
+        "2017": [
+            24.0
+        ],
+        "2018": [
+            25.0
+        ],
+        "2019": [
+            23.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2011": "#f27979",
+        "2012": "#f2a100",
+        "2013": "#c9f279",
+        "2014": "#00f200",
+        "2015": "#52a58a",
+        "2016": "#006ea5",
+        "2017": "#5252a5",
+        "2018": "#6e00a5",
+        "2019": "#f279c9"
+    }
+}

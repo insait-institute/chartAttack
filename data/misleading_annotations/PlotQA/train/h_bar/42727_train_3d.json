@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of urban population who used safely managed services in 1995",
+    "legend": {
+        "Australia": "#DB7093",
+        "Hungary": "#66CDAA",
+        "Slovak Republic": "#BDB76B"
+    },
+    "categories": [
+        "Sanitation services",
+        "Drinking water services"
+    ],
+    "data": {
+        "Australia": [
+            100,
+            100
+        ],
+        "Hungary": [
+            97.8,
+            98.8
+        ],
+        "Slovak Republic": [
+            99.4,
+            100.0
+        ]
+    },
+    "colors": {
+        "Australia": "#DB7093",
+        "Hungary": "#66CDAA",
+        "Slovak Republic": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

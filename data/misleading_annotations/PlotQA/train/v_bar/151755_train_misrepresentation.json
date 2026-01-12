@@ -1,0 +1,61 @@
+{
+    "title": "Number of physicians (per 1000 people) in different countries",
+    "x_axis": {
+        "categories": [
+            "Cote d'Ivoire",
+            "Cuba",
+            "Cyprus",
+            "Djibouti",
+            "Dominica"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Physicians": "#708090"
+    },
+    "data": {
+        "Physicians": [
+            0.0325482934713364,
+            0.9461703896522521,
+            0.682373464107513,
+            0.156626507639885,
+            0.132669985294342
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Physicians": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

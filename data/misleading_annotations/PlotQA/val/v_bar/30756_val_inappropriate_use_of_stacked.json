@@ -1,0 +1,72 @@
+{
+    "title": "Food production relative to the base period 2004-2006",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Malawi": "#f27979",
+        "Malaysia": "#f2f200",
+        "Maldives": "#79f279",
+        "Mali": "#00a5a5",
+        "Malta": "#5252a5",
+        "Mauritania": "#a500a5"
+    },
+    "data": {
+        "Malawi": [
+            23.06
+        ],
+        "Malaysia": [
+            8.73
+        ],
+        "Maldives": [
+            53.48
+        ],
+        "Mali": [
+            27.97
+        ],
+        "Malta": [
+            44.74
+        ],
+        "Mauritania": [
+            53.74
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Malawi": "#f27979",
+        "Malaysia": "#f2f200",
+        "Maldives": "#79f279",
+        "Mali": "#00a5a5",
+        "Malta": "#5252a5",
+        "Mauritania": "#a500a5"
+    }
+}

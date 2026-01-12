@@ -1,0 +1,78 @@
+{
+    "title": "Share of respondents",
+    "legend": {
+        "Amazon.com": "#2876dd",
+        "Walmart.com": "#2876dd",
+        "Target.com": "#2876dd",
+        "Bestbuy.com": "#2876dd",
+        "Macys.com": "#2876dd",
+        "Homedept.com": "#2876dd",
+        "Apple.com": "#2876dd",
+        "Dell.com": "#2876dd",
+        "Qvc.com": "#2876dd",
+        "Costco.com": "#2876dd"
+    },
+    "categories": [
+        "Amazon.com",
+        "Walmart.com",
+        "Target.com",
+        "Bestbuy.com",
+        "Macys.com",
+        "Homedept.com",
+        "Apple.com",
+        "Dell.com",
+        "Qvc.com",
+        "Costco.com"
+    ],
+    "data": {
+        "Share of respondents": [
+            97,
+            75,
+            57,
+            53,
+            36,
+            34,
+            32,
+            30,
+            20,
+            18
+        ]
+    },
+    "colors": {
+        "Amazon.com": "#2876dd",
+        "Walmart.com": "#2876dd",
+        "Target.com": "#2876dd",
+        "Bestbuy.com": "#2876dd",
+        "Macys.com": "#2876dd",
+        "Homedept.com": "#2876dd",
+        "Apple.com": "#2876dd",
+        "Dell.com": "#2876dd",
+        "Qvc.com": "#2876dd",
+        "Costco.com": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

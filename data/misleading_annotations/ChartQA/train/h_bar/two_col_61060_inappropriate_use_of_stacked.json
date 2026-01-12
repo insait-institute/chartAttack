@@ -1,0 +1,137 @@
+{
+    "title": "Rushing yards",
+    "legend": {
+        "Eddie George": "#f27979",
+        "Earl Campbell": "#f24800",
+        "Chris Johnson": "#f2c179",
+        "Derrick Henry": "#f2da00",
+        "Lorenzo White": "#daf279",
+        "Hoyle Granger": "#79f200",
+        "Steve McNair": "#91f279",
+        "Mike Rozier": "#00a510",
+        "Charley Tolar": "#52a574",
+        "Ronnie Coleman": "#00a574",
+        "Chris Brown": "#52a5a5",
+        "LenDale White": "#0074a5",
+        "Allen Pinkett": "#5274a5",
+        "Gary Brown": "#0010a5",
+        "Fred Willis": "#9179f2",
+        "Billy Cannon": "#7900f2",
+        "DeMarco Murray": "#da79f2",
+        "Rodney Thomas": "#f200da",
+        "Rob Carpenter": "#f279c1",
+        "Larry Moriarty": "#f20048"
+    },
+    "categories": [
+        "Rushing yards"
+    ],
+    "data": {
+        "Eddie George": [
+            10009.0
+        ],
+        "Earl Campbell": [
+            8574.0
+        ],
+        "Chris Johnson": [
+            7965.0
+        ],
+        "Derrick Henry": [
+            5860.0
+        ],
+        "Lorenzo White": [
+            4079.0
+        ],
+        "Hoyle Granger": [
+            3514.0
+        ],
+        "Steve McNair": [
+            3439.0
+        ],
+        "Mike Rozier": [
+            3426.0
+        ],
+        "Charley Tolar": [
+            3277.0
+        ],
+        "Ronnie Coleman": [
+            2769.0
+        ],
+        "Chris Brown": [
+            2757.0
+        ],
+        "LenDale White": [
+            2349.0
+        ],
+        "Allen Pinkett": [
+            2324.0
+        ],
+        "Gary Brown": [
+            2115.0
+        ],
+        "Fred Willis": [
+            2114.0
+        ],
+        "Billy Cannon": [
+            2111.0
+        ],
+        "DeMarco Murray": [
+            1946.0
+        ],
+        "Rodney Thomas": [
+            1847.0
+        ],
+        "Rob Carpenter": [
+            1788.0
+        ],
+        "Larry Moriarty": [
+            1624.0
+        ]
+    },
+    "colors": {
+        "Eddie George": "#f27979",
+        "Earl Campbell": "#f24800",
+        "Chris Johnson": "#f2c179",
+        "Derrick Henry": "#f2da00",
+        "Lorenzo White": "#daf279",
+        "Hoyle Granger": "#79f200",
+        "Steve McNair": "#91f279",
+        "Mike Rozier": "#00a510",
+        "Charley Tolar": "#52a574",
+        "Ronnie Coleman": "#00a574",
+        "Chris Brown": "#52a5a5",
+        "LenDale White": "#0074a5",
+        "Allen Pinkett": "#5274a5",
+        "Gary Brown": "#0010a5",
+        "Fred Willis": "#9179f2",
+        "Billy Cannon": "#7900f2",
+        "DeMarco Murray": "#da79f2",
+        "Rodney Thomas": "#f200da",
+        "Rob Carpenter": "#f279c1",
+        "Larry Moriarty": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10010
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

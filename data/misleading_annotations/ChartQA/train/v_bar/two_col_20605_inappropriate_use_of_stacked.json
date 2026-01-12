@@ -1,0 +1,102 @@
+{
+    "title": "E-commerce sales volume in trillion Korean won",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "E-commerce sales volume in trillion Korean won"
+    },
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#f27900",
+        "2011": "#f2f279",
+        "2012": "#79f200",
+        "2013": "#79f279",
+        "2014": "#00a552",
+        "2015": "#52a5a5",
+        "2016": "#0052a5",
+        "2017": "#5252a5",
+        "2018": "#5200a5",
+        "2019": "#f279f2",
+        "2020": "#f20079"
+    },
+    "data": {
+        "2009": [
+            20.64
+        ],
+        "2010": [
+            25.2
+        ],
+        "2011": [
+            29.07
+        ],
+        "2012": [
+            34.07
+        ],
+        "2013": [
+            38.5
+        ],
+        "2014": [
+            45.3
+        ],
+        "2015": [
+            53.89
+        ],
+        "2016": [
+            64.91
+        ],
+        "2017": [
+            91.99
+        ],
+        "2018": [
+            113.73
+        ],
+        "2019": [
+            135.26
+        ],
+        "2020": [
+            159.44
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 160
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#f27900",
+        "2011": "#f2f279",
+        "2012": "#79f200",
+        "2013": "#79f279",
+        "2014": "#00a552",
+        "2015": "#52a5a5",
+        "2016": "#0052a5",
+        "2017": "#5252a5",
+        "2018": "#5200a5",
+        "2019": "#f279f2",
+        "2020": "#f20079"
+    }
+}

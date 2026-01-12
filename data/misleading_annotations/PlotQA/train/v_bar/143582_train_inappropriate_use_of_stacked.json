@@ -1,0 +1,72 @@
+{
+    "title": "Employment to population ratio for age group between 15-24 years (females)",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Central African Republic": "#f27979",
+        "Chad": "#f2f200",
+        "Chile": "#79f279",
+        "China": "#00a5a5",
+        "Colombia": "#5252a5",
+        "Comoros": "#a500a5"
+    },
+    "data": {
+        "Central African Republic": [
+            50.7999992370605
+        ],
+        "Chad": [
+            50.7999992370605
+        ],
+        "Chile": [
+            19.5
+        ],
+        "China": [
+            72.599998474121
+        ],
+        "Colombia": [
+            18.2000007629395
+        ],
+        "Comoros": [
+            20.8999996185303
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Central African Republic": "#f27979",
+        "Chad": "#f2f200",
+        "Chile": "#79f279",
+        "China": "#00a5a5",
+        "Colombia": "#5252a5",
+        "Comoros": "#a500a5"
+    }
+}

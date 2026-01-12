@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "URL Removal Requests": "#2876dd"
+    },
+    "categories": [
+        "4shared.com",
+        "mp3toys.xyz",
+        "rapidgator.net",
+        "chomikuj.pl",
+        "uploaded.net",
+        "unblocksites.co",
+        "mangapark.me",
+        "ninemanga.com",
+        "video.az",
+        "voir-films.info"
+    ],
+    "data": {
+        "URL Removal Requests": [
+            68.4,
+            51.27,
+            38.06,
+            30.18,
+            27.86,
+            26.69,
+            23.71,
+            21.09,
+            16.11,
+            15.91
+        ]
+    },
+    "colors": {
+        "URL Removal Requests": "#2876dd"
+    },
+    "y_label": "Number of URLs requested to be removed in millions",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

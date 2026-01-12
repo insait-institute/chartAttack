@@ -1,0 +1,101 @@
+{
+    "title": "",
+    "categories": [
+        "Andalusia",
+        "Catalonia",
+        "Community of Madrid",
+        "Region of Valencia",
+        "Galicia",
+        "Castile and Leon",
+        "Basque Country",
+        "Canary Islands",
+        "Castile-La Mancha",
+        "Murcia",
+        "Aragon",
+        "Balearic Islands",
+        "Extremadura",
+        "Asturias",
+        "Navarre",
+        "Cantabria",
+        "La Rioja",
+        "Ceuta",
+        "Melilla"
+    ],
+    "data": {
+        "Regions": [
+            8476718,
+            7652069,
+            6747425,
+            5028650,
+            2702244,
+            2401230,
+            2237309,
+            2189310,
+            2045384,
+            1504607,
+            1330445,
+            1210750,
+            1061768,
+            1018775,
+            656487,
+            582357,
+            315926,
+            84496,
+            84032
+        ]
+    },
+    "colors": {
+        "Regions": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8476720
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Regions": "#2876dd"
+    },
+    "scaling_factors": {
+        "Regions": [
+            0.25,
+            1.75,
+            0.25,
+            1.25,
+            1.75,
+            0.5,
+            2.0,
+            2.0,
+            1.75,
+            1.75,
+            2.0,
+            1.75,
+            2.0,
+            0.75,
+            1.75,
+            1.75,
+            0.5,
+            0.75,
+            0.25
+        ]
+    }
+}

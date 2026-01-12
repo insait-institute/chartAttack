@@ -1,0 +1,75 @@
+{
+    "title": "Expenditures in public institutions of Bulgaria",
+    "legend": {
+        "All education staff compensation": "#2F4F4F",
+        "Current education expenditure": "#00CED1"
+    },
+    "categories": [
+        "2003",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "All education staff compensation": [
+            68.23193359375,
+            63.19552993774411,
+            59.65887832641599,
+            58.86994934082029,
+            60.5706100463867
+        ],
+        "Current education expenditure": [
+            96.3232421875,
+            89.8895416259766,
+            91.4995269775391,
+            82.4075927734375,
+            86.0279312133789
+        ]
+    },
+    "colors": {
+        "All education staff compensation": "#2F4F4F",
+        "Current education expenditure": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "All education staff compensation": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Current education expenditure": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

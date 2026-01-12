@@ -1,0 +1,104 @@
+{
+    "title": "Net bilateral aid flow in Morocco from different members of Development Assistance Committee",
+    "legend": {
+        "Canada": "#0000FF",
+        "Netherlands": "#000000"
+    },
+    "x_axis": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "Canada",
+            "color": "#0000FF",
+            "values": [
+                4640000,
+                4360000,
+                4260000,
+                5190000,
+                3180000,
+                2390000,
+                4690000,
+                4560000
+            ]
+        },
+        {
+            "label": "Netherlands",
+            "color": "#000000",
+            "values": [
+                1560000,
+                390000,
+                -300000,
+                640000,
+                1720000,
+                1140000,
+                1610000,
+                1730000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -300000,
+                "max_value": 5190000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Canada",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Netherlands",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

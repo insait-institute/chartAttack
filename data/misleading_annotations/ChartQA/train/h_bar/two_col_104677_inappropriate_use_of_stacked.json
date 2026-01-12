@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Derek Harper": "#f27979",
+        "Brad Davis": "#f29100",
+        "Jason Kidd": "#daf279",
+        "Dirk Nowitzki": "#30f200",
+        "Steve Nash": "#52a574",
+        "Rolando Blackman": "#00a5a5",
+        "Jason Terry": "#5274a5",
+        "J.J. Barea": "#2100a5",
+        "Michael Finley": "#da79f2",
+        "Mark Aguirre": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Derek Harper": [
+            5111.0
+        ],
+        "Brad Davis": [
+            4524.0
+        ],
+        "Jason Kidd": [
+            4211.0
+        ],
+        "Dirk Nowitzki": [
+            3651.0
+        ],
+        "Steve Nash": [
+            2919.0
+        ],
+        "Rolando Blackman": [
+            2748.0
+        ],
+        "Jason Terry": [
+            2524.0
+        ],
+        "J.J. Barea": [
+            2441.0
+        ],
+        "Michael Finley": [
+            2393.0
+        ],
+        "Mark Aguirre": [
+            2163.0
+        ]
+    },
+    "colors": {
+        "Derek Harper": "#f27979",
+        "Brad Davis": "#f29100",
+        "Jason Kidd": "#daf279",
+        "Dirk Nowitzki": "#30f200",
+        "Steve Nash": "#52a574",
+        "Rolando Blackman": "#00a5a5",
+        "Jason Terry": "#5274a5",
+        "J.J. Barea": "#2100a5",
+        "Michael Finley": "#da79f2",
+        "Mark Aguirre": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of total electricity produced from oil, gas and coal",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ireland": "#f27979",
+        "Italy": "#79f200",
+        "Japan": "#52a5a5",
+        "Luxembourg": "#5200a5"
+    },
+    "data": {
+        "Ireland": [
+            10.1679929266136
+        ],
+        "Italy": [
+            14.327558492588
+        ],
+        "Japan": [
+            49.3506493506493
+        ],
+        "Luxembourg": [
+            98.6338797814208
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Ireland": "#f27979",
+        "Italy": "#79f200",
+        "Japan": "#52a5a5",
+        "Luxembourg": "#5200a5"
+    }
+}

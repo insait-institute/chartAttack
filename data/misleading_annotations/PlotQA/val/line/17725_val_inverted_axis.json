@@ -1,0 +1,67 @@
+{
+    "title": "Net enrolment rate in primary and secondary education of females of Egypt, Arab Rep.",
+    "legend": {
+        "Primary": "#D2B48C",
+        "Secondary": "#008B8B"
+    },
+    "x_axis": [
+        "1971",
+        "1972",
+        "1973",
+        "1978",
+        "1994"
+    ],
+    "y_axis_label": "Net enrolment rate(%)",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#D2B48C",
+            "values": [
+                47.93059,
+                47.96933,
+                47.78775,
+                51.95671,
+                84.08736999999998
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#008B8B",
+            "values": [
+                16.93286,
+                17.10141,
+                18.97953,
+                18.87582,
+                59.90459
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

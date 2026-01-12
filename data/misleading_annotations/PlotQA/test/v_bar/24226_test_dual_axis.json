@@ -1,0 +1,65 @@
+{
+    "title": "Average working hours of female children (ages 7-14) in different countries in 2013",
+    "x_axis": {
+        "categories": [
+            "Honduras",
+            "Mali",
+            "Sierra Leone"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Study and work": "#A52A2A",
+        "Working only": "#7FFFD4"
+    },
+    "data": {
+        "Study and work": [
+            16.4,
+            17.0,
+            8.2
+        ],
+        "Working only": [
+            29.0,
+            22.2,
+            9.9
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 8.2,
+                "max_value": 17.0
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 9.9,
+                "max_value": 29.0
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

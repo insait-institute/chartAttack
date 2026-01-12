@@ -1,0 +1,48 @@
+{
+    "title": "Earning of countries from merchandise trade in the year 1986",
+    "legend": {
+        "Merchandise trade": "#8FBC8F"
+    },
+    "categories": [
+        "Australia",
+        "Austria",
+        "Bahamas",
+        "Bahrain"
+    ],
+    "data": {
+        "Merchandise trade": [
+            26.7449690204941,
+            49.9718680469956,
+            72.7199191102123,
+            150.865203512456
+        ]
+    },
+    "colors": {
+        "Merchandise trade": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 160
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

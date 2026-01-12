@@ -1,0 +1,67 @@
+{
+    "title": "Different expenses of government of different countries in 2006",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Liberia": "#f27979",
+        "Lithuania": "#c1f200",
+        "Luxembourg": "#52a574",
+        "Macao": "#0042a5",
+        "Macedonia": "#da79f2"
+    },
+    "data": {
+        "Liberia": [
+            627818.034829944
+        ],
+        "Lithuania": [
+            4636200000.0
+        ],
+        "Luxembourg": [
+            1922906787.74561
+        ],
+        "Macao": [
+            5861000000.0
+        ],
+        "Macedonia": [
+            23917514918.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 284800000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Liberia": "#f27979",
+        "Lithuania": "#c1f200",
+        "Luxembourg": "#52a574",
+        "Macao": "#0042a5",
+        "Macedonia": "#da79f2"
+    }
+}

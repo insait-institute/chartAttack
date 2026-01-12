@@ -1,0 +1,82 @@
+{
+    "title": "Emissions in million metric tons",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Emissions in million metric tons"
+    },
+    "legend": {
+        "1980": "#f27979",
+        "2005": "#f2b500",
+        "2006": "#b5f279",
+        "2007": "#00a529",
+        "2008": "#52a5a5",
+        "2009": "#0029a5",
+        "2010": "#b579f2",
+        "2011": "#f200b5"
+    },
+    "data": {
+        "1980": [
+            69.0
+        ],
+        "2005": [
+            47.0
+        ],
+        "2006": [
+            48.0
+        ],
+        "2007": [
+            45.0
+        ],
+        "2008": [
+            42.0
+        ],
+        "2009": [
+            40.0
+        ],
+        "2010": [
+            38.0
+        ],
+        "2011": [
+            37.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "1980": "#f27979",
+        "2005": "#f2b500",
+        "2006": "#b5f279",
+        "2007": "#00a529",
+        "2008": "#52a5a5",
+        "2009": "#0029a5",
+        "2010": "#b579f2",
+        "2011": "#f200b5"
+    }
+}

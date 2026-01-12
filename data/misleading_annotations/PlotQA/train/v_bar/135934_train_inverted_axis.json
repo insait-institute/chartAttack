@@ -1,0 +1,81 @@
+{
+    "title": "Net disbursements received from Regional Development Bank (concessional)",
+    "x_axis": {
+        "categories": [
+            "Colombia",
+            "Costa Rica",
+            "Dominican Republic",
+            "Ecuador",
+            "El Salvador",
+            "Guatemala"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#FF4500",
+        "1971": "#663399",
+        "1972": "#4B0082",
+        "1973": "#FF1493"
+    },
+    "data": {
+        "1970": [
+            23615000.0,
+            3513000.0,
+            8286000.0,
+            4639000.0,
+            1313000.0,
+            8482000.0
+        ],
+        "1971": [
+            22963000.0,
+            2116000.0,
+            6789000.0,
+            4271000.0,
+            1747000.0,
+            7137000.0
+        ],
+        "1972": [
+            14878000.0,
+            2256000.0,
+            4565000.0,
+            4191000.0,
+            1673000.0,
+            7543000.0
+        ],
+        "1973": [
+            15687000.0,
+            6518000.0,
+            5459000.0,
+            5167000.0,
+            9888000.0,
+            7935000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23615000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

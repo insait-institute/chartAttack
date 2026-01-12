@@ -1,0 +1,88 @@
+{
+    "title": "Value added by different sectors to the total GDP of different countries",
+    "x_axis": {
+        "categories": [
+            "Industry",
+            "Services",
+            "Agriculture"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#8B4513",
+        "Cyprus": "#008B8B",
+        "Dominican Republic": "#00FF00",
+        "Malawi": "#F4A460"
+    },
+    "data": {
+        "Australia": [
+            115177087674.936,
+            264507189474.796,
+            12680650880.9215
+        ],
+        "Cyprus": [
+            2720809241.89587,
+            6493648967.056021,
+            429508226.831918
+        ],
+        "Dominican Republic": [
+            5035562294.933539,
+            9433359767.4323,
+            1766568294.40586
+        ],
+        "Malawi": [
+            370662886.920991,
+            1072920881.99403,
+            341252730.880329
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 264507189480
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Australia": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Cyprus": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Dominican Republic": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Malawi": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

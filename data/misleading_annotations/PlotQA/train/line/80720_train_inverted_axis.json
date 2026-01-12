@@ -1,0 +1,64 @@
+{
+    "title": "Balance of payments as percentage of commercial service imports in Euro area",
+    "legend": {
+        "Transport services": "#20B2AA",
+        "Travel services": "#DAA520"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Balance of Payment (as % of commercial service imports)",
+    "data": [
+        {
+            "label": "Transport services",
+            "color": "#20B2AA",
+            "values": [
+                21.7060973663512,
+                24.0294704437841,
+                23.85193996122591,
+                23.3626271313663
+            ]
+        },
+        {
+            "label": "Travel services",
+            "color": "#DAA520",
+            "values": [
+                23.8392929191672,
+                22.591078824263,
+                22.471132020984,
+                21.5618271531886
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

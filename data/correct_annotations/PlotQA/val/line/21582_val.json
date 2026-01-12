@@ -1,0 +1,55 @@
+{
+    "title": "Total imports in Israel from other countries",
+    "legend": {
+        "Imports": "#663399"
+    },
+    "x_axis": [
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+    ],
+    "y_axis_label": "Imports (% of GDP)",
+    "data": [
+        {
+            "label": "Imports",
+            "color": "#663399",
+            "values": [
+                52.3545536089211,
+                57.09892018627691,
+                48.15975621710729,
+                45.72076775895921,
+                45.3836777576264
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Individuals using the Internet in Czech Republic",
+    "legend": {
+        "Internet users": "#ADFF2F"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Internet users (% of population)",
+    "data": [
+        {
+            "label": "Internet users",
+            "color": "#ADFF2F",
+            "values": [
+                64.43,
+                68.82,
+                70.49,
+                73.4300078241036
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

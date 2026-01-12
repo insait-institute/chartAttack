@@ -1,0 +1,89 @@
+{
+    "title": "Percentage of urban population using safely managed services in Costa Rica",
+    "legend": {
+        "Sanitation services": "#8B008B",
+        "Drinking water services": "#66CDAA"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "y_axis_label": "% of urban population",
+    "data": [
+        {
+            "label": "Sanitation services",
+            "color": "#8B008B",
+            "values": [
+                94.3,
+                94.4,
+                94.4,
+                94.5,
+                94.5
+            ]
+        },
+        {
+            "label": "Drinking water services",
+            "color": "#66CDAA",
+            "values": [
+                99.3,
+                99.3,
+                99.3,
+                99.3,
+                99.3
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 90,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Sanitation services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Drinking water services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

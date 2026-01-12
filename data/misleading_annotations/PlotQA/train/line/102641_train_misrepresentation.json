@@ -1,0 +1,70 @@
+{
+    "title": "Percentage of total electricity produced from oil, gas and coal in Hong Kong",
+    "legend": {
+        "Electricity production": "#B8860B"
+    },
+    "x_axis": [
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977"
+    ],
+    "y_axis_label": "Electricity production (% of total)",
+    "data": [
+        {
+            "label": "Electricity production",
+            "color": "#B8860B",
+            "values": [
+                100.0,
+                100.0,
+                100.0,
+                100.0,
+                100.0,
+                100.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 100,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Electricity production",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

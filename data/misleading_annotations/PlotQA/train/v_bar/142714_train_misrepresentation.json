@@ -1,0 +1,115 @@
+{
+    "title": "Total amount collected by an economy from different taxes in 1995",
+    "x_axis": {
+        "categories": [
+            "Burundi",
+            "Cameroon",
+            "Canada",
+            "Congo (Democratic)",
+            "Croatia",
+            "Cyprus"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Taxes on revenue": "#FFA07A",
+        "Taxes on exports": "#BEBEBE",
+        "Taxes on goods and services": "#00FFFF",
+        "Taxes on income": "#90EE90"
+    },
+    "data": {
+        "Taxes on revenue": [
+            41673000000.0,
+            389580000000.0,
+            110368000000.0,
+            19550000.0,
+            26678010000.0,
+            4132587814.275209
+        ],
+        "Taxes on exports": [
+            1550000000,
+            186000000000,
+            34000000000,
+            3000000,
+            1400000,
+            63000000
+        ],
+        "Taxes on goods and services": [
+            19512000000.0,
+            134890000000.0,
+            28410000000.0,
+            3960000.0,
+            17746170000.0,
+            1832456464.41125
+        ],
+        "Taxes on income": [
+            91150000000.0,
+            78921000000.0,
+            7000000.0,
+            4506660000.0,
+            1674229380.81862,
+            71828000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 389580000000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Taxes on revenue": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Taxes on exports": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Taxes on goods and services": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Taxes on income": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

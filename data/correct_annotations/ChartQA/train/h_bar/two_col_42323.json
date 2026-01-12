@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Base": "#2876dd"
+    },
+    "categories": [
+        "Robin Yount",
+        "Paul Molitor",
+        "Ryan Braun",
+        "Cecil Cooper",
+        "Jim Gantner",
+        "Geoff Jenkins",
+        "Don Money",
+        "Ben Oglivie",
+        "B.J. Surhoff",
+        "Charlie Moore"
+    ],
+    "data": {
+        "Base": [
+            3142,
+            2281,
+            1963,
+            1815,
+            1696,
+            1221,
+            1168,
+            1144,
+            1064,
+            1029
+        ]
+    },
+    "colors": {
+        "Base": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3150
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Cost of damage due to depletion of coal depletion",
+    "legend": {
+        "1970": "#FFD700",
+        "1971": "#2F4F4F"
+    },
+    "categories": [
+        "South Asia",
+        "Sub-Saharan Africa (all income levels)",
+        "Sub-Saharan Africa (developing only)",
+        "Upper middle income",
+        "World"
+    ],
+    "data": {
+        "1970": [
+            0.384635625331479,
+            0.512776890249176,
+            0.5134114319599871,
+            0.7220682668575971,
+            0.517903252544777
+        ],
+        "1971": [
+            0.3965662811881249,
+            0.621263742873866,
+            0.6219854927577889,
+            0.787058683634848,
+            0.51814468983844
+        ]
+    },
+    "colors": {
+        "1970": "#FFD700",
+        "1971": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Export value": "#2876dd"
+    },
+    "categories": [
+        "United Arab Emirates",
+        "China",
+        "India",
+        "Switzerland",
+        "United States",
+        "China, Hong Kong SAR",
+        "France",
+        "Italy",
+        "United Kingdom",
+        "Turkey"
+    ],
+    "data": {
+        "Export value": [
+            16527,
+            15857.4,
+            13801.1,
+            11828,
+            10204.8,
+            8840.4,
+            8002.4,
+            7691,
+            6973.7,
+            5151.9
+        ]
+    },
+    "colors": {
+        "Export value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 16530
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

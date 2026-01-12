@@ -1,0 +1,88 @@
+{
+    "title": "Population of different countries in 1999",
+    "x_axis": {
+        "categories": [
+            "Ages 65 and above",
+            "Ages 0-14",
+            "Ages 15-64"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Costa Rica": "#9ACD32",
+        "Indonesia": "#87CEEB",
+        "Sierra Leone": "#6495ED",
+        "Spain": "#483D8B"
+    },
+    "data": {
+        "Costa Rica": [
+            5.573715970873471,
+            31.4194960668793,
+            63.0067879622472
+        ],
+        "Indonesia": [
+            4.59971739720446,
+            31.2353690132755,
+            64.1649135895201
+        ],
+        "Sierra Leone": [
+            2.59182536466775,
+            44.1946667341977,
+            53.2135079011345
+        ],
+        "Spain": [
+            16.3963385854112,
+            15.0239579863482,
+            68.5797034282406
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Costa Rica": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Indonesia": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Sierra Leone": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Spain": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

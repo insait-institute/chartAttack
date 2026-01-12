@@ -1,0 +1,79 @@
+{
+    "title": "Net balance of payments of Nepal from capital and financial account",
+    "legend": {
+        "Capital account": "#228B22",
+        "Errors": "#FF69B4",
+        "Financial account": "#00FF00"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "BoP (in US$)",
+    "data": [
+        {
+            "label": "Capital account",
+            "color": "#228B22",
+            "values": [
+                46311172.74,
+                75388140.0,
+                113588767.7,
+                132002061.1,
+                185117147.7
+            ]
+        },
+        {
+            "label": "Errors",
+            "color": "#FF69B4",
+            "values": [
+                108357461.4,
+                17724581.87,
+                -107245490.3,
+                7031526.953,
+                -175131659.7
+            ]
+        },
+        {
+            "label": "Financial account",
+            "color": "#00FF00",
+            "values": [
+                304749253.6,
+                98772204.54,
+                739685089.8,
+                160447743.7,
+                -117630255.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -175131660,
+                "max_value": 739685090
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

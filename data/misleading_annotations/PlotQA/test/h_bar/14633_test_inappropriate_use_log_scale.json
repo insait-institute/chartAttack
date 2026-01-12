@@ -1,0 +1,71 @@
+{
+    "title": "Global emissions of Hydrofluorocarbons",
+    "legend": {
+        "Brazil": "#4682B4",
+        "Cuba": "#008B8B",
+        "Mexico": "#BA55D3",
+        "Uruguay": "#9ACD32"
+    },
+    "categories": [
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "data": {
+        "Brazil": [
+            147.4,
+            1793.4,
+            2707.5,
+            3336.0
+        ],
+        "Cuba": [
+            34.2,
+            127.8,
+            185.9,
+            226.0
+        ],
+        "Mexico": [
+            3347.3,
+            7058.9,
+            8796.9,
+            8485.0
+        ],
+        "Uruguay": [
+            29.3,
+            58.7,
+            71.8,
+            81.0
+        ]
+    },
+    "colors": {
+        "Brazil": "#4682B4",
+        "Cuba": "#008B8B",
+        "Mexico": "#BA55D3",
+        "Uruguay": "#9ACD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8800
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in South Asia",
+    "legend": {
+        "Female": "#FF0000",
+        "Male": "#708090"
+    },
+    "categories": [
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977",
+        "1978"
+    ],
+    "data": {
+        "Female": [
+            84.7289962768555,
+            83.495849609375,
+            83.9300079345703,
+            84.4873809814453,
+            88.3310394287109,
+            82.1822204589844
+        ],
+        "Male": [
+            122.948097229004,
+            119.770599365234,
+            121.37036895752,
+            122.505638122559,
+            124.581016540527,
+            118.449752807617
+        ]
+    },
+    "colors": {
+        "Female": "#FF0000",
+        "Male": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

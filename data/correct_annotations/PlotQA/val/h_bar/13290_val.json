@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the tax revenue collected from taxes on exports",
+    "legend": {
+        "Afghanistan": "#BEBEBE",
+        "Azerbaijan": "#228B22",
+        "Morocco": "#B8860B",
+        "Norway": "#40E0D0"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Afghanistan": [
+            0.0194097678916442,
+            0.0173958543069335,
+            0.0294703894456772,
+            0.16834122720132
+        ],
+        "Azerbaijan": [
+            0.0121377636170536,
+            0.0039823185058341,
+            0.00387386689393352,
+            0.0031412461323407
+        ],
+        "Morocco": [
+            0.0327048472076919,
+            1.39890054820771,
+            0.558518241241597,
+            1.57025855907645
+        ],
+        "Norway": [
+            0.0165858108388274,
+            0.0207538434521624,
+            0.021654395842356,
+            0.0222300681286206
+        ]
+    },
+    "colors": {
+        "Afghanistan": "#BEBEBE",
+        "Azerbaijan": "#228B22",
+        "Morocco": "#B8860B",
+        "Norway": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

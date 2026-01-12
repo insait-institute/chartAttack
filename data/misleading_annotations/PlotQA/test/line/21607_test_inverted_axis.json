@@ -1,0 +1,53 @@
+{
+    "title": "Total trademark applications made by Curacao",
+    "legend": {
+        "Trademark applications": "#6A5ACD"
+    },
+    "x_axis": [
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Number of total applications",
+    "data": [
+        {
+            "label": "Trademark applications",
+            "color": "#6A5ACD",
+            "values": [
+                653,
+                1243,
+                1192,
+                1137
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 650,
+                "max_value": 1250
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

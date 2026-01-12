@@ -1,0 +1,82 @@
+{
+    "title": "Total annual savings of the government",
+    "legend": {
+        "1960": "#4B0082",
+        "1961": "#8A2BE2",
+        "1962": "#4682B4",
+        "1963": "#EE82EE"
+    },
+    "categories": [
+        "Australia",
+        "Bangladesh",
+        "Benin",
+        "Bolivia",
+        "Botswana",
+        "Brazil"
+    ],
+    "data": {
+        "1960": [
+            30.5024428493878,
+            7.583692765565401,
+            5.438599592131539,
+            2.96474365388468,
+            -7.35256832817808,
+            19.6198023306688
+        ],
+        "1961": [
+            30.5029653284672,
+            6.81176578536412,
+            6.01169825366714,
+            2.72559252337264,
+            -7.90974386888536,
+            21.2960883671636
+        ],
+        "1962": [
+            29.8073673538358,
+            11.9290629637381,
+            4.66773007719031,
+            2.49278895359463,
+            -8.11389104124796,
+            18.28444651236611
+        ],
+        "1963": [
+            30.065121125293,
+            8.182835854170639,
+            3.81229058408098,
+            2.31504299659906,
+            -8.54381831127554,
+            19.1853384488268
+        ]
+    },
+    "colors": {
+        "1960": "#4B0082",
+        "1961": "#8A2BE2",
+        "1962": "#4682B4",
+        "1963": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

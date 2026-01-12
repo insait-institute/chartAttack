@@ -1,0 +1,62 @@
+{
+    "title": "Enrolment ratio of female students in primary schools",
+    "legend": {
+        "Latin America(developing only)": "#D2691E",
+        "Belarus": "#00FF7F"
+    },
+    "categories": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "data": {
+        "Latin America(developing only)": [
+            119.484573364258,
+            118.457916259766,
+            117.614723205566,
+            117.331413269043,
+            116.053756713867,
+            115.369476318359
+        ],
+        "Belarus": [
+            107.894203186035,
+            110.796920776367,
+            112.616966247559,
+            110.461387634277,
+            100.916702270508,
+            97.57982635498051
+        ]
+    },
+    "colors": {
+        "Latin America(developing only)": "#D2691E",
+        "Belarus": "#00FF7F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

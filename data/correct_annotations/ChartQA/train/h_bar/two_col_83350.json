@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Share of municipalities covered": "#2876dd"
+    },
+    "categories": [
+        "Cagliari",
+        "Sassari",
+        "South Sardinia",
+        "Nuoro",
+        "Oristano"
+    ],
+    "data": {
+        "Share of municipalities covered": [
+            100,
+            90.2,
+            85,
+            81.1,
+            73.6
+        ]
+    },
+    "colors": {
+        "Share of municipalities covered": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

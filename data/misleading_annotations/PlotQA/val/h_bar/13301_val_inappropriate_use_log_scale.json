@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of population that have access to electricity in 1990",
+    "legend": {
+        "Equatorial Guinea": "#32CD32",
+        "Mali": "#EE82EE",
+        "Mongolia": "#228B22",
+        "Seychelles": "#66CDAA"
+    },
+    "categories": [
+        "Rural Population",
+        "Urban Population"
+    ],
+    "data": {
+        "Equatorial Guinea": [
+            6.579184,
+            100.0
+        ],
+        "Mali": [
+            0.1,
+            51.2866049223909
+        ],
+        "Mongolia": [
+            58.46011,
+            95.9043089725247
+        ],
+        "Seychelles": [
+            6.579184,
+            100.0
+        ]
+    },
+    "colors": {
+        "Equatorial Guinea": "#32CD32",
+        "Mali": "#EE82EE",
+        "Mongolia": "#228B22",
+        "Seychelles": "#66CDAA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

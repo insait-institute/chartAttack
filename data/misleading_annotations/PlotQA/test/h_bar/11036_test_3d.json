@@ -1,0 +1,68 @@
+{
+    "title": "Proportion of employers amongst total employed population in High income_ nonOECD",
+    "legend": {
+        "Total employers": "#00CED1",
+        "Female employers": "#8FBC8F",
+        "Male employers": "#DAA520"
+    },
+    "categories": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Total employers": [
+            2.40938009376939,
+            2.28309601330205,
+            2.36191913290174,
+            2.31757148434533,
+            2.3187839153095
+        ],
+        "Female employers": [
+            1.37703131387653,
+            1.20686540545661,
+            1.30679908689323,
+            1.37531492823678,
+            1.33340205579672
+        ],
+        "Male employers": [
+            3.31215674916066,
+            3.16387690838105,
+            3.23640995789498,
+            3.07848999348451,
+            3.19650859899361
+        ]
+    },
+    "colors": {
+        "Total employers": "#00CED1",
+        "Female employers": "#8FBC8F",
+        "Male employers": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

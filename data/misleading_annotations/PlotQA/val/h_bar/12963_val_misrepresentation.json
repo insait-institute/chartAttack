@@ -1,0 +1,80 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy(residual) in 1981",
+    "legend": {
+        "Korea (Democratic)": "#4682B4",
+        "New Caledonia": "#FF4500",
+        "Paraguay": "#9ACD32",
+        "Samoa": "#D2B48C"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Korea (Democratic)": [
+            38.6229167769475,
+            39.2470150485495
+        ],
+        "New Caledonia": [
+            0.761637257872777,
+            21.254716580694
+        ],
+        "Paraguay": [
+            4.58763129386275,
+            6.878222372168389
+        ],
+        "Samoa": [
+            100,
+            100
+        ]
+    },
+    "colors": {
+        "Korea (Democratic)": "#4682B4",
+        "New Caledonia": "#FF4500",
+        "Paraguay": "#9ACD32",
+        "Samoa": "#D2B48C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Korea (Democratic)": [
+            1.75,
+            0.25
+        ],
+        "New Caledonia": [
+            1.75,
+            0.25
+        ],
+        "Paraguay": [
+            1.75,
+            0.25
+        ],
+        "Samoa": [
+            1.75,
+            0.25
+        ]
+    }
+}

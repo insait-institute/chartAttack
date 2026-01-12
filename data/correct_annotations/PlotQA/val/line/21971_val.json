@@ -1,0 +1,53 @@
+{
+    "title": "Delay in obtaining an electrical connection in Uzbekistan",
+    "legend": {
+        "Dalay in Electrical connection": "#00BFFF"
+    },
+    "x_axis": [
+        "2002",
+        "2005",
+        "2008",
+        "2013"
+    ],
+    "y_axis_label": "Average number of days",
+    "data": [
+        {
+            "label": "Dalay in Electrical connection",
+            "color": "#00BFFF",
+            "values": [
+                7.7,
+                8.3,
+                28.0,
+                6.2
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

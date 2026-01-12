@@ -1,0 +1,55 @@
+{
+    "title": "Percentage of unemployed male labor force of Guam",
+    "legend": {
+        "Unemployment male": "#2F4F4F"
+    },
+    "x_axis": [
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1998"
+    ],
+    "y_axis_label": "Unemployed Males (% of male labor force)",
+    "data": [
+        {
+            "label": "Unemployment male",
+            "color": "#2F4F4F",
+            "values": [
+                8.5,
+                5.599999904632571,
+                5.699999809265139,
+                4.30000019073486,
+                7.300000190734861
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

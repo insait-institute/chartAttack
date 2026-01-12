@@ -1,0 +1,72 @@
+{
+    "title": "Balance of Payments of transport services as percentage of service exports",
+    "legend": {
+        "Small states": "#BA55D3",
+        "Sub-Saharan Africa (developing only)": "#DAA520",
+        "Libya": "#483D8B",
+        "Moldova": "#90EE90"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Small states": [
+            12.4639118892769,
+            13.2095673668688,
+            12.5763570155214,
+            12.5316718298112
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            22.1027188220052,
+            23.3161453576362,
+            22.37665188124889,
+            25.6814687811675
+        ],
+        "Libya": [
+            23.22580645161289,
+            56.7164179104478,
+            68.051948051948,
+            64.0087783467447
+        ],
+        "Moldova": [
+            37.8302870248106,
+            38.7762886597938,
+            33.9251396790246,
+            33.1409527944125
+        ]
+    },
+    "colors": {
+        "Small states": "#BA55D3",
+        "Sub-Saharan Africa (developing only)": "#DAA520",
+        "Libya": "#483D8B",
+        "Moldova": "#90EE90"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

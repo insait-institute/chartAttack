@@ -1,0 +1,63 @@
+{
+    "title": "Trade statistics of goods and services in 2005",
+    "x_axis": {
+        "categories": [
+            "Kenya",
+            "Korea (Republic)",
+            "Kyrgyz Republic",
+            "Lao PDR",
+            "Latvia",
+            "Lebanon"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Exports": "#FF8C00",
+        "Imports": "#BC8F8F"
+    },
+    "data": {
+        "Exports": [
+            537900139300.0,
+            410113000000000.0,
+            6140614600.0,
+            7297712442700.0,
+            7780676000.0,
+            7551487554400.0
+        ],
+        "Imports": [
+            552416468800.0,
+            413371600000000.0,
+            7912324800.0,
+            9934512965200.0,
+            10131484000.0,
+            14067910098200.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 413371600000000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

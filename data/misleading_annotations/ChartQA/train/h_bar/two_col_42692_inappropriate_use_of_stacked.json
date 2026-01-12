@@ -1,0 +1,137 @@
+{
+    "title": "Receiving yards",
+    "categories": [
+        "Receiving yards"
+    ],
+    "data": {
+        "Marques Colston": [
+            9759.0
+        ],
+        "Eric Martin": [
+            7854.0
+        ],
+        "Joe Horn": [
+            7622.0
+        ],
+        "Michael Thomas": [
+            5950.0
+        ],
+        "Danny Abramowicz": [
+            4875.0
+        ],
+        "Jimmy Graham": [
+            4752.0
+        ],
+        "Devery Henderson": [
+            4377.0
+        ],
+        "Lance Moore": [
+            4281.0
+        ],
+        "Hoby Brenner": [
+            3849.0
+        ],
+        "Quinn Early": [
+            3758.0
+        ],
+        "Henry Childs": [
+            3224.0
+        ],
+        "Brandin Cooks": [
+            2861.0
+        ],
+        "Wes Chandler": [
+            2801.0
+        ],
+        "Donte' Stallworth": [
+            2791.0
+        ],
+        "Robert Meachem": [
+            2707.0
+        ],
+        "Alvin Kamara": [
+            2624.0
+        ],
+        "Pierre Thomas": [
+            2608.0
+        ],
+        "Michael Haynes": [
+            2368.0
+        ],
+        "Dave Parks": [
+            2254.0
+        ],
+        "Dalton Hilliard": [
+            2233.0
+        ]
+    },
+    "colors": {
+        "Marques Colston": "#f27979",
+        "Eric Martin": "#f24800",
+        "Joe Horn": "#f2c179",
+        "Michael Thomas": "#f2da00",
+        "Danny Abramowicz": "#daf279",
+        "Jimmy Graham": "#79f200",
+        "Devery Henderson": "#91f279",
+        "Lance Moore": "#00a510",
+        "Hoby Brenner": "#52a574",
+        "Quinn Early": "#00a574",
+        "Henry Childs": "#52a5a5",
+        "Brandin Cooks": "#0074a5",
+        "Wes Chandler": "#5274a5",
+        "Donte' Stallworth": "#0010a5",
+        "Robert Meachem": "#9179f2",
+        "Alvin Kamara": "#7900f2",
+        "Pierre Thomas": "#da79f2",
+        "Michael Haynes": "#f200da",
+        "Dave Parks": "#f279c1",
+        "Dalton Hilliard": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9760
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Marques Colston": "#f27979",
+        "Eric Martin": "#f24800",
+        "Joe Horn": "#f2c179",
+        "Michael Thomas": "#f2da00",
+        "Danny Abramowicz": "#daf279",
+        "Jimmy Graham": "#79f200",
+        "Devery Henderson": "#91f279",
+        "Lance Moore": "#00a510",
+        "Hoby Brenner": "#52a574",
+        "Quinn Early": "#00a574",
+        "Henry Childs": "#52a5a5",
+        "Brandin Cooks": "#0074a5",
+        "Wes Chandler": "#5274a5",
+        "Donte' Stallworth": "#0010a5",
+        "Robert Meachem": "#9179f2",
+        "Alvin Kamara": "#7900f2",
+        "Pierre Thomas": "#da79f2",
+        "Michael Haynes": "#f200da",
+        "Dave Parks": "#f279c1",
+        "Dalton Hilliard": "#f20048"
+    }
+}

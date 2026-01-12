@@ -1,0 +1,80 @@
+{
+    "title": "Number of new HIV infections",
+    "categories": [
+        "South Africa",
+        "Nigeria (2014)",
+        "Russia (2014)",
+        "Uganda",
+        "Mozambique",
+        "Kenya",
+        "Indonesia",
+        "Zimbabwe",
+        "Zambia",
+        "Tanzania",
+        "Brazil",
+        "Cameroon",
+        "Malawi",
+        "Angola",
+        "Ivory Coast",
+        "Ethiopia (2013)",
+        "Lesotho",
+        "Pakistan",
+        "Ukraine",
+        "DR Congo"
+    ],
+    "data": {
+        "Infections": [
+            380000,
+            230000,
+            110000,
+            83000,
+            81000,
+            78000,
+            73000,
+            64000,
+            60000,
+            54000,
+            44000,
+            44000,
+            33000,
+            26000,
+            25000,
+            21000,
+            18000,
+            17000,
+            16000,
+            15000
+        ]
+    },
+    "colors": {
+        "Infections": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 380000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Infections": "#2876dd"
+    }
+}

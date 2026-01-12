@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Average number of bedrooms per unit": "#808080"
+    },
+    "categories": [
+        "Austin, TX",
+        "San Diego, CA",
+        "Los Angeles, CA",
+        "San Francisco, CA",
+        "Miami, FL",
+        "Seattle, WA",
+        "Chicago, IL",
+        "Washington, DC",
+        "Boston, MA",
+        "New York, NY",
+        "Overall U.S."
+    ],
+    "data": {
+        "Average number of bedrooms per unit": [
+            1.8,
+            1.6,
+            1.4,
+            1.4,
+            1.4,
+            1.4,
+            1.3,
+            1.3,
+            1.3,
+            1.2,
+            1.6
+        ]
+    },
+    "colors": {
+        "Average number of bedrooms per unit": "#808080"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

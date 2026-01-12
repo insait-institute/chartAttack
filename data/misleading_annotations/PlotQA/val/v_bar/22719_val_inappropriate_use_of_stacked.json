@@ -1,0 +1,67 @@
+{
+    "title": "Trade statistics with developing economies of South Asia in 1987",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Austria": "#f27979",
+        "Bahamas": "#c1f200",
+        "Bahrain": "#52a574",
+        "Bangladesh": "#0042a5",
+        "Barbados": "#da79f2"
+    },
+    "data": {
+        "Austria": [
+            0.3743443452654829
+        ],
+        "Bahamas": [
+            0.0390368133644455
+        ],
+        "Bahrain": [
+            11.4018124332916
+        ],
+        "Bangladesh": [
+            4.21062407132244
+        ],
+        "Barbados": [
+            0.0373148731937671
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Austria": "#f27979",
+        "Bahamas": "#c1f200",
+        "Bahrain": "#52a574",
+        "Bangladesh": "#0042a5",
+        "Barbados": "#da79f2"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Total imports of goods and services from different countries",
+    "legend": {
+        "1960": "#FF4500",
+        "1961": "#6495ED",
+        "1962": "#8B4513",
+        "1963": "#6A5ACD"
+    },
+    "categories": [
+        "Ghana",
+        "Greece",
+        "Guatemala",
+        "Guyana"
+    ],
+    "data": {
+        "1960": [
+            30800.0,
+            63259704.0,
+            151700000.0,
+            166200000.0
+        ],
+        "1961": [
+            33900.0,
+            70060424.0,
+            145300000.0,
+            168800000.0
+        ],
+        "1962": [
+            28100.0,
+            76616240.0,
+            153500000.0,
+            150000000.0
+        ],
+        "1963": [
+            30200.0,
+            91049728.0,
+            201200000.0,
+            139000000.0
+        ]
+    },
+    "colors": {
+        "1960": "#FF4500",
+        "1961": "#6495ED",
+        "1962": "#8B4513",
+        "1963": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 201200000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

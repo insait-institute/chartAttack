@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of children (under age 5) infected with anaemia in the year 2003",
+    "x_axis": {
+        "categories": [
+            "Central Europe",
+            "East Asia (all income levels)",
+            "East Asia (developing only)",
+            "Euro area",
+            "Europe(all income levels)",
+            "Europe(developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Prevalence of anemia among children": "#FFA07A"
+    },
+    "data": {
+        "Prevalence of anemia among children": [
+            26.8398961370033,
+            22.0114190333928,
+            22.77859371873811,
+            12.198825387499,
+            23.0040080706986,
+            34.5074868114405
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

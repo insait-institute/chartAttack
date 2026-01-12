@@ -1,0 +1,72 @@
+{
+    "title": "Number of trademark applications made by the nonresidents of a country",
+    "legend": {
+        "1960": "#008B8B",
+        "1961": "#008080",
+        "1962": "#DC143C"
+    },
+    "categories": [
+        "Finland",
+        "France",
+        "Hungary",
+        "Iran",
+        "Ireland",
+        "Israel"
+    ],
+    "data": {
+        "1960": [
+            1011.0,
+            16874.0,
+            147.0,
+            895.0,
+            305.0,
+            290.0
+        ],
+        "1961": [
+            998.0,
+            18042.0,
+            188.0,
+            905.0,
+            316.0,
+            446.0
+        ],
+        "1962": [
+            1027.0,
+            18892.0,
+            158.0,
+            786.0,
+            288.0,
+            355.0
+        ]
+    },
+    "colors": {
+        "1960": "#008B8B",
+        "1961": "#008080",
+        "1962": "#DC143C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 18900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

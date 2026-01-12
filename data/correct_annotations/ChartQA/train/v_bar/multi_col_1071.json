@@ -1,0 +1,81 @@
+{
+    "title": "Pass rates",
+    "x_axis": {
+        "categories": [
+            "2007/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19"
+        ]
+    },
+    "y_axis": {
+        "label": "Pass rates"
+    },
+    "legend": {
+        "Male": "#2876dd",
+        "Female": "#0f283e"
+    },
+    "data": {
+        "Male": [
+            62.3,
+            62.6,
+            61.1,
+            60.4,
+            58.1,
+            56.2,
+            48.8,
+            48.7,
+            47.7,
+            46.8,
+            46.8,
+            45.7
+        ],
+        "Female": [
+            68.9,
+            68.7,
+            66.9,
+            66.0,
+            63.7,
+            62.3,
+            54.7,
+            53.6,
+            51.0,
+            50.7,
+            50.7,
+            49.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

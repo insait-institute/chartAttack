@@ -1,0 +1,53 @@
+{
+    "title": "Tuberculosis treatment success rate in Panama",
+    "legend": {
+        "Tuberculosis treatment success rate": "#8B008B"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Success rate(as % of new cases)",
+    "data": [
+        {
+            "label": "Tuberculosis treatment success rate",
+            "color": "#8B008B",
+            "values": [
+                63,
+                75,
+                78,
+                78
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

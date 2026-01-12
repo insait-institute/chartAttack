@@ -1,0 +1,64 @@
+{
+    "title": "Imports in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2005",
+            "2010",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Imports in billion U.S. dollars"
+    },
+    "legend": {
+        "Imports": "#2876dd"
+    },
+    "data": {
+        "Imports": [
+            7.4,
+            17.4,
+            36.4,
+            43.3,
+            40,
+            26.7,
+            25.1,
+            29,
+            29.7,
+            29.8,
+            29.7
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

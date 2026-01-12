@@ -1,0 +1,134 @@
+{
+    "title": "Consumption in exajoules",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2005",
+            "2010",
+            "2015",
+            "2018",
+            "2025",
+            "2030",
+            "2035",
+            "2040",
+            "2045",
+            "2050"
+        ]
+    },
+    "y_axis": {
+        "label": "Consumption in exajoules"
+    },
+    "legend": {
+        "Hydroelectricity": "#2876dd",
+        "Nuclear energy": "#0f283e",
+        "Renewable energy**": "#bababa",
+        "Natural gas": "#a60b0b",
+        "Oil": "#87bc24",
+        "Coal": "#ebb523"
+    },
+    "data": {
+        "Hydroelectricity": [
+            27,
+            28,
+            32,
+            35,
+            38,
+            43,
+            46,
+            47,
+            49,
+            50,
+            51
+        ],
+        "Nuclear energy": [
+            26,
+            27,
+            26,
+            23,
+            24,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+        ],
+        "Renewable energy**": [
+            3,
+            4,
+            10,
+            18,
+            27,
+            48,
+            70,
+            89,
+            114,
+            137,
+            161
+        ],
+        "Natural gas": [
+            86,
+            99,
+            114,
+            125,
+            138,
+            154,
+            166,
+            175,
+            180,
+            184,
+            187
+        ],
+        "Oil": [
+            155,
+            169,
+            173,
+            184,
+            190,
+            191,
+            190,
+            187,
+            182,
+            177,
+            172
+        ],
+        "Coal": [
+            99,
+            130,
+            151,
+            158,
+            158,
+            155,
+            149,
+            145,
+            138,
+            131,
+            123
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 200
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

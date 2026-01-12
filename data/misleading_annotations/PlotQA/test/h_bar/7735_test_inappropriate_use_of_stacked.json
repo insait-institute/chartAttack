@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of female part-time workers in a country",
+    "legend": {
+        "2005": "#f27979",
+        "2006": "#f2f200",
+        "2007": "#79f279",
+        "2008": "#00a5a5",
+        "2009": "#5252a5",
+        "2011": "#a500a5"
+    },
+    "categories": [
+        "Percentage of female part-time workers in a country"
+    ],
+    "data": {
+        "2005": [
+            28.52011200245531
+        ],
+        "2006": [
+            28.81446675661289
+        ],
+        "2007": [
+            27.3443309694034
+        ],
+        "2008": [
+            27.3837944172578
+        ],
+        "2009": [
+            27.4943647157755
+        ],
+        "2011": [
+            25.3715290396551
+        ]
+    },
+    "colors": {
+        "2005": "#f27979",
+        "2006": "#f2f200",
+        "2007": "#79f279",
+        "2008": "#00a5a5",
+        "2009": "#5252a5",
+        "2011": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

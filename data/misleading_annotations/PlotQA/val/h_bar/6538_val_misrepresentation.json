@@ -1,0 +1,65 @@
+{
+    "title": "Self-employed male workers as % of total employment in an economy",
+    "legend": {
+        "Bosnia and Herzegovina": "#7FFFD4",
+        "Croatia": "#90EE90"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Bosnia and Herzegovina": [
+            28.0,
+            27.2999992370605,
+            27.60000038146969
+        ],
+        "Croatia": [
+            24.39999961853031,
+            22.10000038146969,
+            22.2000007629395
+        ]
+    },
+    "colors": {
+        "Bosnia and Herzegovina": "#7FFFD4",
+        "Croatia": "#90EE90"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Bosnia and Herzegovina": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Croatia": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

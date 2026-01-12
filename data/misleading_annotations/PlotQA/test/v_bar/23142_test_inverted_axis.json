@@ -1,0 +1,57 @@
+{
+    "title": "Net bilateral aid flow in 1972 from different donors of DA Committee",
+    "x_axis": {
+        "categories": [
+            "France",
+            "Germany",
+            "Italy",
+            "Japan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "South Asia": "#9ACD32",
+        "Peru": "#0000FF"
+    },
+    "data": {
+        "South Asia": [
+            29190000,
+            133500000,
+            44370000,
+            58060000
+        ],
+        "Peru": [
+            -450000,
+            8540000,
+            40000,
+            8250000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 133500000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

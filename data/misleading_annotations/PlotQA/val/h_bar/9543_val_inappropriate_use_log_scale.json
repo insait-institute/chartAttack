@@ -1,0 +1,63 @@
+{
+    "title": "Total urban population of a country",
+    "legend": {
+        "Belarus": "#2F4F4F",
+        "Guam": "#FF7F50",
+        "Switzerland": "#FF00FF"
+    },
+    "categories": [
+        "1963",
+        "1964",
+        "1965",
+        "1966"
+    ],
+    "data": {
+        "Belarus": [
+            35.822,
+            37.0,
+            38.127,
+            39.269
+        ],
+        "Guam": [
+            53.396,
+            54.475,
+            55.548,
+            56.617
+        ],
+        "Switzerland": [
+            52.94600000000001,
+            53.583,
+            54.217,
+            54.85100000000001
+        ]
+    },
+    "colors": {
+        "Belarus": "#2F4F4F",
+        "Guam": "#FF7F50",
+        "Switzerland": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

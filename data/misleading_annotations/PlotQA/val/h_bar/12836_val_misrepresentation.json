@@ -1,0 +1,89 @@
+{
+    "title": "Net enrollment rate of male students in primary schools",
+    "legend": {
+        "Algeria": "#8B0000",
+        "Cuba": "#BA55D3",
+        "Lao PDR": "#708090",
+        "Rwanda": "#2F4F4F"
+    },
+    "categories": [
+        "1999",
+        "2002",
+        "2003"
+    ],
+    "data": {
+        "Algeria": [
+            89.8043212890625,
+            94.65003204345699,
+            95.23220825195308
+        ],
+        "Cuba": [
+            98.8340225219727,
+            96.9829330444335,
+            95.11868286132808
+        ],
+        "Lao PDR": [
+            77.5818710327148,
+            77.9918212890625,
+            80.2789001464844
+        ],
+        "Rwanda": [
+            82.7277526855469,
+            85.89968872070308,
+            91.1242828369141
+        ]
+    },
+    "colors": {
+        "Algeria": "#8B0000",
+        "Cuba": "#BA55D3",
+        "Lao PDR": "#708090",
+        "Rwanda": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Algeria": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Cuba": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Lao PDR": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Rwanda": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

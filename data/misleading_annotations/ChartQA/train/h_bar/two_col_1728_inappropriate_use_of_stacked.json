@@ -1,0 +1,77 @@
+{
+    "title": "",
+    "legend": {
+        "Superman": "#f27979",
+        "Batman": "#f2b500",
+        "Spider-Man": "#b5f279",
+        "X-Men": "#00a529",
+        "Captain America": "#52a5a5",
+        "The Adventures of Tintin": "#0029a5",
+        "Dragon Ball": "#b579f2",
+        "The Phantom": "#f200b5"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Superman": [
+            600.0
+        ],
+        "Batman": [
+            460.0
+        ],
+        "Spider-Man": [
+            360.0
+        ],
+        "X-Men": [
+            270.0
+        ],
+        "Captain America": [
+            210.0
+        ],
+        "The Adventures of Tintin": [
+            200.0
+        ],
+        "Dragon Ball": [
+            200.0
+        ],
+        "The Phantom": [
+            150.0
+        ]
+    },
+    "colors": {
+        "Superman": "#f27979",
+        "Batman": "#f2b500",
+        "Spider-Man": "#b5f279",
+        "X-Men": "#00a529",
+        "Captain America": "#52a5a5",
+        "The Adventures of Tintin": "#0029a5",
+        "Dragon Ball": "#b579f2",
+        "The Phantom": "#f200b5"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 600
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

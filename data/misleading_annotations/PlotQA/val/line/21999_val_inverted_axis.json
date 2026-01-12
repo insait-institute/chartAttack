@@ -1,0 +1,53 @@
+{
+    "title": "Net energy imports of Cameroon",
+    "legend": {
+        "Energy imports": "#00FF7F"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Net Energy imports(% of energy use)",
+    "data": [
+        {
+            "label": "Energy imports",
+            "color": "#00FF7F",
+            "values": [
+                -49.77135364536279,
+                -52.60845889302011,
+                -45.8392457958685,
+                -45.4550884757872
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -60,
+                "max_value": 0
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

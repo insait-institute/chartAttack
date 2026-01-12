@@ -1,0 +1,62 @@
+{
+    "title": "Number of residents in millions",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2020",
+            "2025",
+            "2030",
+            "2035",
+            "2040",
+            "2045",
+            "2050",
+            "2055",
+            "2060"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of residents in millions"
+    },
+    "legend": {
+        "2015-2060": "#2876dd"
+    },
+    "data": {
+        "2015-2060": [
+            321.37,
+            334.5,
+            347.34,
+            359.4,
+            370.34,
+            380.22,
+            389.39,
+            398.33,
+            407.41,
+            416.8
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 420
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

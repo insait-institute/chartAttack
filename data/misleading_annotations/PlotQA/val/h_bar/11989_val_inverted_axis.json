@@ -1,0 +1,62 @@
+{
+    "title": "Enrollment rate recorded in primary and secondary education in year 1997",
+    "legend": {
+        "Europe(developing only)": "#006400",
+        "OECD members": "#556B2F",
+        "Small states": "#20B2AA",
+        "Netherlands": "#000000"
+    },
+    "categories": [
+        "Primary",
+        "Secondary"
+    ],
+    "data": {
+        "Europe(developing only)": [
+            89.65924072265629,
+            74.2402648925781
+        ],
+        "OECD members": [
+            96.4570083618164,
+            82.1526107788085
+        ],
+        "Small states": [
+            79.0373992919922,
+            45.6777763366699
+        ],
+        "Netherlands": [
+            99.68376,
+            89.66573000000002
+        ]
+    },
+    "colors": {
+        "Europe(developing only)": "#006400",
+        "OECD members": "#556B2F",
+        "Small states": "#20B2AA",
+        "Netherlands": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

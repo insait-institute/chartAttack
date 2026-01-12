@@ -1,0 +1,57 @@
+{
+    "title": "Survival rate of children of different countries in Grade 5 of primary education",
+    "x_axis": {
+        "categories": [
+            "Congo (Democratic)",
+            "Costa Rica",
+            "Cote d'Ivoire",
+            "Cuba"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#F0E68C",
+        "Male": "#BDB76B"
+    },
+    "data": {
+        "Female": [
+            61.42737960815421,
+            91.13101196289058,
+            77.6316299438477,
+            97.9526519775391
+        ],
+        "Male": [
+            60.5677909851074,
+            88.70217895507808,
+            78.9480514526367,
+            95.48513793945308
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

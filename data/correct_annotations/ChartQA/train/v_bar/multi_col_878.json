@@ -1,0 +1,66 @@
+{
+    "title": "Life expectancy in years",
+    "x_axis": {
+        "categories": [
+            "2010-2014",
+            "2011-2015",
+            "2012-2016",
+            "2013-2017",
+            "2014-2018",
+            "2015-2019",
+            "2016-2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Life expectancy in years"
+    },
+    "legend": {
+        "Men": "#2876dd",
+        "Women": "#0f283e"
+    },
+    "data": {
+        "Men": [
+            79.93,
+            80.08,
+            80.24,
+            80.41,
+            80.55,
+            80.75,
+            80.8
+        ],
+        "Women": [
+            83.69,
+            83.79,
+            83.88,
+            83.99,
+            84.1,
+            84.24,
+            84.29
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

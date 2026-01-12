@@ -1,0 +1,64 @@
+{
+    "title": "Agricultural nitrous oxide emissions by a country",
+    "legend": {
+        "1990": "#483D8B",
+        "2000": "#CD853F",
+        "2005": "#BEBEBE"
+    },
+    "categories": [
+        "Belgium",
+        "Benin",
+        "Bolivia",
+        "Bosnia and Herzegovina"
+    ],
+    "data": {
+        "1990": [
+            36.57346448764621,
+            48.5224380442063,
+            51.5015467163076,
+            45.1003658657174
+        ],
+        "2000": [
+            31.88102518259669,
+            58.29648661567879,
+            48.2005629030977,
+            38.3574989970772
+        ],
+        "2005": [
+            33.029085212179,
+            60.1766881249144,
+            35.8048365456985,
+            66.96696696696701
+        ]
+    },
+    "colors": {
+        "1990": "#483D8B",
+        "2000": "#CD853F",
+        "2005": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Number of teachers providing primary vs secondary education in different countries",
+    "x_axis": {
+        "categories": [
+            "Austria",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belgium"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary education": "#5F9EA0",
+        "Secondary Education": "#00FF00"
+    },
+    "data": {
+        "Primary education": [
+            27942.0,
+            1565.0,
+            2910.0,
+            189884.0,
+            1317.0,
+            40894.0
+        ],
+        "Secondary Education": [
+            1368.0,
+            581.0,
+            1565.0,
+            1801.0,
+            1512.0,
+            10439.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 189890
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

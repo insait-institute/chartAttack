@@ -1,0 +1,118 @@
+{
+    "title": "Total electricity produced from different renewable sources in High income_ nonOECD",
+    "legend": {
+        "Hydroelectric sources": "#00FF7F",
+        "Nuclear sources": "#C71585",
+        "Renewable sources": "#00BFFF"
+    },
+    "x_axis": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Hydroelectric sources",
+            "color": "#00FF7F",
+            "values": [
+                17.3937637455816,
+                17.31389068062,
+                16.5530897855006,
+                16.6006829274012,
+                17.2233732912552,
+                15.9233253346715
+            ]
+        },
+        {
+            "label": "Nuclear sources",
+            "color": "#C71585",
+            "values": [
+                10.9319906331168,
+                10.5244711399504,
+                11.1651487239134,
+                11.04037400771131,
+                11.1284859838562,
+                11.5168219112227
+            ]
+        },
+        {
+            "label": "Renewable sources",
+            "color": "#00BFFF",
+            "values": [
+                0.0844689234483202,
+                0.093858483911394,
+                0.10544211806424,
+                0.128714469510077,
+                0.149280159077519,
+                0.168448085027305
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Hydroelectric sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Nuclear sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Renewable sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "title": "",
+    "legend": {
+        "Hawaii": "#f27979",
+        "Alaska": "#f29100",
+        "Connecticut": "#daf279",
+        "Rhode Island": "#30f200",
+        "Massachusetts": "#52a574",
+        "New Hampshire": "#00a5a5",
+        "California": "#5274a5",
+        "Vermont": "#2100a5",
+        "New York": "#da79f2",
+        "Maine": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Hawaii": [
+            84.23
+        ],
+        "Alaska": [
+            59.36
+        ],
+        "Connecticut": [
+            54.68
+        ],
+        "Rhode Island": [
+            54.18
+        ],
+        "Massachusetts": [
+            53.92
+        ],
+        "New Hampshire": [
+            50.28
+        ],
+        "California": [
+            49.6
+        ],
+        "Vermont": [
+            45.02
+        ],
+        "New York": [
+            42.04
+        ],
+        "Maine": [
+            41.14
+        ]
+    },
+    "colors": {
+        "Hawaii": "#f27979",
+        "Alaska": "#f29100",
+        "Connecticut": "#daf279",
+        "Rhode Island": "#30f200",
+        "Massachusetts": "#52a574",
+        "New Hampshire": "#00a5a5",
+        "California": "#5274a5",
+        "Vermont": "#2100a5",
+        "New York": "#da79f2",
+        "Maine": "#f20091"
+    },
+    "type": "h_bar",
+    "y_label": "Price in U.S. dollars per million British thermal units",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

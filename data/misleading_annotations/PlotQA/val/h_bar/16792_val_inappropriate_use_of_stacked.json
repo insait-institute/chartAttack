@@ -1,0 +1,67 @@
+{
+    "title": "Insurance provided to residents by nonresident insurance enterprises in 2014",
+    "legend": {
+        "Malta": "#f27979",
+        "Mauritius": "#f2f200",
+        "Mexico": "#79f279",
+        "Moldova": "#00a5a5",
+        "Montenegro": "#5252a5",
+        "Netherlands": "#a500a5"
+    },
+    "categories": [
+        "Insurance provided to residents by nonresident insurance enterprises in 2014"
+    ],
+    "data": {
+        "Malta": [
+            32.3282688767484
+        ],
+        "Mauritius": [
+            4.898772865483719
+        ],
+        "Mexico": [
+            16.894020026367
+        ],
+        "Moldova": [
+            0.667955859915552
+        ],
+        "Montenegro": [
+            0.402285499686536
+        ],
+        "Netherlands": [
+            4.46166147720306
+        ]
+    },
+    "colors": {
+        "Malta": "#f27979",
+        "Mauritius": "#f2f200",
+        "Mexico": "#79f279",
+        "Moldova": "#00a5a5",
+        "Montenegro": "#5252a5",
+        "Netherlands": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

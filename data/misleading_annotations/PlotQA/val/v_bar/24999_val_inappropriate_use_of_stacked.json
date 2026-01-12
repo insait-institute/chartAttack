@@ -1,0 +1,52 @@
+{
+    "title": "Trade statistics with high income economies in 1982",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#f27979",
+        "Merchandise imports": "#00a5a5"
+    },
+    "data": {
+        "Merchandise exports": [
+            74.8162633984868
+        ],
+        "Merchandise imports": [
+            61.5183848733874
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Merchandise exports": "#f27979",
+        "Merchandise imports": "#00a5a5"
+    }
+}

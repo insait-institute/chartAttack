@@ -1,0 +1,138 @@
+{
+    "title": "",
+    "y_label": "Complete University Guide score",
+    "categories": [
+        ""
+    ],
+    "data": {
+        "University of Cambridge": [
+            100.0
+        ],
+        "University of Oxford": [
+            99.0
+        ],
+        "University of St Andrews": [
+            96.0
+        ],
+        "London School of Economics": [
+            94.0
+        ],
+        "Imperial College London": [
+            91.0
+        ],
+        "Loughborough University": [
+            90.0
+        ],
+        "Durham University": [
+            90.0
+        ],
+        "Lancaster University": [
+            89.0
+        ],
+        "University of Bath": [
+            87.0
+        ],
+        "University College London": [
+            86.0
+        ],
+        "University of Warwick": [
+            85.0
+        ],
+        "University of Exeter": [
+            83.0
+        ],
+        "University of Birmingham": [
+            81.0
+        ],
+        "University of Bristol": [
+            81.0
+        ],
+        "University of Edinburgh": [
+            81.0
+        ],
+        "University of Leeds": [
+            80.0
+        ],
+        "University of Manchester": [
+            80.0
+        ],
+        "University of Southampton": [
+            80.0
+        ],
+        "University of Glasgow": [
+            79.0
+        ],
+        "King's College London": [
+            77.0
+        ]
+    },
+    "colors": {
+        "University of Cambridge": "#f27979",
+        "University of Oxford": "#f24800",
+        "University of St Andrews": "#f2c179",
+        "London School of Economics": "#f2da00",
+        "Imperial College London": "#daf279",
+        "Loughborough University": "#79f200",
+        "Durham University": "#91f279",
+        "Lancaster University": "#00a510",
+        "University of Bath": "#52a574",
+        "University College London": "#00a574",
+        "University of Warwick": "#52a5a5",
+        "University of Exeter": "#0074a5",
+        "University of Birmingham": "#5274a5",
+        "University of Bristol": "#0010a5",
+        "University of Edinburgh": "#9179f2",
+        "University of Leeds": "#7900f2",
+        "University of Manchester": "#da79f2",
+        "University of Southampton": "#f200da",
+        "University of Glasgow": "#f279c1",
+        "King's College London": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "University of Cambridge": "#f27979",
+        "University of Oxford": "#f24800",
+        "University of St Andrews": "#f2c179",
+        "London School of Economics": "#f2da00",
+        "Imperial College London": "#daf279",
+        "Loughborough University": "#79f200",
+        "Durham University": "#91f279",
+        "Lancaster University": "#00a510",
+        "University of Bath": "#52a574",
+        "University College London": "#00a574",
+        "University of Warwick": "#52a5a5",
+        "University of Exeter": "#0074a5",
+        "University of Birmingham": "#5274a5",
+        "University of Bristol": "#0010a5",
+        "University of Edinburgh": "#9179f2",
+        "University of Leeds": "#7900f2",
+        "University of Manchester": "#da79f2",
+        "University of Southampton": "#f200da",
+        "University of Glasgow": "#f279c1",
+        "King's College London": "#f20048"
+    }
+}

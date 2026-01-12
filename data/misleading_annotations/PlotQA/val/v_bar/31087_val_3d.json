@@ -1,0 +1,81 @@
+{
+    "title": "Net acquisition and disposal of financial assets and liabilities",
+    "x_axis": {
+        "categories": [
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Brazil",
+            "Bulgaria",
+            "Cabo Verde",
+            "Canada"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#008080",
+        "2006": "#00FF00",
+        "2007": "#483D8B",
+        "2008": "#66CDAA"
+    },
+    "data": {
+        "2005": [
+            259347558.1,
+            -1375848748.0,
+            14446272466.0,
+            -4274944945.0,
+            -18949396.38,
+            20398212109.0
+        ],
+        "2006": [
+            3025643587.0,
+            -582866389.6,
+            15456047508.0,
+            -6620389074.0,
+            -74513392.18,
+            19958335304.0
+        ],
+        "2007": [
+            2659690532.0,
+            -1225689704.0,
+            -845490103.7,
+            -15342053649.0,
+            -170546099.1,
+            14218822317.0
+        ],
+        "2008": [
+            2003713487.0,
+            -2485618857.0,
+            -25327461837.0,
+            -15684282436.0,
+            -286345078.6,
+            -905909261.4
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20398212110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

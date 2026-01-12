@@ -1,0 +1,51 @@
+{
+    "title": "Median age in years",
+    "x_axis": {
+        "categories": [
+            "1964-1968",
+            "2014-2016"
+        ]
+    },
+    "y_axis": {
+        "label": "Median age in years"
+    },
+    "legend": {
+        "Men": "#2876dd",
+        "Women": "#0f283e"
+    },
+    "data": {
+        "Men": [
+            18.3,
+            17
+        ],
+        "Women": [
+            19.4,
+            17.6
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

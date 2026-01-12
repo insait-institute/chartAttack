@@ -1,0 +1,54 @@
+{
+    "title": "Total production of clean energy in 1960",
+    "x_axis": {
+        "categories": [
+            "Europe(all income levels)",
+            "Europe(developing only)",
+            "European Union",
+            "High income",
+            "High income: OECD",
+            "Low & middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Alternative and nuclear energy": "#8B4513"
+    },
+    "data": {
+        "Alternative and nuclear energy": [
+            3.50111037627157,
+            0.8061091873266519,
+            2.86525994530884,
+            2.7390949662729,
+            2.7390949662729,
+            0.8061091873266519
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Net enrollment of females recorded in primary and secondary education in year 1991",
+    "x_axis": {
+        "categories": [
+            "Primary",
+            "Secondary"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brunei Darussalam": "#F0E68C",
+        "Costa Rica": "#9ACD32",
+        "Switzerland": "#000000",
+        "United Kingdom": "#BA55D3"
+    },
+    "data": {
+        "Brunei Darussalam": [
+            90.40043,
+            73.18849
+        ],
+        "Costa Rica": [
+            88.31284000000002,
+            39.28997
+        ],
+        "Switzerland": [
+            84.70438,
+            75.19993000000002
+        ],
+        "United Kingdom": [
+            97.87122,
+            81.58523000000002
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

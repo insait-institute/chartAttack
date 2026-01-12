@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of female workers employed in Private sector",
+    "legend": {
+        "Bahamas": "#A52A2A",
+        "Turkey": "#E9967A"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "Bahamas": [
+            94.4000015258789,
+            94.3000030517578,
+            94.1999969482422,
+            94.1999969482422
+        ],
+        "Turkey": [
+            28.7000007629395,
+            33.2999992370605,
+            41.0,
+            42.2000007629395
+        ]
+    },
+    "colors": {
+        "Bahamas": "#A52A2A",
+        "Turkey": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

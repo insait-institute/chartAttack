@@ -1,0 +1,56 @@
+{
+    "title": "Value added in manufacturing in 1995",
+    "x_axis": {
+        "categories": [
+            "Chemicals",
+            "Food and tobacco"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Costa Rica": "#FF7F50",
+        "Eritrea": "#9ACD32",
+        "Peru": "#2E8B57"
+    },
+    "data": {
+        "Costa Rica": [
+            10.31148569574681,
+            43.6332373266415
+        ],
+        "Eritrea": [
+            18.8520678761394,
+            55.1130731534699
+        ],
+        "Peru": [
+            9.42697572066816,
+            27.9778771586545
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Sales in millions",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales in millions"
+    },
+    "legend": {
+        "Bicycle": "#2876dd",
+        "E-bike": "#0f283e"
+    },
+    "data": {
+        "Bicycle": [
+            3.39,
+            3.62,
+            3.82,
+            3.45,
+            3.13,
+            3.2,
+            2.95,
+            3.1
+        ],
+        "E-bike": [
+            0.41,
+            0.48,
+            0.54,
+            0.61,
+            0.72,
+            0.98,
+            1.36,
+            2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

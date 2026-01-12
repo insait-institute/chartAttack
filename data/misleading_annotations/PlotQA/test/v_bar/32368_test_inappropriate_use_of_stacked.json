@@ -1,0 +1,72 @@
+{
+    "title": "Unemployed male population in 1992 as per the survey report",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "High income: nonOECD": "#f27979",
+        "High income: OECD": "#f2f200",
+        "Latin America(all income levels)": "#79f279",
+        "Latin America(developing only)": "#00a5a5",
+        "North America": "#5252a5",
+        "OECD members": "#a500a5"
+    },
+    "data": {
+        "High income: nonOECD": [
+            14.5636208362002
+        ],
+        "High income: OECD": [
+            14.6512500558231
+        ],
+        "Latin America(all income levels)": [
+            9.99999074617172
+        ],
+        "Latin America(developing only)": [
+            9.361801433817028
+        ],
+        "North America": [
+            15.7297559888392
+        ],
+        "OECD members": [
+            13.7440964444339
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "High income: nonOECD": "#f27979",
+        "High income: OECD": "#f2f200",
+        "Latin America(all income levels)": "#79f279",
+        "Latin America(developing only)": "#00a5a5",
+        "North America": "#5252a5",
+        "OECD members": "#a500a5"
+    }
+}

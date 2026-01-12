@@ -1,0 +1,112 @@
+{
+    "title": "",
+    "legend": {
+        "Google Sites": "#f27979",
+        "Verizon Media": "#f26000",
+        "Facebook": "#f2da79",
+        "Microsoft Sites": "#c1f200",
+        "Amazon Sites": "#a9f279",
+        "WarnerMedia": "#00f200",
+        "Comcast NBCUniversal": "#52a574",
+        "ViacomCBS Digital": "#00a584",
+        "The Walt Disney Company": "#5295a5",
+        "Apple Inc.": "#0042a5",
+        "CafeMedia": "#5252a5",
+        "Hearst": "#4200a5",
+        "UPROXX": "#da79f2",
+        "Weather Company, The": "#f200c1",
+        "USA TODAY Network": "#f279a9"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Google Sites": [
+            271.8
+        ],
+        "Verizon Media": [
+            220.09
+        ],
+        "Facebook": [
+            220.01
+        ],
+        "Microsoft Sites": [
+            218.46
+        ],
+        "Amazon Sites": [
+            213.56
+        ],
+        "WarnerMedia": [
+            203.67
+        ],
+        "Comcast NBCUniversal": [
+            195.61
+        ],
+        "ViacomCBS Digital": [
+            187.17
+        ],
+        "The Walt Disney Company": [
+            182.9
+        ],
+        "Apple Inc.": [
+            174.71
+        ],
+        "CafeMedia": [
+            166.57
+        ],
+        "Hearst": [
+            166.33
+        ],
+        "UPROXX": [
+            154.41
+        ],
+        "Weather Company, The": [
+            153.18
+        ],
+        "USA TODAY Network": [
+            148.07
+        ]
+    },
+    "colors": {
+        "Google Sites": "#f27979",
+        "Verizon Media": "#f26000",
+        "Facebook": "#f2da79",
+        "Microsoft Sites": "#c1f200",
+        "Amazon Sites": "#a9f279",
+        "WarnerMedia": "#00f200",
+        "Comcast NBCUniversal": "#52a574",
+        "ViacomCBS Digital": "#00a584",
+        "The Walt Disney Company": "#5295a5",
+        "Apple Inc.": "#0042a5",
+        "CafeMedia": "#5252a5",
+        "Hearst": "#4200a5",
+        "UPROXX": "#da79f2",
+        "Weather Company, The": "#f200c1",
+        "USA TODAY Network": "#f279a9"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

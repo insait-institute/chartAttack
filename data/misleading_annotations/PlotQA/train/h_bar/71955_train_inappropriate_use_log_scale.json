@@ -1,0 +1,50 @@
+{
+    "title": "Annual freshwater withdrawals (%) in Qatar",
+    "legend": {
+        "Annual freshwater withdrawals": "#FF00FF"
+    },
+    "categories": [
+        "1977",
+        "1997",
+        "2002",
+        "2007",
+        "2013"
+    ],
+    "data": {
+        "Annual freshwater withdrawals": [
+            267.857142857143,
+            508.75,
+            524.821428571429,
+            792.8571428571429,
+            792.8571428571429
+        ]
+    },
+    "colors": {
+        "Annual freshwater withdrawals": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 800
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

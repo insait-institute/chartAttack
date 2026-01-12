@@ -1,0 +1,71 @@
+{
+    "title": "Balance of Payments of travel services as percentage of service exports",
+    "x_axis": {
+        "categories": [
+            "Suriname",
+            "Sweden",
+            "Switzerland",
+            "Tajikistan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#D2B48C",
+        "2006": "#FF4500",
+        "2007": "#DC143C",
+        "2008": "#8A2BE2"
+    },
+    "data": {
+        "2005": [
+            21.8520333170015,
+            15.9228695648708,
+            15.1561610592614,
+            1.06818420984298
+        ],
+        "2006": [
+            40.06762468300929,
+            19.8833043881781,
+            15.1673245025509,
+            1.57873913960244
+        ],
+        "2007": [
+            26.2825572217837,
+            19.6785977346888,
+            14.2375326706553,
+            2.18969266020185
+        ],
+        "2008": [
+            27.23434201266711,
+            17.4204748411513,
+            14.9676184973494,
+            2.31069020831381
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

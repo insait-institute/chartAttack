@@ -1,0 +1,62 @@
+{
+    "title": "Global emissions of Perfluorocarbons",
+    "legend": {
+        "Japan": "#f27979",
+        "Korea (Republic)": "#c1f200",
+        "Latvia": "#52a574",
+        "Lithuania": "#0042a5",
+        "Luxembourg": "#da79f2"
+    },
+    "categories": [
+        "Global emissions of Perfluorocarbons"
+    ],
+    "data": {
+        "Japan": [
+            4700.0
+        ],
+        "Korea (Republic)": [
+            782.6
+        ],
+        "Latvia": [
+            0.7
+        ],
+        "Lithuania": [
+            0.9
+        ],
+        "Luxembourg": [
+            0.1
+        ]
+    },
+    "colors": {
+        "Japan": "#f27979",
+        "Korea (Republic)": "#c1f200",
+        "Latvia": "#52a574",
+        "Lithuania": "#0042a5",
+        "Luxembourg": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9030
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Total expenditure of government of High income: OECD in healthcare and R&D projects",
+    "legend": {
+        "1995": "#f27979",
+        "1996": "#79f200",
+        "1997": "#52a5a5",
+        "1998": "#5200a5"
+    },
+    "categories": [
+        "Total expenditure of government of High income: OECD in healthcare and R&D projects"
+    ],
+    "data": {
+        "1995": [
+            9.514433008150439
+        ],
+        "1996": [
+            9.67337406179827
+        ],
+        "1997": [
+            9.70830771847566
+        ],
+        "1998": [
+            9.92577331350986
+        ]
+    },
+    "colors": {
+        "1995": "#f27979",
+        "1996": "#79f200",
+        "1997": "#52a5a5",
+        "1998": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

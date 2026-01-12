@@ -1,0 +1,61 @@
+{
+    "title": "Trade statistics with high income economies in 2003",
+    "legend": {
+        "Afghanistan": "#40E0D0",
+        "Mauritius": "#DAA520",
+        "Portugal": "#B03060",
+        "Slovak Republic": "#B8860B"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Afghanistan": [
+            62.32689752236429,
+            40.6470746918074
+        ],
+        "Mauritius": [
+            87.96605881161058,
+            56.70454969907289
+        ],
+        "Portugal": [
+            92.09892878814709,
+            89.495475539997
+        ],
+        "Slovak Republic": [
+            94.5876712812517,
+            95.14689719740801
+        ]
+    },
+    "colors": {
+        "Afghanistan": "#40E0D0",
+        "Mauritius": "#DAA520",
+        "Portugal": "#B03060",
+        "Slovak Republic": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

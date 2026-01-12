@@ -1,0 +1,81 @@
+{
+    "title": "Fuel exports to different countries",
+    "x_axis": {
+        "categories": [
+            "Netherlands",
+            "Panama",
+            "Philippines",
+            "Portugal",
+            "Singapore",
+            "Spain"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#20B2AA",
+        "1963": "#EE82EE",
+        "1964": "#FF1493",
+        "1965": "#D2B48C"
+    },
+    "data": {
+        "1962": [
+            23.5841099766735,
+            35.0298768402383,
+            0.38491401516063,
+            1.52805268886516,
+            17.1034639163054,
+            6.06607275317137
+        ],
+        "1963": [
+            10.3051732119133,
+            48.6202671196859,
+            0.395867257144788,
+            1.9087956699147,
+            16.8547532785868,
+            5.85725607673464
+        ],
+        "1964": [
+            9.21992142559277,
+            40.8974086367058,
+            0.483403335188008,
+            1.76651363708005,
+            18.2319078071313,
+            4.97803666889297
+        ],
+        "1965": [
+            8.82634601813746,
+            33.8015988365465,
+            0.7398004677803941,
+            1.46954618782517,
+            19.9217188076236,
+            3.93389571123952
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

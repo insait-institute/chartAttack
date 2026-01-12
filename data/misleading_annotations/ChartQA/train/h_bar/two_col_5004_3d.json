@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Channel": "#2876dd"
+    },
+    "categories": [
+        "Akam Entertainment",
+        "VybzKartelVEVO",
+        "Reggaeville",
+        "JavierNathaniel",
+        "GanjaMusicHD"
+    ],
+    "data": {
+        "Channel": [
+            875.32,
+            719.92,
+            523.83,
+            404.09,
+            286.9
+        ]
+    },
+    "colors": {
+        "Channel": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 880
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

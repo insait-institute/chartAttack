@@ -1,0 +1,70 @@
+{
+    "title": "Number of trademark applications made by the people of Kyrgyz Republic",
+    "legend": {
+        "Nonresident": "#32CD32",
+        "Resident": "#FFA500"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "data": {
+        "Nonresident": [
+            49,
+            2370,
+            1874,
+            2732,
+            2880
+        ],
+        "Resident": [
+            11,
+            66,
+            62,
+            71,
+            128
+        ]
+    },
+    "colors": {
+        "Nonresident": "#32CD32",
+        "Resident": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 49,
+                "max_value": 2880
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 11,
+                "max_value": 128
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

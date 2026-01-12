@@ -1,0 +1,80 @@
+{
+    "title": "Amount earned/paid by the government for trading goods in 2014",
+    "legend": {
+        "Burkina Faso": "#FFFF00",
+        "Nepal": "#BC8F8F",
+        "Russian Federation": "#8B008B",
+        "Vanuatu": "#C71585"
+    },
+    "categories": [
+        "Exports",
+        "Imports"
+    ],
+    "data": {
+        "Burkina Faso": [
+            2544820090.59282,
+            3442102578.80802
+        ],
+        "Nepal": [
+            1478668082.79545,
+            5451534645.2062
+        ],
+        "Russian Federation": [
+            333457492290.671,
+            316119479937.288
+        ],
+        "Vanuatu": [
+            267370528.480434,
+            325553830.342215
+        ]
+    },
+    "colors": {
+        "Burkina Faso": "#FFFF00",
+        "Nepal": "#BC8F8F",
+        "Russian Federation": "#8B008B",
+        "Vanuatu": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 333457492300
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Burkina Faso": [
+            1.75,
+            0.25
+        ],
+        "Nepal": [
+            1.75,
+            0.25
+        ],
+        "Russian Federation": [
+            1.75,
+            0.25
+        ],
+        "Vanuatu": [
+            1.75,
+            0.25
+        ]
+    }
+}

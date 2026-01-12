@@ -1,0 +1,71 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 1978 ",
+    "x_axis": {
+        "categories": [
+            "Coal",
+            "Minerals",
+            "Energy",
+            "Water"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Europe(developing only)": "#9ACD32",
+        "Low income": "#F0E68C",
+        "Botswana": "#2E8B57",
+        "Colombia": "#8B4513"
+    },
+    "data": {
+        "Europe(developing only)": [
+            0.288971882575021,
+            0.0249224743471781,
+            0.340091961516568,
+            0.3650144358637461
+        ],
+        "Low income": [
+            0.132707898833773,
+            0.56507878076345,
+            0.153613325697352,
+            3.18323861247627
+        ],
+        "Botswana": [
+            0.341002318212561,
+            0.3538313556507,
+            0.153849943162427,
+            0.507681298813127
+        ],
+        "Colombia": [
+            0.43964924186188,
+            0.004436406882454729,
+            2.31422887038203,
+            2.31866527726448
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

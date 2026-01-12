@@ -1,0 +1,61 @@
+{
+    "title": "Rural vs urban population in the year 1960",
+    "x_axis": {
+        "categories": [
+            "Rural",
+            "Urban"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Marshall Islands": "#00CED1",
+        "Namibia": "#FF1493",
+        "Norway": "#DC143C",
+        "Panama": "#4B0082"
+    },
+    "data": {
+        "Marshall Islands": [
+            9447,
+            5218
+        ],
+        "Namibia": [
+            494635,
+            107910
+        ],
+        "Norway": [
+            1793484,
+            1787755
+        ],
+        "Panama": [
+            665604,
+            467320
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1793490
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

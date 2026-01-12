@@ -1,0 +1,72 @@
+{
+    "title": "Net energy imports of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Luxembourg": "#f27979",
+        "Netherlands": "#f2f200",
+        "New Zealand": "#79f279",
+        "Norway": "#00a5a5",
+        "Poland": "#5252a5",
+        "Portugal": "#a500a5"
+    },
+    "data": {
+        "Luxembourg": [
+            99.94794242432128
+        ],
+        "Netherlands": [
+            51.3683025892311
+        ],
+        "New Zealand": [
+            40.5221850096777
+        ],
+        "Norway": [
+            56.5416845138657
+        ],
+        "Poland": [
+            -19.6273506939111
+        ],
+        "Portugal": [
+            57.57389123357861
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Luxembourg": "#f27979",
+        "Netherlands": "#f2f200",
+        "New Zealand": "#79f279",
+        "Norway": "#00a5a5",
+        "Poland": "#5252a5",
+        "Portugal": "#a500a5"
+    }
+}

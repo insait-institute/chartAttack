@@ -1,0 +1,68 @@
+{
+    "title": "Population in the largent city of the country",
+    "x_axis": {
+        "categories": [
+            "Mozambique",
+            "Myanmar",
+            "Namibia",
+            "Nepal",
+            "Netherlands"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#008080",
+        "1961": "#EE82EE",
+        "1962": "#6495ED"
+    },
+    "data": {
+        "1960": [
+            50.7124587943608,
+            38.5378530034035,
+            33.0404967102215,
+            34.0523226908812,
+            13.6586157600242
+        ],
+        "1961": [
+            51.43047485103079,
+            37.7988855028095,
+            33.3333333333333,
+            33.1934328079982,
+            13.5114819080231
+        ],
+        "1962": [
+            52.1020635541786,
+            37.079829300339,
+            33.6242001163467,
+            33.0146017144275,
+            13.3703609020166
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

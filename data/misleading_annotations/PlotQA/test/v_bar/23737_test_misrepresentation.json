@@ -1,0 +1,76 @@
+{
+    "title": "Trade statistics with developing economies(within region) in 1979",
+    "x_axis": {
+        "categories": [
+            "Congo (Democratic)",
+            "Congo (Republic)",
+            "Costa Rica",
+            "Cote d'Ivoire",
+            "Dominica"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#FFA500",
+        "Merchandise imports": "#FFFF00"
+    },
+    "data": {
+        "Merchandise exports": [
+            0.385511203919364,
+            1.06896893652496,
+            25.55521296367671,
+            9.650730523045722,
+            17.1984684109764
+        ],
+        "Merchandise imports": [
+            12.9753119258677,
+            6.10507778103904,
+            6.66728601894139,
+            22.37380920357931,
+            5.04107909258124
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Merchandise exports": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Merchandise imports": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

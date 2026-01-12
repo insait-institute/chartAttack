@@ -1,0 +1,68 @@
+{
+    "title": "Fertilizer consumption as a percentage of production",
+    "legend": {
+        "2002": "#0000FF",
+        "2003": "#32CD32",
+        "2004": "#C71585"
+    },
+    "categories": [
+        "Libya",
+        "Lithuania",
+        "Malaysia",
+        "Mexico",
+        "Morocco"
+    ],
+    "data": {
+        "2002": [
+            30.9544635966041,
+            21.2327268878409,
+            195.801731914126,
+            389.080272073856,
+            37.0421408011191
+        ],
+        "2003": [
+            15.8160737812912,
+            24.161718101643,
+            233.11992786294,
+            514.805395518081,
+            35.1128731474081
+        ],
+        "2004": [
+            23.7056170346672,
+            29.18148948549581,
+            326.15876549677,
+            405.438622858056,
+            28.9934502856483
+        ]
+    },
+    "colors": {
+        "2002": "#0000FF",
+        "2003": "#32CD32",
+        "2004": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 520
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

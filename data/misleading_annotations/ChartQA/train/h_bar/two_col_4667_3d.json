@@ -1,0 +1,100 @@
+{
+    "title": "Total payroll in million U.S. dollars",
+    "categories": [
+        "Los Angeles Dodgers",
+        "Paris Saint-Germain",
+        "New York Yankees",
+        "Real Madrid",
+        "Manchester City",
+        "FC Barcelona",
+        "Manchester United",
+        "Bayern Munich",
+        "Boston Red Sox",
+        "Chelsea London",
+        "Detroit Tigers",
+        "Arsenal London",
+        "San Francisco Giants",
+        "Washington Nationals",
+        "Los Angeles Angels",
+        "FC Liverpool",
+        "Texas Rangers",
+        "Philadelphia Phillies",
+        "Juventus Turin",
+        "Miami Dolphins",
+        "Cincinnati Bengals",
+        "Green Bay Packers",
+        "Toronto Blue Jays",
+        "Denver Broncos",
+        "Tampa Bay Buccaneers",
+        "St. Louis Cardinals",
+        "Tottenham",
+        "Seattle Mariners",
+        "Chicago Cubs",
+        "Detroit Lions"
+    ],
+    "data": {
+        "Payroll": [
+            272.8,
+            227.1,
+            219.3,
+            216,
+            215,
+            202.1,
+            200.6,
+            191.5,
+            187.4,
+            186.6,
+            173.8,
+            173.8,
+            172.7,
+            164.9,
+            150.9,
+            150.4,
+            142.1,
+            135.8,
+            127.4,
+            124.3,
+            123.3,
+            123.2,
+            122.5,
+            122.3,
+            122.2,
+            120.9,
+            120.5,
+            119.8,
+            119,
+            118.8
+        ]
+    },
+    "colors": {
+        "Payroll": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Payroll": "#2876dd"
+    }
+}

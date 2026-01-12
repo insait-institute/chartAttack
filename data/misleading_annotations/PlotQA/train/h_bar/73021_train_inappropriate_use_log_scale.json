@@ -1,0 +1,52 @@
+{
+    "title": "Price level ratio of PPP conversion factor (GDP) to market exchange rate in Algeria",
+    "legend": {
+        "Price level ratio": "#7FFFD4"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Price level ratio": [
+            0.281250630818188,
+            0.30426057643517,
+            0.33059104417596,
+            0.402709644215433,
+            0.315648605054411,
+            0.3536444543078751
+        ]
+    },
+    "colors": {
+        "Price level ratio": "#7FFFD4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,63 @@
+{
+    "title": "",
+    "y_label": "Hashtag views in billions",
+    "categories": [
+        "Entertainment",
+        "Dance",
+        "Pranks",
+        "Fitness/sports",
+        "Home reno/DIY",
+        "Beauty/skincare",
+        "Fashion",
+        "Recipes/cooking",
+        "Life hacks/advice etc.",
+        "Pets",
+        "Outdoors"
+    ],
+    "data": {
+        "default": [
+            535,
+            181,
+            79,
+            57,
+            39,
+            33,
+            27,
+            18,
+            13,
+            10,
+            2
+        ]
+    },
+    "colors": {
+        "default": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 540
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "default": "#2876dd"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Retail value in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013"
+        ]
+    },
+    "y_axis": {
+        "label": "Retail value in billion U.S. dollars"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            2.12,
+            2.42,
+            2.91,
+            2.76,
+            2.61,
+            2.43,
+            2.31,
+            2.44,
+            3.98,
+            5.59,
+            4.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

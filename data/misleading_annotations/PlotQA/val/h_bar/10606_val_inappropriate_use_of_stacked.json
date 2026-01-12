@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of urban population having access to drinking water",
+    "legend": {
+        "Tuvalu": "#f27979",
+        "Uganda": "#f2f200",
+        "Ukraine": "#79f279",
+        "United Arab Emirates": "#00a5a5",
+        "United Kingdom": "#5252a5",
+        "United States": "#a500a5"
+    },
+    "categories": [
+        "Percentage of urban population having access to drinking water"
+    ],
+    "data": {
+        "Tuvalu": [
+            91.6
+        ],
+        "Uganda": [
+            78.1
+        ],
+        "Ukraine": [
+            100.0
+        ],
+        "United Arab Emirates": [
+            99.6
+        ],
+        "United Kingdom": [
+            100.0
+        ],
+        "United States": [
+            99.8
+        ]
+    },
+    "colors": {
+        "Tuvalu": "#f27979",
+        "Uganda": "#f2f200",
+        "Ukraine": "#79f279",
+        "United Arab Emirates": "#00a5a5",
+        "United Kingdom": "#5252a5",
+        "United States": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

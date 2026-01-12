@@ -1,0 +1,68 @@
+{
+    "title": "Price of gasoline in countries",
+    "x_axis": {
+        "categories": [
+            "Cameroon",
+            "Chad",
+            "Congo (Democratic)",
+            "Cote d'Ivoire",
+            "Egypt, Arab Rep."
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1991": "#006400",
+        "1992": "#FFA07A",
+        "1995": "#FF8C00"
+    },
+    "data": {
+        "1991": [
+            0.68,
+            1.05,
+            0.81,
+            1.24,
+            0.29
+        ],
+        "1992": [
+            0.69,
+            1.02,
+            0.74,
+            1.23,
+            0.3
+        ],
+        "1995": [
+            0.68,
+            0.8,
+            0.73,
+            0.83,
+            0.29
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

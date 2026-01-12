@@ -1,0 +1,67 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in the Arab World",
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#f2f200",
+        "2009": "#79f279",
+        "2010": "#00a5a5",
+        "2011": "#5252a5",
+        "2012": "#a500a5"
+    },
+    "categories": [
+        "Merchandise exports to low and middle-income economies in the Arab World"
+    ],
+    "data": {
+        "2007": [
+            8.84693932233241
+        ],
+        "2008": [
+            8.856399268305239
+        ],
+        "2009": [
+            11.34162443976381
+        ],
+        "2010": [
+            10.690683373686
+        ],
+        "2011": [
+            9.487378184616713
+        ],
+        "2012": [
+            9.380270386702321
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#f2f200",
+        "2009": "#79f279",
+        "2010": "#00a5a5",
+        "2011": "#5252a5",
+        "2012": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

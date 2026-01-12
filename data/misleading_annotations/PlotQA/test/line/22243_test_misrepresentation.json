@@ -1,0 +1,76 @@
+{
+    "title": "Insurance provided to residents by nonresident insurance enterprises outside Poland",
+    "legend": {
+        "Insurance provided by non-residents": "#20B2AA"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "% of commercial services imports",
+    "data": [
+        {
+            "label": "Insurance provided by non-residents",
+            "color": "#20B2AA",
+            "values": [
+                1.52360619146975,
+                1.4375779409727,
+                2.02529506211093,
+                1.54536046912729,
+                2.59957003847024,
+                2.6665361939477,
+                2.53691046627587,
+                2.38089935187866
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Insurance provided by non-residents",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

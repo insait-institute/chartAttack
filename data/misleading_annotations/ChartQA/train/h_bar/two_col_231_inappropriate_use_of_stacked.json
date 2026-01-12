@@ -1,0 +1,187 @@
+{
+    "title": "",
+    "legend": {
+        "Boston Red Sox": "#f27979",
+        "New York Yankees": "#f23000",
+        "Los Angeles Dodgers": "#f2a979",
+        "Washington Nationals": "#f29100",
+        "St. Louis Cardinals": "#f2da79",
+        "Chicago Cubs": "#f2f200",
+        "Cleveland Indians": "#daf279",
+        "Chicago White Sox": "#91f200",
+        "Philadelphia Phillies": "#a9f279",
+        "Houston Astros": "#30f200",
+        "Oakland Athletics": "#79f279",
+        "Minnesota Twins": "#00a521",
+        "Kansas City Royals": "#52a574",
+        "Toronto Blue Jays**": "#00a563",
+        "Arizona Diamondbacks": "#52a595",
+        "Texas Rangers": "#00a5a5",
+        "Milwaukee Brewers": "#5295a5",
+        "Colorado Rockies": "#0063a5",
+        "New York Mets": "#5274a5",
+        "Seattle Mariners": "#0021a5",
+        "Los Angeles Angels": "#5252a5",
+        "San Francisco Giants": "#2100a5",
+        "Pittsburgh Pirates": "#a979f2",
+        "Atlanta Braves": "#9100f2",
+        "San Diego Padres": "#da79f2",
+        "Miami Marlins": "#f200f2",
+        "Tampa Bay Rays": "#f279da",
+        "Cincinnati Reds": "#f20091",
+        "Detroit Tigers": "#f279a9",
+        "Baltimore Orioles": "#f20030"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Boston Red Sox": [
+            167.0
+        ],
+        "New York Yankees": [
+            145.0
+        ],
+        "Los Angeles Dodgers": [
+            108.0
+        ],
+        "Washington Nationals": [
+            102.0
+        ],
+        "St. Louis Cardinals": [
+            101.0
+        ],
+        "Chicago Cubs": [
+            93.0
+        ],
+        "Cleveland Indians": [
+            92.0
+        ],
+        "Chicago White Sox": [
+            81.0
+        ],
+        "Philadelphia Phillies": [
+            75.0
+        ],
+        "Houston Astros": [
+            73.0
+        ],
+        "Oakland Athletics": [
+            73.0
+        ],
+        "Minnesota Twins": [
+            73.0
+        ],
+        "Kansas City Royals": [
+            72.0
+        ],
+        "Toronto Blue Jays**": [
+            70.0
+        ],
+        "Arizona Diamondbacks": [
+            69.0
+        ],
+        "Texas Rangers": [
+            68.0
+        ],
+        "Milwaukee Brewers": [
+            68.0
+        ],
+        "Colorado Rockies": [
+            65.0
+        ],
+        "New York Mets": [
+            64.0
+        ],
+        "Seattle Mariners": [
+            64.0
+        ],
+        "Los Angeles Angels": [
+            63.0
+        ],
+        "San Francisco Giants": [
+            62.0
+        ],
+        "Pittsburgh Pirates": [
+            58.0
+        ],
+        "Atlanta Braves": [
+            58.0
+        ],
+        "San Diego Padres": [
+            58.0
+        ],
+        "Miami Marlins": [
+            57.0
+        ],
+        "Tampa Bay Rays": [
+            56.0
+        ],
+        "Cincinnati Reds": [
+            55.0
+        ],
+        "Detroit Tigers": [
+            53.0
+        ],
+        "Baltimore Orioles": [
+            52.0
+        ]
+    },
+    "colors": {
+        "Boston Red Sox": "#f27979",
+        "New York Yankees": "#f23000",
+        "Los Angeles Dodgers": "#f2a979",
+        "Washington Nationals": "#f29100",
+        "St. Louis Cardinals": "#f2da79",
+        "Chicago Cubs": "#f2f200",
+        "Cleveland Indians": "#daf279",
+        "Chicago White Sox": "#91f200",
+        "Philadelphia Phillies": "#a9f279",
+        "Houston Astros": "#30f200",
+        "Oakland Athletics": "#79f279",
+        "Minnesota Twins": "#00a521",
+        "Kansas City Royals": "#52a574",
+        "Toronto Blue Jays**": "#00a563",
+        "Arizona Diamondbacks": "#52a595",
+        "Texas Rangers": "#00a5a5",
+        "Milwaukee Brewers": "#5295a5",
+        "Colorado Rockies": "#0063a5",
+        "New York Mets": "#5274a5",
+        "Seattle Mariners": "#0021a5",
+        "Los Angeles Angels": "#5252a5",
+        "San Francisco Giants": "#2100a5",
+        "Pittsburgh Pirates": "#a979f2",
+        "Atlanta Braves": "#9100f2",
+        "San Diego Padres": "#da79f2",
+        "Miami Marlins": "#f200f2",
+        "Tampa Bay Rays": "#f279da",
+        "Cincinnati Reds": "#f20091",
+        "Detroit Tigers": "#f279a9",
+        "Baltimore Orioles": "#f20030"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Receiving yards": "#2876dd"
+    },
+    "categories": [
+        "Johnny Morris",
+        "Harlon Hill",
+        "Alshon Jeffery",
+        "Walter Payton",
+        "Mike Ditka",
+        "Curtis Conway",
+        "Matt Forte",
+        "Marty Booker",
+        "Willie Gault",
+        "Ken Kavanaugh",
+        "Dick Gordon",
+        "Brandon Marshall",
+        "James Scott",
+        "Jim Dooley",
+        "Allen Robinson",
+        "Jim Keane",
+        "Wendell Davis",
+        "Dennis McKinnon",
+        "Bobby Engram",
+        "Bill McColl"
+    ],
+    "data": {
+        "Receiving yards": [
+            5059,
+            4616,
+            4549,
+            4538,
+            4503,
+            4498,
+            4116,
+            3895,
+            3650,
+            3626,
+            3550,
+            3524,
+            3202,
+            3172,
+            3151,
+            3031,
+            3000,
+            2840,
+            2831,
+            2815
+        ]
+    },
+    "colors": {
+        "Receiving yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

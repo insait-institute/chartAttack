@@ -1,0 +1,78 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "Very good": "#2876dd",
+        "Good": "#0f283e",
+        "Fair": "#bababa",
+        "Poor": "#a60b0b",
+        "Very poor": "#87bc24"
+    },
+    "data": {
+        "Very good": [
+            4,
+            6,
+            9,
+            7
+        ],
+        "Good": [
+            16,
+            26,
+            32,
+            28
+        ],
+        "Fair": [
+            52,
+            47,
+            28,
+            49
+        ],
+        "Poor": [
+            24,
+            18,
+            28,
+            15
+        ],
+        "Very poor": [
+            4,
+            4,
+            4,
+            1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

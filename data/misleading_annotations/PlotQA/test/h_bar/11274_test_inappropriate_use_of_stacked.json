@@ -1,0 +1,67 @@
+{
+    "title": "Energy use of a country",
+    "legend": {
+        "1975": "#f27979",
+        "1976": "#f2f200",
+        "1977": "#79f279",
+        "1978": "#00a5a5",
+        "1979": "#5252a5",
+        "1980": "#a500a5"
+    },
+    "categories": [
+        "Energy use of a country"
+    ],
+    "data": {
+        "1975": [
+            1365.85561387041
+        ],
+        "1976": [
+            1420.58841640082
+        ],
+        "1977": [
+            1444.6954269509
+        ],
+        "1978": [
+            1475.49341566519
+        ],
+        "1979": [
+            1492.44494626402
+        ],
+        "1980": [
+            1453.91165930411
+        ]
+    },
+    "colors": {
+        "1975": "#f27979",
+        "1976": "#f2f200",
+        "1977": "#79f279",
+        "1978": "#00a5a5",
+        "1979": "#5252a5",
+        "1980": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2380
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

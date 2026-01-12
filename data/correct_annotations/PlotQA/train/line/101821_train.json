@@ -1,0 +1,61 @@
+{
+    "title": "Amount invested in equity securities and debt securities by Oman",
+    "legend": {
+        "Portfolio Investment": "#00CED1"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Investment (in US$)",
+    "data": [
+        {
+            "label": "Portfolio Investment",
+            "color": "#00CED1",
+            "values": [
+                -160988296.5,
+                -1481924577.0,
+                1672821847.0,
+                -102470741.2,
+                -244473342.0,
+                355266580.0,
+                -393725617.7,
+                -196410346.6
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -1481924580,
+                "max_value": 1672821850
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

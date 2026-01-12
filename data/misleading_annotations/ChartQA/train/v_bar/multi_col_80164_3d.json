@@ -1,0 +1,68 @@
+{
+    "title": "Market capitalization in billion euros",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Market capitalization in billion euros"
+    },
+    "legend": {
+        "BNP Paribas": "#2876dd",
+        "Credit Agricole": "#0f283e",
+        "Societe Generale": "#bababa"
+    },
+    "data": {
+        "BNP Paribas": [
+            58.14,
+            83.39,
+            66.31,
+            52.6,
+            69.83
+        ],
+        "Credit Agricole": [
+            26.58,
+            39.35,
+            33.41,
+            30.92,
+            40.91
+        ],
+        "Societe Generale": [
+            28.48,
+            41.14,
+            29.78,
+            18.85,
+            11.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

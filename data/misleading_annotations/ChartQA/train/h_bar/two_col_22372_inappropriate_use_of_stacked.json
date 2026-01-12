@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Marques Colston": "#f27979",
+        "Alvin Kamara": "#f24800",
+        "Deuce McAllister": "#f2c179",
+        "Mark Ingram": "#f2da00",
+        "Dalton Hilliard": "#daf279",
+        "Jimmy Graham": "#79f200",
+        "Joe Horn": "#91f279",
+        "Eric Martin": "#00a510",
+        "Pierre Thomas": "#52a574",
+        "Lance Moore": "#00a574",
+        "Danny Abramowicz": "#52a5a5",
+        "Tony Galbreath": "#0074a5",
+        "Reggie Bush": "#5274a5",
+        "Michael Thomas": "#0010a5",
+        "Wayne Wilson": "#9179f2",
+        "Chuck Muncie": "#7900f2",
+        "Henry Childs": "#da79f2",
+        "Robert Meachem": "#f200da",
+        "Quinn Early": "#f279c1",
+        "Rueben Mayes": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Marques Colston": [
+            72.0
+        ],
+        "Alvin Kamara": [
+            59.0
+        ],
+        "Deuce McAllister": [
+            55.0
+        ],
+        "Mark Ingram": [
+            55.0
+        ],
+        "Dalton Hilliard": [
+            53.0
+        ],
+        "Jimmy Graham": [
+            51.0
+        ],
+        "Joe Horn": [
+            50.0
+        ],
+        "Eric Martin": [
+            48.0
+        ],
+        "Pierre Thomas": [
+            41.0
+        ],
+        "Lance Moore": [
+            39.0
+        ],
+        "Danny Abramowicz": [
+            37.0
+        ],
+        "Tony Galbreath": [
+            33.0
+        ],
+        "Reggie Bush": [
+            33.0
+        ],
+        "Michael Thomas": [
+            32.0
+        ],
+        "Wayne Wilson": [
+            30.0
+        ],
+        "Chuck Muncie": [
+            29.0
+        ],
+        "Henry Childs": [
+            28.0
+        ],
+        "Robert Meachem": [
+            27.0
+        ],
+        "Quinn Early": [
+            25.0
+        ],
+        "Rueben Mayes": [
+            23.0
+        ]
+    },
+    "colors": {
+        "Marques Colston": "#f27979",
+        "Alvin Kamara": "#f24800",
+        "Deuce McAllister": "#f2c179",
+        "Mark Ingram": "#f2da00",
+        "Dalton Hilliard": "#daf279",
+        "Jimmy Graham": "#79f200",
+        "Joe Horn": "#91f279",
+        "Eric Martin": "#00a510",
+        "Pierre Thomas": "#52a574",
+        "Lance Moore": "#00a574",
+        "Danny Abramowicz": "#52a5a5",
+        "Tony Galbreath": "#0074a5",
+        "Reggie Bush": "#5274a5",
+        "Michael Thomas": "#0010a5",
+        "Wayne Wilson": "#9179f2",
+        "Chuck Muncie": "#7900f2",
+        "Henry Childs": "#da79f2",
+        "Robert Meachem": "#f200da",
+        "Quinn Early": "#f279c1",
+        "Rueben Mayes": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

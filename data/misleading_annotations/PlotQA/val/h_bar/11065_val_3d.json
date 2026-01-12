@@ -1,0 +1,72 @@
+{
+    "title": "Age dependency ratio",
+    "legend": {
+        "1960": "#9ACD32",
+        "1961": "#00FFFF",
+        "1962": "#00FF00"
+    },
+    "categories": [
+        "Sierra Leone",
+        "Singapore",
+        "Slovak Republic",
+        "Slovenia",
+        "Solomon Islands",
+        "Somalia"
+    ],
+    "data": {
+        "1960": [
+            71.2239244062848,
+            82.77806395459851,
+            61.8214834085141,
+            54.894101157366,
+            82.68315742161471,
+            83.6336733463422
+        ],
+        "1961": [
+            71.82829990064259,
+            85.51108718607009,
+            61.9345217974151,
+            54.74310775117721,
+            83.59344282128059,
+            84.6743689691123
+        ],
+        "1962": [
+            71.96367816197859,
+            87.17855756366279,
+            62.37034034569778,
+            54.5880973886823,
+            84.7958746435379,
+            85.29066387554408
+        ]
+    },
+    "colors": {
+        "1960": "#9ACD32",
+        "1961": "#00FFFF",
+        "1962": "#00FF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

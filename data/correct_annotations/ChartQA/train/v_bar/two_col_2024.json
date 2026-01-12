@@ -1,0 +1,62 @@
+{
+    "title": "Revenue in billion euros",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in billion euros"
+    },
+    "legend": {
+        "Revenue": "#2876dd"
+    },
+    "data": {
+        "Revenue": [
+            10.93,
+            13.87,
+            14.33,
+            17.21,
+            21.53,
+            22.32,
+            21.67,
+            23.67,
+            26.06,
+            26.09
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

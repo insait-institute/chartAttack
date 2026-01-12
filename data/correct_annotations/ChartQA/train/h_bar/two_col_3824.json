@@ -1,0 +1,70 @@
+{
+    "title": "Market share",
+    "legend": {
+        "Brand": "#2876dd"
+    },
+    "categories": [
+        "Whirlpool",
+        "Electrolux",
+        "Bosch-Siemens",
+        "Haier",
+        "LG Electronics",
+        "GE/Mabe",
+        "Samsung",
+        "Panasonic",
+        "Groupe SEB",
+        "Arcelik",
+        "Midea",
+        "Indesit",
+        "Hitachi",
+        "Fagor",
+        "Other"
+    ],
+    "data": {
+        "Brand": [
+            13,
+            10,
+            8,
+            8,
+            7,
+            6,
+            6,
+            5,
+            3,
+            3,
+            3,
+            3,
+            2,
+            1,
+            22
+        ]
+    },
+    "colors": {
+        "Brand": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

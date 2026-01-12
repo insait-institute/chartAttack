@@ -1,0 +1,56 @@
+{
+    "title": "Number of inhabitants in thousands",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of inhabitants in thousands"
+    },
+    "legend": {
+        "0-14": "#2876dd",
+        "15-64": "#0f283e",
+        "65+": "#bababa"
+    },
+    "data": {
+        "0-14": [
+            2905.5,
+            3033.84
+        ],
+        "15-64": [
+            5390.22,
+            5088.26
+        ],
+        "65+": [
+            459.15,
+            370.83
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5400
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,212 @@
+{
+    "title": "",
+    "legend": {
+        "Italy": "#f27979",
+        "Greece": "#f22900",
+        "Portugal": "#f2a279",
+        "Finland": "#f27c00",
+        "Germany": "#f2cc79",
+        "Bulgaria": "#f2cf00",
+        "Croatia": "#eef279",
+        "Serbia": "#c1f200",
+        "Latvia": "#c5f279",
+        "France": "#6ef200",
+        "Sweden": "#9bf279",
+        "Lithuania": "#1bf200",
+        "Slovenia": "#52a557",
+        "Estonia": "#00a525",
+        "Czechia": "#52a574",
+        "Denmark": "#00a55e",
+        "Spain": "#52a590",
+        "Hungary": "#00a597",
+        "Netherlands": "#529ea5",
+        "Belgium": "#007ba5",
+        "Austria": "#5282a5",
+        "Malta": "#0042a5",
+        "Romania": "#5265a5",
+        "Switzerland": "#0009a5",
+        "United Kingdom": "#8679f2",
+        "Poland": "#4500f2",
+        "Norway": "#b079f2",
+        "Cyprus": "#9800f2",
+        "Slovakia": "#da79f2",
+        "Montenegro": "#eb00f2",
+        "Luxembourg": "#f279e0",
+        "Iceland": "#f200a6",
+        "Ireland": "#f279b7",
+        "North Macedonia": "#f20053",
+        "Turkey": "#f2798d"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Italy": [
+            22.8
+        ],
+        "Greece": [
+            22.0
+        ],
+        "Portugal": [
+            21.8
+        ],
+        "Finland": [
+            21.8
+        ],
+        "Germany": [
+            21.5
+        ],
+        "Bulgaria": [
+            21.3
+        ],
+        "Croatia": [
+            20.6
+        ],
+        "Serbia": [
+            20.4
+        ],
+        "Latvia": [
+            20.3
+        ],
+        "France": [
+            20.1
+        ],
+        "Sweden": [
+            19.9
+        ],
+        "Lithuania": [
+            19.8
+        ],
+        "Slovenia": [
+            19.8
+        ],
+        "Estonia": [
+            19.8
+        ],
+        "Czechia": [
+            19.6
+        ],
+        "Denmark": [
+            19.6
+        ],
+        "Spain": [
+            19.4
+        ],
+        "Hungary": [
+            19.3
+        ],
+        "Netherlands": [
+            19.2
+        ],
+        "Belgium": [
+            18.9
+        ],
+        "Austria": [
+            18.8
+        ],
+        "Malta": [
+            18.7
+        ],
+        "Romania": [
+            18.5
+        ],
+        "Switzerland": [
+            18.5
+        ],
+        "United Kingdom": [
+            18.4
+        ],
+        "Poland": [
+            17.7
+        ],
+        "Norway": [
+            17.2
+        ],
+        "Cyprus": [
+            16.1
+        ],
+        "Slovakia": [
+            16.0
+        ],
+        "Montenegro": [
+            15.2
+        ],
+        "Luxembourg": [
+            14.4
+        ],
+        "Iceland": [
+            14.2
+        ],
+        "Ireland": [
+            14.1
+        ],
+        "North Macedonia": [
+            14.1
+        ],
+        "Turkey": [
+            8.8
+        ]
+    },
+    "colors": {
+        "Italy": "#f27979",
+        "Greece": "#f22900",
+        "Portugal": "#f2a279",
+        "Finland": "#f27c00",
+        "Germany": "#f2cc79",
+        "Bulgaria": "#f2cf00",
+        "Croatia": "#eef279",
+        "Serbia": "#c1f200",
+        "Latvia": "#c5f279",
+        "France": "#6ef200",
+        "Sweden": "#9bf279",
+        "Lithuania": "#1bf200",
+        "Slovenia": "#52a557",
+        "Estonia": "#00a525",
+        "Czechia": "#52a574",
+        "Denmark": "#00a55e",
+        "Spain": "#52a590",
+        "Hungary": "#00a597",
+        "Netherlands": "#529ea5",
+        "Belgium": "#007ba5",
+        "Austria": "#5282a5",
+        "Malta": "#0042a5",
+        "Romania": "#5265a5",
+        "Switzerland": "#0009a5",
+        "United Kingdom": "#8679f2",
+        "Poland": "#4500f2",
+        "Norway": "#b079f2",
+        "Cyprus": "#9800f2",
+        "Slovakia": "#da79f2",
+        "Montenegro": "#eb00f2",
+        "Luxembourg": "#f279e0",
+        "Iceland": "#f200a6",
+        "Ireland": "#f279b7",
+        "North Macedonia": "#f20053",
+        "Turkey": "#f2798d"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

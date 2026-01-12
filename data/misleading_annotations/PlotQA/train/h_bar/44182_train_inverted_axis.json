@@ -1,0 +1,60 @@
+{
+    "title": "Capital used up in the process of production",
+    "legend": {
+        "1970": "#FF8C00",
+        "1971": "#6A5ACD",
+        "1972": "#66CDAA"
+    },
+    "categories": [
+        "Sri Lanka",
+        "St. Vincent and the Grenadines",
+        "Sweden"
+    ],
+    "data": {
+        "1970": [
+            5.86158861934271,
+            5.30100411695079,
+            10.7105628662065
+        ],
+        "1971": [
+            5.541617124430243,
+            2.37685790287669,
+            10.8773614616524
+        ],
+        "1972": [
+            5.372155540961982,
+            1.90489885998529,
+            10.9291471086576
+        ]
+    },
+    "colors": {
+        "1970": "#FF8C00",
+        "1971": "#6A5ACD",
+        "1972": "#66CDAA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

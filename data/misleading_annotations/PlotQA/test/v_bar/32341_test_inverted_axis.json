@@ -1,0 +1,54 @@
+{
+    "title": "Distribution of total population of different countires in the year 1994",
+    "x_axis": {
+        "categories": [
+            "OECD members",
+            "Other small states",
+            "Pacific island small states",
+            "Small states",
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Total": "#8FBC8F"
+    },
+    "data": {
+        "Total": [
+            1104406531,
+            14511268,
+            1802890,
+            22460661,
+            1233459616,
+            568228356
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1233459620
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

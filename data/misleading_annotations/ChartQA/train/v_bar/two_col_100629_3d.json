@@ -1,0 +1,48 @@
+{
+    "title": "Merchandise sales in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "Apparel and soft home",
+            "Food and drug",
+            "Hardlines"
+        ]
+    },
+    "y_axis": {
+        "label": "Merchandise sales in billion U.S. dollars"
+    },
+    "legend": {
+        "Unnamed": "#2876dd"
+    },
+    "data": {
+        "Unnamed": [
+            2.1,
+            1.92,
+            1.55
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Total amount earned from tourism in 2012",
+    "legend": {
+        "Belarus": "#C71585",
+        "Jordan": "#00BFFF",
+        "Sudan": "#808000",
+        "Swaziland": "#8B008B"
+    },
+    "categories": [
+        "National Visitors",
+        "International Visitors"
+    ],
+    "data": {
+        "Belarus": [
+            986000000,
+            948000000
+        ],
+        "Jordan": [
+            5123000000,
+            1257000000
+        ],
+        "Sudan": [
+            772000000,
+            699000000
+        ],
+        "Swaziland": [
+            30300000,
+            91000000
+        ]
+    },
+    "colors": {
+        "Belarus": "#C71585",
+        "Jordan": "#00BFFF",
+        "Sudan": "#808000",
+        "Swaziland": "#8B008B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5123000000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

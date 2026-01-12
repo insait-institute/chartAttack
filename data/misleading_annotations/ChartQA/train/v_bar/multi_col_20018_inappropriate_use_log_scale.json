@@ -1,0 +1,60 @@
+{
+    "title": "Expenses in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Expenses in million U.S. dollars"
+    },
+    "legend": {
+        "Program Services": "#2876dd",
+        "Auxiliary Activities": "#0f283e",
+        "Supporting Services": "#bababa"
+    },
+    "data": {
+        "Program Services": [
+            226.87,
+            222.9,
+            217.01
+        ],
+        "Auxiliary Activities": [
+            86.72,
+            84.83,
+            71.74
+        ],
+        "Supporting Services": [
+            79.4,
+            78.46,
+            70.61
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 230
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

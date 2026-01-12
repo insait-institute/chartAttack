@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Emigrants": "#2876dd"
+    },
+    "categories": [
+        "Denmark",
+        "United Kingdom",
+        "Finland",
+        "Norway",
+        "Germany",
+        "United States of America",
+        "Poland",
+        "Spain",
+        "India",
+        "Netherlands",
+        "France",
+        "China",
+        "Switzerland",
+        "Iraq",
+        "Australia",
+        "Turkey",
+        "Italy",
+        "Portugal",
+        "Greece",
+        "Iceland"
+    ],
+    "data": {
+        "Emigrants": [
+            3934,
+            3540,
+            2896,
+            2804,
+            2641,
+            2163,
+            1803,
+            1644,
+            1502,
+            946,
+            922,
+            861,
+            742,
+            712,
+            638,
+            637,
+            611,
+            546,
+            505,
+            494
+        ]
+    },
+    "colors": {
+        "Emigrants": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3940
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

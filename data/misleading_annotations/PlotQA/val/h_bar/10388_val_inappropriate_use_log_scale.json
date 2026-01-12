@@ -1,0 +1,55 @@
+{
+    "title": "Split of tax revenue collected by government in 2002",
+    "legend": {
+        "Bangladesh": "#B03060",
+        "Bhutan": "#00CED1",
+        "Uruguay": "#FF4500"
+    },
+    "categories": [
+        "Taxes on exports",
+        "Taxes on profits and capital gains"
+    ],
+    "data": {
+        "Bangladesh": [
+            4.755177544301731e-06,
+            16.715509472813
+        ],
+        "Bhutan": [
+            0.5091551850667689,
+            54.04806120133122
+        ],
+        "Uruguay": [
+            0.138558098984914,
+            11.3637872337409
+        ]
+    },
+    "colors": {
+        "Bangladesh": "#B03060",
+        "Bhutan": "#00CED1",
+        "Uruguay": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

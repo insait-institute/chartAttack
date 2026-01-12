@@ -1,0 +1,60 @@
+{
+    "title": "Retail revenue CAGR",
+    "categories": [
+        "Amazon.com, Inc. (United States)",
+        "Walgreens Boots Alliance, Inc (United States)",
+        "Schwarz Group (Germany)",
+        "Aldi Einkauf GmbH & Co. oHG (Germany)",
+        "Costco Wholesale Corporation (United States)",
+        "The Home Depot, Inc. (United States)",
+        "CVS Health Corporation (United States)",
+        "The Kroger Co. (United States)",
+        "Walmart, Inc (United States)",
+        "Tesco PLC (United Kingdom)"
+    ],
+    "data": {
+        "Retail revenue CAGR": [
+            17.7,
+            8.7,
+            7.4,
+            6.4,
+            6.3,
+            5.8,
+            5,
+            2.3,
+            1.5,
+            0.8
+        ]
+    },
+    "colors": {
+        "Retail revenue CAGR": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Retail revenue CAGR": "#2876dd"
+    }
+}

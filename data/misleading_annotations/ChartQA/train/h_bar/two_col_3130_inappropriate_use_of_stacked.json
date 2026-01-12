@@ -1,0 +1,87 @@
+{
+    "title": "Points scored by top basketball players",
+    "legend": {
+        "Kobe Bryant": "#f27979",
+        "Jerry West": "#f29100",
+        "Kareem Abdul-Jabbar": "#daf279",
+        "Elgin Baylor": "#30f200",
+        "Magic Johnson": "#52a574",
+        "James Worthy": "#00a5a5",
+        "Shaquille O'Neal": "#5274a5",
+        "Gail Goodrich": "#2100a5",
+        "Byron Scott": "#da79f2",
+        "Jamaal Wilkes": "#f20091"
+    },
+    "categories": [
+        "Points scored by top basketball players"
+    ],
+    "data": {
+        "Kobe Bryant": [
+            33643.0
+        ],
+        "Jerry West": [
+            25192.0
+        ],
+        "Kareem Abdul-Jabbar": [
+            24176.0
+        ],
+        "Elgin Baylor": [
+            23149.0
+        ],
+        "Magic Johnson": [
+            17707.0
+        ],
+        "James Worthy": [
+            16320.0
+        ],
+        "Shaquille O'Neal": [
+            13895.0
+        ],
+        "Gail Goodrich": [
+            13044.0
+        ],
+        "Byron Scott": [
+            12780.0
+        ],
+        "Jamaal Wilkes": [
+            10601.0
+        ]
+    },
+    "colors": {
+        "Kobe Bryant": "#f27979",
+        "Jerry West": "#f29100",
+        "Kareem Abdul-Jabbar": "#daf279",
+        "Elgin Baylor": "#30f200",
+        "Magic Johnson": "#52a574",
+        "James Worthy": "#00a5a5",
+        "Shaquille O'Neal": "#5274a5",
+        "Gail Goodrich": "#2100a5",
+        "Byron Scott": "#da79f2",
+        "Jamaal Wilkes": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 33650
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

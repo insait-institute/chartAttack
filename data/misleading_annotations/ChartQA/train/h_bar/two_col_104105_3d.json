@@ -1,0 +1,60 @@
+{
+    "title": "Number of games won by pitchers",
+    "legend": {
+        "Pitchers": "#2876dd"
+    },
+    "categories": [
+        "Joe Niekro",
+        "Roy Oswalt",
+        "Larry Dierker",
+        "Mike Scott",
+        "J.R. Richard",
+        "Nolan Ryan",
+        "Don Wilson",
+        "Shane Reynolds",
+        "Bob Knepper",
+        "Wandy Rodriguez"
+    ],
+    "data": {
+        "Pitchers": [
+            144,
+            143,
+            137,
+            110,
+            107,
+            106,
+            104,
+            103,
+            93,
+            80
+        ]
+    },
+    "colors": {
+        "Pitchers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 150
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,56 @@
+{
+    "title": "",
+    "legend": {
+        "Sales": "#2876dd"
+    },
+    "categories": [
+        "British American Tobacco",
+        "Philip Morris International",
+        "Imperial Brands",
+        "Altria Group",
+        "Japan Tobacco",
+        "Gudang Garam",
+        "ITC",
+        "KT&G"
+    ],
+    "data": {
+        "Sales": [
+            33.1,
+            28.7,
+            21.2,
+            20.8,
+            19.6,
+            7.9,
+            6.3,
+            4.5
+        ]
+    },
+    "colors": {
+        "Sales": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

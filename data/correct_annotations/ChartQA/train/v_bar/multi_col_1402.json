@@ -1,0 +1,64 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "North America": "#2876dd",
+        "Outside North America": "#0f283e",
+        "Intergeographic sales": "#bababa"
+    },
+    "data": {
+        "North America": [
+            9437,
+            9532,
+            9735,
+            10394
+        ],
+        "Outside North America": [
+            9228,
+            9256,
+            8981,
+            9018
+        ],
+        "Intergeographic sales": [
+            -317,
+            -302,
+            -266,
+            -272
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10400
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

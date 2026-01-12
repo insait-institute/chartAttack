@@ -1,0 +1,91 @@
+{
+    "title": "General government consumption in current US$",
+    "legend": {
+        "1960": "#32CD32",
+        "1961": "#4B0082",
+        "1962": "#D2B48C"
+    },
+    "categories": [
+        "Guatemala",
+        "Guyana",
+        "Honduras",
+        "Iceland",
+        "India"
+    ],
+    "data": {
+        "1960": [
+            79900000.0,
+            19483284.365426,
+            37150000.0,
+            26760400.5743512,
+            2604002604.0026
+        ],
+        "1961": [
+            83100000.0,
+            22166610.9546763,
+            41050000.0,
+            29530709.0085432,
+            2891702891.70289
+        ],
+        "1962": [
+            77200000.0,
+            22516610.0750133,
+            41650000.0,
+            32532659.9203834,
+            3507003507.00351
+        ]
+    },
+    "colors": {
+        "1960": "#32CD32",
+        "1961": "#4B0082",
+        "1962": "#D2B48C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3507003510
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

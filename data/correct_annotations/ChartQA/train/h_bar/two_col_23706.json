@@ -1,0 +1,64 @@
+{
+    "title": "Average price per square meter in euros",
+    "legend": {
+        "Cities": "#2876dd"
+    },
+    "categories": [
+        "Venice",
+        "Rome",
+        "Milan",
+        "Naples",
+        "Bologna",
+        "Florence",
+        "Genoa",
+        "Bari",
+        "Verona",
+        "Catania",
+        "Turin",
+        "Palermo"
+    ],
+    "data": {
+        "Cities": [
+            3791,
+            3016,
+            2918,
+            2564,
+            2424,
+            2378,
+            1849,
+            1807,
+            1640,
+            1417,
+            1377,
+            951
+        ]
+    },
+    "colors": {
+        "Cities": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3800
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

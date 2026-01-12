@@ -1,0 +1,100 @@
+{
+    "title": "Air cargo traffic in billion revenue ton kilometers",
+    "x_axis": {
+        "categories": [
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Air cargo traffic in billion revenue ton kilometers"
+    },
+    "legend": {
+        "Scheduled freight": "#2876dd",
+        "Charter freight": "#0f283e",
+        "Mail": "#bababa"
+    },
+    "data": {
+        "Scheduled freight": [
+            178.88,
+            172.0,
+            156.06,
+            187.17,
+            188.42,
+            188.23,
+            192.22,
+            203.69,
+            209.07,
+            217.71,
+            239.44,
+            246.46,
+            238.69
+        ],
+        "Charter freight": [
+            15.0,
+            14.26,
+            11.49,
+            14.3,
+            14.45,
+            12.68,
+            11.88,
+            10.85,
+            11.39,
+            12.18,
+            13.95,
+            18.12,
+            17.93
+        ],
+        "Mail": [
+            5.35,
+            5.64,
+            5.19,
+            5.29,
+            5.41,
+            5.39,
+            5.78,
+            6.04,
+            6.39,
+            6.41,
+            7.19,
+            7.31,
+            7.08
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 250
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

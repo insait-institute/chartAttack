@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of population who used safely managed services in 1997",
+    "x_axis": {
+        "categories": [
+            "Sanitation services",
+            "Drinking water services"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Aruba": "#F0E68C",
+        "French Polynesia": "#00FF7F",
+        "Ghana": "#FF7F50",
+        "Swaziland": "#2F4F4F"
+    },
+    "data": {
+        "Aruba": [
+            98.3,
+            93.2
+        ],
+        "French Polynesia": [
+            98,
+            100
+        ],
+        "Ghana": [
+            9.3,
+            66.2
+        ],
+        "Swaziland": [
+            50.4,
+            46.5
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

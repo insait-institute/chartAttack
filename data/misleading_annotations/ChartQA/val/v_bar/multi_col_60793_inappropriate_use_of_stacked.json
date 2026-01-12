@@ -1,0 +1,82 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "2010/11": "#f27979",
+        "2011/12": "#f2b500",
+        "2012/13": "#b5f279",
+        "2013/14": "#00a529",
+        "2014/15": "#52a5a5",
+        "2015/16": "#0029a5",
+        "2016/17": "#b579f2",
+        "2017/18": "#f200b5"
+    },
+    "data": {
+        "2010/11": [
+            48.3
+        ],
+        "2011/12": [
+            45.3
+        ],
+        "2012/13": [
+            48.8
+        ],
+        "2013/14": [
+            50.6
+        ],
+        "2014/15": [
+            50.6
+        ],
+        "2015/16": [
+            53.5
+        ],
+        "2016/17": [
+            50.9
+        ],
+        "2017/18": [
+            49.5
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2010/11": "#f27979",
+        "2011/12": "#f2b500",
+        "2012/13": "#b5f279",
+        "2013/14": "#00a529",
+        "2014/15": "#52a5a5",
+        "2015/16": "#0029a5",
+        "2016/17": "#b579f2",
+        "2017/18": "#f200b5"
+    }
+}

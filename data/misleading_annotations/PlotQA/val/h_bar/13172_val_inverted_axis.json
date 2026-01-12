@@ -1,0 +1,72 @@
+{
+    "title": "Global emissions of Hydrofluorocarbons",
+    "legend": {
+        "1990": "#8FBC8F",
+        "2000": "#00FA9A",
+        "2005": "#32CD32",
+        "2008": "#6A5ACD"
+    },
+    "categories": [
+        "Japan",
+        "Korea (Democratic)",
+        "Korea (Republic)",
+        "Kuwait"
+    ],
+    "data": {
+        "1990": [
+            9154.3,
+            0.2,
+            1901.7,
+            0.1
+        ],
+        "2000": [
+            34139.8,
+            1760.1,
+            8371.9,
+            147.3
+        ],
+        "2005": [
+            40768.5,
+            2787.1,
+            4933.9,
+            539.6
+        ],
+        "2008": [
+            52871.9,
+            3693.8,
+            2511.2,
+            779.0
+        ]
+    },
+    "colors": {
+        "1990": "#8FBC8F",
+        "2000": "#00FA9A",
+        "2005": "#32CD32",
+        "2008": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 52880
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Payments made towards primary income, imports of goods and services by Nigeria",
+    "legend": {
+        "Goods and services": "#FF4500",
+        "Primary income": "#32CD32"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Payments (BoP, current US$)",
+    "data": [
+        {
+            "label": "Goods and services",
+            "color": "#FF4500",
+            "values": [
+                32626574669,
+                35911847248,
+                46636316220,
+                64220832319,
+                49476079644,
+                67785513553
+            ]
+        },
+        {
+            "label": "Primary income",
+            "color": "#32CD32",
+            "values": [
+                35772642669,
+                42388641889,
+                60947675276,
+                81631713822,
+                64814789574,
+                88298957910
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 32626574660,
+                "max_value": 88298957910
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

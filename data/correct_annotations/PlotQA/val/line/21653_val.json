@@ -1,0 +1,61 @@
+{
+    "title": "Population in urban agglomerations (of more than 1 million) of Somalia",
+    "legend": {
+        "Population in urban agglomerations": "#FF4500"
+    },
+    "x_axis": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "y_axis_label": "Population in urban agglomerations (in %)",
+    "data": [
+        {
+            "label": "Population in urban agglomerations",
+            "color": "#FF4500",
+            "values": [
+                1035248,
+                1105000,
+                1115275,
+                1125616,
+                1136068,
+                1146617,
+                1157279,
+                1168010
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 1035240,
+                "max_value": 1168010
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

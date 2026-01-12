@@ -1,0 +1,64 @@
+{
+    "title": "Profit or loss in thousand GBP",
+    "categories": [
+        "British Airways Plc",
+        "EasyJet Airline Company Ltd",
+        "Thomson Airways Ltd",
+        "Thomas Cook Airlines Ltd",
+        "BA CityFlyer Ltd",
+        "Jet2.Com Ltd",
+        "Titan Airways Ltd",
+        "Atlantic Airlines Ltd",
+        "Global Supply Systems Ltd",
+        "Virgin Atlantic Airways Ltd",
+        "FlyBe Ltd",
+        "Monarch Airlines"
+    ],
+    "data": {
+        "Profit/Loss": [
+            895647,
+            436768,
+            257955,
+            93275,
+            15996,
+            14134,
+            2987,
+            -370,
+            -2167,
+            -2412,
+            -2640,
+            -205538
+        ]
+    },
+    "colors": {
+        "Profit/Loss": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 895650
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Profit/Loss": "#2876dd"
+    }
+}

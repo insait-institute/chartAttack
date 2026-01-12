@@ -1,0 +1,62 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service exports",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Europe(developing only)": "#f27979",
+        "European Union": "#79f200",
+        "High income": "#52a5a5",
+        "High income: OECD": "#5200a5"
+    },
+    "data": {
+        "Europe(developing only)": [
+            24.9469613817319
+        ],
+        "European Union": [
+            45.0315231728366
+        ],
+        "High income": [
+            41.5822131175192
+        ],
+        "High income: OECD": [
+            43.3375911652835
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Europe(developing only)": "#f27979",
+        "European Union": "#79f200",
+        "High income": "#52a5a5",
+        "High income: OECD": "#5200a5"
+    }
+}

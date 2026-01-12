@@ -1,0 +1,64 @@
+{
+    "title": "Total undisbursed external debt of a country",
+    "x_axis": {
+        "categories": [
+            "Grenada",
+            "Guatemala",
+            "Guinea",
+            "Guyana"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#000000",
+        "1971": "#90EE90",
+        "1972": "#4682B4"
+    },
+    "data": {
+        "1970": [
+            2037000.0,
+            110178000.0,
+            199163000.0,
+            53194000.0
+        ],
+        "1971": [
+            639000.0,
+            111694000.0,
+            165413000.0,
+            53267000.0
+        ],
+        "1972": [
+            657000.0,
+            108169000.0,
+            112931000.0,
+            78374000.0
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 199163000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

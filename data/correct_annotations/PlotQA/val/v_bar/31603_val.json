@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of repeaters in secondary general education in the year 2008",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Mauritania": "#6B8E23",
+        "Romania": "#20B2AA",
+        "Singapore": "#FFD700",
+        "Uganda": "#2F4F4F"
+    },
+    "data": {
+        "Mauritania": [
+            12.1939096450806,
+            11.7385902404785
+        ],
+        "Romania": [
+            1.242840051651,
+            2.66636991500854
+        ],
+        "Singapore": [
+            1.20083999633789,
+            1.98531997203827
+        ],
+        "Uganda": [
+            2.37070989608765,
+            2.39968991279602
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

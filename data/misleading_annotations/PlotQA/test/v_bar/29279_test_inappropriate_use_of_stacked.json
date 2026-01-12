@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of total fuel imported from different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Latin America(developing only)": "#f27979",
+        "North America": "#c1f200",
+        "OECD members": "#52a574",
+        "World": "#0042a5",
+        "Argentina": "#da79f2"
+    },
+    "data": {
+        "Latin America(developing only)": [
+            6.44654930306061
+        ],
+        "North America": [
+            10.7118915712124
+        ],
+        "OECD members": [
+            12.6101005445079
+        ],
+        "World": [
+            11.9504477842411
+        ],
+        "Argentina": [
+            6.68857357014149
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Latin America(developing only)": "#f27979",
+        "North America": "#c1f200",
+        "OECD members": "#52a574",
+        "World": "#0042a5",
+        "Argentina": "#da79f2"
+    }
+}

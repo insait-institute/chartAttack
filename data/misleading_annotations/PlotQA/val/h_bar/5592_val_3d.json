@@ -1,0 +1,59 @@
+{
+    "title": "Total female teachers in schools in 1970",
+    "legend": {
+        "Primary school": "#6495ED",
+        "Secondary school": "#2F4F4F"
+    },
+    "categories": [
+        "Latin America(all income levels)",
+        "Latin America(developing only)",
+        "Least developed countries",
+        "Low & middle income",
+        "Low income"
+    ],
+    "data": {
+        "Primary school": [
+            80.0820999145508,
+            78.09938049316409,
+            24.6267395019531,
+            43.1106491088867,
+            24.591480255127
+        ],
+        "Secondary school": [
+            61.85351,
+            28.89518,
+            53.29961,
+            25.48673,
+            47.27716
+        ]
+    },
+    "colors": {
+        "Primary school": "#6495ED",
+        "Secondary school": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

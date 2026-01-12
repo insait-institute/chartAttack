@@ -1,0 +1,91 @@
+{
+    "title": "",
+    "legend": {
+        "Marriages": "#2876dd",
+        "Divorces": "#0f283e"
+    },
+    "y_axis_label": "Marriages and divorces per thousand population",
+    "x_axis": [
+        "2000",
+        "2005",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+    ],
+    "data": [
+        {
+            "label": "Marriages",
+            "color": "#2876dd",
+            "values": [
+                6.2,
+                7.4,
+                8.5,
+                9.2,
+                8.5,
+                8.5,
+                8.4,
+                7.9,
+                6.7,
+                7.1,
+                6.1,
+                6.5,
+                5.3
+            ]
+        },
+        {
+            "label": "Divorces",
+            "color": "#0f283e",
+            "values": [
+                4.3,
+                4.2,
+                4.5,
+                4.7,
+                4.5,
+                4.7,
+                4.7,
+                4.2,
+                4.2,
+                4.2,
+                4,
+                4.2,
+                3.9
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

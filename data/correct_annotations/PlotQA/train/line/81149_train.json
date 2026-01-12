@@ -1,0 +1,64 @@
+{
+    "title": "Under-5 mortality rate in Rwanda",
+    "legend": {
+        "Under-5(female)": "#000000",
+        "Under-5(male)": "#483D8B"
+    },
+    "x_axis": [
+        "1990",
+        "2000",
+        "2010",
+        "2015"
+    ],
+    "y_axis_label": "Under 5 mortality rate (per 1,000 live births)",
+    "data": [
+        {
+            "label": "Under-5(female)",
+            "color": "#000000",
+            "values": [
+                143.1,
+                174.5,
+                59.4,
+                37.8
+            ]
+        },
+        {
+            "label": "Under-5(male)",
+            "color": "#483D8B",
+            "values": [
+                160.0,
+                192.7,
+                68.6,
+                45.4
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 200
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

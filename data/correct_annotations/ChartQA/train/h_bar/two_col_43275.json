@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Import value million SEK": "#2876dd"
+    },
+    "categories": [
+        "Germany",
+        "Netherlands",
+        "Norway",
+        "Denmark",
+        "China",
+        "Finland",
+        "United Kingdom",
+        "Belgium",
+        "Poland",
+        "France",
+        "Italy",
+        "United States",
+        "Russian Federation",
+        "Czech Republic",
+        "Spain",
+        "Austria",
+        "Hungary",
+        "Japan",
+        "Ireland",
+        "Estonia"
+    ],
+    "data": {
+        "Import value million SEK": [
+            267851,
+            142099,
+            138510,
+            99266,
+            77878,
+            73812,
+            68388,
+            65674,
+            63217,
+            56766,
+            50292,
+            39620,
+            38540,
+            24605,
+            21089,
+            18679,
+            16197,
+            15226,
+            15116,
+            14120
+        ]
+    },
+    "colors": {
+        "Import value million SEK": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 267860
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

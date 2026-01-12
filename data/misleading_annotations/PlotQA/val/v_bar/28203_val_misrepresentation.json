@@ -1,0 +1,84 @@
+{
+    "title": "Official DA received by a country",
+    "x_axis": {
+        "categories": [
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income",
+            "World",
+            "Afghanistan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FF4500",
+        "1961": "#FFA500",
+        "1962": "#DB7093"
+    },
+    "data": {
+        "1960": [
+            2.6202441718407,
+            0.760888306901855,
+            1.40178954302372,
+            1.90999392648613
+        ],
+        "1961": [
+            3.41845780718722,
+            1.37526145845969,
+            1.69666913938043,
+            3.78289231413827
+        ],
+        "1962": [
+            3.81302279571576,
+            1.27240455172436,
+            1.73847666018446,
+            1.81190208836431
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

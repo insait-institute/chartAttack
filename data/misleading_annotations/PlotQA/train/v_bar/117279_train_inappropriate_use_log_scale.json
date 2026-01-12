@@ -1,0 +1,72 @@
+{
+    "title": "Current value of exports of goods and services deflated by the import price index",
+    "x_axis": {
+        "categories": [
+            "Algeria",
+            "Argentina",
+            "Australia",
+            "Austria",
+            "Bangladesh",
+            "Belgium"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00FA9A",
+        "1961": "#87CEEB",
+        "1962": "#483D8B"
+    },
+    "data": {
+        "1960": [
+            19444937046.129,
+            14756554231.8341,
+            12891187821.6123,
+            9855547421.88996,
+            237790059008.856,
+            24869206408.0166
+        ],
+        "1961": [
+            19784713300.3522,
+            17438837282.8732,
+            12956940819.4234,
+            10550620611.7231,
+            269955740253.172,
+            26612470688.536
+        ],
+        "1962": [
+            6864603495.08791,
+            8719418641.43659,
+            14856000000.0,
+            11318082320.3611,
+            289024274462.364,
+            29372717572.0568
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 289024274470
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

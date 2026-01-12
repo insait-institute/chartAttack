@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of the male workers employed in different sectors of an economy in 1981",
+    "legend": {
+        "Canada": "#B03060",
+        "France": "#D2B48C",
+        "Korea (Republic)": "#66CDAA",
+        "Spain": "#2F4F4F"
+    },
+    "categories": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Self-employed"
+    ],
+    "data": {
+        "Canada": [
+            7.0,
+            37.0999984741211,
+            55.9000015258789,
+            10.0
+        ],
+        "France": [
+            8.80000019073486,
+            43.5,
+            47.7000007629395,
+            17.1000003814697
+        ],
+        "Korea (Republic)": [
+            31.2000007629395,
+            31.10000038146969,
+            37.7000007629395,
+            47.9000015258789
+        ],
+        "Spain": [
+            19.2000007629395,
+            41.0999984741211,
+            39.5999984741211,
+            27.5
+        ]
+    },
+    "colors": {
+        "Canada": "#B03060",
+        "France": "#D2B48C",
+        "Korea (Republic)": "#66CDAA",
+        "Spain": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

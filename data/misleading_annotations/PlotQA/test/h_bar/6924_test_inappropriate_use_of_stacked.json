@@ -1,0 +1,57 @@
+{
+    "title": "Total amount collected by an economy from different taxes in 2006",
+    "legend": {
+        "Taxes on revenue": "#f27979",
+        "Taxes on exports": "#79f200",
+        "Taxes on goods and services": "#52a5a5",
+        "Taxes on income": "#5200a5"
+    },
+    "categories": [
+        "Total amount collected by an economy from different taxes in 2006"
+    ],
+    "data": {
+        "Taxes on revenue": [
+            15919000000.0
+        ],
+        "Taxes on exports": [
+            360000.0
+        ],
+        "Taxes on goods and services": [
+            2415980000.0
+        ],
+        "Taxes on income": [
+            6875090000.0
+        ]
+    },
+    "colors": {
+        "Taxes on revenue": "#f27979",
+        "Taxes on exports": "#79f200",
+        "Taxes on goods and services": "#52a5a5",
+        "Taxes on income": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3679899320000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Official entrance age of children to secondary education",
+    "legend": {
+        "1970": "#00FA9A",
+        "1971": "#2E8B57",
+        "1972": "#FF7F50",
+        "1973": "#DAA520"
+    },
+    "categories": [
+        "Mozambique",
+        "Myanmar",
+        "Namibia",
+        "Nepal"
+    ],
+    "data": {
+        "1970": [
+            6.0,
+            5.0,
+            7.0,
+            6.0
+        ],
+        "1971": [
+            6.0,
+            5.0,
+            7.0,
+            6.0
+        ],
+        "1972": [
+            6.0,
+            5.0,
+            7.0,
+            6.0
+        ],
+        "1973": [
+            6.0,
+            5.0,
+            7.0,
+            6.0
+        ]
+    },
+    "colors": {
+        "1970": "#00FA9A",
+        "1971": "#2E8B57",
+        "1972": "#FF7F50",
+        "1973": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

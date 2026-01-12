@@ -1,0 +1,96 @@
+{
+    "title": "Different expenses of government of Romania",
+    "legend": {
+        "Salary of employees": "#8B4513",
+        "Custom duties": "#FF7F50",
+        "Interest Payments": "#CD853F",
+        "Other expenses": "#6B8E23"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Expenses (in $)",
+    "data": [
+        {
+            "label": "Salary of employees",
+            "color": "#8B4513",
+            "values": [
+                9069967764.223171,
+                11282503090.1445,
+                13426402239.4628,
+                19050974884.0,
+                24888421637.0,
+                33001766200.0
+            ]
+        },
+        {
+            "label": "Custom duties",
+            "color": "#FF7F50",
+            "values": [
+                5308027.2,
+                7913250.5,
+                2414767000.0,
+                855670000.0,
+                227720000.0,
+                650420000.0
+            ]
+        },
+        {
+            "label": "Interest Payments",
+            "color": "#CD853F",
+            "values": [
+                3097288534.2,
+                3286681145.4,
+                2963783335.0,
+                2459797422.0,
+                2768311312.0,
+                3154565521.0
+            ]
+        },
+        {
+            "label": "Other expenses",
+            "color": "#6B8E23",
+            "values": [
+                46448367029.1449,
+                57370711511.2,
+                69238374309.0,
+                87188698517.1367,
+                108620856452.502,
+                170194903599.586
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 5308020,
+                "max_value": 170194903600
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

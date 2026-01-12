@@ -1,0 +1,55 @@
+{
+    "title": "Net bilateral aid flow from different members of DA Committee in the year 2004",
+    "legend": {
+        "Small states": "#A0522D",
+        "Iraq": "#8FBC8F"
+    },
+    "categories": [
+        "European Union",
+        "United Kingdom",
+        "United States",
+        "Iceland"
+    ],
+    "data": {
+        "Small states": [
+            283190000,
+            25380000,
+            291470000,
+            1270000
+        ],
+        "Iraq": [
+            137830000,
+            275100000,
+            3021990000,
+            1540000
+        ]
+    },
+    "colors": {
+        "Small states": "#A0522D",
+        "Iraq": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3021990000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

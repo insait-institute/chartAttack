@@ -1,0 +1,54 @@
+{
+    "title": "Share of apps",
+    "x_axis": {
+        "categories": [
+            "2020-09",
+            "2021-01",
+            "2021-03"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of apps"
+    },
+    "legend": {
+        "Free": "#2876dd",
+        "Paid": "#0f283e"
+    },
+    "data": {
+        "Free": [
+            78.4,
+            78.5,
+            77.9
+        ],
+        "Paid": [
+            21.6,
+            21.5,
+            22.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Receiving yards",
+    "categories": [
+        "Marques Colston",
+        "Eric Martin",
+        "Joe Horn",
+        "Michael Thomas",
+        "Danny Abramowicz",
+        "Jimmy Graham",
+        "Devery Henderson",
+        "Lance Moore",
+        "Hoby Brenner",
+        "Quinn Early",
+        "Henry Childs",
+        "Brandin Cooks",
+        "Wes Chandler",
+        "Donte' Stallworth",
+        "Robert Meachem",
+        "Alvin Kamara",
+        "Pierre Thomas",
+        "Michael Haynes",
+        "Dave Parks",
+        "Dalton Hilliard"
+    ],
+    "data": {
+        "Receiving yards": [
+            9759,
+            7854,
+            7622,
+            5950,
+            4875,
+            4752,
+            4377,
+            4281,
+            3849,
+            3758,
+            3224,
+            2861,
+            2801,
+            2791,
+            2707,
+            2624,
+            2608,
+            2368,
+            2254,
+            2233
+        ]
+    },
+    "colors": {
+        "Receiving yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9760
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Receiving yards": "#2876dd"
+    }
+}

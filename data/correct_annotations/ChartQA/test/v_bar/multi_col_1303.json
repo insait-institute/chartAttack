@@ -1,0 +1,71 @@
+{
+    "title": "Demand in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2019*"
+        ]
+    },
+    "y_axis": {
+        "label": "Demand in billion U.S. dollars"
+    },
+    "legend": {
+        "Computing": "#2876dd",
+        "Wireless": "#0f283e",
+        "Consumer": "#bababa",
+        "Automotive": "#a60b0b",
+        "Industrial": "#87bc24",
+        "Wired Communications": "#ebb523"
+    },
+    "data": {
+        "Computing": [
+            105.4,
+            107.2
+        ],
+        "Wireless": [
+            91.9,
+            107.8
+        ],
+        "Consumer": [
+            53.9,
+            61.4
+        ],
+        "Automotive": [
+            25.8,
+            41.3
+        ],
+        "Industrial": [
+            32.1,
+            42.9
+        ],
+        "Wired Communications": [
+            25.6,
+            29
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

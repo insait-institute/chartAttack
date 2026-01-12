@@ -1,0 +1,82 @@
+{
+    "title": "Share of chartered TEUs",
+    "categories": [
+        "UniFeeder",
+        "Emirates Shipping",
+        "Global Feeder LLC",
+        "SeaLeadShipping",
+        "Far Shipping",
+        "Westwood",
+        "Peel Ports",
+        "Independent Container",
+        "Melfi Marine",
+        "King Ocean",
+        "Bengal Tiger Line",
+        "Nirint Lines",
+        "Rizhao Haitong Ferry",
+        "Asean Seas Line",
+        "Pendulum Express Line",
+        "Zim",
+        "Boluda Lines",
+        "Caribbean Feeder Services",
+        "Seaboard Marine",
+        "Del Monte Fresh Produce",
+        "DAL"
+    ],
+    "data": {
+        "Share of chartered TEUs": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            100,
+            98.2,
+            95.4,
+            95.2,
+            93.8,
+            93.3,
+            87.1
+        ]
+    },
+    "colors": {
+        "Share of chartered TEUs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Share of chartered TEUs": "#2876dd"
+    }
+}

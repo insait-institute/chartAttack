@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the population (ages 15+) that was economically active in the year 2012",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Italy": "#f27979",
+        "Jamaica": "#f2f200",
+        "Japan": "#79f279",
+        "Jordan": "#00a5a5",
+        "Kazakhstan": "#5252a5",
+        "Korea (Republic)": "#a500a5"
+    },
+    "data": {
+        "Italy": [
+            49.0999984741211
+        ],
+        "Jamaica": [
+            62.7000007629395
+        ],
+        "Japan": [
+            59.0999984741211
+        ],
+        "Jordan": [
+            38.0
+        ],
+        "Kazakhstan": [
+            71.6999969482422
+        ],
+        "Korea (Republic)": [
+            61.2999992370605
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Italy": "#f27979",
+        "Jamaica": "#f2f200",
+        "Japan": "#79f279",
+        "Jordan": "#00a5a5",
+        "Kazakhstan": "#5252a5",
+        "Korea (Republic)": "#a500a5"
+    }
+}

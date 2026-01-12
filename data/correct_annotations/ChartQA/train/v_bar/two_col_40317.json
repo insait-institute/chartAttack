@@ -1,0 +1,48 @@
+{
+    "title": "Transactions in billions",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Transactions in billions"
+    },
+    "legend": {
+        "2015-2017": "#2876dd"
+    },
+    "data": {
+        "2015-2017": [
+            0.9,
+            2.3,
+            3.7
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

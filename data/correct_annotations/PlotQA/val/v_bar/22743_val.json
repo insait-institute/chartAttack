@@ -1,0 +1,57 @@
+{
+    "title": "Net bilateral aid flow from different members of DA Committee in the year 1978",
+    "x_axis": {
+        "categories": [
+            "Norway",
+            "Portugal",
+            "Sweden",
+            "Switzerland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bangladesh": "#32CD32",
+        "Tanzania": "#008B8B"
+    },
+    "data": {
+        "Bangladesh": [
+            15500000.0,
+            0,
+            26380000.0,
+            14790000.0
+        ],
+        "Tanzania": [
+            30680000.0,
+            0,
+            64150000.0,
+            2000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 64150000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

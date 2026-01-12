@@ -1,0 +1,57 @@
+{
+    "title": "Cost of damage due to depletion of various resources",
+    "legend": {
+        "High income": "#f27979",
+        "High income: OECD": "#79f200",
+        "Latin America(all income levels)": "#52a5a5",
+        "Latin America(developing only)": "#5200a5"
+    },
+    "categories": [
+        "Cost of damage due to depletion of various resources"
+    ],
+    "data": {
+        "High income": [
+            0.474219865737147
+        ],
+        "High income: OECD": [
+            0.360510555077015
+        ],
+        "Latin America(all income levels)": [
+            1.05129968173533
+        ],
+        "Latin America(developing only)": [
+            0.259307697182345
+        ]
+    },
+    "colors": {
+        "High income": "#f27979",
+        "High income: OECD": "#79f200",
+        "Latin America(all income levels)": "#52a5a5",
+        "Latin America(developing only)": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

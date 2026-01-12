@@ -1,0 +1,50 @@
+{
+    "title": "Current operating expenditures of countries in 1981 towards education",
+    "legend": {
+        "Education expenditure": "#6A5ACD"
+    },
+    "categories": [
+        "Netherlands",
+        "New Caledonia",
+        "New Zealand",
+        "Nicaragua",
+        "Niger"
+    ],
+    "data": {
+        "Education expenditure": [
+            9444836000.0,
+            109399389.6889,
+            950395470.8,
+            80303151.46,
+            51582387.7963634
+        ]
+    },
+    "colors": {
+        "Education expenditure": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9444836000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

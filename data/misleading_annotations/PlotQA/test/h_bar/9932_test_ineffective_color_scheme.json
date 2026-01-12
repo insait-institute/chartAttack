@@ -1,0 +1,73 @@
+{
+    "title": "Net disbursements made to Bosnia and Herzegovina from members of DAC committee",
+    "legend": {
+        "Czech Republic": "#ffff00",
+        "Poland": "#d6ff00",
+        "Slovak Republic": "#b1ff0a"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Czech Republic": [
+            1340000,
+            2130000,
+            2610000,
+            3300000,
+            4970000
+        ],
+        "Poland": [
+            10000,
+            160000,
+            80000,
+            10000,
+            10000
+        ],
+        "Slovak Republic": [
+            1390000,
+            130000,
+            10000,
+            560000,
+            380000
+        ]
+    },
+    "colors": {
+        "Czech Republic": "#FFFF00",
+        "Poland": "#8A2BE2",
+        "Slovak Republic": "#F0E68C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4970000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Czech Republic": "#ffff00",
+        "Poland": "#d6ff00",
+        "Slovak Republic": "#b1ff0a"
+    }
+}

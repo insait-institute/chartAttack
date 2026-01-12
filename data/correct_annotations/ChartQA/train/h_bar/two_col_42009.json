@@ -1,0 +1,92 @@
+{
+    "title": "Per capita consumption in kilograms per year",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Luxembourg",
+        "Germany",
+        "Austria",
+        "Slovenia",
+        "Belgium",
+        "United States",
+        "Japan",
+        "Finland",
+        "Denmark",
+        "New Zealand",
+        "South Korea",
+        "Netherlands",
+        "Italy",
+        "Sweden",
+        "Canada",
+        "Spain",
+        "Australia",
+        "United Kingdom",
+        "Poland",
+        "France",
+        "Cayman Islands",
+        "Switzerland",
+        "United Arab Emirates",
+        "Czech Republic",
+        "Slovakia",
+        "Croatia"
+    ],
+    "data": {
+        "Model": [
+            277,
+            251,
+            249,
+            247,
+            241,
+            222,
+            214,
+            200,
+            198,
+            189,
+            186,
+            183,
+            170,
+            165,
+            150,
+            149,
+            146,
+            145,
+            143,
+            137,
+            135,
+            132,
+            130,
+            126,
+            118,
+            111
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

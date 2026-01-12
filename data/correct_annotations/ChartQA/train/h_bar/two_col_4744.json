@@ -1,0 +1,103 @@
+{
+    "title": "",
+    "legend": {
+        "Country Scores": "#2876dd"
+    },
+    "categories": [
+        "Uruguay",
+        "Chile",
+        "Barbados",
+        "Bahamas",
+        "Saint Vincent & the Grenadines",
+        "Costa Rica",
+        "Saint Lucia",
+        "Dominica",
+        "Grenada",
+        "Cuba",
+        "Jamaica",
+        "Argentina",
+        "Guyana",
+        "Trinidad & Tobago",
+        "Colombia",
+        "Ecuador",
+        "Regional median*",
+        "Brazil",
+        "Peru",
+        "Suriname",
+        "El Salvador",
+        "Panama",
+        "Bolivia",
+        "Mexico",
+        "Dominican Republic",
+        "Paraguay",
+        "Guatemala",
+        "Honduras",
+        "Nicaragua",
+        "Haiti",
+        "Venezuela"
+    ],
+    "data": {
+        "Country Scores": [
+            71,
+            67,
+            64,
+            63,
+            59,
+            57,
+            56,
+            55,
+            53,
+            47,
+            44,
+            42,
+            41,
+            40,
+            39,
+            39,
+            39,
+            38,
+            38,
+            38,
+            36,
+            35,
+            31,
+            31,
+            28,
+            28,
+            25,
+            24,
+            22,
+            18,
+            15
+        ]
+    },
+    "colors": {
+        "Country Scores": "#2876dd",
+        "Regional median*": "#C0C0C0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

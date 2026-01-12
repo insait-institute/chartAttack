@@ -1,0 +1,51 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Irish Republic",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "France"
+    ],
+    "data": {
+        "Model": [
+            94.56,
+            85.12,
+            65.34,
+            48.94,
+            38.92
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "y_label": "Import value in million GBP",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

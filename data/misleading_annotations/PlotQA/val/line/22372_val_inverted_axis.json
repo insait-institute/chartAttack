@@ -1,0 +1,59 @@
+{
+    "title": "Total interest payments of Grenada to exports of goods, services and primary income",
+    "legend": {
+        "Interest payments on external debt": "#ADFF2F"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Payments(% of exports of goods, services and primary income)",
+    "data": [
+        {
+            "label": "Interest payments on external debt",
+            "color": "#ADFF2F",
+            "values": [
+                1.85001467684463,
+                3.63325959581179,
+                9.05281468751313,
+                10.6684774041784,
+                9.35525385668878,
+                3.07538853014915,
+                4.58925776943564
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

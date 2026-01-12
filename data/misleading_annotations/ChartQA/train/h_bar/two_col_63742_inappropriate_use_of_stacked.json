@@ -1,0 +1,92 @@
+{
+    "title": "Probability of default*",
+    "categories": [
+        "Probability of default*"
+    ],
+    "data": {
+        "Hungary": [
+            3.29
+        ],
+        "Latvia": [
+            2.84
+        ],
+        "Croatia": [
+            2.43
+        ],
+        "Bulgaria": [
+            2.43
+        ],
+        "Slovenia": [
+            2.42
+        ],
+        "Romania": [
+            1.78
+        ],
+        "Poland": [
+            1.65
+        ],
+        "Czechia": [
+            1.61
+        ],
+        "Estonia": [
+            1.48
+        ],
+        "Lithuania": [
+            1.47
+        ],
+        "Slovakia": [
+            1.27
+        ]
+    },
+    "colors": {
+        "Hungary": "#f27979",
+        "Latvia": "#f28400",
+        "Croatia": "#e7f279",
+        "Bulgaria": "#58f200",
+        "Slovenia": "#52a561",
+        "Romania": "#00a578",
+        "Poland": "#528fa5",
+        "Czechia": "#001ea5",
+        "Estonia": "#a579f2",
+        "Lithuania": "#dc00f2",
+        "Slovakia": "#f279bb"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Hungary": "#f27979",
+        "Latvia": "#f28400",
+        "Croatia": "#e7f279",
+        "Bulgaria": "#58f200",
+        "Slovenia": "#52a561",
+        "Romania": "#00a578",
+        "Poland": "#528fa5",
+        "Czechia": "#001ea5",
+        "Estonia": "#a579f2",
+        "Lithuania": "#dc00f2",
+        "Slovakia": "#f279bb"
+    }
+}

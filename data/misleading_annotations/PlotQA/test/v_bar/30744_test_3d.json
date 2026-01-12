@@ -1,0 +1,81 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "x_axis": {
+        "categories": [
+            "South Africa",
+            "Sri Lanka",
+            "Sudan",
+            "Thailand",
+            "Togo",
+            "Turkey"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#90EE90",
+        "1961": "#FF00FF",
+        "1962": "#00CED1",
+        "1963": "#FF4500"
+    },
+    "data": {
+        "1960": [
+            1401366260.01404,
+            230672268.907563,
+            50258472.2867848,
+            346108884.052834,
+            9380277.93737723,
+            1787916152.89766
+        ],
+        "1961": [
+            1522864091.46351,
+            230041995.7983189,
+            53991958.7995174,
+            394212513.667844,
+            8154600.7148333,
+            1055555555.55556
+        ],
+        "1962": [
+            1631935947.87839,
+            237654300.4115229,
+            58012636.5824602,
+            464707892.241302,
+            7346518.14563255,
+            1166666666.66667
+        ],
+        "1963": [
+            1869408752.98426,
+            203193260.504202,
+            63469270.71645401,
+            502054764.20085,
+            13876611.4601774,
+            1333333333.33333
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1869408760
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

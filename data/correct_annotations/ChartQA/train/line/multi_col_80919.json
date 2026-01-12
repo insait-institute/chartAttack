@@ -1,0 +1,107 @@
+{
+    "title": "",
+    "legend": {
+        "Total men and women": "#2876dd",
+        "Men": "#0f283e",
+        "Women": "#bababa"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "y_axis_label": "Standardized mortality rate per 1,000 inhabitants",
+    "data": [
+        {
+            "label": "Total men and women",
+            "color": "#2876dd",
+            "values": [
+                6.6,
+                6.4,
+                6.4,
+                6.2,
+                6.3,
+                6.1,
+                5.9,
+                6.1,
+                6,
+                5.9,
+                5.9,
+                5.7
+            ]
+        },
+        {
+            "label": "Men",
+            "color": "#0f283e",
+            "values": [
+                6.2,
+                6.1,
+                5.9,
+                5.7,
+                5.7,
+                5.6,
+                5.3,
+                5.5,
+                5.4,
+                5.3,
+                5.2,
+                5.1
+            ]
+        },
+        {
+            "label": "Women",
+            "color": "#bababa",
+            "values": [
+                6.9,
+                6.6,
+                6.6,
+                6.5,
+                6.5,
+                6.4,
+                6.2,
+                6.5,
+                6.4,
+                6.4,
+                6.4,
+                6.1
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

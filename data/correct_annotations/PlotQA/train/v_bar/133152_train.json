@@ -1,0 +1,71 @@
+{
+    "title": "Total exports of goods and services in constant 2005 US$",
+    "x_axis": {
+        "categories": [
+            "Chile",
+            "Colombia",
+            "Congo (Democratic)",
+            "Congo (Republic)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00CED1",
+        "1961": "#483D8B",
+        "1962": "#FF69B4",
+        "1963": "#FFA07A"
+    },
+    "data": {
+        "1960": [
+            1472798371300.0,
+            6484140807800.0,
+            301122555300.0,
+            22526711400.0
+        ],
+        "1961": [
+            1545595222900.0,
+            6051803890700.0,
+            271747274400.0,
+            24216215000.0
+        ],
+        "1962": [
+            1585936212300.0,
+            6542003892500.0,
+            245023142900.0,
+            42049861900.0
+        ],
+        "1963": [
+            1669641534000.0,
+            6384062604700.0,
+            209437318900.0,
+            50121933500.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6542003892500
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

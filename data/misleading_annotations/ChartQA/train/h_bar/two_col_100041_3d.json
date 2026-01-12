@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Number of vehicles": "#808080"
+    },
+    "categories": [
+        "Total",
+        "Younger than 1 year",
+        "1 to 2 years",
+        "3 to 4 years",
+        "5 to 6 years",
+        "7 to 8 years",
+        "9 to 12 years",
+        "12 to 15 years",
+        "15 to 20 years",
+        "20 to 25 years",
+        "25 years and older"
+    ],
+    "data": {
+        "Number of vehicles": [
+            1192730,
+            43509,
+            86586,
+            73046,
+            58489,
+            62354,
+            108680,
+            130867,
+            209328,
+            145703,
+            274168
+        ]
+    },
+    "colors": {
+        "Number of vehicles": "#808080"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1192730
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

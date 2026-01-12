@@ -1,0 +1,64 @@
+{
+    "title": "Different expenses of government of different countries in 1995",
+    "x_axis": {
+        "categories": [
+            "Salary of employees",
+            "Custom duties",
+            "Interest Payments",
+            "Other expenses"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Fiji": "#808000",
+        "Peru": "#EE82EE",
+        "Spain": "#708090"
+    },
+    "data": {
+        "Fiji": [
+            342140000,
+            150020000,
+            87730000,
+            741590000
+        ],
+        "Peru": [
+            4076300000,
+            2081950000,
+            4038900000,
+            21048200000
+        ],
+        "Spain": [
+            23091000000,
+            2000000,
+            19037000000,
+            165802000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 165802000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

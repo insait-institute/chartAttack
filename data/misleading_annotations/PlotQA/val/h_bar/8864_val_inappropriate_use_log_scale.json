@@ -1,0 +1,71 @@
+{
+    "title": "PPP conversion factor for private consumption",
+    "legend": {
+        "1990": "#8B4513",
+        "1991": "#FFA07A",
+        "1992": "#00CED1"
+    },
+    "categories": [
+        "Tunisia",
+        "Turkey",
+        "United Kingdom",
+        "United States",
+        "Uruguay",
+        "Vanuatu"
+    ],
+    "data": {
+        "1990": [
+            0.5349103079020571,
+            0.00171,
+            0.622817,
+            1.0,
+            0.558465709577378,
+            110.447418179386
+        ],
+        "1991": [
+            0.5552257251651039,
+            0.002661,
+            0.654273,
+            1.0,
+            1.08211539663983,
+            112.814747738327
+        ],
+        "1992": [
+            0.5702909045990141,
+            0.004291,
+            0.661303,
+            1.0,
+            1.76933296847191,
+            113.942165610859
+        ]
+    },
+    "colors": {
+        "1990": "#8B4513",
+        "1991": "#FFA07A",
+        "1992": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

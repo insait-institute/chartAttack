@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of children under 5 who received treatment for diarrhoea",
+    "legend": {
+        "1986": "#f27979",
+        "1987": "#00f200",
+        "1989": "#5252a5"
+    },
+    "categories": [
+        "Percentage of children under 5 who received treatment for diarrhoea"
+    ],
+    "data": {
+        "1986": [
+            11.0
+        ],
+        "1987": [
+            40.0
+        ],
+        "1989": [
+            40.0
+        ]
+    },
+    "colors": {
+        "1986": "#f27979",
+        "1987": "#00f200",
+        "1989": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

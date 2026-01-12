@@ -1,0 +1,70 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Tesla Model S MkI",
+        "MG MG6 MkI",
+        "Mazda MX-5/RC MkIV",
+        "Mazda MX-5/RC MkIII",
+        "MINI Hatch MkIV",
+        "Suzuki Swift MkII",
+        "MG MG3 MkI",
+        "Toyota GT 86 MkI",
+        "Porsche 911 997",
+        "Skoda Citigo MkI",
+        "Renault Kadjar MkI",
+        "Lexus IS MkIII",
+        "Jaguar XF MkI",
+        "Skoda Yeti MkI",
+        "Peugeot RCZ Coupe MkI"
+    ],
+    "data": {
+        "Model": [
+            97.54,
+            97.28,
+            97.09,
+            96.41,
+            96.33,
+            96.08,
+            95.87,
+            95.73,
+            95.6,
+            95.17,
+            94.74,
+            94.42,
+            94.4,
+            94.28,
+            94.24
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

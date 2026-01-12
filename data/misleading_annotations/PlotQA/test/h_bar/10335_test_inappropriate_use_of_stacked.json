@@ -1,0 +1,62 @@
+{
+    "title": "Price level ratio of PPP conversion factor (GDP) to market exchange rate",
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#c1f200",
+        "2008": "#52a574",
+        "2009": "#0042a5",
+        "2010": "#da79f2"
+    },
+    "categories": [
+        "Price level ratio of PPP conversion factor (GDP) to market exchange rate"
+    ],
+    "data": {
+        "2006": [
+            0.255778948092648
+        ],
+        "2007": [
+            0.30552840232369
+        ],
+        "2008": [
+            0.299391590421458
+        ],
+        "2009": [
+            0.300852606289035
+        ],
+        "2010": [
+            0.34983560756456
+        ]
+    },
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#c1f200",
+        "2008": "#52a574",
+        "2009": "#0042a5",
+        "2010": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Domestic credit provided to private sector by different financial corporations in countries",
+    "legend": {
+        "Europe(developing only)": "#f27979",
+        "Latin America(all income levels)": "#f2f200",
+        "Latin America(developing only)": "#79f279",
+        "Least developed countries": "#00a5a5",
+        "Other small states": "#5252a5",
+        "Pacific island small states": "#a500a5"
+    },
+    "categories": [
+        "Domestic credit provided to private sector by different financial corporations in countries"
+    ],
+    "data": {
+        "Europe(developing only)": [
+            14.433564717237
+        ],
+        "Latin America(all income levels)": [
+            22.6386522863597
+        ],
+        "Latin America(developing only)": [
+            20.8967960940017
+        ],
+        "Least developed countries": [
+            14.1714889675942
+        ],
+        "Other small states": [
+            25.1821393663827
+        ],
+        "Pacific island small states": [
+            26.8673840716438
+        ]
+    },
+    "colors": {
+        "Europe(developing only)": "#f27979",
+        "Latin America(all income levels)": "#f2f200",
+        "Latin America(developing only)": "#79f279",
+        "Least developed countries": "#00a5a5",
+        "Other small states": "#5252a5",
+        "Pacific island small states": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

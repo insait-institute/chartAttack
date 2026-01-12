@@ -1,0 +1,77 @@
+{
+    "title": "Division of total population of Morocco into various age groups\n",
+    "legend": {
+        "Ages 65 and above": "#5f9ea0",
+        "Ages 0-14": "#5f94a0",
+        "Ages 15-64": "#658ea4"
+    },
+    "categories": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "data": {
+        "Ages 65 and above": [
+            5.139703076105731,
+            5.24058037855097,
+            5.35134494454426,
+            5.45771371224635,
+            5.560968426694879,
+            5.662007205702809
+        ],
+        "Ages 0-14": [
+            34.2859601732711,
+            33.5685504867558,
+            32.83341281214381,
+            32.1750189457865,
+            31.56971604536789,
+            30.9853927023625
+        ],
+        "Ages 15-64": [
+            60.57433675062321,
+            61.1908691346932,
+            61.815242243312,
+            62.3672673419672,
+            62.8693155279372,
+            63.3526000919347
+        ]
+    },
+    "colors": {
+        "Ages 65 and above": "#5F9EA0",
+        "Ages 0-14": "#556B2F",
+        "Ages 15-64": "#D2B48C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Ages 65 and above": "#5f9ea0",
+        "Ages 0-14": "#5f94a0",
+        "Ages 15-64": "#658ea4"
+    }
+}

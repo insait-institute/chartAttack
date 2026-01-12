@@ -1,0 +1,67 @@
+{
+    "title": "Employment to population ratio of the male population of Cabo Verde for different age-groups",
+    "legend": {
+        "1994": "#f27979",
+        "1995": "#f2f200",
+        "1996": "#79f279",
+        "1997": "#00a5a5",
+        "1998": "#5252a5",
+        "1999": "#a500a5"
+    },
+    "categories": [
+        "Employment to population ratio of the male population of Cabo Verde for different age-groups"
+    ],
+    "data": {
+        "1994": [
+            78.0
+        ],
+        "1995": [
+            77.9000015258789
+        ],
+        "1996": [
+            77.8000030517578
+        ],
+        "1997": [
+            77.599998474121
+        ],
+        "1998": [
+            77.4000015258789
+        ],
+        "1999": [
+            77.1999969482422
+        ]
+    },
+    "colors": {
+        "1994": "#f27979",
+        "1995": "#f2f200",
+        "1996": "#79f279",
+        "1997": "#00a5a5",
+        "1998": "#5252a5",
+        "1999": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

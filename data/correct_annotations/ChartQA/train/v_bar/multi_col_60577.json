@@ -1,0 +1,54 @@
+{
+    "title": "Annual salary in GBP",
+    "x_axis": {
+        "categories": [
+            "Newly qualified",
+            "Qualified (2-5 years)",
+            "Qualified (6 years+)"
+        ]
+    },
+    "y_axis": {
+        "label": "Annual salary in GBP"
+    },
+    "legend": {
+        "Minimum": "#2876dd",
+        "Maximum": "#0f283e"
+    },
+    "data": {
+        "Minimum": [
+            45000,
+            60000,
+            65000
+        ],
+        "Maximum": [
+            55000,
+            80000,
+            80000
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

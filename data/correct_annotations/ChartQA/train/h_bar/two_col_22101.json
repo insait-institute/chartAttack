@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "FTA Share": "#2876dd"
+    },
+    "categories": [
+        "Bangladesh",
+        "United States",
+        "United Kingdom",
+        "Australia",
+        "Canada",
+        "China",
+        "Malaysia",
+        "Sri Lanka",
+        "Germany",
+        "Russia"
+    ],
+    "data": {
+        "FTA Share": [
+            23.58,
+            13.83,
+            9.15,
+            3.36,
+            3.22,
+            3.11,
+            3.06,
+            3.03,
+            2.42,
+            2.3
+        ]
+    },
+    "colors": {
+        "FTA Share": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

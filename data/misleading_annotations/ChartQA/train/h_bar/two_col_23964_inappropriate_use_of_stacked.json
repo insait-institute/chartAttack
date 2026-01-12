@@ -1,0 +1,137 @@
+{
+    "title": "Box office gross in million U.S. dollars",
+    "categories": [
+        "Box office gross in million U.S. dollars"
+    ],
+    "data": {
+        "Steven Spielberg": [
+            4672.2
+        ],
+        "Michael Bay": [
+            2326.5
+        ],
+        "Anthony Russo": [
+            2264.5
+        ],
+        "Joe Russo": [
+            2264.5
+        ],
+        "Peter Jackson": [
+            2152.7
+        ],
+        "Ron Howard": [
+            2111.6
+        ],
+        "Robert Zemeckis": [
+            2104.3
+        ],
+        "Christopher Nolan": [
+            2006.7
+        ],
+        "James Cameron": [
+            1976.0
+        ],
+        "Clint Eastwood": [
+            1956.1
+        ],
+        "Tim Burton": [
+            1955.4
+        ],
+        "David Yates": [
+            1791.8
+        ],
+        "Chris Columbus": [
+            1750.8
+        ],
+        "George Lucas": [
+            1743.9
+        ],
+        "J.J. Abrams": [
+            1684.2
+        ],
+        "Ridley Scott": [
+            1661.1
+        ],
+        "Lee Unkrich": [
+            1541.3
+        ],
+        "Gore Verbinski": [
+            1529.4
+        ],
+        "Sam Raimi": [
+            1526.7
+        ],
+        "Francis Lawrence": [
+            1481.5
+        ]
+    },
+    "colors": {
+        "Steven Spielberg": "#f27979",
+        "Michael Bay": "#f24800",
+        "Anthony Russo": "#f2c179",
+        "Joe Russo": "#f2da00",
+        "Peter Jackson": "#daf279",
+        "Ron Howard": "#79f200",
+        "Robert Zemeckis": "#91f279",
+        "Christopher Nolan": "#00a510",
+        "James Cameron": "#52a574",
+        "Clint Eastwood": "#00a574",
+        "Tim Burton": "#52a5a5",
+        "David Yates": "#0074a5",
+        "Chris Columbus": "#5274a5",
+        "George Lucas": "#0010a5",
+        "J.J. Abrams": "#9179f2",
+        "Ridley Scott": "#7900f2",
+        "Lee Unkrich": "#da79f2",
+        "Gore Verbinski": "#f200da",
+        "Sam Raimi": "#f279c1",
+        "Francis Lawrence": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4680
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Steven Spielberg": "#f27979",
+        "Michael Bay": "#f24800",
+        "Anthony Russo": "#f2c179",
+        "Joe Russo": "#f2da00",
+        "Peter Jackson": "#daf279",
+        "Ron Howard": "#79f200",
+        "Robert Zemeckis": "#91f279",
+        "Christopher Nolan": "#00a510",
+        "James Cameron": "#52a574",
+        "Clint Eastwood": "#00a574",
+        "Tim Burton": "#52a5a5",
+        "David Yates": "#0074a5",
+        "Chris Columbus": "#5274a5",
+        "George Lucas": "#0010a5",
+        "J.J. Abrams": "#9179f2",
+        "Ridley Scott": "#7900f2",
+        "Lee Unkrich": "#da79f2",
+        "Gore Verbinski": "#f200da",
+        "Sam Raimi": "#f279c1",
+        "Francis Lawrence": "#f20048"
+    }
+}

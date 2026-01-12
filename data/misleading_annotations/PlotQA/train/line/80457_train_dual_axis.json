@@ -1,0 +1,78 @@
+{
+    "title": "Export and external balance on goods as percent of GDP for Europe(all income levels)",
+    "legend": {
+        "Exports of goods": "#483D8B",
+        "External balance on goods": "#DAA520"
+    },
+    "x_axis": [
+        "1969",
+        "1970",
+        "1971",
+        "1972",
+        "1973"
+    ],
+    "y_axis_label": "% of GDP",
+    "data": [
+        {
+            "label": "Exports of goods",
+            "color": "#483D8B",
+            "values": [
+                20.853017641931,
+                19.500782556597,
+                19.54416870572511,
+                19.526983852948,
+                20.5946087505766
+            ]
+        },
+        {
+            "label": "External balance on goods",
+            "color": "#DAA520",
+            "values": [
+                -0.224239756382044,
+                -0.519285598008178,
+                -0.19074600586811,
+                -0.127735273810647,
+                -0.8786708142428309
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 19.500782556597,
+                "max_value": 20.853017641931
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -0.8786708142428309,
+                "max_value": -0.127735273810647
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

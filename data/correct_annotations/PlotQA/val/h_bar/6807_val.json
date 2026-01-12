@@ -1,0 +1,53 @@
+{
+    "title": "Percentage of female workers employed in Industrial sector",
+    "legend": {
+        "Kiribati": "#DAA520",
+        "Spain": "#0000FF"
+    },
+    "categories": [
+        "2000",
+        "2005",
+        "2010"
+    ],
+    "data": {
+        "Kiribati": [
+            3.09999990463257,
+            4.5,
+            25.2999992370605
+        ],
+        "Spain": [
+            14.5,
+            12.5,
+            9.60000038146973
+        ]
+    },
+    "colors": {
+        "Kiribati": "#DAA520",
+        "Spain": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

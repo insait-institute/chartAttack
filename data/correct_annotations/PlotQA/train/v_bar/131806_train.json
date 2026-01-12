@@ -1,0 +1,60 @@
+{
+    "title": "Tourism statistics : Earnings from national visitors",
+    "x_axis": {
+        "categories": [
+            "Euro area",
+            "Europe(all income levels)",
+            "Europe(developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#A020F0",
+        "1996": "#00FF00",
+        "1997": "#4682B4"
+    },
+    "data": {
+        "1995": [
+            164613793000.0,
+            240112623376.035,
+            7392693902.1963
+        ],
+        "1996": [
+            170216330000.0,
+            254828111664.406,
+            8390033039.827821
+        ],
+        "1997": [
+            162559000000.0,
+            249036454407.928,
+            10162437856.2225
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 254828111670
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

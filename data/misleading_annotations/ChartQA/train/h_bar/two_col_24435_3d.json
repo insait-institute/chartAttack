@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "legend": {
+        "Brand Value": "#2876dd"
+    },
+    "categories": [
+        "Alibaba Group",
+        "China Mobile",
+        "Tencent/QQ",
+        "Samsung",
+        "Toyota",
+        "ICBC",
+        "China Construction Bank",
+        "Pingan Insurance",
+        "Agricultural Bank of China",
+        "Bank of China",
+        "Huwawei",
+        "China Life Insurance",
+        "Tata",
+        "NTT Group",
+        "Baidu",
+        "PetroChina",
+        "Honda",
+        "SoftBank",
+        "China Telecom"
+    ],
+    "data": {
+        "Brand Value": [
+            53.73,
+            49.83,
+            45.4,
+            36.72,
+            33.97,
+            29.84,
+            29.55,
+            28.54,
+            25.1,
+            23.94,
+            23.43,
+            22.62,
+            18.43,
+            16.85,
+            16.51,
+            16.26,
+            15.04,
+            15.01,
+            14.57
+        ]
+    },
+    "colors": {
+        "Brand Value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

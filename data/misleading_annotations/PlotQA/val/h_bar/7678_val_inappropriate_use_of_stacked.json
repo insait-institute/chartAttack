@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of expenditure towards staff compensation in tertiary public institutions",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#00f200",
+        "2008": "#5252a5"
+    },
+    "categories": [
+        "Percentage of expenditure towards staff compensation in tertiary public institutions"
+    ],
+    "data": {
+        "2004": [
+            71.5950164794922
+        ],
+        "2005": [
+            72.5806579589844
+        ],
+        "2008": [
+            72.7368698120117
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#00f200",
+        "2008": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

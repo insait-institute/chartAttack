@@ -1,0 +1,62 @@
+{
+    "title": "Amount earned/paid by the government of Eritrea for trading goods",
+    "legend": {
+        "1998": "#f27979",
+        "1999": "#c1f200",
+        "2000": "#52a574",
+        "2001": "#0042a5",
+        "2002": "#da79f2"
+    },
+    "categories": [
+        "Amount earned/paid by the government of Eritrea for trading goods"
+    ],
+    "data": {
+        "1998": [
+            107128425.899129
+        ],
+        "1999": [
+            64838371.4953666
+        ],
+        "2000": [
+            65682367.4021109
+        ],
+        "2001": [
+            76321256.9065078
+        ],
+        "2002": [
+            82981112.3419034
+        ]
+    },
+    "colors": {
+        "1998": "#f27979",
+        "1999": "#c1f200",
+        "2000": "#52a574",
+        "2001": "#0042a5",
+        "2002": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 844331150
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

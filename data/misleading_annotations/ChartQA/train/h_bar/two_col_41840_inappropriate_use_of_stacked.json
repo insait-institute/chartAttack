@@ -1,0 +1,117 @@
+{
+    "title": "",
+    "legend": {
+        "Italian": "#f27979",
+        "Mexican": "#f25a00",
+        "Chinese": "#f2d379",
+        "Barbecue": "#d3f200",
+        "\"Meat and potatoes\"": "#b5f279",
+        "Seafood": "#1ef200",
+        "Southern": "#52a567",
+        "Japanese": "#00a567",
+        "Thai": "#52a5a5",
+        "French": "#0067a5",
+        "Soul": "#5267a5",
+        "Vegetarian": "#1400a5",
+        "Indian": "#b579f2",
+        "Irish": "#d300f2",
+        "Vietnamese": "#f279d3",
+        "Ethiopian": "#f2005a"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Italian": [
+            75.0
+        ],
+        "Mexican": [
+            67.0
+        ],
+        "Chinese": [
+            65.0
+        ],
+        "Barbecue": [
+            65.0
+        ],
+        "\"Meat and potatoes\"": [
+            65.0
+        ],
+        "Seafood": [
+            63.0
+        ],
+        "Southern": [
+            49.0
+        ],
+        "Japanese": [
+            31.0
+        ],
+        "Thai": [
+            27.0
+        ],
+        "French": [
+            25.0
+        ],
+        "Soul": [
+            22.0
+        ],
+        "Vegetarian": [
+            21.0
+        ],
+        "Indian": [
+            16.0
+        ],
+        "Irish": [
+            14.0
+        ],
+        "Vietnamese": [
+            13.0
+        ],
+        "Ethiopian": [
+            6.0
+        ]
+    },
+    "colors": {
+        "Italian": "#f27979",
+        "Mexican": "#f25a00",
+        "Chinese": "#f2d379",
+        "Barbecue": "#d3f200",
+        "\"Meat and potatoes\"": "#b5f279",
+        "Seafood": "#1ef200",
+        "Southern": "#52a567",
+        "Japanese": "#00a567",
+        "Thai": "#52a5a5",
+        "French": "#0067a5",
+        "Soul": "#5267a5",
+        "Vegetarian": "#1400a5",
+        "Indian": "#b579f2",
+        "Irish": "#d300f2",
+        "Vietnamese": "#f279d3",
+        "Ethiopian": "#f2005a"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

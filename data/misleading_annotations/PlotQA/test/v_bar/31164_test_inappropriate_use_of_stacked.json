@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of individuals or firms listed by a public credit bureau",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Jordan": "#f27979",
+        "Kuwait": "#f2f200",
+        "Latvia": "#79f279",
+        "Lebanon": "#00a5a5",
+        "Lithuania": "#5252a5",
+        "Macedonia": "#a500a5"
+    },
+    "data": {
+        "Jordan": [
+            0.5
+        ],
+        "Kuwait": [
+            10.9
+        ],
+        "Latvia": [
+            0.6
+        ],
+        "Lebanon": [
+            3.1
+        ],
+        "Lithuania": [
+            4.4
+        ],
+        "Macedonia": [
+            0.6
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Jordan": "#f27979",
+        "Kuwait": "#f2f200",
+        "Latvia": "#79f279",
+        "Lebanon": "#00a5a5",
+        "Lithuania": "#5252a5",
+        "Macedonia": "#a500a5"
+    }
+}

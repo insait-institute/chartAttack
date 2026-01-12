@@ -1,0 +1,72 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy(residual) in 1984",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Europe(developing only)": "#f27979",
+        "European Union": "#f2f200",
+        "Fragile and conflict affected situations": "#79f279",
+        "Heavily indebted poor countries": "#00a5a5",
+        "High income": "#5252a5",
+        "High income: nonOECD": "#a500a5"
+    },
+    "data": {
+        "Europe(developing only)": [
+            25.80939942933031
+        ],
+        "European Union": [
+            12.8095673086315
+        ],
+        "Fragile and conflict affected situations": [
+            19.2410767593838
+        ],
+        "Heavily indebted poor countries": [
+            18.3818532340021
+        ],
+        "High income": [
+            8.84358869864506
+        ],
+        "High income: nonOECD": [
+            9.372143893643381
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Europe(developing only)": "#f27979",
+        "European Union": "#f2f200",
+        "Fragile and conflict affected situations": "#79f279",
+        "Heavily indebted poor countries": "#00a5a5",
+        "High income": "#5252a5",
+        "High income: nonOECD": "#a500a5"
+    }
+}

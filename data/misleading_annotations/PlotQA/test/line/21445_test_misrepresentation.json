@@ -1,0 +1,70 @@
+{
+    "title": "Contributing male family workers in Poland",
+    "legend": {
+        "Contributing family workers": "#BA55D3"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "y_axis_label": "Workers(% of males employed)",
+    "data": [
+        {
+            "label": "Contributing family workers",
+            "color": "#BA55D3",
+            "values": [
+                3.90000009536743,
+                3.79999995231628,
+                3.20000004768372,
+                2.79999995231628,
+                2.70000004768372,
+                2.5
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Contributing family workers",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

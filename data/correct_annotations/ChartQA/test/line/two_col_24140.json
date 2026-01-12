@@ -1,0 +1,98 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "y_axis": {
+        "label": "Percentage of population",
+        "values": [
+            "0",
+            "10",
+            "20",
+            "30",
+            "40",
+            "50",
+            "60",
+            "70"
+        ]
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                11.6,
+                12.1,
+                12.5,
+                11.7,
+                12.1,
+                11.2,
+                11.4,
+                12.1,
+                12.0,
+                11.7,
+                13.0,
+                12.2,
+                11.2,
+                11.8,
+                11.5,
+                11.0,
+                10.7,
+                10.3,
+                10.7,
+                10.6
+            ]
+        }
+    ],
+    "type": "line",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,93 @@
+{
+    "title": "Incidence rate per 100,000 population",
+    "x_axis": {
+        "categories": [
+            "2004/05",
+            "2005/06",
+            "2006/07",
+            "2007/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20*"
+        ]
+    },
+    "y_axis": {
+        "label": "Incidence rate per 100,000 population"
+    },
+    "legend": {
+        "Men": "#2876dd",
+        "Women": "#0f283e"
+    },
+    "data": {
+        "Men": [
+            290.7,
+            272.5,
+            256.8,
+            248.9,
+            269.9,
+            272.9,
+            286.3,
+            285.7,
+            283.9,
+            265.3,
+            263,
+            255.9,
+            263.4,
+            269,
+            269.2,
+            273.9
+        ],
+        "Women": [
+            199.6,
+            187.4,
+            175.4,
+            157.4,
+            169.2,
+            168.4,
+            176.8,
+            176.5,
+            170.2,
+            168.2,
+            153.8,
+            150.3,
+            153.1,
+            158,
+            154.2,
+            147.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 300
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Visitors": "#2876dd"
+    },
+    "categories": [
+        "Kokkejaelvel",
+        "Vibbedille",
+        "Straad",
+        "Sofienils1",
+        "Konatil",
+        "Ingridaguiluz",
+        "Stina",
+        "Stineskoli",
+        "Andreaasveinsdottir",
+        "Martinehalvs"
+    ],
+    "data": {
+        "Visitors": [
+            27006,
+            8135,
+            7531,
+            6925,
+            6838,
+            6586,
+            5938,
+            5006,
+            4317,
+            3803
+        ]
+    },
+    "colors": {
+        "Visitors": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 27010
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

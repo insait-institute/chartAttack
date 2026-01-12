@@ -1,0 +1,56 @@
+{
+    "title": "External debt owed to nonresidents by residents of Guyana",
+    "legend": {
+        "Debt": "#7FFFD4"
+    },
+    "categories": [
+        "1975",
+        "1976",
+        "1977",
+        "1978"
+    ],
+    "data": {
+        "Debt": [
+            109255000,
+            92543000,
+            85960000,
+            72560000
+        ]
+    },
+    "colors": {
+        "Debt": "#7FFFD4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 109255000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Debt": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

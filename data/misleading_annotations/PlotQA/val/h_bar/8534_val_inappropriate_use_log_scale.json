@@ -1,0 +1,55 @@
+{
+    "title": "Mobile cellular and fixed telephone subscriptions recorded in 2007",
+    "legend": {
+        "Argentina": "#66CDAA",
+        "Ecuador": "#00BFFF",
+        "United Kingdom": "#00FF00"
+    },
+    "categories": [
+        "Mobile cellular",
+        "Fixed telephone"
+    ],
+    "data": {
+        "Argentina": [
+            102.721528270687,
+            24.1537559967738
+        ],
+        "Ecuador": [
+            69.6642867450352,
+            12.7773288057516
+        ],
+        "United Kingdom": [
+            121.101810781501,
+            54.88273318379621
+        ]
+    },
+    "colors": {
+        "Argentina": "#66CDAA",
+        "Ecuador": "#00BFFF",
+        "United Kingdom": "#00FF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

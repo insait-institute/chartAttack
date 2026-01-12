@@ -1,0 +1,60 @@
+{
+    "title": "Market share",
+    "legend": {
+        "Providers": "#2876dd"
+    },
+    "categories": [
+        "iShares",
+        "Vanguard",
+        "State Street",
+        "Invesco",
+        "Charles Schwab",
+        "First Trust",
+        "Wisdom Tree",
+        "Van Eck",
+        "Proshares",
+        "Other providers"
+    ],
+    "data": {
+        "Providers": [
+            39.16,
+            25.34,
+            16.82,
+            5.04,
+            3.42,
+            1.82,
+            1.05,
+            1.02,
+            0.8,
+            5.53
+        ]
+    },
+    "colors": {
+        "Providers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

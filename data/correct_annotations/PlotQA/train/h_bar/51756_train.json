@@ -1,0 +1,68 @@
+{
+    "title": "Current expenditures in primary institutions",
+    "legend": {
+        "Jamaica": "#FF7F50",
+        "Mexico": "#FF8C00",
+        "Netherlands": "#00BFFF"
+    },
+    "categories": [
+        "2005",
+        "2007",
+        "2008",
+        "2009",
+        "2011"
+    ],
+    "data": {
+        "Jamaica": [
+            94.16126251220699,
+            100.0,
+            94.2234420776367,
+            100.0,
+            96.442626953125
+        ],
+        "Mexico": [
+            97.6673965454102,
+            98.0525970458984,
+            98.112449645996,
+            97.3613662719727,
+            97.40355682373051
+        ],
+        "Netherlands": [
+            87.2591705322266,
+            88.60711669921879,
+            87.6652374267578,
+            87.22386932373051,
+            87.9491424560547
+        ]
+    },
+    "colors": {
+        "Jamaica": "#FF7F50",
+        "Mexico": "#FF8C00",
+        "Netherlands": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

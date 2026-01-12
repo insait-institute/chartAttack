@@ -1,0 +1,86 @@
+{
+    "title": "Employment in various sectors of Uruguay",
+    "legend": {
+        "Agriculture": "#B8860B",
+        "Industry": "#6495ED",
+        "Services": "#000000",
+        "Self-employed": "#0000FF"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Employment (as % of total employment)",
+    "data": [
+        {
+            "label": "Agriculture",
+            "color": "#B8860B",
+            "values": [
+                4.59999990463257,
+                11.1000003814697,
+                11.0,
+                10.8000001907349
+            ]
+        },
+        {
+            "label": "Industry",
+            "color": "#6495ED",
+            "values": [
+                24.7000007629395,
+                25.2000007629395,
+                24.7000007629395,
+                23.7999992370605
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#000000",
+            "values": [
+                71.4000015258789,
+                71.0,
+                71.3000030517578,
+                72.1999969482422
+            ]
+        },
+        {
+            "label": "Self-employed",
+            "color": "#0000FF",
+            "values": [
+                26.89999961853031,
+                28.2999992370605,
+                27.2999992370605,
+                27.5
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

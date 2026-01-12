@@ -1,0 +1,58 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary  and secondary schools in countries",
+    "legend": {
+        "Primary completion rate": "#90EE90",
+        "Lower secondary rate": "#00CED1"
+    },
+    "categories": [
+        "Guinea",
+        "Guinea-Bissau",
+        "Guyana",
+        "Haiti",
+        "Hungary"
+    ],
+    "data": {
+        "Primary completion rate": [
+            15.88194,
+            7.426539999999998,
+            92.35472,
+            37.80276,
+            96.92975
+        ],
+        "Lower secondary rate": [
+            98.55756,
+            104.05834,
+            19.83614,
+            22.22222,
+            26.20206
+        ]
+    },
+    "colors": {
+        "Primary completion rate": "#90EE90",
+        "Lower secondary rate": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

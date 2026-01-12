@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of households that used iodized salt in 2006",
+    "x_axis": {
+        "categories": [
+            "Thailand",
+            "Trinidad and Tobago",
+            "Turkmenistan",
+            "Uganda",
+            "Uzbekistan",
+            "Vietnam"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Consumption of iodized salt": "#2F4F4F"
+    },
+    "data": {
+        "Consumption of iodized salt": [
+            47.2,
+            27.9,
+            86.5,
+            86.8,
+            53.1,
+            93.2
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

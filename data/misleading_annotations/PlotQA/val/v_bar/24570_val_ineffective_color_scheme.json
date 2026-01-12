@@ -1,0 +1,73 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in East Asia & Pacific",
+    "x_axis": {
+        "categories": [
+            "Germany",
+            "Hong Kong",
+            "India",
+            "Indonesia",
+            "Ireland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#8a2be2",
+        "1961": "#a72be2",
+        "1962": "#c734e3"
+    },
+    "data": {
+        "1960": [
+            2.1351375098849,
+            15.2200120554551,
+            3.66958507803578,
+            9.30631868131868,
+            0.3762050317423
+        ],
+        "1961": [
+            1.77075098814229,
+            17.542242703533,
+            2.9296875,
+            14.9480519480519,
+            0.178500595001983
+        ],
+        "1962": [
+            1.44314318095958,
+            12.5982081323225,
+            2.33177401943145,
+            17.106051527861,
+            0.246609124537608
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#8a2be2",
+        "1961": "#a72be2",
+        "1962": "#c734e3"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Net bilateral aid flow in the year 1982 from Development Assistance Committee",
+    "legend": {
+        "Net bilateral aid flows from DAC donors": "#00FF00"
+    },
+    "categories": [
+        "Cote d'Ivoire",
+        "Cuba",
+        "Cyprus",
+        "Djibouti",
+        "Dominica",
+        "Dominican Republic"
+    ],
+    "data": {
+        "Net bilateral aid flows from DAC donors": [
+            131720000,
+            1510000,
+            13980000,
+            46920000,
+            6960000,
+            93530000
+        ]
+    },
+    "colors": {
+        "Net bilateral aid flows from DAC donors": "#00FF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 131720000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

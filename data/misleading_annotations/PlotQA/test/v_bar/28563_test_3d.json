@@ -1,0 +1,76 @@
+{
+    "title": "Lower secondary school starting age (years)",
+    "x_axis": {
+        "categories": [
+            "Swaziland",
+            "Sweden",
+            "Switzerland",
+            "Syrian Arab Republic",
+            "Tajikistan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#000000",
+        "1971": "#8FBC8F",
+        "1972": "#8A2BE2",
+        "1973": "#40E0D0"
+    },
+    "data": {
+        "1970": [
+            13.0,
+            13.0,
+            13.0,
+            12.0,
+            11.0
+        ],
+        "1971": [
+            13.0,
+            13.0,
+            13.0,
+            12.0,
+            11.0
+        ],
+        "1972": [
+            13.0,
+            13.0,
+            13.0,
+            12.0,
+            11.0
+        ],
+        "1973": [
+            13.0,
+            13.0,
+            13.0,
+            12.0,
+            11.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

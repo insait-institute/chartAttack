@@ -1,0 +1,81 @@
+{
+    "title": "Number of passenger car registrations",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of passenger car registrations"
+    },
+    "legend": {
+        "Small and mini segment": "#2876dd",
+        "Medium segment": "#0f283e",
+        "Large segment": "#bababa",
+        "Executive and luxury segment": "#a60b0b"
+    },
+    "data": {
+        "Small and mini segment": [
+            1283902,
+            967138,
+            1031441,
+            1052155,
+            1091792,
+            1195321
+        ],
+        "Medium segment": [
+            627694,
+            538578,
+            545819,
+            558923,
+            604368,
+            582054
+        ],
+        "Large segment": [
+            234664,
+            205487,
+            235633,
+            264265,
+            278439,
+            275894
+        ],
+        "Executive and luxury segment": [
+            105313,
+            84682,
+            104333,
+            139834,
+            139149,
+            120212
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1283910
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

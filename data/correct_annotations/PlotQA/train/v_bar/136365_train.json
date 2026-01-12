@@ -1,0 +1,61 @@
+{
+    "title": "Amount spent on the passenger transport items in the year 1995",
+    "x_axis": {
+        "categories": [
+            "International Tourists",
+            "National Tourists"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Barbados": "#A020F0",
+        "Mauritius": "#228B22",
+        "Romania": "#DAA520",
+        "Sri Lanka": "#FFA07A"
+    },
+    "data": {
+        "Barbados": [
+            39000000,
+            8000000
+        ],
+        "Mauritius": [
+            25000000,
+            186000000
+        ],
+        "Romania": [
+            52000000,
+            99000000
+        ],
+        "Sri Lanka": [
+            93000000,
+            141000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 186000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

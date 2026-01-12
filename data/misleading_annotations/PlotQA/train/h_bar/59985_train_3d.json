@@ -1,0 +1,82 @@
+{
+    "title": "Net bilateral aid flow in an economy from Netherlands",
+    "legend": {
+        "1960": "#8FBC8F",
+        "1961": "#BDB76B",
+        "1962": "#FF00FF",
+        "1963": "#40E0D0"
+    },
+    "categories": [
+        "Latin America(developing only)",
+        "Low & middle income",
+        "Middle income",
+        "OECD members",
+        "Upper middle income",
+        "World"
+    ],
+    "data": {
+        "1960": [
+            3600000.0,
+            24200000.0,
+            23700000.0,
+            -400000.0,
+            3000000.0,
+            24500000.0
+        ],
+        "1961": [
+            4800000.0,
+            29860000.0,
+            28870000.0,
+            -610000.0,
+            4190000.0,
+            30390000.0
+        ],
+        "1962": [
+            8920000.0,
+            46070000.0,
+            44980000.0,
+            -610000.0,
+            8310000.0,
+            46650000.0
+        ],
+        "1963": [
+            14300000.0,
+            15300000.0,
+            13800000.0,
+            100000.0,
+            14400000.0,
+            17900000.0
+        ]
+    },
+    "colors": {
+        "1960": "#8FBC8F",
+        "1961": "#BDB76B",
+        "1962": "#FF00FF",
+        "1963": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 46650000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

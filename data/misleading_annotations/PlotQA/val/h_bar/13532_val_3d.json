@@ -1,0 +1,72 @@
+{
+    "title": "Net bilateral aid flow in an economy from Japan",
+    "legend": {
+        "1960": "#4B0082",
+        "1961": "#FF00FF",
+        "1962": "#006400",
+        "1963": "#CD853F"
+    },
+    "categories": [
+        "Sri Lanka",
+        "Thailand",
+        "Turkey",
+        "Vietnam"
+    ],
+    "data": {
+        "1960": [
+            100000.0,
+            320000.0,
+            10000.0,
+            900000.0
+        ],
+        "1961": [
+            100000.0,
+            280000.0,
+            30000.0,
+            15460000.0
+        ],
+        "1962": [
+            120000.0,
+            3200000.0,
+            30000.0,
+            17320000.0
+        ],
+        "1963": [
+            170000.0,
+            3230000.0,
+            40000.0,
+            7070000.0
+        ]
+    },
+    "colors": {
+        "1960": "#4B0082",
+        "1961": "#FF00FF",
+        "1962": "#006400",
+        "1963": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17320000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

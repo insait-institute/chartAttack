@@ -1,0 +1,56 @@
+{
+    "title": "Number of trademark applications made by an economy in 1975",
+    "legend": {
+        "Belgium": "#6A5ACD",
+        "Kenya": "#A020F0",
+        "Sudan": "#FFFF00"
+    },
+    "categories": [
+        "Nonresident",
+        "Resident"
+    ],
+    "data": {
+        "Belgium": [
+            2684,
+            4342
+        ],
+        "Kenya": [
+            559,
+            203
+        ],
+        "Sudan": [
+            477,
+            89
+        ]
+    },
+    "colors": {
+        "Belgium": "#6A5ACD",
+        "Kenya": "#A020F0",
+        "Sudan": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4350
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

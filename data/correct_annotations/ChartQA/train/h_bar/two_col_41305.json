@@ -1,0 +1,94 @@
+{
+    "title": "Direct economic output (in billion U.S. dollars)",
+    "categories": [
+        "Florida",
+        "California",
+        "Texas",
+        "New York",
+        "North Carolina",
+        "Ohio",
+        "Georgia",
+        "Michigan",
+        "Illinois",
+        "Arizona",
+        "New Jersey",
+        "Virginia",
+        "Hawaii",
+        "South Carolina",
+        "Massachusetts",
+        "Wisconsin",
+        "Washington",
+        "Oregon",
+        "Minnesota",
+        "Pennsylvania",
+        "Indiana",
+        "Connecticut",
+        "Colorado",
+        "New Mexico",
+        "Louisiana",
+        "Iowa",
+        "Kentucky"
+    ],
+    "data": {
+        "Economic Output": [
+            7.5,
+            6.9,
+            3.4,
+            2.9,
+            2.6,
+            2.4,
+            2.4,
+            2.2,
+            2.1,
+            2.1,
+            1.8,
+            1.6,
+            1.4,
+            1.4,
+            1.4,
+            1.2,
+            1.2,
+            1.2,
+            1.2,
+            1.1,
+            0.91,
+            0.64,
+            0.56,
+            0.48,
+            0.45,
+            0.43,
+            0.37
+        ]
+    },
+    "colors": {
+        "Economic Output": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Economic Output": "#2876dd"
+    }
+}

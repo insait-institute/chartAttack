@@ -1,0 +1,62 @@
+{
+    "title": "Greenhouse gas emission in Europe(developing only)",
+    "legend": {
+        "Other greenhouse gases": "#808000",
+        "SF6 gas": "#40E0D0",
+        "HFC gas": "#5F9EA0",
+        "PFC gas": "#66CDAA"
+    },
+    "categories": [
+        "1990",
+        "2000"
+    ],
+    "data": {
+        "Other greenhouse gases": [
+            9170.1,
+            7640.7
+        ],
+        "SF6 gas": [
+            2028.7,
+            1146.6
+        ],
+        "HFC gas": [
+            3512.9,
+            10778.7287384187
+        ],
+        "PFC gas": [
+            7140.8,
+            2981.2
+        ]
+    },
+    "colors": {
+        "Other greenhouse gases": "#808000",
+        "SF6 gas": "#40E0D0",
+        "HFC gas": "#5F9EA0",
+        "PFC gas": "#66CDAA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10780
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

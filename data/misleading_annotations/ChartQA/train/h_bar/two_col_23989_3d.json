@@ -1,0 +1,60 @@
+{
+    "title": "Number of foreign students",
+    "legend": {
+        "Foreign Students": "#2876dd"
+    },
+    "categories": [
+        "Romania",
+        "Albania",
+        "China",
+        "Iran",
+        "India",
+        "Ukraine",
+        "Morocco",
+        "Cameroon",
+        "Moldova",
+        "Peru"
+    ],
+    "data": {
+        "Foreign Students": [
+            9891,
+            9170,
+            7562,
+            3900,
+            3896,
+            2809,
+            2782,
+            2673,
+            2505,
+            2350
+        ]
+    },
+    "colors": {
+        "Foreign Students": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

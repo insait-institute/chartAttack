@@ -1,0 +1,57 @@
+{
+    "title": "Value added in manufacturing (as % of GDP) in Sudan's economy",
+    "legend": {
+        "1970": "#f27979",
+        "1972": "#79f200",
+        "1976": "#52a5a5",
+        "2001": "#5200a5"
+    },
+    "categories": [
+        "Value added in manufacturing (as % of GDP) in Sudan's economy"
+    ],
+    "data": {
+        "1970": [
+            1.98313198700036
+        ],
+        "1972": [
+            2.18832089219859
+        ],
+        "1976": [
+            0.6374764545606469
+        ],
+        "2001": [
+            4.15772942266318
+        ]
+    },
+    "colors": {
+        "1970": "#f27979",
+        "1972": "#79f200",
+        "1976": "#52a5a5",
+        "2001": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

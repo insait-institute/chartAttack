@@ -1,0 +1,59 @@
+{
+    "title": "",
+    "legend": {
+        "Sales": "#2876dd"
+    },
+    "categories": [
+        "Volkswagen Golf",
+        "Nissan Qashqai",
+        "Ford Focus",
+        "Mercedes-Benz A-Class",
+        "Ford Kuga"
+    ],
+    "data": {
+        "Sales": [
+            37374,
+            34957,
+            32794,
+            31172,
+            27555
+        ]
+    },
+    "colors": {
+        "Sales": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 37380
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Sales": [
+            1.25,
+            2.0,
+            0.75,
+            1.5,
+            0.75
+        ]
+    }
+}

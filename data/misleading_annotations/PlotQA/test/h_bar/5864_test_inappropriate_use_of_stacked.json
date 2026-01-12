@@ -1,0 +1,67 @@
+{
+    "title": "Value added in manufacturing in 1991",
+    "legend": {
+        "Croatia": "#f27979",
+        "Cyprus": "#f2f200",
+        "Denmark": "#79f279",
+        "Ecuador": "#00a5a5",
+        "Egypt, Arab Rep.": "#5252a5",
+        "El Salvador": "#a500a5"
+    },
+    "categories": [
+        "Value added in manufacturing in 1991"
+    ],
+    "data": {
+        "Croatia": [
+            12.7048692952546
+        ],
+        "Cyprus": [
+            4.27979966360408
+        ],
+        "Denmark": [
+            11.4657829329345
+        ],
+        "Ecuador": [
+            7.60667734065467
+        ],
+        "Egypt, Arab Rep.": [
+            10.8125124086978
+        ],
+        "El Salvador": [
+            23.7763915008034
+        ]
+    },
+    "colors": {
+        "Croatia": "#f27979",
+        "Cyprus": "#f2f200",
+        "Denmark": "#79f279",
+        "Ecuador": "#00a5a5",
+        "Egypt, Arab Rep.": "#5252a5",
+        "El Salvador": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

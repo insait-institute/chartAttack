@@ -1,0 +1,102 @@
+{
+    "title": "Electricity prices in U.S. dollars per kilowatt hour",
+    "legend": {
+        "Price": "#2876dd"
+    },
+    "categories": [
+        "Germany",
+        "Denmark",
+        "Belgium",
+        "Portugal",
+        "Ireland",
+        "Japan",
+        "United Kingdom",
+        "Italy",
+        "Rwanda",
+        "Australia",
+        "Spain",
+        "New Zealand",
+        "France",
+        "Cyprus",
+        "Kenya",
+        "Poland",
+        "Singapore",
+        "South Africa",
+        "United States",
+        "Brazil",
+        "Indonesia",
+        "Turkey",
+        "India",
+        "Mexico",
+        "China",
+        "Nigeria",
+        "Argentina",
+        "Russia",
+        "Saudi Arabia",
+        "Qatar",
+        "Iran"
+    ],
+    "data": {
+        "Price": [
+            0.36,
+            0.33,
+            0.3,
+            0.27,
+            0.27,
+            0.26,
+            0.26,
+            0.26,
+            0.26,
+            0.25,
+            0.24,
+            0.24,
+            0.22,
+            0.21,
+            0.21,
+            0.19,
+            0.16,
+            0.15,
+            0.15,
+            0.12,
+            0.1,
+            0.09,
+            0.08,
+            0.08,
+            0.08,
+            0.06,
+            0.06,
+            0.06,
+            0.05,
+            0.03,
+            0.01
+        ]
+    },
+    "colors": {
+        "Price": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

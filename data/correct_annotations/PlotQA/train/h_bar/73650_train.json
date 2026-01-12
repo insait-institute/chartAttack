@@ -1,0 +1,50 @@
+{
+    "title": "Prevalence of severe wasting among children with age under 5 years in 2003",
+    "legend": {
+        "Prevalence of severe wasting": "#32CD32"
+    },
+    "categories": [
+        "Burkina Faso",
+        "Egypt, Arab Rep.",
+        "El Salvador",
+        "Ghana",
+        "Kenya"
+    ],
+    "data": {
+        "Prevalence of severe wasting": [
+            9.69999980926514,
+            1.79999995231628,
+            0.300000011920929,
+            2.79999995231628,
+            2.40000009536743
+        ]
+    },
+    "colors": {
+        "Prevalence of severe wasting": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

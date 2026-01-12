@@ -1,0 +1,64 @@
+{
+    "title": "Amount of goods and services exported by countries",
+    "legend": {
+        "Benin": "#00CED1",
+        "Kazakhstan": "#00FA9A",
+        "Thailand": "#40E0D0"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Benin": [
+            578113018.1,
+            735458546.5,
+            1046759380.0,
+            1282182361.0
+        ],
+        "Kazakhstan": [
+            28299204746.0,
+            38761408257.0,
+            48348104719.0,
+            71964191806.0
+        ],
+        "Thailand": [
+            109369000000,
+            127929000000,
+            151240000000,
+            175214000000
+        ]
+    },
+    "colors": {
+        "Benin": "#00CED1",
+        "Kazakhstan": "#00FA9A",
+        "Thailand": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 175214000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

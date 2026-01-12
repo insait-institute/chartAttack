@@ -1,0 +1,52 @@
+{
+    "title": "Different countries expenditure on education as percentage of government expenditure",
+    "legend": {
+        "Primary": "#f27979",
+        "Secondary": "#00f200",
+        "Tertiary": "#5252a5"
+    },
+    "categories": [
+        "Different countries expenditure on education as percentage of government expenditure"
+    ],
+    "data": {
+        "Primary": [
+            19.7230892181396
+        ],
+        "Secondary": [
+            48.9391212463379
+        ],
+        "Tertiary": [
+            23.5198001861572
+        ]
+    },
+    "colors": {
+        "Primary": "#f27979",
+        "Secondary": "#00f200",
+        "Tertiary": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

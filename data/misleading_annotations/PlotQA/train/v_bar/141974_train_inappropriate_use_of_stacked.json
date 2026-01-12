@@ -1,0 +1,67 @@
+{
+    "title": "Total amount collected by an economy from different taxes in 2003",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Burkina Faso": "#f27979",
+        "Cambodia": "#c1f200",
+        "Canada": "#52a574",
+        "Chile": "#0042a5",
+        "Colombia": "#da79f2"
+    },
+    "data": {
+        "Burkina Faso": [
+            271103148478.9
+        ],
+        "Cambodia": [
+            1397151861276.0
+        ],
+        "Canada": [
+            165643000000.0
+        ],
+        "Chile": [
+            8341290000000.0
+        ],
+        "Colombia": [
+            30662852022347.3
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30662852022350
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Burkina Faso": "#f27979",
+        "Cambodia": "#c1f200",
+        "Canada": "#52a574",
+        "Chile": "#0042a5",
+        "Colombia": "#da79f2"
+    }
+}

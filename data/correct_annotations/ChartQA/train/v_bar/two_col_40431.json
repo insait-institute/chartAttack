@@ -1,0 +1,64 @@
+{
+    "title": "Load factor in percentage",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*"
+        ]
+    },
+    "y_axis": {
+        "label": "Load factor in percentage"
+    },
+    "legend": {
+        "Load Factor": "#2876dd"
+    },
+    "data": {
+        "Load Factor": [
+            61,
+            27,
+            40,
+            65,
+            71,
+            87,
+            79,
+            78,
+            71,
+            64,
+            67
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

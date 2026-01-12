@@ -1,0 +1,102 @@
+{
+    "title": "",
+    "legend": {
+        "Australia": "#f27979",
+        "Turkey": "#f26f00",
+        "Germany": "#f2e879",
+        "India": "#95f200",
+        "Italy": "#8bf279",
+        "Peru": "#00a533",
+        "Japan": "#52a592",
+        "Saudi Arabia": "#007fa5",
+        "France": "#526ca5",
+        "Indonesia": "#1900a5",
+        "Thailand": "#c379f2",
+        "Vietnam": "#f200df",
+        "Philippines": "#f279b1"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Australia": [
+            21.6
+        ],
+        "Turkey": [
+            17.3
+        ],
+        "Germany": [
+            14.4
+        ],
+        "India": [
+            12.5
+        ],
+        "Italy": [
+            7.2
+        ],
+        "Peru": [
+            6.8
+        ],
+        "Japan": [
+            5.0
+        ],
+        "Saudi Arabia": [
+            4.9
+        ],
+        "France": [
+            3.1
+        ],
+        "Indonesia": [
+            2.3
+        ],
+        "Thailand": [
+            0.7
+        ],
+        "Vietnam": [
+            0.4
+        ],
+        "Philippines": [
+            0.2
+        ]
+    },
+    "colors": {
+        "Australia": "#f27979",
+        "Turkey": "#f26f00",
+        "Germany": "#f2e879",
+        "India": "#95f200",
+        "Italy": "#8bf279",
+        "Peru": "#00a533",
+        "Japan": "#52a592",
+        "Saudi Arabia": "#007fa5",
+        "France": "#526ca5",
+        "Indonesia": "#1900a5",
+        "Thailand": "#c379f2",
+        "Vietnam": "#f200df",
+        "Philippines": "#f279b1"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

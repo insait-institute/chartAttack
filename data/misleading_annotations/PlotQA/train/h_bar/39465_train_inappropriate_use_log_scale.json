@@ -1,0 +1,64 @@
+{
+    "title": "CPIA ratings of different social policies in the year 2009",
+    "legend": {
+        "Cameroon": "#191970",
+        "Liberia": "#4169E1",
+        "Nepal": "#C71585"
+    },
+    "categories": [
+        "Social equity",
+        "Environmental sustainability",
+        "Structural Policies",
+        "Corruption"
+    ],
+    "data": {
+        "Cameroon": [
+            3.1,
+            3.0,
+            3.16666666666667,
+            2.5
+        ],
+        "Liberia": [
+            2.5,
+            2.0,
+            2.83333333333333,
+            3.0
+        ],
+        "Nepal": [
+            3.7,
+            3.5,
+            3.16666666666667,
+            3.0
+        ]
+    },
+    "colors": {
+        "Cameroon": "#191970",
+        "Liberia": "#4169E1",
+        "Nepal": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

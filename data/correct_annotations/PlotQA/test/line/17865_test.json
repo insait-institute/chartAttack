@@ -1,0 +1,64 @@
+{
+    "title": "Net taxes on products in Turkmenistan in different currencies",
+    "legend": {
+        "constant 2005 US$": "#BC8F8F",
+        "US$": "#32CD32"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Taxes on products",
+    "data": [
+        {
+            "label": "constant 2005 US$",
+            "color": "#BC8F8F",
+            "values": [
+                309200000.0,
+                750642104.251,
+                906704921.8645,
+                891257974.6875
+            ]
+        },
+        {
+            "label": "US$",
+            "color": "#32CD32",
+            "values": [
+                145028142.589118,
+                292419986.073627,
+                318142077.847193,
+                312722096.381579
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 145028140,
+                "max_value": 906704930
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

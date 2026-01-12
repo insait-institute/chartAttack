@@ -1,0 +1,98 @@
+{
+    "title": "Premiums per capita in U.S dollars",
+    "categories": [
+        "Denmark",
+        "Ireland",
+        "Finland",
+        "Switzerland",
+        "United Kingdom",
+        "Luxembourg",
+        "Sweden",
+        "France",
+        "Norway",
+        "Italy",
+        "Belgium",
+        "Germany",
+        "Malta",
+        "Netherlands",
+        "Portugal",
+        "Austria",
+        "Spain",
+        "Cyprus",
+        "Slovenia",
+        "Czechia",
+        "Greece",
+        "Hungary",
+        "Iceland",
+        "Croatia",
+        "Poland",
+        "Estonia",
+        "Bulgaria",
+        "Romania",
+        "Turkey"
+    ],
+    "data": {
+        "Premiums": [
+            4757,
+            4490,
+            4037,
+            3502,
+            3383,
+            3235,
+            2783,
+            2413,
+            2253,
+            2039,
+            1592,
+            1222,
+            1041,
+            832,
+            763,
+            690,
+            654,
+            486,
+            405,
+            217,
+            204,
+            179,
+            150,
+            114,
+            103,
+            85,
+            29,
+            25,
+            20
+        ]
+    },
+    "colors": {
+        "Premiums": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4760
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Premiums": "#2876dd"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Default": "#2876dd"
+    },
+    "categories": [
+        "Power Diversity",
+        "China Grand",
+        "Yuantong",
+        "Lei Shing Hong",
+        "Guangdong Materials Group",
+        "China Automobile Trading",
+        "Zhongsheng",
+        "Yongda",
+        "Shandong Yuantong",
+        "SCAS"
+    ],
+    "data": {
+        "Default": [
+            35.5,
+            32.5,
+            22.4,
+            20.5,
+            15.2,
+            13.8,
+            13.7,
+            11,
+            10.6,
+            10.3
+        ]
+    },
+    "colors": {
+        "Default": "#2876dd"
+    },
+    "y_label": "Sales revenue in billion yuan",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

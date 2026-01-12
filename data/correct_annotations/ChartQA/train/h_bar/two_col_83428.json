@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Main Category": "#2876dd"
+    },
+    "categories": [
+        "Food web pages",
+        "Available products in grocery stores",
+        "Friends and family",
+        "Cooking books",
+        "Magazines",
+        "TV shows",
+        "Social media",
+        "Restaurant visits",
+        "Food apps",
+        "None of the above mentioned"
+    ],
+    "data": {
+        "Main Category": [
+            33,
+            29,
+            28,
+            28,
+            25,
+            23,
+            21,
+            12,
+            11,
+            16
+        ]
+    },
+    "colors": {
+        "Main Category": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

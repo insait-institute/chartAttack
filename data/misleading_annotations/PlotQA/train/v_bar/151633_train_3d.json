@@ -1,0 +1,54 @@
+{
+    "title": "Value added by agricultural sector of a country in it's current local currency unit",
+    "x_axis": {
+        "categories": [
+            "Ecuador",
+            "Egypt, Arab Rep.",
+            "El Salvador",
+            "Fiji",
+            "France",
+            "Gabon"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agriculture": "#40E0D0"
+    },
+    "data": {
+        "Agriculture": [
+            1589253000.0,
+            1280000000.0,
+            621200000.0,
+            105000000.0,
+            11400000000.0,
+            30500000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30500000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

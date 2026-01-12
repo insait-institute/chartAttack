@@ -1,0 +1,76 @@
+{
+    "title": "Grants received by the government including technical cooeration",
+    "x_axis": {
+        "categories": [
+            "Kiribati",
+            "Lao PDR",
+            "Lebanon",
+            "Lesotho",
+            "Liberia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#FFFF00",
+        "1971": "#191970",
+        "1972": "#A52A2A",
+        "1973": "#BEBEBE"
+    },
+    "data": {
+        "1970": [
+            1460000.0,
+            39540000.0,
+            9260000.0,
+            2350000.0,
+            8010000.0
+        ],
+        "1971": [
+            1620000.0,
+            41690000.0,
+            3320000.0,
+            2630000.0,
+            11350000.0
+        ],
+        "1972": [
+            1900000.0,
+            35890000.0,
+            4130000.0,
+            3040000.0,
+            9650000.0
+        ],
+        "1973": [
+            2060000.0,
+            41960000.0,
+            5650000.0,
+            4690000.0,
+            9740000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 41960000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

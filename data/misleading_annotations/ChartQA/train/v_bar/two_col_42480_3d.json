@@ -1,0 +1,68 @@
+{
+    "title": "Number of residents per square mile",
+    "x_axis": {
+        "categories": [
+            "1960",
+            "1970",
+            "1980",
+            "1990",
+            "2000",
+            "2010",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of residents per square mile"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            355.4,
+            387.1,
+            372.6,
+            381.8,
+            402.7,
+            411.2,
+            415.3,
+            417,
+            419,
+            420.1,
+            419,
+            421.2,
+            414.7
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 430
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

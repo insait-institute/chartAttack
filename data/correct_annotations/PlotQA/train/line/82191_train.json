@@ -1,0 +1,70 @@
+{
+    "title": "Total commercial services traded in Zambia",
+    "legend": {
+        "Commercial service exports": "#8FBC8F",
+        "Commercial service imports": "#00CED1"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Amount (in US$)",
+    "data": [
+        {
+            "label": "Commercial service exports",
+            "color": "#8FBC8F",
+            "values": [
+                273372151.74589,
+                299560909.811775,
+                240259818.655638,
+                310917479.452735,
+                374504577.571416,
+                466295856.92887
+            ]
+        },
+        {
+            "label": "Commercial service imports",
+            "color": "#00CED1",
+            "values": [
+                896750274.0,
+                859938670.6,
+                628984155.254223,
+                839185166.660613,
+                1062588184.42014,
+                1212082073.51908
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 240259810,
+                "max_value": 1212082080
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

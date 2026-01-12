@@ -1,0 +1,57 @@
+{
+    "title": "Enrollment rate recorded in primary and secondary education in year 2005",
+    "legend": {
+        "Algeria": "#f27979",
+        "Argentina": "#79f200",
+        "Armenia": "#52a5a5",
+        "Aruba": "#5200a5"
+    },
+    "categories": [
+        "Enrollment rate recorded in primary and secondary education in year 2005"
+    ],
+    "data": {
+        "Algeria": [
+            92.3416900634766
+        ],
+        "Argentina": [
+            99.1179580688477
+        ],
+        "Armenia": [
+            80.0875625610352
+        ],
+        "Aruba": [
+            97.80506134033199
+        ]
+    },
+    "colors": {
+        "Algeria": "#f27979",
+        "Argentina": "#79f200",
+        "Armenia": "#52a5a5",
+        "Aruba": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

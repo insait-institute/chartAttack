@@ -1,0 +1,67 @@
+{
+    "title": "Amount of taxes on profits paid by businesses",
+    "legend": {
+        "Canada": "#7FFFD4",
+        "Kazakhstan": "#8B4513",
+        "Kosovo": "#8FBC8F",
+        "New Zealand": "#DC143C"
+    },
+    "categories": [
+        "2013",
+        "2014",
+        "2015"
+    ],
+    "data": {
+        "Canada": [
+            8.4,
+            3.9,
+            3.9
+        ],
+        "Kazakhstan": [
+            15.9,
+            15.9,
+            16.2
+        ],
+        "Kosovo": [
+            9.1,
+            9.1,
+            9.3
+        ],
+        "New Zealand": [
+            28.8,
+            30.0,
+            30.0
+        ]
+    },
+    "colors": {
+        "Canada": "#7FFFD4",
+        "Kazakhstan": "#8B4513",
+        "Kosovo": "#8FBC8F",
+        "New Zealand": "#DC143C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

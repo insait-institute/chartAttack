@@ -1,0 +1,62 @@
+{
+    "title": "Fertilizer consumption as a percentage of production",
+    "legend": {
+        "Libya": "#f27979",
+        "Lithuania": "#c1f200",
+        "Malaysia": "#52a574",
+        "Mexico": "#0042a5",
+        "Morocco": "#da79f2"
+    },
+    "categories": [
+        "Fertilizer consumption as a percentage of production"
+    ],
+    "data": {
+        "Libya": [
+            30.9544635966041
+        ],
+        "Lithuania": [
+            21.2327268878409
+        ],
+        "Malaysia": [
+            195.801731914126
+        ],
+        "Mexico": [
+            389.080272073856
+        ],
+        "Morocco": [
+            37.0421408011191
+        ]
+    },
+    "colors": {
+        "Libya": "#f27979",
+        "Lithuania": "#c1f200",
+        "Malaysia": "#52a574",
+        "Mexico": "#0042a5",
+        "Morocco": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 520
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Net savings as percentage of gross national income",
+    "legend": {
+        "1970": "#90EE90",
+        "1971": "#000000",
+        "1972": "#556B2F",
+        "1973": "#F4A460"
+    },
+    "categories": [
+        "Australia",
+        "Austria",
+        "Canada",
+        "Colombia",
+        "Dominican Republic",
+        "Israel"
+    ],
+    "data": {
+        "1970": [
+            14.6349895895695,
+            16.5874468954852,
+            9.25419666411406,
+            5.48135735489693,
+            8.99363143932663,
+            4.0629453910645
+        ],
+        "1971": [
+            13.6023392242253,
+            16.1897611731991,
+            9.44592885063277,
+            1.46241729414248,
+            6.33330548799168,
+            11.1018443690106
+        ],
+        "1972": [
+            14.2415113105776,
+            16.876846697391,
+            9.30646552853924,
+            3.36358823760081,
+            13.8380379669932,
+            13.7662139219199
+        ],
+        "1973": [
+            15.1762429441673,
+            17.0398882135537,
+            11.2938898159108,
+            5.92285297390594,
+            15.504792291153,
+            9.04114348314139
+        ]
+    },
+    "colors": {
+        "1970": "#90EE90",
+        "1971": "#000000",
+        "1972": "#556B2F",
+        "1973": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Number of aircraft",
+    "x_axis": {
+        "categories": [
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of aircraft"
+    },
+    "legend": {
+        "Narrowbody": "#2876dd",
+        "Widebody": "#0f283e"
+    },
+    "data": {
+        "Narrowbody": [
+            934,
+            1125,
+            1024,
+            1036,
+            1029
+        ],
+        "Widebody": [
+            310,
+            312,
+            216,
+            204,
+            155
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1130
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

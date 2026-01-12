@@ -1,0 +1,64 @@
+{
+    "title": "PPP conversion factor for private consumption",
+    "legend": {
+        "Mauritius": "#4682B4",
+        "Paraguay": "#F4A460",
+        "Spain": "#F0E68C"
+    },
+    "categories": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "Mauritius": [
+            12.65097170035181,
+            12.751618512297,
+            13.0694812290595,
+            13.6966032297051
+        ],
+        "Paraguay": [
+            1250.03522616986,
+            1317.81466692938,
+            1374.74167908442,
+            1495.51107891912
+        ],
+        "Spain": [
+            0.764508,
+            0.760342,
+            0.755869,
+            0.747592
+        ]
+    },
+    "colors": {
+        "Mauritius": "#4682B4",
+        "Paraguay": "#F4A460",
+        "Spain": "#F0E68C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1500
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

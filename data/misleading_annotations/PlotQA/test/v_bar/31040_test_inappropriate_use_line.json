@@ -1,0 +1,81 @@
+{
+    "title": "Total amount collected by an economy from different taxes in 2006",
+    "x_axis": {
+        "categories": [
+            "Antigua and Barbuda",
+            "Armenia",
+            "Australia",
+            "Austria",
+            "Bahamas",
+            "Bangladesh"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Taxes on revenue": "#FF4500",
+        "Taxes on exports": "#4169E1",
+        "Taxes on goods and services": "#90EE90",
+        "Taxes on income": "#A52A2A"
+    },
+    "data": {
+        "Taxes on revenue": [
+            567600000.0,
+            382384726600.0,
+            245218000000.0,
+            50978040000.0,
+            1143646000.0,
+            339724591000.0
+        ],
+        "Taxes on exports": [
+            14000000.0,
+            13336000.0,
+            606211000000.0,
+            2229759500.0,
+            339000.0,
+            146187.71
+        ],
+        "Taxes on goods and services": [
+            120000000.0,
+            163233826600.0,
+            63641000000.0,
+            22756740000.0,
+            158394000.0,
+            125517335000.0
+        ],
+        "Taxes on income": [
+            111500000.0,
+            100797800000.0,
+            176192000000.0,
+            24069900000.0,
+            64007913000.0,
+            1867468000000.0
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1867468000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

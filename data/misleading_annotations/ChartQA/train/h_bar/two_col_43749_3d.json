@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Comedian": "#2876dd"
+    },
+    "categories": [
+        "Kevin Hart",
+        "Jerry Seinfeld",
+        "Jim Gaffigan",
+        "Trevor Noah",
+        "Sebastian Maniscalco",
+        "Gabriel Iglesias",
+        "Amy Schumer",
+        "Terry Fator",
+        "Jeff Dunham",
+        "Aziz Ansari"
+    ],
+    "data": {
+        "Comedian": [
+            59,
+            41,
+            30,
+            28,
+            26,
+            22,
+            21,
+            17,
+            15,
+            13
+        ]
+    },
+    "colors": {
+        "Comedian": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

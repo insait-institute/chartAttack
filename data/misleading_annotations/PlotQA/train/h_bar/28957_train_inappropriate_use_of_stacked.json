@@ -1,0 +1,62 @@
+{
+    "title": "Trade statistics of European Union with high income economies",
+    "legend": {
+        "1966": "#f27979",
+        "1967": "#c1f200",
+        "1968": "#52a574",
+        "1969": "#0042a5",
+        "1970": "#da79f2"
+    },
+    "categories": [
+        "Trade statistics of European Union with high income economies"
+    ],
+    "data": {
+        "1966": [
+            72.81891894683841
+        ],
+        "1967": [
+            72.4620443876372
+        ],
+        "1968": [
+            72.5773106951165
+        ],
+        "1969": [
+            73.018052845598
+        ],
+        "1970": [
+            72.2744648143083
+        ]
+    },
+    "colors": {
+        "1966": "#f27979",
+        "1967": "#c1f200",
+        "1968": "#52a574",
+        "1969": "#0042a5",
+        "1970": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

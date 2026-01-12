@@ -1,0 +1,90 @@
+{
+    "title": "Number of admitted refugees",
+    "categories": [
+        "Turkey",
+        "Pakistan",
+        "Uganda",
+        "Germany",
+        "Sudan",
+        "Iran (Islamic Rep. of)",
+        "Lebanon",
+        "Bangladesh",
+        "Ethiopia",
+        "Jordan",
+        "Dem. Rep. of the Congo",
+        "Chad",
+        "Kenya",
+        "France",
+        "Cameroon",
+        "United States of America",
+        "China",
+        "South Sudan",
+        "Iraq",
+        "Yemen",
+        "Egypt",
+        "Sweden",
+        "United Rep. of Tanzania",
+        "Italy",
+        "India"
+    ],
+    "data": {
+        "Admitted refugees": [
+            3579531,
+            1419596,
+            1359458,
+            1146682,
+            1055489,
+            979435,
+            916141,
+            854779,
+            733123,
+            693668,
+            523733,
+            442670,
+            438899,
+            407915,
+            406259,
+            341715,
+            303379,
+            298309,
+            273986,
+            268503,
+            258391,
+            253787,
+            242171,
+            207602,
+            195103
+        ]
+    },
+    "colors": {
+        "Admitted refugees": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3579540
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Admitted refugees": "#2876dd"
+    }
+}

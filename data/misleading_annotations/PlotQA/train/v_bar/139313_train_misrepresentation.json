@@ -1,0 +1,97 @@
+{
+    "title": "Food and tobacco (% of value added in manufacturing )",
+    "x_axis": {
+        "categories": [
+            "Costa Rica",
+            "Cyprus",
+            "Kenya",
+            "Singapore"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1963": "#2E8B57",
+        "1964": "#20B2AA",
+        "1965": "#663399",
+        "1966": "#483D8B"
+    },
+    "data": {
+        "1963": [
+            57.9203465111218,
+            38.7545074810284,
+            39.2172328801176,
+            21.68643516538111
+        ],
+        "1964": [
+            56.06592407739311,
+            40.95804467200829,
+            38.1682464726779,
+            24.127877236225
+        ],
+        "1965": [
+            52.73485980742071,
+            41.85339695442379,
+            36.2048591334489,
+            24.7901886796057
+        ],
+        "1966": [
+            52.0048323664046,
+            42.1866679842201,
+            36.254907990796,
+            23.03649144749189
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1963": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1964": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1965": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1966": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

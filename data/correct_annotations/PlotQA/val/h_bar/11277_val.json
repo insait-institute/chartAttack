@@ -1,0 +1,64 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service exports",
+    "legend": {
+        "2005": "#00FFFF",
+        "2006": "#663399",
+        "2007": "#00CED1"
+    },
+    "categories": [
+        "Moldova",
+        "Nicaragua",
+        "Pakistan",
+        "Philippines"
+    ],
+    "data": {
+        "2005": [
+            34.8226292603756,
+            50.7701661937576,
+            34.1379310344828,
+            61.3141300639972
+        ],
+        "2006": [
+            37.0172587261048,
+            44.5756605284227,
+            34.4469525959368,
+            57.8807704851074
+        ],
+        "2007": [
+            35.8995959278667,
+            51.4550687559962,
+            33.337925334068,
+            54.04896393661261
+        ]
+    },
+    "colors": {
+        "2005": "#00FFFF",
+        "2006": "#663399",
+        "2007": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Number of secure internet servers",
+    "legend": {
+        "Botswana": "#9ACD32",
+        "Cayman Islands": "#FFA07A",
+        "Kenya": "#B8860B"
+    },
+    "categories": [
+        "2004",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "Botswana": [
+            0.5447364837259979,
+            1.05503539379987,
+            1.55405709916594
+        ],
+        "Cayman Islands": [
+            739.9733609590062,
+            1019.42911969297,
+            1301.4763014763
+        ],
+        "Kenya": [
+            0.232305170009635,
+            0.468500054359786,
+            0.8322027009541341
+        ]
+    },
+    "colors": {
+        "Botswana": "#9ACD32",
+        "Cayman Islands": "#FFA07A",
+        "Kenya": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1310
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

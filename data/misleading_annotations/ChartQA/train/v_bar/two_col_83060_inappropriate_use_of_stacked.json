@@ -1,0 +1,97 @@
+{
+    "title": "Share of GDP",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of GDP"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f28400",
+        "2012": "#e7f279",
+        "2013": "#58f200",
+        "2014": "#52a561",
+        "2015": "#00a578",
+        "2016": "#528fa5",
+        "2017": "#001ea5",
+        "2018": "#a579f2",
+        "2019": "#dc00f2",
+        "2020": "#f279bb"
+    },
+    "data": {
+        "2010": [
+            1.5
+        ],
+        "2011": [
+            1.5
+        ],
+        "2012": [
+            1.4
+        ],
+        "2013": [
+            1.4
+        ],
+        "2014": [
+            1.5
+        ],
+        "2015": [
+            1.5
+        ],
+        "2016": [
+            1.6
+        ],
+        "2017": [
+            1.7
+        ],
+        "2018": [
+            1.7
+        ],
+        "2019": [
+            1.9
+        ],
+        "2020": [
+            1.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f28400",
+        "2012": "#e7f279",
+        "2013": "#58f200",
+        "2014": "#52a561",
+        "2015": "#00a578",
+        "2016": "#528fa5",
+        "2017": "#001ea5",
+        "2018": "#a579f2",
+        "2019": "#dc00f2",
+        "2020": "#f279bb"
+    }
+}

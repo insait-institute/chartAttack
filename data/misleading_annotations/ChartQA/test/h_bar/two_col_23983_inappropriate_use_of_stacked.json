@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Randy Smith": "#f27979",
+        "Blake Griffin": "#f29100",
+        "Bob McAdoo": "#daf279",
+        "Elton Brand": "#30f200",
+        "Corey Maggette": "#52a574",
+        "Chris Paul": "#00a5a5",
+        "Danny Manning": "#5274a5",
+        "DeAndre Jordan": "#2100a5",
+        "Loy Vaught": "#da79f2",
+        "Ken Norman": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Randy Smith": [
+            12735.0
+        ],
+        "Blake Griffin": [
+            10863.0
+        ],
+        "Bob McAdoo": [
+            9434.0
+        ],
+        "Elton Brand": [
+            9336.0
+        ],
+        "Corey Maggette": [
+            8835.0
+        ],
+        "Chris Paul": [
+            7674.0
+        ],
+        "Danny Manning": [
+            7120.0
+        ],
+        "DeAndre Jordan": [
+            7078.0
+        ],
+        "Loy Vaught": [
+            6614.0
+        ],
+        "Ken Norman": [
+            6432.0
+        ]
+    },
+    "colors": {
+        "Randy Smith": "#f27979",
+        "Blake Griffin": "#f29100",
+        "Bob McAdoo": "#daf279",
+        "Elton Brand": "#30f200",
+        "Corey Maggette": "#52a574",
+        "Chris Paul": "#00a5a5",
+        "Danny Manning": "#5274a5",
+        "DeAndre Jordan": "#2100a5",
+        "Loy Vaught": "#da79f2",
+        "Ken Norman": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12740
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Fuel imports from different countries",
+    "x_axis": {
+        "categories": [
+            "Germany",
+            "Greece",
+            "Hong Kong",
+            "Iceland",
+            "Israel",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#FF4500",
+        "1963": "#FF00FF",
+        "1964": "#4682B4",
+        "1965": "#20B2AA"
+    },
+    "data": {
+        "1962": [
+            12.6225348665643,
+            7.29574286245445,
+            3.59651491345603,
+            12.7311363906351,
+            6.454334599234017,
+            13.3521215895756
+        ],
+        "1963": [
+            13.470370319244,
+            8.74407299062954,
+            3.52749333570698,
+            11.3450143468879,
+            6.74581961315041,
+            12.2337616942545
+        ],
+        "1964": [
+            15.1208544270602,
+            6.95802735332393,
+            3.06384395943329,
+            9.35095078700487,
+            5.72849994074265,
+            14.074748653302
+        ],
+        "1965": [
+            13.1171678832358,
+            8.421044245685449,
+            3.24953725849795,
+            9.056159204327473,
+            6.44406811147883,
+            15.7296947341698
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

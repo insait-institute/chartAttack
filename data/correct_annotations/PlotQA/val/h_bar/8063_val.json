@@ -1,0 +1,72 @@
+{
+    "title": "Unemployed population expressed as percentage of the total labor force",
+    "legend": {
+        "1991": "#DAA520",
+        "1992": "#9ACD32",
+        "1993": "#2E8B57"
+    },
+    "categories": [
+        "Moldova",
+        "Mongolia",
+        "Montenegro",
+        "Morocco",
+        "Mozambique",
+        "Myanmar"
+    ],
+    "data": {
+        "1991": [
+            7.599999904632571,
+            5.900000095367429,
+            18.6000003814697,
+            12.5,
+            23.89999961853031,
+            3.90000009536743
+        ],
+        "1992": [
+            6.900000095367429,
+            5.900000095367429,
+            19.2999992370605,
+            13.0,
+            24.39999961853031,
+            3.79999995231628
+        ],
+        "1993": [
+            6.300000190734861,
+            6.099999904632571,
+            20.1000003814697,
+            13.5,
+            23.7000007629395,
+            3.79999995231628
+        ]
+    },
+    "colors": {
+        "1991": "#DAA520",
+        "1992": "#9ACD32",
+        "1993": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

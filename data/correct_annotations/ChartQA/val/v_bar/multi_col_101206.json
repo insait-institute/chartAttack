@@ -1,0 +1,106 @@
+{
+    "title": "Trade in million Canadian dollars",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Trade in million Canadian dollars"
+    },
+    "legend": {
+        "Synthetic resins and rubbers (exports)": "#2876dd",
+        "Synthetic fibrers (exports)": "#0f283e",
+        "Synthetic resins and rubbers (imports)": "#bababa",
+        "Synthetic fibers (imports)": "#a60b0b"
+    },
+    "data": {
+        "Synthetic resins and rubbers (exports)": [
+            4782,
+            5540,
+            6476,
+            6333,
+            7073,
+            7946,
+            8143,
+            7932,
+            7626,
+            8515,
+            7712
+        ],
+        "Synthetic fibrers (exports)": [
+            403,
+            457,
+            472,
+            436,
+            400,
+            367,
+            391,
+            370,
+            316,
+            301,
+            307
+        ],
+        "Synthetic resins and rubbers (imports)": [
+            4992,
+            6043,
+            6709,
+            6857,
+            6960,
+            7878,
+            8045,
+            8033,
+            8734,
+            9249,
+            8624
+        ],
+        "Synthetic fibers (imports)": [
+            469,
+            522,
+            554,
+            555,
+            536,
+            564,
+            608,
+            583,
+            601,
+            597,
+            528
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9250
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

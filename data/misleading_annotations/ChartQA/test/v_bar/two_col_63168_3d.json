@@ -1,0 +1,54 @@
+{
+    "title": "Market in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "Market in billion U.S. dollars"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            635,
+            652,
+            633,
+            649,
+            672,
+            694
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 700
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Stacked vertical bar chart": false
+}

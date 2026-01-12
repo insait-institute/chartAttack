@@ -1,0 +1,50 @@
+{
+    "title": "Merchandise imports of different economies with Europe in 1996",
+    "x_axis": {
+        "categories": [
+            "New Caledonia",
+            "New Zealand",
+            "Norway",
+            "Oman"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise imports": "#32CD32"
+    },
+    "data": {
+        "Merchandise imports": [
+            0.12489185378143,
+            0.113962517380911,
+            0.515910991967637,
+            0.6148510431744549
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

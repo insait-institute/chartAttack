@@ -1,0 +1,89 @@
+{
+    "title": "Total electricity produced from nuclear sources",
+    "legend": {
+        "1960": "#191970",
+        "1961": "#00FF7F",
+        "1962": "#C71585",
+        "1963": "#FFA500"
+    },
+    "categories": [
+        "France",
+        "United Kingdom",
+        "United States"
+    ],
+    "data": {
+        "1960": [
+            0.19451364926258,
+            1.60290598783406,
+            0.0692777977163337
+        ],
+        "1961": [
+            0.339241900756096,
+            1.73773532537689,
+            0.215179689322422
+        ],
+        "1962": [
+            0.5427174885834269,
+            2.29970326409496,
+            0.268683990460557
+        ],
+        "1963": [
+            0.5050942987210061,
+            3.65206414780388,
+            0.353732927008749
+        ]
+    },
+    "colors": {
+        "1960": "#191970",
+        "1961": "#00FF7F",
+        "1962": "#C71585",
+        "1963": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1963": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

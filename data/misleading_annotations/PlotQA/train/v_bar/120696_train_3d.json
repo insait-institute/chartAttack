@@ -1,0 +1,64 @@
+{
+    "title": "Gross Domestic Product per capita",
+    "x_axis": {
+        "categories": [
+            "Lesotho",
+            "Liberia",
+            "Luxembourg",
+            "Madagascar"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00FF00",
+        "1961": "#663399",
+        "1962": "#CD853F"
+    },
+    "data": {
+        "1960": [
+            197.376295291341,
+            767.5957005808432,
+            21613.5814933117,
+            475.4987013281791
+        ],
+        "1961": [
+            197.612374049339,
+            769.441783922281,
+            22237.7486021347,
+            473.697918303768
+        ],
+        "1962": [
+            223.863730918253,
+            762.8822055120752,
+            22265.4740146624,
+            472.775693071913
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 22270
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

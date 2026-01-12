@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of employed males in the year 1985 that are vulnerable to fall into poverty",
+    "x_axis": {
+        "categories": [
+            "France",
+            "Germany",
+            "Greece",
+            "Ireland",
+            "Italy",
+            "Luxembourg"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Percentage of employed males who are vulnerable to fall into poverty": "#2F4F4F"
+    },
+    "data": {
+        "Percentage of employed males who are vulnerable to fall into poverty": [
+            13.1000003814697,
+            9.10000038146973,
+            52.5999984741211,
+            12.0,
+            26.10000038146969,
+            10.6000003814697
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

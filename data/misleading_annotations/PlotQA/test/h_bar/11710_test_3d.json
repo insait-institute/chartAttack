@@ -1,0 +1,77 @@
+{
+    "title": "Annual rural population growth",
+    "legend": {
+        "Other small states": "#2E8B57",
+        "Albania": "#FFFF00",
+        "Azerbaijan": "#8FBC8F",
+        "Macedonia": "#4682B4"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Other small states": [
+            0.700719022332891,
+            0.776489426109322,
+            0.8455843436759379,
+            0.8594969889005741,
+            0.79296002570932
+        ],
+        "Albania": [
+            -2.51895262176947,
+            -2.68683345130323,
+            -2.86073390854208,
+            -2.92157841933936,
+            -2.86739570289843
+        ],
+        "Azerbaijan": [
+            0.6030746801779261,
+            0.6776233721831639,
+            0.7090086702372579,
+            1.67530016265748,
+            1.64979684064879
+        ],
+        "Macedonia": [
+            0.652132487413496,
+            0.588231920652822,
+            0.511409521938508,
+            0.436878852948441,
+            0.368738455767303
+        ]
+    },
+    "colors": {
+        "Other small states": "#2E8B57",
+        "Albania": "#FFFF00",
+        "Azerbaijan": "#8FBC8F",
+        "Macedonia": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

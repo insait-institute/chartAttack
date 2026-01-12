@@ -1,0 +1,73 @@
+{
+    "title": "Net savings as percentage of gross national income of United States",
+    "legend": {
+        "Net savings(excluding particulate emission damage)": "#BDB76B",
+        "Net National savings": "#8B008B"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "Savings(% of GNI)",
+    "data": [
+        {
+            "label": "Net savings(excluding particulate emission damage)",
+            "color": "#BDB76B",
+            "values": [
+                8.20413299161907,
+                7.0166678899876,
+                6.26859295842801,
+                6.168270047766839,
+                5.8072570403768,
+                6.95892642121116,
+                4.84928900383922
+            ]
+        },
+        {
+            "label": "Net National savings",
+            "color": "#8B008B",
+            "values": [
+                4.37326928581855,
+                3.03095827767166,
+                2.34040321765732,
+                2.6163011540597,
+                2.77438039914202,
+                3.69589032144978,
+                1.69477428070288
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Number of new businesses registered in a country",
+    "legend": {
+        "Argentina": "#E9967A",
+        "Tonga": "#66CDAA",
+        "Ukraine": "#483D8B"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Argentina": [
+            14493.0,
+            12118.0,
+            13133.0,
+            13799.0,
+            12385.0
+        ],
+        "Tonga": [
+            103.0,
+            560.0,
+            139.0,
+            116.0,
+            114.0
+        ],
+        "Ukraine": [
+            30762.0,
+            21120.0,
+            31433.0,
+            34135.0,
+            29650.0
+        ]
+    },
+    "colors": {
+        "Argentina": "#E9967A",
+        "Tonga": "#66CDAA",
+        "Ukraine": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

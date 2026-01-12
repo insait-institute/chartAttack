@@ -1,0 +1,64 @@
+{
+    "title": "Tourism statistics : Number of departures",
+    "x_axis": {
+        "categories": [
+            "Nicaragua",
+            "Panama",
+            "Paraguay",
+            "Peru"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#A52A2A",
+        "1996": "#00CED1",
+        "1997": "#BDB76B"
+    },
+    "data": {
+        "1995": [
+            255000.0,
+            185000.0,
+            427000.0,
+            508000.0
+        ],
+        "1996": [
+            282000.0,
+            188000.0,
+            418000.0,
+            510000.0
+        ],
+        "1997": [
+            330000.0,
+            194000.0,
+            369000.0,
+            577000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 577000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

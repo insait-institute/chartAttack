@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "India": "#f27979",
+        "New Zealand": "#f29100",
+        "Australia": "#daf279",
+        "England": "#30f200",
+        "Pakistan": "#52a574",
+        "South Africa": "#00a5a5",
+        "Sri Lanka": "#5274a5",
+        "West Indies": "#2100a5",
+        "Bangladesh": "#da79f2",
+        "Zimbabwe": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "India": [
+            120.0
+        ],
+        "New Zealand": [
+            118.0
+        ],
+        "Australia": [
+            113.0
+        ],
+        "England": [
+            106.0
+        ],
+        "Pakistan": [
+            90.0
+        ],
+        "South Africa": [
+            89.0
+        ],
+        "Sri Lanka": [
+            83.0
+        ],
+        "West Indies": [
+            81.0
+        ],
+        "Bangladesh": [
+            51.0
+        ],
+        "Zimbabwe": [
+            29.0
+        ]
+    },
+    "colors": {
+        "India": "#f27979",
+        "New Zealand": "#f29100",
+        "Australia": "#daf279",
+        "England": "#30f200",
+        "Pakistan": "#52a574",
+        "South Africa": "#00a5a5",
+        "Sri Lanka": "#5274a5",
+        "West Indies": "#2100a5",
+        "Bangladesh": "#da79f2",
+        "Zimbabwe": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

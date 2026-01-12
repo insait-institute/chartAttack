@@ -1,0 +1,72 @@
+{
+    "title": "Plot of CO2 intensity (kg per kg of oil equivalent energy use) in the year 1979",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "High income: OECD": "#f27979",
+        "Latin America(all income levels)": "#f2f200",
+        "Latin America(developing only)": "#79f279",
+        "Least developed countries": "#00a5a5",
+        "Low & middle income": "#5252a5",
+        "Lower middle income": "#a500a5"
+    },
+    "data": {
+        "High income: OECD": [
+            2.704153011489411
+        ],
+        "Latin America(all income levels)": [
+            2.31067291626698
+        ],
+        "Latin America(developing only)": [
+            2.16742951230394
+        ],
+        "Least developed countries": [
+            0.529437663413972
+        ],
+        "Low & middle income": [
+            2.28125086169088
+        ],
+        "Lower middle income": [
+            1.61486330528978
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "High income: OECD": "#f27979",
+        "Latin America(all income levels)": "#f2f200",
+        "Latin America(developing only)": "#79f279",
+        "Least developed countries": "#00a5a5",
+        "Low & middle income": "#5252a5",
+        "Lower middle income": "#a500a5"
+    }
+}

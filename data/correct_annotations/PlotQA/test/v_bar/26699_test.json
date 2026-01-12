@@ -1,0 +1,64 @@
+{
+    "title": "Under-5 mortality rate (male) per 1000 live births",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Central African Republic",
+            "Chad",
+            "Chile"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#006400",
+        "2000": "#DAA520",
+        "2010": "#6A5ACD"
+    },
+    "data": {
+        "1990": [
+            9.1,
+            183.6,
+            223.5,
+            21.0
+        ],
+        "2000": [
+            6.8,
+            182.2,
+            198.5,
+            11.9
+        ],
+        "2010": [
+            6.0,
+            157.3,
+            167.5,
+            9.6
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 230
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

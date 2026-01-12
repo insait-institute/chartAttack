@@ -1,0 +1,87 @@
+{
+    "title": "Number of home runs",
+    "legend": {
+        "Willie Mays": "#f27979",
+        "Barry Bonds": "#f29100",
+        "Mel Ott": "#daf279",
+        "Willie McCovey": "#30f200",
+        "Matt Williams": "#52a574",
+        "Orlando Cepeda": "#00a5a5",
+        "Bobby Thomson": "#5274a5",
+        "Bobby Bonds": "#2100a5",
+        "Will Clark": "#da79f2",
+        "Jeff Kent": "#f20091"
+    },
+    "categories": [
+        "Number of home runs"
+    ],
+    "data": {
+        "Willie Mays": [
+            646.0
+        ],
+        "Barry Bonds": [
+            586.0
+        ],
+        "Mel Ott": [
+            511.0
+        ],
+        "Willie McCovey": [
+            469.0
+        ],
+        "Matt Williams": [
+            247.0
+        ],
+        "Orlando Cepeda": [
+            226.0
+        ],
+        "Bobby Thomson": [
+            189.0
+        ],
+        "Bobby Bonds": [
+            186.0
+        ],
+        "Will Clark": [
+            176.0
+        ],
+        "Jeff Kent": [
+            175.0
+        ]
+    },
+    "colors": {
+        "Willie Mays": "#f27979",
+        "Barry Bonds": "#f29100",
+        "Mel Ott": "#daf279",
+        "Willie McCovey": "#30f200",
+        "Matt Williams": "#52a574",
+        "Orlando Cepeda": "#00a5a5",
+        "Bobby Thomson": "#5274a5",
+        "Bobby Bonds": "#2100a5",
+        "Will Clark": "#da79f2",
+        "Jeff Kent": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 650
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

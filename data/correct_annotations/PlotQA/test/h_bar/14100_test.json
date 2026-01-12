@@ -1,0 +1,62 @@
+{
+    "title": "Total CO2 emitted from different sources in 1988",
+    "legend": {
+        "Australia": "#556B2F",
+        "Brunei Darussalam": "#FFD700",
+        "Finland": "#B8860B",
+        "Turkey": "#00BFFF"
+    },
+    "categories": [
+        "Electricity and heat production",
+        "Manufacturing industries and construction"
+    ],
+    "data": {
+        "Australia": [
+            52.7139788499669,
+            18.4856245869134
+        ],
+        "Brunei Darussalam": [
+            78.2051282051282,
+            3.84615384615385
+        ],
+        "Finland": [
+            34.8578957274609,
+            27.6115189158667
+        ],
+        "Turkey": [
+            24.14616232096951,
+            27.0565552699229
+        ]
+    },
+    "colors": {
+        "Australia": "#556B2F",
+        "Brunei Darussalam": "#FFD700",
+        "Finland": "#B8860B",
+        "Turkey": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

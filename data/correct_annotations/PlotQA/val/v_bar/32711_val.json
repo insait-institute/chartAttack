@@ -1,0 +1,54 @@
+{
+    "title": "Prevalence of severe wasting among children with age under 5 years in 1988",
+    "x_axis": {
+        "categories": [
+            "El Salvador",
+            "Ghana",
+            "Togo",
+            "Tunisia",
+            "Uganda",
+            "Zimbabwe"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Prevalence of severe wasting": "#4169E1"
+    },
+    "data": {
+        "Prevalence of severe wasting": [
+            0.5,
+            2.20000004768372,
+            1.70000004768372,
+            1.0,
+            0.8999999761581421,
+            0.400000005960464
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

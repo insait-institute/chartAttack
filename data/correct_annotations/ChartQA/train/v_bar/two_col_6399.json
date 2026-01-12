@@ -1,0 +1,84 @@
+{
+    "title": "Gross income in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020**"
+        ]
+    },
+    "y_axis": {
+        "label": "Gross income in billion U.S. dollars"
+    },
+    "legend": {
+        "Gross Income": "#2876dd"
+    },
+    "data": {
+        "Gross Income": [
+            241.7,
+            249.9,
+            230.6,
+            258.7,
+            294.9,
+            298.5,
+            290.2,
+            339.6,
+            364.5,
+            336.6,
+            356.5,
+            420.4,
+            449.8,
+            483.8,
+            483.1,
+            440.8,
+            412.3,
+            425.4,
+            427.6,
+            437.8,
+            463.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 490
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1996",
+    "legend": {
+        "Colombia": "#FF0000",
+        "Greece": "#F0E68C",
+        "Hungary": "#BA55D3",
+        "Vietnam": "#FFA07A"
+    },
+    "categories": [
+        "Coal sources",
+        "Natural gas sources",
+        "Oil sources"
+    ],
+    "data": {
+        "Colombia": [
+            4.31945020986117,
+            12.0866196208662,
+            0.601909506019095
+        ],
+        "Greece": [
+            69.0811346113037,
+            0.1839145504703969,
+            20.1221381245432
+        ],
+        "Hungary": [
+            27.7201481903676,
+            18.16186947848389,
+            12.8583642063266
+        ],
+        "Vietnam": [
+            14.0226628895184,
+            6.474268177525969,
+            8.63432483474976
+        ]
+    },
+    "colors": {
+        "Colombia": "#FF0000",
+        "Greece": "#F0E68C",
+        "Hungary": "#BA55D3",
+        "Vietnam": "#FFA07A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

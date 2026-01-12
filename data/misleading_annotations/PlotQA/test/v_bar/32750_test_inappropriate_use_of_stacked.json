@@ -1,0 +1,57 @@
+{
+    "title": "Total interest payments of a country to exports of goods, services and primary income in 1971",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Colombia": "#f27979",
+        "Dominican Republic": "#00f200",
+        "Haiti": "#5252a5"
+    },
+    "data": {
+        "Colombia": [
+            7.11364035201949
+        ],
+        "Dominican Republic": [
+            5.04216660953034
+        ],
+        "Haiti": [
+            0.9594383773432141
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Colombia": "#f27979",
+        "Dominican Republic": "#00f200",
+        "Haiti": "#5252a5"
+    }
+}

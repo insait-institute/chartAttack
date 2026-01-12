@@ -1,0 +1,68 @@
+{
+    "title": "Agricultural methane emissions by a country",
+    "legend": {
+        "Middle income": "#B8860B",
+        "Estonia": "#663399",
+        "Togo": "#000000"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "data": {
+        "Middle income": [
+            56.35457082891011,
+            52.6097238293616,
+            47.7240885146027,
+            48.2665593949198,
+            47.01750670648229
+        ],
+        "Estonia": [
+            49.4381363142916,
+            29.8600383841221,
+            29.060254034263,
+            29.0408525754885,
+            27.55334220581289
+        ],
+        "Togo": [
+            49.5597850715349,
+            36.8124200488429,
+            31.9756692301509,
+            38.963518581657,
+            37.39093911682161
+        ]
+    },
+    "colors": {
+        "Middle income": "#B8860B",
+        "Estonia": "#663399",
+        "Togo": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

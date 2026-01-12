@@ -1,0 +1,79 @@
+{
+    "title": "Lower secondary completion rate of students in Other small states",
+    "legend": {
+        "Female": "#EE82EE",
+        "Male": "#DB7093"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Education completion rate(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#EE82EE",
+            "values": [
+                43.21195220947271,
+                42.83543014526371,
+                43.1006546020508,
+                43.94539642333979,
+                43.9241409301758,
+                45.7184867858887,
+                47.47378158569339,
+                49.0308609008789,
+                50.72491836547849
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#DB7093",
+            "values": [
+                42.5700569152832,
+                42.55812454223629,
+                43.080680847168,
+                43.79159927368161,
+                44.3685493469238,
+                45.8226013183594,
+                47.8258361816406,
+                49.3055763244629,
+                50.1407279968262
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

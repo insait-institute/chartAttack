@@ -1,0 +1,67 @@
+{
+    "title": "Number of physicians (per 1000 people) in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cote d'Ivoire": "#f27979",
+        "Cuba": "#c1f200",
+        "Cyprus": "#52a574",
+        "Djibouti": "#0042a5",
+        "Dominica": "#da79f2"
+    },
+    "data": {
+        "Cote d'Ivoire": [
+            0.0325482934713364
+        ],
+        "Cuba": [
+            0.9461703896522521
+        ],
+        "Cyprus": [
+            0.682373464107513
+        ],
+        "Djibouti": [
+            0.156626507639885
+        ],
+        "Dominica": [
+            0.132669985294342
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Cote d'Ivoire": "#f27979",
+        "Cuba": "#c1f200",
+        "Cyprus": "#52a574",
+        "Djibouti": "#0042a5",
+        "Dominica": "#da79f2"
+    }
+}

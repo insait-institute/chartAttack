@@ -1,0 +1,67 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in South Asia",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "European Union": "#f27979",
+        "Fragile and conflict affected situations": "#c1f200",
+        "Heavily indebted poor countries": "#52a574",
+        "High income": "#0042a5",
+        "High income: nonOECD": "#da79f2"
+    },
+    "data": {
+        "European Union": [
+            1.85165522491881
+        ],
+        "Fragile and conflict affected situations": [
+            5.39233964303117
+        ],
+        "Heavily indebted poor countries": [
+            2.57801774375405
+        ],
+        "High income": [
+            1.88628171897614
+        ],
+        "High income: nonOECD": [
+            1.53319254317417
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "European Union": "#f27979",
+        "Fragile and conflict affected situations": "#c1f200",
+        "Heavily indebted poor countries": "#52a574",
+        "High income": "#0042a5",
+        "High income: nonOECD": "#da79f2"
+    }
+}

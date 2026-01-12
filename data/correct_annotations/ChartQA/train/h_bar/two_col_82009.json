@@ -1,0 +1,90 @@
+{
+    "title": "Prevalence of the pill",
+    "categories": [
+        "Portugal",
+        "Czech Republic",
+        "France",
+        "Netherlands",
+        "Germany",
+        "Belgium",
+        "United Kingdom",
+        "Norway",
+        "Austria",
+        "Estonia",
+        "Lithuania",
+        "Ireland",
+        "Spain",
+        "Romania",
+        "Russian Federation",
+        "Belarus",
+        "Bulgaria",
+        "Ukraine",
+        "Republic of Moldova",
+        "Greece",
+        "Serbia",
+        "Albania",
+        "Bosnia and Herzegovina",
+        "TFYR Macedonia",
+        "Montenegro"
+    ],
+    "data": {
+        "Prevalence": [
+            49.9,
+            48.4,
+            39.5,
+            38.8,
+            37.4,
+            35.9,
+            28.0,
+            27.0,
+            23.1,
+            19.4,
+            18.8,
+            17.5,
+            17.5,
+            17.2,
+            13.2,
+            10.0,
+            7.4,
+            6.9,
+            5.7,
+            4.8,
+            4.0,
+            2.9,
+            2.2,
+            2.1,
+            1.8
+        ]
+    },
+    "colors": {
+        "Prevalence": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Prevalence": "#2876dd"
+    }
+}

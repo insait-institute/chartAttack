@@ -1,0 +1,87 @@
+{
+    "title": "Number of interactions in millions",
+    "categories": [
+        "Number of interactions in millions"
+    ],
+    "data": {
+        "BTS / @btw_twt (K-Pop group)": [
+            407.0
+        ],
+        "Donald Trump": [
+            104.1
+        ],
+        "Ariana Grande": [
+            101.8
+        ],
+        "BTS / @bts_bighit (BTS official account)": [
+            56.8
+        ],
+        "Bleacher Report": [
+            49.7
+        ],
+        "Alexandria Ocasio-Cortez": [
+            36.9
+        ],
+        "Got7": [
+            27.8
+        ],
+        "Miley Cyrus": [
+            24.5
+        ],
+        "Charlie Kirk": [
+            24.4
+        ],
+        "Shane Dawson": [
+            23.2
+        ]
+    },
+    "colors": {
+        "BTS / @btw_twt (K-Pop group)": "#f27979",
+        "Donald Trump": "#f29100",
+        "Ariana Grande": "#daf279",
+        "BTS / @bts_bighit (BTS official account)": "#30f200",
+        "Bleacher Report": "#52a574",
+        "Alexandria Ocasio-Cortez": "#00a5a5",
+        "Got7": "#5274a5",
+        "Miley Cyrus": "#2100a5",
+        "Charlie Kirk": "#da79f2",
+        "Shane Dawson": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 410
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "BTS / @btw_twt (K-Pop group)": "#f27979",
+        "Donald Trump": "#f29100",
+        "Ariana Grande": "#daf279",
+        "BTS / @bts_bighit (BTS official account)": "#30f200",
+        "Bleacher Report": "#52a574",
+        "Alexandria Ocasio-Cortez": "#00a5a5",
+        "Got7": "#5274a5",
+        "Miley Cyrus": "#2100a5",
+        "Charlie Kirk": "#da79f2",
+        "Shane Dawson": "#f20091"
+    }
+}

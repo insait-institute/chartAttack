@@ -1,0 +1,52 @@
+{
+    "title": "Cost of damage due to depletion of coal depletion",
+    "legend": {
+        "North America": "#f27979",
+        "OECD members": "#00f200",
+        "Other small states": "#5252a5"
+    },
+    "categories": [
+        "Cost of damage due to depletion of coal depletion"
+    ],
+    "data": {
+        "North America": [
+            0.53579287064483
+        ],
+        "OECD members": [
+            0.4994255724493271
+        ],
+        "Other small states": [
+            0.550376691977963
+        ]
+    },
+    "colors": {
+        "North America": "#f27979",
+        "OECD members": "#00f200",
+        "Other small states": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,63 @@
+{
+    "title": "",
+    "legend": {
+        "Market Share": "#2876dd"
+    },
+    "categories": [
+        "U.S.",
+        "Japan",
+        "China",
+        "UK",
+        "France",
+        "Switzerland",
+        "Germany",
+        "Canada",
+        "Australia",
+        "South Korea",
+        "Taiwan"
+    ],
+    "data": {
+        "Market Share": [
+            55.9,
+            7.4,
+            5.4,
+            4.1,
+            2.9,
+            2.6,
+            2.6,
+            2.4,
+            2.1,
+            1.8,
+            1.7
+        ]
+    },
+    "colors": {
+        "Market Share": "#2876dd"
+    },
+    "y_axis_label": "Market share of total world equity market value",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

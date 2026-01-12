@@ -1,0 +1,54 @@
+{
+    "title": "Number of usable tractors in agriculture in different countries",
+    "x_axis": {
+        "categories": [
+            "Cuba",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Djibouti",
+            "Dominican Republic"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agricultural machinery": "#FF0000"
+    },
+    "data": {
+        "Agricultural machinery": [
+            75887,
+            14309,
+            96716,
+            123221,
+            8,
+            1868
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 123230
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

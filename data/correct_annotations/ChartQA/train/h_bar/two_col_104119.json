@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "categories": [
+        "Blue Planet II",
+        "BBC News",
+        "Blue Peter",
+        "Planet Earth II",
+        "The Simpsons",
+        "Who Wants To Be a Millionaire?",
+        "The Chase",
+        "Porridge",
+        "BBC News at One",
+        "David Attenborough's Natural Curiosities"
+    ],
+    "data": {
+        "Series": [
+            68,
+            64,
+            62,
+            62,
+            59,
+            59,
+            59,
+            57,
+            57,
+            57
+        ]
+    },
+    "colors": {
+        "Series": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

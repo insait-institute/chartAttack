@@ -1,0 +1,55 @@
+{
+    "title": "Enrollment rate recorded in primary schools in year 2007",
+    "legend": {
+        "Aruba": "#6495ED",
+        "Denmark": "#008B8B",
+        "Hungary": "#FFD700"
+    },
+    "categories": [
+        "Female",
+        "Male"
+    ],
+    "data": {
+        "Aruba": [
+            98.27835083007808,
+            99.56765747070308
+        ],
+        "Denmark": [
+            97.9076690673828,
+            96.32171630859379
+        ],
+        "Hungary": [
+            96.6275100708008,
+            96.6443634033203
+        ]
+    },
+    "colors": {
+        "Aruba": "#6495ED",
+        "Denmark": "#008B8B",
+        "Hungary": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

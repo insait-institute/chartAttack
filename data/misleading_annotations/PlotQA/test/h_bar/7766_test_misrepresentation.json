@@ -1,0 +1,77 @@
+{
+    "title": "Annual population growth of a country",
+    "legend": {
+        "1960": "#B03060",
+        "1961": "#7FFFD4",
+        "1962": "#C71585"
+    },
+    "categories": [
+        "Iran",
+        "Iraq",
+        "Ireland"
+    ],
+    "data": {
+        "1960": [
+            2.57256012315386,
+            2.44887610991709,
+            -0.280698792339815
+        ],
+        "1961": [
+            2.5842824194465,
+            2.54596894081136,
+            -0.148593694420762
+        ],
+        "1962": [
+            2.59501740273019,
+            2.66028873013906,
+            0.411628631985577
+        ]
+    },
+    "colors": {
+        "1960": "#B03060",
+        "1961": "#7FFFD4",
+        "1962": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Percentage share of income between different subgroups of population of Jordan",
+    "legend": {
+        "Highest 10% of population": "#556B2F",
+        "Lowest 10% of population": "#A0522D"
+    },
+    "x_axis": [
+        "1986",
+        "1992",
+        "1997",
+        "2002",
+        "2006",
+        "2008",
+        "2010"
+    ],
+    "y_axis_label": "Income share held (as % of total income)",
+    "data": [
+        {
+            "label": "Highest 10% of population",
+            "color": "#556B2F",
+            "values": [
+                28.11,
+                34.99,
+                29.84,
+                29.51,
+                27.49,
+                26.57,
+                27.45
+            ]
+        },
+        {
+            "label": "Lowest 10% of population",
+            "color": "#A0522D",
+            "values": [
+                3.14,
+                2.54,
+                3.27,
+                2.98,
+                3.33,
+                3.57,
+                3.45
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

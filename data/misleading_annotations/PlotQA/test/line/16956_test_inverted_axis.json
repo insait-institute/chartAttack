@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of children under 5 who received treatments for diseases in Lao PDR",
+    "legend": {
+        "Diarrhea": "#C71585",
+        "Malaria": "#40E0D0"
+    },
+    "x_axis": [
+        "1986",
+        "1987",
+        "1989"
+    ],
+    "y_axis_label": "% of children under 5 who received treatment",
+    "data": [
+        {
+            "label": "Diarrhea",
+            "color": "#C71585",
+            "values": [
+                4,
+                20,
+                30
+            ]
+        },
+        {
+            "label": "Malaria",
+            "color": "#40E0D0",
+            "values": [
+                9.0,
+                8.0,
+                1.9
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

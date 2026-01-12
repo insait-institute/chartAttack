@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of fraud firm vs registered firms in different countries",
+    "legend": {
+        "Middle income": "#DAA520",
+        "Lebanon": "#FFFF00",
+        "Sierra Leone": "#708090"
+    },
+    "categories": [
+        "Fraud firms",
+        "Registered firms"
+    ],
+    "data": {
+        "Middle income": [
+            60.22571428571429,
+            30.3190476190476
+        ],
+        "Lebanon": [
+            34.98,
+            51.3
+        ],
+        "Sierra Leone": [
+            81.92,
+            24.6
+        ]
+    },
+    "colors": {
+        "Middle income": "#DAA520",
+        "Lebanon": "#FFFF00",
+        "Sierra Leone": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

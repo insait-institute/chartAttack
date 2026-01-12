@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Import value": "#2876dd"
+    },
+    "categories": [
+        "Germany",
+        "United States",
+        "France",
+        "Netherlands",
+        "United Kingdom",
+        "China",
+        "Italy",
+        "Mexico",
+        "Spain",
+        "Japan"
+    ],
+    "data": {
+        "Import value": [
+            2334,
+            2005.2,
+            1248,
+            1015.7,
+            899.7,
+            670,
+            537.6,
+            530.5,
+            379.9,
+            343
+        ]
+    },
+    "colors": {
+        "Import value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2340
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

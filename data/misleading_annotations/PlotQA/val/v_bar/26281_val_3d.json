@@ -1,0 +1,64 @@
+{
+    "title": "International migrant stocks of a country",
+    "x_axis": {
+        "categories": [
+            "Saudi Arabia",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#8A2BE2",
+        "1965": "#FF7F50",
+        "1970": "#0000FF"
+    },
+    "data": {
+        "1960": [
+            1.55116591325814,
+            5.28770503153363,
+            2.02637889688249,
+            2.10455053190148
+        ],
+        "1965": [
+            3.217067347147339,
+            4.79060687670101,
+            3.06315789473684,
+            2.520746901306
+        ],
+        "1970": [
+            6.11672207188206,
+            4.17086914030548,
+            4.67537313432836,
+            3.00594514808379
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

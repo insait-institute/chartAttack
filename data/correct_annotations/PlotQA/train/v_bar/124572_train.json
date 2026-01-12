@@ -1,0 +1,60 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in Saharan Africa",
+    "x_axis": {
+        "categories": [
+            "India",
+            "Ireland",
+            "Israel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#BEBEBE",
+        "1961": "#8B008B",
+        "1962": "#FFA07A"
+    },
+    "data": {
+        "1960": [
+            3.14306037165466,
+            1.31766947134466,
+            2.55996774843782
+        ],
+        "1961": [
+            2.84191026973298,
+            1.00164654226125,
+            3.250043683382839
+        ],
+        "1962": [
+            3.03305642090689,
+            1.17878192534381,
+            2.94534572373602
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

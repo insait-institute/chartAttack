@@ -1,0 +1,72 @@
+{
+    "title": "Nitrous oxide emission due to human activities",
+    "legend": {
+        "1990": "#FFA07A",
+        "2000": "#FFFF00",
+        "2005": "#00FFFF"
+    },
+    "categories": [
+        "El Salvador",
+        "Eritrea",
+        "Estonia",
+        "Ethiopia",
+        "Finland",
+        "France"
+    ],
+    "data": {
+        "1990": [
+            1319.4,
+            1030.6,
+            1872.9,
+            25278.6,
+            7423.0,
+            70691.3
+        ],
+        "2000": [
+            1359.1,
+            1360.3,
+            837.0,
+            26660.5,
+            6688.1,
+            52074.4
+        ],
+        "2005": [
+            1398.9,
+            1191.7,
+            951.7,
+            30267.2,
+            7068.0,
+            48199.1
+        ]
+    },
+    "colors": {
+        "1990": "#FFA07A",
+        "2000": "#FFFF00",
+        "2005": "#00FFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70700
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

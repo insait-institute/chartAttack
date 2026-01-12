@@ -1,0 +1,68 @@
+{
+    "title": "Global C02 emissions",
+    "legend": {
+        "1960": "#A0522D",
+        "1961": "#D2B48C",
+        "1962": "#FFA07A"
+    },
+    "categories": [
+        "Iran",
+        "Iraq",
+        "Ireland",
+        "Israel",
+        "Italy"
+    ],
+    "data": {
+        "1960": [
+            1.70687730649309,
+            1.1338396783762,
+            3.95272679063848,
+            3.05985184624554,
+            2.1784447715823
+        ],
+        "1961": [
+            1.62548809141466,
+            1.16651679639519,
+            4.37796487749611,
+            3.23568695652174,
+            2.46455580982798
+        ],
+        "1962": [
+            1.62374323979801,
+            1.17690410230616,
+            4.626338040584621,
+            3.46389969472307,
+            2.87849638704821
+        ]
+    },
+    "colors": {
+        "1960": "#A0522D",
+        "1961": "#D2B48C",
+        "1962": "#FFA07A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

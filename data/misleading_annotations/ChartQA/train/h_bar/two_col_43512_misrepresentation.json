@@ -1,0 +1,75 @@
+{
+    "title": "",
+    "y_label": "Energy demand in megawatts",
+    "categories": [
+        "Tennessee Valley Authority",
+        "Oncor Electric Delivery Company LLC",
+        "Florida Power & Light Co",
+        "Southern California Edison Co",
+        "Pacific Gas & Electric Co",
+        "Duke Energy Carolinas LLC",
+        "Virginia Electric & Power Co",
+        "Georgia Power Co",
+        "Commonwealth Edison Co",
+        "Duke Energy Progress (NC)"
+    ],
+    "data": {
+        "Energy Demand": [
+            29569,
+            27159,
+            23653,
+            21929,
+            18731,
+            16739,
+            16599,
+            16572,
+            15584,
+            12694
+        ]
+    },
+    "colors": {
+        "Energy Demand": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 29570
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Energy Demand": "#2876dd"
+    },
+    "scaling_factors": {
+        "Energy Demand": [
+            2.0,
+            0.75,
+            0.75,
+            0.75,
+            0.75,
+            1.5,
+            0.75,
+            1.5,
+            1.75,
+            0.25
+        ]
+    }
+}

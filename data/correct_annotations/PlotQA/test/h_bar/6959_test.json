@@ -1,0 +1,62 @@
+{
+    "title": "Annual rural vs urban population growth in Antigua and Barbuda",
+    "legend": {
+        "Rural": "#00BFFF",
+        "Urban ": "#E9967A"
+    },
+    "categories": [
+        "1964",
+        "1965",
+        "1966",
+        "1967",
+        "1968",
+        "1969"
+    ],
+    "data": {
+        "Rural": [
+            2.92542096277244,
+            2.90310946744613,
+            2.87260726874441,
+            2.85234261363265,
+            2.78295104148052,
+            2.66739995698726
+        ],
+        "Urban ": [
+            0.335918223063117,
+            0.325636080168989,
+            0.288059457093243,
+            0.264465978776238,
+            0.200163837188186,
+            0.0817698678187782
+        ]
+    },
+    "colors": {
+        "Rural": "#00BFFF",
+        "Urban ": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

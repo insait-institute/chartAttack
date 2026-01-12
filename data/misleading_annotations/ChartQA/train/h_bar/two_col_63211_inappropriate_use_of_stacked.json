@@ -1,0 +1,137 @@
+{
+    "title": "Box office gross in million U.S. dollars",
+    "categories": [
+        "Box office gross in million U.S. dollars"
+    ],
+    "data": {
+        "Captain America: Civil War": [
+            1153.3
+        ],
+        "Rogue One: A Star Wars Story": [
+            1056.1
+        ],
+        "Finding Dory": [
+            1028.6
+        ],
+        "Zootopia": [
+            1023.8
+        ],
+        "The Jungle Book (2016)": [
+            966.6
+        ],
+        "The Secret Life of Pets": [
+            875.5
+        ],
+        "Batman v Superman: Dawn of Justice": [
+            873.3
+        ],
+        "Fantastic Beasts and Where To Find Them": [
+            814.0
+        ],
+        "Deadpool": [
+            783.1
+        ],
+        "Suicide Squad": [
+            745.6
+        ],
+        "Doctor Strange": [
+            677.7
+        ],
+        "Moana": [
+            642.9
+        ],
+        "Sing": [
+            632.4
+        ],
+        "The Mermaid (Mei ren yu)": [
+            553.8
+        ],
+        "X-Men: Apocalypse": [
+            543.9
+        ],
+        "Kung Fu Panda 3": [
+            521.2
+        ],
+        "La La Land": [
+            445.2
+        ],
+        "Warcraft": [
+            433.7
+        ],
+        "Jason Bourne": [
+            415.5
+        ],
+        "Ice Age: Collision Course": [
+            408.6
+        ]
+    },
+    "colors": {
+        "Captain America: Civil War": "#f27979",
+        "Rogue One: A Star Wars Story": "#f24800",
+        "Finding Dory": "#f2c179",
+        "Zootopia": "#f2da00",
+        "The Jungle Book (2016)": "#daf279",
+        "The Secret Life of Pets": "#79f200",
+        "Batman v Superman: Dawn of Justice": "#91f279",
+        "Fantastic Beasts and Where To Find Them": "#00a510",
+        "Deadpool": "#52a574",
+        "Suicide Squad": "#00a574",
+        "Doctor Strange": "#52a5a5",
+        "Moana": "#0074a5",
+        "Sing": "#5274a5",
+        "The Mermaid (Mei ren yu)": "#0010a5",
+        "X-Men: Apocalypse": "#9179f2",
+        "Kung Fu Panda 3": "#7900f2",
+        "La La Land": "#da79f2",
+        "Warcraft": "#f200da",
+        "Jason Bourne": "#f279c1",
+        "Ice Age: Collision Course": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1160
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Captain America: Civil War": "#f27979",
+        "Rogue One: A Star Wars Story": "#f24800",
+        "Finding Dory": "#f2c179",
+        "Zootopia": "#f2da00",
+        "The Jungle Book (2016)": "#daf279",
+        "The Secret Life of Pets": "#79f200",
+        "Batman v Superman: Dawn of Justice": "#91f279",
+        "Fantastic Beasts and Where To Find Them": "#00a510",
+        "Deadpool": "#52a574",
+        "Suicide Squad": "#00a574",
+        "Doctor Strange": "#52a5a5",
+        "Moana": "#0074a5",
+        "Sing": "#5274a5",
+        "The Mermaid (Mei ren yu)": "#0010a5",
+        "X-Men: Apocalypse": "#9179f2",
+        "Kung Fu Panda 3": "#7900f2",
+        "La La Land": "#da79f2",
+        "Warcraft": "#f200da",
+        "Jason Bourne": "#f279c1",
+        "Ice Age: Collision Course": "#f20048"
+    }
+}

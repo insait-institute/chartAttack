@@ -1,0 +1,62 @@
+{
+    "title": "Unemployed female youth population of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Japan": "#f27979",
+        "Korea (Republic)": "#79f200",
+        "Norway": "#52a5a5",
+        "Portugal": "#5200a5"
+    },
+    "data": {
+        "Japan": [
+            3.70000004768372
+        ],
+        "Korea (Republic)": [
+            9.10000038146973
+        ],
+        "Norway": [
+            4.699999809265138
+        ],
+        "Portugal": [
+            26.7000007629395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Japan": "#f27979",
+        "Korea (Republic)": "#79f200",
+        "Norway": "#52a5a5",
+        "Portugal": "#5200a5"
+    }
+}

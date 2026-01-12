@@ -1,0 +1,72 @@
+{
+    "title": "Total production of clean energy in 1960",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Europe(all income levels)": "#f27979",
+        "Europe(developing only)": "#f2f200",
+        "European Union": "#79f279",
+        "High income": "#00a5a5",
+        "High income: OECD": "#5252a5",
+        "Low & middle income": "#a500a5"
+    },
+    "data": {
+        "Europe(all income levels)": [
+            3.50111037627157
+        ],
+        "Europe(developing only)": [
+            0.8061091873266519
+        ],
+        "European Union": [
+            2.86525994530884
+        ],
+        "High income": [
+            2.7390949662729
+        ],
+        "High income: OECD": [
+            2.7390949662729
+        ],
+        "Low & middle income": [
+            0.8061091873266519
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Europe(all income levels)": "#f27979",
+        "Europe(developing only)": "#f2f200",
+        "European Union": "#79f279",
+        "High income": "#00a5a5",
+        "High income: OECD": "#5252a5",
+        "Low & middle income": "#a500a5"
+    }
+}

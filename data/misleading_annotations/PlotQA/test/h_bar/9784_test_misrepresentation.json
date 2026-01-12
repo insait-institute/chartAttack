@@ -1,0 +1,77 @@
+{
+    "title": "Urban population of a country",
+    "legend": {
+        "Jordan": "#00FF00",
+        "Macao": "#00FF7F",
+        "Qatar": "#FF00FF"
+    },
+    "categories": [
+        "1963",
+        "1964",
+        "1965"
+    ],
+    "data": {
+        "Jordan": [
+            535324,
+            572026,
+            612075
+        ],
+        "Macao": [
+            180727,
+            189583,
+            199000
+        ],
+        "Qatar": [
+            53325,
+            58565,
+            64022
+        ]
+    },
+    "colors": {
+        "Jordan": "#00FF00",
+        "Macao": "#00FF7F",
+        "Qatar": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 612080
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Jordan": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Macao": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Qatar": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

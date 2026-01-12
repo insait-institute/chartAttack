@@ -1,0 +1,67 @@
+{
+    "title": "Number of trademark applications made by the nonresidents of a country",
+    "legend": {
+        "Finland": "#f27979",
+        "France": "#f2f200",
+        "Hungary": "#79f279",
+        "Iran": "#00a5a5",
+        "Ireland": "#5252a5",
+        "Israel": "#a500a5"
+    },
+    "categories": [
+        "Number of trademark applications made by the nonresidents of a country"
+    ],
+    "data": {
+        "Finland": [
+            1011.0
+        ],
+        "France": [
+            16874.0
+        ],
+        "Hungary": [
+            147.0
+        ],
+        "Iran": [
+            895.0
+        ],
+        "Ireland": [
+            305.0
+        ],
+        "Israel": [
+            290.0
+        ]
+    },
+    "colors": {
+        "Finland": "#f27979",
+        "France": "#f2f200",
+        "Hungary": "#79f279",
+        "Iran": "#00a5a5",
+        "Ireland": "#5252a5",
+        "Israel": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 18900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

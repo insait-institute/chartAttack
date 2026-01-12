@@ -1,0 +1,112 @@
+{
+    "title": "",
+    "legend": {
+        "Export volume": "#2876dd"
+    },
+    "categories": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999",
+        "1998",
+        "1997",
+        "1996",
+        "1995",
+        "1994",
+        "1993",
+        "1992",
+        "1991",
+        "1990",
+        "1989",
+        "1988",
+        "1987",
+        "1986",
+        "1985"
+    ],
+    "data": {
+        "Export volume": [
+            64.1,
+            74.38,
+            75.15,
+            67.6,
+            63.25,
+            62.39,
+            66.89,
+            65.24,
+            69.98,
+            65.8,
+            60.47,
+            51.13,
+            65.14,
+            61.16,
+            58.46,
+            54.68,
+            53.57,
+            52,
+            51.45,
+            57.45,
+            64.92,
+            57.47,
+            57.83,
+            65.55,
+            67.61,
+            64.34,
+            53.49,
+            47.89,
+            47.81,
+            48.13,
+            48.58,
+            44.49,
+            37.73,
+            28.25,
+            26.88,
+            22.63
+        ]
+    },
+    "colors": {
+        "Export volume": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

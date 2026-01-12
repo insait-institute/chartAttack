@@ -1,0 +1,61 @@
+{
+    "title": "Trade statistics with high income economies in 1994",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Arab World": "#FFD700",
+        "El Salvador": "#00FF7F",
+        "Latvia": "#BC8F8F",
+        "New Zealand": "#00FF00"
+    },
+    "data": {
+        "Arab World": [
+            75.52931950051159,
+            76.37022790803691
+        ],
+        "El Salvador": [
+            65.38549600598179,
+            70.0099954509627
+        ],
+        "Latvia": [
+            82.0315018070749,
+            81.4164972632352
+        ],
+        "New Zealand": [
+            79.0578019291982,
+            88.80255266264379
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

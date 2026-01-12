@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of women from Kyrgyz Republic justifying marital abuse for various reasons",
+    "legend": {
+        "Argument": "#00BFFF",
+        "Burnt food": "#808000",
+        "Permission": "#FF1493",
+        "Negligence towards children": "#00CED1"
+    },
+    "x_axis": [
+        "2006",
+        "2012"
+    ],
+    "y_axis_label": "% of women justifying domestic violence",
+    "data": [
+        {
+            "label": "Argument",
+            "color": "#00BFFF",
+            "values": [
+                25.6,
+                16.8
+            ]
+        },
+        {
+            "label": "Burnt food",
+            "color": "#808000",
+            "values": [
+                11.3,
+                6.3
+            ]
+        },
+        {
+            "label": "Permission",
+            "color": "#FF1493",
+            "values": [
+                20.5,
+                23.1
+            ]
+        },
+        {
+            "label": "Negligence towards children",
+            "color": "#00CED1",
+            "values": [
+                22.4,
+                25.6
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

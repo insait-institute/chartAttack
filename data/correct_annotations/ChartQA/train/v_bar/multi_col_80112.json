@@ -1,0 +1,51 @@
+{
+    "title": "Number of patients in millions",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2030"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of patients in millions"
+    },
+    "legend": {
+        "Parkinson's disease": "#2876dd",
+        "Parkinson's disease psychosis": "#0f283e"
+    },
+    "data": {
+        "Parkinson's disease": [
+            1,
+            1.8
+        ],
+        "Parkinson's disease psychosis": [
+            0.4,
+            0.72
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

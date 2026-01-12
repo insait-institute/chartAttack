@@ -1,0 +1,64 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 2004",
+    "legend": {
+        "Euro area": "#CD5C5C",
+        "Andorra": "#BC8F8F",
+        "Namibia": "#A0522D"
+    },
+    "categories": [
+        "Industry",
+        "Manufacturing",
+        "Services",
+        "Agriculture"
+    ],
+    "data": {
+        "Euro area": [
+            2444945979121.92,
+            1629542273288.83,
+            6502471216616.76,
+            187910574857.968
+        ],
+        "Andorra": [
+            462138285.125378,
+            104325368.000844,
+            2194371496.15392,
+            12354646.6508974
+        ],
+        "Namibia": [
+            1784044382.86608,
+            826460779.91238,
+            3689787544.3132,
+            590847763.828042
+        ]
+    },
+    "colors": {
+        "Euro area": "#CD5C5C",
+        "Andorra": "#BC8F8F",
+        "Namibia": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6502471216620
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

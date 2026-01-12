@@ -1,0 +1,64 @@
+{
+    "title": "Net bilateral aid flows from different donors in Upper middle income",
+    "legend": {
+        "DAC donors": "#FF8C00",
+        "UN agencies": "#00FFFF"
+    },
+    "x_axis": [
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Aid flow (in US$)",
+    "data": [
+        {
+            "label": "DAC donors",
+            "color": "#FF8C00",
+            "values": [
+                6010000,
+                7700000,
+                7770000,
+                8190000
+            ]
+        },
+        {
+            "label": "UN agencies",
+            "color": "#00FFFF",
+            "values": [
+                90000,
+                100000,
+                60000,
+                60000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60000,
+                "max_value": 8190000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

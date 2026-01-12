@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Home Runs": "#2876dd"
+    },
+    "categories": [
+        "Harmon Killebrew",
+        "Kent Hrbek",
+        "Kirby Puckett",
+        "Sam Rice",
+        "Mickey Vernon",
+        "Joe Judge",
+        "Tony Oliva",
+        "Goose Goslin",
+        "Joe Mauer",
+        "Justin Morneau"
+    ],
+    "data": {
+        "Home Runs": [
+            1540,
+            1086,
+            1085,
+            1044,
+            1026,
+            1001,
+            947,
+            932,
+            923,
+            860
+        ]
+    },
+    "colors": {
+        "Home Runs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1540
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

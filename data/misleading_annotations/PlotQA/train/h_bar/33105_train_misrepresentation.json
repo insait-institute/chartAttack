@@ -1,0 +1,70 @@
+{
+    "title": "Percentage of children employment in India",
+    "legend": {
+        "Girls": "#ADFF2F",
+        "Boys": "#FF7F50"
+    },
+    "categories": [
+        "2000",
+        "2005",
+        "2006",
+        "2010"
+    ],
+    "data": {
+        "Girls": [
+            5.1,
+            4.2,
+            13.1,
+            2.1
+        ],
+        "Boys": [
+            5.3,
+            4.2,
+            17.4,
+            2.8
+        ]
+    },
+    "colors": {
+        "Girls": "#ADFF2F",
+        "Boys": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Girls": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Boys": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

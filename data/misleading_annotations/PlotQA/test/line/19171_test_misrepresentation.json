@@ -1,0 +1,111 @@
+{
+    "title": "Amount of agricultural raw materials,food and fuel imports of Equatorial Guinea",
+    "legend": {
+        "Agricultural raw materials": "#87CEEB",
+        "Food": "#00CED1",
+        "Fuel": "#F4A460"
+    },
+    "x_axis": [
+        "1979",
+        "1980",
+        "1981",
+        "1982",
+        "1983"
+    ],
+    "y_axis_label": "Amount of imports(as % of merchandise imports)",
+    "data": [
+        {
+            "label": "Agricultural raw materials",
+            "color": "#87CEEB",
+            "values": [
+                0.0653532972697297,
+                0.0700777345871556,
+                0.8398025728823829,
+                0.141926198767399,
+                0.180756623483968
+            ]
+        },
+        {
+            "label": "Food",
+            "color": "#00CED1",
+            "values": [
+                9.73677131691223,
+                36.3686129664329,
+                26.8522855756862,
+                22.8459174725053,
+                31.7995766557172
+            ]
+        },
+        {
+            "label": "Fuel",
+            "color": "#F4A460",
+            "values": [
+                0.078594350980544,
+                5.8926841234904,
+                8.37549897199216,
+                10.4290759434618,
+                2.74829220365155
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Agricultural raw materials",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Food",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Fuel",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

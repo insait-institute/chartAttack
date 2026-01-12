@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education in different countries",
+    "x_axis": {
+        "categories": [
+            "Female entrants",
+            "Male entrants"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Europe(developing only)": "#F0E68C",
+        "Macedonia": "#A0522D",
+        "Mexico": "#CD853F"
+    },
+    "data": {
+        "Europe(developing only)": [
+            97.90484619140629,
+            101.027297973633
+        ],
+        "Macedonia": [
+            90.18377685546879,
+            89.0949325561523
+        ],
+        "Mexico": [
+            95.72386932373051,
+            97.3097991943359
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

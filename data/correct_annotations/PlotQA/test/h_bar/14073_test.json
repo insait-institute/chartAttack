@@ -1,0 +1,82 @@
+{
+    "title": "Split of the expenses (in %) made by the government of Georgia",
+    "legend": {
+        "Compensation of employees": "#F4A460",
+        "Goods and services": "#CD5C5C",
+        "Subsidies and Transfers": "#483D8B",
+        "Other expenses": "#008080"
+    },
+    "categories": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "Compensation of employees": [
+            11.2919343326196,
+            11.1511789181692,
+            13.1179637787567,
+            10.9965635738832,
+            13.4977827050998,
+            13.3380969393831
+        ],
+        "Goods and services": [
+            52.4197002141328,
+            33.2871012482663,
+            30.9226627508566,
+            16.7239404352806,
+            22.450110864745,
+            21.686316541622
+        ],
+        "Subsidies and Transfers": [
+            26.28122769450389,
+            37.7947295423024,
+            37.77533039647579,
+            47.9667812142039,
+            48.1152993348115,
+            48.7439930100481
+        ],
+        "Other expenses": [
+            1.13112693757855,
+            3.31892482734635,
+            7.14260204992679,
+            8.95115681233933,
+            9.111203125281287,
+            12.0909923993316
+        ]
+    },
+    "colors": {
+        "Compensation of employees": "#F4A460",
+        "Goods and services": "#CD5C5C",
+        "Subsidies and Transfers": "#483D8B",
+        "Other expenses": "#008080"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

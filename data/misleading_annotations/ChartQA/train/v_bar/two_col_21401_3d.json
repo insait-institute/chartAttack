@@ -1,0 +1,88 @@
+{
+    "title": "Savings deposits in trillion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "1980",
+            "1990",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "Apr 20"
+        ]
+    },
+    "y_axis": {
+        "label": "Savings deposits in trillion U.S. dollars"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            0.39,
+            0.92,
+            1.86,
+            2.29,
+            2.73,
+            3.1,
+            3.44,
+            3.54,
+            3.65,
+            3.81,
+            4.03,
+            4.73,
+            5.27,
+            5.96,
+            6.62,
+            7.01,
+            7.45,
+            8.04,
+            8.72,
+            9.05,
+            9.16,
+            9.65,
+            10.63
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

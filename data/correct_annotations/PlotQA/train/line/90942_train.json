@@ -1,0 +1,83 @@
+{
+    "title": "Educated labor force (as % of total labor force) in Argentina",
+    "legend": {
+        "Primary education": "#708090",
+        "Secondary education": "#483D8B",
+        "Tertiary education": "#20B2AA"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2010"
+    ],
+    "y_axis_label": "Educated labor force (% of total)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#708090",
+            "values": [
+                40.9000015258789,
+                39.5,
+                38.2000007629395,
+                37.2000007629395,
+                35.0999984741211,
+                24.5
+            ]
+        },
+        {
+            "label": "Secondary education",
+            "color": "#483D8B",
+            "values": [
+                31.7000007629395,
+                32.5999984741211,
+                32.7000007629395,
+                32.2000007629395,
+                33.7000007629395,
+                40.2999992370605
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "color": "#20B2AA",
+            "values": [
+                26.2000007629395,
+                26.7999992370605,
+                27.2999992370605,
+                29.2000007629395,
+                29.60000038146969,
+                34.5999984741211
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

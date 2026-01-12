@@ -1,0 +1,57 @@
+{
+    "title": "Earning from merchandise imports by the reporting economy(residual) of countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Netherlands": "#f27979",
+        "New Zealand": "#00f200",
+        "Nicaragua": "#5252a5"
+    },
+    "data": {
+        "Netherlands": [
+            21.3092570820116
+        ],
+        "New Zealand": [
+            6.13214337123938
+        ],
+        "Nicaragua": [
+            9.42334739803094
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Netherlands": "#f27979",
+        "New Zealand": "#00f200",
+        "Nicaragua": "#5252a5"
+    }
+}

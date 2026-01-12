@@ -1,0 +1,62 @@
+{
+    "title": "Rent as percent of GDP towards minerals,forest of countries in 1984",
+    "legend": {
+        "Colombia": "#ADFF2F",
+        "Mauritania": "#DC143C",
+        "Philippines": "#6B8E23",
+        "Sweden": "#EE82EE"
+    },
+    "categories": [
+        "Mineral",
+        "Forest"
+    ],
+    "data": {
+        "Colombia": [
+            0.277514919955411,
+            0.646605065645021
+        ],
+        "Mauritania": [
+            10.9731231192705,
+            1.85826989890348
+        ],
+        "Philippines": [
+            1.07481807439822,
+            1.14570869610659
+        ],
+        "Sweden": [
+            0.05170709813063201,
+            1.44824240807153
+        ]
+    },
+    "colors": {
+        "Colombia": "#ADFF2F",
+        "Mauritania": "#DC143C",
+        "Philippines": "#6B8E23",
+        "Sweden": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

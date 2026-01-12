@@ -1,0 +1,56 @@
+{
+    "title": "",
+    "legend": {
+        "Pigs in million head": "#2876dd"
+    },
+    "categories": [
+        "China",
+        "European Union",
+        "United States",
+        "Brazil",
+        "Canada",
+        "Mexico",
+        "South Korea",
+        "Japan"
+    ],
+    "data": {
+        "Pigs in million head": [
+            406.5,
+            151.11,
+            77.31,
+            37.35,
+            14.03,
+            11.5,
+            11.08,
+            9.1
+        ]
+    },
+    "colors": {
+        "Pigs in million head": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 410
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

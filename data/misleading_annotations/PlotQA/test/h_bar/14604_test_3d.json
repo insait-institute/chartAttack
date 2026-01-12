@@ -1,0 +1,72 @@
+{
+    "title": "Number of teachers teaching in primary schools",
+    "legend": {
+        "Cuba": "#4682B4",
+        "France": "#B8860B",
+        "Gambia, The": "#6495ED",
+        "Kenya": "#FF4500"
+    },
+    "categories": [
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "data": {
+        "Cuba": [
+            90920.0,
+            93758.0,
+            71805.0,
+            86641.0
+        ],
+        "France": [
+            207216.0,
+            204727.0,
+            204287.0,
+            203418.0
+        ],
+        "Gambia, The": [
+            4664.0,
+            4701.0,
+            4806.0,
+            4985.0
+        ],
+        "Kenya": [
+            146205.0,
+            149501.0,
+            142392.0,
+            152828.0
+        ]
+    },
+    "colors": {
+        "Cuba": "#4682B4",
+        "France": "#B8860B",
+        "Gambia, The": "#6495ED",
+        "Kenya": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 207220
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

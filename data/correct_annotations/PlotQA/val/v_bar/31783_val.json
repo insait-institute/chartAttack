@@ -1,0 +1,50 @@
+{
+    "title": "Total debt service of a country in 2000 to exports of goods, services and primary income",
+    "x_axis": {
+        "categories": [
+            "St. Lucia",
+            "St. Vincent and the Grenadines",
+            "Sudan",
+            "Swaziland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Total debt service": "#2E8B57"
+    },
+    "data": {
+        "Total debt service": [
+            7.911591240875901,
+            7.18396867582318,
+            13.4728884537989,
+            2.2467808429931
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

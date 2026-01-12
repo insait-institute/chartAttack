@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Box Office Revenue": "#2876dd"
+    },
+    "categories": [
+        "Star Wars: The Force Awakens",
+        "Avengers: Endgame*",
+        "Avatar",
+        "Black Panther",
+        "Avengers: Infinity War",
+        "Jurassic World",
+        "Marvel's The Avengers",
+        "Star Wars: The Last Jedi",
+        "Incredibles 2",
+        "Rogue One: A Star Wars Story",
+        "Beauty and the Beast (2017)",
+        "Finding Dory",
+        "Avengers: Age of Ultron",
+        "Captain Marvel*",
+        "Jurassic World: Fallen Kingdom",
+        "Toy Story 3",
+        "Wonder Woman",
+        "Iron Man 3",
+        "Captain America: Civil War",
+        "Jumanji: Welcome to the Jungle"
+    ],
+    "data": {
+        "Box Office Revenue": [
+            936.66,
+            842.76,
+            760.51,
+            700.06,
+            678.82,
+            652.27,
+            623.36,
+            620.18,
+            608.59,
+            532.18,
+            504.01,
+            486.3,
+            459.01,
+            426.82,
+            416.77,
+            415,
+            412.56,
+            409.01,
+            408.08,
+            404.52
+        ]
+    },
+    "colors": {
+        "Box Office Revenue": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 940
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

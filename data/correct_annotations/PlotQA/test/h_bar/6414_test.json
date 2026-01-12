@@ -1,0 +1,62 @@
+{
+    "title": "PPP conversion factor for GDP and private consumption in Djibouti",
+    "legend": {
+        "GDP": "#FF8C00",
+        " Private consumption": "#5F9EA0"
+    },
+    "categories": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "data": {
+        "GDP": [
+            67.9196545506634,
+            70.201552311131,
+            70.9705746693167,
+            72.3713671744961,
+            75.4694199911411,
+            77.539665149188
+        ],
+        " Private consumption": [
+            88.4072047106149,
+            87.4790631236804,
+            86.66235438667391,
+            86.41819876587792,
+            86.7927539324168,
+            86.55117743865101
+        ]
+    },
+    "colors": {
+        "GDP": "#FF8C00",
+        " Private consumption": "#5F9EA0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

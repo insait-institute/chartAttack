@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of agricultural raw materials imported from different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "High income: OECD": "#f27979",
+        "Latin America(all income levels)": "#79f200",
+        "Latin America(developing only)": "#52a5a5",
+        "North America": "#5200a5"
+    },
+    "data": {
+        "High income: OECD": [
+            12.4463800355277
+        ],
+        "Latin America(all income levels)": [
+            4.33434167983931
+        ],
+        "Latin America(developing only)": [
+            4.118639376685191
+        ],
+        "North America": [
+            9.35967129228724
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "High income: OECD": "#f27979",
+        "Latin America(all income levels)": "#79f200",
+        "Latin America(developing only)": "#52a5a5",
+        "North America": "#5200a5"
+    }
+}

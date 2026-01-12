@@ -1,0 +1,89 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "FY 1951",
+        "FY 1961",
+        "FY 1971",
+        "FY 1981",
+        "FY 1991",
+        "FY 2001",
+        "FY 2002",
+        "FY 2003",
+        "FY 2004",
+        "FY 2005",
+        "FY 2006",
+        "FY 2007",
+        "FY 2008",
+        "FY 2009",
+        "FY 2010",
+        "FY 2011",
+        "FY 2012",
+        "FY 2013",
+        "FY 2014",
+        "FY 2015",
+        "FY 2016",
+        "FY 2017"
+    ],
+    "y_axis_label": "Share of two wheelers",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                8.8,
+                13.2,
+                30.9,
+                48.6,
+                66.4,
+                70.1,
+                70.6,
+                70.9,
+                71.4,
+                72.1,
+                72.2,
+                71.5,
+                71.5,
+                71.7,
+                71.7,
+                71.8,
+                72.4,
+                72.7,
+                73.1,
+                73.5,
+                73.5,
+                73.86
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

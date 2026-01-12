@@ -1,0 +1,106 @@
+{
+    "title": "Hours per day",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Hours per day"
+    },
+    "legend": {
+        "Less than a high school diploma": "#2876dd",
+        "High school graduates, no college*": "#0f283e",
+        "Some college or associate degree": "#bababa",
+        "Bachelor's degree and higher**": "#a60b0b"
+    },
+    "data": {
+        "Less than a high school diploma": [
+            6.53,
+            6.08,
+            6.12,
+            6.23,
+            6.29,
+            6.25,
+            5.84,
+            5.85,
+            6.17,
+            6.34,
+            5.98
+        ],
+        "High school graduates, no college*": [
+            5.79,
+            5.53,
+            5.71,
+            5.78,
+            5.69,
+            5.73,
+            5.81,
+            5.72,
+            5.78,
+            5.77,
+            5.73
+        ],
+        "Some college or associate degree": [
+            4.95,
+            5.02,
+            4.93,
+            5.17,
+            5.1,
+            5.16,
+            5.14,
+            5.03,
+            5.13,
+            5.2,
+            5.29
+        ],
+        "Bachelor's degree and higher**": [
+            4.41,
+            4.41,
+            4.42,
+            4.61,
+            4.57,
+            4.56,
+            4.53,
+            4.58,
+            4.58,
+            4.59,
+            4.56
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

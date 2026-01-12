@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of women suffering from anaemia in 2004",
+    "legend": {
+        "Burkina Faso": "#CD5C5C",
+        "Eritrea": "#D2691E",
+        "Suriname": "#CD853F"
+    },
+    "categories": [
+        "Non-pregnant women",
+        "Pregnant women"
+    ],
+    "data": {
+        "Burkina Faso": [
+            54.9,
+            59.5
+        ],
+        "Eritrea": [
+            39.3,
+            43.0
+        ],
+        "Suriname": [
+            32.1,
+            35.0
+        ]
+    },
+    "colors": {
+        "Burkina Faso": "#CD5C5C",
+        "Eritrea": "#D2691E",
+        "Suriname": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Total female labor force in the year 1990",
+    "legend": {
+        "Female Labor force": "#32CD32"
+    },
+    "categories": [
+        "Middle income",
+        "North America",
+        "OECD members",
+        "Other small states",
+        "Pacific island small states",
+        "Small states"
+    ],
+    "data": {
+        "Female Labor force": [
+            37.94773694381971,
+            44.3855465728779,
+            40.8305187327574,
+            41.5886364583836,
+            32.4362451692185,
+            40.81620380965821
+        ]
+    },
+    "colors": {
+        "Female Labor force": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

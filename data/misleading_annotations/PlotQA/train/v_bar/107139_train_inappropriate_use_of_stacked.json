@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of repeaters in secondary general education in the year 1980",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Netherlands": "#f27979",
+        "New Zealand": "#c1f200",
+        "Peru": "#52a574",
+        "Qatar": "#0042a5",
+        "Solomon Islands": "#da79f2"
+    },
+    "data": {
+        "Netherlands": [
+            10.52594
+        ],
+        "New Zealand": [
+            2.73493
+        ],
+        "Peru": [
+            7.680630000000002
+        ],
+        "Qatar": [
+            8.3703
+        ],
+        "Solomon Islands": [
+            0.37629
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Netherlands": "#f27979",
+        "New Zealand": "#c1f200",
+        "Peru": "#52a574",
+        "Qatar": "#0042a5",
+        "Solomon Islands": "#da79f2"
+    }
+}

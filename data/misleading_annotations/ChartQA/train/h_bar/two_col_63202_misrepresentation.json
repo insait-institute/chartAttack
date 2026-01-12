@@ -1,0 +1,56 @@
+{
+    "title": "",
+    "legend": {
+        "Export Share": "#2876dd"
+    },
+    "categories": [
+        "United States",
+        "China",
+        "Japan",
+        "Vietnam"
+    ],
+    "data": {
+        "Export Share": [
+            13,
+            12,
+            10,
+            5
+        ]
+    },
+    "colors": {
+        "Export Share": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Export Share": [
+            0.25,
+            1.75,
+            0.5,
+            2.0
+        ]
+    }
+}

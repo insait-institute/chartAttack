@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Premier Inn": "#f27979",
+        "Travelodge": "#f29100",
+        "Walt Disney Parks and Resorts": "#daf279",
+        "Holday Inn": "#30f200",
+        "Hilton": "#52a574",
+        "Marriott": "#00a5a5",
+        "Savoy Hotel": "#5274a5",
+        "Butlins": "#2100a5",
+        "Ritz": "#da79f2",
+        "Best Western": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Premier Inn": [
+            70.0
+        ],
+        "Travelodge": [
+            60.0
+        ],
+        "Walt Disney Parks and Resorts": [
+            56.0
+        ],
+        "Holday Inn": [
+            49.0
+        ],
+        "Hilton": [
+            48.0
+        ],
+        "Marriott": [
+            46.0
+        ],
+        "Savoy Hotel": [
+            37.0
+        ],
+        "Butlins": [
+            36.0
+        ],
+        "Ritz": [
+            34.0
+        ],
+        "Best Western": [
+            33.0
+        ]
+    },
+    "colors": {
+        "Premier Inn": "#f27979",
+        "Travelodge": "#f29100",
+        "Walt Disney Parks and Resorts": "#daf279",
+        "Holday Inn": "#30f200",
+        "Hilton": "#52a574",
+        "Marriott": "#00a5a5",
+        "Savoy Hotel": "#5274a5",
+        "Butlins": "#2100a5",
+        "Ritz": "#da79f2",
+        "Best Western": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

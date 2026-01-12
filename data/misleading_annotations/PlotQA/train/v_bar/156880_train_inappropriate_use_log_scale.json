@@ -1,0 +1,50 @@
+{
+    "title": "Long-term female unemployment in 2008",
+    "x_axis": {
+        "categories": [
+            "New Zealand",
+            "Norway",
+            "Poland",
+            "Portugal"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Long-term unemployment female": "#00FF00"
+    },
+    "data": {
+        "Long-term unemployment female": [
+            2.90000009536743,
+            5.800000190734861,
+            30.7999992370605,
+            46.2999992370605
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

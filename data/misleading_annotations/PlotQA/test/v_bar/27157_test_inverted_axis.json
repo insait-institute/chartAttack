@@ -1,0 +1,60 @@
+{
+    "title": "CO2 emissions from different sources in 2006",
+    "x_axis": {
+        "categories": [
+            "Other sectors",
+            "Resident buildings and public services",
+            "Transport"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Armenia": "#6B8E23",
+        "Azerbaijan": "#E9967A",
+        "Guatemala": "#87CEEB"
+    },
+    "data": {
+        "Armenia": [
+            9.661835748792267,
+            17.8743961352657,
+            15.9420289855072
+        ],
+        "Azerbaijan": [
+            0.59425552987785,
+            19.0161769560911,
+            16.0118851105976
+        ],
+        "Guatemala": [
+            0.0948766603415551,
+            5.40796963946869,
+            49.14611005692601
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

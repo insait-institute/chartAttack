@@ -1,0 +1,82 @@
+{
+    "title": "CPIA transparency and corruption in the public sector rating",
+    "legend": {
+        "2005": "#9ACD32",
+        "2006": "#FFD700",
+        "2007": "#6B8E23",
+        "2008": "#D2691E"
+    },
+    "categories": [
+        "Tajikistan",
+        "Tanzania",
+        "Togo",
+        "Tonga",
+        "Uganda",
+        "Uzbekistan"
+    ],
+    "data": {
+        "2005": [
+            2.0,
+            3.5,
+            2.0,
+            2.0,
+            3.0,
+            1.5
+        ],
+        "2006": [
+            2.0,
+            3.5,
+            2.0,
+            2.0,
+            3.0,
+            1.5
+        ],
+        "2007": [
+            2.0,
+            3.5,
+            2.0,
+            2.5,
+            3.0,
+            1.5
+        ],
+        "2008": [
+            2.0,
+            3.0,
+            2.0,
+            3.5,
+            3.0,
+            1.5
+        ]
+    },
+    "colors": {
+        "2005": "#9ACD32",
+        "2006": "#FFD700",
+        "2007": "#6B8E23",
+        "2008": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

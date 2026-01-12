@@ -1,0 +1,62 @@
+{
+    "title": "Merchandise imports to low and middle-income economies outside region",
+    "legend": {
+        "Spain": "#f27979",
+        "Sri Lanka": "#c1f200",
+        "Sweden": "#52a574",
+        "Switzerland": "#0042a5",
+        "Thailand": "#da79f2"
+    },
+    "categories": [
+        "Merchandise imports to low and middle-income economies outside region"
+    ],
+    "data": {
+        "Spain": [
+            19.7918152003422
+        ],
+        "Sri Lanka": [
+            20.3277886497065
+        ],
+        "Sweden": [
+            6.64433080585435
+        ],
+        "Switzerland": [
+            6.97174584695294
+        ],
+        "Thailand": [
+            2.6036866359447
+        ]
+    },
+    "colors": {
+        "Spain": "#f27979",
+        "Sri Lanka": "#c1f200",
+        "Sweden": "#52a574",
+        "Switzerland": "#0042a5",
+        "Thailand": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

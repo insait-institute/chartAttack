@@ -1,0 +1,62 @@
+{
+    "title": "Number of people participated in R&D projects in Mexico",
+    "legend": {
+        "Researchers": "#2E8B57",
+        "Technicians": "#BC8F8F"
+    },
+    "categories": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "data": {
+        "Researchers": [
+            206.83766,
+            218.70635,
+            209.08882,
+            216.05353,
+            216.20761,
+            224.38993
+        ],
+        "Technicians": [
+            67.50764000000001,
+            77.72209000000002,
+            91.64604,
+            106.83067,
+            143.17735,
+            205.88813
+        ]
+    },
+    "colors": {
+        "Researchers": "#2E8B57",
+        "Technicians": "#BC8F8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 230
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

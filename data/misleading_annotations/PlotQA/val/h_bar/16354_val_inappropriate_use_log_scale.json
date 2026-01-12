@@ -1,0 +1,51 @@
+{
+    "title": "Number of usable tractors in agriculture in St. Lucia",
+    "legend": {
+        "Agricultural machinery": "#BA55D3"
+    },
+    "categories": [
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977",
+        "1978"
+    ],
+    "data": {
+        "Agricultural machinery": [
+            58,
+            60,
+            65,
+            66,
+            70,
+            70
+        ]
+    },
+    "colors": {
+        "Agricultural machinery": "#BA55D3"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

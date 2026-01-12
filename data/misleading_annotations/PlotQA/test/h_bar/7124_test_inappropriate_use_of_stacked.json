@@ -1,0 +1,62 @@
+{
+    "title": "Enrollment rate recorded in primary schools in year 1990",
+    "legend": {
+        "Sweden": "#f27979",
+        "Switzerland": "#c1f200",
+        "Syrian Arab Republic": "#52a574",
+        "Tanzania": "#0042a5",
+        "Togo": "#da79f2"
+    },
+    "categories": [
+        "Enrollment rate recorded in primary schools in year 1990"
+    ],
+    "data": {
+        "Sweden": [
+            99.57878
+        ],
+        "Switzerland": [
+            83.82904
+        ],
+        "Syrian Arab Republic": [
+            90.81766
+        ],
+        "Tanzania": [
+            51.70896
+        ],
+        "Togo": [
+            52.73606
+        ]
+    },
+    "colors": {
+        "Sweden": "#f27979",
+        "Switzerland": "#c1f200",
+        "Syrian Arab Republic": "#52a574",
+        "Tanzania": "#0042a5",
+        "Togo": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Total urban population of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Iceland": "#f27979",
+        "India": "#f2f200",
+        "Indonesia": "#79f279",
+        "Iran": "#00a5a5",
+        "Iraq": "#5252a5",
+        "Ireland": "#a500a5"
+    },
+    "data": {
+        "Iceland": [
+            80.3
+        ],
+        "India": [
+            17.924
+        ],
+        "Indonesia": [
+            14.586
+        ],
+        "Iran": [
+            33.735
+        ],
+        "Iraq": [
+            42.899
+        ],
+        "Ireland": [
+            45.822
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Iceland": "#f27979",
+        "India": "#f2f200",
+        "Indonesia": "#79f279",
+        "Iran": "#00a5a5",
+        "Iraq": "#5252a5",
+        "Ireland": "#a500a5"
+    }
+}

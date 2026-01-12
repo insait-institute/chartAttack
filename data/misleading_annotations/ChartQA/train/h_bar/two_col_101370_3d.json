@@ -1,0 +1,94 @@
+{
+    "title": "",
+    "legend": {
+        "Retail sales": "#2876dd"
+    },
+    "categories": [
+        "Tokyo",
+        "New York",
+        "London",
+        "Seoul",
+        "Moscow",
+        "Hong Kong",
+        "Sydney",
+        "Los Angeles",
+        "Mexico City",
+        "Shanghai",
+        "Istanbul",
+        "Beijing",
+        "Paris",
+        "Sao Paulo",
+        "Singapore",
+        "Chicago",
+        "Toronto",
+        "Buenos Aires",
+        "Mumbai",
+        "Milan",
+        "Madrid",
+        "Berlin",
+        "Johannesburg",
+        "San Francisco",
+        "Stockholm",
+        "Kuala Lumpur",
+        "Abu Dhabi"
+    ],
+    "data": {
+        "Retail sales": [
+            155.1,
+            106.6,
+            103.6,
+            77.7,
+            66.5,
+            57.7,
+            51.3,
+            50.7,
+            47.5,
+            47.2,
+            44.7,
+            41.8,
+            34.3,
+            32.7,
+            30.7,
+            25.3,
+            24.5,
+            23.9,
+            21.2,
+            16.9,
+            14.9,
+            14.5,
+            11.5,
+            10.8,
+            10,
+            8.4,
+            2.3
+        ]
+    },
+    "colors": {
+        "Retail sales": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 160
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

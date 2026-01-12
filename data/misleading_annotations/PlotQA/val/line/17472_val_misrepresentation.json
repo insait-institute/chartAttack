@@ -1,0 +1,94 @@
+{
+    "title": "Percentage of female teachers in schools in St. Lucia",
+    "legend": {
+        "Primary school": "#00BFFF",
+        "Secondary school": "#CD5C5C"
+    },
+    "x_axis": [
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+    ],
+    "y_axis_label": "Female teachers (% of total teachers)",
+    "data": [
+        {
+            "label": "Primary school",
+            "color": "#00BFFF",
+            "values": [
+                74.79675,
+                79.5203,
+                76.42792,
+                78.42402,
+                78.18854,
+                79.77133
+            ]
+        },
+        {
+            "label": "Secondary school",
+            "color": "#CD5C5C",
+            "values": [
+                64.71389770507811,
+                63.94366073608401,
+                63.3501281738281,
+                65.479118347168,
+                63.3872985839844,
+                63.6686401367188
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary school",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Secondary school",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

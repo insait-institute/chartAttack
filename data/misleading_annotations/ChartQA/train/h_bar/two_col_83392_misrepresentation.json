@@ -1,0 +1,89 @@
+{
+    "title": "",
+    "legend": {
+        "Retailers": "#2876dd"
+    },
+    "categories": [
+        "Tesco",
+        "Marks and Spencers",
+        "Boots",
+        "Asda",
+        "Next",
+        "Sainsbury's",
+        "Argos",
+        "Morrisons",
+        "Waitrose",
+        "asos",
+        "B&Q",
+        "John Lewis",
+        "Debenhams",
+        "The Body Shop",
+        "Primark"
+    ],
+    "data": {
+        "Retailers": [
+            10810,
+            6550,
+            3295,
+            1674,
+            1370,
+            1062,
+            805,
+            451,
+            429,
+            416,
+            405,
+            314,
+            303,
+            299,
+            171
+        ]
+    },
+    "colors": {
+        "Retailers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10810
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Retailers": [
+            0.25,
+            1.75,
+            1.5,
+            0.75,
+            0.5,
+            2.0,
+            2.0,
+            0.25,
+            0.25,
+            2.0,
+            1.5,
+            1.5,
+            1.25,
+            1.25,
+            0.25
+        ]
+    }
+}

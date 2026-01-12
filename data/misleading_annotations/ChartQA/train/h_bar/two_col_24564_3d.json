@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Home Runs": "#2876dd"
+    },
+    "categories": [
+        "Luis Gonzalez",
+        "Paul Goldschmidt",
+        "Steve Finley",
+        "Chris Young",
+        "Mark Reynolds",
+        "Justin Upton",
+        "Matt Williams",
+        "Miguel Montero",
+        "Jay Bell",
+        "David Peralta"
+    ],
+    "data": {
+        "Home Runs": [
+            224,
+            209,
+            153,
+            132,
+            121,
+            108,
+            99,
+            97,
+            91,
+            90
+        ]
+    },
+    "colors": {
+        "Home Runs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 230
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

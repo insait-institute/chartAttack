@@ -1,0 +1,76 @@
+{
+    "title": "Number of individuals affiliated to each religion",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2020",
+            "2030",
+            "2040",
+            "2050"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of individuals affiliated to each religion"
+    },
+    "legend": {
+        "Christians": "#2876dd",
+        "Muslims": "#0f283e",
+        "Unaffiliated": "#bababa",
+        "Other Religions": "#a60b0b"
+    },
+    "data": {
+        "Christians": [
+            "104750000",
+            "101900000",
+            "97330000",
+            "92690000",
+            "88440000"
+        ],
+        "Muslims": [
+            "14290000",
+            "15940000",
+            "17650000",
+            "19280000",
+            "20860000"
+        ],
+        "Unaffiliated": [
+            "23180000",
+            "21190000",
+            "18670000",
+            "16200000",
+            "13960000"
+        ],
+        "Other Religions": [
+            "750000",
+            "740000",
+            "720000",
+            "710000",
+            "700000"
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 104750000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

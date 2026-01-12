@@ -1,0 +1,64 @@
+{
+    "title": "Number of people participated in R&D projects in Turkey",
+    "legend": {
+        "Researchers": "#EE82EE",
+        "Technicians": "#DB7093"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "y_axis_label": "Number of participants (per million people)",
+    "data": [
+        {
+            "label": "Researchers",
+            "color": "#EE82EE",
+            "values": [
+                365.00542,
+                353.70905,
+                368.44096,
+                494.39813
+            ]
+        },
+        {
+            "label": "Technicians",
+            "color": "#DB7093",
+            "values": [
+                37.33387000000001,
+                39.88614000000001,
+                39.41604,
+                46.80585
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 500
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

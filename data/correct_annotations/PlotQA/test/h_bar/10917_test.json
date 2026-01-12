@@ -1,0 +1,72 @@
+{
+    "title": "Population in urban agglomerations of countries",
+    "legend": {
+        "1960": "#B8860B",
+        "1961": "#4B0082",
+        "1962": "#FF0000"
+    },
+    "categories": [
+        "Indonesia",
+        "Iran",
+        "Iraq",
+        "Ireland",
+        "Israel",
+        "Italy"
+    ],
+    "data": {
+        "1960": [
+            7.46422086658142,
+            14.9712750386237,
+            17.5091247872529,
+            23.37559216573569,
+            46.96090860067549,
+            15.8505050826997
+        ],
+        "1961": [
+            7.64530501401542,
+            15.3870345838734,
+            18.5980891339728,
+            23.597011754709,
+            47.569885583524,
+            16.1504204399408
+        ],
+        "1962": [
+            7.73360437345636,
+            15.815416004195,
+            19.7402993398678,
+            23.9844854639375,
+            46.6651112080244,
+            16.4074454421186
+        ]
+    },
+    "colors": {
+        "1960": "#B8860B",
+        "1961": "#4B0082",
+        "1962": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

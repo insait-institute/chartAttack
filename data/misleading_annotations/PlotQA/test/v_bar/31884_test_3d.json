@@ -1,0 +1,54 @@
+{
+    "title": "Plot of CO2 intensity (kg per kg of oil equivalent energy use) in the year 1979",
+    "x_axis": {
+        "categories": [
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Least developed countries",
+            "Low & middle income",
+            "Lower middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "CO2 intensity": "#4682B4"
+    },
+    "data": {
+        "CO2 intensity": [
+            2.704153011489411,
+            2.31067291626698,
+            2.16742951230394,
+            0.529437663413972,
+            2.28125086169088,
+            1.61486330528978
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

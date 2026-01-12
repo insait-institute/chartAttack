@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Sales": "#2876dd"
+    },
+    "categories": [
+        "Just For Men Mustache & Beard",
+        "Just for Men",
+        "Just for Men Original Formula",
+        "Just for Men Autostop",
+        "Just for Men ControlGX",
+        "Just for Men Touch of Gray",
+        "SoftSheenCarson Dark & Natural",
+        "Private Label",
+        "Grecian Formula 16",
+        "Bigen EZ Color"
+    ],
+    "data": {
+        "Sales": [
+            73.28,
+            40.62,
+            33.7,
+            23.28,
+            9.68,
+            8.78,
+            5.5,
+            1.97,
+            1.69,
+            0.46
+        ]
+    },
+    "colors": {
+        "Sales": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

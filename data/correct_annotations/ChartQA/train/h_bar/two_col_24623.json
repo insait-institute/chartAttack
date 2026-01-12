@@ -1,0 +1,55 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Onshore: oil sands",
+        "Onshore: extra heavy oil",
+        "Onshore: shale/tight oil",
+        "Onshore: other",
+        "Offshore: deep water",
+        "Offshore: shallow water",
+        "Offshore: ultra deepwater"
+    ],
+    "data": {
+        "Model": [
+            103,
+            64,
+            61,
+            60,
+            77,
+            71,
+            64
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "y_label": "Breakeven price in U.S. dollars per barrel",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

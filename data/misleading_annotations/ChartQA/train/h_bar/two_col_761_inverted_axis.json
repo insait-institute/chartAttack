@@ -1,0 +1,80 @@
+{
+    "title": "Season ticket price in GBP",
+    "categories": [
+        "West Ham United",
+        "Manchester City",
+        "Aston Villa",
+        "Leicester City",
+        "Burnley",
+        "Southampton",
+        "Sheffield United",
+        "Newcastle United",
+        "Everton",
+        "Wolves",
+        "Watford",
+        "Manchester United",
+        "Brighton",
+        "Bournemouth",
+        "Norwich City",
+        "Chelsea",
+        "Crystal Palace",
+        "Liverpool",
+        "Tottenham",
+        "Arsenal"
+    ],
+    "data": {
+        "Season ticket price": [
+            320,
+            325,
+            350,
+            365,
+            390,
+            399,
+            402.5,
+            417,
+            420,
+            493,
+            496,
+            532,
+            535,
+            550,
+            569.5,
+            595,
+            600,
+            685,
+            795,
+            891
+        ]
+    },
+    "colors": {
+        "Season ticket price": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 900
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Season ticket price": "#2876dd"
+    }
+}

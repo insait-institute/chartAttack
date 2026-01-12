@@ -1,0 +1,57 @@
+{
+    "title": "Net bilateral aid flow in 1981 from different donors of DA Committee",
+    "legend": {
+        "France": "#f27979",
+        "Germany": "#79f200",
+        "Italy": "#52a5a5",
+        "Japan": "#5200a5"
+    },
+    "categories": [
+        "Net bilateral aid flow in 1981 from different donors of DA Committee"
+    ],
+    "data": {
+        "France": [
+            1190000.0
+        ],
+        "Germany": [
+            310000.0
+        ],
+        "Italy": [
+            190000.0
+        ],
+        "Japan": [
+            280000.0
+        ]
+    },
+    "colors": {
+        "France": "#f27979",
+        "Germany": "#79f200",
+        "Italy": "#52a5a5",
+        "Japan": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13410000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Child (ages 7-14) employment in various industries in 2003",
+    "legend": {
+        "Bangladesh": "#20B2AA",
+        "Venezuela": "#00FFFF"
+    },
+    "categories": [
+        "Agriculture",
+        "Maunufacturing",
+        "Services"
+    ],
+    "data": {
+        "Bangladesh": [
+            62.1,
+            12.66,
+            23.25
+        ],
+        "Venezuela": [
+            25.9000450175,
+            8.0869201974,
+            63.5735751569
+        ]
+    },
+    "colors": {
+        "Bangladesh": "#20B2AA",
+        "Venezuela": "#00FFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 12.66,
+                "max_value": 62.1
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 8.0869201974,
+                "max_value": 63.5735751569
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

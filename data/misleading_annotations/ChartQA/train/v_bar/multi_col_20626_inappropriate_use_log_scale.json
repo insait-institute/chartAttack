@@ -1,0 +1,92 @@
+{
+    "title": "Shipments in million units",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018*",
+            "2019*",
+            "2020*",
+            "2021*",
+            "2022*"
+        ]
+    },
+    "y_axis": {
+        "label": "Shipments in million units"
+    },
+    "legend": {
+        "Low-end smartphone": "#2876dd",
+        "Mid-tier smartphone": "#0f283e",
+        "High-end smartphone": "#bababa"
+    },
+    "data": {
+        "Low-end smartphone": [
+            250,
+            390,
+            520,
+            540,
+            500,
+            500,
+            500,
+            480,
+            480,
+            480,
+            490
+        ],
+        "Mid-tier smartphone": [
+            120,
+            210,
+            310,
+            370,
+            450,
+            480,
+            520,
+            550,
+            580,
+            570,
+            580
+        ],
+        "High-end smartphone": [
+            310,
+            380,
+            440,
+            470,
+            450,
+            470,
+            480,
+            500,
+            500,
+            530,
+            530
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 580
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

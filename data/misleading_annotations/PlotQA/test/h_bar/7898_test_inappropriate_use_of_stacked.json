@@ -1,0 +1,67 @@
+{
+    "title": "Total electricity produced from different non-renewable sources in Sub-Saharan Africa (developing only)",
+    "legend": {
+        "1980": "#f27979",
+        "1981": "#f2f200",
+        "1982": "#79f279",
+        "1983": "#00a5a5",
+        "1984": "#5252a5",
+        "1985": "#a500a5"
+    },
+    "categories": [
+        "Total electricity produced from different non-renewable sources in Sub-Saharan Africa (developing only)"
+    ],
+    "data": {
+        "1980": [
+            63.02721810917051
+        ],
+        "1981": [
+            64.5190551157899
+        ],
+        "1982": [
+            65.2547027302284
+        ],
+        "1983": [
+            66.5906246348697
+        ],
+        "1984": [
+            66.8843949386294
+        ],
+        "1985": [
+            65.56942274110189
+        ]
+    },
+    "colors": {
+        "1980": "#f27979",
+        "1981": "#f2f200",
+        "1982": "#79f279",
+        "1983": "#00a5a5",
+        "1984": "#5252a5",
+        "1985": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

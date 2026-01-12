@@ -1,0 +1,76 @@
+{
+    "title": "Attendance in millions",
+    "x_axis": {
+        "categories": [
+            "2003",
+            "2004",
+            "2005*",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011*",
+            "2012*",
+            "2013*",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Attendance in millions"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            1.61,
+            1.62,
+            1.69,
+            1.77,
+            1.87,
+            1.79,
+            1.83,
+            1.86,
+            1.42,
+            1.63,
+            1.96,
+            1.87,
+            1.81,
+            1.83,
+            1.87,
+            1.79,
+            1.77
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

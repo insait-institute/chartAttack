@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Mike Schmidt",
+        "Ed Delahanty",
+        "Ryan Howard",
+        "Del Ennis",
+        "Chuck Klein",
+        "Sam Thompson",
+        "Chase Utley",
+        "Jimmy Rollins",
+        "Sherry Magee",
+        "Pat Burrell"
+    ],
+    "data": {
+        "Players": [
+            1595,
+            1288,
+            1194,
+            1124,
+            983,
+            965,
+            916,
+            887,
+            886,
+            827
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1600
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

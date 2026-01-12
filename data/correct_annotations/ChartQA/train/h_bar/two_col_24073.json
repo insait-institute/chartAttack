@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "Smartphone Users": "#2876dd"
+    },
+    "categories": [
+        "Australia",
+        "Turkey",
+        "Germany",
+        "India",
+        "Italy",
+        "Peru",
+        "Japan",
+        "Saudi Arabia",
+        "France",
+        "Indonesia",
+        "Thailand",
+        "Vietnam",
+        "Philippines"
+    ],
+    "data": {
+        "Smartphone Users": [
+            21.6,
+            17.3,
+            14.4,
+            12.5,
+            7.2,
+            6.8,
+            5,
+            4.9,
+            3.1,
+            2.3,
+            0.7,
+            0.4,
+            0.2
+        ]
+    },
+    "colors": {
+        "Smartphone Users": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Total female labor force participation rate for ages 20-60",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "East Asia (all income levels)": "#f27979",
+        "East Asia (developing only)": "#79f200",
+        "Euro area": "#52a5a5",
+        "Europe(all income levels)": "#5200a5"
+    },
+    "data": {
+        "East Asia (all income levels)": [
+            66.8534307738257
+        ],
+        "East Asia (developing only)": [
+            69.3723029669773
+        ],
+        "Euro area": [
+            41.729806470207
+        ],
+        "Europe(all income levels)": [
+            49.2203081558095
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "East Asia (all income levels)": "#f27979",
+        "East Asia (developing only)": "#79f200",
+        "Euro area": "#52a5a5",
+        "Europe(all income levels)": "#5200a5"
+    }
+}

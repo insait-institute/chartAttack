@@ -1,0 +1,81 @@
+{
+    "title": "Percentage of individuals or firms listed by a private credit bureau",
+    "x_axis": {
+        "categories": [
+            "High income",
+            "High income: nonOECD",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Low & middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2004": "#87CEEB",
+        "2005": "#B03060",
+        "2006": "#DC143C",
+        "2007": "#00FFFF"
+    },
+    "data": {
+        "2004": [
+            40.02790697674421,
+            25.58571428571431,
+            47.0,
+            26.305,
+            19.3933333333333,
+            5.33564356435644
+        ],
+        "2005": [
+            39.50416666666671,
+            24.6684210526316,
+            49.2241379310345,
+            21.2103448275862,
+            15.3761904761905,
+            5.41913043478261
+        ],
+        "2006": [
+            40.024,
+            23.94,
+            50.7466666666667,
+            25.0172413793103,
+            20.2761904761905,
+            6.826495726495731
+        ],
+        "2007": [
+            40.68679245283021,
+            26.2652173913044,
+            51.7433333333333,
+            29.58,
+            26.8428571428571,
+            9.11709401709402
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

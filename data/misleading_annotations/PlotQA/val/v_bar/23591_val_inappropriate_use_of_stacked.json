@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of male workers employed in Service sector",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Canada": "#f27979",
+        "Finland": "#f2f200",
+        "France": "#79f279",
+        "Hong Kong": "#00a5a5",
+        "Israel": "#5252a5",
+        "Italy": "#a500a5"
+    },
+    "data": {
+        "Canada": [
+            56.0
+        ],
+        "Finland": [
+            41.0999984741211
+        ],
+        "France": [
+            47.0
+        ],
+        "Hong Kong": [
+            51.5
+        ],
+        "Israel": [
+            52.4000015258789
+        ],
+        "Italy": [
+            45.2000007629395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Canada": "#f27979",
+        "Finland": "#f2f200",
+        "France": "#79f279",
+        "Hong Kong": "#00a5a5",
+        "Israel": "#5252a5",
+        "Italy": "#a500a5"
+    }
+}

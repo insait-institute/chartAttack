@@ -1,0 +1,63 @@
+{
+    "title": "",
+    "y_label": "Number of businesses per 1,000 population",
+    "categories": [
+        "Prince Edward Island",
+        "Alberta",
+        "Saskatchewan",
+        "Territories",
+        "British Columbia",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Ontario",
+        "Manitoba",
+        "Nova Scotia",
+        "Quebec"
+    ],
+    "data": {
+        "Businesses": [
+            50.8,
+            48.3,
+            46.3,
+            46,
+            45.3,
+            39.9,
+            39,
+            38.2,
+            38,
+            37.8,
+            37
+        ]
+    },
+    "colors": {
+        "Businesses": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Businesses": "#2876dd"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Total electricity produced from different renewable sources in Canada",
+    "legend": {
+        "Hydroelectric sources": "#E9967A",
+        "Nuclear sources": "#663399",
+        "Renewable sources": "#006400"
+    },
+    "x_axis": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Hydroelectric sources",
+            "color": "#E9967A",
+            "values": [
+                58.3318317416461,
+                61.55845664580401,
+                60.62687207081761,
+                60.8092965505046,
+                60.805424370956,
+                59.3575718093195
+            ]
+        },
+        {
+            "label": "Nuclear sources",
+            "color": "#663399",
+            "values": [
+                15.9913508318818,
+                15.1370941475933,
+                16.7033459793376,
+                15.488228431284,
+                17.6534483957475,
+                19.4060175678861
+            ]
+        },
+        {
+            "label": "Renewable sources",
+            "color": "#006400",
+            "values": [
+                0.696137906180551,
+                0.820262176868773,
+                0.7835409205425792,
+                0.8699178709884499,
+                0.9169036133030892,
+                1.04287953526624
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

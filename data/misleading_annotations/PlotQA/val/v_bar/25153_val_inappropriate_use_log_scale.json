@@ -1,0 +1,68 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in North Africa",
+    "x_axis": {
+        "categories": [
+            "European Union",
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: nonOECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00BFFF",
+        "1961": "#D2B48C",
+        "1962": "#2E8B57"
+    },
+    "data": {
+        "1960": [
+            5.03994839353095,
+            7.003436972967581,
+            3.24464351535438,
+            3.2137849340479,
+            0.3586666857846321
+        ],
+        "1961": [
+            5.04800533864112,
+            6.584729104967082,
+            2.929512643959971,
+            3.27175847549594,
+            0.479532874619339
+        ],
+        "1962": [
+            5.123559938160099,
+            5.28576485903964,
+            3.41166621390666,
+            3.31737410782658,
+            0.5001163490767789
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

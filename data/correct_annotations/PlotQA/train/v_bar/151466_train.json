@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of repeaters in secondary general education of countries in the year 1982",
+    "x_axis": {
+        "categories": [
+            "Upper middle income",
+            "World",
+            "Afghanistan",
+            "Algeria",
+            "Bahrain"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Percentage of repeaters": "#87CEEB"
+    },
+    "data": {
+        "Percentage of repeaters": [
+            6.65371847152709,
+            5.526397705078129,
+            9.94939,
+            8.75883,
+            9.48594
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of total population",
+    "legend": {
+        "Main Category": "#2876dd"
+    },
+    "categories": [
+        "Maine",
+        "West Virginia",
+        "Vermont",
+        "New Hampshire",
+        "Montana",
+        "Delaware",
+        "Pennsylvania",
+        "Alabama",
+        "Florida",
+        "Arkansas"
+    ],
+    "data": {
+        "Main Category": [
+            25.3,
+            24.5,
+            23.6,
+            22.0,
+            21.6,
+            21.4,
+            21.4,
+            21.4,
+            21.2,
+            21.1
+        ]
+    },
+    "colors": {
+        "Main Category": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

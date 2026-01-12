@@ -1,0 +1,74 @@
+{
+    "title": "Schooling information of female students involved in an economic activity in Kenya",
+    "legend": {
+        "Not attending school": "#DC143C",
+        "Attending school": "#FFA07A"
+    },
+    "x_axis": [
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "% of children employment",
+    "data": [
+        {
+            "label": "Not attending school",
+            "color": "#DC143C",
+            "values": [
+                53.1,
+                85.1
+            ]
+        },
+        {
+            "label": "Attending school",
+            "color": "#FFA07A",
+            "values": [
+                46.9,
+                14.9
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Not attending school",
+            "values": [
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "Attending school",
+            "values": [
+                1.75,
+                0.25
+            ]
+        }
+    ]
+}

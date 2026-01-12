@@ -1,0 +1,56 @@
+{
+    "title": "Total earnings from merchandise exports and imports in 1962",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Congo (Republic)": "#ADFF2F",
+        "Jamaica": "#DC143C",
+        "Morocco": "#D2691E"
+    },
+    "data": {
+        "Congo (Republic)": [
+            35041100,
+            76442300
+        ],
+        "Jamaica": [
+            181563000,
+            222883000
+        ],
+        "Morocco": [
+            348583000,
+            433752000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 433752000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

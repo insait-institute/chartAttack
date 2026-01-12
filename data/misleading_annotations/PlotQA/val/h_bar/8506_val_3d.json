@@ -1,0 +1,72 @@
+{
+    "title": "Total number of takeoffs of air carriers registered in a country",
+    "legend": {
+        "Fiji": "#2F4F4F",
+        "New Zealand": "#BA55D3",
+        "United Kingdom": "#008080"
+    },
+    "categories": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "data": {
+        "Fiji": [
+            57776.0,
+            62768.0,
+            37685.0,
+            38732.0,
+            36920.0,
+            41886.0
+        ],
+        "New Zealand": [
+            240046.0,
+            266139.0,
+            242720.0,
+            247388.0,
+            196657.0,
+            209469.0
+        ],
+        "United Kingdom": [
+            876158.0,
+            925638.0,
+            924944.0,
+            891154.0,
+            970036.0,
+            1018118.0
+        ]
+    },
+    "colors": {
+        "Fiji": "#2F4F4F",
+        "New Zealand": "#BA55D3",
+        "United Kingdom": "#008080"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1018120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

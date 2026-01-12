@@ -1,0 +1,76 @@
+{
+    "title": "Net bilateral aid flow in 2000 from different donors of Development Assistance Committee",
+    "x_axis": {
+        "categories": [
+            "Armenia",
+            "Azerbaijan",
+            "Bangladesh",
+            "Belarus",
+            "Benin"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Austria": "#2E8B57",
+        "Belgium": "#FF69B4",
+        "Denmark": "#CD853F",
+        "Korea": "#CD5C5C"
+    },
+    "data": {
+        "Austria": [
+            580000,
+            150000,
+            530000,
+            80000,
+            30000
+        ],
+        "Belgium": [
+            4630000,
+            9310000,
+            1280000,
+            200000,
+            4690000
+        ],
+        "Denmark": [
+            33670000,
+            1060000,
+            19520000,
+            8420000,
+            20880000
+        ],
+        "Korea": [
+            10000,
+            6420000,
+            170000,
+            60000,
+            10000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 33670000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

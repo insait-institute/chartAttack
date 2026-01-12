@@ -1,0 +1,56 @@
+{
+    "title": "Expenditures on general government outsourcing (%GDP)",
+    "legend": {
+        "bars": "#2e5778"
+    },
+    "categories": [
+        "Germany",
+        "Norway",
+        "Turkey",
+        "Greece"
+    ],
+    "data": {
+        "bars": [
+            13.4,
+            9.41,
+            7.54,
+            7.11
+        ]
+    },
+    "colors": {
+        "bars": "#2e5778"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": true,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "bars": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

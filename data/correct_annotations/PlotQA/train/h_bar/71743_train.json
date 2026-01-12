@@ -1,0 +1,52 @@
+{
+    "title": "Number of passengers carried by air carriers registered in South Africa",
+    "legend": {
+        "Air transport": "#2F4F4F"
+    },
+    "categories": [
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+    ],
+    "data": {
+        "Air transport": [
+            4159800.0,
+            4091200.0,
+            3951800.0,
+            4461400.0,
+            4337300.0,
+            3825000.0
+        ]
+    },
+    "colors": {
+        "Air transport": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4461400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

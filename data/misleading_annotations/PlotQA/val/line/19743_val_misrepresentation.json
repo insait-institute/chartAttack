@@ -1,0 +1,160 @@
+{
+    "title": "Net bilateral aid flow in Sierra Leone from different donors of DAC",
+    "legend": {
+        "Norway": "#6495ED",
+        "Portugal": "#D2B48C",
+        "Sweden": "#8A2BE2",
+        "Switzerland": "#2F4F4F"
+    },
+    "x_axis": [
+        "1970",
+        "1971",
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1980"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "Norway",
+            "color": "#6495ED",
+            "values": [
+                20000,
+                80000,
+                20000,
+                40000,
+                40000,
+                60000,
+                60000,
+                40000
+            ]
+        },
+        {
+            "label": "Portugal",
+            "color": "#D2B48C",
+            "values": [
+                50000,
+                2640000,
+                5270000,
+                100000,
+                110000,
+                170000,
+                10000,
+                20000
+            ]
+        },
+        {
+            "label": "Sweden",
+            "color": "#8A2BE2",
+            "values": [
+                120000,
+                190000,
+                290000,
+                380000,
+                140000,
+                230000,
+                150000,
+                210000
+            ]
+        },
+        {
+            "label": "Switzerland",
+            "color": "#2F4F4F",
+            "values": [
+                10000,
+                20000,
+                10000,
+                20000,
+                20000,
+                10000,
+                10000,
+                10000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10000,
+                "max_value": 5270000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Norway",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Portugal",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Sweden",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Switzerland",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

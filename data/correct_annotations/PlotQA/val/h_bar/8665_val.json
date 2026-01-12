@@ -1,0 +1,68 @@
+{
+    "title": "Official exchange rate determined by national authorities",
+    "legend": {
+        "Cabo Verde": "#D2691E",
+        "Gambia, The": "#006400",
+        "Iraq": "#DAA520"
+    },
+    "categories": [
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977"
+    ],
+    "data": {
+        "Cabo Verde": [
+            24.5151666665833,
+            25.4081666665833,
+            25.5432499999167,
+            30.2290833333333,
+            34.0464916658333
+        ],
+        "Gambia, The": [
+            1.70240456406358,
+            1.71092678627558,
+            1.80804370710584,
+            2.22567313538484,
+            2.29301888077862
+        ],
+        "Iraq": [
+            0.299720767372464,
+            0.29568311107206,
+            0.295313667499073,
+            0.295313667499073,
+            0.295313667499073
+        ]
+    },
+    "colors": {
+        "Cabo Verde": "#D2691E",
+        "Gambia, The": "#006400",
+        "Iraq": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

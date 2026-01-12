@@ -1,0 +1,51 @@
+{
+    "title": "Time in minutes",
+    "x_axis": {
+        "categories": [
+            "Free TV",
+            "Pay TV"
+        ]
+    },
+    "y_axis": {
+        "label": "Time in minutes"
+    },
+    "legend": {
+        "March 9-13, 2020": "#2876dd",
+        "March 16-20, 2020": "#0f283e"
+    },
+    "data": {
+        "March 9-13, 2020": [
+            204,
+            136
+        ],
+        "March 16-20, 2020": [
+            251,
+            154
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 260
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

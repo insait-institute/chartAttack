@@ -1,0 +1,51 @@
+{
+    "title": "Activity in millions",
+    "x_axis": {
+        "categories": [
+            "Facebook interactions (posts, likes, and comments)",
+            "Tweets with #GRAMMYS"
+        ]
+    },
+    "y_axis": {
+        "label": "Activity in millions"
+    },
+    "legend": {
+        "2015": "#2876dd",
+        "2016": "#0f283e"
+    },
+    "data": {
+        "2015": [
+            45,
+            20.9
+        ],
+        "2016": [
+            50,
+            17.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

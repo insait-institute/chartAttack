@@ -1,0 +1,62 @@
+{
+    "title": "Average annual growth rate in broad money and quasi money of St. Lucia",
+    "legend": {
+        "Quasi money growth": "#FFFF00",
+        "Broad money growth": "#00FF7F"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Quasi money growth": [
+            10.7118692405485,
+            7.99059992409862,
+            12.4562231255758,
+            17.4318904126077,
+            6.945119888404991,
+            7.689133609159208
+        ],
+        "Broad money growth": [
+            10.7118692405485,
+            7.99059992409862,
+            12.4562231255758,
+            17.4318904126077,
+            6.945119888404991,
+            7.689133609159208
+        ]
+    },
+    "colors": {
+        "Quasi money growth": "#FFFF00",
+        "Broad money growth": "#00FF7F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

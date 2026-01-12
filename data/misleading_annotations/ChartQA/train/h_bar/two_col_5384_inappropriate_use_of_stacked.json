@@ -1,0 +1,112 @@
+{
+    "title": "Index score comparison across different countries",
+    "categories": [
+        "Index score comparison across different countries"
+    ],
+    "data": {
+        "Germany": [
+            4.19
+        ],
+        "Netherlands": [
+            4.07
+        ],
+        "Sweden": [
+            4.07
+        ],
+        "Belgium": [
+            4.05
+        ],
+        "Singapore": [
+            4.05
+        ],
+        "United Kingdom": [
+            4.01
+        ],
+        "Japan": [
+            3.99
+        ],
+        "Austria": [
+            3.99
+        ],
+        "Hong Kong SAR, China": [
+            3.96
+        ],
+        "United States": [
+            3.92
+        ],
+        "Denmark": [
+            3.92
+        ],
+        "Finland": [
+            3.92
+        ],
+        "Switzerland": [
+            3.91
+        ],
+        "United Arab Emirates": [
+            3.89
+        ],
+        "France": [
+            3.86
+        ]
+    },
+    "colors": {
+        "Germany": "#f27979",
+        "Netherlands": "#f26000",
+        "Sweden": "#f2da79",
+        "Belgium": "#c1f200",
+        "Singapore": "#a9f279",
+        "United Kingdom": "#00f200",
+        "Japan": "#52a574",
+        "Austria": "#00a584",
+        "Hong Kong SAR, China": "#5295a5",
+        "United States": "#0042a5",
+        "Denmark": "#5252a5",
+        "Finland": "#4200a5",
+        "Switzerland": "#da79f2",
+        "United Arab Emirates": "#f200c1",
+        "France": "#f279a9"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Germany": "#f27979",
+        "Netherlands": "#f26000",
+        "Sweden": "#f2da79",
+        "Belgium": "#c1f200",
+        "Singapore": "#a9f279",
+        "United Kingdom": "#00f200",
+        "Japan": "#52a574",
+        "Austria": "#00a584",
+        "Hong Kong SAR, China": "#5295a5",
+        "United States": "#0042a5",
+        "Denmark": "#5252a5",
+        "Finland": "#4200a5",
+        "Switzerland": "#da79f2",
+        "United Arab Emirates": "#f200c1",
+        "France": "#f279a9"
+    }
+}

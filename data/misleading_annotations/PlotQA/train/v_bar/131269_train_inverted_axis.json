@@ -1,0 +1,60 @@
+{
+    "title": "Merchandise exports from developing economies in Europe",
+    "x_axis": {
+        "categories": [
+            "Korea (Republic)",
+            "Kyrgyz Republic",
+            "Latvia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1992": "#2E8B57",
+        "1993": "#B03060",
+        "1994": "#87CEEB"
+    },
+    "data": {
+        "1992": [
+            0.6206813428580511,
+            45.7288027945379,
+            15.865776570304
+        ],
+        "1993": [
+            1.06134054255617,
+            38.2175688060655,
+            18.1726901554536
+        ],
+        "1994": [
+            0.6724413488289499,
+            49.8363652445676,
+            14.7851768326629
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

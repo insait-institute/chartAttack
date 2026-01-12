@@ -1,0 +1,72 @@
+{
+    "title": "Unit sales in million of units",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Unit sales in million of units"
+    },
+    "legend": {
+        "2019": "#f27979",
+        "2020": "#f2f200",
+        "2021*": "#79f279",
+        "2022*": "#00a5a5",
+        "2023*": "#5252a5",
+        "2024*": "#a500a5"
+    },
+    "data": {
+        "2019": [
+            0.17
+        ],
+        "2020": [
+            0.25
+        ],
+        "2021*": [
+            0.41
+        ],
+        "2022*": [
+            0.96
+        ],
+        "2023*": [
+            2.11
+        ],
+        "2024*": [
+            3.9
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2019": "#f27979",
+        "2020": "#f2f200",
+        "2021*": "#79f279",
+        "2022*": "#00a5a5",
+        "2023*": "#5252a5",
+        "2024*": "#a500a5"
+    }
+}

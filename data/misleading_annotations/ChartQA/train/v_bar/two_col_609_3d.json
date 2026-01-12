@@ -1,0 +1,52 @@
+{
+    "title": "Sports market revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2005",
+            "2009",
+            "2012",
+            "2013",
+            "2017*"
+        ]
+    },
+    "y_axis": {
+        "label": "Sports market revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "Revenue": "#2876dd"
+    },
+    "data": {
+        "Revenue": [
+            46.5,
+            58.4,
+            78.2,
+            76.1,
+            90.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

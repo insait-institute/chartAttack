@@ -1,0 +1,81 @@
+{
+    "title": "Total male labor force participation rate for ages 20-60",
+    "x_axis": {
+        "categories": [
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "North America",
+            "OECD members",
+            "Other small states"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#32CD32",
+        "1991": "#BEBEBE",
+        "1992": "#FF4500",
+        "1993": "#C71585"
+    },
+    "data": {
+        "1990": [
+            76.925941214514,
+            76.6092939025714,
+            82.82989173490371,
+            75.46154705371309,
+            73.7259606264622,
+            76.7915635888841
+        ],
+        "1991": [
+            76.6247020650988,
+            76.29476751618071,
+            82.7325417945123,
+            74.7307955354009,
+            73.65828088264749,
+            76.7750187745161
+        ],
+        "1992": [
+            75.91203295027779,
+            75.47669950629,
+            82.6138896968115,
+            74.5974868632043,
+            73.2896295662156,
+            76.788046209444
+        ],
+        "1993": [
+            76.1219215554686,
+            75.7334573975839,
+            82.47560165857449,
+            74.187516650989,
+            72.8979904764341,
+            76.759515671595
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

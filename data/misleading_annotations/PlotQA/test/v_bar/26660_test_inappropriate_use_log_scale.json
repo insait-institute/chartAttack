@@ -1,0 +1,72 @@
+{
+    "title": "Cereal yield of a country",
+    "x_axis": {
+        "categories": [
+            "Malawi",
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Mauritania"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1961": "#8FBC8F",
+        "1962": "#FFA500",
+        "1963": "#BEBEBE"
+    },
+    "data": {
+        "1961": [
+            984.461,
+            2097.044,
+            888.268,
+            707.5110000000002,
+            1360.373,
+            369.844
+        ],
+        "1962": [
+            1026.996,
+            2058.064,
+            875.0,
+            729.441,
+            1373.344,
+            378.785
+        ],
+        "1963": [
+            876.7289999999998,
+            2143.807,
+            897.26,
+            644.828,
+            1566.467,
+            374.485
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2150
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

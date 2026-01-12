@@ -1,0 +1,101 @@
+{
+    "title": "Amount collected by government from different taxes in Cameroon",
+    "legend": {
+        "Taxes on revenue": "#FFA500",
+        "Taxes on exports": "#20B2AA",
+        "Taxes on goods and services": "#DB7093",
+        "Taxes on income": "#B03060"
+    },
+    "x_axis": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1998"
+    ],
+    "y_axis_label": "Taxes (in $)",
+    "data": [
+        {
+            "label": "Taxes on revenue",
+            "color": "#FFA500",
+            "values": [
+                327480000000,
+                297450000000,
+                311660000000,
+                300130000000,
+                291540000000,
+                389580000000,
+                646180000000
+            ]
+        },
+        {
+            "label": "Taxes on exports",
+            "color": "#20B2AA",
+            "values": [
+                6180000000,
+                3640000000,
+                4030000000,
+                4350000000,
+                13230000000,
+                42210000000,
+                43320000000
+            ]
+        },
+        {
+            "label": "Taxes on goods and services",
+            "color": "#DB7093",
+            "values": [
+                106370000000,
+                96660000000,
+                86920000000,
+                89160000000,
+                89310000000,
+                134890000000,
+                183820000000
+            ]
+        },
+        {
+            "label": "Taxes on income",
+            "color": "#B03060",
+            "values": [
+                90590000000,
+                87380000000,
+                90500000000,
+                89150000000,
+                91940000000,
+                91150000000,
+                163690000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 3640000000,
+                "max_value": 646180000000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

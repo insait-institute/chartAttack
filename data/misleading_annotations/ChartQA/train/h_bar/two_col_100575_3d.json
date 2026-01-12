@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Workers": "#2876dd"
+    },
+    "categories": [
+        "Kenya",
+        "Tanzania",
+        "India",
+        "Ethiopia",
+        "Ghana",
+        "Peru",
+        "Uganda",
+        "Colombia",
+        "Mexico",
+        "Ivory Coast"
+    ],
+    "data": {
+        "Workers": [
+            265800,
+            157400,
+            137600,
+            121900,
+            95400,
+            56700,
+            48000,
+            47400,
+            35300,
+            35000
+        ]
+    },
+    "colors": {
+        "Workers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 265800
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

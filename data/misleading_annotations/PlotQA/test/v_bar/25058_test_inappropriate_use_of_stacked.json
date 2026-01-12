@@ -1,0 +1,62 @@
+{
+    "title": "Plot of number of days required to export the goods",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "China": "#f27979",
+        "Costa Rica": "#79f200",
+        "Croatia": "#52a5a5",
+        "Denmark": "#5200a5"
+    },
+    "data": {
+        "China": [
+            2.6
+        ],
+        "Costa Rica": [
+            4.0
+        ],
+        "Croatia": [
+            4.3
+        ],
+        "Denmark": [
+            1.3
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "China": "#f27979",
+        "Costa Rica": "#79f200",
+        "Croatia": "#52a5a5",
+        "Denmark": "#5200a5"
+    }
+}

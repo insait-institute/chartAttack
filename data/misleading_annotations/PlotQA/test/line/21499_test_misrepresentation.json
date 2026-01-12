@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of people living with HIV who are receiving antiretroviral therapy in Sub-Saharan Africa (all income levels)",
+    "legend": {
+        "Antiretroviral therapy coverage": "#00FF00"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Coverage(% of people living with HIV)",
+    "data": [
+        {
+            "label": "Antiretroviral therapy coverage",
+            "color": "#00FF00",
+            "values": [
+                8.50866739592047,
+                11.4882185176383,
+                14.8755889762066,
+                19.1828825625718,
+                24.8889387870696
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Antiretroviral therapy coverage",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

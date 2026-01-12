@@ -1,0 +1,96 @@
+{
+    "title": "Number of companies",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of companies"
+    },
+    "legend": {
+        "Domestic market": "#2876dd",
+        "Total market": "#0f283e"
+    },
+    "data": {
+        "Domestic market": [
+            27,
+            25,
+            30,
+            24,
+            30,
+            27,
+            24,
+            25,
+            23
+        ],
+        "Total market": [
+            32,
+            32,
+            36,
+            24,
+            33,
+            33,
+            30,
+            30,
+            28
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false,
+    "scaling_factors": {
+        "Domestic market": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.75
+        ],
+        "Total market": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.75
+        ]
+    }
+}

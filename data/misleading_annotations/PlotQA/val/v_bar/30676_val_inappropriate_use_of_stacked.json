@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of food imported from different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "High income": "#f27979",
+        "High income: OECD": "#c1f200",
+        "Latin America(all income levels)": "#52a574",
+        "Latin America(developing only)": "#0042a5",
+        "North America": "#da79f2"
+    },
+    "data": {
+        "High income": [
+            21.9120213590718
+        ],
+        "High income: OECD": [
+            21.9183589060947
+        ],
+        "Latin America(all income levels)": [
+            10.3647520944372
+        ],
+        "Latin America(developing only)": [
+            9.697666974462098
+        ],
+        "North America": [
+            21.6873601232926
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "High income": "#f27979",
+        "High income: OECD": "#c1f200",
+        "Latin America(all income levels)": "#52a574",
+        "Latin America(developing only)": "#0042a5",
+        "North America": "#da79f2"
+    }
+}

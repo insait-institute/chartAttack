@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Deal value": "#2876dd"
+    },
+    "categories": [
+        "Credit Suisse",
+        "Citi",
+        "JPMorgan",
+        "Bank of America Merrill Lynch",
+        "BTIG",
+        "Guggenheim Partners",
+        "Deloitte",
+        "Sberbank OAO",
+        "Evercore",
+        "Renaissance Capital"
+    ],
+    "data": {
+        "Deal value": [
+            4841,
+            4464,
+            3319,
+            2682,
+            1209,
+            1182,
+            1160,
+            805,
+            800,
+            593
+        ]
+    },
+    "colors": {
+        "Deal value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4850
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

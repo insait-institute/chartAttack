@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Internet Users": "#2876dd"
+    },
+    "categories": [
+        "China",
+        "India",
+        "United States",
+        "Indonesia",
+        "Brazil",
+        "Nigeria",
+        "Japan",
+        "Russia",
+        "Bangladesh",
+        "Mexico",
+        "Germany",
+        "Philippines",
+        "Turkey",
+        "Vietnam",
+        "Iran",
+        "United Kingdom",
+        "France",
+        "Thailand",
+        "Italy",
+        "Egypt"
+    ],
+    "data": {
+        "Internet Users": [
+            854,
+            560,
+            313.32,
+            171.26,
+            149.06,
+            126.08,
+            118.63,
+            116.35,
+            94.2,
+            88,
+            79.13,
+            79,
+            69.11,
+            68.54,
+            67.6,
+            63.54,
+            60.42,
+            57,
+            54.8,
+            49.23
+        ]
+    },
+    "colors": {
+        "Internet Users": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 860
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

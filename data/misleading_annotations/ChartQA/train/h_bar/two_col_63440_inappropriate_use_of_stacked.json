@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Jonny Wilkinson": "#f27979",
+        "Owen Farrell": "#f24800",
+        "Jonathan Webb": "#f2c179",
+        "Rob Andrew": "#f2da00",
+        "Paul Grayson": "#daf279",
+        "Rory Underwood": "#79f200",
+        "George Ford": "#91f279",
+        "Will Greenwood": "#00a510",
+        "Dan Luger": "#52a574",
+        "Josh Lewsey": "#00a574",
+        "Chris Ashton": "#52a5a5",
+        "Manu Tuilagi": "#0074a5",
+        "Neil Back": "#5274a5",
+        "Jason Robinson": "#0010a5",
+        "Jon Callard": "#9179f2",
+        "Toby Flood": "#7900f2",
+        "Mark Cueto": "#da79f2",
+        "Jonny May": "#f200da",
+        "Anthony Watson": "#f279c1",
+        "Jack Nowell": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Jonny Wilkinson": [
+            277.0
+        ],
+        "Owen Farrell": [
+            101.0
+        ],
+        "Jonathan Webb": [
+            99.0
+        ],
+        "Rob Andrew": [
+            85.0
+        ],
+        "Paul Grayson": [
+            84.0
+        ],
+        "Rory Underwood": [
+            49.0
+        ],
+        "George Ford": [
+            42.0
+        ],
+        "Will Greenwood": [
+            35.0
+        ],
+        "Dan Luger": [
+            30.0
+        ],
+        "Josh Lewsey": [
+            30.0
+        ],
+        "Chris Ashton": [
+            30.0
+        ],
+        "Manu Tuilagi": [
+            25.0
+        ],
+        "Neil Back": [
+            25.0
+        ],
+        "Jason Robinson": [
+            25.0
+        ],
+        "Jon Callard": [
+            21.0
+        ],
+        "Toby Flood": [
+            21.0
+        ],
+        "Mark Cueto": [
+            20.0
+        ],
+        "Jonny May": [
+            20.0
+        ],
+        "Anthony Watson": [
+            20.0
+        ],
+        "Jack Nowell": [
+            20.0
+        ]
+    },
+    "colors": {
+        "Jonny Wilkinson": "#f27979",
+        "Owen Farrell": "#f24800",
+        "Jonathan Webb": "#f2c179",
+        "Rob Andrew": "#f2da00",
+        "Paul Grayson": "#daf279",
+        "Rory Underwood": "#79f200",
+        "George Ford": "#91f279",
+        "Will Greenwood": "#00a510",
+        "Dan Luger": "#52a574",
+        "Josh Lewsey": "#00a574",
+        "Chris Ashton": "#52a5a5",
+        "Manu Tuilagi": "#0074a5",
+        "Neil Back": "#5274a5",
+        "Jason Robinson": "#0010a5",
+        "Jon Callard": "#9179f2",
+        "Toby Flood": "#7900f2",
+        "Mark Cueto": "#da79f2",
+        "Jonny May": "#f200da",
+        "Anthony Watson": "#f279c1",
+        "Jack Nowell": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

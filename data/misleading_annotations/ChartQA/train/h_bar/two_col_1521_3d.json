@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "legend": {
+        "Internet Users": "#2876dd"
+    },
+    "categories": [
+        "Eastern Asia",
+        "Southern Asia",
+        "Southeast Asia",
+        "Northern America",
+        "Central & Western Europe",
+        "South America",
+        "Eastern Europe",
+        "Southern Europe",
+        "Western Asia",
+        "Western Africa",
+        "Eastern Africa",
+        "Northern Africa",
+        "Central Asia",
+        "Southern Africa",
+        "Central America",
+        "Northern Europe",
+        "Australia & Oceania",
+        "Central Africa",
+        "Caribbean"
+    ],
+    "data": {
+        "Internet Users": [
+            1102.05,
+            816.93,
+            483.22,
+            398.01,
+            280.38,
+            274.49,
+            179.8,
+            174.92,
+            166.56,
+            155.65,
+            131.29,
+            124.89,
+            43.85,
+            37.9,
+            29.69,
+            29.13,
+            27.06,
+            24.91,
+            21.63
+        ]
+    },
+    "colors": {
+        "Internet Users": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

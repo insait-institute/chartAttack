@@ -1,0 +1,54 @@
+{
+    "title": "Number of out-of-school children of primary school age in different countries",
+    "x_axis": {
+        "categories": [
+            "Kazakhstan",
+            "Kenya",
+            "Korea (Republic)",
+            "Kyrgyz Republic",
+            "Lao PDR",
+            "Lebanon"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Out-of-school children of primary school age": "#C71585"
+    },
+    "data": {
+        "Out-of-school children of primary school age": [
+            11046,
+            1433002,
+            24658,
+            15686,
+            160529,
+            52185
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1433010
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

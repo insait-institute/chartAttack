@@ -1,0 +1,87 @@
+{
+    "title": "Total electricity produced from different non-renewable sources in Brazil",
+    "legend": {
+        "Coal sources": "#B8860B",
+        "Natural gas sources": "#8FBC8F",
+        "Oil sources": "#FF4500"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Coal sources",
+            "color": "#B8860B",
+            "values": [
+                3.15439511621908,
+                3.39809076186881,
+                2.66264743064937,
+                2.49575258207329,
+                2.73116997416461,
+                2.66529043527453,
+                2.50395266814042
+            ]
+        },
+        {
+            "label": "Natural gas sources",
+            "color": "#8FBC8F",
+            "values": [
+                1.16591671204609,
+                3.02001777734484,
+                3.58896175843504,
+                3.59829719025413,
+                4.9719578890859,
+                4.667607863375952,
+                4.35401598237217
+            ]
+        },
+        {
+            "label": "Oil sources",
+            "color": "#FF4500",
+            "values": [
+                4.34753948009515,
+                4.81510343735921,
+                3.88780082795491,
+                2.95192115035722,
+                3.13018611289627,
+                2.89752948269745,
+                2.95084860148282
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

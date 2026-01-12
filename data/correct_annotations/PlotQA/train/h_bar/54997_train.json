@@ -1,0 +1,77 @@
+{
+    "title": "Undisbursed external debt from official creditors",
+    "legend": {
+        "Guyana": "#20B2AA",
+        "Kazakhstan": "#EE82EE",
+        "Togo": "#008080",
+        "Uzbekistan": "#A52A2A"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Guyana": [
+            355403000,
+            250396000,
+            245245000,
+            226581000,
+            192654000
+        ],
+        "Kazakhstan": [
+            737008000.0,
+            582259000.0,
+            418484000.0,
+            451977000.0,
+            3281273000.0
+        ],
+        "Togo": [
+            61678000,
+            77919000,
+            85248000,
+            82131000,
+            265195000
+        ],
+        "Uzbekistan": [
+            1071014000.0,
+            962159000.0,
+            1163004000.0,
+            1236012000.0,
+            1197321000.0
+        ]
+    },
+    "colors": {
+        "Guyana": "#20B2AA",
+        "Kazakhstan": "#EE82EE",
+        "Togo": "#008080",
+        "Uzbekistan": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3281273000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

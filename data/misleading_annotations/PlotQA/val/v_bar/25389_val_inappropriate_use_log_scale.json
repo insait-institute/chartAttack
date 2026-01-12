@@ -1,0 +1,60 @@
+{
+    "title": "Time required to import the goods and servies",
+    "x_axis": {
+        "categories": [
+            "Iraq",
+            "Ireland",
+            "Israel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#00FA9A",
+        "2006": "#F4A460",
+        "2007": "#ADFF2F"
+    },
+    "data": {
+        "2005": [
+            101.0,
+            10.0,
+            12.0
+        ],
+        "2006": [
+            101.0,
+            10.0,
+            12.0
+        ],
+        "2007": [
+            101.0,
+            10.0,
+            12.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

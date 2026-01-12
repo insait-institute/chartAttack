@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of total population having access to electricity",
+    "legend": {
+        "Hungary": "#87CEEB",
+        "Latvia": "#2F4F4F",
+        "Sweden": "#CD853F"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2010",
+        "2012"
+    ],
+    "data": {
+        "Hungary": [
+            100,
+            100,
+            100,
+            100
+        ],
+        "Latvia": [
+            100,
+            100,
+            100,
+            100
+        ],
+        "Sweden": [
+            100,
+            100,
+            100,
+            100
+        ]
+    },
+    "colors": {
+        "Hungary": "#87CEEB",
+        "Latvia": "#2F4F4F",
+        "Sweden": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

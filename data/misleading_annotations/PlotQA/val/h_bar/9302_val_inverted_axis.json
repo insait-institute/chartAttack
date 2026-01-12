@@ -1,0 +1,72 @@
+{
+    "title": "Total electricity produced from different non-renewable sources in Japan",
+    "legend": {
+        "Coal sources": "#FFFF00",
+        "Natural gas sources": "#483D8B",
+        "Oil sources": "#2E8B57"
+    },
+    "categories": [
+        "1967",
+        "1968",
+        "1969",
+        "1970",
+        "1971",
+        "1972"
+    ],
+    "data": {
+        "Coal sources": [
+            32.8205128205128,
+            29.3804008089722,
+            22.0314735336195,
+            16.9391206313416,
+            11.8568816923479,
+            9.77214000469814
+        ],
+        "Natural gas sources": [
+            0.580923076923077,
+            0.546056260341975,
+            0.549992052137975,
+            1.26832018038331,
+            1.436406372421,
+            1.29198966408269
+        ],
+        "Oil sources": [
+            38.22933333333329,
+            42.69718698290129,
+            53.1139723414402,
+            59.2446448703495,
+            62.6273178375555,
+            66.71364810899689
+        ]
+    },
+    "colors": {
+        "Coal sources": "#FFFF00",
+        "Natural gas sources": "#483D8B",
+        "Oil sources": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

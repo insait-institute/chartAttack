@@ -1,0 +1,62 @@
+{
+    "title": "Aggregate attendance in million visitors",
+    "x_axis": {
+        "categories": [
+            "Season 2010/11",
+            "Season 2011/12",
+            "Season 2012/13",
+            "Season 2013/14",
+            "Season 2014/15",
+            "Season 2015/16",
+            "Season 2016/17",
+            "Season 2017/18",
+            "Season 2018/19",
+            "Season 2019/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Aggregate attendance in million visitors"
+    },
+    "legend": {
+        "Season Data": "#2876dd"
+    },
+    "data": {
+        "Season Data": [
+            9.64,
+            9.85,
+            9.68,
+            9.19,
+            9.84,
+            9.71,
+            11.11,
+            11.31,
+            11.12,
+            8.25
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

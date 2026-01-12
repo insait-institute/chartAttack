@@ -1,0 +1,76 @@
+{
+    "title": "Mineral rent of different countries at the time of the survey in 1970",
+    "x_axis": {
+        "categories": [
+            "East Asia (developing only)",
+            "Low & middle income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Coal": "#663399",
+        "Natural Gas": "#228B22",
+        "Oil": "#FFA500",
+        "Other Minerals": "#008080"
+    },
+    "data": {
+        "Coal": [
+            0.000167230716210147,
+            0.007128073615927591,
+            0.0205969609884004,
+            0.000581876263771681,
+            0.000821951908609766
+        ],
+        "Natural Gas": [
+            0.0355605982996487,
+            0.0685986817326189,
+            0.0412196585191207,
+            0.246941291609927,
+            0.210451901501128
+        ],
+        "Oil": [
+            0.456730066745654,
+            0.9921665210591372,
+            0.6349881882007329,
+            11.784152043984,
+            7.943529848421558
+        ],
+        "Other Minerals": [
+            0.3382323182863179,
+            0.6792607395025501,
+            0.7685128423004879,
+            0.0936464419229442,
+            0.0996064440428127
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

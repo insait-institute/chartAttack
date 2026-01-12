@@ -1,0 +1,92 @@
+{
+    "title": "Number of homicides",
+    "x_axis": {
+        "categories": [
+            "1992-93",
+            "1993-94",
+            "1994-95",
+            "1995-96",
+            "1996-97",
+            "1997-98",
+            "1998-99",
+            "1999-00",
+            "2000-01",
+            "2001-02",
+            "2002-03",
+            "2003-04",
+            "2004-05",
+            "2005-06",
+            "2006-07",
+            "2007-08",
+            "2008-09",
+            "2009-10",
+            "2010-11",
+            "2011-12",
+            "2012-13",
+            "2013-14",
+            "2014-15",
+            "2015-16",
+            "2016-17"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of homicides"
+    },
+    "legend": {
+        "Homicides": "#2876dd"
+    },
+    "data": {
+        "Homicides": [
+            34,
+            29,
+            28,
+            32,
+            28,
+            34,
+            33,
+            14,
+            14,
+            16,
+            18,
+            23,
+            22,
+            21,
+            32,
+            21,
+            17,
+            19,
+            11,
+            15,
+            31,
+            12,
+            20,
+            18,
+            18
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

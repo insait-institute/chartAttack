@@ -1,0 +1,57 @@
+{
+    "title": "Nitrous oxide emission due to human activities and industrial production in France",
+    "legend": {
+        "1990": "#f27979",
+        "2000": "#79f200",
+        "2005": "#52a5a5",
+        "2008": "#5200a5"
+    },
+    "categories": [
+        "Nitrous oxide emission due to human activities and industrial production in France"
+    ],
+    "data": {
+        "1990": [
+            70691.3
+        ],
+        "2000": [
+            52074.4
+        ],
+        "2005": [
+            48199.1
+        ],
+        "2008": [
+            45695.7
+        ]
+    },
+    "colors": {
+        "1990": "#f27979",
+        "2000": "#79f200",
+        "2005": "#52a5a5",
+        "2008": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70700
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

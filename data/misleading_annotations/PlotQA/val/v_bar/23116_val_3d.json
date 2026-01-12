@@ -1,0 +1,54 @@
+{
+    "title": "Child (ages 7-14) employment in various industries in 2010",
+    "x_axis": {
+        "categories": [
+            "Agriculture",
+            "Maunufacturing",
+            "Services"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Albania": "#B8860B",
+        "India": "#4169E1"
+    },
+    "data": {
+        "Albania": [
+            83.85,
+            1.26,
+            9.25
+        ],
+        "India": [
+            69.41,
+            13.01,
+            13.01
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

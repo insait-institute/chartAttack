@@ -1,0 +1,60 @@
+{
+    "title": "Voter turnout",
+    "x_axis": {
+        "categories": [
+            "1979",
+            "1984",
+            "1989",
+            "1994",
+            "1999",
+            "2004",
+            "2009",
+            "2014",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Voter turnout"
+    },
+    "legend": {
+        "Voter turnout": "#2876dd"
+    },
+    "data": {
+        "Voter turnout": [
+            61.99,
+            58.98,
+            58.41,
+            56.67,
+            49.51,
+            45.47,
+            42.97,
+            42.61,
+            50.62
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

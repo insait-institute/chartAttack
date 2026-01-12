@@ -1,0 +1,57 @@
+{
+    "title": "Freight insurance provided by countries in 2012 on exported goods ",
+    "legend": {
+        "France": "#f27979",
+        "French Polynesia": "#79f200",
+        "Gambia, The": "#52a5a5",
+        "Georgia": "#5200a5"
+    },
+    "categories": [
+        "Freight insurance provided by countries in 2012 on exported goods "
+    ],
+    "data": {
+        "France": [
+            5.675225136785519
+        ],
+        "French Polynesia": [
+            4.834770489235
+        ],
+        "Gambia, The": [
+            21.7039588775941
+        ],
+        "Georgia": [
+            11.5363206114956
+        ]
+    },
+    "colors": {
+        "France": "#f27979",
+        "French Polynesia": "#79f200",
+        "Gambia, The": "#52a5a5",
+        "Georgia": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

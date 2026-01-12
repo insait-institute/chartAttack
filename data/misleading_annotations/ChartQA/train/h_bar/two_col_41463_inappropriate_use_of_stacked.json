@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Oklahoma": "#f27979",
+        "Mississippi": "#f29100",
+        "Arkansas": "#daf279",
+        "Alabama": "#30f200",
+        "Louisiana": "#52a574",
+        "Tennessee": "#00a5a5",
+        "Nevada": "#5274a5",
+        "West Virginia": "#2100a5",
+        "Kentucky": "#da79f2",
+        "Michigan": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Oklahoma": [
+            231.4
+        ],
+        "Mississippi": [
+            226.7
+        ],
+        "Arkansas": [
+            226.5
+        ],
+        "Alabama": [
+            219.6
+        ],
+        "Louisiana": [
+            207.8
+        ],
+        "Tennessee": [
+            202.8
+        ],
+        "Nevada": [
+            198.1
+        ],
+        "West Virginia": [
+            197.4
+        ],
+        "Kentucky": [
+            196.4
+        ],
+        "Michigan": [
+            193.8
+        ]
+    },
+    "colors": {
+        "Oklahoma": "#f27979",
+        "Mississippi": "#f29100",
+        "Arkansas": "#daf279",
+        "Alabama": "#30f200",
+        "Louisiana": "#52a574",
+        "Tennessee": "#00a5a5",
+        "Nevada": "#5274a5",
+        "West Virginia": "#2100a5",
+        "Kentucky": "#da79f2",
+        "Michigan": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 240
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

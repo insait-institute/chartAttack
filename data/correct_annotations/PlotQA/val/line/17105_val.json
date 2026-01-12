@@ -1,0 +1,73 @@
+{
+    "title": "Trade statistics of Belarus with developing economies in South Asia",
+    "legend": {
+        "Merchandise exports": "#32CD32",
+        "Merchandise imports": "#A0522D"
+    },
+    "x_axis": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "y_axis_label": "Trade with economies of South Asia(%)",
+    "data": [
+        {
+            "label": "Merchandise exports",
+            "color": "#32CD32",
+            "values": [
+                0.586026783758642,
+                0.8524527488438871,
+                0.981024604151369,
+                0.563523341144888,
+                0.408694586364043,
+                0.722602364306957,
+                1.3111678345098
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "color": "#A0522D",
+            "values": [
+                0.52460794862488,
+                0.172681590994099,
+                0.273689063718542,
+                0.243987462119689,
+                0.318412504910629,
+                0.346998631817219,
+                0.320434859998286
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

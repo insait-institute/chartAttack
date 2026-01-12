@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the total female labor force of different age groups participating in production in 2013",
+    "x_axis": {
+        "categories": [
+            "Eritrea",
+            "Estonia",
+            "Ethiopia",
+            "Fiji",
+            "Finland",
+            "France"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ages 15-20": "#FF4500",
+        "Ages 20-50": "#556B2F",
+        "Ages 50+": "#8FBC8F"
+    },
+    "data": {
+        "Ages 15-20": [
+            74.1999969482422,
+            36.9000015258789,
+            74.099998474121,
+            31.7000007629395,
+            52.7000007629395,
+            34.4000015258789
+        ],
+        "Ages 20-50": [
+            80.0,
+            56.2000007629395,
+            78.1999969482422,
+            37.5,
+            55.7000007629395,
+            50.7000007629395
+        ],
+        "Ages 50+": [
+            82.1999969482422,
+            71.9000015258789,
+            80.9000015258789,
+            39.2999992370605,
+            73.4000015258789,
+            66.599998474121
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

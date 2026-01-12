@@ -1,0 +1,64 @@
+{
+    "title": "Net bilateral aid flow in 1981 from different donors of DA Committee",
+    "legend": {
+        "Libya": "#87CEEB",
+        "Nicaragua": "#00FA9A",
+        "Vietnam": "#00FFFF"
+    },
+    "categories": [
+        "France",
+        "Germany",
+        "Italy",
+        "Japan"
+    ],
+    "data": {
+        "Libya": [
+            1190000,
+            310000,
+            190000,
+            280000
+        ],
+        "Nicaragua": [
+            1350000,
+            11950000,
+            5020000,
+            -2660000
+        ],
+        "Vietnam": [
+            13410000,
+            1050000,
+            3810000,
+            910000
+        ]
+    },
+    "colors": {
+        "Libya": "#87CEEB",
+        "Nicaragua": "#00FA9A",
+        "Vietnam": "#00FFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13410000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

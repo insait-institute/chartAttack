@@ -1,0 +1,83 @@
+{
+    "title": "Value added by the service sector to the total GDP of a country",
+    "legend": {
+        "1960": "#000000",
+        "1961": "#000000",
+        "1962": "#050505",
+        "1963": "#000000"
+    },
+    "categories": [
+        "Congo (Republic)",
+        "Cote d'Ivoire",
+        "Dominican Republic",
+        "Ecuador",
+        "Gabon"
+    ],
+    "data": {
+        "1960": [
+            78211412.4247686,
+            212764271.808365,
+            575999900.0,
+            404867328.652311,
+            47952150.8910483
+        ],
+        "1961": [
+            93276708.477178,
+            245531266.610242,
+            568499900.0,
+            387953412.141637,
+            55693991.0311996
+        ],
+        "1962": [
+            103747933.550583,
+            258849623.897948,
+            714500000.0,
+            376968896.497028,
+            61260245.7287298
+        ],
+        "1963": [
+            105533291.253996,
+            313039163.639901,
+            821599900.0,
+            403401166.557218,
+            27471313.5710246
+        ]
+    },
+    "colors": {
+        "1960": "#000000",
+        "1961": "#008B8B",
+        "1962": "#8B4513",
+        "1963": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 821599900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#000000",
+        "1961": "#000000",
+        "1962": "#050505",
+        "1963": "#000000"
+    }
+}

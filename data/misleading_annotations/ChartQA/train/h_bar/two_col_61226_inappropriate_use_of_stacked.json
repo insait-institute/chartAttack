@@ -1,0 +1,127 @@
+{
+    "title": "",
+    "legend": {
+        "Fashion & Clothing": "#f27979",
+        "Personal Care": "#f25000",
+        "Food": "#f2c979",
+        "Footwear & Leather": "#f2f200",
+        "Baby Ware": "#c9f279",
+        "Furniture & Decoration": "#50f200",
+        "Consumer Electronics": "#79f279",
+        "Car Parts & Accessories": "#00a537",
+        "Petrol": "#52a58a",
+        "Books & Magazines": "#00a5a5",
+        "DIY & Gardening": "#528aa5",
+        "Toys & Games": "#0037a5",
+        "Sport & Leisure": "#5252a5",
+        "Optical": "#3700a5",
+        "Pet Care": "#c979f2",
+        "Home Ware": "#f200f2",
+        "Telecom": "#f279c9",
+        "Jewelry & Watches": "#f20050"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Fashion & Clothing": [
+            32.0
+        ],
+        "Personal Care": [
+            15.0
+        ],
+        "Food": [
+            15.0
+        ],
+        "Footwear & Leather": [
+            13.0
+        ],
+        "Baby Ware": [
+            12.0
+        ],
+        "Furniture & Decoration": [
+            12.0
+        ],
+        "Consumer Electronics": [
+            10.0
+        ],
+        "Car Parts & Accessories": [
+            9.0
+        ],
+        "Petrol": [
+            9.0
+        ],
+        "Books & Magazines": [
+            8.0
+        ],
+        "DIY & Gardening": [
+            7.0
+        ],
+        "Toys & Games": [
+            7.0
+        ],
+        "Sport & Leisure": [
+            7.0
+        ],
+        "Optical": [
+            4.0
+        ],
+        "Pet Care": [
+            4.0
+        ],
+        "Home Ware": [
+            3.0
+        ],
+        "Telecom": [
+            3.0
+        ],
+        "Jewelry & Watches": [
+            2.0
+        ]
+    },
+    "colors": {
+        "Fashion & Clothing": "#f27979",
+        "Personal Care": "#f25000",
+        "Food": "#f2c979",
+        "Footwear & Leather": "#f2f200",
+        "Baby Ware": "#c9f279",
+        "Furniture & Decoration": "#50f200",
+        "Consumer Electronics": "#79f279",
+        "Car Parts & Accessories": "#00a537",
+        "Petrol": "#52a58a",
+        "Books & Magazines": "#00a5a5",
+        "DIY & Gardening": "#528aa5",
+        "Toys & Games": "#0037a5",
+        "Sport & Leisure": "#5252a5",
+        "Optical": "#3700a5",
+        "Pet Care": "#c979f2",
+        "Home Ware": "#f200f2",
+        "Telecom": "#f279c9",
+        "Jewelry & Watches": "#f20050"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

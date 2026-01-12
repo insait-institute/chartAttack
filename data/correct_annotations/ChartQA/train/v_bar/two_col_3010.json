@@ -1,0 +1,70 @@
+{
+    "title": "Price in U.S. dollars per million Btu",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*",
+            "2030*"
+        ]
+    },
+    "y_axis": {
+        "label": "Price in U.S. dollars per million Btu"
+    },
+    "legend": {
+        "2013-2030": "#2876dd"
+    },
+    "data": {
+        "2013-2030": [
+            15.04,
+            16,
+            10.9,
+            7.4,
+            8.6,
+            10.7,
+            10.6,
+            8.7,
+            8.9,
+            8.9,
+            8.8,
+            8.8,
+            8.7,
+            8.5
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

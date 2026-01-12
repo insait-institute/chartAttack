@@ -1,0 +1,69 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "5-10 years": "#2876dd",
+        "11-15 years": "#0f283e"
+    },
+    "data": {
+        "5-10 years": [
+            48.3,
+            45.3,
+            48.8,
+            50.6,
+            50.6,
+            53.5,
+            50.9,
+            49.5
+        ],
+        "11-15 years": [
+            26.6,
+            24.9,
+            27,
+            32.4,
+            29.4,
+            35.3,
+            29.7,
+            30
+        ]
+    },
+    "type": "v_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

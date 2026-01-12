@@ -1,0 +1,57 @@
+{
+    "title": "Different expenses of government of different countries in 2006",
+    "legend": {
+        "Salary of employees": "#f27979",
+        "Custom duties": "#79f200",
+        "Interest Payments": "#52a5a5",
+        "Other expenses": "#5200a5"
+    },
+    "categories": [
+        "Different expenses of government of different countries in 2006"
+    ],
+    "data": {
+        "Salary of employees": [
+            1405498000000.0
+        ],
+        "Custom duties": [
+            -195000000.0
+        ],
+        "Interest Payments": [
+            917056000000.0
+        ],
+        "Other expenses": [
+            10474810000000.0
+        ]
+    },
+    "colors": {
+        "Salary of employees": "#f27979",
+        "Custom duties": "#79f200",
+        "Interest Payments": "#52a5a5",
+        "Other expenses": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10474810000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

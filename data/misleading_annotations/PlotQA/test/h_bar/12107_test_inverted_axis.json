@@ -1,0 +1,82 @@
+{
+    "title": "Total amount spent by the government for social causes",
+    "legend": {
+        "Canada": "#40E0D0",
+        "Czech Republic": "#008B8B",
+        "Honduras": "#8FBC8F",
+        "Ireland": "#CD5C5C"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Canada": [
+            225734000000.0,
+            229843000000.0,
+            252613000000.0,
+            253931000000.0,
+            266572000000.0,
+            283140000000.0
+        ],
+        "Czech Republic": [
+            961265000000.0,
+            993269000000.0,
+            1075072000000.0,
+            1147135000000.0,
+            1193600000000.0,
+            1258148000000.0
+        ],
+        "Honduras": [
+            29852600000.0,
+            31560650000.0,
+            36531900000.0,
+            41068250000.0,
+            52374771000.0,
+            57855056000.0
+        ],
+        "Ireland": [
+            41712940000.0,
+            44825650000.0,
+            50112420000.0,
+            55105590000.0,
+            61553680000.0,
+            67718260000.0
+        ]
+    },
+    "colors": {
+        "Canada": "#40E0D0",
+        "Czech Republic": "#008B8B",
+        "Honduras": "#8FBC8F",
+        "Ireland": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1258148000000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

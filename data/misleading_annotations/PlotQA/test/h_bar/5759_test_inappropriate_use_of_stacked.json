@@ -1,0 +1,62 @@
+{
+    "title": "Comparison between mobile cellular and fixed telephone subscriptions in Kuwait",
+    "legend": {
+        "1989": "#f27979",
+        "1990": "#c1f200",
+        "1991": "#52a574",
+        "1992": "#0042a5",
+        "1993": "#da79f2"
+    },
+    "categories": [
+        "Comparison between mobile cellular and fixed telephone subscriptions in Kuwait"
+    ],
+    "data": {
+        "1989": [
+            1.0926456690925
+        ],
+        "1990": [
+            1.00666383787736
+        ],
+        "1991": [
+            2.15037524047946
+        ],
+        "1992": [
+            2.69907532854627
+        ],
+        "1993": [
+            3.65698669209629
+        ]
+    },
+    "colors": {
+        "1989": "#f27979",
+        "1990": "#c1f200",
+        "1991": "#52a574",
+        "1992": "#0042a5",
+        "1993": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

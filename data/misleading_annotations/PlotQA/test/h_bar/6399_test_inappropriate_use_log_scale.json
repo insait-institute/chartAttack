@@ -1,0 +1,55 @@
+{
+    "title": "Total enrollments of female students in schools as per the survey of 1977 conducted in different countries",
+    "legend": {
+        "Middle income": "#483D8B",
+        "Libya": "#F0E68C"
+    },
+    "categories": [
+        "Pre-primary schools",
+        "Primary schools",
+        "Secondary schools",
+        "Tertiary schools"
+    ],
+    "data": {
+        "Middle income": [
+            14.7833099365234,
+            107.652458190918,
+            47.1041793823242,
+            6.29481983184814
+        ],
+        "Libya": [
+            5.19015,
+            131.41866,
+            73.0244,
+            9.80387
+        ]
+    },
+    "colors": {
+        "Middle income": "#483D8B",
+        "Libya": "#F0E68C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

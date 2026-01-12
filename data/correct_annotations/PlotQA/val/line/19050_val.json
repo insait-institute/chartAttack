@@ -1,0 +1,91 @@
+{
+    "title": "Total electricity produced from different non-renewable sources in Central Europe",
+    "legend": {
+        "Coal sources": "#CD853F",
+        "Natural gas sources": "#4682B4",
+        "Oil sources": "#66CDAA"
+    },
+    "x_axis": [
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Coal sources",
+            "color": "#CD853F",
+            "values": [
+                54.3923205739212,
+                54.0230791607421,
+                53.6936832007147,
+                53.7952699316069,
+                55.7004460551993,
+                55.5210761425716,
+                59.1707978877556,
+                58.8968122422233
+            ]
+        },
+        {
+            "label": "Natural gas sources",
+            "color": "#4682B4",
+            "values": [
+                9.350544573951948,
+                8.45678183838993,
+                8.8480942292478,
+                8.93823481962659,
+                10.0808475048787,
+                9.81508610632007,
+                8.17045678952187,
+                7.59896696604093
+            ]
+        },
+        {
+            "label": "Oil sources",
+            "color": "#66CDAA",
+            "values": [
+                6.507011780203888,
+                5.92021052713329,
+                3.70481196039917,
+                3.91436340281667,
+                6.49893132608493,
+                5.961650874293669,
+                4.85898280916195,
+                5.449125647252308
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

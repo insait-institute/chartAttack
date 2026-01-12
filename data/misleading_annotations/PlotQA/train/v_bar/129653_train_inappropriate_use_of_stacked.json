@@ -1,0 +1,67 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1970",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Canada": "#f27979",
+        "France": "#c1f200",
+        "Germany": "#52a574",
+        "Hungary": "#0042a5",
+        "Italy": "#da79f2"
+    },
+    "data": {
+        "Canada": [
+            17.9264194890985
+        ],
+        "France": [
+            30.552641974636
+        ],
+        "Germany": [
+            74.463599236975
+        ],
+        "Hungary": [
+            65.0323201760418
+        ],
+        "Italy": [
+            4.90488943826398
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Canada": "#f27979",
+        "France": "#c1f200",
+        "Germany": "#52a574",
+        "Hungary": "#0042a5",
+        "Italy": "#da79f2"
+    }
+}

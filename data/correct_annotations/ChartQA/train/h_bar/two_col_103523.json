@@ -1,0 +1,79 @@
+{
+    "title": "",
+    "legend": {
+        "Share of respondents": "#2876dd"
+    },
+    "categories": [
+        "Paraguay",
+        "Bolivia",
+        "Guatemala",
+        "Peru",
+        "Regional average",
+        "Mexico",
+        "Panama",
+        "Brazil",
+        "Ecuador",
+        "Colombia",
+        "Argentina",
+        "Honduras",
+        "Nicaragua",
+        "Dominican Republic",
+        "Chile",
+        "Venezuela",
+        "Costa Rica",
+        "Uruguay",
+        "El Salvador"
+    ],
+    "data": {
+        "Share of respondents": [
+            49,
+            31.9,
+            19.3,
+            10.3,
+            7.5,
+            4.7,
+            3.6,
+            3.4,
+            2.5,
+            1.3,
+            1.3,
+            1.1,
+            0.5,
+            0.4,
+            0.3,
+            0.1,
+            0,
+            0,
+            0
+        ]
+    },
+    "colors": {
+        "Regional average": "#C0C0C0",
+        "Others": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Total goods and services exported to different countries",
+    "x_axis": {
+        "categories": [
+            "Argentina",
+            "Australia",
+            "Austria",
+            "Bangladesh"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#6495ED",
+        "1961": "#DAA520",
+        "1962": "#F4A460",
+        "1963": "#FF8C00"
+    },
+    "data": {
+        "1960": [
+            0.0100000026,
+            2155000000.0,
+            2895947520.0,
+            2051269000.0
+        ],
+        "1961": [
+            0.0100000026,
+            2176000000.0,
+            3178302464.0,
+            2493353000.0
+        ],
+        "1962": [
+            0.0100000026,
+            2476000000.0,
+            3431697920.0,
+            2621217000.0
+        ],
+        "1963": [
+            0.0200000051,
+            2497000000.0,
+            3706812928.0,
+            2549123300.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3706812930
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

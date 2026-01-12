@@ -1,0 +1,63 @@
+{
+    "title": "",
+    "legend": {
+        "Brand Value": "#2876dd"
+    },
+    "categories": [
+        "Tesco",
+        "Sainsbury's",
+        "Morrisons",
+        "Waitrose",
+        "Tate & Lyle",
+        "Primark",
+        "John Lewis",
+        "Magnum",
+        "Booker Group",
+        "Twinings",
+        "Ovaltine"
+    ],
+    "data": {
+        "Brand Value": [
+            11052,
+            6694,
+            4826,
+            2228,
+            2204,
+            2056,
+            1545,
+            1273,
+            1109,
+            1048,
+            948
+        ]
+    },
+    "colors": {
+        "Brand Value": "#2876dd"
+    },
+    "y_label": "Brand value in million U.S. dollars",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

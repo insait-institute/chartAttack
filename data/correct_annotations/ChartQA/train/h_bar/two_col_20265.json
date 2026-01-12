@@ -1,0 +1,90 @@
+{
+    "title": "Median age of the population",
+    "categories": [
+        "South West",
+        "Wales",
+        "Scotland",
+        "South East",
+        "East England",
+        "North East",
+        "East Midlands",
+        "United Kingdom",
+        "North West",
+        "Yorkshire and the Humber",
+        "West Midlands",
+        "Northern Ireland",
+        "London"
+    ],
+    "data": {
+        "Population": [
+            44.1,
+            42.4,
+            42.1,
+            41.9,
+            41.8,
+            41.7,
+            41.4,
+            40.4,
+            40.3,
+            40.2,
+            39.6,
+            39.2,
+            35.8
+        ]
+    },
+    "colors": {
+        "South West": "#2876dd",
+        "Wales": "#2876dd",
+        "Scotland": "#2876dd",
+        "South East": "#2876dd",
+        "East England": "#2876dd",
+        "North East": "#2876dd",
+        "East Midlands": "#2876dd",
+        "United Kingdom": "#7F7F7F",
+        "North West": "#2876dd",
+        "Yorkshire and the Humber": "#2876dd",
+        "West Midlands": "#2876dd",
+        "Northern Ireland": "#2876dd",
+        "London": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "South West": "#2876dd",
+        "Wales": "#2876dd",
+        "Scotland": "#2876dd",
+        "South East": "#2876dd",
+        "East England": "#2876dd",
+        "North East": "#2876dd",
+        "East Midlands": "#2876dd",
+        "United Kingdom": "#7F7F7F",
+        "North West": "#2876dd",
+        "Yorkshire and the Humber": "#2876dd",
+        "West Midlands": "#2876dd",
+        "Northern Ireland": "#2876dd",
+        "London": "#2876dd"
+    }
+}

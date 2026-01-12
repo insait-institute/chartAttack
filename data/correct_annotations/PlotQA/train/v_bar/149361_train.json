@@ -1,0 +1,52 @@
+{
+    "title": "Number of beds in hospitals of different countries",
+    "x_axis": {
+        "categories": [
+            "Hungary",
+            "Indonesia",
+            "Iraq",
+            "Ireland",
+            "Israel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Hospital beds": "#20B2AA"
+    },
+    "data": {
+        "Hospital beds": [
+            7.18,
+            0.6,
+            1.3,
+            3.15,
+            3.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

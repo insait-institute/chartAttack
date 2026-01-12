@@ -1,0 +1,57 @@
+{
+    "title": "Prevalence of weight issues in children under 5 in different countries in 2004",
+    "x_axis": {
+        "categories": [
+            "Equatorial Guinea",
+            "Fiji",
+            "Indonesia",
+            "Jamaica"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Overweight": "#6A5ACD",
+        "Low weight for height": "#FFFF00"
+    },
+    "data": {
+        "Overweight": [
+            8.300000190734862,
+            5.09999990463257,
+            5.09999990463257,
+            7.5
+        ],
+        "Low weight for height": [
+            2.79999995231628,
+            6.300000190734861,
+            14.3999996185303,
+            4.800000190734862
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

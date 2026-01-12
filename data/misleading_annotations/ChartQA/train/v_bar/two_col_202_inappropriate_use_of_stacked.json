@@ -1,0 +1,92 @@
+{
+    "title": "Number of registered voters in millions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of registered voters in millions"
+    },
+    "legend": {
+        "1996": "#f27979",
+        "2000": "#f29100",
+        "2004": "#daf279",
+        "2008": "#30f200",
+        "2010": "#52a574",
+        "2012": "#00a5a5",
+        "2014": "#5274a5",
+        "2016": "#2100a5",
+        "2018": "#da79f2",
+        "2020": "#f20091"
+    },
+    "data": {
+        "1996": [
+            127.66
+        ],
+        "2000": [
+            129.55
+        ],
+        "2004": [
+            142.07
+        ],
+        "2008": [
+            146.31
+        ],
+        "2010": [
+            137.26
+        ],
+        "2012": [
+            153.16
+        ],
+        "2014": [
+            142.17
+        ],
+        "2016": [
+            157.6
+        ],
+        "2018": [
+            153.07
+        ],
+        "2020": [
+            168.31
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "1996": "#f27979",
+        "2000": "#f29100",
+        "2004": "#daf279",
+        "2008": "#30f200",
+        "2010": "#52a574",
+        "2012": "#00a5a5",
+        "2014": "#5274a5",
+        "2016": "#2100a5",
+        "2018": "#da79f2",
+        "2020": "#f20091"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Number of suicides",
+    "x_axis": {
+        "categories": [
+            "1-14 years",
+            "15-44 years",
+            "45-64 years",
+            "65-74 years",
+            "75 years and older"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of suicides"
+    },
+    "legend": {
+        "Men": "#2876dd",
+        "Women": "#0f283e"
+    },
+    "data": {
+        "Men": [
+            5,
+            354,
+            274,
+            124,
+            117
+        ],
+        "Women": [
+            1,
+            184,
+            130,
+            39,
+            42
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 360
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

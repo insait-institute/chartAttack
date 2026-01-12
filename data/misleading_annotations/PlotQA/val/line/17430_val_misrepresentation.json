@@ -1,0 +1,104 @@
+{
+    "title": "Percentage of population using safely managed services in Central Europe",
+    "legend": {
+        "Sanitation services": "#8B4513",
+        "Drinking water services": "#B03060"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "% of population",
+    "data": [
+        {
+            "label": "Sanitation services",
+            "color": "#8B4513",
+            "values": [
+                87.9771259104278,
+                88.36829713077191,
+                88.7421923871995,
+                89.1072246811913,
+                89.4905487309577,
+                89.8384658694037,
+                90.2796265223908,
+                90.6859562471131
+            ]
+        },
+        {
+            "label": "Drinking water services",
+            "color": "#B03060",
+            "values": [
+                93.2625703582361,
+                93.5881093330175,
+                93.9279859161632,
+                94.25180348402841,
+                94.5936651727388,
+                94.8713957338815,
+                95.2386399492915,
+                95.5999370468566
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 80,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Sanitation services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Drinking water services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

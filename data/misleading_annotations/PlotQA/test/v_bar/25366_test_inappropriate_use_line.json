@@ -1,0 +1,64 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1974",
+    "x_axis": {
+        "categories": [
+            "OECD members",
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Coal sources": "#4682B4",
+        "Natural gas sources": "#5F9EA0",
+        "Oil sources": "#483D8B"
+    },
+    "data": {
+        "Coal sources": [
+            36.0416783523181,
+            46.135381098463,
+            62.1674915002632,
+            62.60290435198979
+        ],
+        "Natural gas sources": [
+            11.7005095533474,
+            5.498155693595551,
+            0.142378554534272,
+            0.14337575501572
+        ],
+        "Oil sources": [
+            23.7358002504846,
+            7.1951588687098,
+            2.82160267507856,
+            2.84136480537443
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

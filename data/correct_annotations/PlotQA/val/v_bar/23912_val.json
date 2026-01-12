@@ -1,0 +1,57 @@
+{
+    "title": "Cost of damage due to water depletion in different countries",
+    "x_axis": {
+        "categories": [
+            "High income",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#A0522D",
+        "1971": "#DAA520"
+    },
+    "data": {
+        "1970": [
+            0.6421754109743321,
+            0.5230736776881599,
+            2.23790529583685,
+            1.47296636701913
+        ],
+        "1971": [
+            0.6961704194712109,
+            0.534904355469633,
+            2.26214736164246,
+            1.38033351761709
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Gate receipts in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Gate receipts in million U.S. dollars"
+    },
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#f28400",
+        "2011": "#e7f279",
+        "2012": "#58f200",
+        "2013": "#52a561",
+        "2014": "#00a578",
+        "2015": "#528fa5",
+        "2016": "#001ea5",
+        "2017": "#a579f2",
+        "2018": "#dc00f2",
+        "2019": "#f279bb"
+    },
+    "data": {
+        "2009": [
+            82.0
+        ],
+        "2010": [
+            107.0
+        ],
+        "2011": [
+            110.0
+        ],
+        "2012": [
+            129.0
+        ],
+        "2013": [
+            129.0
+        ],
+        "2014": [
+            165.0
+        ],
+        "2015": [
+            172.0
+        ],
+        "2016": [
+            180.0
+        ],
+        "2017": [
+            180.0
+        ],
+        "2018": [
+            176.0
+        ],
+        "2019": [
+            154.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 180
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#f28400",
+        "2011": "#e7f279",
+        "2012": "#58f200",
+        "2013": "#52a561",
+        "2014": "#00a578",
+        "2015": "#528fa5",
+        "2016": "#001ea5",
+        "2017": "#a579f2",
+        "2018": "#dc00f2",
+        "2019": "#f279bb"
+    }
+}

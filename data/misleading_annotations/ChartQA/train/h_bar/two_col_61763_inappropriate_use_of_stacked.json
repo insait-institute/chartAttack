@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Italy": "#f27979",
+        "France": "#c1f200",
+        "Netherlands": "#52a574",
+        "Spain": "#0042a5",
+        "Russia": "#da79f2"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Italy": [
+            125.7
+        ],
+        "France": [
+            121.6
+        ],
+        "Netherlands": [
+            41.2
+        ],
+        "Spain": [
+            39.5
+        ],
+        "Russia": [
+            39.3
+        ]
+    },
+    "colors": {
+        "Italy": "#f27979",
+        "France": "#c1f200",
+        "Netherlands": "#52a574",
+        "Spain": "#0042a5",
+        "Russia": "#da79f2"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

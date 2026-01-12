@@ -1,0 +1,80 @@
+{
+    "title": "Receiving yards",
+    "legend": {
+        "Receiving yards": "#2876dd"
+    },
+    "categories": [
+        "Derrick Mason",
+        "Todd Heap",
+        "Torrey Smith",
+        "Mark Clayton",
+        "Ray Rice",
+        "Qadry Ismail",
+        "Travis Taylor",
+        "Anquan Boldin",
+        "Michael Jackson",
+        "Steve Smith",
+        "Derrick Alexander",
+        "Mark Andrews",
+        "Dennis Pitta",
+        "Jermaine Lewis",
+        "Mike Wallace",
+        "Shannon Sharpe",
+        "Kamar Aiken",
+        "Willie Snead",
+        "Jamal Lewis",
+        "Marquise Brown"
+    ],
+    "data": {
+        "Receiving yards": [
+            5777,
+            5492,
+            3591,
+            3116,
+            3034,
+            2819,
+            2758,
+            2645,
+            2596,
+            2534,
+            2108,
+            2105,
+            2098,
+            1984,
+            1765,
+            1621,
+            1539,
+            1422,
+            1365,
+            1353
+        ]
+    },
+    "colors": {
+        "Receiving yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5780
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

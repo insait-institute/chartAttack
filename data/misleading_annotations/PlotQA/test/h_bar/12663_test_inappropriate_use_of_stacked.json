@@ -1,0 +1,62 @@
+{
+    "title": "Annual urban population growth",
+    "legend": {
+        "1990": "#f27979",
+        "1991": "#c1f200",
+        "1992": "#52a574",
+        "1993": "#0042a5",
+        "1994": "#da79f2"
+    },
+    "categories": [
+        "Annual urban population growth"
+    ],
+    "data": {
+        "1990": [
+            4.74539324458249
+        ],
+        "1991": [
+            4.71441058100582
+        ],
+        "1992": [
+            3.1690464084638
+        ],
+        "1993": [
+            2.7372634655562
+        ],
+        "1994": [
+            2.69913640594526
+        ]
+    },
+    "colors": {
+        "1990": "#f27979",
+        "1991": "#c1f200",
+        "1992": "#52a574",
+        "1993": "#0042a5",
+        "1994": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Amount of CO2 emitted from gaseous fuel consumption by different countries in 1984",
+    "legend": {
+        "CO2 emissions from gaseous fuel consumption": "#CD5C5C"
+    },
+    "categories": [
+        "Guatemala",
+        "Hungary",
+        "India",
+        "Indonesia",
+        "Iran",
+        "Iraq"
+    ],
+    "data": {
+        "CO2 emissions from gaseous fuel consumption": [
+            33.003,
+            19163.742,
+            6175.228,
+            24407.552,
+            25159.287,
+            924.084
+        ]
+    },
+    "colors": {
+        "CO2 emissions from gaseous fuel consumption": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25160
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

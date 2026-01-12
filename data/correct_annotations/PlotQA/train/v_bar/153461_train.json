@@ -1,0 +1,50 @@
+{
+    "title": "Individuals using the Internet in different countries in the year 1992",
+    "x_axis": {
+        "categories": [
+            "Portugal",
+            "Russian Federation",
+            "Singapore",
+            "South Africa"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Internet users": "#00FF00"
+    },
+    "data": {
+        "Internet users": [
+            0.250426501374491,
+            0.0006725321739560153,
+            0.471368155498698,
+            0.038869105953555
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

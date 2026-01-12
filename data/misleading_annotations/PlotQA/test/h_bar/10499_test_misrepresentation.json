@@ -1,0 +1,77 @@
+{
+    "title": "Total amount earned by exporting goods and services out of the country",
+    "legend": {
+        "Denmark": "#2F4F4F",
+        "Paraguay": "#BDB76B",
+        "Turkey": "#A020F0"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "data": {
+        "Denmark": [
+            66401769554.9846,
+            71983200928.6633,
+            74307361446.4548
+        ],
+        "Paraguay": [
+            3783488393.66743,
+            4228778681.41246,
+            4874146812.52745
+        ],
+        "Turkey": [
+            35361857918.8683,
+            40729735660.0516,
+            43981812423.365
+        ]
+    },
+    "colors": {
+        "Denmark": "#2F4F4F",
+        "Paraguay": "#BDB76B",
+        "Turkey": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 74307361450
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Denmark": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Paraguay": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Turkey": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of unemployed female labor force of a country",
+    "x_axis": {
+        "categories": [
+            "Costa Rica",
+            "Finland",
+            "France",
+            "Hong Kong"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#20B2AA",
+        "1981": "#4682B4",
+        "1982": "#B8860B"
+    },
+    "data": {
+        "1980": [
+            7.800000190734861,
+            4.59999990463257,
+            9.5,
+            3.40000009536743
+        ],
+        "1981": [
+            10.3999996185303,
+            4.59999990463257,
+            10.6000003814697,
+            3.09999990463257
+        ],
+        "1982": [
+            11.3999996185303,
+            5.09999990463257,
+            11.1999998092651,
+            3.09999990463257
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

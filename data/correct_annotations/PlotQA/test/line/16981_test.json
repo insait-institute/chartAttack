@@ -1,0 +1,58 @@
+{
+    "title": "Percentage share of income between different subgroups of population of Haiti",
+    "legend": {
+        "Highest 10% of population": "#FFA500",
+        "Lowest 10% of population": "#CD5C5C"
+    },
+    "x_axis": [
+        "2001",
+        "2012"
+    ],
+    "y_axis_label": "Income share held (as % of total income)",
+    "data": [
+        {
+            "label": "Highest 10% of population",
+            "color": "#FFA500",
+            "values": [
+                47.82,
+                48.21
+            ]
+        },
+        {
+            "label": "Lowest 10% of population",
+            "color": "#CD5C5C",
+            "values": [
+                0.64,
+                0.55
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

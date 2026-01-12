@@ -1,0 +1,142 @@
+{
+    "title": "",
+    "legend": {
+        "Tim Brown": "#f27979",
+        "Marcus Allen": "#f24500",
+        "Fred Biletnikoff": "#f2be79",
+        "Cliff Branch": "#f2cf00",
+        "Clem Daniels": "#e0f279",
+        "Pete Banaszak": "#8af200",
+        "Art Powell": "#9bf279",
+        "Warren Wells": "#00f200",
+        "Todd Christensen": "#52a56a",
+        "Mark van Eeghen": "#00a55e",
+        "Raymond Chester": "#52a599",
+        "Tyrone Wheatley": "#008ea5",
+        "Dave Casper": "#5282a5",
+        "Zack Crockett": "#002fa5",
+        "Charlie Smith": "#5252a5",
+        "Jerry Porter": "#2f00a5",
+        "James Jett": "#be79f2",
+        "Darren McFadden": "#cf00f2",
+        "Rickey Dudley": "#f279e0",
+        "Billy Cannon": "#f2008a",
+        "Clarence Davis": "#f2799b"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Tim Brown": [
+            104.0
+        ],
+        "Marcus Allen": [
+            98.0
+        ],
+        "Fred Biletnikoff": [
+            77.0
+        ],
+        "Cliff Branch": [
+            67.0
+        ],
+        "Clem Daniels": [
+            54.0
+        ],
+        "Pete Banaszak": [
+            52.0
+        ],
+        "Art Powell": [
+            50.0
+        ],
+        "Warren Wells": [
+            43.0
+        ],
+        "Todd Christensen": [
+            42.0
+        ],
+        "Mark van Eeghen": [
+            39.0
+        ],
+        "Raymond Chester": [
+            37.0
+        ],
+        "Tyrone Wheatley": [
+            37.0
+        ],
+        "Dave Casper": [
+            36.0
+        ],
+        "Zack Crockett": [
+            36.0
+        ],
+        "Charlie Smith": [
+            34.0
+        ],
+        "Jerry Porter": [
+            30.0
+        ],
+        "James Jett": [
+            30.0
+        ],
+        "Darren McFadden": [
+            30.0
+        ],
+        "Rickey Dudley": [
+            29.0
+        ],
+        "Billy Cannon": [
+            28.0
+        ],
+        "Clarence Davis": [
+            28.0
+        ]
+    },
+    "colors": {
+        "Tim Brown": "#f27979",
+        "Marcus Allen": "#f24500",
+        "Fred Biletnikoff": "#f2be79",
+        "Cliff Branch": "#f2cf00",
+        "Clem Daniels": "#e0f279",
+        "Pete Banaszak": "#8af200",
+        "Art Powell": "#9bf279",
+        "Warren Wells": "#00f200",
+        "Todd Christensen": "#52a56a",
+        "Mark van Eeghen": "#00a55e",
+        "Raymond Chester": "#52a599",
+        "Tyrone Wheatley": "#008ea5",
+        "Dave Casper": "#5282a5",
+        "Zack Crockett": "#002fa5",
+        "Charlie Smith": "#5252a5",
+        "Jerry Porter": "#2f00a5",
+        "James Jett": "#be79f2",
+        "Darren McFadden": "#cf00f2",
+        "Rickey Dudley": "#f279e0",
+        "Billy Cannon": "#f2008a",
+        "Clarence Davis": "#f2799b"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

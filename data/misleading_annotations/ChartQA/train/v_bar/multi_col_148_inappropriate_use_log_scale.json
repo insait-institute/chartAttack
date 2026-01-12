@@ -1,0 +1,96 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Footwear": "#2876dd",
+        "Apparel": "#0f283e",
+        "Equipment": "#bababa"
+    },
+    "data": {
+        "Footwear": [
+            4694,
+            4610,
+            5111,
+            5941,
+            6751,
+            7495,
+            8506,
+            9299,
+            9684,
+            9322,
+            10045,
+            9329
+        ],
+        "Apparel": [
+            1740,
+            1740,
+            2103,
+            2993,
+            3591,
+            3937,
+            4410,
+            4746,
+            4886,
+            4938,
+            5260,
+            4639
+        ],
+        "Equipment": [
+            344,
+            346,
+            365,
+            604,
+            816,
+            867,
+            824,
+            719,
+            646,
+            595,
+            597,
+            516
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10050
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

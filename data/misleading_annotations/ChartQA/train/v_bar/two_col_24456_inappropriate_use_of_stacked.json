@@ -1,0 +1,71 @@
+{
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of families"
+    },
+    "legend": {
+        "2015": "#f27979",
+        "2016": "#f2f200",
+        "2017": "#79f279",
+        "2018": "#00a5a5",
+        "2019": "#5252a5",
+        "2020": "#a500a5"
+    },
+    "data": {
+        "2015": [
+            29.0
+        ],
+        "2016": [
+            247.0
+        ],
+        "2017": [
+            327.0
+        ],
+        "2018": [
+            222.0
+        ],
+        "2019": [
+            95.0
+        ],
+        "2020": [
+            127.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 330
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2015": "#f27979",
+        "2016": "#f2f200",
+        "2017": "#79f279",
+        "2018": "#00a5a5",
+        "2019": "#5252a5",
+        "2020": "#a500a5"
+    }
+}

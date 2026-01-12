@@ -1,0 +1,72 @@
+{
+    "title": "Net enrollment of males recorded in primary and secondary education in year 1982",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bahrain": "#f27979",
+        "Barbados": "#f2f200",
+        "Belgium": "#79f279",
+        "Brunei Darussalam": "#00a5a5",
+        "Burkina Faso": "#5252a5",
+        "Burundi": "#a500a5"
+    },
+    "data": {
+        "Bahrain": [
+            84.19965
+        ],
+        "Barbados": [
+            97.78775
+        ],
+        "Belgium": [
+            98.04192
+        ],
+        "Brunei Darussalam": [
+            77.16877
+        ],
+        "Burkina Faso": [
+            21.00503
+        ],
+        "Burundi": [
+            30.0491
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Bahrain": "#f27979",
+        "Barbados": "#f2f200",
+        "Belgium": "#79f279",
+        "Brunei Darussalam": "#00a5a5",
+        "Burkina Faso": "#5252a5",
+        "Burundi": "#a500a5"
+    }
+}

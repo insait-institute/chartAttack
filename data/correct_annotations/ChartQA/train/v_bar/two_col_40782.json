@@ -1,0 +1,74 @@
+{
+    "title": "Estimates in U.S. dollars per million Btu",
+    "x_axis": {
+        "categories": [
+            "1970",
+            "1975",
+            "1980",
+            "1985",
+            "1990",
+            "1995",
+            "2000",
+            "2005",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Estimates in U.S. dollars per million Btu"
+    },
+    "legend": {
+        "Series 1": "#2876dd"
+    },
+    "data": {
+        "Series 1": [
+            1.34,
+            1.55,
+            2.26,
+            2.47,
+            1.32,
+            1.4,
+            1.57,
+            3.1,
+            3.56,
+            3.85,
+            3.62,
+            3.77,
+            4.16,
+            3.55,
+            3.14,
+            3.22
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

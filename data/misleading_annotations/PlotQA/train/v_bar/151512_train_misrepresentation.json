@@ -1,0 +1,61 @@
+{
+    "title": "Age dependency ratio of different countries",
+    "x_axis": {
+        "categories": [
+            "Cote d'Ivoire",
+            "Croatia",
+            "Cuba",
+            "Curacao",
+            "Cyprus"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Age dependency ratio (% of working-age population)": "#8B0000"
+    },
+    "data": {
+        "Age dependency ratio (% of working-age population)": [
+            86.0197720441103,
+            49.99688938549371,
+            43.0590457173214,
+            49.1643781875245,
+            41.3614878904861
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Age dependency ratio (% of working-age population)": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

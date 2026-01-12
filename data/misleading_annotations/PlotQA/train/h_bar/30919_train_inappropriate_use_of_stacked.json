@@ -1,0 +1,67 @@
+{
+    "title": "Comparison between mobile cellular and fixed telephone subscriptions in Sub-Saharan Africa (all income levels)",
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#f2f200",
+        "2009": "#79f279",
+        "2010": "#00a5a5",
+        "2011": "#5252a5",
+        "2012": "#a500a5"
+    },
+    "categories": [
+        "Comparison between mobile cellular and fixed telephone subscriptions in Sub-Saharan Africa (all income levels)"
+    ],
+    "data": {
+        "2007": [
+            184823777.0
+        ],
+        "2008": [
+            261134046.0
+        ],
+        "2009": [
+            316759711.0
+        ],
+        "2010": [
+            387953418.0
+        ],
+        "2011": [
+            471725434.0
+        ],
+        "2012": [
+            544819675.0
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#f2f200",
+        "2009": "#79f279",
+        "2010": "#00a5a5",
+        "2011": "#5252a5",
+        "2012": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 544819680
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

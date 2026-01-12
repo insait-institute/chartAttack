@@ -1,0 +1,80 @@
+{
+    "title": "Rushing yards",
+    "legend": {
+        "Rushing yards": "#2876dd"
+    },
+    "categories": [
+        "Eddie George",
+        "Earl Campbell",
+        "Chris Johnson",
+        "Derrick Henry",
+        "Lorenzo White",
+        "Hoyle Granger",
+        "Steve McNair",
+        "Mike Rozier",
+        "Charley Tolar",
+        "Ronnie Coleman",
+        "Chris Brown",
+        "LenDale White",
+        "Allen Pinkett",
+        "Gary Brown",
+        "Fred Willis",
+        "Billy Cannon",
+        "DeMarco Murray",
+        "Rodney Thomas",
+        "Rob Carpenter",
+        "Larry Moriarty"
+    ],
+    "data": {
+        "Rushing yards": [
+            10009,
+            8574,
+            7965,
+            5860,
+            4079,
+            3514,
+            3439,
+            3426,
+            3277,
+            2769,
+            2757,
+            2349,
+            2324,
+            2115,
+            2114,
+            2111,
+            1946,
+            1847,
+            1788,
+            1624
+        ]
+    },
+    "colors": {
+        "Rushing yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10010
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

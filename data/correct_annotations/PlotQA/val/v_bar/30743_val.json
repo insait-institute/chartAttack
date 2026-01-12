@@ -1,0 +1,76 @@
+{
+    "title": "Value added by the service sector to the total GDP of a country",
+    "x_axis": {
+        "categories": [
+            "Mauritania",
+            "Nepal",
+            "Niger",
+            "Pakistan",
+            "Philippines"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#20B2AA",
+        "1961": "#FFA07A",
+        "1962": "#BEBEBE",
+        "1963": "#40E0D0"
+    },
+    "data": {
+        "1960": [
+            29720760.36836889,
+            501246859.303472,
+            93456825.0724171,
+            1337675133.92227,
+            2793611491.83473
+        ],
+        "1961": [
+            28304756.2008606,
+            524609518.573762,
+            110110395.541278,
+            1456322800.8779,
+            3017115321.49265
+        ],
+        "1962": [
+            33234742.7881229,
+            566084778.022557,
+            108914005.984665,
+            1542631556.18169,
+            1850685889.29022
+        ],
+        "1963": [
+            36657307.1783351,
+            490058863.3112481,
+            137418147.010788,
+            1630619773.86664,
+            1999577301.6922
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3017115330
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

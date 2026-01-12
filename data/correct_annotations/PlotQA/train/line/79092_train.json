@@ -1,0 +1,70 @@
+{
+    "title": "Net taxes on products in Rwanda in different currencies",
+    "legend": {
+        "constant 2005 US$": "#228B22",
+        "US$": "#DC143C"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Taxes on products",
+    "data": [
+        {
+            "label": "constant 2005 US$",
+            "color": "#228B22",
+            "values": [
+                88000000000,
+                101000000000,
+                124000000000,
+                169000000000,
+                188000000000,
+                209000000000
+            ]
+        },
+        {
+            "label": "US$",
+            "color": "#DC143C",
+            "values": [
+                157756235.706976,
+                183067091.55149,
+                226709692.753517,
+                309043433.768792,
+                330822077.024178,
+                358410092.828214
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 157756230,
+                "max_value": 209000000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in South Asia",
+    "x_axis": {
+        "categories": [
+            "European Union",
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: nonOECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#ADFF2F",
+        "1961": "#7FFFD4",
+        "1962": "#FFA500"
+    },
+    "data": {
+        "1960": [
+            1.85165522491881,
+            5.39233964303117,
+            2.57801774375405,
+            1.88628171897614,
+            1.53319254317417
+        ],
+        "1961": [
+            1.72898295800835,
+            5.33228885906151,
+            2.52073221406967,
+            1.77975647870817,
+            0.8152897212715171
+        ],
+        "1962": [
+            1.60276266019503,
+            5.250534003174191,
+            2.49905012955724,
+            1.70416843220126,
+            1.27300664482505
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

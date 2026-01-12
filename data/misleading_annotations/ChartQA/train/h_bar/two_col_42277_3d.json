@@ -1,0 +1,108 @@
+{
+    "title": "",
+    "legend": {
+        "Supplier Factories": "#2876dd"
+    },
+    "categories": [
+        "Brazil",
+        "China",
+        "Bangladesh",
+        "Turkey",
+        "Mexico",
+        "India",
+        "Myanmar",
+        "Vietnam",
+        "Pakistan",
+        "Cambodia",
+        "Sri Lanka",
+        "Italy",
+        "Portugal",
+        "Romania",
+        "Indonesia",
+        "Colombia",
+        "Thailand",
+        "Germany",
+        "Morocco",
+        "Serbia",
+        "Egypt",
+        "Poland",
+        "Bulgaria",
+        "North Macedonia",
+        "Netherlands",
+        "Greece",
+        "Tunisia",
+        "France",
+        "Madagascar",
+        "Hungary",
+        "Peru",
+        "Croatia",
+        "Taiwan",
+        "Bosnia and Herzegovina"
+    ],
+    "data": {
+        "Supplier Factories": [
+            710,
+            216,
+            143,
+            136,
+            101,
+            69,
+            39,
+            36,
+            35,
+            35,
+            21,
+            17,
+            11,
+            11,
+            10,
+            8,
+            6,
+            5,
+            4,
+            4,
+            4,
+            3,
+            3,
+            3,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "colors": {
+        "Supplier Factories": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 710
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

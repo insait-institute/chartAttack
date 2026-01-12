@@ -1,0 +1,47 @@
+{
+    "title": "Prevalence of weight issues in children under 5 in different countries in 2001",
+    "legend": {
+        "Overweight": "#f27979",
+        "Low weight for height": "#00a5a5"
+    },
+    "categories": [
+        "Prevalence of weight issues in children under 5 in different countries in 2001"
+    ],
+    "data": {
+        "Overweight": [
+            3.0
+        ],
+        "Low weight for height": [
+            9.0
+        ]
+    },
+    "colors": {
+        "Overweight": "#f27979",
+        "Low weight for height": "#00a5a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

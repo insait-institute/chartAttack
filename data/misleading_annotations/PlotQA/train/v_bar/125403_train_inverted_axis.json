@@ -1,0 +1,64 @@
+{
+    "title": "Current account balance of a country after exporting goods and services",
+    "x_axis": {
+        "categories": [
+            "Hungary",
+            "Iceland",
+            "India",
+            "Indonesia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#F0E68C",
+        "2006": "#FFA500",
+        "2007": "#D2691E"
+    },
+    "data": {
+        "2005": [
+            -7.00558475011484,
+            -13.9502735577962,
+            -1.23272142211395,
+            0.0970882462269099
+        ],
+        "2006": [
+            -7.07637186256459,
+            -20.6454457801612,
+            -0.9797593525537192,
+            2.97870868004498
+        ],
+        "2007": [
+            -7.15423861676386,
+            -16.0936213713329,
+            -0.651949616103511,
+            2.4272641270234
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Ford Pickup (Full size)": "#f27979",
+        "Honda Civic": "#f29100",
+        "Chevrolet Pickup (Full size)": "#daf279",
+        "Honda Accord": "#30f200",
+        "Toyota Camry": "#52a574",
+        "Nissan Altima": "#00a5a5",
+        "Toyota Corolla": "#5274a5",
+        "Dodge Pickup (Full size)": "#2100a5",
+        "GMC Pickup (Full size)": "#da79f2",
+        "Honda CR-V": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Ford Pickup (Full size)": [
+            38938.0
+        ],
+        "Honda Civic": [
+            33220.0
+        ],
+        "Chevrolet Pickup (Full size)": [
+            32583.0
+        ],
+        "Honda Accord": [
+            30745.0
+        ],
+        "Toyota Camry": [
+            15656.0
+        ],
+        "Nissan Altima": [
+            13355.0
+        ],
+        "Toyota Corolla": [
+            12137.0
+        ],
+        "Dodge Pickup (Full size)": [
+            11292.0
+        ],
+        "GMC Pickup (Full size)": [
+            11164.0
+        ],
+        "Honda CR-V": [
+            10094.0
+        ]
+    },
+    "colors": {
+        "Ford Pickup (Full size)": "#f27979",
+        "Honda Civic": "#f29100",
+        "Chevrolet Pickup (Full size)": "#daf279",
+        "Honda Accord": "#30f200",
+        "Toyota Camry": "#52a574",
+        "Nissan Altima": "#00a5a5",
+        "Toyota Corolla": "#5274a5",
+        "Dodge Pickup (Full size)": "#2100a5",
+        "GMC Pickup (Full size)": "#da79f2",
+        "Honda CR-V": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 38940
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

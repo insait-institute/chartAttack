@@ -1,0 +1,84 @@
+{
+    "title": "Percentage of repeaters in secondary general education of Cyprus",
+    "legend": {
+        "Female": "#FFFF00",
+        "Male": "#FFA07A"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "y_axis_label": "% of repeaters",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#FFFF00",
+            "values": [
+                1.21635,
+                1.09066,
+                1.16283,
+                1.62818
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#FFA07A",
+            "values": [
+                2.79175,
+                2.90742,
+                2.93875,
+                4.28299
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Female",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Male",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

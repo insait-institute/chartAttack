@@ -1,0 +1,75 @@
+{
+    "title": "Amount of ores,manufactures and fuel imports of Cameroon",
+    "legend": {
+        "Ores and metals": "#BEBEBE",
+        "Manufactures": "#2E8B57",
+        "Fuel": "#228B22"
+    },
+    "x_axis": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Amount of imports(as % of merchandise imports)",
+    "data": [
+        {
+            "label": "Ores and metals",
+            "color": "#BEBEBE",
+            "values": [
+                1.41178375986043,
+                1.38791079906409,
+                1.4169508739385,
+                1.10990487411272
+            ]
+        },
+        {
+            "label": "Manufactures",
+            "color": "#2E8B57",
+            "values": [
+                67.1131900908652,
+                68.9281378671505,
+                61.3499224417764,
+                55.9208472453358
+            ]
+        },
+        {
+            "label": "Fuel",
+            "color": "#228B22",
+            "values": [
+                13.8793146142293,
+                12.1654342882019,
+                15.7800893901119,
+                23.1960040500082
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

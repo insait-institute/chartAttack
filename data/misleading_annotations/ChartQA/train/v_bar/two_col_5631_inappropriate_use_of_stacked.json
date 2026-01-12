@@ -1,0 +1,92 @@
+{
+    "title": "Revenue in billion euros",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in billion euros"
+    },
+    "legend": {
+        "2011": "#f27979",
+        "2012": "#f29100",
+        "2013": "#daf279",
+        "2014": "#30f200",
+        "2015": "#52a574",
+        "2016": "#00a5a5",
+        "2017": "#5274a5",
+        "2018": "#2100a5",
+        "2019": "#da79f2",
+        "2020": "#f20091"
+    },
+    "data": {
+        "2011": [
+            12.0
+        ],
+        "2012": [
+            14.0
+        ],
+        "2013": [
+            18.0
+        ],
+        "2014": [
+            22.0
+        ],
+        "2015": [
+            28.0
+        ],
+        "2016": [
+            34.0
+        ],
+        "2017": [
+            41.0
+        ],
+        "2018": [
+            50.0
+        ],
+        "2019": [
+            61.0
+        ],
+        "2020": [
+            74.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2011": "#f27979",
+        "2012": "#f29100",
+        "2013": "#daf279",
+        "2014": "#30f200",
+        "2015": "#52a574",
+        "2016": "#00a5a5",
+        "2017": "#5274a5",
+        "2018": "#2100a5",
+        "2019": "#da79f2",
+        "2020": "#f20091"
+    }
+}

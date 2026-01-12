@@ -1,0 +1,72 @@
+{
+    "title": "Balance of payments for travel services (% of commercial service imports)",
+    "x_axis": {
+        "categories": [
+            "South Asia",
+            "World",
+            "Albania",
+            "Argentina",
+            "Armenia",
+            "Australia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#FF00FF",
+        "2006": "#8B4513",
+        "2007": "#00BFFF"
+    },
+    "data": {
+        "2005": [
+            13.8120896920248,
+            21.82426039396709,
+            59.6587487970356,
+            38.5579170404238,
+            36.887671047648,
+            38.47890747861671
+        ],
+        "2006": [
+            12.9530801937294,
+            31.6239998643441,
+            62.6052919551979,
+            38.2386147006674,
+            39.5954918587899,
+            38.33788671642289
+        ],
+        "2007": [
+            12.8191698208285,
+            26.76575464757969,
+            67.0289359806896,
+            37.7167869167869,
+            36.1282625234449,
+            39.6694832871081
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

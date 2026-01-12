@@ -1,0 +1,73 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1970",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "France",
+            "Germany",
+            "Hungary",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Coal sources": "#2f4f4f",
+        "Natural gas sources": "#2f4a4f",
+        "Oil sources": "#334a55"
+    },
+    "data": {
+        "Coal sources": [
+            17.9264194890985,
+            30.552641974636,
+            74.463599236975,
+            65.0323201760418,
+            4.90488943826398
+        ],
+        "Natural gas sources": [
+            3.04087594028027,
+            4.49728242361499,
+            4.72453695457151,
+            14.5028194196122,
+            4.892871858261231
+        ],
+        "Oil sources": [
+            3.05901332620566,
+            21.9674163272534,
+            12.2084004002967,
+            19.8597166827121,
+            49.1905301469578
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Coal sources": "#2f4f4f",
+        "Natural gas sources": "#2f4a4f",
+        "Oil sources": "#334a55"
+    }
+}

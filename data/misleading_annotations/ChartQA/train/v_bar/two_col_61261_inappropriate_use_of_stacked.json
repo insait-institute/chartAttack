@@ -1,0 +1,97 @@
+{
+    "title": "Revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f28400",
+        "2012": "#e7f279",
+        "2013": "#58f200",
+        "2014": "#52a561",
+        "2015": "#00a578",
+        "2016": "#528fa5",
+        "2017": "#001ea5",
+        "2018": "#a579f2",
+        "2019": "#dc00f2",
+        "2020": "#f279bb"
+    },
+    "data": {
+        "2010": [
+            1.94
+        ],
+        "2011": [
+            2.36
+        ],
+        "2012": [
+            2.67
+        ],
+        "2013": [
+            2.69
+        ],
+        "2014": [
+            2.73
+        ],
+        "2015": [
+            2.53
+        ],
+        "2016": [
+            2.32
+        ],
+        "2017": [
+            2.16
+        ],
+        "2018": [
+            2.16
+        ],
+        "2019": [
+            1.9
+        ],
+        "2020": [
+            1.8
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f28400",
+        "2012": "#e7f279",
+        "2013": "#58f200",
+        "2014": "#52a561",
+        "2015": "#00a578",
+        "2016": "#528fa5",
+        "2017": "#001ea5",
+        "2018": "#a579f2",
+        "2019": "#dc00f2",
+        "2020": "#f279bb"
+    }
+}

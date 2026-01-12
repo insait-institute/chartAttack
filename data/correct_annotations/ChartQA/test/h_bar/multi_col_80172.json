@@ -1,0 +1,98 @@
+{
+    "title": "",
+    "legend": {
+        "Desktop PC": "#2876dd",
+        "Mobile": "#0f283e"
+    },
+    "categories": [
+        "Sudan",
+        "Kuwait",
+        "Oman",
+        "Libya",
+        "Saudi Arabia",
+        "Bahrain",
+        "United Arab Emirates",
+        "Syria",
+        "Qatar",
+        "Yemen",
+        "Jordan",
+        "Lebanon",
+        "Iraq",
+        "Morocco",
+        "Egypt",
+        "Tunisia",
+        "Algeria",
+        "Worldwide"
+    ],
+    "data": {
+        "Desktop PC": [
+            45.32,
+            27.02,
+            24.3,
+            22.96,
+            18.51,
+            17.43,
+            12.75,
+            11.81,
+            11.49,
+            10.59,
+            8.41,
+            8.3,
+            7.68,
+            5.29,
+            4.17,
+            3.87,
+            2.51,
+            10.01
+        ],
+        "Mobile": [
+            54.68,
+            72.98,
+            75.7,
+            77.04,
+            81.49,
+            82.57,
+            87.25,
+            88.19,
+            88.51,
+            89.41,
+            91.59,
+            91.7,
+            92.32,
+            94.71,
+            95.83,
+            96.13,
+            97.49,
+            89.99
+        ]
+    },
+    "colors": {
+        "Desktop PC": "#2876dd",
+        "Mobile": "#0f283e"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

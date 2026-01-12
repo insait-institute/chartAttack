@@ -1,0 +1,67 @@
+{
+    "title": "Expenditure on health care (as % of GDP) in Indonesia",
+    "legend": {
+        "1997": "#f27979",
+        "1998": "#f2f200",
+        "1999": "#79f279",
+        "2000": "#00a5a5",
+        "2001": "#5252a5",
+        "2002": "#a500a5"
+    },
+    "categories": [
+        "Expenditure on health care (as % of GDP) in Indonesia"
+    ],
+    "data": {
+        "1997": [
+            1.25563363537196
+        ],
+        "1998": [
+            1.3700201866868
+        ],
+        "1999": [
+            1.49095832088291
+        ],
+        "2000": [
+            1.24950781833007
+        ],
+        "2001": [
+            1.26909128550383
+        ],
+        "2002": [
+            1.38435297980244
+        ]
+    },
+    "colors": {
+        "1997": "#f27979",
+        "1998": "#f2f200",
+        "1999": "#79f279",
+        "2000": "#00a5a5",
+        "2001": "#5252a5",
+        "2002": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

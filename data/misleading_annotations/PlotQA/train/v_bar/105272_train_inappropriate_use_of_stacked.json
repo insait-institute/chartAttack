@@ -1,0 +1,67 @@
+{
+    "title": "Proportion of the population (ages 15+) that is economically active in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Slovak Republic": "#f27979",
+        "Spain": "#c1f200",
+        "Sri Lanka": "#52a574",
+        "St. Lucia": "#0042a5",
+        "Sudan": "#da79f2"
+    },
+    "data": {
+        "Slovak Republic": [
+            55.0999984741211
+        ],
+        "Spain": [
+            35.0999984741211
+        ],
+        "Sri Lanka": [
+            37.9000015258789
+        ],
+        "St. Lucia": [
+            61.2000007629395
+        ],
+        "Sudan": [
+            25.89999961853031
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Slovak Republic": "#f27979",
+        "Spain": "#c1f200",
+        "Sri Lanka": "#52a574",
+        "St. Lucia": "#0042a5",
+        "Sudan": "#da79f2"
+    }
+}

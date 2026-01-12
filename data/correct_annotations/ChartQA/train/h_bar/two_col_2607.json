@@ -1,0 +1,70 @@
+{
+    "title": "",
+    "legend": {
+        "Country Trade Values": "#2876dd"
+    },
+    "categories": [
+        "Pakistan",
+        "United States",
+        "United Kingdom",
+        "China, Hong Kong SAR",
+        "Egypt",
+        "Germany",
+        "China",
+        "Japan",
+        "Netherlands",
+        "Poland",
+        "Canada",
+        "Australia",
+        "Italy",
+        "India",
+        "Ukraine"
+    ],
+    "data": {
+        "Country Trade Values": [
+            589.76,
+            473.83,
+            348.69,
+            221.82,
+            197.22,
+            190.69,
+            180.01,
+            156.43,
+            132.56,
+            131.27,
+            123.67,
+            105.95,
+            75.48,
+            67.45,
+            60.44
+        ]
+    },
+    "colors": {
+        "Country Trade Values": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 590
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

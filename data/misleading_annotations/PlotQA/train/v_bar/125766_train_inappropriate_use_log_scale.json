@@ -1,0 +1,68 @@
+{
+    "title": "Information and communication technology goods exported",
+    "x_axis": {
+        "categories": [
+            "Albania",
+            "Algeria",
+            "Argentina",
+            "Armenia",
+            "Australia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2000": "#90EE90",
+        "2001": "#000000",
+        "2002": "#00FFFF"
+    },
+    "data": {
+        "2000": [
+            0.3906652448,
+            0.0064920082,
+            0.3629611406,
+            0.3644196837,
+            2.8521887576
+        ],
+        "2001": [
+            0.4800484191,
+            0.0011545508,
+            0.3564690483,
+            2.0185237308,
+            2.6865487179
+        ],
+        "2002": [
+            0.4628007122,
+            0.006903652,
+            0.4326208001,
+            0.7635923109,
+            2.2411066001
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

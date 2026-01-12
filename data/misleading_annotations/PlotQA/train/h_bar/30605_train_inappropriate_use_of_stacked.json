@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of population using safely managed services in Portugal",
+    "legend": {
+        "1998": "#f27979",
+        "1999": "#f2f200",
+        "2000": "#79f279",
+        "2001": "#00a5a5",
+        "2002": "#5252a5",
+        "2003": "#a500a5"
+    },
+    "categories": [
+        "Percentage of population using safely managed services in Portugal"
+    ],
+    "data": {
+        "1998": [
+            95.5
+        ],
+        "1999": [
+            95.8
+        ],
+        "2000": [
+            96.2
+        ],
+        "2001": [
+            96.5
+        ],
+        "2002": [
+            96.8
+        ],
+        "2003": [
+            97.1
+        ]
+    },
+    "colors": {
+        "1998": "#f27979",
+        "1999": "#f2f200",
+        "2000": "#79f279",
+        "2001": "#00a5a5",
+        "2002": "#5252a5",
+        "2003": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

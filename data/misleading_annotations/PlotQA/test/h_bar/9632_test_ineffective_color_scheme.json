@@ -1,0 +1,77 @@
+{
+    "title": "CO2 emissions from electricity and heat production",
+    "legend": {
+        "Brunei Darussalam": "#d2b48c",
+        "Japan": "#d2bf8c",
+        "Kenya": "#d5ce93"
+    },
+    "categories": [
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+    ],
+    "data": {
+        "Brunei Darussalam": [
+            79.8634812286689,
+            79.1946308724832,
+            78.2051282051282,
+            77.741935483871,
+            77.5384615384615,
+            76.85459940652821
+        ],
+        "Japan": [
+            38.0642366059721,
+            37.9197972300172,
+            38.5814947441377,
+            38.87710135465971,
+            38.7016796782588,
+            38.8174154927592
+        ],
+        "Kenya": [
+            10.8159392789374,
+            10.6227106227106,
+            9.426987060998153,
+            9.31458699472759,
+            7.98548094373866,
+            7.87992495309568
+        ]
+    },
+    "colors": {
+        "Brunei Darussalam": "#D2B48C",
+        "Japan": "#DAA520",
+        "Kenya": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Brunei Darussalam": "#d2b48c",
+        "Japan": "#d2bf8c",
+        "Kenya": "#d5ce93"
+    }
+}

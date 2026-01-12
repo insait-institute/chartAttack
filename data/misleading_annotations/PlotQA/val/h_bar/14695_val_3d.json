@@ -1,0 +1,77 @@
+{
+    "title": "Total expenditure spent by the government in healthcare projects",
+    "legend": {
+        "Europe(developing only)": "#9ACD32",
+        "Bulgaria": "#483D8B",
+        "Kuwait": "#A020F0",
+        "Singapore": "#DAA520"
+    },
+    "categories": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Europe(developing only)": [
+            5.60191721557725,
+            5.774511506654989,
+            5.77220249912436,
+            5.793171202026192,
+            5.838054431987599
+        ],
+        "Bulgaria": [
+            7.58273876,
+            7.58101299,
+            7.31335439,
+            7.30680374,
+            6.89356566
+        ],
+        "Kuwait": [
+            3.55133592,
+            3.21827133,
+            2.74632777,
+            2.36983467,
+            2.24503417
+        ],
+        "Singapore": [
+            2.84341209,
+            3.62414428,
+            3.16615361,
+            3.732016,
+            3.64238518
+        ]
+    },
+    "colors": {
+        "Europe(developing only)": "#9ACD32",
+        "Bulgaria": "#483D8B",
+        "Kuwait": "#A020F0",
+        "Singapore": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

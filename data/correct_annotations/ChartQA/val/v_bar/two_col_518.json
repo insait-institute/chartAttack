@@ -1,0 +1,50 @@
+{
+    "title": "Share of population",
+    "x_axis": {
+        "categories": [
+            "18 to 29 years",
+            "30 to 49 years",
+            "50 to 64 years",
+            "65+ years"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of population"
+    },
+    "legend": {
+        "Group": "#2876dd"
+    },
+    "data": {
+        "Group": [
+            99,
+            98,
+            96,
+            75
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

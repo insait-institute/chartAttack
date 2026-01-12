@@ -1,0 +1,77 @@
+{
+    "title": "Billion GBP",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Billion GBP"
+    },
+    "legend": {
+        "2017/18": "#f27979",
+        "2018/19": "#f2cf00",
+        "2019/20": "#9bf279",
+        "2020/21": "#00a55e",
+        "2021/22": "#5282a5",
+        "2022/23": "#2f00a5",
+        "2023/24": "#f279e0"
+    },
+    "data": {
+        "2017/18": [
+            1.9
+        ],
+        "2018/19": [
+            1.9
+        ],
+        "2019/20": [
+            2.2
+        ],
+        "2020/21": [
+            2.1
+        ],
+        "2021/22": [
+            2.1
+        ],
+        "2022/23": [
+            2.1
+        ],
+        "2023/24": [
+            2.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2017/18": "#f27979",
+        "2018/19": "#f2cf00",
+        "2019/20": "#9bf279",
+        "2020/21": "#00a55e",
+        "2021/22": "#5282a5",
+        "2022/23": "#2f00a5",
+        "2023/24": "#f279e0"
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Smartphone users in millions",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*"
+        ]
+    },
+    "y_axis": {
+        "label": "Smartphone users in millions"
+    },
+    "legend": {
+        "Smartphone Users": "#2876dd"
+    },
+    "data": {
+        "Smartphone Users": [
+            42.95,
+            52.15,
+            60.54,
+            67.82,
+            73.97,
+            79.05,
+            82.33,
+            84.67,
+            86.68,
+            88.45,
+            90.04
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

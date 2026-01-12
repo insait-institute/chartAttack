@@ -1,0 +1,60 @@
+{
+    "title": "Value in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018*",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Value in billion U.S. dollars"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            449.4,
+            469.8,
+            491,
+            497.4,
+            506.3,
+            546.3,
+            566.8,
+            639.5,
+            231.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 640
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

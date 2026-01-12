@@ -1,0 +1,64 @@
+{
+    "title": "Trade statistics of Armenia with developing economies in Saharan Africa",
+    "legend": {
+        "Merchandise exports": "#708090",
+        "Merchandise imports": "#FF4500"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "Trade with economies of Sub-Saharan Africa(%)",
+    "data": [
+        {
+            "label": "Merchandise exports",
+            "color": "#708090",
+            "values": [
+                0.0467520585134321,
+                0.0196548891912921,
+                0.0187850435625661,
+                0.0554629496223424
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "color": "#FF4500",
+            "values": [
+                0.316602701582855,
+                0.154862988715151,
+                0.3665893506954411,
+                0.389752322544724
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

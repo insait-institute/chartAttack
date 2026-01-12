@@ -1,0 +1,82 @@
+{
+    "title": "Million metric tons",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Million metric tons"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            7.25,
+            8.55,
+            8.42,
+            8.16,
+            8.67,
+            8.03,
+            8.91,
+            9.53,
+            10.02,
+            10.73,
+            11.19,
+            11.3,
+            12.01,
+            12.36,
+            12.67,
+            12.16,
+            12.96,
+            12.97,
+            13.24,
+            13.74
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

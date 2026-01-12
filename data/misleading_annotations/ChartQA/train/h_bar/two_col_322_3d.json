@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Subscribers": "#2876dd"
+    },
+    "categories": [
+        "Yuya",
+        "jeffreestar",
+        "Musas",
+        "NikkieTutorials",
+        "Zoella",
+        "SaraBeautyCorner",
+        "Tati Westbrook",
+        "Michelle Phan",
+        "grav3yardgirl",
+        "Carli Bybel"
+    ],
+    "data": {
+        "Subscribers": [
+            24.6,
+            16.4,
+            15.1,
+            13.8,
+            11,
+            10.5,
+            8.86,
+            8.85,
+            8.22,
+            6.15
+        ]
+    },
+    "colors": {
+        "Subscribers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

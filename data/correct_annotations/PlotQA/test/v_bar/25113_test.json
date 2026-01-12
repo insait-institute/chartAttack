@@ -1,0 +1,56 @@
+{
+    "title": "Expenditures made by country's government on remittances and education in 1988",
+    "x_axis": {
+        "categories": [
+            "Personal remittances",
+            " received (% of GDP)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Netherlands": "#7FFFD4",
+        "South Africa": "#B8860B",
+        "Swaziland": "#FF7F50"
+    },
+    "data": {
+        "Netherlands": [
+            0.314882182059227,
+            5.56396
+        ],
+        "South Africa": [
+            0.0433521978354142,
+            5.463019999999998
+        ],
+        "Swaziland": [
+            13.6973235696736,
+            5.51156
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

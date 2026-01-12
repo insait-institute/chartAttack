@@ -1,0 +1,63 @@
+{
+    "title": "Net enrollment of males recorded in primary and secondary education in year 1982",
+    "x_axis": {
+        "categories": [
+            "Bahrain",
+            "Barbados",
+            "Belgium",
+            "Brunei Darussalam",
+            "Burkina Faso",
+            "Burundi"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary": "#008B8B",
+        "Secondary": "#20B2AA"
+    },
+    "data": {
+        "Primary": [
+            84.19965,
+            97.78775,
+            98.04192,
+            77.16877,
+            21.00503,
+            30.0491
+        ],
+        "Secondary": [
+            74.5900650024414,
+            23.6840438842773,
+            37.61183547973629,
+            8.119760000000001,
+            61.43493,
+            81.16691
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

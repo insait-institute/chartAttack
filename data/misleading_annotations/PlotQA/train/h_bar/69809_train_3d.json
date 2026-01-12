@@ -1,0 +1,62 @@
+{
+    "title": "PPP conversion factor for GDP and private consumption in 1990",
+    "legend": {
+        "Austria": "#66CDAA",
+        "Saudi Arabia": "#BA55D3",
+        "Singapore": "#8B008B",
+        "Togo": "#0000FF"
+    },
+    "categories": [
+        "GDP",
+        " Private consumption"
+    ],
+    "data": {
+        "Austria": [
+            0.915853,
+            0.94104
+        ],
+        "Saudi Arabia": [
+            1.17013595750419,
+            2.02616520270155
+        ],
+        "Singapore": [
+            1.0432559273672,
+            1.37648700394814
+        ],
+        "Togo": [
+            134.164774628432,
+            151.188921544573
+        ]
+    },
+    "colors": {
+        "Austria": "#66CDAA",
+        "Saudi Arabia": "#BA55D3",
+        "Singapore": "#8B008B",
+        "Togo": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 160
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

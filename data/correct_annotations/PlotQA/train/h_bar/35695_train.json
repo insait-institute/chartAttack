@@ -1,0 +1,56 @@
+{
+    "title": "Total goods and services traded in 1961",
+    "legend": {
+        "Exports": "#CD5C5C",
+        "Imports": "#663399"
+    },
+    "categories": [
+        "Nicaragua",
+        "Niger",
+        "Nigeria",
+        "Norway"
+    ],
+    "data": {
+        "Exports": [
+            0.1182034239,
+            9675942900.0,
+            293090200.0,
+            14348376064.0
+        ],
+        "Imports": [
+            0.1240193248,
+            11563308000.0,
+            520116400.0,
+            15243888640.0
+        ]
+    },
+    "colors": {
+        "Exports": "#CD5C5C",
+        "Imports": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15243888640
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

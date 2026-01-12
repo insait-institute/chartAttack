@@ -1,0 +1,57 @@
+{
+    "title": "Price cap in euro cents",
+    "x_axis": {
+        "categories": [
+            "July 2012",
+            "July 2013",
+            "July 2014"
+        ]
+    },
+    "y_axis": {
+        "label": "Price cap in euro cents"
+    },
+    "legend": {
+        "July 2012": "#2876dd",
+        "July 2013": "#2876dd",
+        "July 2014": "#2876dd"
+    },
+    "data": {
+        "values": [
+            9,
+            8,
+            6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "values": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

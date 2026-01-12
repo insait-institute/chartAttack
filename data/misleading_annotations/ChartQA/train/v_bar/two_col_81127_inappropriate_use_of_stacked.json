@@ -1,0 +1,107 @@
+{
+    "title": "Net income (loss) in million GBP",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Net income (loss) in million GBP"
+    },
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#f26f00",
+        "2010": "#f2e879",
+        "2011": "#95f200",
+        "2012": "#8bf279",
+        "2013": "#00a533",
+        "2014": "#52a592",
+        "2015": "#007fa5",
+        "2016": "#526ca5",
+        "2017": "#1900a5",
+        "2018": "#c379f2",
+        "2019": "#f200df",
+        "2020": "#f279b1"
+    },
+    "data": {
+        "2008": [
+            -920.0
+        ],
+        "2009": [
+            -357.8
+        ],
+        "2010": [
+            -141.4
+        ],
+        "2011": [
+            75.9
+        ],
+        "2012": [
+            2913.4
+        ],
+        "2013": [
+            -388.1
+        ],
+        "2014": [
+            -108.6
+        ],
+        "2015": [
+            -141.9
+        ],
+        "2016": [
+            -285.6
+        ],
+        "2017": [
+            -86.9
+        ],
+        "2018": [
+            -37.0
+        ],
+        "2019": [
+            -337.3
+        ],
+        "2020": [
+            39.3
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2920
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#f26f00",
+        "2010": "#f2e879",
+        "2011": "#95f200",
+        "2012": "#8bf279",
+        "2013": "#00a533",
+        "2014": "#52a592",
+        "2015": "#007fa5",
+        "2016": "#526ca5",
+        "2017": "#1900a5",
+        "2018": "#c379f2",
+        "2019": "#f200df",
+        "2020": "#f279b1"
+    }
+}

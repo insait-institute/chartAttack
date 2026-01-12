@@ -1,0 +1,90 @@
+{
+    "title": "in billion GBP",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2020",
+            "2025"
+        ]
+    },
+    "y_axis": {
+        "label": "in billion GBP"
+    },
+    "legend": {
+        "Spending by overseas residents": "#2876dd",
+        "Visits to the United Kingdom": "#0f283e",
+        "Fares tp United Kingdom": "#bababa",
+        "Spending by domestic residents": "#a60b0b",
+        "Trips of 1+ nights": "#87bc24",
+        "Tourism day trips for leisure": "#ebb523",
+        "Rent for second ownership": "#5d2b76",
+        "Total spending": "#c271da"
+    },
+    "data": {
+        "Spending by overseas residents": [
+            25.7,
+            40.8,
+            63.3
+        ],
+        "Visits to the United Kingdom": [
+            22.7,
+            36.4,
+            57
+        ],
+        "Fares tp United Kingdom": [
+            3,
+            4.4,
+            6.3
+        ],
+        "Spending by domestic residents": [
+            93.8,
+            132.7,
+            171.7
+        ],
+        "Trips of 1+ nights": [
+            26.6,
+            39.5,
+            49.8
+        ],
+        "Tourism day trips for leisure": [
+            62.6,
+            39.5,
+            49.8
+        ],
+        "Rent for second ownership": [
+            5,
+            7.1,
+            9.1
+        ],
+        "Total spending": [
+            119.5,
+            173.6,
+            235
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 240
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

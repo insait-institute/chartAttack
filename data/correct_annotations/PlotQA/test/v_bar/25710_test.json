@@ -1,0 +1,64 @@
+{
+    "title": "Total commercial service import",
+    "x_axis": {
+        "categories": [
+            "El Salvador",
+            "France",
+            "Georgia",
+            "Germany"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#D2B48C",
+        "2006": "#708090",
+        "2007": "#2E8B57"
+    },
+    "data": {
+        "2005": [
+            1092950000.0,
+            133372058422.813,
+            588240581.6099992,
+            208095226597.635
+        ],
+        "2006": [
+            1205470000.0,
+            145230052977.195,
+            693196703.49,
+            223312914391.01
+        ],
+        "2007": [
+            1290060000.0,
+            168188367076.811,
+            874127534.19,
+            257577101419.7231
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 257577101420
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Assam": "#f27979",
+        "Jharkhand": "#f29100",
+        "Meghalaya": "#daf279",
+        "West Bengal": "#30f200",
+        "Chhattisgarh": "#52a574",
+        "Uttar Pradesh": "#00a5a5",
+        "Nagaland": "#5274a5",
+        "Bihar": "#2100a5",
+        "Karnataka": "#da79f2",
+        "Mizoram": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Assam": [
+            2.1
+        ],
+        "Jharkhand": [
+            1.28
+        ],
+        "Meghalaya": [
+            0.71
+        ],
+        "West Bengal": [
+            0.54
+        ],
+        "Chhattisgarh": [
+            0.53
+        ],
+        "Uttar Pradesh": [
+            0.41
+        ],
+        "Nagaland": [
+            0.4
+        ],
+        "Bihar": [
+            0.34
+        ],
+        "Karnataka": [
+            0.32
+        ],
+        "Mizoram": [
+            0.29
+        ]
+    },
+    "colors": {
+        "Assam": "#f27979",
+        "Jharkhand": "#f29100",
+        "Meghalaya": "#daf279",
+        "West Bengal": "#30f200",
+        "Chhattisgarh": "#52a574",
+        "Uttar Pradesh": "#00a5a5",
+        "Nagaland": "#5274a5",
+        "Bihar": "#2100a5",
+        "Karnataka": "#da79f2",
+        "Mizoram": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

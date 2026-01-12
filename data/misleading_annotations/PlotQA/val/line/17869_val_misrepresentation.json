@@ -1,0 +1,104 @@
+{
+    "title": "Amount spent on the passenger transport items in Paraguay",
+    "legend": {
+        "International Tourists": "#CD5C5C",
+        "National Tourists": "#A52A2A"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "Amount (in US$)",
+    "data": [
+        {
+            "label": "International Tourists",
+            "color": "#CD5C5C",
+            "values": [
+                73000000,
+                58000000,
+                52000000,
+                48000000,
+                50000000,
+                51000000,
+                52000000,
+                75000000
+            ]
+        },
+        {
+            "label": "National Tourists",
+            "color": "#A52A2A",
+            "values": [
+                15000000,
+                22000000,
+                14000000,
+                17000000,
+                17000000,
+                18000000,
+                20000000,
+                19000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 14000000,
+                "max_value": 75000000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "International Tourists",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "National Tourists",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

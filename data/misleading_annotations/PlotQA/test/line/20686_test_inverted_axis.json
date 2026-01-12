@@ -1,0 +1,81 @@
+{
+    "title": "Net official aid flows in Other small states from different UN agencies",
+    "legend": {
+        "UNPBF": "#DB7093",
+        "WHO": "#B8860B",
+        "WFP": "#4B0082",
+        "UNDP": "#00FF7F"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Aid flow from UN agencies (US$)",
+    "data": [
+        {
+            "label": "UNPBF",
+            "color": "#DB7093",
+            "values": [
+                2160000,
+                1180000,
+                4950000
+            ]
+        },
+        {
+            "label": "WHO",
+            "color": "#B8860B",
+            "values": [
+                15200000,
+                14530000,
+                17010000
+            ]
+        },
+        {
+            "label": "WFP",
+            "color": "#4B0082",
+            "values": [
+                770000,
+                5530000,
+                8030000
+            ]
+        },
+        {
+            "label": "UNDP",
+            "color": "#00FF7F",
+            "values": [
+                7610000,
+                3200000,
+                3930000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 770000,
+                "max_value": 17010000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

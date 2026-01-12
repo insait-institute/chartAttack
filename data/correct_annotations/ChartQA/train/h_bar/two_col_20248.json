@@ -1,0 +1,80 @@
+{
+    "title": "Touchdowns scored",
+    "legend": {
+        "Touchdowns": "#2876dd"
+    },
+    "categories": [
+        "Don Hutson",
+        "Jim Taylor",
+        "Jordy Nelson",
+        "Ahman Green",
+        "Sterling Sharpe",
+        "Davante Adams",
+        "Donald Driver",
+        "Paul Hornung",
+        "Antonio Freeman",
+        "Greg Jennings",
+        "Max McGee",
+        "Verne Lewellen",
+        "James Lofton",
+        "James Jones",
+        "Randall Cobb",
+        "Clarke Hinkle",
+        "Dorsey Levens",
+        "Billy Howton",
+        "Aaron Jones",
+        "Boyd Dowler"
+    ],
+    "data": {
+        "Touchdowns": [
+            105,
+            91,
+            69,
+            68,
+            66,
+            62,
+            62,
+            62,
+            57,
+            53,
+            51,
+            51,
+            50,
+            45,
+            45,
+            44,
+            44,
+            43,
+            43,
+            40
+        ]
+    },
+    "colors": {
+        "Touchdowns": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

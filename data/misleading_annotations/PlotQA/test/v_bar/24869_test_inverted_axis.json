@@ -1,0 +1,56 @@
+{
+    "title": "Net disbursements received from Regional Development Bank in 1970",
+    "x_axis": {
+        "categories": [
+            "RDB concessional",
+            "RDB nonconcessional"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Low income": "#32CD32",
+        "Peru": "#9ACD32",
+        "Philippines": "#0000FF"
+    },
+    "data": {
+        "Low income": [
+            647000,
+            850000
+        ],
+        "Peru": [
+            15193000,
+            468000
+        ],
+        "Philippines": [
+            69000,
+            1389000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15193000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

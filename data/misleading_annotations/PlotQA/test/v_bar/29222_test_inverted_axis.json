@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of agricultural raw materials imported from different countries",
+    "x_axis": {
+        "categories": [
+            "Greece",
+            "Hong Kong",
+            "Iceland",
+            "Israel",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#BA55D3",
+        "1963": "#7FFFD4",
+        "1964": "#00CED1",
+        "1965": "#B03060"
+    },
+    "data": {
+        "1962": [
+            8.55222144409096,
+            10.2556386424514,
+            4.287424839325549,
+            8.74664003043093,
+            16.5660569439251
+        ],
+        "1963": [
+            8.996211096423027,
+            10.3534559175014,
+            4.451785800379559,
+            7.39123101611159,
+            14.571603679764
+        ],
+        "1964": [
+            8.83955810746485,
+            9.813101421017713,
+            3.4753063064354,
+            7.70088666721147,
+            15.1153287646212
+        ],
+        "1965": [
+            8.46259492742309,
+            9.427385730599411,
+            3.56635777801934,
+            7.424538896358089,
+            13.9548452437522
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Short term external debts owed by residents of a country",
+    "legend": {
+        "Ecuador": "#f27979",
+        "Egypt, Arab Rep.": "#f2f200",
+        "India": "#79f279",
+        "Indonesia": "#00a5a5",
+        "Kenya": "#5252a5",
+        "Malaysia": "#a500a5"
+    },
+    "categories": [
+        "Short term external debts owed by residents of a country"
+    ],
+    "data": {
+        "Ecuador": [
+            106000000.0
+        ],
+        "Egypt, Arab Rep.": [
+            397000000.0
+        ],
+        "India": [
+            283000000.0
+        ],
+        "Indonesia": [
+            339000000.0
+        ],
+        "Kenya": [
+            -225332000.0
+        ],
+        "Malaysia": [
+            62000000.0
+        ]
+    },
+    "colors": {
+        "Ecuador": "#f27979",
+        "Egypt, Arab Rep.": "#f2f200",
+        "India": "#79f279",
+        "Indonesia": "#00a5a5",
+        "Kenya": "#5252a5",
+        "Malaysia": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 397000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Mortality rate in different countries in 1993",
+    "x_axis": {
+        "categories": [
+            "Infant",
+            "Under five"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle income": "#A020F0",
+        "Guinea-Bissau": "#B8860B",
+        "United States": "#00BFFF"
+    },
+    "data": {
+        "Middle income": [
+            62.4,
+            86.3
+        ],
+        "Guinea-Bissau": [
+            127.6,
+            215.5
+        ],
+        "United States": [
+            8.5,
+            10.1
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 220
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

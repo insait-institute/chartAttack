@@ -1,0 +1,52 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in South Asia",
+    "legend": {
+        "Pakistan": "#f27979",
+        "Peru": "#00f200",
+        "Portugal": "#5252a5"
+    },
+    "categories": [
+        "Merchandise exports to low and middle-income economies in South Asia"
+    ],
+    "data": {
+        "Pakistan": [
+            9.03522205206738
+        ],
+        "Peru": [
+            0.0489236790606654
+        ],
+        "Portugal": [
+            0.370153305160554
+        ]
+    },
+    "colors": {
+        "Pakistan": "#f27979",
+        "Peru": "#00f200",
+        "Portugal": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

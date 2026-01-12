@@ -1,0 +1,64 @@
+{
+    "title": "Total female labor force of a country",
+    "legend": {
+        "Lower middle income": "#00BFFF",
+        "Iran": "#8B4513",
+        "Kenya": "#F4A460"
+    },
+    "categories": [
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "data": {
+        "Lower middle income": [
+            33.2232928145434,
+            33.1884922097829,
+            33.1229867901843,
+            33.2298609105353
+        ],
+        "Iran": [
+            11.7945043935706,
+            12.195145508976,
+            13.0581014242152,
+            13.9085870116456
+        ],
+        "Kenya": [
+            47.02269880608539,
+            46.9729116494209,
+            46.91945335834121,
+            46.861692714235
+        ]
+    },
+    "colors": {
+        "Lower middle income": "#00BFFF",
+        "Iran": "#8B4513",
+        "Kenya": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

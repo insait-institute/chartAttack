@@ -1,0 +1,62 @@
+{
+    "title": "Fertilizer consumption per hectare of arable land",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Turkey": "#f27979",
+        "Uganda": "#79f200",
+        "Ukraine": "#52a5a5",
+        "United Arab Emirates": "#5200a5"
+    },
+    "data": {
+        "Turkey": [
+            72.7959489872468
+        ],
+        "Uganda": [
+            1.33267857142857
+        ],
+        "Ukraine": [
+            15.9493915929204
+        ],
+        "United Arab Emirates": [
+            672.266666666667
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 940
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Turkey": "#f27979",
+        "Uganda": "#79f200",
+        "Ukraine": "#52a5a5",
+        "United Arab Emirates": "#5200a5"
+    }
+}

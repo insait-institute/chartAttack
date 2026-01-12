@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of unemployed male labor force of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Japan": "#f27979",
+        "Korea (Republic)": "#00f200",
+        "Netherlands": "#5252a5"
+    },
+    "data": {
+        "Japan": [
+            2.20000004768372
+        ],
+        "Korea (Republic)": [
+            6.199999809265139
+        ],
+        "Netherlands": [
+            4.30000019073486
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Japan": "#f27979",
+        "Korea (Republic)": "#00f200",
+        "Netherlands": "#5252a5"
+    }
+}

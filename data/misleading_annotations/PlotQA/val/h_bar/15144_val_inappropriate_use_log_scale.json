@@ -1,0 +1,51 @@
+{
+    "title": "Percentage of enrolment in primary education in private institutions in 2008",
+    "legend": {
+        "Enrolment ": "#6B8E23"
+    },
+    "categories": [
+        "Arab World",
+        "Caribbean small states",
+        "Central Europe",
+        "East Asia (all income levels)",
+        "East Asia (developing only)",
+        "Euro area"
+    ],
+    "data": {
+        "Enrolment ": [
+            7.19828987121582,
+            31.1084594726563,
+            2.17952990531921,
+            6.74285984039307,
+            6.773729801177981,
+            14.152099609375
+        ]
+    },
+    "colors": {
+        "Enrolment ": "#6B8E23"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

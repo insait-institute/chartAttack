@@ -1,0 +1,68 @@
+{
+    "title": "Total labor force of a country",
+    "legend": {
+        "1990": "#FF0000",
+        "1991": "#556B2F",
+        "1992": "#32CD32"
+    },
+    "categories": [
+        "Bosnia and Herzegovina",
+        "Botswana",
+        "Brazil",
+        "Brunei Darussalam",
+        "Bulgaria"
+    ],
+    "data": {
+        "1990": [
+            1591236,
+            560404,
+            62785855,
+            109728,
+            4077759
+        ],
+        "1991": [
+            1550039,
+            583174,
+            66647906,
+            113909,
+            4012464
+        ],
+        "1992": [
+            1490980.0,
+            607792.0,
+            70625546.0,
+            118033.0,
+            3951618.0
+        ]
+    },
+    "colors": {
+        "1990": "#FF0000",
+        "1991": "#556B2F",
+        "1992": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70625550
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

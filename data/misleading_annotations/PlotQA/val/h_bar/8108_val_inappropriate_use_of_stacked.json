@@ -1,0 +1,57 @@
+{
+    "title": "Total rural population of a country",
+    "legend": {
+        "Least developed countries": "#f27979",
+        "Low & middle income": "#79f200",
+        "Low income": "#52a5a5",
+        "Lower middle income": "#5200a5"
+    },
+    "categories": [
+        "Total rural population of a country"
+    ],
+    "data": {
+        "Least developed countries": [
+            90.3837387878129
+        ],
+        "Low & middle income": [
+            78.7271061163299
+        ],
+        "Low income": [
+            88.50160374850859
+        ],
+        "Lower middle income": [
+            80.1894866547178
+        ]
+    },
+    "colors": {
+        "Least developed countries": "#f27979",
+        "Low & middle income": "#79f200",
+        "Low income": "#52a5a5",
+        "Lower middle income": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Revenue collected vs subsidy given by the government in 2009",
+    "legend": {
+        "Revenue": "#006400",
+        "Subsidies": "#8FBC8F"
+    },
+    "categories": [
+        "Paraguay",
+        "Peru",
+        "Philippines",
+        "Poland",
+        "Portugal",
+        "Qatar"
+    ],
+    "data": {
+        "Revenue": [
+            16202838622065.0,
+            69009654360.14,
+            1122941000000.0,
+            403286000000.0,
+            58056924000.0,
+            169077957257.0
+        ],
+        "Subsidies": [
+            328148000000.0,
+            40852024909.9,
+            14539125518.0,
+            104564580000.0,
+            7334400000000.0,
+            162440150000.0
+        ]
+    },
+    "colors": {
+        "Revenue": "#006400",
+        "Subsidies": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 16202838622070
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

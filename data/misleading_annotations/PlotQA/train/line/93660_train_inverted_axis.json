@@ -1,0 +1,91 @@
+{
+    "title": "Percentage of female workers employed in various sectors of European Union",
+    "legend": {
+        "Agriculture": "#00FF7F",
+        "Industry": "#FF4500",
+        "Services": "#FFD700",
+        "Self-employed": "#C71585"
+    },
+    "x_axis": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "Employment (as % of female employment)",
+    "data": [
+        {
+            "label": "Agriculture",
+            "color": "#00FF7F",
+            "values": [
+                8.30123789499507,
+                7.89723164390434,
+                7.0074428928301,
+                6.71411673029142,
+                6.480129891903268
+            ]
+        },
+        {
+            "label": "Industry",
+            "color": "#FF4500",
+            "values": [
+                17.5817716595778,
+                17.5790281237585,
+                17.2659773956713,
+                17.0061711378369,
+                16.8167789801992
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#FFD700",
+            "values": [
+                73.7797965821464,
+                74.22883763136109,
+                75.3917238629628,
+                75.89886860898929,
+                76.3525772291282
+            ]
+        },
+        {
+            "label": "Self-employed",
+            "color": "#C71585",
+            "values": [
+                15.8511576318776,
+                15.51230244901931,
+                15.1625426981258,
+                14.8058732553925,
+                14.6867960403226
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

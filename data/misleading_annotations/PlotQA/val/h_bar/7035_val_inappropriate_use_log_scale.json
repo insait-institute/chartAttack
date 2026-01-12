@@ -1,0 +1,55 @@
+{
+    "title": "Cost of damage due to depletion of coal depletion",
+    "legend": {
+        "1970": "#B8860B",
+        "1971": "#00CED1"
+    },
+    "categories": [
+        "Burundi",
+        "Cameroon",
+        "Canada",
+        "Central African Republic"
+    ],
+    "data": {
+        "1970": [
+            0.0353656785254595,
+            0.0831101624661652,
+            0.527150388396169,
+            0.148951952308299
+        ],
+        "1971": [
+            0.0426937979311302,
+            0.102991585469887,
+            0.512337709515775,
+            0.130784064884841
+        ]
+    },
+    "colors": {
+        "1970": "#B8860B",
+        "1971": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

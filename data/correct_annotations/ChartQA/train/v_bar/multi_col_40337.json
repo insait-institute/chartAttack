@@ -1,0 +1,84 @@
+{
+    "title": "Net sales in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Net sales in million U.S. dollars"
+    },
+    "legend": {
+        "United States": "#2876dd",
+        "Canada": "#0f283e",
+        "Other International*": "#bababa"
+    },
+    "data": {
+        "United States": [
+            1059.99,
+            1064.3,
+            1288.3,
+            1558.23,
+            1876.2,
+            1920.05,
+            2055.48,
+            2128.1,
+            2197.39
+        ],
+        "Canada": [
+            48.06,
+            49.46,
+            63.67,
+            85.14,
+            103.27,
+            130.56,
+            160.37,
+            171.86,
+            167.96
+        ],
+        "Other International*": [
+            497.97,
+            446.56,
+            494.39,
+            33.6,
+            1167.85,
+            1512.71,
+            1948.32,
+            2342.1,
+            2854.7
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2860
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

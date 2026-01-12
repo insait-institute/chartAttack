@@ -1,0 +1,56 @@
+{
+    "title": "",
+    "legend": {
+        "Export value": "#2876dd"
+    },
+    "categories": [
+        "European Union",
+        "Asia & Oceania",
+        "North America",
+        "Middle East and North Africa (excl EU)",
+        "Western Europe (excl. EU)",
+        "Latin America and Caribbean",
+        "Sub-Saharan Africa",
+        "Eastern Europe (excl EU)"
+    ],
+    "data": {
+        "Export value": [
+            17189,
+            5251,
+            4630,
+            1595,
+            1413,
+            648,
+            536,
+            487
+        ]
+    },
+    "colors": {
+        "Export value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17190
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

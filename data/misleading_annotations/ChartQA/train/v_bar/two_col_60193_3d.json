@@ -1,0 +1,98 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2014 Q1",
+            "2014 Q2",
+            "2014 Q3",
+            "2014 Q4",
+            "2015 Q1",
+            "2015 Q2",
+            "2015 Q3",
+            "2015 Q4",
+            "2016 Q1",
+            "2016 Q2",
+            "2016 Q3",
+            "2016 Q4",
+            "2017 Q1",
+            "2017 Q2",
+            "2017 Q3",
+            "2017 Q4",
+            "2018 Q1",
+            "2018 Q2",
+            "2018 Q3",
+            "2018 Q4",
+            "2019 Q1",
+            "2019 Q2",
+            "2019 Q3",
+            "2019 Q4",
+            "2020 Q1",
+            "2020 Q2",
+            "2020 Q3",
+            "2020 Q4"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            44.58,
+            40.91,
+            64.79,
+            72.87,
+            69.47,
+            56.15,
+            63.25,
+            61.03,
+            54.53,
+            48.36,
+            51.38,
+            46.31,
+            56.79,
+            68.67,
+            81.15,
+            80.2,
+            81.44,
+            90.19,
+            99.29,
+            95.6,
+            95.9,
+            95.5,
+            107.1,
+            112.9,
+            107.3,
+            133.3,
+            158.5,
+            141.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 160
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

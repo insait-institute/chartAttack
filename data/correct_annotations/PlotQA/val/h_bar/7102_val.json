@@ -1,0 +1,56 @@
+{
+    "title": "Prevalence of weight issues in children under 5 in Kenya",
+    "legend": {
+        "Overweight": "#40E0D0",
+        "Low weight for height": "#4B0082"
+    },
+    "categories": [
+        "2000",
+        "2003",
+        "2009",
+        "2014"
+    ],
+    "data": {
+        "Overweight": [
+            8.10000038146973,
+            5.800000190734861,
+            5.0,
+            4.099999904632569
+        ],
+        "Low weight for height": [
+            5.699999809265139,
+            7.099999904632571,
+            9.39999961853027,
+            8.699999809265138
+        ]
+    },
+    "colors": {
+        "Overweight": "#40E0D0",
+        "Low weight for height": "#4B0082"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

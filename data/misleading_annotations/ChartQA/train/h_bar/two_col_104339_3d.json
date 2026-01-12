@@ -1,0 +1,60 @@
+{
+    "title": "Market share of visits",
+    "legend": {
+        "Visits": "#2876dd"
+    },
+    "categories": [
+        "AT&T",
+        "Verizon Wireless",
+        "Verizon",
+        "Verizon Wireless - My Account",
+        "Skype",
+        "Comcast customerCentral",
+        "Comcast",
+        "T-Mobile USA",
+        "ATTSavings.com",
+        "Sprint - Shop"
+    ],
+    "data": {
+        "Visits": [
+            10.8,
+            9.7,
+            7.6,
+            6.0,
+            4.7,
+            4.7,
+            3.9,
+            3.3,
+            2.8,
+            2.4
+        ]
+    },
+    "colors": {
+        "Visits": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

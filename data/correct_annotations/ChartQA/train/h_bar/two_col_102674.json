@@ -1,0 +1,66 @@
+{
+    "title": "Share of flights on time",
+    "categories": [
+        "BMI Regional",
+        "BA Cityflyer",
+        "Flybe.com",
+        "EasyJet",
+        "Ryanair",
+        "Aer Lingus",
+        "Virgin Atlantic",
+        "Thomson Airways",
+        "Thomas Cook Airlines",
+        "Jet2.com",
+        "British Airways",
+        "Monarch (scheduled flights)",
+        "Monarch (charter flights)"
+    ],
+    "data": {
+        "Flights on time": [
+            92,
+            90.4,
+            84.8,
+            84.5,
+            84.2,
+            83.6,
+            82.8,
+            79.7,
+            77.6,
+            74.8,
+            73.7,
+            72.5,
+            60.9
+        ]
+    },
+    "colors": {
+        "Flights on time": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Flights on time": "#2876dd"
+    }
+}

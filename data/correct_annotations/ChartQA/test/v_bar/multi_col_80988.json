@@ -1,0 +1,72 @@
+{
+    "title": "Sales in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales in billion U.S. dollars"
+    },
+    "legend": {
+        "Merchandise": "#2876dd",
+        "Foodservice": "#0f283e"
+    },
+    "data": {
+        "Merchandise": [
+            158.5,
+            165.2,
+            167.4,
+            171.9,
+            179.5,
+            185.5,
+            188.9,
+            191.5,
+            195.5
+        ],
+        "Foodservice": [
+            25.6,
+            27.6,
+            29.4,
+            31.2,
+            33.5,
+            35.7,
+            37,
+            37.9,
+            39.8
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 200
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

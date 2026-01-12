@@ -1,0 +1,62 @@
+{
+    "title": "Export value in TIV in million constant (1990) U.S. dollars",
+    "categories": [
+        "Pakistan",
+        "United Arab Emirates",
+        "United States",
+        "Brazil",
+        "Switzerland",
+        "Denmark",
+        "Malaysia",
+        "Poland",
+        "Mexico",
+        "Ireland",
+        "Canada"
+    ],
+    "data": {
+        "Export Value": [
+            80,
+            80,
+            63,
+            34,
+            10,
+            6,
+            5,
+            3,
+            3,
+            2,
+            1
+        ]
+    },
+    "colors": {
+        "Export Value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Export Value": "#2876dd"
+    }
+}

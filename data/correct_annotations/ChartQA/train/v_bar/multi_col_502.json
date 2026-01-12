@@ -1,0 +1,96 @@
+{
+    "title": "Revenue in million euros",
+    "x_axis": {
+        "categories": [
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million euros"
+    },
+    "legend": {
+        "Matchday": "#2876dd",
+        "Broadcasting": "#0f283e",
+        "Commercial": "#bababa"
+    },
+    "data": {
+        "Matchday": [
+            117.5,
+            114.7,
+            103.2,
+            117.7,
+            108.3,
+            119.8,
+            132,
+            133.6,
+            116.4,
+            111.6,
+            109.2,
+            89.7
+        ],
+        "Broadcasting": [
+            89,
+            105.7,
+            96.7,
+            107.7,
+            103.2,
+            147.3,
+            167.7,
+            192,
+            234.7,
+            206.9,
+            210.6,
+            136
+        ],
+        "Commercial": [
+            56.5,
+            53.7,
+            51.2,
+            64.9,
+            72.8,
+            92.2,
+            135.8,
+            142.9,
+            136.5,
+            120.7,
+            125.8,
+            162.3
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 240
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

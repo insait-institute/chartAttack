@@ -1,0 +1,68 @@
+{
+    "title": "Official Aid received by a country",
+    "legend": {
+        "Panama": "#0000FF",
+        "Trinidad and Tobago": "#008080",
+        "Vanuatu": "#663399"
+    },
+    "categories": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "data": {
+        "Panama": [
+            38430000.0,
+            48010000.0,
+            58750000.0,
+            61420000.0,
+            36500000.0
+        ],
+        "Trinidad and Tobago": [
+            31280000.0,
+            33930000.0,
+            22650000.0,
+            48550000.0,
+            20790000.0
+        ],
+        "Vanuatu": [
+            66610000.0,
+            67670000.0,
+            51090000.0,
+            46580000.0,
+            72580000.0
+        ]
+    },
+    "colors": {
+        "Panama": "#0000FF",
+        "Trinidad and Tobago": "#008080",
+        "Vanuatu": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 72580000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Logistics performance index assessing ease of arranging competitively priced shipments to markets",
+    "legend": {
+        "2007": "#f27979",
+        "2010": "#79f200",
+        "2012": "#52a5a5",
+        "2014": "#5200a5"
+    },
+    "categories": [
+        "Logistics performance index assessing ease of arranging competitively priced shipments to markets"
+    ],
+    "data": {
+        "2007": [
+            3.97
+        ],
+        "2010": [
+            3.78
+        ],
+        "2012": [
+            3.71
+        ],
+        "2014": [
+            3.26111
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2010": "#79f200",
+        "2012": "#52a5a5",
+        "2014": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

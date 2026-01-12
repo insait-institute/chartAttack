@@ -1,0 +1,78 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "legend": {
+        "1960": "#006400",
+        "1961": "#00640c",
+        "1962": "#006e1a",
+        "1963": "#015921"
+    },
+    "categories": [
+        "Low & middle income",
+        "Middle income",
+        "South Asia",
+        "Sub-Saharan Africa (all income levels)"
+    ],
+    "data": {
+        "1960": [
+            53219236177.3524,
+            52315258254.5442,
+            5855166632.503679,
+            3015762445.93982
+        ],
+        "1961": [
+            42727070142.3429,
+            41970829978.9806,
+            6452965151.14765,
+            3271147944.92208
+        ],
+        "1962": [
+            42004750877.216,
+            41259200210.452,
+            7151096166.272079,
+            3480574906.29782
+        ],
+        "1963": [
+            48430710173.452,
+            47565458419.7051,
+            8067907045.827391,
+            3983339926.79705
+        ]
+    },
+    "colors": {
+        "1960": "#006400",
+        "1961": "#191970",
+        "1962": "#00FF00",
+        "1963": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 53219236180
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#006400",
+        "1961": "#00640c",
+        "1962": "#006e1a",
+        "1963": "#015921"
+    }
+}

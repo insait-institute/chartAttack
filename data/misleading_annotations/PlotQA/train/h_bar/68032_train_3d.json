@@ -1,0 +1,77 @@
+{
+    "title": "Adjusted net savings excluding particulate emission damage",
+    "legend": {
+        "1970": "#9ACD32",
+        "1971": "#FF8C00",
+        "1972": "#FF0000",
+        "1973": "#000000"
+    },
+    "categories": [
+        "Austria",
+        "Canada",
+        "Colombia",
+        "Dominican Republic",
+        "Israel"
+    ],
+    "data": {
+        "1970": [
+            19.1057455582549,
+            13.9488436723505,
+            5.35556625618613,
+            10.9125758505388,
+            9.61473281881254
+        ],
+        "1971": [
+            18.9222617687286,
+            14.3310461788809,
+            0.979208579253249,
+            7.90369676987624,
+            16.6741781400332
+        ],
+        "1972": [
+            19.7784404905126,
+            14.2721607195033,
+            3.08290491682137,
+            14.2420190545845,
+            19.01807599657069
+        ],
+        "1973": [
+            19.9444516115436,
+            14.7761449540489,
+            5.392352385993839,
+            15.2377461206629,
+            13.901993901746
+        ]
+    },
+    "colors": {
+        "1970": "#9ACD32",
+        "1971": "#FF8C00",
+        "1972": "#FF0000",
+        "1973": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,57 @@
+{
+    "title": "CO2 emissions from different sources in 2002",
+    "legend": {
+        "Denmark": "#6b8e23",
+        "Japan": "#518e23"
+    },
+    "categories": [
+        "Other sectors",
+        "Resident buildings and public services",
+        "Transport"
+    ],
+    "data": {
+        "Denmark": [
+            3.99692544196772,
+            8.95465026902383,
+            23.3282090699462
+        ],
+        "Japan": [
+            1.32097296028699,
+            15.0503746668231,
+            21.2101654568924
+        ]
+    },
+    "colors": {
+        "Denmark": "#6B8E23",
+        "Japan": "#D2B48C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Denmark": "#6b8e23",
+        "Japan": "#518e23"
+    }
+}

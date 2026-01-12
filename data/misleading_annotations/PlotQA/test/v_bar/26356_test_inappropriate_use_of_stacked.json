@@ -1,0 +1,62 @@
+{
+    "title": "Fertilizer consumption per hectare of arable land",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (developing only)": "#f27979",
+        "Middle income": "#79f200",
+        "North America": "#52a5a5",
+        "OECD members": "#5200a5"
+    },
+    "data": {
+        "Middle East & North Africa (developing only)": [
+            87.88421006698229
+        ],
+        "Middle income": [
+            112.384134508811
+        ],
+        "North America": [
+            101.041581505512
+        ],
+        "OECD members": [
+            116.961597790393
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (developing only)": "#f27979",
+        "Middle income": "#79f200",
+        "North America": "#52a5a5",
+        "OECD members": "#5200a5"
+    }
+}

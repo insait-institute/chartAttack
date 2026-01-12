@@ -1,0 +1,102 @@
+{
+    "title": "Share of gross final consumption",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of gross final consumption"
+    },
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#f27900",
+        "2008": "#f2f279",
+        "2009": "#79f200",
+        "2010": "#79f279",
+        "2011": "#00a552",
+        "2012": "#52a5a5",
+        "2013": "#0052a5",
+        "2014": "#5252a5",
+        "2015": "#5200a5",
+        "2016": "#f279f2",
+        "2017": "#f20079"
+    },
+    "data": {
+        "2006": [
+            42.7
+        ],
+        "2007": [
+            44.2
+        ],
+        "2008": [
+            45.3
+        ],
+        "2009": [
+            48.2
+        ],
+        "2010": [
+            47.2
+        ],
+        "2011": [
+            48.7
+        ],
+        "2012": [
+            51.1
+        ],
+        "2013": [
+            52.0
+        ],
+        "2014": [
+            52.4
+        ],
+        "2015": [
+            53.6
+        ],
+        "2016": [
+            53.8
+        ],
+        "2017": [
+            54.5
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#f27900",
+        "2008": "#f2f279",
+        "2009": "#79f200",
+        "2010": "#79f279",
+        "2011": "#00a552",
+        "2012": "#52a5a5",
+        "2013": "#0052a5",
+        "2014": "#5252a5",
+        "2015": "#5200a5",
+        "2016": "#f279f2",
+        "2017": "#f20079"
+    }
+}

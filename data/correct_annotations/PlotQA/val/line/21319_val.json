@@ -1,0 +1,61 @@
+{
+    "title": "Total onduty military personnel active in Belarus",
+    "legend": {
+        "Armed forces personnel": "#87CEEB"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Armed forces personnel",
+    "data": [
+        {
+            "label": "Armed forces personnel",
+            "color": "#87CEEB",
+            "values": [
+                91000,
+                103900,
+                91100,
+                192900,
+                189800,
+                182900,
+                182000,
+                183000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 91000,
+                "max_value": 192900
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

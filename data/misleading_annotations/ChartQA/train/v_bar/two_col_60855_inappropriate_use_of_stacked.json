@@ -1,0 +1,97 @@
+{
+    "title": "Number of children born per woman",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of children born per woman"
+    },
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#f28400",
+        "2010": "#e7f279",
+        "2011": "#58f200",
+        "2012": "#52a561",
+        "2013": "#00a578",
+        "2014": "#528fa5",
+        "2015": "#001ea5",
+        "2016": "#a579f2",
+        "2017": "#dc00f2",
+        "2018": "#f279bb"
+    },
+    "data": {
+        "2008": [
+            6.33
+        ],
+        "2009": [
+            6.23
+        ],
+        "2010": [
+            6.11
+        ],
+        "2011": [
+            5.98
+        ],
+        "2012": [
+            5.85
+        ],
+        "2013": [
+            5.7
+        ],
+        "2014": [
+            5.55
+        ],
+        "2015": [
+            5.39
+        ],
+        "2016": [
+            5.24
+        ],
+        "2017": [
+            5.1
+        ],
+        "2018": [
+            4.96
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#f28400",
+        "2010": "#e7f279",
+        "2011": "#58f200",
+        "2012": "#52a561",
+        "2013": "#00a578",
+        "2014": "#528fa5",
+        "2015": "#001ea5",
+        "2016": "#a579f2",
+        "2017": "#dc00f2",
+        "2018": "#f279bb"
+    }
+}

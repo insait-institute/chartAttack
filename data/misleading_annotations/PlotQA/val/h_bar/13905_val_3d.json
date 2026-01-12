@@ -1,0 +1,82 @@
+{
+    "title": "Total exports of goods and services in US$",
+    "legend": {
+        "Norway": "#556B2F",
+        "Pakistan": "#000000",
+        "Slovenia": "#FFD700",
+        "Turkey": "#BC8F8F"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "data": {
+        "Norway": [
+            44804978785.1877,
+            47467411017.9098,
+            56528602096.2243,
+            65313808180.0986,
+            65441796024.5426,
+            56898781990.961
+        ],
+        "Pakistan": [
+            8394297012.573759,
+            8449775780.2813,
+            10132260947.2744,
+            10703064802.2602,
+            10040494157.2716,
+            10252214043.9952
+        ],
+        "Slovenia": [
+            6955372910.05291,
+            8058968744.18605,
+            9701961180.752121,
+            9921476628.895193,
+            9875300120.04802,
+            10518609347.9515
+        ],
+        "Turkey": [
+            24636054545.4545,
+            27918206081.0811,
+            33713478165.9389,
+            39094658476.6585,
+            46664617511.5207,
+            57459512850.0192
+        ]
+    },
+    "colors": {
+        "Norway": "#556B2F",
+        "Pakistan": "#000000",
+        "Slovenia": "#FFD700",
+        "Turkey": "#BC8F8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 65441796030
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

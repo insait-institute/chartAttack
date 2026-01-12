@@ -1,0 +1,62 @@
+{
+    "title": "Expenditure on health care via private funds",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Guatemala": "#f27979",
+        "Guinea": "#79f200",
+        "Guinea-Bissau": "#52a5a5",
+        "Guyana": "#5200a5"
+    },
+    "data": {
+        "Guatemala": [
+            2.35072538731476
+        ],
+        "Guinea": [
+            2.28683032989688
+        ],
+        "Guinea-Bissau": [
+            4.840088640398151
+        ],
+        "Guyana": [
+            0.9424385878382701
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Guatemala": "#f27979",
+        "Guinea": "#79f200",
+        "Guinea-Bissau": "#52a5a5",
+        "Guyana": "#5200a5"
+    }
+}

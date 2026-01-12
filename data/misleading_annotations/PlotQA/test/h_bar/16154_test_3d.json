@@ -1,0 +1,48 @@
+{
+    "title": "Percentage of infants who were provided with ARI treatment in Swaziland",
+    "legend": {
+        "ARI treatment": "#66CDAA"
+    },
+    "categories": [
+        "2000",
+        "2004",
+        "2007",
+        "2010"
+    ],
+    "data": {
+        "ARI treatment": [
+            60.0,
+            71.6,
+            73.4,
+            57.6
+        ]
+    },
+    "colors": {
+        "ARI treatment": "#66CDAA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

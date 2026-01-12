@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Donald Cerrone": "#f27979",
+        "Anderson Silva": "#f29100",
+        "Jeremy Stephens": "#daf279",
+        "Junior Dos Santos": "#30f200",
+        "Chuck Liddell": "#52a574",
+        "Lyoto Machida": "#00a5a5",
+        "Mauricio Rua": "#5274a5",
+        "Thiago Alves": "#2100a5",
+        "Melvin Guillard": "#da79f2",
+        "Anthony Johnson": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Donald Cerrone": [
+            20.0
+        ],
+        "Anderson Silva": [
+            18.0
+        ],
+        "Jeremy Stephens": [
+            18.0
+        ],
+        "Junior Dos Santos": [
+            14.0
+        ],
+        "Chuck Liddell": [
+            14.0
+        ],
+        "Lyoto Machida": [
+            14.0
+        ],
+        "Mauricio Rua": [
+            14.0
+        ],
+        "Thiago Alves": [
+            13.0
+        ],
+        "Melvin Guillard": [
+            13.0
+        ],
+        "Anthony Johnson": [
+            13.0
+        ]
+    },
+    "colors": {
+        "Donald Cerrone": "#f27979",
+        "Anderson Silva": "#f29100",
+        "Jeremy Stephens": "#daf279",
+        "Junior Dos Santos": "#30f200",
+        "Chuck Liddell": "#52a574",
+        "Lyoto Machida": "#00a5a5",
+        "Mauricio Rua": "#5274a5",
+        "Thiago Alves": "#2100a5",
+        "Melvin Guillard": "#da79f2",
+        "Anthony Johnson": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

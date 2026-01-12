@@ -1,0 +1,62 @@
+{
+    "title": "Total population between the ages 15 to 64 as a percentage of the total population",
+    "legend": {
+        "Uruguay": "#f27979",
+        "Uzbekistan": "#c1f200",
+        "Vanuatu": "#52a574",
+        "Venezuela": "#0042a5",
+        "Vietnam": "#da79f2"
+    },
+    "categories": [
+        "Total population between the ages 15 to 64 as a percentage of the total population"
+    ],
+    "data": {
+        "Uruguay": [
+            63.97980659807122
+        ],
+        "Uzbekistan": [
+            59.5360915056297
+        ],
+        "Vanuatu": [
+            51.339853377498
+        ],
+        "Venezuela": [
+            51.89518150891539
+        ],
+        "Vietnam": [
+            55.1431418984572
+        ]
+    },
+    "colors": {
+        "Uruguay": "#f27979",
+        "Uzbekistan": "#c1f200",
+        "Vanuatu": "#52a574",
+        "Venezuela": "#0042a5",
+        "Vietnam": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

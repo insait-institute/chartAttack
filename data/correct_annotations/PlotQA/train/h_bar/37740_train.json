@@ -1,0 +1,60 @@
+{
+    "title": "Proportion of the female labor force ages 15-24 who participated in production",
+    "legend": {
+        "1990": "#BC8F8F",
+        "1991": "#66CDAA",
+        "1992": "#228B22"
+    },
+    "categories": [
+        "East Asia (developing only)",
+        "Euro area",
+        "Europe(all income levels)"
+    ],
+    "data": {
+        "1990": [
+            72.082738407395,
+            47.6902476584251,
+            47.61800634317211
+        ],
+        "1991": [
+            71.190831970575,
+            46.8558194516895,
+            47.3442712413754
+        ],
+        "1992": [
+            70.3019005305279,
+            44.8310258995828,
+            46.0036030153938
+        ]
+    },
+    "colors": {
+        "1990": "#BC8F8F",
+        "1991": "#66CDAA",
+        "1992": "#228B22"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

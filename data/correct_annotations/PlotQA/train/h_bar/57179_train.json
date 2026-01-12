@@ -1,0 +1,62 @@
+{
+    "title": "Trade statistics of goods and services in 1981",
+    "legend": {
+        "Argentina": "#FF7F50",
+        "Bangladesh": "#CD853F",
+        "Gabon": "#32CD32",
+        "Zimbabwe": "#808000"
+    },
+    "categories": [
+        "Exports",
+        "Imports"
+    ],
+    "data": {
+        "Argentina": [
+            31961858600,
+            39274028000
+        ],
+        "Bangladesh": [
+            43563316500,
+            100848948100
+        ],
+        "Gabon": [
+            1212317136910.29,
+            1765432082879.88
+        ],
+        "Zimbabwe": [
+            2853629700,
+            2319473600
+        ]
+    },
+    "colors": {
+        "Argentina": "#FF7F50",
+        "Bangladesh": "#CD853F",
+        "Gabon": "#32CD32",
+        "Zimbabwe": "#808000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1765432082880
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

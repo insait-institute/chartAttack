@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of rural population having access to electricity",
+    "legend": {
+        "1990": "#C71585",
+        "2000": "#808000",
+        "2010": "#7FFFD4"
+    },
+    "categories": [
+        "Greenland",
+        "Grenada",
+        "Guam",
+        "Guatemala",
+        "Guinea",
+        "Guinea-Bissau"
+    ],
+    "data": {
+        "1990": [
+            100.0,
+            67.71096,
+            34.79828,
+            61.26978,
+            0.1,
+            10.07946
+        ],
+        "2000": [
+            100.0,
+            72.26501999999998,
+            39.52079000000001,
+            67.1,
+            1.5,
+            14.0
+        ],
+        "2010": [
+            100.0,
+            77.0,
+            42.7,
+            68.0,
+            2.8,
+            18.7
+        ]
+    },
+    "colors": {
+        "1990": "#C71585",
+        "2000": "#808000",
+        "2010": "#7FFFD4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

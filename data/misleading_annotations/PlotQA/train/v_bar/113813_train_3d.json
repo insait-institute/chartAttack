@@ -1,0 +1,57 @@
+{
+    "title": "Total earnings from merchandise exports and imports in 1997",
+    "x_axis": {
+        "categories": [
+            "Low & middle income",
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#00FFFF",
+        "Merchandise imports": "#6495ED"
+    },
+    "data": {
+        "Merchandise exports": [
+            921149133226.065,
+            13663711527.3295,
+            226420190105.6111,
+            229184725201.275
+        ],
+        "Merchandise imports": [
+            996894249606.854,
+            21827258431.4115,
+            270496982260.225,
+            199337417002.781
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 996894249610
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

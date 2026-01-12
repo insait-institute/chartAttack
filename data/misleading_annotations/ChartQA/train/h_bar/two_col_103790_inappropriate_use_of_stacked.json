@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Steve Largent": "#f27979",
+        "Brian Blades": "#f24800",
+        "Doug Baldwin": "#f2c179",
+        "Darrell Jackson": "#f2da00",
+        "Tyler Lockett": "#daf279",
+        "Bobby Engram": "#79f200",
+        "Joey Galloway": "#91f279",
+        "John Williams": "#00a510",
+        "Koren Robinson": "#52a574",
+        "Sam McCullum": "#00a574",
+        "Deion Branch": "#52a5a5",
+        "Sherman Smith": "#0074a5",
+        "Mike Pritchard": "#5274a5",
+        "D.K. Metcalf": "#0010a5",
+        "Golden Tate": "#9179f2",
+        "Jermaine Kearse": "#7900f2",
+        "Jimmy Graham": "#da79f2",
+        "Tommy Kane": "#f200da",
+        "Dan Doornink": "#f279c1",
+        "Paul Skansi": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Steve Largent": [
+            13089.0
+        ],
+        "Brian Blades": [
+            7620.0
+        ],
+        "Doug Baldwin": [
+            6563.0
+        ],
+        "Darrell Jackson": [
+            6445.0
+        ],
+        "Tyler Lockett": [
+            4892.0
+        ],
+        "Bobby Engram": [
+            4859.0
+        ],
+        "Joey Galloway": [
+            4457.0
+        ],
+        "John Williams": [
+            4151.0
+        ],
+        "Koren Robinson": [
+            3567.0
+        ],
+        "Sam McCullum": [
+            3409.0
+        ],
+        "Deion Branch": [
+            2347.0
+        ],
+        "Sherman Smith": [
+            2342.0
+        ],
+        "Mike Pritchard": [
+            2288.0
+        ],
+        "D.K. Metcalf": [
+            2203.0
+        ],
+        "Golden Tate": [
+            2195.0
+        ],
+        "Jermaine Kearse": [
+            2109.0
+        ],
+        "Jimmy Graham": [
+            2048.0
+        ],
+        "Tommy Kane": [
+            2034.0
+        ],
+        "Dan Doornink": [
+            1940.0
+        ],
+        "Paul Skansi": [
+            1911.0
+        ]
+    },
+    "colors": {
+        "Steve Largent": "#f27979",
+        "Brian Blades": "#f24800",
+        "Doug Baldwin": "#f2c179",
+        "Darrell Jackson": "#f2da00",
+        "Tyler Lockett": "#daf279",
+        "Bobby Engram": "#79f200",
+        "Joey Galloway": "#91f279",
+        "John Williams": "#00a510",
+        "Koren Robinson": "#52a574",
+        "Sam McCullum": "#00a574",
+        "Deion Branch": "#52a5a5",
+        "Sherman Smith": "#0074a5",
+        "Mike Pritchard": "#5274a5",
+        "D.K. Metcalf": "#0010a5",
+        "Golden Tate": "#9179f2",
+        "Jermaine Kearse": "#7900f2",
+        "Jimmy Graham": "#da79f2",
+        "Tommy Kane": "#f200da",
+        "Dan Doornink": "#f279c1",
+        "Paul Skansi": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13090
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

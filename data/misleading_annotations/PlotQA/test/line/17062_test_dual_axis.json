@@ -1,0 +1,78 @@
+{
+    "title": "Net official aid flow in Kuwait",
+    "legend": {
+        "Amount in 2012 US$": "#2F4F4F",
+        "Amount in current US$": "#0000FF"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "Aid recevied(US$)",
+    "data": [
+        {
+            "label": "Amount in 2012 US$",
+            "color": "#2F4F4F",
+            "values": [
+                6190000,
+                7600000,
+                8820000,
+                7340000,
+                4440000
+            ]
+        },
+        {
+            "label": "Amount in current US$",
+            "color": "#0000FF",
+            "values": [
+                3890000,
+                4690000,
+                5710000,
+                5520000,
+                3690000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 4440000,
+                "max_value": 8820000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 3690000,
+                "max_value": 5710000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

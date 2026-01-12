@@ -1,0 +1,84 @@
+{
+    "title": "Number of patent applications filed by China",
+    "legend": {
+        "Non-residents": "#9ACD32",
+        "Residents": "#BDB76B"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Number of applications filed",
+    "data": [
+        {
+            "label": "Non-residents",
+            "color": "#9ACD32",
+            "values": [
+                48548,
+                64598,
+                79842,
+                88183
+            ]
+        },
+        {
+            "label": "Residents",
+            "color": "#BDB76B",
+            "values": [
+                56769,
+                65786,
+                93485,
+                122318
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 48540,
+                "max_value": 122320
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Non-residents",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Residents",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

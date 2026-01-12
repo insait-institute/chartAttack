@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Pig population in millions": "#2876dd"
+    },
+    "categories": [
+        "Assam",
+        "Jharkhand",
+        "Meghalaya",
+        "West Bengal",
+        "Chhattisgarh",
+        "Uttar Pradesh",
+        "Nagaland",
+        "Bihar",
+        "Karnataka",
+        "Mizoram"
+    ],
+    "data": {
+        "Pig population in millions": [
+            2.1,
+            1.28,
+            0.71,
+            0.54,
+            0.53,
+            0.41,
+            0.4,
+            0.34,
+            0.32,
+            0.29
+        ]
+    },
+    "colors": {
+        "Pig population in millions": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

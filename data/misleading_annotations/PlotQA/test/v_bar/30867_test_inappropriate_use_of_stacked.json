@@ -1,0 +1,72 @@
+{
+    "title": "CPIA social protection rating",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Pakistan": "#f27979",
+        "Papua New Guinea": "#f2f200",
+        "Rwanda": "#79f279",
+        "Samoa": "#00a5a5",
+        "Sao Tome and Principe": "#5252a5",
+        "Senegal": "#a500a5"
+    },
+    "data": {
+        "Pakistan": [
+            3.0
+        ],
+        "Papua New Guinea": [
+            3.0
+        ],
+        "Rwanda": [
+            3.5
+        ],
+        "Samoa": [
+            3.5
+        ],
+        "Sao Tome and Principe": [
+            2.5
+        ],
+        "Senegal": [
+            3.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Pakistan": "#f27979",
+        "Papua New Guinea": "#f2f200",
+        "Rwanda": "#79f279",
+        "Samoa": "#00a5a5",
+        "Sao Tome and Principe": "#5252a5",
+        "Senegal": "#a500a5"
+    }
+}

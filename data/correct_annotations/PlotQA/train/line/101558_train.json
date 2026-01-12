@@ -1,0 +1,55 @@
+{
+    "title": "Densiy of new businesses in Luxembourg",
+    "legend": {
+        "New business density": "#228B22"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "new registrations per 1,000 people ages 15-64",
+    "data": [
+        {
+            "label": "New business density",
+            "color": "#228B22",
+            "values": [
+                5.91907863873785,
+                6.48232709680604,
+                6.561351348906491,
+                6.96130903260793,
+                7.311654211270453
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

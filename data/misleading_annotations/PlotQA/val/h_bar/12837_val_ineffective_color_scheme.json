@@ -1,0 +1,83 @@
+{
+    "title": "Split of the expenses made by the government of Lebanon",
+    "legend": {
+        "Miscellaneous expenses": "#cd853f",
+        "Labor Taxes": "#cd963f",
+        "Grants and Revenue": "#cfab47",
+        "Services": "#c8b339"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Miscellaneous expenses": [
+            391181072000,
+            962871000000,
+            454524847000,
+            257717004000,
+            311162684500
+        ],
+        "Labor Taxes": [
+            837869000000,
+            803532000000,
+            1135441000000,
+            1204677000000,
+            1541098000000
+        ],
+        "Grants and Revenue": [
+            2711273000000,
+            2719270000000,
+            2594900000000,
+            2786382575910,
+            1799474000000
+        ],
+        "Services": [
+            291921598000,
+            331036000000,
+            459081685220,
+            494125214000,
+            527692585000
+        ]
+    },
+    "colors": {
+        "Miscellaneous expenses": "#CD853F",
+        "Labor Taxes": "#BDB76B",
+        "Grants and Revenue": "#A0522D",
+        "Services": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2786382575910
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Miscellaneous expenses": "#cd853f",
+        "Labor Taxes": "#cd963f",
+        "Grants and Revenue": "#cfab47",
+        "Services": "#c8b339"
+    }
+}

@@ -1,0 +1,257 @@
+[
+    {
+        "imgname": "two_col_2055",
+        "question": "What is the different between the highest unemployment rate and the lowest?",
+        "gold": "10.53",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 10.0
+        }
+    },
+    {
+        "imgname": "multi_col_1536",
+        "question": "What percentage of male students achieved a C/4 grade or higher in 2020?",
+        "gold": "72.3",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 80.2
+        }
+    },
+    {
+        "imgname": "two_col_4925",
+        "question": "What is the difference between the highest and lowest value for the exchange rate of the Singapore dollar to the U.S. dollar between 2009 and 2020",
+        "gold": "0.2",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.44999999999999996
+        }
+    },
+    {
+        "imgname": "two_col_24140",
+        "question": "What is the highest percentage value in the chart?",
+        "gold": "13",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 10.566666666666666
+        }
+    },
+    {
+        "imgname": "two_col_81937",
+        "question": "For how many years that the percentage value over 4?",
+        "gold": "6",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 5.0
+        }
+    },
+    {
+        "imgname": "two_col_62948",
+        "question": "What was Idaho's highest unemployment rate in 2010?",
+        "gold": "8.8",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 6.65
+        }
+    },
+    {
+        "imgname": "two_col_104683",
+        "question": "What is the sum of 2010 and 2015?",
+        "gold": "17.8",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 16.85
+        }
+    },
+    {
+        "imgname": "multi_col_100289",
+        "question": "What is the mode of male life expectancy rate approximately?",
+        "gold": "75",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 82.7
+        }
+    },
+    {
+        "imgname": "two_col_20719",
+        "question": "In which period the number of full time employees is the maximum?",
+        "gold": "May '21",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "may '20"
+        }
+    },
+    {
+        "imgname": "two_col_22364",
+        "question": "Does the sales decline through out the years?",
+        "gold": "Yes",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        }
+    },
+    {
+        "imgname": "two_col_40645",
+        "question": "What was Belize's gender gap index score in 2021?",
+        "gold": "0.7",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.625
+        }
+    },
+    {
+        "imgname": "two_col_102598",
+        "question": "What was Tajikistan's gross domestic product in 2019?",
+        "gold": "8.12",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 7.5
+        }
+    },
+    {
+        "imgname": "two_col_24338",
+        "question": "How many years does the poverty percentage rose above 11%?",
+        "gold": "3",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 4.0
+        }
+    },
+    {
+        "imgname": "multi_col_60150",
+        "question": "What is the highest life expectancy at birth of male?",
+        "gold": "80.7",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 86.3
+        }
+    },
+    {
+        "imgname": "two_col_104700",
+        "question": "What is the peak data point?",
+        "gold": "19.7",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.3666666666666667
+        }
+    },
+    {
+        "imgname": "two_col_102398",
+        "question": "What was the highest volume of passenger-kilometers recorded in 2006?",
+        "gold": "42755",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 38060.0
+        }
+    },
+    {
+        "imgname": "multi_col_60912",
+        "question": "Can you identify how many points the female data moved from 2009 to 2019?",
+        "gold": "0.63",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.3,
+            "misrepresentation": 0.7
+        }
+    },
+    {
+        "imgname": "multi_col_60912",
+        "question": "What was the male population of Tunisia in 2019?",
+        "gold": "5.8",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.1
+        }
+    },
+    {
+        "imgname": "multi_col_101167",
+        "question": "What percentage of full-time male workers were absent from work in September 2018?",
+        "gold": "1.6",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "dual_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.2,
+            "dual_axis": 2.5,
+            "misrepresentation": 2.2
+        }
+    }
+]

@@ -1,0 +1,52 @@
+{
+    "title": "Split of the miscellaneous expenses made by the government",
+    "legend": {
+        "2005": "#f27979",
+        "2006": "#00f200",
+        "2007": "#5252a5"
+    },
+    "categories": [
+        "Split of the miscellaneous expenses made by the government"
+    ],
+    "data": {
+        "2005": [
+            1088117944.52
+        ],
+        "2006": [
+            1070653221.081
+        ],
+        "2007": [
+            1470875230.296
+        ]
+    },
+    "colors": {
+        "2005": "#f27979",
+        "2006": "#00f200",
+        "2007": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 63879000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

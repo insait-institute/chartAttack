@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "categories": [
+        "United States",
+        "Germany",
+        "France",
+        "United Kingdom",
+        "Italy",
+        "Hong Kong",
+        "Russian Federation",
+        "Belgium",
+        "Netherlands",
+        "Japan"
+    ],
+    "data": {
+        "Import value": [
+            12738,
+            4584,
+            3774,
+            3406,
+            3242,
+            3240,
+            2082,
+            1835,
+            1806,
+            1493
+        ]
+    },
+    "colors": {
+        "Import value": "#2876dd"
+    },
+    "y_label": "Import value in million U.S. dollars",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12740
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Import value": "#2876dd"
+    }
+}

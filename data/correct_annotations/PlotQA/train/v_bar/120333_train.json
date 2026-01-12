@@ -1,0 +1,60 @@
+{
+    "title": "Total CO2 emission from different fuels in 1961",
+    "x_axis": {
+        "categories": [
+            "Gaseous fuel",
+            "Liquid fuel",
+            "Solid fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Belgium": "#4169E1",
+        "Cameroon": "#191970",
+        "United Kingdom": "#9ACD32"
+    },
+    "data": {
+        "Belgium": [
+            92793.435,
+            23307.452,
+            67043.761
+        ],
+        "Cameroon": [
+            282.3590000000001,
+            278.692,
+            3.667
+        ],
+        "United Kingdom": [
+            588938.535,
+            138377.912,
+            443241.291
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 588940
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Net bilateral aid flows from DAC donors (Slovak Republic)",
+    "x_axis": {
+        "categories": [
+            "Low & middle income",
+            "Low income",
+            "Lower middle income",
+            "Middle income",
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#D2691E",
+        "2006": "#008B8B",
+        "2007": "#B8860B",
+        "2008": "#0000FF"
+    },
+    "data": {
+        "2005": [
+            31430000.0,
+            5250000.0,
+            18970000.0,
+            26180000.0,
+            4940000.0,
+            18140000.0
+        ],
+        "2006": [
+            20940000.0,
+            2590000.0,
+            16850000.0,
+            18350000.0,
+            1630000.0,
+            15580000.0
+        ],
+        "2007": [
+            22830000.0,
+            1680000.0,
+            18850000.0,
+            21150000.0,
+            1420000.0,
+            17880000.0
+        ],
+        "2008": [
+            34230000.0,
+            25980000.0,
+            1910000.0,
+            8250000.0,
+            260000.0,
+            25730000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34230000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

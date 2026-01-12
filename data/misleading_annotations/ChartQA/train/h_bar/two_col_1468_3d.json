@@ -1,0 +1,63 @@
+{
+    "title": "",
+    "y_label": "Number of Academy Awards nominations",
+    "categories": [
+        "Walt Disney",
+        "John Williams",
+        "Alfred Newman",
+        "Cedric Gibbons",
+        "Edith Head",
+        "Sammy Cahn",
+        "Max Steiner",
+        "Woody Allen",
+        "Billy Wilder",
+        "Randy Newman",
+        "Kevin O'Connell"
+    ],
+    "data": {
+        "Nominations": [
+            59,
+            48,
+            43,
+            39,
+            35,
+            26,
+            25,
+            23,
+            21,
+            20,
+            20
+        ]
+    },
+    "colors": {
+        "Nominations": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Nominations": "#2876dd"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of employed females in the year 2005 that are vulnerable to fall into poverty",
+    "legend": {
+        "Percentage of employed females who are vulnerable to fall into poverty": "#6495ED"
+    },
+    "categories": [
+        "Norway",
+        "Pakistan",
+        "Panama",
+        "Paraguay",
+        "Peru",
+        "Philippines"
+    ],
+    "data": {
+        "Percentage of employed females who are vulnerable to fall into poverty": [
+            8.0,
+            59.7000007629395,
+            34.9000015258789,
+            48.7999992370605,
+            45.5,
+            43.0999984741211
+        ]
+    },
+    "colors": {
+        "Percentage of employed females who are vulnerable to fall into poverty": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

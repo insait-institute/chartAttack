@@ -1,0 +1,62 @@
+{
+    "title": "Balance of payments for travel services (% of commercial service exports)",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Pakistan": "#f27979",
+        "Philippines": "#79f200",
+        "Russian Federation": "#52a5a5",
+        "Sao Tome and Principe": "#5200a5"
+    },
+    "data": {
+        "Pakistan": [
+            8.965517241379311
+        ],
+        "Philippines": [
+            26.5641398202391
+        ],
+        "Russian Federation": [
+            20.5119477659378
+        ],
+        "Sao Tome and Principe": [
+            82.64292060081391
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Pakistan": "#f27979",
+        "Philippines": "#79f200",
+        "Russian Federation": "#52a5a5",
+        "Sao Tome and Principe": "#5200a5"
+    }
+}

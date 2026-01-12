@@ -1,0 +1,112 @@
+{
+    "title": "Number of shipments in thousands",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of shipments in thousands"
+    },
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#f26700",
+        "2009": "#f2e079",
+        "2010": "#adf200",
+        "2011": "#9bf279",
+        "2012": "#00a517",
+        "2013": "#52a582",
+        "2014": "#00a5a5",
+        "2015": "#5282a5",
+        "2016": "#0017a5",
+        "2017": "#9b79f2",
+        "2018": "#ad00f2",
+        "2019": "#f279e0",
+        "2020": "#f20067"
+    },
+    "data": {
+        "2007": [
+            7.5
+        ],
+        "2008": [
+            4.7
+        ],
+        "2009": [
+            1.9
+        ],
+        "2010": [
+            2.9
+        ],
+        "2011": [
+            2.8
+        ],
+        "2012": [
+            3.5
+        ],
+        "2013": [
+            3.8
+        ],
+        "2014": [
+            3.2
+        ],
+        "2015": [
+            3.3
+        ],
+        "2016": [
+            3.1
+        ],
+        "2017": [
+            3.2
+        ],
+        "2018": [
+            3.8
+        ],
+        "2019": [
+            3.4
+        ],
+        "2020": [
+            3.37
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#f26700",
+        "2009": "#f2e079",
+        "2010": "#adf200",
+        "2011": "#9bf279",
+        "2012": "#00a517",
+        "2013": "#52a582",
+        "2014": "#00a5a5",
+        "2015": "#5282a5",
+        "2016": "#0017a5",
+        "2017": "#9b79f2",
+        "2018": "#ad00f2",
+        "2019": "#f279e0",
+        "2020": "#f20067"
+    }
+}

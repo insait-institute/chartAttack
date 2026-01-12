@@ -1,0 +1,76 @@
+{
+    "title": "Net official aid flows in Myanmar from different UN agencies",
+    "legend": {
+        "UNPBF": "#000000",
+        "WHO": "#483D8B",
+        "WFP": "#4682B4",
+        "UNDP": "#E9967A"
+    },
+    "x_axis": [
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Aid flow from UN agencies (US$)",
+    "data": [
+        {
+            "label": "UNPBF",
+            "color": "#000000",
+            "values": [
+                20000,
+                1700000
+            ]
+        },
+        {
+            "label": "WHO",
+            "color": "#483D8B",
+            "values": [
+                3380000,
+                1760000
+            ]
+        },
+        {
+            "label": "WFP",
+            "color": "#4682B4",
+            "values": [
+                1530000,
+                3990000
+            ]
+        },
+        {
+            "label": "UNDP",
+            "color": "#E9967A",
+            "values": [
+                880000,
+                1320000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20000,
+                "max_value": 3990000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

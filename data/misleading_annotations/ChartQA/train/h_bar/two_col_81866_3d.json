@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Tony Fernandez",
+        "Vernon Wells",
+        "Carlos Delgado",
+        "Lloyd Moseby",
+        "George Bell",
+        "Jose Bautista",
+        "Shannon Stewart",
+        "Joe Carter",
+        "Damaso Garcia",
+        "Willie Upshaw"
+    ],
+    "data": {
+        "Players": [
+            1583,
+            1529,
+            1413,
+            1319,
+            1294,
+            1103,
+            1082,
+            1051,
+            1028,
+            982
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1590
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

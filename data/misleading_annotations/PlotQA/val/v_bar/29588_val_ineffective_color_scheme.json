@@ -1,0 +1,77 @@
+{
+    "title": "Total enrollments of male students in schools as per the survey of 1978 conducted in different countries",
+    "x_axis": {
+        "categories": [
+            "Somalia",
+            "Spain",
+            "Suriname",
+            "Switzerland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Pre-primary schools": "#008b8b",
+        "Primary schools": "#007a8b",
+        "Secondary schools": "#007195",
+        "Tertiary schools": "#015280"
+    },
+    "data": {
+        "Pre-primary schools": [
+            0.51636,
+            53.295,
+            97.23258,
+            69.6293
+        ],
+        "Primary schools": [
+            103.84768,
+            56.79752,
+            88.95875,
+            109.47873
+        ],
+        "Secondary schools": [
+            69.18721,
+            10.37912,
+            15.77972,
+            11.7986
+        ],
+        "Tertiary schools": [
+            0.98074,
+            19.53557,
+            0.05476,
+            21.51373
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Pre-primary schools": "#008b8b",
+        "Primary schools": "#007a8b",
+        "Secondary schools": "#007195",
+        "Tertiary schools": "#015280"
+    }
+}

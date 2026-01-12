@@ -1,0 +1,109 @@
+{
+    "title": "Total rural population vs urban population of Maldives",
+    "legend": {
+        "Rural": "#FF00FF",
+        "Urban": "#EE82EE"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "Population (in % of total)",
+    "data": [
+        {
+            "label": "Rural",
+            "color": "#FF00FF",
+            "values": [
+                73.992,
+                73.62100000000002,
+                73.245,
+                72.866,
+                72.294,
+                71.141,
+                69.958,
+                68.748,
+                67.51
+            ]
+        },
+        {
+            "label": "Urban",
+            "color": "#EE82EE",
+            "values": [
+                26.00800000000001,
+                26.379,
+                26.755,
+                27.134,
+                27.706,
+                28.859,
+                30.042,
+                31.252,
+                32.49
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Rural",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Urban",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        }
+    ]
+}

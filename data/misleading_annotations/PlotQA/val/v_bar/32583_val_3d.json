@@ -1,0 +1,52 @@
+{
+    "title": "Index capturing how well a country was connected to global shipping networks in 2007",
+    "x_axis": {
+        "categories": [
+            "Micronesia",
+            "Morocco",
+            "Mozambique",
+            "Myanmar",
+            "Namibia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Liner shipping connectivity index ": "#BEBEBE"
+    },
+    "data": {
+        "Liner shipping connectivity index ": [
+            3.13,
+            9.02,
+            7.14,
+            3.12,
+            8.37
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

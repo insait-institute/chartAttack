@@ -1,0 +1,60 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "April 2006 to March 2007",
+            "April 2007 to March 2008",
+            "April 2008 to March 2009",
+            "April 2009 to March 2010",
+            "April 2010 to March 2011",
+            "April 2011 to March 2012",
+            "April 2012 to March 2013",
+            "April 2013 to March 2014",
+            "April 2014 to March 2015"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            15.89,
+            23.38,
+            39.68,
+            149.85,
+            246.14,
+            246.63,
+            215.55,
+            199.23,
+            163.46
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 250
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

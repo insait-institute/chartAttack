@@ -1,0 +1,98 @@
+{
+    "title": "Percent of total male population of who survived till the age of 65 years",
+    "legend": {
+        "1960": "#FF69B4",
+        "1961": "#CD853F",
+        "1962": "#FF7F50"
+    },
+    "categories": [
+        "Bahamas",
+        "Bahrain",
+        "Bangladesh",
+        "Barbados",
+        "Belarus",
+        "Belgium"
+    ],
+    "data": {
+        "1960": [
+            56.66022,
+            43.19078,
+            41.11566,
+            53.92791999999999,
+            63.99878,
+            66.49649000000001
+        ],
+        "1961": [
+            56.9891,
+            45.01692,
+            41.92227000000001,
+            54.63303000000001,
+            64.81319,
+            66.53784
+        ],
+        "1962": [
+            57.31797,
+            46.84305,
+            42.72889,
+            55.33815,
+            65.6276,
+            66.57919
+        ]
+    },
+    "colors": {
+        "1960": "#FF69B4",
+        "1961": "#CD853F",
+        "1962": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Cost of damage due to depletion of various resources in Lao PDR ",
+    "legend": {
+        "Coal": "#00FA9A",
+        "Minerals": "#F0E68C",
+        "Energy": "#66CDAA",
+        "Water": "#A0522D"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Cost (as % of GNI)",
+    "data": [
+        {
+            "label": "Coal",
+            "color": "#00FA9A",
+            "values": [
+                0.435296498699396,
+                0.408996177018763,
+                0.201740223800156,
+                0.170286213169763,
+                0.159905468424228,
+                0.178130238448639,
+                0.151595141316136,
+                0.148039954982894
+            ]
+        },
+        {
+            "label": "Minerals",
+            "color": "#F0E68C",
+            "values": [
+                1.98552575480963,
+                6.191606231158332,
+                5.236633916038389,
+                5.98910842005037,
+                5.417456283597442,
+                7.350297742255338,
+                8.460483596778099,
+                7.23567250447634
+            ]
+        },
+        {
+            "label": "Energy",
+            "color": "#66CDAA",
+            "values": [
+                0.116398396873744,
+                0.122819824517427,
+                0.208853344001409,
+                0.541698095480873,
+                0.1651792331588469,
+                0.282877043476253,
+                0.3839549630556189,
+                0.218697305604147
+            ]
+        },
+        {
+            "label": "Water",
+            "color": "#A0522D",
+            "values": [
+                4.24805981714379,
+                8.86053369495876,
+                7.74033350178938,
+                9.50144170423407,
+                7.46619673541647,
+                10.0908766939603,
+                11.7732400235227,
+                10.1683383472959
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

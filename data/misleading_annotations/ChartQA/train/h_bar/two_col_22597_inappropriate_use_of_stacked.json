@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Cap Anson": "#f27979",
+        "Ernie Banks": "#f29100",
+        "Billy Williams": "#daf279",
+        "Ryne Sandberg": "#30f200",
+        "Mark Grace": "#52a574",
+        "Stan Hack": "#00a5a5",
+        "Ron Santo": "#5274a5",
+        "Jimmy Ryan": "#2100a5",
+        "Sammy Sosa": "#da79f2",
+        "Phil Cavarretta": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Cap Anson": [
+            3012.0
+        ],
+        "Ernie Banks": [
+            2583.0
+        ],
+        "Billy Williams": [
+            2510.0
+        ],
+        "Ryne Sandberg": [
+            2385.0
+        ],
+        "Mark Grace": [
+            2201.0
+        ],
+        "Stan Hack": [
+            2193.0
+        ],
+        "Ron Santo": [
+            2171.0
+        ],
+        "Jimmy Ryan": [
+            2084.0
+        ],
+        "Sammy Sosa": [
+            1985.0
+        ],
+        "Phil Cavarretta": [
+            1927.0
+        ]
+    },
+    "colors": {
+        "Cap Anson": "#f27979",
+        "Ernie Banks": "#f29100",
+        "Billy Williams": "#daf279",
+        "Ryne Sandberg": "#30f200",
+        "Mark Grace": "#52a574",
+        "Stan Hack": "#00a5a5",
+        "Ron Santo": "#5274a5",
+        "Jimmy Ryan": "#2100a5",
+        "Sammy Sosa": "#da79f2",
+        "Phil Cavarretta": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3020
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

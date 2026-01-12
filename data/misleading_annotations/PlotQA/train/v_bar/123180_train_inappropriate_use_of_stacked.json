@@ -1,0 +1,72 @@
+{
+    "title": "Net financial flows from International Banks",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "South Asia": "#f27979",
+        "Sub-Saharan Africa (all income levels)": "#f2f200",
+        "Sub-Saharan Africa (developing only)": "#79f279",
+        "Upper middle income": "#00a5a5",
+        "Algeria": "#5252a5",
+        "Brazil": "#a500a5"
+    },
+    "data": {
+        "South Asia": [
+            33687000.0
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            45466000.0
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            45466000.0
+        ],
+        "Upper middle income": [
+            257222000.0
+        ],
+        "Algeria": [
+            -2614000.0
+        ],
+        "Brazil": [
+            46914000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 413696000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "South Asia": "#f27979",
+        "Sub-Saharan Africa (all income levels)": "#f2f200",
+        "Sub-Saharan Africa (developing only)": "#79f279",
+        "Upper middle income": "#00a5a5",
+        "Algeria": "#5252a5",
+        "Brazil": "#a500a5"
+    }
+}

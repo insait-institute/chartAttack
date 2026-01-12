@@ -1,0 +1,91 @@
+{
+    "title": "Total electricity produced from different non-renewable sources in Colombia",
+    "legend": {
+        "Coal sources": "#000000",
+        "Natural gas sources": "#FFA07A",
+        "Oil sources": "#FF0000"
+    },
+    "x_axis": [
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Coal sources",
+            "color": "#000000",
+            "values": [
+                9.784929232228992,
+                11.7008983486786,
+                10.2922188243289,
+                9.702511350287333,
+                9.89337210711257,
+                10.0915070060051,
+                10.1988612921858,
+                10.2811570694782
+            ]
+        },
+        {
+            "label": "Natural gas sources",
+            "color": "#FFA07A",
+            "values": [
+                20.75591049260689,
+                17.9707011592798,
+                15.6472986748216,
+                15.058577007334,
+                14.4129407488186,
+                12.1103803259937,
+                12.3745083477735,
+                12.9386320627197
+            ]
+        },
+        {
+            "label": "Oil sources",
+            "color": "#FF0000",
+            "values": [
+                1.0397722780106,
+                0.957990084616245,
+                1.05334692490656,
+                0.942946947328317,
+                1.02084090633709,
+                0.780669144981413,
+                1.04244024534478,
+                1.09759394430927
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

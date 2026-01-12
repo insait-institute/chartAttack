@@ -1,0 +1,53 @@
+{
+    "title": "Agricultural raw materials,food and fuel imports of different countries in 1978",
+    "legend": {
+        "Mali": "#BEBEBE",
+        "Samoa": "#556B2F"
+    },
+    "categories": [
+        "Agricultural raw materials",
+        "Food",
+        "Fuel"
+    ],
+    "data": {
+        "Mali": [
+            1.06315964961876,
+            22.6934363530408,
+            18.655011639366
+        ],
+        "Samoa": [
+            1.56148786548395,
+            28.6577044683525,
+            7.73941703488518
+        ]
+    },
+    "colors": {
+        "Mali": "#BEBEBE",
+        "Samoa": "#556B2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

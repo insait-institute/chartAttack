@@ -1,0 +1,56 @@
+{
+    "title": "Trade statistics with developing economies(within region) in 1975",
+    "legend": {
+        "Jamaica": "#0000FF",
+        "Nigeria": "#6495ED",
+        "Sri Lanka": "#20B2AA"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Jamaica": [
+            2.72560515144093,
+            5.577585033438639
+        ],
+        "Nigeria": [
+            1.92747876771442,
+            0.7112068965517241
+        ],
+        "Sri Lanka": [
+            9.29482801998347,
+            7.25130120407525
+        ]
+    },
+    "colors": {
+        "Jamaica": "#0000FF",
+        "Nigeria": "#6495ED",
+        "Sri Lanka": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

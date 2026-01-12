@@ -1,0 +1,52 @@
+{
+    "title": "",
+    "legend": {
+        "Export": "#2876dd"
+    },
+    "categories": [
+        "Fresh fruits",
+        "Fresh vegetables",
+        "Processed fruits and juices",
+        "Processed vegetables",
+        "Vegetable/fruit seeds",
+        "Floriculture"
+    ],
+    "data": {
+        "Export": [
+            54.5,
+            46.16,
+            45.91,
+            22.11,
+            7.71,
+            5.42
+        ]
+    },
+    "colors": {
+        "Export": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

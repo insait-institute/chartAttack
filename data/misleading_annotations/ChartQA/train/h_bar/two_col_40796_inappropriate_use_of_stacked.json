@@ -1,0 +1,87 @@
+{
+    "title": "Number of home runs",
+    "categories": [
+        "Number of home runs"
+    ],
+    "data": {
+        "Carl Yastrzemski": [
+            1844.0
+        ],
+        "Ted Williams": [
+            1839.0
+        ],
+        "David Ortiz": [
+            1530.0
+        ],
+        "Jim Rice": [
+            1451.0
+        ],
+        "Dwight Evans": [
+            1346.0
+        ],
+        "Bobby Doerr": [
+            1247.0
+        ],
+        "Manny Ramirez": [
+            868.0
+        ],
+        "Jimmie Foxx": [
+            788.0
+        ],
+        "Rico Petrocelli": [
+            773.0
+        ],
+        "Jason Varitek": [
+            757.0
+        ]
+    },
+    "colors": {
+        "Carl Yastrzemski": "#f27979",
+        "Ted Williams": "#f29100",
+        "David Ortiz": "#daf279",
+        "Jim Rice": "#30f200",
+        "Dwight Evans": "#52a574",
+        "Bobby Doerr": "#00a5a5",
+        "Manny Ramirez": "#5274a5",
+        "Jimmie Foxx": "#2100a5",
+        "Rico Petrocelli": "#da79f2",
+        "Jason Varitek": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1850
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Carl Yastrzemski": "#f27979",
+        "Ted Williams": "#f29100",
+        "David Ortiz": "#daf279",
+        "Jim Rice": "#30f200",
+        "Dwight Evans": "#52a574",
+        "Bobby Doerr": "#00a5a5",
+        "Manny Ramirez": "#5274a5",
+        "Jimmie Foxx": "#2100a5",
+        "Rico Petrocelli": "#da79f2",
+        "Jason Varitek": "#f20091"
+    }
+}

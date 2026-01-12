@@ -1,0 +1,101 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "Dec '16",
+        "Jan '17",
+        "Feb '17",
+        "Mar '17",
+        "Apr '17",
+        "May '17",
+        "Jun '17",
+        "Jul '17",
+        "Aug '17",
+        "Sep '17",
+        "Oct '17",
+        "Nov '17",
+        "Dec '17"
+    ],
+    "y_axis": {
+        "label": "Index value between null and +100",
+        "major_labels": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                9,
+                11,
+                8,
+                9,
+                5,
+                3,
+                3,
+                4,
+                6,
+                4,
+                3,
+                9,
+                8
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": [
+        {
+            "label": "line",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5
+            ]
+        }
+    ]
+}

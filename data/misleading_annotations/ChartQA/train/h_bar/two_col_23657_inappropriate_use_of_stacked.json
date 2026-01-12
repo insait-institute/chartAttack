@@ -1,0 +1,87 @@
+{
+    "title": "Percentage of total population",
+    "legend": {
+        "Maine": "#f27979",
+        "West Virginia": "#f29100",
+        "Vermont": "#daf279",
+        "New Hampshire": "#30f200",
+        "Montana": "#52a574",
+        "Delaware": "#00a5a5",
+        "Pennsylvania": "#5274a5",
+        "Alabama": "#2100a5",
+        "Florida": "#da79f2",
+        "Arkansas": "#f20091"
+    },
+    "categories": [
+        "Percentage of total population"
+    ],
+    "data": {
+        "Maine": [
+            25.3
+        ],
+        "West Virginia": [
+            24.5
+        ],
+        "Vermont": [
+            23.6
+        ],
+        "New Hampshire": [
+            22.0
+        ],
+        "Montana": [
+            21.6
+        ],
+        "Delaware": [
+            21.4
+        ],
+        "Pennsylvania": [
+            21.4
+        ],
+        "Alabama": [
+            21.4
+        ],
+        "Florida": [
+            21.2
+        ],
+        "Arkansas": [
+            21.1
+        ]
+    },
+    "colors": {
+        "Maine": "#f27979",
+        "West Virginia": "#f29100",
+        "Vermont": "#daf279",
+        "New Hampshire": "#30f200",
+        "Montana": "#52a574",
+        "Delaware": "#00a5a5",
+        "Pennsylvania": "#5274a5",
+        "Alabama": "#2100a5",
+        "Florida": "#da79f2",
+        "Arkansas": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

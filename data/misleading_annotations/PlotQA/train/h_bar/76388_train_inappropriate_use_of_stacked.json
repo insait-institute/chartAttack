@@ -1,0 +1,62 @@
+{
+    "title": "Amount of CO2 emissions in Panama",
+    "legend": {
+        "1974": "#f27979",
+        "1975": "#c1f200",
+        "1976": "#52a574",
+        "1977": "#0042a5",
+        "1978": "#da79f2"
+    },
+    "categories": [
+        "Amount of CO2 emissions in Panama"
+    ],
+    "data": {
+        "1974": [
+            1.77834330127349
+        ],
+        "1975": [
+            2.09908222921407
+        ],
+        "1976": [
+            2.01623090453089
+        ],
+        "1977": [
+            1.883493381257929
+        ],
+        "1978": [
+            1.50804293100813
+        ]
+    },
+    "colors": {
+        "1974": "#f27979",
+        "1975": "#c1f200",
+        "1976": "#52a574",
+        "1977": "#0042a5",
+        "1978": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

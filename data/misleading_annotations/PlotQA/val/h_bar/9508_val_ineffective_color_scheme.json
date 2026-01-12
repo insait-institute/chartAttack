@@ -1,0 +1,77 @@
+{
+    "title": "Tuberculosis treatment success rate",
+    "legend": {
+        "Afghanistan": "#808000",
+        "Ethiopia": "#6c8000",
+        "India": "#5e8a00"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Afghanistan": [
+            87.0,
+            88.0,
+            86.0,
+            86.0,
+            88.0,
+            88.0
+        ],
+        "Ethiopia": [
+            84,
+            80,
+            81,
+            77,
+            89,
+            91
+        ],
+        "India": [
+            88,
+            88,
+            89,
+            89,
+            89,
+            88
+        ]
+    },
+    "colors": {
+        "Afghanistan": "#808000",
+        "Ethiopia": "#A52A2A",
+        "India": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Afghanistan": "#808000",
+        "Ethiopia": "#6c8000",
+        "India": "#5e8a00"
+    }
+}

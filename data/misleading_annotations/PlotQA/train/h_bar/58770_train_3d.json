@@ -1,0 +1,77 @@
+{
+    "title": "Value added by the agricultural sector to the total GDP of an economy",
+    "legend": {
+        "Fragile and conflict affected situations": "#FF1493",
+        "Lower middle income": "#A52A2A",
+        "Sri Lanka": "#E9967A",
+        "St. Vincent and the Grenadines": "#6A5ACD"
+    },
+    "categories": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "data": {
+        "Fragile and conflict affected situations": [
+            27.2808896482047,
+            23.1212419326898,
+            22.1871909863907,
+            19.89610467517051,
+            17.6714170262421
+        ],
+        "Lower middle income": [
+            21.5273145800583,
+            20.975264266005,
+            20.4723710337909,
+            18.9211915984385,
+            18.0033702595653
+        ],
+        "Sri Lanka": [
+            20.0538211110314,
+            14.2793225336591,
+            13.2305203712768,
+            12.5438041438828,
+            11.8194768226447
+        ],
+        "St. Vincent and the Grenadines": [
+            7.251521298174441,
+            7.35637876216186,
+            6.41343033831962,
+            6.01006786081336,
+            6.29175292297243
+        ]
+    },
+    "colors": {
+        "Fragile and conflict affected situations": "#FF1493",
+        "Lower middle income": "#A52A2A",
+        "Sri Lanka": "#E9967A",
+        "St. Vincent and the Grenadines": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,124 @@
+{
+    "title": "Net bilateral aid flow in Other small states from different members of DAC",
+    "legend": {
+        "France": "#008080",
+        "Germany": "#A52A2A",
+        "Italy": "#F4A460",
+        "Japan": "#B8860B"
+    },
+    "x_axis": [
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "France",
+            "color": "#008080",
+            "values": [
+                70040000,
+                105690000,
+                128950000,
+                141870000
+            ]
+        },
+        {
+            "label": "Germany",
+            "color": "#A52A2A",
+            "values": [
+                15040000,
+                41180000,
+                52220000,
+                59900000
+            ]
+        },
+        {
+            "label": "Italy",
+            "color": "#F4A460",
+            "values": [
+                12670000,
+                12050000,
+                16510000,
+                85120000
+            ]
+        },
+        {
+            "label": "Japan",
+            "color": "#B8860B",
+            "values": [
+                4730000,
+                4610000,
+                8240000,
+                11540000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 4610000,
+                "max_value": 141870000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "France",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Germany",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Italy",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Japan",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

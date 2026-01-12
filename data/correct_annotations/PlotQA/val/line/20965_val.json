@@ -1,0 +1,106 @@
+{
+    "title": "Net disbursements of loans in Guinea",
+    "legend": {
+        "Regional development banks": "#008B8B",
+        "International Monetary Fund": "#F4A460",
+        "International Development Association": "#EE82EE",
+        "Others": "#663399"
+    },
+    "x_axis": [
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+    ],
+    "y_axis_label": "Amount (in current US$)",
+    "data": [
+        {
+            "label": "Regional development banks",
+            "color": "#008B8B",
+            "values": [
+                2572000,
+                940000,
+                -243000,
+                19300000,
+                14515000,
+                13034000,
+                17294000,
+                27158000
+            ]
+        },
+        {
+            "label": "International Monetary Fund",
+            "color": "#F4A460",
+            "values": [
+                -718000,
+                -2041000,
+                -4006000,
+                -5484000,
+                -6121000,
+                -5378000,
+                -3439000,
+                -990000
+            ]
+        },
+        {
+            "label": "International Development Association",
+            "color": "#EE82EE",
+            "values": [
+                15987000,
+                19872000,
+                21510000,
+                35605000,
+                39068000,
+                47639000,
+                63071000,
+                51143000
+            ]
+        },
+        {
+            "label": "Others",
+            "color": "#663399",
+            "values": [
+                4615000,
+                5870000,
+                2377000,
+                5706000,
+                4372000,
+                16559000,
+                13100000,
+                -373000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -6121000,
+                "max_value": 63071000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

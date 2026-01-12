@@ -1,0 +1,70 @@
+{
+    "title": "",
+    "legend": {
+        "Brand": "#2876dd"
+    },
+    "categories": [
+        "Porsche",
+        "MG",
+        "Subaru",
+        "Jaguar",
+        "BMW",
+        "Mazda",
+        "MINI",
+        "Alfa Romeo",
+        "Ford",
+        "Skoda",
+        "Audi",
+        "Peugeot",
+        "Renault",
+        "SEAT",
+        "Mercedes"
+    ],
+    "data": {
+        "Brand": [
+            98.26,
+            96.5,
+            94.14,
+            93.61,
+            92.12,
+            91.78,
+            91.63,
+            91.43,
+            89.82,
+            89.71,
+            89.24,
+            88.05,
+            87.95,
+            87.95,
+            87.72
+        ]
+    },
+    "colors": {
+        "Brand": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

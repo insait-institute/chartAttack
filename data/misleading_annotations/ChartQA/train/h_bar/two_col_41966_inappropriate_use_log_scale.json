@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Pete Rose",
+        "Dave Concepcion",
+        "Barry Larkin",
+        "Johnny Bench",
+        "Bid McPhee",
+        "Tony Perez",
+        "Joey Votto",
+        "Brandon Phillips",
+        "Vada Pinson",
+        "Frank Robinson"
+    ],
+    "data": {
+        "Players": [
+            2722,
+            2488,
+            2180,
+            2158,
+            2138,
+            1948,
+            1771,
+            1614,
+            1565,
+            1502
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2730
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

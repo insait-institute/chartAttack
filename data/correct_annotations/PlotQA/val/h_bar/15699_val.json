@@ -1,0 +1,48 @@
+{
+    "title": "Percentage of the rural population living in poverty in Benin",
+    "legend": {
+        "Rural poverty headcount ratio": "#008B8B"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2009",
+        "2011"
+    ],
+    "data": {
+        "Rural poverty headcount ratio": [
+            38.8,
+            36.1,
+            38.4,
+            39.7
+        ]
+    },
+    "colors": {
+        "Rural poverty headcount ratio": "#008B8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

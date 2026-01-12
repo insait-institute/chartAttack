@@ -1,0 +1,60 @@
+{
+    "title": "Tourism statistics : Earnings from national visitors",
+    "x_axis": {
+        "categories": [
+            "Mongolia",
+            "Morocco",
+            "Myanmar"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#FF4500",
+        "1996": "#B8860B",
+        "1997": "#6A5ACD"
+    },
+    "data": {
+        "1995": [
+            33000000.0,
+            1469000000.0,
+            169000000.0
+        ],
+        "1996": [
+            20000000.0,
+            1857000000.0,
+            215000000.0
+        ],
+        "1997": [
+            25000000.0,
+            1649000000.0,
+            183000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1857000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

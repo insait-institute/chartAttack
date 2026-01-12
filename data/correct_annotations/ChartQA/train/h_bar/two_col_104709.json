@@ -1,0 +1,90 @@
+{
+    "title": "",
+    "categories": [
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Series": [
+            710,
+            741,
+            776,
+            809,
+            857,
+            900,
+            934,
+            964,
+            993,
+            1049,
+            1093,
+            1144,
+            1199,
+            1259,
+            1306,
+            1374,
+            1427,
+            1490,
+            1545,
+            1614,
+            1691,
+            1760,
+            1839,
+            1879,
+            1885
+        ]
+    },
+    "colors": {
+        "Series": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1890
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Series": "#2876dd"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Share of weekly time spent listening",
+    "legend": {
+        "Listening Services": "#2876dd"
+    },
+    "categories": [
+        "YouTube",
+        "Pandora",
+        "Spotify",
+        "Spotify Premium",
+        "iHeartRadio",
+        "Apple Music",
+        "Google Play",
+        "Amazon Music",
+        "Pandora One",
+        "Other"
+    ],
+    "data": {
+        "Listening Services": [
+            27,
+            25,
+            10,
+            7,
+            6,
+            4,
+            4,
+            4,
+            3,
+            10
+        ]
+    },
+    "colors": {
+        "Listening Services": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

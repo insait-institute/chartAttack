@@ -1,0 +1,48 @@
+{
+    "title": "Total production of clean energy in 2006",
+    "legend": {
+        "Alternative and nuclear energy": "#87CEEB"
+    },
+    "categories": [
+        "Kazakhstan",
+        "Kenya",
+        "Korea (Democratic)",
+        "Korea (Republic)"
+    ],
+    "data": {
+        "Alternative and nuclear energy": [
+            1.08752921364866,
+            6.79515134983481,
+            5.03769779086192,
+            18.3059027733639
+        ]
+    },
+    "colors": {
+        "Alternative and nuclear energy": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

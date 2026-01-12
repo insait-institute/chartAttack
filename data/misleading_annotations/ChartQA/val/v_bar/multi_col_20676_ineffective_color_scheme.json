@@ -1,0 +1,61 @@
+{
+    "title": "Unit sales in millions",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015*",
+            "2016*",
+            "2017*"
+        ]
+    },
+    "y_axis": {
+        "label": "Unit sales in millions"
+    },
+    "legend": {
+        "Smart home devices": "#2876dd",
+        "Smart home controllers": "#284bdd"
+    },
+    "data": {
+        "Smart home devices": [
+            20.7,
+            24.9,
+            29.9,
+            35.9
+        ],
+        "Smart home controllers": [
+            1.4,
+            1.9,
+            2.5,
+            3.1
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "color": {
+        "Smart home devices": "#2876dd",
+        "Smart home controllers": "#284bdd"
+    }
+}

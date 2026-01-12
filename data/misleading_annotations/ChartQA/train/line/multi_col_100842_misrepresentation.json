@@ -1,0 +1,90 @@
+{
+    "title": "",
+    "legend": {
+        "Costco": "#2876dd",
+        "BJ's": "#0f283e",
+        "Sam's Club": "#bababa"
+    },
+    "x_axis": [
+        "January 1 to February 23",
+        "February 24 to March 1"
+    ],
+    "y_axis_label": "Average transaction value in U.S. dollars",
+    "data": [
+        {
+            "label": "Costco",
+            "color": "#2876dd",
+            "values": [
+                96,
+                107
+            ]
+        },
+        {
+            "label": "BJ's",
+            "color": "#0f283e",
+            "values": [
+                82,
+                98
+            ]
+        },
+        {
+            "label": "Sam's Club",
+            "color": "#bababa",
+            "values": [
+                73,
+                84
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 70,
+                "max_value": 110
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": [
+        {
+            "label": "Costco",
+            "values": [
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "BJ's",
+            "values": [
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "Sam's Club",
+            "values": [
+                1.75,
+                0.25
+            ]
+        }
+    ]
+}

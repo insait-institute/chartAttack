@@ -1,0 +1,67 @@
+{
+    "title": "Net bilateral aid flow in the year 1986 from Development Assistance Committee",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "South Asia": "#f27979",
+        "Sub-Saharan Africa (all income levels)": "#c1f200",
+        "Sub-Saharan Africa (developing only)": "#52a574",
+        "Upper middle income": "#0042a5",
+        "World": "#da79f2"
+    },
+    "data": {
+        "South Asia": [
+            3071390000.0
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            7983740000.0
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            7971560000.0
+        ],
+        "Upper middle income": [
+            3673180000.0
+        ],
+        "World": [
+            26635860000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 26635860000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "South Asia": "#f27979",
+        "Sub-Saharan Africa (all income levels)": "#c1f200",
+        "Sub-Saharan Africa (developing only)": "#52a574",
+        "Upper middle income": "#0042a5",
+        "World": "#da79f2"
+    }
+}

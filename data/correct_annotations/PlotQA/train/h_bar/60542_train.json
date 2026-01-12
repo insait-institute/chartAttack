@@ -1,0 +1,77 @@
+{
+    "title": "Mineral rent as percent of GDP towards fuel resources of Romania",
+    "legend": {
+        "Coal": "#FFA500",
+        "Natural Gas": "#C71585",
+        "Oil": "#6495ED",
+        "Other Minerals": "#191970"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Coal": [
+            0.0895216483145928,
+            9.91154234092374e-05,
+            0.0229203620429393,
+            0.102464547189601,
+            0.0119126684918437
+        ],
+        "Natural Gas": [
+            1.73738683181023,
+            0.8911292624932291,
+            0.778003257260447,
+            0.7649167416720379,
+            0.652825609592354
+        ],
+        "Oil": [
+            1.39860732237471,
+            0.9457028035240992,
+            1.18904252771725,
+            1.40924088455828,
+            1.39946330441069
+        ],
+        "Other Minerals": [
+            0.00842029903136961,
+            0.007180645928232291,
+            0.0104423093231008,
+            0.0155569890410675,
+            0.0146768660013683
+        ]
+    },
+    "colors": {
+        "Coal": "#FFA500",
+        "Natural Gas": "#C71585",
+        "Oil": "#6495ED",
+        "Other Minerals": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

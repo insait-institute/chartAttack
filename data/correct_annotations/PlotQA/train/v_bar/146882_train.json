@@ -1,0 +1,61 @@
+{
+    "title": "Balance of payments as percentage of commercial service exports in 2005",
+    "x_axis": {
+        "categories": [
+            "Transport services",
+            "Travel services"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Finland": "#BDB76B",
+        "Morocco": "#A020F0",
+        "Niger": "#008080",
+        "Peru": "#E9967A"
+    },
+    "data": {
+        "Finland": [
+            21.5622195777865,
+            17.9408212583722
+        ],
+        "Morocco": [
+            14.8860434494566,
+            52.7697745088176
+        ],
+        "Niger": [
+            10.1287437931112,
+            51.2099220347362
+        ],
+        "Peru": [
+            23.7490126162703,
+            69.2000063364501
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Default": "#2876dd"
+    },
+    "categories": [
+        "Nigeria",
+        "Pakistan",
+        "India",
+        "Mexico",
+        "Germany",
+        "Netherlands",
+        "Canada",
+        "United Kingdom",
+        "Switzerland",
+        "United States"
+    ],
+    "data": {
+        "Default": [
+            56.7,
+            48.1,
+            29.6,
+            25.1,
+            12,
+            11.8,
+            9.5,
+            9.3,
+            8.9,
+            6.7
+        ]
+    },
+    "colors": {
+        "Default": "#2876dd"
+    },
+    "y_label": "Expenditure share",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

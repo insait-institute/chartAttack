@@ -1,0 +1,60 @@
+{
+    "title": "C02 emissions due to industrial production",
+    "legend": {
+        "Chile": "#6495ED",
+        "Jordan": "#BA55D3",
+        "Mauritania": "#BEBEBE"
+    },
+    "categories": [
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "data": {
+        "Chile": [
+            0.596255855126883,
+            0.590363976944751,
+            0.6348548617899089
+        ],
+        "Jordan": [
+            1.73220570597186,
+            1.69635923668105,
+            1.64333980221213
+        ],
+        "Mauritania": [
+            1.87259644148514,
+            0.6547406706958729,
+            0.647682827552437
+        ]
+    },
+    "colors": {
+        "Chile": "#6495ED",
+        "Jordan": "#BA55D3",
+        "Mauritania": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

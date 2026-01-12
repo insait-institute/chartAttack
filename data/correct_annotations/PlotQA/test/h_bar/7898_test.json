@@ -1,0 +1,72 @@
+{
+    "title": "Total electricity produced from different non-renewable sources in Sub-Saharan Africa (developing only)",
+    "legend": {
+        "Coal sources": "#40E0D0",
+        "Natural gas sources": "#CD853F",
+        "Oil sources": "#87CEEB"
+    },
+    "categories": [
+        "1980",
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985"
+    ],
+    "data": {
+        "Coal sources": [
+            63.02721810917051,
+            64.5190551157899,
+            65.2547027302284,
+            66.5906246348697,
+            66.8843949386294,
+            65.56942274110189
+        ],
+        "Natural gas sources": [
+            1.99305152090621,
+            2.3638668526247,
+            2.42163189132422,
+            3.00404308177088,
+            2.44714411211089,
+            2.49993284228293
+        ],
+        "Oil sources": [
+            2.844476994237529,
+            2.39414354261723,
+            2.45835650352855,
+            2.688375105412879,
+            2.72151934499881,
+            2.36213004352565
+        ]
+    },
+    "colors": {
+        "Coal sources": "#40E0D0",
+        "Natural gas sources": "#CD853F",
+        "Oil sources": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

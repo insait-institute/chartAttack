@@ -1,0 +1,50 @@
+{
+    "title": "Average number of working hours per week",
+    "x_axis": {
+        "categories": [
+            "15-24 years",
+            "25-54 years",
+            "55-74 years",
+            "Total 15-74 years"
+        ]
+    },
+    "y_axis": {
+        "label": "Average number of working hours per week"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            24.6,
+            30.1,
+            28.2,
+            29.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of fertile, married women who were not using contraception in 2002",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Jordan": "#f27979",
+        "Mauritius": "#79f200",
+        "United States": "#52a5a5",
+        "Vietnam": "#5200a5"
+    },
+    "data": {
+        "Jordan": [
+            14.9
+        ],
+        "Mauritius": [
+            3.5
+        ],
+        "United States": [
+            6.3
+        ],
+        "Vietnam": [
+            6.6
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Jordan": "#f27979",
+        "Mauritius": "#79f200",
+        "United States": "#52a5a5",
+        "Vietnam": "#5200a5"
+    }
+}

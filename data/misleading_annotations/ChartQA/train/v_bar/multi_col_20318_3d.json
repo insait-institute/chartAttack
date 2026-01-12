@@ -1,0 +1,68 @@
+{
+    "title": "Employment in millions",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Employment in millions"
+    },
+    "legend": {
+        "Direct": "#2876dd",
+        "Indirect": "#0f283e",
+        "Induced": "#bababa"
+    },
+    "data": {
+        "Direct": [
+            5.44,
+            5.3,
+            5.63,
+            5.49,
+            5.29
+        ],
+        "Indirect": [
+            6.01,
+            5.75,
+            5.91,
+            5.97,
+            5.73
+        ],
+        "Induced": [
+            2.68,
+            2.6,
+            2.71,
+            2.75,
+            2.65
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

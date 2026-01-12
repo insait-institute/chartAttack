@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of unemployed male labor force of a country",
+    "x_axis": {
+        "categories": [
+            "Norway",
+            "Portugal",
+            "Spain",
+            "Sweden",
+            "United States",
+            "Venezuela"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#A0522D",
+        "1981": "#BC8F8F",
+        "1982": "#DC143C"
+    },
+    "data": {
+        "1980": [
+            0.699999988079071,
+            3.29999995231628,
+            10.3999996185303,
+            1.70000004768372,
+            6.900000095367429,
+            6.5
+        ],
+        "1981": [
+            1.0,
+            3.20000004768372,
+            12.6999998092651,
+            2.29999995231628,
+            7.400000095367429,
+            7.5
+        ],
+        "1982": [
+            1.89999997615814,
+            2.79999995231628,
+            14.1999998092651,
+            3.0,
+            9.89999961853027,
+            8.89999961853027
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

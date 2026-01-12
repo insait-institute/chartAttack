@@ -1,0 +1,60 @@
+{
+    "title": "Annual freshwater withdrawals (%) in a country",
+    "legend": {
+        "Equatorial Guinea": "#FF4500",
+        "Netherlands": "#BC8F8F",
+        "New Zealand": "#FF8C00"
+    },
+    "categories": [
+        "1987",
+        "2002",
+        "2013"
+    ],
+    "data": {
+        "Equatorial Guinea": [
+            0.0384615384615385,
+            0.0669230769230769,
+            0.0669230769230769
+        ],
+        "Netherlands": [
+            84.99090909090908,
+            81.1272727272727,
+            96.4545454545455
+        ],
+        "New Zealand": [
+            0.581039755351682,
+            1.45351681957187,
+            1.45351681957187
+        ]
+    },
+    "colors": {
+        "Equatorial Guinea": "#FF4500",
+        "Netherlands": "#BC8F8F",
+        "New Zealand": "#FF8C00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

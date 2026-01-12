@@ -1,0 +1,62 @@
+{
+    "title": "Net enrolment rate of females in primary schools",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#c1f200",
+        "2006": "#52a574",
+        "2007": "#0042a5",
+        "2008": "#da79f2"
+    },
+    "categories": [
+        "Net enrolment rate of females in primary schools"
+    ],
+    "data": {
+        "2004": [
+            90.6698684692383
+        ],
+        "2005": [
+            91.20327758789058
+        ],
+        "2006": [
+            91.2900924682617
+        ],
+        "2007": [
+            91.4319000244141
+        ],
+        "2008": [
+            94.2063369750977
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#c1f200",
+        "2006": "#52a574",
+        "2007": "#0042a5",
+        "2008": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Metro": "#f27979",
+        "The Guardian": "#f29100",
+        "The Times": "#daf279",
+        "Daily Mail": "#30f200",
+        "The Independent": "#52a574",
+        "The Sunday Times": "#00a5a5",
+        "The Sunday Telegraph": "#5274a5",
+        "The Daily Mirror": "#2100a5",
+        "The Sun": "#da79f2",
+        "Financial Times": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Metro": [
+            36.0
+        ],
+        "The Guardian": [
+            35.0
+        ],
+        "The Times": [
+            31.0
+        ],
+        "Daily Mail": [
+            29.0
+        ],
+        "The Independent": [
+            29.0
+        ],
+        "The Sunday Times": [
+            28.0
+        ],
+        "The Sunday Telegraph": [
+            25.0
+        ],
+        "The Daily Mirror": [
+            25.0
+        ],
+        "The Sun": [
+            25.0
+        ],
+        "Financial Times": [
+            25.0
+        ]
+    },
+    "colors": {
+        "Metro": "#f27979",
+        "The Guardian": "#f29100",
+        "The Times": "#daf279",
+        "Daily Mail": "#30f200",
+        "The Independent": "#52a574",
+        "The Sunday Times": "#00a5a5",
+        "The Sunday Telegraph": "#5274a5",
+        "The Daily Mirror": "#2100a5",
+        "The Sun": "#da79f2",
+        "Financial Times": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

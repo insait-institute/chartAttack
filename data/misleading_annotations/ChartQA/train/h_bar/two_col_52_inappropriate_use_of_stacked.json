@@ -1,0 +1,192 @@
+{
+    "title": "Electricity prices in U.S. dollars per kilowatt hour",
+    "legend": {
+        "Germany": "#f27979",
+        "Denmark": "#f22e00",
+        "Belgium": "#f2a879",
+        "Portugal": "#f28c00",
+        "Ireland": "#f2d679",
+        "Japan": "#f2ea00",
+        "United Kingdom": "#def279",
+        "Italy": "#9cf200",
+        "Rwanda": "#aff279",
+        "Australia": "#3ef200",
+        "Spain": "#80f279",
+        "New Zealand": "#00a515",
+        "France": "#52a56d",
+        "Cyprus": "#00a555",
+        "Kenya": "#52a58d",
+        "Poland": "#00a595",
+        "Singapore": "#529da5",
+        "South Africa": "#0075a5",
+        "United States": "#527da5",
+        "Brazil": "#0035a5",
+        "Indonesia": "#525da5",
+        "Turkey": "#0a00a5",
+        "India": "#9879f2",
+        "Mexico": "#6d00f2",
+        "China": "#c779f2",
+        "Nigeria": "#cb00f2",
+        "Argentina": "#f279ee",
+        "Russia": "#f200bb",
+        "Saudi Arabia": "#f279bf",
+        "Qatar": "#f2005d",
+        "Iran": "#f27990"
+    },
+    "categories": [
+        "Electricity prices in U.S. dollars per kilowatt hour"
+    ],
+    "data": {
+        "Germany": [
+            0.36
+        ],
+        "Denmark": [
+            0.33
+        ],
+        "Belgium": [
+            0.3
+        ],
+        "Portugal": [
+            0.27
+        ],
+        "Ireland": [
+            0.27
+        ],
+        "Japan": [
+            0.26
+        ],
+        "United Kingdom": [
+            0.26
+        ],
+        "Italy": [
+            0.26
+        ],
+        "Rwanda": [
+            0.26
+        ],
+        "Australia": [
+            0.25
+        ],
+        "Spain": [
+            0.24
+        ],
+        "New Zealand": [
+            0.24
+        ],
+        "France": [
+            0.22
+        ],
+        "Cyprus": [
+            0.21
+        ],
+        "Kenya": [
+            0.21
+        ],
+        "Poland": [
+            0.19
+        ],
+        "Singapore": [
+            0.16
+        ],
+        "South Africa": [
+            0.15
+        ],
+        "United States": [
+            0.15
+        ],
+        "Brazil": [
+            0.12
+        ],
+        "Indonesia": [
+            0.1
+        ],
+        "Turkey": [
+            0.09
+        ],
+        "India": [
+            0.08
+        ],
+        "Mexico": [
+            0.08
+        ],
+        "China": [
+            0.08
+        ],
+        "Nigeria": [
+            0.06
+        ],
+        "Argentina": [
+            0.06
+        ],
+        "Russia": [
+            0.06
+        ],
+        "Saudi Arabia": [
+            0.05
+        ],
+        "Qatar": [
+            0.03
+        ],
+        "Iran": [
+            0.01
+        ]
+    },
+    "colors": {
+        "Germany": "#f27979",
+        "Denmark": "#f22e00",
+        "Belgium": "#f2a879",
+        "Portugal": "#f28c00",
+        "Ireland": "#f2d679",
+        "Japan": "#f2ea00",
+        "United Kingdom": "#def279",
+        "Italy": "#9cf200",
+        "Rwanda": "#aff279",
+        "Australia": "#3ef200",
+        "Spain": "#80f279",
+        "New Zealand": "#00a515",
+        "France": "#52a56d",
+        "Cyprus": "#00a555",
+        "Kenya": "#52a58d",
+        "Poland": "#00a595",
+        "Singapore": "#529da5",
+        "South Africa": "#0075a5",
+        "United States": "#527da5",
+        "Brazil": "#0035a5",
+        "Indonesia": "#525da5",
+        "Turkey": "#0a00a5",
+        "India": "#9879f2",
+        "Mexico": "#6d00f2",
+        "China": "#c779f2",
+        "Nigeria": "#cb00f2",
+        "Argentina": "#f279ee",
+        "Russia": "#f200bb",
+        "Saudi Arabia": "#f279bf",
+        "Qatar": "#f2005d",
+        "Iran": "#f27990"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

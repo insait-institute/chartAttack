@@ -1,0 +1,97 @@
+{
+    "title": "",
+    "y_axis": {
+        "label": "Average cost for room and board",
+        "major_labels": [
+            5244,
+            6059,
+            6343,
+            6719,
+            7105,
+            7458,
+            7851,
+            8189,
+            8521,
+            8864,
+            9221,
+            9598,
+            9926,
+            10243,
+            10539,
+            10869,
+            11216
+        ]
+    },
+    "x_axis": [
+        "2000/01",
+        "2003/04",
+        "2004/05",
+        "2005/06",
+        "2006/07",
+        "2007/08",
+        "2008/09",
+        "2009/10",
+        "2010/11",
+        "2011/12",
+        "2012/13",
+        "2013/14",
+        "2014/15",
+        "2015/16",
+        "2016/17",
+        "2017/18",
+        "2018/19"
+    ],
+    "data": [
+        {
+            "label": " ",
+            "color": "#2876dd",
+            "values": [
+                5244,
+                6059,
+                6343,
+                6719,
+                7105,
+                7458,
+                7851,
+                8189,
+                8521,
+                8864,
+                9221,
+                9598,
+                9926,
+                10243,
+                10539,
+                10869,
+                11216
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 5240,
+                "max_value": 11220
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

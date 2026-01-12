@@ -1,0 +1,74 @@
+{
+    "title": "Value in billion Indian rupees",
+    "x_axis": {
+        "categories": [
+            "FY 2007",
+            "FY 2008",
+            "FY 2009",
+            "FY 2010",
+            "FY 2011",
+            "FY 2012",
+            "FY 2013",
+            "FY 2014",
+            "FY 2015",
+            "FY 2016",
+            "FY 2017",
+            "FY 2018",
+            "FY 2019",
+            "FY 2020",
+            "FY 2021",
+            "FY 2022"
+        ]
+    },
+    "y_axis": {
+        "label": "Value in billion Indian rupees"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            4,
+            7,
+            8,
+            10,
+            13,
+            15.3,
+            19.2,
+            23.5,
+            24.5,
+            28,
+            32,
+            44,
+            62,
+            90,
+            99,
+            143
+        ]
+    },
+    "type": "line",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 150
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

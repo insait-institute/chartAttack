@@ -1,0 +1,99 @@
+{
+    "title": "Prices of fuel in Egypt, Arab Rep.",
+    "legend": {
+        "Diesel": "#C71585",
+        "Gasoline": "#00FF7F"
+    },
+    "x_axis": [
+        "1998",
+        "2000",
+        "2002",
+        "2004",
+        "2006",
+        "2008",
+        "2010"
+    ],
+    "y_axis_label": "Price (US$ per liter)",
+    "data": [
+        {
+            "label": "Diesel",
+            "color": "#C71585",
+            "values": [
+                0.12,
+                0.1,
+                0.08,
+                0.1,
+                0.12,
+                0.2,
+                0.19
+            ]
+        },
+        {
+            "label": "Gasoline",
+            "color": "#00FF7F",
+            "values": [
+                0.29,
+                0.26,
+                0.19,
+                0.28,
+                0.3,
+                0.49,
+                0.48
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Diesel",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Gasoline",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

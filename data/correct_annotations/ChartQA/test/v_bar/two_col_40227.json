@@ -1,0 +1,64 @@
+{
+    "title": "Sales in million US dollars",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015*",
+            "2016**",
+            "2017**",
+            "2018**",
+            "2019**",
+            "2020**"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales in million US dollars"
+    },
+    "legend": {
+        "Sales": "#2876dd"
+    },
+    "data": {
+        "Sales": [
+            18762.59,
+            20790.38,
+            21738.63,
+            21879.05,
+            23588.17,
+            21511.96,
+            21811.06,
+            22300.52,
+            22746.96,
+            23092.49,
+            23555.3
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23590
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

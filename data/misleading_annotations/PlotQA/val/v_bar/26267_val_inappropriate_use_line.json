@@ -1,0 +1,72 @@
+{
+    "title": "Global C02 emissions",
+    "x_axis": {
+        "categories": [
+            "Comoros",
+            "Congo (Democratic)",
+            "Congo (Republic)",
+            "Costa Rica",
+            "Cote d'Ivoire",
+            "Cuba"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#E9967A",
+        "1961": "#8A2BE2",
+        "1962": "#FFD700"
+    },
+    "data": {
+        "1960": [
+            0.0582890023949304,
+            0.152228066100193,
+            0.22068981166774,
+            0.368614042168214,
+            0.132972287870922,
+            1.91845183023581
+        ],
+        "1961": [
+            0.0573482494734867,
+            0.150781683896912,
+            0.257403607425627,
+            0.355576299641079,
+            0.153721674312723,
+            1.67106466709503
+        ],
+        "1962": [
+            0.0564269593762823,
+            0.135558725577881,
+            0.223260157491821,
+            0.3839568108793699,
+            0.15685590948597,
+            1.90181472038295
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

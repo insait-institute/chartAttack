@@ -1,0 +1,62 @@
+{
+    "title": "Share of Americans with at least one tattoo",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of Americans with at least one tattoo"
+    },
+    "legend": {
+        "2003": "#f27979",
+        "2008": "#79f200",
+        "2012": "#52a5a5",
+        "2015": "#5200a5"
+    },
+    "data": {
+        "2003": [
+            16.0
+        ],
+        "2008": [
+            15.0
+        ],
+        "2012": [
+            19.0
+        ],
+        "2015": [
+            27.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2003": "#f27979",
+        "2008": "#79f200",
+        "2012": "#52a5a5",
+        "2015": "#5200a5"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Total female labor force of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Low & middle income": "#f27979",
+        "Low income": "#f2f200",
+        "Lower middle income": "#79f279",
+        "Middle East & North Africa (all income levels)": "#00a5a5",
+        "Middle East & North Africa (developing only)": "#5252a5",
+        "Middle income": "#a500a5"
+    },
+    "data": {
+        "Low & middle income": [
+            38.6165035666636
+        ],
+        "Low income": [
+            46.7260257204737
+        ],
+        "Lower middle income": [
+            32.8998006945344
+        ],
+        "Middle East & North Africa (all income levels)": [
+            18.4498556547547
+        ],
+        "Middle East & North Africa (developing only)": [
+            18.5907657020991
+        ],
+        "Middle income": [
+            37.94773694381971
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Low & middle income": "#f27979",
+        "Low income": "#f2f200",
+        "Lower middle income": "#79f279",
+        "Middle East & North Africa (all income levels)": "#00a5a5",
+        "Middle East & North Africa (developing only)": "#5252a5",
+        "Middle income": "#a500a5"
+    }
+}

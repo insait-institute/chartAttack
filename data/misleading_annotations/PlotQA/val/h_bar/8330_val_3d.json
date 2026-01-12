@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of population having access to electricity",
+    "legend": {
+        "Cabo Verde": "#8B0000",
+        "Denmark": "#00FA9A",
+        "Syrian Arab Republic": "#228B22"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2010",
+        "2012"
+    ],
+    "data": {
+        "Cabo Verde": [
+            58.18774000000001,
+            58.6,
+            67.0,
+            70.56255999999998
+        ],
+        "Denmark": [
+            100,
+            100,
+            100,
+            100
+        ],
+        "Syrian Arab Republic": [
+            85.03773000000002,
+            86.6,
+            92.7,
+            96.26256
+        ]
+    },
+    "colors": {
+        "Cabo Verde": "#8B0000",
+        "Denmark": "#00FA9A",
+        "Syrian Arab Republic": "#228B22"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

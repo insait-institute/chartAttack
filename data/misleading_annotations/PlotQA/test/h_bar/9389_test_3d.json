@@ -1,0 +1,68 @@
+{
+    "title": "Total undisbursed external debt of a country",
+    "legend": {
+        "Guyana": "#BC8F8F",
+        "Sao Tome and Principe": "#8FBC8F",
+        "Somalia": "#C71585"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Guyana": [
+            250396000,
+            245245000,
+            226581000,
+            192654000,
+            224556000
+        ],
+        "Sao Tome and Principe": [
+            26516000.0,
+            27809000.0,
+            26106000.0,
+            21553000.0,
+            68167000.0
+        ],
+        "Somalia": [
+            4601000,
+            4396000,
+            4349000,
+            4184000,
+            4277000
+        ]
+    },
+    "colors": {
+        "Guyana": "#BC8F8F",
+        "Sao Tome and Principe": "#8FBC8F",
+        "Somalia": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 250396000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

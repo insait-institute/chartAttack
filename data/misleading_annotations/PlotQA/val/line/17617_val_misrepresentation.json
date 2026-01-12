@@ -1,0 +1,94 @@
+{
+    "title": "Percentage of urban population using safely managed services in Latin America(developing only)",
+    "legend": {
+        "Sanitation services": "#00FF00",
+        "Drinking water services": "#B8860B"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "% of urban population",
+    "data": [
+        {
+            "label": "Sanitation services",
+            "color": "#00FF00",
+            "values": [
+                83.5079040033305,
+                83.87222485725921,
+                84.22634279413299,
+                84.51224870577971,
+                84.87504119974379,
+                85.22513862048041
+            ]
+        },
+        {
+            "label": "Drinking water services",
+            "color": "#B8860B",
+            "values": [
+                96.34450809216541,
+                96.4475504656294,
+                96.60205153635151,
+                96.74006084363441,
+                96.88347570011852,
+                97.000910543684
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 80,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Sanitation services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Drinking water services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

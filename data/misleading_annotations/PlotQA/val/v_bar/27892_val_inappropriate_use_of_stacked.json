@@ -1,0 +1,67 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service imports",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Colombia": "#f27979",
+        "Czech Republic": "#c1f200",
+        "El Salvador": "#52a574",
+        "France": "#0042a5",
+        "Georgia": "#da79f2"
+    },
+    "data": {
+        "Colombia": [
+            19.3917457375215
+        ],
+        "Czech Republic": [
+            41.7182949899575
+        ],
+        "El Salvador": [
+            22.3797977949586
+        ],
+        "France": [
+            44.31036289424561
+        ],
+        "Georgia": [
+            11.8530466223815
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Colombia": "#f27979",
+        "Czech Republic": "#c1f200",
+        "El Salvador": "#52a574",
+        "France": "#0042a5",
+        "Georgia": "#da79f2"
+    }
+}

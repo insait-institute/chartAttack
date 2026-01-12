@@ -1,0 +1,107 @@
+{
+    "title": "Net enrolment rate of females in primary schools",
+    "legend": {
+        "Pacific island small states": "#FF4500",
+        "Bulgaria": "#F0E68C",
+        "Djibouti": "#90EE90",
+        "Luxembourg": "#6495ED"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Pacific island small states": [
+            90.6698684692383,
+            91.20327758789058,
+            91.2900924682617,
+            91.4319000244141,
+            94.2063369750977
+        ],
+        "Bulgaria": [
+            95.1696395874023,
+            92.01734161376949,
+            90.57103729248051,
+            93.9430999755859,
+            96.3263473510742
+        ],
+        "Djibouti": [
+            29.9676208496094,
+            32.5141105651855,
+            36.6293983459473,
+            40.7514305114746,
+            48.1949615478516
+        ],
+        "Luxembourg": [
+            95.97219848632808,
+            96.7669525146484,
+            96.9971237182617,
+            96.896873474121,
+            96.20187377929692
+        ]
+    },
+    "colors": {
+        "Pacific island small states": "#FF4500",
+        "Bulgaria": "#F0E68C",
+        "Djibouti": "#90EE90",
+        "Luxembourg": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Pacific island small states": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Bulgaria": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Djibouti": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Luxembourg": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

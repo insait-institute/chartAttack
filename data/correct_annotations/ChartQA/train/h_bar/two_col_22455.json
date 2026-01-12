@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Creta",
+        "i10 Grand",
+        "VENUE",
+        "i20 Elite",
+        "Xcent/Aura",
+        "SANTRO",
+        "Verna",
+        "Tucson",
+        "Elantra",
+        "KONA"
+    ],
+    "data": {
+        "Model": [
+            96.99,
+            91.93,
+            82.43,
+            73.41,
+            36.34,
+            26.74,
+            14.66,
+            0.6,
+            0.33,
+            0.22
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "y_label": "Number of vehicles sold in thousands",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

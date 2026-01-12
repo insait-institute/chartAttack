@@ -1,0 +1,73 @@
+{
+    "title": "Percentage of male part-time workers in a country",
+    "legend": {
+        "Euro area": "#2f4f4f",
+        "North America": "#2f4a4f",
+        "Moldova": "#334a55"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Euro area": [
+            6.565081621305691,
+            6.66132699038842,
+            6.815649986853058,
+            7.19418793866053,
+            7.496666923607218
+        ],
+        "North America": [
+            7.121614394231401,
+            7.056082197383502,
+            7.36616834451412,
+            8.42100531591364,
+            7.635804302383491
+        ],
+        "Moldova": [
+            16.7999992370605,
+            17.0,
+            17.1000003814697,
+            19.3999996185303,
+            19.5
+        ]
+    },
+    "colors": {
+        "Euro area": "#2F4F4F",
+        "North America": "#8B008B",
+        "Moldova": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Euro area": "#2f4f4f",
+        "North America": "#2f4a4f",
+        "Moldova": "#334a55"
+    }
+}

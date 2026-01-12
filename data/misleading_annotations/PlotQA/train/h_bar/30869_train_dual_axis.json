@@ -1,0 +1,73 @@
+{
+    "title": "Net savings of an economy in 1974",
+    "legend": {
+        "Net savings(excluding particulate emission damage)": "#00CED1",
+        "Net National savings": "#20B2AA"
+    },
+    "categories": [
+        "Ireland",
+        "Israel",
+        "Italy",
+        "Madagascar",
+        "Malaysia",
+        "Netherlands"
+    ],
+    "data": {
+        "Net savings(excluding particulate emission damage)": [
+            16.4632135186706,
+            12.511637821694,
+            16.3516584177857,
+            3.18528879842058,
+            19.69653654383169,
+            20.1046590898294
+        ],
+        "Net National savings": [
+            11.1351509432463,
+            13.7581994013356,
+            7.29720087664359,
+            13.3371168447528,
+            0.9953074368624428,
+            17.6583629347136
+        ]
+    },
+    "colors": {
+        "Net savings(excluding particulate emission damage)": "#00CED1",
+        "Net National savings": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 3.18528879842058,
+                "max_value": 20.1046590898294
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0.9953074368624428,
+                "max_value": 17.6583629347136
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

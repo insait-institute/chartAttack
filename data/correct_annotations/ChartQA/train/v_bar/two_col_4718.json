@@ -1,0 +1,64 @@
+{
+    "title": "Number of vehicles in millions",
+    "x_axis": {
+        "categories": [
+            "FY 2007",
+            "FY 2008",
+            "FY 2009",
+            "FY 2010",
+            "FY 2011",
+            "FY 2012",
+            "FY 2013",
+            "FY 2014",
+            "FY 2015",
+            "FY 2016",
+            "FY 2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of vehicles in millions"
+    },
+    "legend": {
+        "FY 2007-FY 2017": "#2876dd"
+    },
+    "data": {
+        "FY 2007-FY 2017": [
+            12.17,
+            13.34,
+            14.45,
+            15.77,
+            17.43,
+            19.43,
+            21.49,
+            23.39,
+            25.56,
+            27.87,
+            30.22
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Split of the expenses of government of different countries in 2013",
+    "x_axis": {
+        "categories": [
+            "Miscellaneous expenses",
+            "Labor Taxes",
+            "Grants and Revenue",
+            "Services"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Mali": "#663399",
+        "United States": "#C71585"
+    },
+    "data": {
+        "Mali": [
+            84135480445,
+            129336000000,
+            326169000000,
+            239546174000
+        ],
+        "United States": [
+            270700000000,
+            19300000000,
+            203400000000,
+            324700000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 326169000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

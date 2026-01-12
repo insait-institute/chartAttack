@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "The Last Dance": "#f27979",
+        "Caliphate": "#f29100",
+        "Night on Earth": "#daf279",
+        "The Midnight Gospel": "#30f200",
+        "The Trials of Gabriel Fernandez": "#52a574",
+        "Unorthodox": "#00a5a5",
+        "Love 101": "#5274a5",
+        "Money Heist: The Phenomenon": "#2100a5",
+        "Lenox Hill": "#da79f2",
+        "The English Game": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "The Last Dance": [
+            8.75
+        ],
+        "Caliphate": [
+            8.17
+        ],
+        "Night on Earth": [
+            8.12
+        ],
+        "The Midnight Gospel": [
+            7.97
+        ],
+        "The Trials of Gabriel Fernandez": [
+            7.65
+        ],
+        "Unorthodox": [
+            7.6
+        ],
+        "Love 101": [
+            7.53
+        ],
+        "Money Heist: The Phenomenon": [
+            7.46
+        ],
+        "Lenox Hill": [
+            7.41
+        ],
+        "The English Game": [
+            7.41
+        ]
+    },
+    "colors": {
+        "The Last Dance": "#f27979",
+        "Caliphate": "#f29100",
+        "Night on Earth": "#daf279",
+        "The Midnight Gospel": "#30f200",
+        "The Trials of Gabriel Fernandez": "#52a574",
+        "Unorthodox": "#00a5a5",
+        "Love 101": "#5274a5",
+        "Money Heist: The Phenomenon": "#2100a5",
+        "Lenox Hill": "#da79f2",
+        "The English Game": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

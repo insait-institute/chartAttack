@@ -1,0 +1,50 @@
+{
+    "title": "Value in trillion Indian rupees",
+    "x_axis": {
+        "categories": [
+            "FY 2017",
+            "FY 2018",
+            "FY 2019",
+            "FY 2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Value in trillion Indian rupees"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            25.65,
+            32.62,
+            37.7,
+            41.04
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

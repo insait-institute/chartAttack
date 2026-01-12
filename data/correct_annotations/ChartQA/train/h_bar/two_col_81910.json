@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Brand": "#2876dd"
+    },
+    "categories": [
+        "Amazon (.co.uk)",
+        "Ebay",
+        "Argos",
+        "Tesco",
+        "Marks & Spencer",
+        "John Lewis",
+        "Asda",
+        "Next",
+        "Sainsbury's",
+        "Boots"
+    ],
+    "data": {
+        "Brand": [
+            75.9,
+            42.6,
+            38.5,
+            31.7,
+            23.2,
+            21.6,
+            19.8,
+            16.3,
+            13.9,
+            13.8
+        ]
+    },
+    "colors": {
+        "Brand": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

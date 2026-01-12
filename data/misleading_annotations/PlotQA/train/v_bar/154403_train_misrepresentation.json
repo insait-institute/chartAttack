@@ -1,0 +1,64 @@
+{
+    "title": "Energy use(kg of oil equivalent per capita) by countries in the year 2003",
+    "x_axis": {
+        "categories": [
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Ireland",
+            "Israel",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Energy use ": "#FF8C00"
+    },
+    "data": {
+        "Energy use ": [
+            752.1077475742128,
+            2082.04166441314,
+            1056.79609070875,
+            3550.45675976681,
+            2949.30041705906,
+            3129.16442656328
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3560
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Energy use ": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

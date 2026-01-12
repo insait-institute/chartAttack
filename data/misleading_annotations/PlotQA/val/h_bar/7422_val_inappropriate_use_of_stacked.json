@@ -1,0 +1,52 @@
+{
+    "title": "Percentage share of income between different subgroups of population of Maldives",
+    "legend": {
+        "1998": "#f27979",
+        "2004": "#00f200",
+        "2009": "#5252a5"
+    },
+    "categories": [
+        "Percentage share of income between different subgroups of population of Maldives"
+    ],
+    "data": {
+        "1998": [
+            65.74
+        ],
+        "2004": [
+            44.25
+        ],
+        "2009": [
+            43.5
+        ]
+    },
+    "colors": {
+        "1998": "#f27979",
+        "2004": "#00f200",
+        "2009": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

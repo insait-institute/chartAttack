@@ -1,0 +1,62 @@
+{
+    "title": "Amount spent on the passenger transport items in the year 2001",
+    "legend": {
+        "International Tourists": "#87CEEB",
+        "National Tourists": "#A52A2A"
+    },
+    "categories": [
+        "Costa Rica",
+        "Cote d'Ivoire",
+        "Croatia",
+        "Cyprus",
+        "Djibouti",
+        "Dominican Republic"
+    ],
+    "data": {
+        "International Tourists": [
+            70000000.0,
+            102000000.0,
+            71000000.0,
+            140000000.0,
+            8900000.0,
+            134000000.0
+        ],
+        "National Tourists": [
+            148000000.0,
+            210000000.0,
+            8000000.0,
+            319000000.0,
+            251000000.0,
+            154000000.0
+        ]
+    },
+    "colors": {
+        "International Tourists": "#87CEEB",
+        "National Tourists": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 319000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

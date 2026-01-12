@@ -1,0 +1,60 @@
+{
+    "title": "Ores,manufactures and fuel exports of different countries in 1966",
+    "x_axis": {
+        "categories": [
+            "Ores and metals",
+            "Manufactures",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Euro area": "#D2691E",
+        "Colombia": "#7FFFD4",
+        "Iran": "#FF69B4"
+    },
+    "data": {
+        "Euro area": [
+            4.72061652340044,
+            71.7058031449091,
+            4.21237483008085
+        ],
+        "Colombia": [
+            0.139722150685955,
+            8.28589336154296,
+            16.0323965251972
+        ],
+        "Iran": [
+            0.855173281981978,
+            3.65744588281484,
+            87.27069374635
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

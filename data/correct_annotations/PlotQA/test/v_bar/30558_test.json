@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of ores and metals imported from different countries",
+    "x_axis": {
+        "categories": [
+            "Netherlands",
+            "Paraguay",
+            "Philippines",
+            "Portugal"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#5F9EA0",
+        "1963": "#20B2AA",
+        "1964": "#7FFFD4",
+        "1965": "#8B4513"
+    },
+    "data": {
+        "1962": [
+            8.17098864973639,
+            1.34377938816194,
+            2.26167022738386,
+            4.13465836518327
+        ],
+        "1963": [
+            4.22475043086117,
+            1.77713024034908,
+            2.57792323745724,
+            3.73661371861648
+        ],
+        "1964": [
+            5.42897940252942,
+            1.51226338123592,
+            2.5534243788273,
+            3.65594063880129
+        ],
+        "1965": [
+            5.899154143908548,
+            1.66059134580729,
+            2.67476510526446,
+            4.06278348187293
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

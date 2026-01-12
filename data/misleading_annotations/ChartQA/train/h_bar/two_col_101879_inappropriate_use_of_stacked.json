@@ -1,0 +1,92 @@
+{
+    "title": "M&A deal count",
+    "legend": {
+        "PwC": "#f27979",
+        "Clearwater International": "#f28400",
+        "Deloitte": "#e7f279",
+        "Danske Bank Corporate Finance": "#58f200",
+        "SEB": "#52a561",
+        "Carnegie Investment Bank": "#00a578",
+        "BDO": "#528fa5",
+        "Handelsbanken Capital Markets": "#001ea5",
+        "Nordea": "#a579f2",
+        "FIH Partners": "#dc00f2",
+        "Oaklins": "#f279bb"
+    },
+    "categories": [
+        "M&A deal count"
+    ],
+    "data": {
+        "PwC": [
+            18.0
+        ],
+        "Clearwater International": [
+            18.0
+        ],
+        "Deloitte": [
+            14.0
+        ],
+        "Danske Bank Corporate Finance": [
+            13.0
+        ],
+        "SEB": [
+            11.0
+        ],
+        "Carnegie Investment Bank": [
+            7.0
+        ],
+        "BDO": [
+            7.0
+        ],
+        "Handelsbanken Capital Markets": [
+            6.0
+        ],
+        "Nordea": [
+            5.0
+        ],
+        "FIH Partners": [
+            5.0
+        ],
+        "Oaklins": [
+            5.0
+        ]
+    },
+    "colors": {
+        "PwC": "#f27979",
+        "Clearwater International": "#f28400",
+        "Deloitte": "#e7f279",
+        "Danske Bank Corporate Finance": "#58f200",
+        "SEB": "#52a561",
+        "Carnegie Investment Bank": "#00a578",
+        "BDO": "#528fa5",
+        "Handelsbanken Capital Markets": "#001ea5",
+        "Nordea": "#a579f2",
+        "FIH Partners": "#dc00f2",
+        "Oaklins": "#f279bb"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

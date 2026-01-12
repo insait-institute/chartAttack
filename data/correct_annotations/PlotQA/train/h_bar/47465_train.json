@@ -1,0 +1,68 @@
+{
+    "title": "Proportion of the female labor force (ages 15+) who participated in production",
+    "legend": {
+        "Ethiopia": "#000000",
+        "Jamaica": "#7FFFD4",
+        "Samoa": "#9ACD32"
+    },
+    "categories": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "data": {
+        "Ethiopia": [
+            71.9000015258789,
+            71.4000015258789,
+            71.3000030517578,
+            71.5,
+            71.4000015258789
+        ],
+        "Jamaica": [
+            66.6999969482422,
+            65.0,
+            63.0,
+            60.7999992370605,
+            60.0
+        ],
+        "Samoa": [
+            37.0,
+            36.2000007629395,
+            35.2999992370605,
+            34.5,
+            33.5999984741211
+        ]
+    },
+    "colors": {
+        "Ethiopia": "#000000",
+        "Jamaica": "#7FFFD4",
+        "Samoa": "#9ACD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

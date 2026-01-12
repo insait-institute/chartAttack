@@ -1,0 +1,77 @@
+{
+    "title": "Percentage of ores and metals imported from different countries",
+    "legend": {
+        "1962": "#8B4513",
+        "1963": "#BEBEBE",
+        "1964": "#EE82EE",
+        "1965": "#B03060"
+    },
+    "categories": [
+        "OECD members",
+        "World",
+        "Argentina",
+        "Belgium",
+        "Brazil"
+    ],
+    "data": {
+        "1962": [
+            9.393885729155713,
+            8.29310171299176,
+            2.74088407026322,
+            13.1219616426723,
+            5.014747754282
+        ],
+        "1963": [
+            8.22268461306372,
+            7.347188177692901,
+            3.96414939824762,
+            11.4291687123403,
+            6.04870146189196
+        ],
+        "1964": [
+            8.842221045928051,
+            7.893190943525092,
+            7.31789796249061,
+            12.1059730632556,
+            5.293832702070481
+        ],
+        "1965": [
+            9.26564393842235,
+            8.259018385742769,
+            8.47181378032482,
+            12.5320136554242,
+            7.356694797698928
+        ]
+    },
+    "colors": {
+        "1962": "#8B4513",
+        "1963": "#BEBEBE",
+        "1964": "#EE82EE",
+        "1965": "#B03060"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

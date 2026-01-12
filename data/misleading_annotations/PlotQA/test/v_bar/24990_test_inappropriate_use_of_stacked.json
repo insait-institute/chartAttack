@@ -1,0 +1,62 @@
+{
+    "title": "Areawise split of the land in different countries in 2012",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Terrestrial protected areas": "#f27979",
+        "Agricultural land": "#79f200",
+        "Arable land": "#52a5a5",
+        "Permanent crop land": "#5200a5"
+    },
+    "data": {
+        "Terrestrial protected areas": [
+            14.270418902338
+        ],
+        "Agricultural land": [
+            65.8005516040064
+        ],
+        "Arable land": [
+            16.9835970387574
+        ],
+        "Permanent crop land": [
+            0.0145158949049209
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Terrestrial protected areas": "#f27979",
+        "Agricultural land": "#79f200",
+        "Arable land": "#52a5a5",
+        "Permanent crop land": "#5200a5"
+    }
+}

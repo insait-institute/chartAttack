@@ -1,0 +1,52 @@
+{
+    "title": "Value added by agricultural sector of a country in it's current local currency unit",
+    "x_axis": {
+        "categories": [
+            "China",
+            "Congo (Republic)",
+            "Costa Rica",
+            "Cote d'Ivoire",
+            "Ecuador"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agriculture": "#A0522D"
+    },
+    "data": {
+        "Agriculture": [
+            55900000000.0,
+            9604919300.0,
+            886500100.0,
+            89825919000.0,
+            321411700.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 89825919000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

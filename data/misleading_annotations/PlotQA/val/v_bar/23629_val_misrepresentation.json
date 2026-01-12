@@ -1,0 +1,81 @@
+{
+    "title": "Pupil-teacher ratio in primary vs secondary education in different countries",
+    "x_axis": {
+        "categories": [
+            "OECD members",
+            "Other small states",
+            "Pacific island small states",
+            "Small states",
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary education": "#FF69B4",
+        "Secondary Education": "#2E8B57"
+    },
+    "data": {
+        "Primary education": [
+            19.3285808563232,
+            35.1085586547852,
+            22.1632194519043,
+            31.23773002624511,
+            40.147159576416,
+            38.09130859375
+        ],
+        "Secondary Education": [
+            21.4303607940674,
+            20.2544803619385,
+            26.63434028625489,
+            25.4827098846436,
+            25.4953899383545,
+            17.2537307739258
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Primary education": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Secondary Education": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

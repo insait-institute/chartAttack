@@ -1,0 +1,67 @@
+{
+    "title": "Total female teachers in schools in 1976",
+    "x_axis": {
+        "categories": [
+            "Primary school",
+            "Secondary school"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Botswana": "#daa520",
+        "Ecuador": "#dabb20",
+        "Hong Kong": "#dfd725",
+        "Iceland": "#c2cf21"
+    },
+    "data": {
+        "Botswana": [
+            67.6103,
+            31.08696
+        ],
+        "Ecuador": [
+            64.93386,
+            35.46447
+        ],
+        "Hong Kong": [
+            68.57641,
+            40.91359
+        ],
+        "Iceland": [
+            54.42029,
+            29.28362000000001
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Botswana": "#daa520",
+        "Ecuador": "#dabb20",
+        "Hong Kong": "#dfd725",
+        "Iceland": "#c2cf21"
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "title": "Net bilateral aid flow in an economy from Japan",
+    "legend": {
+        "Azerbaijan": "#66CDAA",
+        "Bahrain": "#2E8B57",
+        "Cabo Verde": "#FFA07A",
+        "Maldives": "#FF1493"
+    },
+    "categories": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "data": {
+        "Azerbaijan": [
+            300000.0,
+            2840000.0,
+            3470000.0,
+            10830000.0,
+            36390000.0
+        ],
+        "Bahrain": [
+            1130000.0,
+            1110000.0,
+            590000.0,
+            1090000.0,
+            1120000.0
+        ],
+        "Cabo Verde": [
+            3640000.0,
+            2350000.0,
+            2790000.0,
+            8460000.0,
+            10740000.0
+        ],
+        "Maldives": [
+            10120000.0,
+            11860000.0,
+            13200000.0,
+            19220000.0,
+            8020000.0
+        ]
+    },
+    "colors": {
+        "Azerbaijan": "#66CDAA",
+        "Bahrain": "#2E8B57",
+        "Cabo Verde": "#FFA07A",
+        "Maldives": "#FF1493"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 36390000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Azerbaijan": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Bahrain": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Cabo Verde": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Maldives": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

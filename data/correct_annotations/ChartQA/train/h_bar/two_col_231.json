@@ -1,0 +1,100 @@
+{
+    "title": "",
+    "legend": {
+        "Team": "#2876dd"
+    },
+    "categories": [
+        "Boston Red Sox",
+        "New York Yankees",
+        "Los Angeles Dodgers",
+        "Washington Nationals",
+        "St. Louis Cardinals",
+        "Chicago Cubs",
+        "Cleveland Indians",
+        "Chicago White Sox",
+        "Philadelphia Phillies",
+        "Houston Astros",
+        "Oakland Athletics",
+        "Minnesota Twins",
+        "Kansas City Royals",
+        "Toronto Blue Jays**",
+        "Arizona Diamondbacks",
+        "Texas Rangers",
+        "Milwaukee Brewers",
+        "Colorado Rockies",
+        "New York Mets",
+        "Seattle Mariners",
+        "Los Angeles Angels",
+        "San Francisco Giants",
+        "Pittsburgh Pirates",
+        "Atlanta Braves",
+        "San Diego Padres",
+        "Miami Marlins",
+        "Tampa Bay Rays",
+        "Cincinnati Reds",
+        "Detroit Tigers",
+        "Baltimore Orioles"
+    ],
+    "data": {
+        "Team": [
+            167,
+            145,
+            108,
+            102,
+            101,
+            93,
+            92,
+            81,
+            75,
+            73,
+            73,
+            73,
+            72,
+            70,
+            69,
+            68,
+            68,
+            65,
+            64,
+            64,
+            63,
+            62,
+            58,
+            58,
+            58,
+            57,
+            56,
+            55,
+            53,
+            52
+        ]
+    },
+    "colors": {
+        "Team": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

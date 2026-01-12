@@ -1,0 +1,60 @@
+{
+    "title": "Population in the largent city of the country",
+    "legend": {
+        "South Asia": "#E9967A",
+        "Bahrain": "#4682B4",
+        "Israel": "#8B008B"
+    },
+    "categories": [
+        "1979",
+        "1980",
+        "1981"
+    ],
+    "data": {
+        "South Asia": [
+            9.544796728789633,
+            9.52862350451354,
+            9.51387243805674
+        ],
+        "Bahrain": [
+            37.3772195579225,
+            36.4213128350098,
+            35.7095744318481
+        ],
+        "Israel": [
+            41.8761490140187,
+            42.1613105774865,
+            42.6245414905246
+        ]
+    },
+    "colors": {
+        "South Asia": "#E9967A",
+        "Bahrain": "#4682B4",
+        "Israel": "#8B008B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

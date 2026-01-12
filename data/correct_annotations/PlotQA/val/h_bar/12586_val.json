@@ -1,0 +1,62 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy(residual) in 1997",
+    "legend": {
+        "Gabon": "#000000",
+        "Grenada": "#8A2BE2",
+        "Mauritius": "#A020F0",
+        "Saudi Arabia": "#C71585"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Gabon": [
+            19.6393539667993,
+            0.7069126707058321
+        ],
+        "Grenada": [
+            0.361617043965393,
+            0.778830016719735
+        ],
+        "Mauritius": [
+            0.8901896282898539,
+            1.62811178565196
+        ],
+        "Saudi Arabia": [
+            0.0318956582908331,
+            0.419326153896045
+        ]
+    },
+    "colors": {
+        "Gabon": "#000000",
+        "Grenada": "#8A2BE2",
+        "Mauritius": "#A020F0",
+        "Saudi Arabia": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

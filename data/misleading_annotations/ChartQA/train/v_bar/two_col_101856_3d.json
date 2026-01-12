@@ -1,0 +1,64 @@
+{
+    "title": "Number of active EOR projects",
+    "x_axis": {
+        "categories": [
+            "1990",
+            "1992",
+            "1994",
+            "1996",
+            "1998",
+            "2000",
+            "2002",
+            "2004",
+            "2006",
+            "2008",
+            "2010"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of active EOR projects"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            295,
+            273,
+            226,
+            212,
+            199,
+            176,
+            147,
+            143,
+            152,
+            183,
+            193
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 300
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

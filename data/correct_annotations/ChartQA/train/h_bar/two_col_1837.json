@@ -1,0 +1,103 @@
+{
+    "title": "",
+    "legend": {
+        "NHL Fans": "#2876dd"
+    },
+    "categories": [
+        "NHL - league account",
+        "Chicago Blackhawks",
+        "Boston Bruins",
+        "Pittsburgh Penguins",
+        "Detroit Red Wings",
+        "Montreal Canadiens",
+        "New York Rangers",
+        "Toronto Maple Leafs",
+        "Philadelphia Flyers",
+        "Vancouver Canucks",
+        "Los Angeles Kings",
+        "San Jose Sharks",
+        "Washington Capitals",
+        "St. Louis Blues",
+        "Colorado Avalanche",
+        "Minnesota Wild",
+        "Edmonton Oilers",
+        "Tampa Bay Lightning",
+        "Buffalo Sabres",
+        "Dallas Stars",
+        "New Jersey Devils",
+        "Anaheim Ducks",
+        "Nashville Predators",
+        "Winnipeg Jets",
+        "Calgary Flames",
+        "Ottawa Senators",
+        "Columbus Blue Jackets",
+        "New York Islanders",
+        "Arizona Coyotes",
+        "Carolina Hurricanes",
+        "Florida Panthers"
+    ],
+    "data": {
+        "NHL Fans": [
+            4.64,
+            2.76,
+            2.16,
+            2,
+            1.96,
+            1.62,
+            1.49,
+            1.35,
+            1.15,
+            1.01,
+            0.93,
+            0.92,
+            0.79,
+            0.76,
+            0.75,
+            0.64,
+            0.58,
+            0.57,
+            0.5,
+            0.49,
+            0.47,
+            0.41,
+            0.4,
+            0.39,
+            0.38,
+            0.33,
+            0.32,
+            0.3,
+            0.3,
+            0.29,
+            0.2
+        ]
+    },
+    "colors": {
+        "NHL Fans": "#2876dd"
+    },
+    "y_label": "Facebook fans in millions",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

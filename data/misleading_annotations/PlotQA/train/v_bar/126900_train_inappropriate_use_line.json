@@ -1,0 +1,64 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1998",
+    "x_axis": {
+        "categories": [
+            "Industry",
+            "Manufacturing",
+            "Services",
+            "Agriculture"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brunei Darussalam": "#FF00FF",
+        "Estonia": "#6A5ACD",
+        "Suriname": "#8B0000"
+    },
+    "data": {
+        "Brunei Darussalam": [
+            51.5338510324484,
+            13.6641386430678,
+            47.0558657817109,
+            1.41028318584071
+        ],
+        "Estonia": [
+            28.5751474023807,
+            16.8074313049282,
+            65.4471020135721,
+            5.97775058404717
+        ],
+        "Suriname": [
+            24.21751404461969,
+            9.137784706428349,
+            66.1475306853467,
+            9.63495527003361
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

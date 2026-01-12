@@ -1,0 +1,68 @@
+{
+    "title": "Cereal production in a country",
+    "x_axis": {
+        "categories": [
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1961": "#00FF7F",
+        "1962": "#B8860B",
+        "1963": "#00CED1"
+    },
+    "data": {
+        "1961": [
+            30200189.0,
+            170761500.0,
+            17227295.0,
+            16687031.0,
+            360855013.0
+        ],
+        "1962": [
+            30689500.0,
+            178705870.0,
+            23977648.0,
+            23456648.0,
+            385822400.0
+        ],
+        "1963": [
+            31543695.0,
+            182702710.0,
+            23217742.0,
+            22676291.0,
+            412547322.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 412547330
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

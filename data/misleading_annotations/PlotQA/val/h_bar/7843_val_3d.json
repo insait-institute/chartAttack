@@ -1,0 +1,64 @@
+{
+    "title": "Adolescent fertility rate in countries",
+    "legend": {
+        "1960": "#FF0000",
+        "1961": "#00CED1",
+        "1962": "#A020F0"
+    },
+    "categories": [
+        "Upper middle income",
+        "World",
+        "Afghanistan",
+        "Albania"
+    ],
+    "data": {
+        "1960": [
+            80.4098605143021,
+            86.52028529291509,
+            145.321,
+            54.4408
+        ],
+        "1961": [
+            79.75395724996791,
+            86.3351749544999,
+            145.321,
+            56.1654
+        ],
+        "1962": [
+            78.8656442876814,
+            85.826651757614,
+            145.321,
+            57.89
+        ]
+    },
+    "colors": {
+        "1960": "#FF0000",
+        "1961": "#00CED1",
+        "1962": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 150
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

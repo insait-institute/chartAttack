@@ -1,0 +1,70 @@
+{
+    "title": "Share of consumption by music genre",
+    "legend": {
+        "Music Genres": "#2876dd"
+    },
+    "categories": [
+        "Rock",
+        "Pop",
+        "R&B",
+        "Rap/Hip-Hop",
+        "Stage & Screen",
+        "Jazz",
+        "Country",
+        "EDM",
+        "Reggae",
+        "Classical",
+        "Latin",
+        "World",
+        "Religious",
+        "New Age",
+        "Children's"
+    ],
+    "data": {
+        "Music Genres": [
+            41.7,
+            25.6,
+            7.9,
+            6.6,
+            5.7,
+            4.3,
+            2.9,
+            2.5,
+            1.1,
+            0.6,
+            0.4,
+            0.4,
+            0.2,
+            0.1,
+            0.1
+        ]
+    },
+    "colors": {
+        "Music Genres": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

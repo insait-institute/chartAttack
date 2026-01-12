@@ -1,0 +1,58 @@
+{
+    "title": "Number of deaths",
+    "x_axis": {
+        "categories": [
+            "Season 1",
+            "Season 2",
+            "Season 3",
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7",
+            "Season 8"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of deaths"
+    },
+    "legend": {
+        "Seasons": "#2876dd"
+    },
+    "data": {
+        "Seasons": [
+            59,
+            130,
+            87,
+            182,
+            246,
+            540,
+            1096,
+            3523
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3530
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

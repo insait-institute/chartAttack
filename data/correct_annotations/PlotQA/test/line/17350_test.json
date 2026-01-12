@@ -1,0 +1,73 @@
+{
+    "title": "Proportion of the population (ages 15+) that is economically active in Ethiopia",
+    "legend": {
+        "Females": "#BEBEBE",
+        "Males": "#2E8B57"
+    },
+    "x_axis": [
+        "1999",
+        "2005",
+        "2006",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Active population (% of total population)",
+    "data": [
+        {
+            "label": "Females",
+            "color": "#BEBEBE",
+            "values": [
+                71.9000015258789,
+                78.8000030517578,
+                59.7000007629395,
+                60.5,
+                61.2999992370605,
+                60.7999992370605,
+                63.2999992370605
+            ]
+        },
+        {
+            "label": "Males",
+            "color": "#2E8B57",
+            "values": [
+                89.6999969482422,
+                90.6999969482422,
+                75.599998474121,
+                77.1999969482422,
+                75.8000030517578,
+                77.6999969482422,
+                79.099998474121
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Child (ages 7-14) employment in various industries in Brazil",
+    "legend": {
+        "Agriculture": "#FFFF00",
+        "Maunufacturing": "#00CED1",
+        "Services": "#EE82EE"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2011"
+    ],
+    "y_axis_label": "% of economically active children",
+    "data": [
+        {
+            "label": "Agriculture",
+            "color": "#FFFF00",
+            "values": [
+                55.5,
+                54.7,
+                51.72,
+                56.27
+            ]
+        },
+        {
+            "label": "Maunufacturing",
+            "color": "#00CED1",
+            "values": [
+                8.7,
+                7.6,
+                6.91,
+                7.06
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#EE82EE",
+            "values": [
+                33.5,
+                34.6,
+                39.08,
+                33.76
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

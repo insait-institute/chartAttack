@@ -1,0 +1,62 @@
+{
+    "title": "Gross Domestic Product of different countries in the year 1963",
+    "legend": {
+        "GDP at market prices": "#40E0D0",
+        "GDP per capita": "#DB7093"
+    },
+    "categories": [
+        "Korea (Republic)",
+        "Lesotho",
+        "Liberia",
+        "Luxembourg",
+        "Madagascar",
+        "Malawi"
+    ],
+    "data": {
+        "GDP at market prices": [
+            32600234365.55101,
+            218384752.299422,
+            913081705.7403892,
+            7387259912.4533,
+            2507094591.04217,
+            534011629.619984
+        ],
+        "GDP per capita": [
+            1195.82337718676,
+            243.097564512649,
+            763.071086907431,
+            22793.1499921423,
+            456.949256313011,
+            137.911810060831
+        ]
+    },
+    "colors": {
+        "GDP at market prices": "#40E0D0",
+        "GDP per capita": "#DB7093"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 32600234370
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

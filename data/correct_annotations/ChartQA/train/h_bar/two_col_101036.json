@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Universities": "#2876dd"
+    },
+    "categories": [
+        "Community of Madrid",
+        "Catalonia",
+        "Andalusia",
+        "Region of Valencia",
+        "Castile and Leon",
+        "Canary Islands",
+        "Galicia",
+        "Murcia",
+        "Basque Country",
+        "Navarre",
+        "Aragon",
+        "Cantabria",
+        "La Rioja",
+        "Extremadura",
+        "Castile-La Mancha",
+        "Asturias",
+        "Balearic Islands"
+    ],
+    "data": {
+        "Universities": [
+            14,
+            12,
+            11,
+            9,
+            9,
+            5,
+            3,
+            3,
+            3,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "colors": {
+        "Universities": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

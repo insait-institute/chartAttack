@@ -1,0 +1,77 @@
+{
+    "title": "Measure of country's business executives perception of the efficiency of customs procedures",
+    "legend": {
+        "2007": "#FF00FF",
+        "2008": "#FF0000",
+        "2009": "#0000FF"
+    },
+    "categories": [
+        "Philippines",
+        "Poland",
+        "Portugal"
+    ],
+    "data": {
+        "2007": [
+            3.05555555555556,
+            3.928571428571431,
+            4.42857142857143
+        ],
+        "2008": [
+            2.93404040671296,
+            3.76703976656746,
+            4.658991639595049
+        ],
+        "2009": [
+            2.9807238408,
+            3.9204819796,
+            4.8784698269
+        ]
+    },
+    "colors": {
+        "2007": "#FF00FF",
+        "2008": "#FF0000",
+        "2009": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2007": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "2008": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "2009": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

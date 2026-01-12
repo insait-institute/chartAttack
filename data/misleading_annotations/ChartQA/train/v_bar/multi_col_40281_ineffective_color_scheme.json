@@ -1,0 +1,148 @@
+{
+    "title": "Revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017*",
+            "2018*",
+            "2019*",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "Under 120 GB": "#2876dd",
+        "120 GB - 320 GB": "#2868dd",
+        "320 GB -500 GB": "#3160de",
+        "500 GB - 1 TB": "#2547d6",
+        "1 TB - 2 TB": "#374ae2",
+        "Above 2 TB": "#2329cd"
+    },
+    "data": {
+        "Under 120 GB": [
+            0.3,
+            0.4,
+            0.5,
+            0.6,
+            0.7,
+            0.8,
+            0.9,
+            1.0,
+            1.2,
+            1.4,
+            1.6,
+            1.9
+        ],
+        "120 GB - 320 GB": [
+            0.5,
+            0.5,
+            0.5,
+            0.6,
+            0.7,
+            0.8,
+            1.0,
+            1.1,
+            1.2,
+            1.4,
+            1.6,
+            1.9
+        ],
+        "320 GB -500 GB": [
+            0.4,
+            0.4,
+            0.5,
+            0.6,
+            0.7,
+            0.8,
+            0.9,
+            1.0,
+            1.2,
+            1.4,
+            1.6,
+            1.9
+        ],
+        "500 GB - 1 TB": [
+            0.4,
+            0.4,
+            0.5,
+            0.5,
+            0.4,
+            0.7,
+            0.8,
+            1.0,
+            1.1,
+            1.3,
+            1.5,
+            1.8
+        ],
+        "1 TB - 2 TB": [
+            0.1,
+            0.2,
+            0.3,
+            0.3,
+            0.5,
+            0.4,
+            0.5,
+            0.6,
+            0.7,
+            0.8,
+            0.9,
+            1.1
+        ],
+        "Above 2 TB": [
+            0.2,
+            0.2,
+            0.3,
+            0.3,
+            0.4,
+            0.4,
+            0.4,
+            0.5,
+            0.6,
+            0.8,
+            0.8,
+            0.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Under 120 GB": "#2876dd",
+        "120 GB - 320 GB": "#2868dd",
+        "320 GB -500 GB": "#3160de",
+        "500 GB - 1 TB": "#2547d6",
+        "1 TB - 2 TB": "#374ae2",
+        "Above 2 TB": "#2329cd"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "title": "CPIA structural policies cluster average",
+    "x_axis": {
+        "categories": [
+            "Dominica",
+            "Eritrea",
+            "Ethiopia",
+            "Gambia, The",
+            "Ghana",
+            "Grenada"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#00FF00",
+        "2006": "#008B8B",
+        "2007": "#0000FF",
+        "2008": "#663399"
+    },
+    "data": {
+        "2005": [
+            4.16666666666667,
+            1.83333333333333,
+            3.16666666666667,
+            3.33333333333333,
+            3.833333333333329,
+            4.0
+        ],
+        "2006": [
+            4.16666666666667,
+            1.83333333333333,
+            3.16666666666667,
+            3.33333333333333,
+            3.833333333333329,
+            4.0
+        ],
+        "2007": [
+            4.16666666666667,
+            1.83333333333333,
+            3.16666666666667,
+            3.5,
+            4.0,
+            4.0
+        ],
+        "2008": [
+            4.2,
+            1.5,
+            3.2,
+            3.3,
+            4.0,
+            4.2
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

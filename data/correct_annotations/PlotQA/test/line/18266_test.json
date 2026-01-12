@@ -1,0 +1,79 @@
+{
+    "title": "Net bilateral aid flow in Malaysia from different members of DAC",
+    "legend": {
+        "New Zealand": "#B03060",
+        "Ireland": "#BC8F8F",
+        "Spain": "#FF8C00"
+    },
+    "x_axis": [
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1977"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "New Zealand",
+            "color": "#B03060",
+            "values": [
+                1750000,
+                1000000,
+                1590000,
+                1880000,
+                1370000
+            ]
+        },
+        {
+            "label": "Ireland",
+            "color": "#BC8F8F",
+            "values": [
+                10000,
+                10000,
+                10000,
+                10000,
+                10000
+            ]
+        },
+        {
+            "label": "Spain",
+            "color": "#FF8C00",
+            "values": [
+                30000,
+                40000,
+                30000,
+                20000,
+                60000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10000,
+                "max_value": 1880000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

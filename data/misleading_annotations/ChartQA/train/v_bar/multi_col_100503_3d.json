@@ -1,0 +1,93 @@
+{
+    "title": "Incidence rate per 100,000 population",
+    "x_axis": {
+        "categories": [
+            "2004/05",
+            "2005/06",
+            "2006/07",
+            "2007/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20*"
+        ]
+    },
+    "y_axis": {
+        "label": "Incidence rate per 100,000 population"
+    },
+    "legend": {
+        "Men": "#2876dd",
+        "Women": "#0f283e"
+    },
+    "data": {
+        "Men": [
+            540,
+            526.4,
+            496.1,
+            499,
+            478.5,
+            461.5,
+            467.6,
+            454,
+            458.8,
+            438.2,
+            435.8,
+            426.4,
+            421.7,
+            432.4,
+            435.7,
+            433.8
+        ],
+        "Women": [
+            378.9,
+            368.8,
+            347.6,
+            325.5,
+            311.4,
+            295.6,
+            290.6,
+            288.1,
+            276.7,
+            275,
+            259.6,
+            251.8,
+            246.1,
+            254,
+            246.1,
+            237.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 540
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

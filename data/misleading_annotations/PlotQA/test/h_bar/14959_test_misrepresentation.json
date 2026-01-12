@@ -1,0 +1,80 @@
+{
+    "title": "Total liabilities of an economy as per the report of 1990",
+    "legend": {
+        "Bhutan": "#A0522D",
+        "Philippines": "#DAA520",
+        "Sri Lanka": "#4B0082",
+        "Zambia": "#191970"
+    },
+    "categories": [
+        "Domestic liabilities",
+        "Foreign liabilities"
+    ],
+    "data": {
+        "Bhutan": [
+            6.33801786578078,
+            1.09157927174403
+        ],
+        "Philippines": [
+            1.45223381669958,
+            0.3830169219958099
+        ],
+        "Sri Lanka": [
+            5.660007955647267,
+            3.61857643636725
+        ],
+        "Zambia": [
+            6.805011469913532,
+            1.04932062819834
+        ]
+    },
+    "colors": {
+        "Bhutan": "#A0522D",
+        "Philippines": "#DAA520",
+        "Sri Lanka": "#4B0082",
+        "Zambia": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Bhutan": [
+            1.75,
+            0.25
+        ],
+        "Philippines": [
+            1.75,
+            0.25
+        ],
+        "Sri Lanka": [
+            1.75,
+            0.25
+        ],
+        "Zambia": [
+            1.75,
+            0.25
+        ]
+    }
+}

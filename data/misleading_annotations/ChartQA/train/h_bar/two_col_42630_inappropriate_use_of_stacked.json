@@ -1,0 +1,88 @@
+{
+    "title": "",
+    "legend": {
+        "Terry Turner": "#f27979",
+        "Nap Lajoie": "#f29100",
+        "Lou Boudreau": "#daf279",
+        "Jim Hegan": "#30f200",
+        "Tris Speaker": "#52a574",
+        "Ken Keltner": "#00a5a5",
+        "Joe Sewell": "#5274a5",
+        "Earl Averill": "#2100a5",
+        "Charlie Jamieson": "#da79f2",
+        "Omar Vizquel": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Terry Turner": [
+            1619.0
+        ],
+        "Nap Lajoie": [
+            1614.0
+        ],
+        "Lou Boudreau": [
+            1560.0
+        ],
+        "Jim Hegan": [
+            1526.0
+        ],
+        "Tris Speaker": [
+            1519.0
+        ],
+        "Ken Keltner": [
+            1513.0
+        ],
+        "Joe Sewell": [
+            1513.0
+        ],
+        "Earl Averill": [
+            1510.0
+        ],
+        "Charlie Jamieson": [
+            1483.0
+        ],
+        "Omar Vizquel": [
+            1478.0
+        ]
+    },
+    "colors": {
+        "Terry Turner": "#f27979",
+        "Nap Lajoie": "#f29100",
+        "Lou Boudreau": "#daf279",
+        "Jim Hegan": "#30f200",
+        "Tris Speaker": "#52a574",
+        "Ken Keltner": "#00a5a5",
+        "Joe Sewell": "#5274a5",
+        "Earl Averill": "#2100a5",
+        "Charlie Jamieson": "#da79f2",
+        "Omar Vizquel": "#f20091"
+    },
+    "y_label": "Number of games played",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1620
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

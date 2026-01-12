@@ -1,0 +1,71 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 1998",
+    "x_axis": {
+        "categories": [
+            "Compensation of employees",
+            "Goods and services",
+            "Subsidies and Transfers",
+            "Other expenses"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Belgium": "#A020F0",
+        "Germany": "#C71585",
+        "Guinea": "#D2691E",
+        "Ireland": "#FFFF00"
+    },
+    "data": {
+        "Belgium": [
+            6.98456350634516,
+            2.45376093385701,
+            72.2631128045441,
+            2.91849875600482
+        ],
+        "Germany": [
+            5.688926995014452,
+            3.7074084659109,
+            79.99587183639771,
+            3.60579213108507
+        ],
+        "Guinea": [
+            33.8576321350695,
+            16.7046904749893,
+            9.381697375329553,
+            1.18013942685882
+        ],
+        "Ireland": [
+            14.7924264110004,
+            5.58902242961336,
+            31.0207287663713,
+            1.44445370297754
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

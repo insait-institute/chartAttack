@@ -1,0 +1,56 @@
+{
+    "title": "Net incurrence of liabilities of government of different countries in 2012",
+    "x_axis": {
+        "categories": [
+            "Domestic Liabilities",
+            "Foreign Liabilities"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Angola": "#87CEEB",
+        "Bahamas": "#FF4500",
+        "Ukraine": "#000000"
+    },
+    "data": {
+        "Angola": [
+            -394944964176.7,
+            222775368061.5
+        ],
+        "Bahamas": [
+            384651000,
+            72808000
+        ],
+        "Ukraine": [
+            41371500000,
+            12834200000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 222775368070
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

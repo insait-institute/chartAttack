@@ -1,0 +1,56 @@
+{
+    "title": "Value added in manufacturing in 1965",
+    "legend": {
+        "Kenya": "#FF7F50",
+        "Libya": "#2E8B57",
+        "Norway": "#FF00FF"
+    },
+    "categories": [
+        "Chemicals",
+        "Food and tobacco"
+    ],
+    "data": {
+        "Kenya": [
+            7.56960378385371,
+            36.2048591334489
+        ],
+        "Libya": [
+            6.75476998312145,
+            43.02496560728579
+        ],
+        "Norway": [
+            8.048289724212859,
+            15.8450704731407
+        ]
+    },
+    "colors": {
+        "Kenya": "#FF7F50",
+        "Libya": "#2E8B57",
+        "Norway": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

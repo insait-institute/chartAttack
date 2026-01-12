@@ -1,0 +1,57 @@
+{
+    "title": "Global emissions of Hydrofluorocarbons",
+    "legend": {
+        "2000": "#f27979",
+        "2005": "#79f200",
+        "2008": "#52a5a5",
+        "2010": "#5200a5"
+    },
+    "categories": [
+        "Global emissions of Hydrofluorocarbons"
+    ],
+    "data": {
+        "2000": [
+            147.4
+        ],
+        "2005": [
+            1793.4
+        ],
+        "2008": [
+            2707.5
+        ],
+        "2010": [
+            3336.0
+        ]
+    },
+    "colors": {
+        "2000": "#f27979",
+        "2005": "#79f200",
+        "2008": "#52a5a5",
+        "2010": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8800
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

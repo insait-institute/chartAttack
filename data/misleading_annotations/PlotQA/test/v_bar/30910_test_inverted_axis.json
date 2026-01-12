@@ -1,0 +1,61 @@
+{
+    "title": "Proportion of the population (ages 15-24) that is economically active in different countries",
+    "x_axis": {
+        "categories": [
+            "Females",
+            "Males"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Albania": "#5F9EA0",
+        "Latvia": "#191970",
+        "Samoa": "#DAA520",
+        "Slovak Republic": "#4682B4"
+    },
+    "data": {
+        "Albania": [
+            28.7999992370605,
+            45.2999992370605
+        ],
+        "Latvia": [
+            36.0999984741211,
+            44.0
+        ],
+        "Samoa": [
+            16.2999992370605,
+            27.10000038146969
+        ],
+        "Slovak Republic": [
+            23.60000038146969,
+            37.0999984741211
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

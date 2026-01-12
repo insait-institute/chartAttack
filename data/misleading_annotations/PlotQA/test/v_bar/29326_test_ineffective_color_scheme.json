@@ -1,0 +1,82 @@
+{
+    "title": "Net disbursements of loans in different countries in 1981",
+    "x_axis": {
+        "categories": [
+            "Comoros",
+            "Guatemala",
+            "Honduras",
+            "Indonesia",
+            "Lesotho"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Regional development banks": "#6b8e23",
+        "International Monetary Fund": "#5e8e23",
+        "International Development Association": "#569625",
+        "Others": "#418423"
+    },
+    "data": {
+        "Regional development banks": [
+            1972000,
+            35916000,
+            20512000,
+            2200000,
+            3467000
+        ],
+        "International Monetary Fund": [
+            365189000.0,
+            281000.0,
+            13280000.0,
+            111000.0,
+            58000.0
+        ],
+        "International Development Association": [
+            14518000,
+            -110000,
+            4284000,
+            85218000,
+            11474000
+        ],
+        "Others": [
+            581000.0,
+            13150000.0,
+            20862000.0,
+            2022000.0,
+            791000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 365189000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Regional development banks": "#6b8e23",
+        "International Monetary Fund": "#5e8e23",
+        "International Development Association": "#569625",
+        "Others": "#418423"
+    }
+}

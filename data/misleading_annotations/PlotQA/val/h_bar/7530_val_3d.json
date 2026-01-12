@@ -1,0 +1,53 @@
+{
+    "title": "CO2 emissions from different fuel consumption in 1986",
+    "legend": {
+        "Canada": "#FF1493",
+        "Japan": "#87CEEB"
+    },
+    "categories": [
+        "Gaseous fuel",
+        "Liquid fuel",
+        "Solid fuel"
+    ],
+    "data": {
+        "Canada": [
+            28.6078997637132,
+            46.0632451859966,
+            22.8519179061914
+        ],
+        "Japan": [
+            8.884117076766529,
+            59.0820226429607,
+            28.15106524473789
+        ]
+    },
+    "colors": {
+        "Canada": "#FF1493",
+        "Japan": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

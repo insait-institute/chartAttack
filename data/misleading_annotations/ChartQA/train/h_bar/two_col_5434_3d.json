@@ -1,0 +1,100 @@
+{
+    "title": "",
+    "legend": {
+        "Reach": "#2876dd"
+    },
+    "categories": [
+        "Amazon (main)",
+        "Walmart (main)",
+        "eBay (main)",
+        "Ibotta",
+        "Target (main)",
+        "Groupon (main)",
+        "Etsy",
+        "The Home Depot",
+        "Wish (main)",
+        "Best Buy (main)",
+        "shopkick",
+        "KOHL's",
+        "Walgreens (main)",
+        "Ticketmaster",
+        "Domino's",
+        "Wayfair",
+        "Macy's (main)",
+        "Coupons.com",
+        "Lowe's",
+        "Kroger",
+        "Craigslist",
+        "Ebates Cash Back & Coupons",
+        "Fetch Rewards App",
+        "DoorDash - Food Delivery",
+        "RetailMeNot",
+        "Sam's Club (main)",
+        "Checkout 51",
+        "QVC",
+        "Poshmark",
+        "Costco"
+    ],
+    "data": {
+        "Reach": [
+            80.64,
+            46.08,
+            33.28,
+            25.2,
+            24.31,
+            18.75,
+            17.21,
+            16.13,
+            14.81,
+            14.01,
+            12.72,
+            12.47,
+            12.34,
+            10.79,
+            9.85,
+            9.76,
+            9.66,
+            9.53,
+            9.31,
+            9.18,
+            9.14,
+            8.26,
+            7.49,
+            7.41,
+            7.3,
+            7.07,
+            6.98,
+            6.89,
+            6.83,
+            6.6
+        ]
+    },
+    "colors": {
+        "Reach": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

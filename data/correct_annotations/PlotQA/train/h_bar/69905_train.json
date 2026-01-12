@@ -1,0 +1,48 @@
+{
+    "title": "Percentage of employed males in the year 2011 that are vulnerable to fall into poverty",
+    "legend": {
+        "Percentage of employed males who are vulnerable to fall into poverty": "#FFD700"
+    },
+    "categories": [
+        "Brazil",
+        "Bulgaria",
+        "Cambodia",
+        "Cayman Islands"
+    ],
+    "data": {
+        "Percentage of employed males who are vulnerable to fall into poverty": [
+            20.3999996185303,
+            7.099999904632571,
+            72.8000030517578,
+            2.40000009536743
+        ]
+    },
+    "colors": {
+        "Percentage of employed males who are vulnerable to fall into poverty": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

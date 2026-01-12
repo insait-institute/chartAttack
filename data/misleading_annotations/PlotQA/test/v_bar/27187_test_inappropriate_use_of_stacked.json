@@ -1,0 +1,67 @@
+{
+    "title": "Educated labor force (as % of total labor force) in different countries in 2004",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Finland": "#f27979",
+        "France": "#c1f200",
+        "Georgia": "#52a574",
+        "Germany": "#0042a5",
+        "Greece": "#da79f2"
+    },
+    "data": {
+        "Finland": [
+            21.2000007629395
+        ],
+        "France": [
+            28.39999961853031
+        ],
+        "Georgia": [
+            11.1000003814697
+        ],
+        "Germany": [
+            15.6000003814697
+        ],
+        "Greece": [
+            34.0999984741211
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Finland": "#f27979",
+        "France": "#c1f200",
+        "Georgia": "#52a574",
+        "Germany": "#0042a5",
+        "Greece": "#da79f2"
+    }
+}

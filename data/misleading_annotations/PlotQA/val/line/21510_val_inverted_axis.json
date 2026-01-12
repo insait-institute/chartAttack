@@ -1,0 +1,63 @@
+{
+    "title": "Measure of agricultural productivity of Turkey",
+    "legend": {
+        "Agriculture value added per worker": "#FF00FF"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Agriculture value added per worker (constant 2005 US$)",
+    "data": [
+        {
+            "label": "Agriculture value added per worker",
+            "color": "#FF00FF",
+            "values": [
+                4801.89998099807,
+                5227.24279181721,
+                5345.3473356906,
+                5092.4432342653,
+                5379.460000750561,
+                5642.789872055921,
+                5852.00276504681,
+                6288.12023065916,
+                6572.864920366949
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 4800,
+                "max_value": 6580
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

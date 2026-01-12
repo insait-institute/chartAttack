@@ -1,0 +1,68 @@
+{
+    "title": "Rural population of a country",
+    "x_axis": {
+        "categories": [
+            "Sao Tome and Principe",
+            "Saudi Arabia",
+            "Senegal",
+            "Seychelles",
+            "Sierra Leone"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#40E0D0",
+        "1961": "#CD5C5C",
+        "1962": "#D2691E"
+    },
+    "data": {
+        "1960": [
+            53927.0,
+            2809496.0,
+            2446721.0,
+            30160.0,
+            1803132.0
+        ],
+        "1961": [
+            53702.0,
+            2853101.0,
+            2493417.0,
+            30573.0,
+            1814482.0
+        ],
+        "1962": [
+            52852.0,
+            2900519.0,
+            2540710.0,
+            30924.0,
+            1825998.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2900520
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

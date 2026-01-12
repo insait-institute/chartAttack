@@ -1,0 +1,76 @@
+{
+    "title": "Enrolments of both sexes in different levels of education in Guinea-Bissau",
+    "legend": {
+        "Primary": "#8B4513",
+        "Secondary": "#00FFFF",
+        "Secondary general": "#8B0000",
+        "Secondary vocational": "#FF0000"
+    },
+    "categories": [
+        "1974",
+        "1975",
+        "1976",
+        "1978",
+        "1979"
+    ],
+    "data": {
+        "Primary": [
+            49360,
+            75634,
+            81890,
+            83139,
+            80590
+        ],
+        "Secondary": [
+            3177,
+            3731,
+            4290,
+            4256,
+            4757
+        ],
+        "Secondary general": [
+            1313,
+            2191,
+            1720,
+            2785,
+            3371
+        ],
+        "Secondary vocational": [
+            392,
+            360,
+            624,
+            465,
+            689
+        ]
+    },
+    "colors": {
+        "Primary": "#8B4513",
+        "Secondary": "#00FFFF",
+        "Secondary general": "#8B0000",
+        "Secondary vocational": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 83140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

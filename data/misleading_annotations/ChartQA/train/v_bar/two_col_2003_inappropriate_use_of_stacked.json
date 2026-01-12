@@ -1,0 +1,87 @@
+{
+    "title": "Market size in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Market size in billion U.S. dollars"
+    },
+    "legend": {
+        "2013": "#f27979",
+        "2014": "#f2a100",
+        "2015": "#c9f279",
+        "2016": "#00f200",
+        "2017": "#52a58a",
+        "2018": "#006ea5",
+        "2019": "#5252a5",
+        "2020": "#6e00a5",
+        "2021": "#f279c9"
+    },
+    "data": {
+        "2013": [
+            4.4
+        ],
+        "2014": [
+            5.7
+        ],
+        "2015": [
+            6.9
+        ],
+        "2016": [
+            8.3
+        ],
+        "2017": [
+            10.0
+        ],
+        "2018": [
+            12.0
+        ],
+        "2019": [
+            14.5
+        ],
+        "2020": [
+            17.5
+        ],
+        "2021": [
+            21.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2013": "#f27979",
+        "2014": "#f2a100",
+        "2015": "#c9f279",
+        "2016": "#00f200",
+        "2017": "#52a58a",
+        "2018": "#006ea5",
+        "2019": "#5252a5",
+        "2020": "#6e00a5",
+        "2021": "#f279c9"
+    }
+}

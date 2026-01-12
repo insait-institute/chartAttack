@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of the unemployed female labor force with different levels of education in countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary education": "#f27979",
+        "Secondary education": "#00f200",
+        "Tertiary education": "#5252a5"
+    },
+    "data": {
+        "Primary education": [
+            43.5
+        ],
+        "Secondary education": [
+            53.5999984741211
+        ],
+        "Tertiary education": [
+            2.90000009536743
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Primary education": "#f27979",
+        "Secondary education": "#00f200",
+        "Tertiary education": "#5252a5"
+    }
+}

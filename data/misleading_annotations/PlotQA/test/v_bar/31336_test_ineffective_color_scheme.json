@@ -1,0 +1,77 @@
+{
+    "title": "Percentage of female workers employed in different sectors of an economy in 1986",
+    "x_axis": {
+        "categories": [
+            "Agriculture",
+            "Industry",
+            "Services",
+            "Self-employed"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#0000ff",
+        "Ireland": "#1f00ff",
+        "Singapore": "#450aff",
+        "United Kingdom": "#5902f2"
+    },
+    "data": {
+        "Australia": [
+            4.40000009536743,
+            14.1000003814697,
+            81.5,
+            12.6999998092651
+        ],
+        "Ireland": [
+            4.30000019073486,
+            19.5,
+            75.8000030517578,
+            10.8999996185303
+        ],
+        "Singapore": [
+            0.6000000238418579,
+            33.2999992370605,
+            66.1999969482422,
+            10.1999998092651
+        ],
+        "United Kingdom": [
+            1.10000002384186,
+            17.2999992370605,
+            81.4000015258789,
+            6.800000190734861
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Australia": "#0000ff",
+        "Ireland": "#1f00ff",
+        "Singapore": "#450aff",
+        "United Kingdom": "#5902f2"
+    }
+}

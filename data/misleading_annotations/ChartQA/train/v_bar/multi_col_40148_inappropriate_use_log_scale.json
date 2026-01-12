@@ -1,0 +1,68 @@
+{
+    "title": "Demand in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "1999",
+            "2004",
+            "2009",
+            "2014*",
+            "2019*"
+        ]
+    },
+    "y_axis": {
+        "label": "Demand in million U.S. dollars"
+    },
+    "legend": {
+        "Security and saftey glass": "#2876dd",
+        "Solar control glass": "#0f283e",
+        "Other advanced flat glass": "#bababa"
+    },
+    "data": {
+        "Security and saftey glass": [
+            3081,
+            3407,
+            2389,
+            4195,
+            5000
+        ],
+        "Solar control glass": [
+            885,
+            1215,
+            1142,
+            2060,
+            2685
+        ],
+        "Other advanced flat glass": [
+            348,
+            445,
+            514,
+            745,
+            965
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

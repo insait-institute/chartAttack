@@ -1,0 +1,76 @@
+{
+    "title": "Net disbursements of loans from government",
+    "x_axis": {
+        "categories": [
+            "Ecuador",
+            "Egypt, Arab Rep.",
+            "El Salvador",
+            "Ethiopia",
+            "Fiji"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#6B8E23",
+        "1971": "#ADFF2F",
+        "1972": "#D2B48C",
+        "1973": "#90EE90"
+    },
+    "data": {
+        "1970": [
+            5673000.0,
+            -18872000.0,
+            1357000.0,
+            14178000.0,
+            1560000.0
+        ],
+        "1971": [
+            5933000.0,
+            142102000.0,
+            1745000.0,
+            22542000.0,
+            1688000.0
+        ],
+        "1972": [
+            3979000.0,
+            -69317000.0,
+            5131000.0,
+            14236000.0,
+            649000.0
+        ],
+        "1973": [
+            4563000.0,
+            -109364000.0,
+            4272000.0,
+            14463000.0,
+            2539000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 142102000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,90 @@
+{
+    "title": "",
+    "legend": {
+        "Average number of children per woman": "#2876dd"
+    },
+    "categories": [
+        "Singapore",
+        "Republic of Korea",
+        "United Arab Emirates",
+        "Puerto Rico",
+        "Bosnia and Herzegovina",
+        "Saint Lucia",
+        "Greece",
+        "Cyprus",
+        "Italy",
+        "Republic of Moldova",
+        "China, Taiwan Province of China",
+        "Albania",
+        "Mauritius",
+        "Thailand",
+        "Qatar",
+        "Nepal",
+        "Croatia",
+        "Japan",
+        "Serbia",
+        "Brazil",
+        "North Macedonia",
+        "Brunei Darussalam",
+        "Portugal",
+        "Spain",
+        "Canada"
+    ],
+    "data": {
+        "Average number of children per woman": [
+            1.38,
+            1.44,
+            1.45,
+            1.45,
+            1.47,
+            1.48,
+            1.5,
+            1.51,
+            1.51,
+            1.52,
+            1.53,
+            1.53,
+            1.54,
+            1.54,
+            1.56,
+            1.56,
+            1.56,
+            1.57,
+            1.57,
+            1.58,
+            1.58,
+            1.59,
+            1.59,
+            1.59,
+            1.59
+        ]
+    },
+    "colors": {
+        "Average number of children per woman": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

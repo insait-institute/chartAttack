@@ -1,0 +1,62 @@
+{
+    "title": "Total external debt stocks of different countries to exports of goods, services and primary income in 1993",
+    "legend": {
+        "External debt stocks (% of exports of goods": "#20B2AA"
+    },
+    "categories": [
+        "Nicaragua",
+        "Niger",
+        "Nigeria",
+        "Pakistan",
+        "Panama",
+        "Papua New Guinea"
+    ],
+    "data": {
+        "External debt stocks (% of exports of goods": [
+            3128.63483977456,
+            434.280972458052,
+            275.815405974657,
+            290.186972844923,
+            89.5254730338525,
+            111.083870296807
+        ]
+    },
+    "colors": {
+        "External debt stocks (% of exports of goods": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3130
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "External debt stocks (% of exports of goods": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Gender parity index for gross enrollment ratio in different levels of education in 1976",
+    "x_axis": {
+        "categories": [
+            "Primary education",
+            "Secondary education",
+            "Tertiary education"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Europe(developing only)": "#556B2F",
+        "United Kingdom": "#FFA07A"
+    },
+    "data": {
+        "Europe(developing only)": [
+            0.926909983158112,
+            0.9479500055313108,
+            1.01757001876831
+        ],
+        "United Kingdom": [
+            1.00458,
+            1.01071,
+            0.5855600000000001
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

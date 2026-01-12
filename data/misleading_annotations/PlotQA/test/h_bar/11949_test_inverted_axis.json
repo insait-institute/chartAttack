@@ -1,0 +1,72 @@
+{
+    "title": "Time required to enforce a contract",
+    "legend": {
+        "North America": "#FF8C00",
+        "OECD members": "#708090",
+        "Finland": "#006400",
+        "Kuwait": "#FFD700"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "North America": [
+            570,
+            570,
+            570,
+            570
+        ],
+        "OECD members": [
+            521.387096774194,
+            524.0,
+            521.516129032258,
+            524.741935483871
+        ],
+        "Finland": [
+            235,
+            235,
+            375,
+            375
+        ],
+        "Kuwait": [
+            566,
+            566,
+            566,
+            566
+        ]
+    },
+    "colors": {
+        "North America": "#FF8C00",
+        "OECD members": "#708090",
+        "Finland": "#006400",
+        "Kuwait": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 570
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

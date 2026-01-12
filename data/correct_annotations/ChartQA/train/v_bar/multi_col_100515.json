@@ -1,0 +1,63 @@
+{
+    "title": "Number of rabid animals",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of rabid animals"
+    },
+    "legend": {
+        "Dogs": "#2876dd",
+        "Cats": "#0f283e"
+    },
+    "data": {
+        "Dogs": [
+            69,
+            70,
+            84,
+            89,
+            59,
+            67
+        ],
+        "Cats": [
+            303,
+            303,
+            257,
+            247,
+            272,
+            244
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 310
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

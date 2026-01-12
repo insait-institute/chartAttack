@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Reasons for not getting married": "#2876dd"
+    },
+    "categories": [
+        "Lack of partner",
+        "Professional",
+        "Financial",
+        "Too large a commitment",
+        "Other"
+    ],
+    "data": {
+        "Reasons for not getting married": [
+            88,
+            24,
+            15,
+            15,
+            8
+        ]
+    },
+    "colors": {
+        "Reasons for not getting married": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Total enrollments in schools as per the survey of 2012 conducted in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Italy": "#f27979",
+        "Jamaica": "#c1f200",
+        "Japan": "#52a574",
+        "Jordan": "#0042a5",
+        "Kazakhstan": "#da79f2"
+    },
+    "data": {
+        "Italy": [
+            98.57836151123051
+        ],
+        "Jamaica": [
+            74.7110366821289
+        ],
+        "Japan": [
+            87.8651275634766
+        ],
+        "Jordan": [
+            34.1785507202148
+        ],
+        "Kazakhstan": [
+            53.71073150634771
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Italy": "#f27979",
+        "Jamaica": "#c1f200",
+        "Japan": "#52a574",
+        "Jordan": "#0042a5",
+        "Kazakhstan": "#da79f2"
+    }
+}

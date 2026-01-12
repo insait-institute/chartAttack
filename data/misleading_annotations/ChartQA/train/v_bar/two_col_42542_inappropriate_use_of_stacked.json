@@ -1,0 +1,97 @@
+{
+    "title": "Average price per kilogram (in GBP)",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Average price per kilogram (in GBP)"
+    },
+    "legend": {
+        "2005": "#f27979",
+        "2006": "#f28400",
+        "2007": "#e7f279",
+        "2008": "#58f200",
+        "2009": "#52a561",
+        "2010": "#00a578",
+        "2011": "#528fa5",
+        "2012": "#001ea5",
+        "2013": "#a579f2",
+        "2014": "#dc00f2",
+        "2015": "#f279bb"
+    },
+    "data": {
+        "2005": [
+            3.37
+        ],
+        "2006": [
+            3.37
+        ],
+        "2007": [
+            3.55
+        ],
+        "2008": [
+            3.89
+        ],
+        "2009": [
+            4.06
+        ],
+        "2010": [
+            4.14
+        ],
+        "2011": [
+            4.45
+        ],
+        "2012": [
+            4.45
+        ],
+        "2013": [
+            4.75
+        ],
+        "2014": [
+            4.74
+        ],
+        "2015": [
+            4.54
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2005": "#f27979",
+        "2006": "#f28400",
+        "2007": "#e7f279",
+        "2008": "#58f200",
+        "2009": "#52a561",
+        "2010": "#00a578",
+        "2011": "#528fa5",
+        "2012": "#001ea5",
+        "2013": "#a579f2",
+        "2014": "#dc00f2",
+        "2015": "#f279bb"
+    }
+}

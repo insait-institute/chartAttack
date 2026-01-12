@@ -1,0 +1,68 @@
+{
+    "title": "Balance of payments for transport services (% of commercial service imports)",
+    "x_axis": {
+        "categories": [
+            "Saudi Arabia",
+            "Singapore",
+            "Slovenia",
+            "South Africa",
+            "Suriname"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#2F4F4F",
+        "2006": "#FF00FF",
+        "2007": "#FF69B4"
+    },
+    "data": {
+        "2005": [
+            24.3441925039726,
+            36.6942900866905,
+            22.48051320962961,
+            44.92832804101499,
+            39.79068396226421
+        ],
+        "2006": [
+            19.0492610784794,
+            35.4181917747791,
+            23.44745267375,
+            48.0294706313431,
+            25.1414906337186
+        ],
+        "2007": [
+            20.7100592316229,
+            35.8302075660239,
+            23.7610872592368,
+            47.4480477612887,
+            22.40696483441451
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

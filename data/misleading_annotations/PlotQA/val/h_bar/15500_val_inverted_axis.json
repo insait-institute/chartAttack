@@ -1,0 +1,52 @@
+{
+    "title": "Irrigated land as percentage of total agricultural land in 2010",
+    "legend": {
+        "Agricultural irrigated land ": "#40E0D0"
+    },
+    "categories": [
+        "Pakistan",
+        "Philippines",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Serbia"
+    ],
+    "data": {
+        "Agricultural irrigated land ": [
+            56.9207195959367,
+            9.10743801652893,
+            0.318361132258288,
+            12.6733750339951,
+            0.58844306301215,
+            0.495049504950495
+        ]
+    },
+    "colors": {
+        "Agricultural irrigated land ": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

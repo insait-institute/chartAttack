@@ -1,0 +1,62 @@
+{
+    "title": "Total expenditure made by the government on healthcare and R&D projects in 2002",
+    "legend": {
+        "Argentina": "#66CDAA",
+        "Cuba": "#FFD700",
+        "Hungary": "#FFFF00",
+        "Kazakhstan": "#D2691E"
+    },
+    "categories": [
+        "Health",
+        "Research and Development"
+    ],
+    "data": {
+        "Argentina": [
+            8.31392968,
+            0.38886
+        ],
+        "Cuba": [
+            6.49530818,
+            0.56445
+        ],
+        "Hungary": [
+            7.59220452,
+            0.98709
+        ],
+        "Kazakhstan": [
+            3.61480665,
+            0.25509
+        ]
+    },
+    "colors": {
+        "Argentina": "#66CDAA",
+        "Cuba": "#FFD700",
+        "Hungary": "#FFFF00",
+        "Kazakhstan": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

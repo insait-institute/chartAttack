@@ -1,0 +1,98 @@
+{
+    "title": "Total female labor force of a country",
+    "x_axis": {
+        "categories": [
+            "Low & middle income",
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#006400",
+        "1991": "#4682B4",
+        "1992": "#66CDAA"
+    },
+    "data": {
+        "1990": [
+            38.6165035666636,
+            46.7260257204737,
+            32.8998006945344,
+            18.4498556547547,
+            18.5907657020991,
+            37.94773694381971
+        ],
+        "1991": [
+            38.6537955306386,
+            46.7366370500272,
+            32.9003303555373,
+            17.9041240305738,
+            17.9234858112678,
+            37.9814593638744
+        ],
+        "1992": [
+            38.7286803620163,
+            46.7542200192398,
+            32.9944730743255,
+            18.1110669337376,
+            18.2422627806365,
+            38.055882670026
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1990": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1991": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1992": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

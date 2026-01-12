@@ -1,0 +1,111 @@
+{
+    "title": "Enrolment ratio of female students in different levels of education in Hungary",
+    "legend": {
+        "Pre-primary schools": "#8B008B",
+        "Primary schools": "#EE82EE",
+        "Secondary schools": "#F4A460",
+        "Tertiary schools": "#BC8F8F"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Gross enrolment ratio (%)",
+    "data": [
+        {
+            "label": "Pre-primary schools",
+            "color": "#8B008B",
+            "values": [
+                80.681510925293,
+                84.0006637573242,
+                85.9519729614258,
+                87.7162704467773,
+                87.6947479248047,
+                85.2769775390625,
+                83.9464416503906,
+                84.0681228637695,
+                86.1597671508789
+            ]
+        },
+        {
+            "label": "Primary schools",
+            "color": "#EE82EE",
+            "values": [
+                97.3581390380859,
+                96.6979827880859,
+                97.0622787475585,
+                98.5212631225585,
+                98.5817031860352,
+                100.839027404785,
+                101.692352294922,
+                101.60334777832,
+                100.656600952148
+            ]
+        },
+        {
+            "label": "Secondary schools",
+            "color": "#F4A460",
+            "values": [
+                102.265747070313,
+                95.44969940185551,
+                95.6797866821289,
+                95.44390869140629,
+                95.7432632446289,
+                95.8150405883789,
+                97.25009155273442,
+                99.1404571533203,
+                99.6744766235352
+            ]
+        },
+        {
+            "label": "Tertiary schools",
+            "color": "#BC8F8F",
+            "values": [
+                50.4232482910156,
+                60.6145210266113,
+                70.34860992431639,
+                77.595329284668,
+                80.638557434082,
+                80.1393585205078,
+                76.2613525390625,
+                71.5746765136719,
+                69.6885604858398
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

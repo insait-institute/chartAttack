@@ -1,0 +1,73 @@
+{
+    "title": "Percentage of value added in manufacturing machinery etc. in countries",
+    "legend": {
+        "Machinery": "#ffa07a",
+        "Transport equipments": "#ffb57a",
+        "Textiles and clothing": "#ffcf84"
+    },
+    "categories": [
+        "Mauritius",
+        "Netherlands",
+        "New Zealand",
+        "Nicaragua",
+        "Nigeria"
+    ],
+    "data": {
+        "Machinery": [
+            2.10298018703056,
+            14.0620233359491,
+            11.4948838136095,
+            0.567980099577984,
+            15.5908525543763
+        ],
+        "Transport equipments": [
+            17.420735840246,
+            23.5884840701878,
+            55.689997148011,
+            41.64381488132821,
+            24.1612736394809
+        ],
+        "Textiles and clothing": [
+            42.5364339337686,
+            14.1728753105844,
+            5.22622083693029,
+            31.8664542119045,
+            32.4647578874124
+        ]
+    },
+    "colors": {
+        "Machinery": "#FFA07A",
+        "Transport equipments": "#D2B48C",
+        "Textiles and clothing": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Machinery": "#ffa07a",
+        "Transport equipments": "#ffb57a",
+        "Textiles and clothing": "#ffcf84"
+    }
+}

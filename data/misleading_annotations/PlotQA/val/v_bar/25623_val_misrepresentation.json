@@ -1,0 +1,98 @@
+{
+    "title": "Female Population as percentage of total population",
+    "x_axis": {
+        "categories": [
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Mauritania",
+            "Mauritius",
+            "Mexico"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#000000",
+        "1961": "#E9967A",
+        "1962": "#DB7093"
+    },
+    "data": {
+        "1960": [
+            45.5510431154381,
+            49.4491928727347,
+            51.61579088711839,
+            50.4678560192037,
+            50.1376467183719,
+            50.1820710233118
+        ],
+        "1961": [
+            45.727685292493,
+            49.5059154303984,
+            51.61789144760061,
+            50.42678915743809,
+            50.1124373200598,
+            50.1755528267223
+        ],
+        "1962": [
+            45.8892202004025,
+            49.5643394831315,
+            51.6423104809474,
+            50.3900252097513,
+            50.0855640857101,
+            50.1695023246237
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

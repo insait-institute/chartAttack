@@ -1,0 +1,60 @@
+{
+    "title": "Current expenditures in secondary public institutions",
+    "legend": {
+        "Hungary": "#0000FF",
+        "Serbia": "#FF1493",
+        "Sri Lanka": "#00CED1"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Hungary": [
+            94.1165084838867,
+            91.91848754882808,
+            93.84848022460942
+        ],
+        "Serbia": [
+            97.3235931396484,
+            97.81478881835942,
+            97.6089706420898
+        ],
+        "Sri Lanka": [
+            91.00228881835942,
+            92.0941314697266,
+            92.98175048828129
+        ]
+    },
+    "colors": {
+        "Hungary": "#0000FF",
+        "Serbia": "#FF1493",
+        "Sri Lanka": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

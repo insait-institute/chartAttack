@@ -1,0 +1,87 @@
+{
+    "title": "Annual turnover in million euros",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Annual turnover in million euros"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f2a100",
+        "2012": "#c9f279",
+        "2013": "#00f200",
+        "2014": "#52a58a",
+        "2015": "#006ea5",
+        "2016": "#5252a5",
+        "2017": "#6e00a5",
+        "2018*": "#f279c9"
+    },
+    "data": {
+        "2010": [
+            19776.2
+        ],
+        "2011": [
+            22141.7
+        ],
+        "2012": [
+            23683.3
+        ],
+        "2013": [
+            23196.7
+        ],
+        "2014": [
+            23934.7
+        ],
+        "2015": [
+            25795.9
+        ],
+        "2016": [
+            28634.7
+        ],
+        "2017": [
+            32048.0
+        ],
+        "2018*": [
+            34080.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34090
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f2a100",
+        "2012": "#c9f279",
+        "2013": "#00f200",
+        "2014": "#52a58a",
+        "2015": "#006ea5",
+        "2016": "#5252a5",
+        "2017": "#6e00a5",
+        "2018*": "#f279c9"
+    }
+}

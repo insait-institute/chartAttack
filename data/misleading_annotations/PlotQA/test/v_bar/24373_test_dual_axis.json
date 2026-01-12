@@ -1,0 +1,68 @@
+{
+    "title": "Total enrollments in different levels of education as per the survey of 1977",
+    "x_axis": {
+        "categories": [
+            "Primary",
+            "Secondary",
+            "Secondary general",
+            "Secondary vocational"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Benin": "#32CD32",
+        "Solomon Islands": "#708090"
+    },
+    "data": {
+        "Benin": [
+            279673,
+            47370,
+            45572,
+            1798
+        ],
+        "Solomon Islands": [
+            26390,
+            3179,
+            2635,
+            544
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 1798,
+                "max_value": 279673
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 544,
+                "max_value": 26390
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

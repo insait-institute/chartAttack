@@ -1,0 +1,56 @@
+{
+    "title": "Export and external balance on goods as percent of GDP for different countries",
+    "x_axis": {
+        "categories": [
+            "Exports of goods",
+            "External balance on goods"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle income": "#000000",
+        "Mauritius": "#90EE90",
+        "Turkey": "#006400"
+    },
+    "data": {
+        "Middle income": [
+            14.3622010009387,
+            -0.313469060485513
+        ],
+        "Mauritius": [
+            46.4475061342219,
+            -0.358909000869176
+        ],
+        "Turkey": [
+            12.4732126163184,
+            -4.08462655870213
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

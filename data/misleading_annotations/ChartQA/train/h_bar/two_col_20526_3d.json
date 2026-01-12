@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Health Clubs": "#2876dd"
+    },
+    "categories": [
+        "Egypt",
+        "Saudi Arabia",
+        "South Africa",
+        "United Arab Emirates",
+        "Kuwait",
+        "Morocco",
+        "Lebanon",
+        "Qatar",
+        "Bahrain",
+        "Oman",
+        "Jordan"
+    ],
+    "data": {
+        "Health Clubs": [
+            1756,
+            1280,
+            1092,
+            846,
+            610,
+            392,
+            342,
+            240,
+            180,
+            170,
+            153
+        ]
+    },
+    "colors": {
+        "Health Clubs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1760
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

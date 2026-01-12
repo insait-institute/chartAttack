@@ -1,0 +1,52 @@
+{
+    "title": "CO2 emissions from different sources in 1971",
+    "legend": {
+        "Other sectors": "#f27979",
+        "Resident buildings and public services": "#00f200",
+        "Transport": "#5252a5"
+    },
+    "categories": [
+        "CO2 emissions from different sources in 1971"
+    ],
+    "data": {
+        "Other sectors": [
+            1.34048257372654
+        ],
+        "Resident buildings and public services": [
+            8.31099195710456
+        ],
+        "Transport": [
+            17.426273458445
+        ]
+    },
+    "colors": {
+        "Other sectors": "#f27979",
+        "Resident buildings and public services": "#00f200",
+        "Transport": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

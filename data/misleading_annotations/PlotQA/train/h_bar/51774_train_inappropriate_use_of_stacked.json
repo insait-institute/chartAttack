@@ -1,0 +1,62 @@
+{
+    "title": "Agricultural methane emissions by a country",
+    "legend": {
+        "1990": "#f27979",
+        "2000": "#c1f200",
+        "2005": "#52a574",
+        "2008": "#0042a5",
+        "2010": "#da79f2"
+    },
+    "categories": [
+        "Agricultural methane emissions by a country"
+    ],
+    "data": {
+        "1990": [
+            56.35457082891011
+        ],
+        "2000": [
+            52.6097238293616
+        ],
+        "2005": [
+            47.7240885146027
+        ],
+        "2008": [
+            48.2665593949198
+        ],
+        "2010": [
+            47.01750670648229
+        ]
+    },
+    "colors": {
+        "1990": "#f27979",
+        "2000": "#c1f200",
+        "2005": "#52a574",
+        "2008": "#0042a5",
+        "2010": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Current account balance of countries in 2014 after exporting goods and services",
+    "x_axis": {
+        "categories": [
+            "Seychelles",
+            "Singapore",
+            "Slovak Republic",
+            "Slovenia",
+            "South Africa"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Current account balance": "#FF69B4"
+    },
+    "data": {
+        "Current account balance": [
+            -21.9886471388148,
+            19.0904433345417,
+            0.113183665696754,
+            5.74366513354188,
+            -5.45195625885106
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

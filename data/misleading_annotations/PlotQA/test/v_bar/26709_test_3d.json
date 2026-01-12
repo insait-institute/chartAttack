@@ -1,0 +1,72 @@
+{
+    "title": "Amount spent on the travel items of international tourists",
+    "x_axis": {
+        "categories": [
+            "OECD members",
+            "Other small states",
+            "Pacific island small states",
+            "Small states",
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#CD5C5C",
+        "1996": "#A0522D",
+        "1997": "#20B2AA"
+    },
+    "data": {
+        "1995": [
+            304878000000.0,
+            797782145.965335,
+            110057614.804427,
+            1511044095.43412,
+            2058884394.56527,
+            4199319462.86874
+        ],
+        "1996": [
+            319909000000.0,
+            706987162.120831,
+            121256459.819615,
+            1542549163.14788,
+            2214137875.27917,
+            4501604775.75989
+        ],
+        "1997": [
+            313867000000.0,
+            711305175.491328,
+            113275673.716838,
+            1583429441.32318,
+            2228344076.1288,
+            5073802296.96995
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 319909000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

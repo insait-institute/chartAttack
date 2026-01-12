@@ -1,0 +1,77 @@
+{
+    "title": "Short term external debts owed by residents of a country",
+    "legend": {
+        "Iran": "#9ACD32",
+        "Madagascar": "#DC143C",
+        "Nicaragua": "#556B2F",
+        "Serbia": "#CD853F"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "data": {
+        "Iran": [
+            6086000000.0,
+            -108000000.0,
+            2914000000.0,
+            116000000.0,
+            -1401000000.0
+        ],
+        "Madagascar": [
+            -10000000,
+            -17000000,
+            7420000,
+            -36320000,
+            -8100000
+        ],
+        "Nicaragua": [
+            -52826000,
+            -66563000,
+            13470000,
+            -6844000,
+            -38062000
+        ],
+        "Serbia": [
+            22600000,
+            -402000000,
+            119880000,
+            -457300000,
+            1728420000
+        ]
+    },
+    "colors": {
+        "Iran": "#9ACD32",
+        "Madagascar": "#DC143C",
+        "Nicaragua": "#556B2F",
+        "Serbia": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6086000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

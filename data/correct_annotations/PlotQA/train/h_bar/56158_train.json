@@ -1,0 +1,77 @@
+{
+    "title": "Mineral rent as percent of GDP towards fuel resources of Vietnam",
+    "legend": {
+        "Coal": "#BA55D3",
+        "Natural Gas": "#FF0000",
+        "Oil": "#00FF7F",
+        "Other Minerals": "#E9967A"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Coal": [
+            2.90305094329577,
+            0.978230153910404,
+            1.70277889520462,
+            2.22907658877827,
+            1.15983151203099
+        ],
+        "Natural Gas": [
+            2.52754286202201,
+            1.17811972717306,
+            1.19359444872293,
+            1.02194572562614,
+            0.853774600579939
+        ],
+        "Oil": [
+            5.78017348188105,
+            6.71639308066556,
+            7.44900683587531,
+            7.17862486799811,
+            6.11188155782076
+        ],
+        "Other Minerals": [
+            1.1182441527121,
+            0.424567778582502,
+            0.707061949737822,
+            0.850485789897115,
+            0.625573911487847
+        ]
+    },
+    "colors": {
+        "Coal": "#BA55D3",
+        "Natural Gas": "#FF0000",
+        "Oil": "#00FF7F",
+        "Other Minerals": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

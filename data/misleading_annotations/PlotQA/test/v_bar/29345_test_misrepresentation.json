@@ -1,0 +1,97 @@
+{
+    "title": "Total female labor force participation rate for ages 20-60",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Central African Republic",
+            "Chad",
+            "Channel Islands"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#32CD32",
+        "1991": "#FF8C00",
+        "1992": "#708090",
+        "1993": "#66CDAA"
+    },
+    "data": {
+        "1990": [
+            57.9000015258789,
+            69.3000030517578,
+            64.1999969482422,
+            45.0
+        ],
+        "1991": [
+            57.9000015258789,
+            69.5,
+            63.7000007629395,
+            45.7000007629395
+        ],
+        "1992": [
+            57.2999992370605,
+            70.099998474121,
+            63.2999992370605,
+            46.5
+        ],
+        "1993": [
+            57.0999984741211,
+            70.4000015258789,
+            64.599998474121,
+            47.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1990": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1991": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1992": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1993": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

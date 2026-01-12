@@ -1,0 +1,56 @@
+{
+    "title": "Fertility rates in different countries according to the survey of 1987",
+    "legend": {
+        "Guam": "#90EE90",
+        "Kyrgyz Republic": "#008B8B",
+        "Tonga": "#000000"
+    },
+    "categories": [
+        "Adolescent fertility rate",
+        "Fertility rate"
+    ],
+    "data": {
+        "Guam": [
+            84.27,
+            3.097
+        ],
+        "Kyrgyz Republic": [
+            49.88399999999999,
+            4.039
+        ],
+        "Tonga": [
+            25.5,
+            4.864
+        ]
+    },
+    "colors": {
+        "Guam": "#90EE90",
+        "Kyrgyz Republic": "#008B8B",
+        "Tonga": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Cost of business start-up procedures",
+    "x_axis": {
+        "categories": [
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Marshall Islands"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2003": "#FFA07A",
+        "2004": "#FF0000",
+        "2005": "#6B8E23"
+    },
+    "data": {
+        "2003": [
+            33.1,
+            13.0,
+            204.3,
+            20.9
+        ],
+        "2004": [
+            32.0,
+            12.3,
+            187.4,
+            20.2
+        ],
+        "2005": [
+            26.6,
+            11.5,
+            190.7,
+            22.4
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 210
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Brand Value": "#2876dd"
+    },
+    "categories": [
+        "Petronas",
+        "Maybank",
+        "Genting",
+        "Tenaga Nasional",
+        "Sime Darby",
+        "Public Bank",
+        "CIMB",
+        "Maxis",
+        "AirAsia",
+        "DiGi"
+    ],
+    "data": {
+        "Brand Value": [
+            15215,
+            3979,
+            3482,
+            2742,
+            2475,
+            1843,
+            1813,
+            1593,
+            1575,
+            1065
+        ]
+    },
+    "colors": {
+        "Brand Value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15220
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

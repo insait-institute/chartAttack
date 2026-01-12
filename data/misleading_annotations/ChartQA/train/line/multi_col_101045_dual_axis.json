@@ -1,0 +1,96 @@
+{
+    "title": "",
+    "legend": {
+        "Female": "#2876dd",
+        "Male": "#0f283e"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "y_axis_label": "Inhabitants in millions",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#2876dd",
+            "values": [
+                11.38,
+                11.81,
+                12.25,
+                12.69,
+                13.15,
+                13.62,
+                14.09,
+                14.58,
+                15.07,
+                15.57,
+                16.08
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#0f283e",
+            "values": [
+                11.14,
+                11.55,
+                11.97,
+                12.41,
+                12.86,
+                13.32,
+                13.79,
+                14.27,
+                14.75,
+                15.24,
+                15.74
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 11.38,
+                "max_value": 16.08
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 11.14,
+                "max_value": 15.74
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

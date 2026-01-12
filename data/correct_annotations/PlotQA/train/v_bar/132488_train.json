@@ -1,0 +1,60 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in South Asia",
+    "x_axis": {
+        "categories": [
+            "High income",
+            "High income: nonOECD",
+            "High income: OECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#40E0D0",
+        "1961": "#00FF00",
+        "1962": "#66CDAA"
+    },
+    "data": {
+        "1960": [
+            2.81101697230296,
+            0.685116243358015,
+            2.94441900911249
+        ],
+        "1961": [
+            2.54381835578988,
+            0.3181752443131339,
+            2.66955148215624
+        ],
+        "1962": [
+            2.54401286440764,
+            0.5892601591744211,
+            2.66484097456083
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in Saharan Africa",
+    "legend": {
+        "Congo (Republic)": "#0000FF",
+        "Japan": "#A0522D",
+        "Madagascar": "#E9967A"
+    },
+    "categories": [
+        "1966",
+        "1967",
+        "1968"
+    ],
+    "data": {
+        "Congo (Republic)": [
+            3.95348837209302,
+            8.57740585774058,
+            2.75314617618587
+        ],
+        "Japan": [
+            3.5315205769513,
+            3.90104381671286,
+            3.73364518990024
+        ],
+        "Madagascar": [
+            4.26008968609865,
+            8.476394849785411,
+            6.568627450980389
+        ]
+    },
+    "colors": {
+        "Congo (Republic)": "#0000FF",
+        "Japan": "#A0522D",
+        "Madagascar": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Congo (Republic)": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Japan": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Madagascar": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

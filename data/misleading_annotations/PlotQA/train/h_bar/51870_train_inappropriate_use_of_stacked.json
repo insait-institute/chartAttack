@@ -1,0 +1,57 @@
+{
+    "title": "Number of fixed telephone subscribers",
+    "legend": {
+        "2005": "#f27979",
+        "2007": "#79f200",
+        "2008": "#52a5a5",
+        "2009": "#5200a5"
+    },
+    "categories": [
+        "Number of fixed telephone subscribers"
+    ],
+    "data": {
+        "2005": [
+            14.4756937781435
+        ],
+        "2007": [
+            16.6657364224365
+        ],
+        "2008": [
+            17.8954519496893
+        ],
+        "2009": [
+            18.8260749883171
+        ]
+    },
+    "colors": {
+        "2005": "#f27979",
+        "2007": "#79f200",
+        "2008": "#52a5a5",
+        "2009": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

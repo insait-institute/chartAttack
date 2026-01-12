@@ -1,0 +1,67 @@
+{
+    "title": "Survival rate of children (male) to Grade 5",
+    "legend": {
+        "2001": "#f27979",
+        "2004": "#f2f200",
+        "2005": "#79f279",
+        "2009": "#00a5a5",
+        "2010": "#5252a5",
+        "2011": "#a500a5"
+    },
+    "categories": [
+        "Survival rate of children (male) to Grade 5"
+    ],
+    "data": {
+        "2001": [
+            68.2234573364258
+        ],
+        "2004": [
+            34.2458190917969
+        ],
+        "2005": [
+            40.89088821411129
+        ],
+        "2009": [
+            36.41701889038089
+        ],
+        "2010": [
+            57.3471908569336
+        ],
+        "2011": [
+            48.40591049194339
+        ]
+    },
+    "colors": {
+        "2001": "#f27979",
+        "2004": "#f2f200",
+        "2005": "#79f279",
+        "2009": "#00a5a5",
+        "2010": "#5252a5",
+        "2011": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

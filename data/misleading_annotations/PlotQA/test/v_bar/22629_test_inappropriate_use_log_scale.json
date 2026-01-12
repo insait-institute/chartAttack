@@ -1,0 +1,60 @@
+{
+    "title": "Number of children died in 1998",
+    "x_axis": {
+        "categories": [
+            "Czech Republic",
+            "Denmark",
+            "Djibouti",
+            "Dominica",
+            "Dominican Republic"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Infant": "#708090",
+        "Under-five": "#D2B48C"
+    },
+    "data": {
+        "Infant": [
+            508,
+            316,
+            1735,
+            19,
+            7370
+        ],
+        "Under-five": [
+            624,
+            386,
+            2241,
+            22,
+            9235
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9240
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

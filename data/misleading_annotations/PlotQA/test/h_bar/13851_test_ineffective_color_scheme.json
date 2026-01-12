@@ -1,0 +1,78 @@
+{
+    "title": "Net bilateral aid flow in an economy from Germany",
+    "legend": {
+        "1960": "#40e0d0",
+        "1961": "#40dde0",
+        "1962": "#49cce1",
+        "1963": "#3ab2dc"
+    },
+    "categories": [
+        "Middle East & North Africa (developing only)",
+        "Middle income",
+        "OECD members",
+        "South Asia"
+    ],
+    "data": {
+        "1960": [
+            -1450000.0,
+            155910000.0,
+            104800000.0,
+            84150000.0
+        ],
+        "1961": [
+            -3990000.0,
+            220680000.0,
+            91160000.0,
+            140960000.0
+        ],
+        "1962": [
+            21770000.0,
+            141530000.0,
+            115440000.0,
+            76650000.0
+        ],
+        "1963": [
+            22440000.0,
+            199170000.0,
+            112350000.0,
+            91840000.0
+        ]
+    },
+    "colors": {
+        "1960": "#40E0D0",
+        "1961": "#87CEEB",
+        "1962": "#6B8E23",
+        "1963": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 220680000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#40e0d0",
+        "1961": "#40dde0",
+        "1962": "#49cce1",
+        "1963": "#3ab2dc"
+    }
+}

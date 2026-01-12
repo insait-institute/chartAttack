@@ -1,0 +1,72 @@
+{
+    "title": "Measures of the flow of containers from land to sea transport modes and vice versa",
+    "x_axis": {
+        "categories": [
+            "Sweden",
+            "Thailand",
+            "Turkey",
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2000": "#FF4500",
+        "2001": "#CD5C5C",
+        "2002": "#008B8B"
+    },
+    "data": {
+        "2000": [
+            884136.0,
+            3178779.0,
+            1591739.0,
+            5055801.0,
+            6434734.0,
+            28300000.0
+        ],
+        "2001": [
+            851219.0,
+            3387071.0,
+            1526576.0,
+            5081964.0,
+            7058054.0,
+            27307576.0
+        ],
+        "2002": [
+            805610.0,
+            3799090.0,
+            2297380.0,
+            5872240.0,
+            7059610.0,
+            29676890.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 29676890
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

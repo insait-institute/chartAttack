@@ -1,0 +1,63 @@
+{
+    "title": "",
+    "y_axis_label": "Export volume in thousand liters",
+    "categories": [
+        "United States",
+        "Germany",
+        "Spain",
+        "Canada",
+        "France",
+        "Latvia",
+        "Australia",
+        "United Kingdom",
+        "Italy",
+        "Colombia",
+        "Japan"
+    ],
+    "data": {
+        "Export Volume": [
+            254214.73,
+            4147.27,
+            2819.1,
+            2233.93,
+            2133.82,
+            1950.32,
+            1837.92,
+            1752.29,
+            1436.67,
+            1304.68,
+            1261.32
+        ]
+    },
+    "colors": {
+        "Export Volume": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 254220
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Export Volume": "#2876dd"
+    }
+}

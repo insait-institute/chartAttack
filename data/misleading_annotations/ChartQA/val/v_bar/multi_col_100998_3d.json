@@ -1,0 +1,78 @@
+{
+    "title": "Number of offenses",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of offenses"
+    },
+    "legend": {
+        "Solved offenses": "#2876dd",
+        "All offenses": "#0f283e"
+    },
+    "data": {
+        "Solved offenses": [
+            339149,
+            342197,
+            317576,
+            309172,
+            298753,
+            294662,
+            285437,
+            272894,
+            273636,
+            274990,
+            313438
+        ],
+        "All offenses": [
+            505357,
+            531830,
+            491846,
+            489765,
+            482050,
+            472646,
+            466857,
+            438373,
+            443525,
+            452771,
+            543429
+        ]
+    },
+    "type": "v_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 543430
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

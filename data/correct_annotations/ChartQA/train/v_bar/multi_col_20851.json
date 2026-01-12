@@ -1,0 +1,75 @@
+{
+    "title": "Number of participants",
+    "x_axis": {
+        "categories": [
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of participants"
+    },
+    "legend": {
+        "Boys": "#2876dd",
+        "Girls": "#0f283e"
+    },
+    "data": {
+        "Boys": [
+            206470,
+            196588,
+            197420,
+            194330,
+            192150,
+            189955,
+            189955,
+            197741,
+            204214,
+            197084
+        ],
+        "Girls": [
+            128327,
+            131842,
+            135929,
+            133589,
+            133298,
+            129974,
+            129974,
+            142405,
+            143353,
+            142074
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 206470
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

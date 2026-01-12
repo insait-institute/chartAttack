@@ -1,0 +1,57 @@
+{
+    "title": "Total unemployment among female youth",
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#79f200",
+        "2009": "#52a5a5",
+        "2010": "#5200a5"
+    },
+    "categories": [
+        "Total unemployment among female youth"
+    ],
+    "data": {
+        "2007": [
+            17.4249663279281
+        ],
+        "2008": [
+            16.9088698550678
+        ],
+        "2009": [
+            20.1831363394711
+        ],
+        "2010": [
+            21.90217602793361
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#79f200",
+        "2009": "#52a5a5",
+        "2010": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

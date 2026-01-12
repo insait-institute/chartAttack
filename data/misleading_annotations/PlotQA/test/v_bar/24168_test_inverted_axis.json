@@ -1,0 +1,54 @@
+{
+    "title": "Net disbursements of loans from International Monetary Fund",
+    "x_axis": {
+        "categories": [
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "Other small states"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#006400",
+        "1971": "#CD853F"
+    },
+    "data": {
+        "1970": [
+            7793000.0,
+            247015000.0,
+            1607000.0
+        ],
+        "1971": [
+            13821000.0,
+            216990000.0,
+            1322000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 247015000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

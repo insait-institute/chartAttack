@@ -1,0 +1,67 @@
+{
+    "title": "Survival rate of children of different countries in Grade 5 of primary education",
+    "x_axis": {
+        "categories": [
+            "Morocco",
+            "Mozambique",
+            "Niger",
+            "Norway",
+            "Oman",
+            "Papua New Guinea"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#00bfff",
+        "Male": "#0082ff"
+    },
+    "data": {
+        "Female": [
+            66.97182,
+            29.59083,
+            58.20984,
+            96.38111,
+            77.70919,
+            51.78167
+        ],
+        "Male": [
+            70.18222,
+            37.17336,
+            56.33113,
+            95.76044,
+            76.61046,
+            54.84185
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Female": "#00bfff",
+        "Male": "#0082ff"
+    }
+}

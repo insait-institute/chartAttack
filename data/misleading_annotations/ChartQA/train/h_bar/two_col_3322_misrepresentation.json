@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Unemployment Share": "#2876dd"
+    },
+    "categories": [
+        "Graduate",
+        "Post graduate & above",
+        "Certificate",
+        "Diploma",
+        "Higher secondary",
+        "Secondary",
+        "Middle",
+        "Primary",
+        "Illiterate",
+        "Below primary"
+    ],
+    "data": {
+        "Unemployment Share": [
+            16.3,
+            14.2,
+            11.3,
+            11.1,
+            7.4,
+            4.2,
+            3,
+            2.4,
+            2,
+            1.8
+        ]
+    },
+    "colors": {
+        "Unemployment Share": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Unemployment Share": [
+            1.75,
+            1.25,
+            0.25,
+            2.0,
+            1.25,
+            2.0,
+            0.75,
+            1.25,
+            0.25,
+            0.5
+        ]
+    }
+}

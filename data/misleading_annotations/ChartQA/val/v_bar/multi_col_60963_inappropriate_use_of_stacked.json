@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of adults",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of adults"
+    },
+    "legend": {
+        "19-30 years": "#f27979",
+        "31-50 years": "#79f200",
+        "51-70 years": "#52a5a5",
+        "70 years and older": "#5200a5"
+    },
+    "data": {
+        "19-30 years": [
+            36.0
+        ],
+        "31-50 years": [
+            44.0
+        ],
+        "51-70 years": [
+            58.0
+        ],
+        "70 years and older": [
+            66.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "19-30 years": "#f27979",
+        "31-50 years": "#79f200",
+        "51-70 years": "#52a5a5",
+        "70 years and older": "#5200a5"
+    }
+}

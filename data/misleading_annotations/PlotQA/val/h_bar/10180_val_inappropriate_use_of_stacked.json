@@ -1,0 +1,57 @@
+{
+    "title": "Fertilizer consumption as a percentage of production",
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#79f200",
+        "2011": "#52a5a5",
+        "2012": "#5200a5"
+    },
+    "categories": [
+        "Fertilizer consumption as a percentage of production"
+    ],
+    "data": {
+        "2009": [
+            88.884347181609
+        ],
+        "2010": [
+            91.8019810558788
+        ],
+        "2011": [
+            88.5771674218937
+        ],
+        "2012": [
+            90.03757503548702
+        ]
+    },
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#79f200",
+        "2011": "#52a5a5",
+        "2012": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

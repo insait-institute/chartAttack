@@ -1,0 +1,68 @@
+{
+    "title": "Total imports from other countries",
+    "x_axis": {
+        "categories": [
+            "Norway",
+            "Philippines",
+            "Portugal",
+            "Rwanda",
+            "Senegal"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FFA500",
+        "1961": "#32CD32",
+        "1962": "#00FF00"
+    },
+    "data": {
+        "1960": [
+            37.3486620021452,
+            11.4751537523691,
+            19.174691959444,
+            10.0840315796911,
+            14.2965644606866
+        ],
+        "1961": [
+            37.1322533510199,
+            14.0248936342272,
+            22.5806810137634,
+            9.83606428379485,
+            18.7447601824447
+        ],
+        "1962": [
+            35.5121344733345,
+            19.2346557979014,
+            18.963281428522,
+            12.7999991808001,
+            18.113224332947
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

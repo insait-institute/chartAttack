@@ -1,0 +1,67 @@
+{
+    "title": "Population in urban agglomerations of countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Nigeria": "#f27979",
+        "Pakistan": "#c1f200",
+        "Panama": "#52a574",
+        "Paraguay": "#0042a5",
+        "Peru": "#da79f2"
+    },
+    "data": {
+        "Nigeria": [
+            4.49075982998528
+        ],
+        "Pakistan": [
+            11.5208650018781
+        ],
+        "Panama": [
+            24.9703422294876
+        ],
+        "Paraguay": [
+            20.084966348218
+        ],
+        "Peru": [
+            17.4518380375766
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Nigeria": "#f27979",
+        "Pakistan": "#c1f200",
+        "Panama": "#52a574",
+        "Paraguay": "#0042a5",
+        "Peru": "#da79f2"
+    }
+}

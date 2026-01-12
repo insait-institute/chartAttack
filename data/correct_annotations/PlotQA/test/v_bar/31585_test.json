@@ -1,0 +1,81 @@
+{
+    "title": "Total payments made towards primary income",
+    "x_axis": {
+        "categories": [
+            "Belarus",
+            "Belgium",
+            "Belize",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#00FFFF",
+        "2006": "#B8860B",
+        "2007": "#FF0000",
+        "2008": "#F0E68C"
+    },
+    "data": {
+        "2005": [
+            17410800000.0,
+            330276163319.0,
+            824213312.1,
+            3362182545.9,
+            8102600536.6,
+            125772626232.0
+        ],
+        "2006": [
+            23407700000.0,
+            367608479038.0,
+            885415139.5,
+            4089585617.6,
+            8486257449.9,
+            153426084451.0
+        ],
+        "2007": [
+            30331400000.0,
+            448457801007.0,
+            968793426.6,
+            4999477983.0,
+            9572822742.2,
+            198573869373.0
+        ],
+        "2008": [
+            42007000000.0,
+            517419383988.0,
+            1128919069.6,
+            6660923420.6,
+            11932317997.5,
+            273319582766.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 517419383990
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

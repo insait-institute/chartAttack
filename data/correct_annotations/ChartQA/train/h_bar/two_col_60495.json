@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "Sales": "#2876dd"
+    },
+    "categories": [
+        "Electric cooking pots",
+        "Handsticks rechargeable",
+        "Robot vacuum cleaners",
+        "Deep fryers with low oil",
+        "Window cleaner",
+        "Food preparation with cooking function",
+        "Waterjet solo",
+        "Food preparation with shredder",
+        "Massage mat",
+        "Trad. Filter coffee with Int. Coffee Grind",
+        "Slow Juicers",
+        "Hot water dispenser",
+        "Others"
+    ],
+    "data": {
+        "Sales": [
+            919.1,
+            719.7,
+            701.9,
+            234.3,
+            135.4,
+            133.9,
+            103.1,
+            62.1,
+            46.7,
+            40.2,
+            34.5,
+            8.4,
+            14.7
+        ]
+    },
+    "colors": {
+        "Sales": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 920
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

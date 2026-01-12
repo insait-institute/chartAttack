@@ -1,0 +1,62 @@
+{
+    "title": "Balance of payments recorded for exporting goods and services in 2014",
+    "legend": {
+        "High income": "#00FF00",
+        "Pakistan": "#A0522D",
+        "Sweden": "#4B0082",
+        "Uruguay": "#2E8B57"
+    },
+    "categories": [
+        "Goods",
+        "Services"
+    ],
+    "data": {
+        "High income": [
+            16973930626577.7,
+            20617821806765.2
+        ],
+        "Pakistan": [
+            30562000000,
+            31081000000
+        ],
+        "Sweden": [
+            253862000000,
+            331652557323
+        ],
+        "Uruguay": [
+            13698412910.0,
+            13941799421.6
+        ]
+    },
+    "colors": {
+        "High income": "#00FF00",
+        "Pakistan": "#A0522D",
+        "Sweden": "#4B0082",
+        "Uruguay": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20617821806770
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

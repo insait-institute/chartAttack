@@ -1,0 +1,59 @@
+{
+    "title": "Gender parity index for gross enrollment ratio in different levels of education in 2007",
+    "legend": {
+        "North America": "#00FFFF",
+        "Aruba": "#A020F0",
+        "Bolivia": "#32CD32"
+    },
+    "categories": [
+        "Primary education",
+        "Secondary education",
+        "Tertiary education"
+    ],
+    "data": {
+        "North America": [
+            0.9964900016784672,
+            1.0048999786377,
+            1.41226994991302
+        ],
+        "Aruba": [
+            0.956330001354218,
+            1.03064000606537,
+            1.36267995834351
+        ],
+        "Bolivia": [
+            0.9972000122070308,
+            0.968959987163544,
+            0.839770019054413
+        ]
+    },
+    "colors": {
+        "North America": "#00FFFF",
+        "Aruba": "#A020F0",
+        "Bolivia": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

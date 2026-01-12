@@ -1,0 +1,87 @@
+{
+    "title": "Net bilateral aid flow in an economy from Ireland",
+    "x_axis": {
+        "categories": [
+            "Arab World",
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Least developed countries"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1974": "#40e0d0",
+        "1975": "#40dde0",
+        "1976": "#49cce1",
+        "1977": "#3ab2dc"
+    },
+    "data": {
+        "1974": [
+            30000.0,
+            30000.0,
+            30000.0,
+            10000.0,
+            10000.0,
+            60000.0
+        ],
+        "1975": [
+            10000.0,
+            20000.0,
+            70000.0,
+            10000.0,
+            10000.0,
+            150000.0
+        ],
+        "1976": [
+            20000.0,
+            30000.0,
+            280000.0,
+            50000.0,
+            50000.0,
+            430000.0
+        ],
+        "1977": [
+            110000.0,
+            140000.0,
+            340000.0,
+            10000.0,
+            10000.0,
+            830000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 830000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1974": "#40e0d0",
+        "1975": "#40dde0",
+        "1976": "#49cce1",
+        "1977": "#3ab2dc"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Ratio of military spending to GDP",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Ratio of military spending to GDP"
+    },
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#f28400",
+        "2011": "#e7f279",
+        "2012": "#58f200",
+        "2013": "#52a561",
+        "2014": "#00a578",
+        "2015": "#528fa5",
+        "2016": "#001ea5",
+        "2017": "#a579f2",
+        "2018": "#dc00f2",
+        "2019": "#f279bb"
+    },
+    "data": {
+        "2009": [
+            1.38
+        ],
+        "2010": [
+            1.28
+        ],
+        "2011": [
+            1.14
+        ],
+        "2012": [
+            1.15
+        ],
+        "2013": [
+            1.09
+        ],
+        "2014": [
+            1.03
+        ],
+        "2015": [
+            1.0
+        ],
+        "2016": [
+            0.93
+        ],
+        "2017": [
+            0.86
+        ],
+        "2018": [
+            0.87
+        ],
+        "2019": [
+            0.94
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#f28400",
+        "2011": "#e7f279",
+        "2012": "#58f200",
+        "2013": "#52a561",
+        "2014": "#00a578",
+        "2015": "#528fa5",
+        "2016": "#001ea5",
+        "2017": "#a579f2",
+        "2018": "#dc00f2",
+        "2019": "#f279bb"
+    }
+}

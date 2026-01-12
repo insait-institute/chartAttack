@@ -1,0 +1,70 @@
+{
+    "title": "Index score comparison across different countries",
+    "categories": [
+        "Germany",
+        "Netherlands",
+        "Sweden",
+        "Belgium",
+        "Singapore",
+        "United Kingdom",
+        "Japan",
+        "Austria",
+        "Hong Kong SAR, China",
+        "United States",
+        "Denmark",
+        "Finland",
+        "Switzerland",
+        "United Arab Emirates",
+        "France"
+    ],
+    "data": {
+        "Index score": [
+            4.19,
+            4.07,
+            4.07,
+            4.05,
+            4.05,
+            4.01,
+            3.99,
+            3.99,
+            3.96,
+            3.92,
+            3.92,
+            3.92,
+            3.91,
+            3.89,
+            3.86
+        ]
+    },
+    "colors": {
+        "Index score": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Index score": "#2876dd"
+    }
+}

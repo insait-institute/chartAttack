@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of total fuel imported from different countries",
+    "x_axis": {
+        "categories": [
+            "Latin America(developing only)",
+            "North America",
+            "OECD members",
+            "World",
+            "Argentina"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#FF7F50",
+        "1963": "#B8860B",
+        "1964": "#DAA520",
+        "1965": "#FFFF00"
+    },
+    "data": {
+        "1962": [
+            6.44654930306061,
+            10.7118915712124,
+            12.6101005445079,
+            11.9504477842411,
+            6.68857357014149
+        ],
+        "1963": [
+            6.99629063849617,
+            10.6215093856811,
+            11.6959178912448,
+            11.1019330073082,
+            5.86968885291662
+        ],
+        "1964": [
+            6.93109815794372,
+            10.2011134163245,
+            11.3745437197766,
+            10.8992741758923,
+            7.779623497861509
+        ],
+        "1965": [
+            6.87583215466028,
+            9.907770125973027,
+            11.0381866926541,
+            10.4158698061064,
+            9.66091420309861
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

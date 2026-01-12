@@ -1,0 +1,64 @@
+{
+    "title": "Infant mortality rates in countries",
+    "x_axis": {
+        "categories": [
+            "Central African Republic",
+            "Chile",
+            "Colombia",
+            "Congo (Republic)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#66CDAA",
+        "1961": "#00FF00",
+        "1962": "#FFA500"
+    },
+    "data": {
+        "1960": [
+            165.5,
+            127.6,
+            89.3,
+            110.6
+        ],
+        "1961": [
+            162.9,
+            121.1,
+            87.6,
+            108.4
+        ],
+        "1962": [
+            160.4,
+            116.7,
+            85.9,
+            106.1
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

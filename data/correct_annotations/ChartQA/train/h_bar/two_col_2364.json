@@ -1,0 +1,82 @@
+{
+    "title": "Number of patients in ICU by region",
+    "legend": {
+        "Patients": "#2876dd"
+    },
+    "categories": [
+        "Lombardy",
+        "Lazio",
+        "Tuscany",
+        "Emilia-Romagna",
+        "Sicily",
+        "Campania",
+        "Piedmont",
+        "Apulia",
+        "Veneto",
+        "Liguria",
+        "Calabria",
+        "Marche",
+        "Sardinia",
+        "Umbria",
+        "Autonomous Province of Bolzano",
+        "Abruzzo",
+        "Autonomous Province of Trento",
+        "Friuli-Venezia Giulia",
+        "Basilicata",
+        "Molise",
+        "Aosta Valley"
+    ],
+    "data": {
+        "Patients": [
+            62,
+            57,
+            31,
+            28,
+            23,
+            23,
+            15,
+            14,
+            11,
+            8,
+            6,
+            6,
+            3,
+            3,
+            3,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "colors": {
+        "Patients": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

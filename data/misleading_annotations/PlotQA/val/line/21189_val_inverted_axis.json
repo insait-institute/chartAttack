@@ -1,0 +1,91 @@
+{
+    "title": "Greenhouse gas emission in Spain",
+    "legend": {
+        "Other greenhouse gases": "#B8860B",
+        "SF6 gas": "#32CD32",
+        "HFC gas": "#6B8E23",
+        "PFC gas": "#F4A460"
+    },
+    "x_axis": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "y_axis_label": "Emissions (in thousand metric tons of CO2 equivalent)",
+    "data": [
+        {
+            "label": "Other greenhouse gases",
+            "color": "#B8860B",
+            "values": [
+                6146.0,
+                8037.1,
+                9055.1,
+                11347.8,
+                12139.0
+            ]
+        },
+        {
+            "label": "SF6 gas",
+            "color": "#32CD32",
+            "values": [
+                408.3,
+                2456.5,
+                743.8,
+                893.4,
+                944.0
+            ]
+        },
+        {
+            "label": "HFC gas",
+            "color": "#6B8E23",
+            "values": [
+                1950.3,
+                3296.8,
+                6300.3,
+                8600.9,
+                9968.0
+            ]
+        },
+        {
+            "label": "PFC gas",
+            "color": "#F4A460",
+            "values": [
+                3787.4,
+                2283.8,
+                2011.0,
+                1853.5,
+                1227.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 400,
+                "max_value": 12140
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

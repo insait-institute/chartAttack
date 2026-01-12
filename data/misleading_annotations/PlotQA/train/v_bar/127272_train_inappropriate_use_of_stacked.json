@@ -1,0 +1,62 @@
+{
+    "title": "IDA resource allocation index of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Least developed countries": "#f27979",
+        "Low & middle income": "#79f200",
+        "Low income": "#52a5a5",
+        "Lower middle income": "#5200a5"
+    },
+    "data": {
+        "Least developed countries": [
+            3.16583333333333
+        ],
+        "Low & middle income": [
+            3.33695175438596
+        ],
+        "Low income": [
+            3.10833333333333
+        ],
+        "Lower middle income": [
+            3.42171052631579
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Least developed countries": "#f27979",
+        "Low & middle income": "#79f200",
+        "Low income": "#52a5a5",
+        "Lower middle income": "#5200a5"
+    }
+}

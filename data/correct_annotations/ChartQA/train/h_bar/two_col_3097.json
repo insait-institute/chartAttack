@@ -1,0 +1,104 @@
+{
+    "title": "Total value in million euros",
+    "categories": [
+        "France",
+        "Spain",
+        "Brazil",
+        "Germany",
+        "England",
+        "Belgium",
+        "Argentina",
+        "Portugal",
+        "Uruguay",
+        "Croatia",
+        "Senegal",
+        "Denmark",
+        "Poland",
+        "Colombia",
+        "Serbia",
+        "Switzerland",
+        "Egypt",
+        "Russia",
+        "Mexico",
+        "Nigeria",
+        "Morocco",
+        "Sweden",
+        "South Korea",
+        "Iceland",
+        "Japan",
+        "Tunisia",
+        "Australia",
+        "Iran",
+        "Costa Rica",
+        "Peru",
+        "Saudi Arabia",
+        "Panama"
+    ],
+    "data": {
+        "Total": [
+            1080,
+            1040,
+            952,
+            884,
+            874,
+            756,
+            708,
+            465.5,
+            367.5,
+            354.5,
+            290.2,
+            262.05,
+            259.35,
+            256.35,
+            241.45,
+            217.6,
+            196.88,
+            161.83,
+            145.1,
+            133,
+            122.75,
+            118.95,
+            84.53,
+            76.4,
+            73.4,
+            58.13,
+            49.55,
+            43.05,
+            42.08,
+            37.5,
+            18.7,
+            9.13
+        ]
+    },
+    "colors": {
+        "Total": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1080
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Total": "#2876dd"
+    }
+}

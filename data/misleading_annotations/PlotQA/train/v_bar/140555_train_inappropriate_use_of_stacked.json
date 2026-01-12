@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of women justifying marital abuse for various reasons in the survey of 2007",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Argument": "#f27979",
+        "Burnt food": "#79f200",
+        "Permission": "#52a5a5",
+        "Negligence towards children": "#5200a5"
+    },
+    "data": {
+        "Argument": [
+            9.6
+        ],
+        "Burnt food": [
+            6.8
+        ],
+        "Permission": [
+            9.7
+        ],
+        "Negligence towards children": [
+            16.6
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Argument": "#f27979",
+        "Burnt food": "#79f200",
+        "Permission": "#52a5a5",
+        "Negligence towards children": "#5200a5"
+    }
+}

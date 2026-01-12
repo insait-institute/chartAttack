@@ -1,0 +1,64 @@
+{
+    "title": "Amount of CO2 emitted from gaseous fuel consumption by different countries in 1989",
+    "x_axis": {
+        "categories": [
+            "Austria",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados",
+            "Belgium",
+            "Bolivia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "CO2 emissions from gaseous fuel consumption": "#DAA520"
+    },
+    "data": {
+        "CO2 emissions from gaseous fuel consumption": [
+            10058.581,
+            10010.91,
+            7422.008000000002,
+            55.005,
+            16571.173,
+            865.4119999999998
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 16580
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "CO2 emissions from gaseous fuel consumption": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

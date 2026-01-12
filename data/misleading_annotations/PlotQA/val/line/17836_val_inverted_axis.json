@@ -1,0 +1,73 @@
+{
+    "title": "Percentage of repeaters in secondary general education of Costa Rica",
+    "legend": {
+        "Female": "#A52A2A",
+        "Male": "#00BFFF"
+    },
+    "x_axis": [
+        "1971",
+        "1972",
+        "1981",
+        "1982",
+        "1985",
+        "1986",
+        "1987"
+    ],
+    "y_axis_label": "% of repeaters",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#A52A2A",
+            "values": [
+                8.84538,
+                4.75798,
+                7.653010000000001,
+                8.634039999999999,
+                11.7327,
+                9.55697,
+                8.899980000000003
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#00BFFF",
+            "values": [
+                10.35233,
+                5.34044,
+                8.8413,
+                9.9413,
+                14.02666,
+                12.15581,
+                10.8788
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

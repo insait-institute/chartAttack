@@ -1,0 +1,87 @@
+{
+    "title": "Monthly minimum wage in U.S. dollars*",
+    "categories": [
+        "Monthly minimum wage in U.S. dollars*"
+    ],
+    "data": {
+        "Chile": [
+            441.0
+        ],
+        "Uruguay": [
+            423.0
+        ],
+        "Ecuador": [
+            400.0
+        ],
+        "Bolivia": [
+            309.0
+        ],
+        "Colombia": [
+            261.0
+        ],
+        "Peru": [
+            257.0
+        ],
+        "Argentina": [
+            243.0
+        ],
+        "Mexico": [
+            215.0
+        ],
+        "Brazil": [
+            207.0
+        ],
+        "Venezuela": [
+            1.0
+        ]
+    },
+    "colors": {
+        "Chile": "#f27979",
+        "Uruguay": "#f29100",
+        "Ecuador": "#daf279",
+        "Bolivia": "#30f200",
+        "Colombia": "#52a574",
+        "Peru": "#00a5a5",
+        "Argentina": "#5274a5",
+        "Mexico": "#2100a5",
+        "Brazil": "#da79f2",
+        "Venezuela": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 450
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Chile": "#f27979",
+        "Uruguay": "#f29100",
+        "Ecuador": "#daf279",
+        "Bolivia": "#30f200",
+        "Colombia": "#52a574",
+        "Peru": "#00a5a5",
+        "Argentina": "#5274a5",
+        "Mexico": "#2100a5",
+        "Brazil": "#da79f2",
+        "Venezuela": "#f20091"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "title": "CPIA ratings of different social policies in the year 2007",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Social equity": "#f27979",
+        "Environmental sustainability": "#79f200",
+        "Structural Policies": "#52a5a5",
+        "Corruption": "#5200a5"
+    },
+    "data": {
+        "Social equity": [
+            3.0
+        ],
+        "Environmental sustainability": [
+            2.0
+        ],
+        "Structural Policies": [
+            1.83333333333333
+        ],
+        "Corruption": [
+            2.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Social equity": "#f27979",
+        "Environmental sustainability": "#79f200",
+        "Structural Policies": "#52a5a5",
+        "Corruption": "#5200a5"
+    }
+}

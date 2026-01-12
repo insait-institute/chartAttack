@@ -1,0 +1,137 @@
+{
+    "title": "Passing yards by quarterbacks",
+    "legend": {
+        "Brian Sipe": "#f27979",
+        "Otto Graham": "#f24800",
+        "Bernie Kosar": "#f2c179",
+        "Frank Ryan": "#f2da00",
+        "Tim Couch": "#daf279",
+        "Baker Mayfield": "#79f200",
+        "Bill Nelsen": "#91f279",
+        "Milt Plum": "#00a510",
+        "Mike Phipps": "#52a574",
+        "Vinny Testaverde": "#00a574",
+        "Derek Anderson": "#52a5a5",
+        "Paul McDonald": "#0074a5",
+        "Brandon Weeden": "#5274a5",
+        "Colt McCoy": "#0010a5",
+        "Brian Hoyer": "#9179f2",
+        "Charlie Frye": "#7900f2",
+        "Kelly Holcomb": "#da79f2",
+        "Josh McCown": "#f200da",
+        "DeShone Kizer": "#f279c1",
+        "Jim Ninowski": "#f20048"
+    },
+    "categories": [
+        "Passing yards by quarterbacks"
+    ],
+    "data": {
+        "Brian Sipe": [
+            23713.0
+        ],
+        "Otto Graham": [
+            23584.0
+        ],
+        "Bernie Kosar": [
+            21904.0
+        ],
+        "Frank Ryan": [
+            13361.0
+        ],
+        "Tim Couch": [
+            11131.0
+        ],
+        "Baker Mayfield": [
+            11115.0
+        ],
+        "Bill Nelsen": [
+            9725.0
+        ],
+        "Milt Plum": [
+            8914.0
+        ],
+        "Mike Phipps": [
+            7700.0
+        ],
+        "Vinny Testaverde": [
+            7255.0
+        ],
+        "Derek Anderson": [
+            7083.0
+        ],
+        "Paul McDonald": [
+            5269.0
+        ],
+        "Brandon Weeden": [
+            5116.0
+        ],
+        "Colt McCoy": [
+            4388.0
+        ],
+        "Brian Hoyer": [
+            3941.0
+        ],
+        "Charlie Frye": [
+            3490.0
+        ],
+        "Kelly Holcomb": [
+            3438.0
+        ],
+        "Josh McCown": [
+            3209.0
+        ],
+        "DeShone Kizer": [
+            2894.0
+        ],
+        "Jim Ninowski": [
+            2630.0
+        ]
+    },
+    "colors": {
+        "Brian Sipe": "#f27979",
+        "Otto Graham": "#f24800",
+        "Bernie Kosar": "#f2c179",
+        "Frank Ryan": "#f2da00",
+        "Tim Couch": "#daf279",
+        "Baker Mayfield": "#79f200",
+        "Bill Nelsen": "#91f279",
+        "Milt Plum": "#00a510",
+        "Mike Phipps": "#52a574",
+        "Vinny Testaverde": "#00a574",
+        "Derek Anderson": "#52a5a5",
+        "Paul McDonald": "#0074a5",
+        "Brandon Weeden": "#5274a5",
+        "Colt McCoy": "#0010a5",
+        "Brian Hoyer": "#9179f2",
+        "Charlie Frye": "#7900f2",
+        "Kelly Holcomb": "#da79f2",
+        "Josh McCown": "#f200da",
+        "DeShone Kizer": "#f279c1",
+        "Jim Ninowski": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23720
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Number of children ages 0-14 who are infected with HIV in the year 2013",
+    "legend": {
+        "Bangladesh": "#f27979",
+        "Belize": "#79f200",
+        "Benin": "#52a5a5",
+        "Bolivia": "#5200a5"
+    },
+    "categories": [
+        "Number of children ages 0-14 who are infected with HIV in the year 2013"
+    ],
+    "data": {
+        "Bangladesh": [
+            500.0
+        ],
+        "Belize": [
+            200.0
+        ],
+        "Benin": [
+            8100.0
+        ],
+        "Bolivia": [
+            1000.0
+        ]
+    },
+    "colors": {
+        "Bangladesh": "#f27979",
+        "Belize": "#79f200",
+        "Benin": "#52a5a5",
+        "Bolivia": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

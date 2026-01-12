@@ -1,0 +1,79 @@
+{
+    "title": "Comparison between mobile cellular and fixed telephone subscriptions in Portugal",
+    "legend": {
+        "Mobile cellular": "#BC8F8F",
+        "Fixed telephone": "#00FA9A"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "No. of subscribers (per 100 people)",
+    "data": [
+        {
+            "label": "Mobile cellular",
+            "color": "#BC8F8F",
+            "values": [
+                30.076996519456,
+                45.5151111722553,
+                64.6693851618522,
+                77.0727373906592,
+                83.4004288340389,
+                95.8202442353126,
+                100.887353668911,
+                108.90827646971,
+                116.036689282537
+            ]
+        },
+        {
+            "label": "Fixed telephone",
+            "color": "#00FA9A",
+            "values": [
+                40.2727697812872,
+                41.2124013448782,
+                41.926251713533,
+                42.3688344511365,
+                41.849584873644,
+                41.01069342547221,
+                40.4487559889072,
+                40.27889156154711,
+                40.2571829645731
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

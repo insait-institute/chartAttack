@@ -1,0 +1,50 @@
+{
+    "title": "Percentage of firms either registered or unregistered in Tajikistan",
+    "legend": {
+        "Competing against unregistered firms": "#B8860B",
+        "Formally registered": "#FF0000"
+    },
+    "categories": [
+        "2008",
+        "2013"
+    ],
+    "data": {
+        "Competing against unregistered firms": [
+            35.3,
+            34.5
+        ],
+        "Formally registered": [
+            92.7,
+            96.5
+        ]
+    },
+    "colors": {
+        "Competing against unregistered firms": "#B8860B",
+        "Formally registered": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

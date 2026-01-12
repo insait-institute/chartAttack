@@ -1,0 +1,60 @@
+{
+    "title": "Total amount earned by exporting goods and services out of the country",
+    "legend": {
+        "Austria": "#4682B4",
+        "Macao": "#663399",
+        "Malaysia": "#20B2AA"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "data": {
+        "Austria": [
+            69660804355.8267,
+            73623172781.7497,
+            78928012023.1984
+        ],
+        "Macao": [
+            4890077959.74833,
+            5134581858.18041,
+            5427253028.76559
+        ],
+        "Malaysia": [
+            56601950753.8749,
+            69001584140.8993,
+            82087408835.2565
+        ]
+    },
+    "colors": {
+        "Austria": "#4682B4",
+        "Macao": "#663399",
+        "Malaysia": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 82087408840
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

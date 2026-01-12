@@ -1,0 +1,56 @@
+{
+    "title": "Number of people participated in R&D projects in 2003",
+    "legend": {
+        "Argentina": "#FFFF00",
+        "Singapore": "#808000",
+        "Thailand": "#FFA07A"
+    },
+    "categories": [
+        "Researchers",
+        "Technicians"
+    ],
+    "data": {
+        "Argentina": [
+            714.36635,
+            167.79139
+        ],
+        "Singapore": [
+            4706.45212,
+            402.651
+        ],
+        "Thailand": [
+            279.46263,
+            202.70837
+        ]
+    },
+    "colors": {
+        "Argentina": "#FFFF00",
+        "Singapore": "#808000",
+        "Thailand": "#FFA07A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4710
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

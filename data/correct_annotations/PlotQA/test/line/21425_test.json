@@ -1,0 +1,53 @@
+{
+    "title": "Arable land (hectares) in Sao Tome and Principe",
+    "legend": {
+        "Area of land": "#90EE90"
+    },
+    "x_axis": [
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "y_axis_label": "Area of land (in hectares)",
+    "data": [
+        {
+            "label": "Area of land",
+            "color": "#90EE90",
+            "values": [
+                2000,
+                2000,
+                3000,
+                4000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 2000,
+                "max_value": 4000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

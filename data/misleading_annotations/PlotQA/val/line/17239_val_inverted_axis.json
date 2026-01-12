@@ -1,0 +1,79 @@
+{
+    "title": "Agricultural vs Food production in Korea (Republic) relative to the base period 2004-2006",
+    "legend": {
+        "Crop": "#00FF7F",
+        "Food": "#E9967A"
+    },
+    "x_axis": [
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+    ],
+    "y_axis_label": "Production index(2004-2006)",
+    "data": [
+        {
+            "label": "Crop",
+            "color": "#00FF7F",
+            "values": [
+                85.16,
+                85.36,
+                85.5,
+                85.7,
+                88.62,
+                86.97,
+                92.91,
+                95.78,
+                91.67
+            ]
+        },
+        {
+            "label": "Food",
+            "color": "#E9967A",
+            "values": [
+                61.57,
+                63.59,
+                66.27,
+                69.31,
+                72.27,
+                73.49,
+                78.28,
+                79.68,
+                79.04
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

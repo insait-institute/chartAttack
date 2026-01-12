@@ -1,0 +1,108 @@
+{
+    "title": "",
+    "y_label": "Median age in years",
+    "categories": [
+        "Niger",
+        "Uganda",
+        "Mali",
+        "Angola",
+        "Malawi",
+        "Zambia",
+        "Burundi",
+        "Mozambique",
+        "South Sudan",
+        "Burkina Faso",
+        "Tanzania",
+        "Chad",
+        "Liberia",
+        "Ethiopia",
+        "Somalia",
+        "Benin",
+        "Sao Tome and Principe",
+        "Nigeria",
+        "Cameroon",
+        "Gabon",
+        "Senegal"
+    ],
+    "data": {
+        "Median Age": [
+            15.4,
+            15.8,
+            15.8,
+            15.9,
+            16.5,
+            16.8,
+            17,
+            17.2,
+            17.3,
+            17.3,
+            17.7,
+            17.8,
+            17.8,
+            17.9,
+            18.1,
+            18.2,
+            18.4,
+            18.4,
+            18.5,
+            18.6,
+            18.8
+        ]
+    },
+    "colors": {
+        "Median Age": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Median Age": "#2876dd"
+    },
+    "scaling_factors": {
+        "Median Age": [
+            1.75,
+            0.25,
+            0.75,
+            1.25,
+            0.25,
+            0.75,
+            1.75,
+            0.75,
+            1.25,
+            1.5,
+            0.75,
+            2.0,
+            1.25,
+            2.0,
+            0.25,
+            1.5,
+            0.5,
+            1.5,
+            0.5,
+            1.5,
+            1.5
+        ]
+    }
+}

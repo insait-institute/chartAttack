@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of individuals or firms listed by a private credit bureau",
+    "x_axis": {
+        "categories": [
+            "Iceland",
+            "Ireland",
+            "Israel",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2004": "#DC143C",
+        "2005": "#A0522D",
+        "2006": "#8FBC8F",
+        "2007": "#20B2AA"
+    },
+    "data": {
+        "2004": [
+            100.0,
+            100.0,
+            100.0,
+            57.1
+        ],
+        "2005": [
+            100.0,
+            100.0,
+            100.0,
+            59.9
+        ],
+        "2006": [
+            100.0,
+            100.0,
+            100.0,
+            67.8
+        ],
+        "2007": [
+            100.0,
+            100.0,
+            91.6,
+            71.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

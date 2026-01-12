@@ -1,0 +1,63 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service imports",
+    "legend": {
+        "South Asia": "#6495ED",
+        "Peru": "#FFA07A",
+        "St. Vincent and the Grenadines": "#483D8B"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "South Asia": [
+            28.2916049860714,
+            30.3615771660185,
+            34.0055046250725,
+            27.1725165050262
+        ],
+        "Peru": [
+            25.6513953477173,
+            28.4293869481811,
+            27.8793552658864,
+            28.9063209930162
+        ],
+        "St. Vincent and the Grenadines": [
+            18.1512014649532,
+            19.82334302911,
+            18.133693977327,
+            16.9138958695693
+        ]
+    },
+    "colors": {
+        "South Asia": "#6495ED",
+        "Peru": "#FFA07A",
+        "St. Vincent and the Grenadines": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

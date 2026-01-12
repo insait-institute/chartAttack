@@ -1,0 +1,49 @@
+{
+    "title": "Rating with respect to ease of doing business in Montenegro",
+    "legend": {
+        "Ease of doing business index": "#BDB76B"
+    },
+    "x_axis": [
+        "2014",
+        "2015"
+    ],
+    "y_axis_label": "Rating (1=most business-friendly regulations)",
+    "data": [
+        {
+            "label": "Ease of doing business index",
+            "color": "#BDB76B",
+            "values": [
+                47,
+                46
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

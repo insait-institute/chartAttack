@@ -1,0 +1,78 @@
+{
+    "title": "Percentage of total land area covered by agricultural land",
+    "legend": {
+        "Middle East & North Africa (developing only)": "#ba55d3",
+        "Dominican Republic": "#c955d3",
+        "Hungary": "#d55dd0",
+        "Portugal": "#cf4fba"
+    },
+    "categories": [
+        "1984",
+        "1985",
+        "1986",
+        "1987"
+    ],
+    "data": {
+        "Middle East & North Africa (developing only)": [
+            23.7773923988834,
+            23.8148114297878,
+            23.81724093649389,
+            23.88586871639911
+        ],
+        "Dominican Republic": [
+            54.4288079470199,
+            54.4288079470199,
+            54.5736754966887,
+            54.5736754966887
+        ],
+        "Hungary": [
+            72.919448153093,
+            72.7525589675122,
+            72.5745438362261,
+            72.4410324877615
+        ],
+        "Portugal": [
+            43.6174863387978,
+            43.6502732240437,
+            43.6830601092896,
+            43.7267759562842
+        ]
+    },
+    "colors": {
+        "Middle East & North Africa (developing only)": "#BA55D3",
+        "Dominican Republic": "#DC143C",
+        "Hungary": "#4169E1",
+        "Portugal": "#228B22"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Middle East & North Africa (developing only)": "#ba55d3",
+        "Dominican Republic": "#c955d3",
+        "Hungary": "#d55dd0",
+        "Portugal": "#cf4fba"
+    }
+}

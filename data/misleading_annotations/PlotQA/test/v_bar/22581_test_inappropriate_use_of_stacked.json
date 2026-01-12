@@ -1,0 +1,62 @@
+{
+    "title": "Prevalence of wasting in children with age under 5 years as per the report of 2008",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Sao Tome and Principe": "#f27979",
+        "Sierra Leone": "#79f200",
+        "Togo": "#52a5a5",
+        "Vietnam": "#5200a5"
+    },
+    "data": {
+        "Sao Tome and Principe": [
+            11.1000003814697
+        ],
+        "Sierra Leone": [
+            10.6000003814697
+        ],
+        "Togo": [
+            5.900000095367429
+        ],
+        "Vietnam": [
+            9.10000038146973
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Sao Tome and Principe": "#f27979",
+        "Sierra Leone": "#79f200",
+        "Togo": "#52a5a5",
+        "Vietnam": "#5200a5"
+    }
+}

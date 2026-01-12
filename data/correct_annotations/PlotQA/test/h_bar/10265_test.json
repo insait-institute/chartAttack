@@ -1,0 +1,72 @@
+{
+    "title": "Nitrous oxide emission due to human activities",
+    "legend": {
+        "1990": "#DC143C",
+        "2000": "#556B2F",
+        "2005": "#006400"
+    },
+    "categories": [
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahrain",
+        "Bangladesh",
+        "Belarus"
+    ],
+    "data": {
+        "1990": [
+            63067.1,
+            5086.3,
+            2665.8,
+            70.2,
+            15150.6,
+            16372.3
+        ],
+        "2000": [
+            75583.7,
+            4792.0,
+            2031.7,
+            88.2,
+            19614.2,
+            10795.9
+        ],
+        "2005": [
+            63037.7,
+            4224.7,
+            2599.6,
+            112.9,
+            21486.7,
+            11890.2
+        ]
+    },
+    "colors": {
+        "1990": "#DC143C",
+        "2000": "#556B2F",
+        "2005": "#006400"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 75590
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

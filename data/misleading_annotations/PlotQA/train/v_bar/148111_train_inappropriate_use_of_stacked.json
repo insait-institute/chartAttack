@@ -1,0 +1,57 @@
+{
+    "title": "Proportion of the total male labor force of different age groups participating in production in 1991",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ages 15-20": "#f27979",
+        "Ages 20-50": "#00f200",
+        "Ages 50+": "#5252a5"
+    },
+    "data": {
+        "Ages 15-20": [
+            66.5813829052157
+        ],
+        "Ages 20-50": [
+            74.7307955354009
+        ],
+        "Ages 50+": [
+            83.8104023638497
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Ages 15-20": "#f27979",
+        "Ages 20-50": "#00f200",
+        "Ages 50+": "#5252a5"
+    }
+}

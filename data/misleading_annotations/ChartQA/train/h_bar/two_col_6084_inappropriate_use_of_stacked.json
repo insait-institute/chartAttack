@@ -1,0 +1,97 @@
+{
+    "title": "",
+    "legend": {
+        "Zuid-Holland": "#f27979",
+        "Noord-Holland": "#f27900",
+        "Noord-Brabant": "#f2f279",
+        "Gelderland": "#79f200",
+        "Utrecht": "#79f279",
+        "Overijssel": "#00a552",
+        "Limburg": "#52a5a5",
+        "Friesland": "#0052a5",
+        "Groningen": "#5252a5",
+        "Drenthe": "#5200a5",
+        "Flevoland": "#f279f2",
+        "Zeeland": "#f20079"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Zuid-Holland": [
+            3673893.0
+        ],
+        "Noord-Holland": [
+            2853359.0
+        ],
+        "Noord-Brabant": [
+            2544806.0
+        ],
+        "Gelderland": [
+            2071972.0
+        ],
+        "Utrecht": [
+            1342158.0
+        ],
+        "Overijssel": [
+            1156431.0
+        ],
+        "Limburg": [
+            1116137.0
+        ],
+        "Friesland": [
+            647672.0
+        ],
+        "Groningen": [
+            583990.0
+        ],
+        "Drenthe": [
+            492167.0
+        ],
+        "Flevoland": [
+            416546.0
+        ],
+        "Zeeland": [
+            383032.0
+        ]
+    },
+    "colors": {
+        "Zuid-Holland": "#f27979",
+        "Noord-Holland": "#f27900",
+        "Noord-Brabant": "#f2f279",
+        "Gelderland": "#79f200",
+        "Utrecht": "#79f279",
+        "Overijssel": "#00a552",
+        "Limburg": "#52a5a5",
+        "Friesland": "#0052a5",
+        "Groningen": "#5252a5",
+        "Drenthe": "#5200a5",
+        "Flevoland": "#f279f2",
+        "Zeeland": "#f20079"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3673900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

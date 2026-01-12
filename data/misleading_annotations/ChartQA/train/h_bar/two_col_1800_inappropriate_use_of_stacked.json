@@ -1,0 +1,72 @@
+{
+    "title": "Share of respondents currently purchasing",
+    "legend": {
+        "Walkers": "#f27979",
+        "Doritos": "#f2cf00",
+        "Hula Hoops": "#9bf279",
+        "Pringles": "#00a55e",
+        "McCoys": "#5282a5",
+        "Own brand crisps": "#2f00a5",
+        "KP nuts": "#f279e0"
+    },
+    "categories": [
+        "Share of respondents currently purchasing"
+    ],
+    "data": {
+        "Walkers": [
+            42.0
+        ],
+        "Doritos": [
+            32.0
+        ],
+        "Hula Hoops": [
+            26.0
+        ],
+        "Pringles": [
+            26.0
+        ],
+        "McCoys": [
+            25.0
+        ],
+        "Own brand crisps": [
+            24.0
+        ],
+        "KP nuts": [
+            22.0
+        ]
+    },
+    "colors": {
+        "Walkers": "#f27979",
+        "Doritos": "#f2cf00",
+        "Hula Hoops": "#9bf279",
+        "Pringles": "#00a55e",
+        "McCoys": "#5282a5",
+        "Own brand crisps": "#2f00a5",
+        "KP nuts": "#f279e0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

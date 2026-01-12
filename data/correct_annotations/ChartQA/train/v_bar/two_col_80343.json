@@ -1,0 +1,72 @@
+{
+    "title": "Total exports in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Total exports in million U.S. dollars"
+    },
+    "legend": {
+        "Exports": "#2876dd"
+    },
+    "data": {
+        "Exports": [
+            19.67,
+            35.69,
+            39.5,
+            100.62,
+            163.05,
+            240.55,
+            259.09,
+            152.5,
+            169.94,
+            169.63,
+            60.25,
+            74.41,
+            151.29,
+            103.88,
+            55.52
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 260
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

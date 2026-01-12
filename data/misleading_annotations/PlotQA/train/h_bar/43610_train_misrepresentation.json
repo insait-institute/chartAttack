@@ -1,0 +1,98 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in East Asia & Pacific",
+    "legend": {
+        "1960": "#FF0000",
+        "1961": "#20B2AA",
+        "1962": "#000000"
+    },
+    "categories": [
+        "Arab World",
+        "Central Europe",
+        "East Asia (all income levels)",
+        "East Asia (developing only)",
+        "Euro area",
+        "Europe(all income levels)"
+    ],
+    "data": {
+        "1960": [
+            0.580921320831635,
+            3.05341952350316,
+            7.46281989804389,
+            1.73156516597686,
+            1.62413616401121,
+            1.46759281857662
+        ],
+        "1961": [
+            0.54286241336601,
+            2.29803586678053,
+            6.47420942384205,
+            3.22018871509087,
+            1.21499855817396,
+            1.23002886678156
+        ],
+        "1962": [
+            0.7955959428377509,
+            1.51750599520384,
+            7.51210200299253,
+            2.82114050170159,
+            1.0498035881434,
+            1.06856281449437
+        ]
+    },
+    "colors": {
+        "1960": "#FF0000",
+        "1961": "#20B2AA",
+        "1962": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

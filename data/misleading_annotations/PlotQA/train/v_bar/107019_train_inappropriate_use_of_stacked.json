@@ -1,0 +1,72 @@
+{
+    "title": "Mobile cellular and fixed telephone subscriptions recorded in 1986",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle income": "#f2f200",
+        "North America": "#79f279",
+        "OECD members": "#00a5a5",
+        "Upper middle income": "#5252a5",
+        "World": "#a500a5"
+    },
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            20756.0
+        ],
+        "Middle income": [
+            16534.0
+        ],
+        "North America": [
+            741825.0
+        ],
+        "OECD members": [
+            1403211.0
+        ],
+        "Upper middle income": [
+            12003.0
+        ],
+        "World": [
+            1450136.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 420346740
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle income": "#f2f200",
+        "North America": "#79f279",
+        "OECD members": "#00a5a5",
+        "Upper middle income": "#5252a5",
+        "World": "#a500a5"
+    }
+}

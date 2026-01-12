@@ -1,0 +1,62 @@
+{
+    "title": "Net bilateral aid flow in Algeria from different members of Development Assistance Committee",
+    "legend": {
+        "Canada": "#4682B4",
+        "Netherlands": "#FF7F50"
+    },
+    "categories": [
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+    ],
+    "data": {
+        "Canada": [
+            1760000,
+            1440000,
+            3390000,
+            1090000,
+            5810000,
+            1250000
+        ],
+        "Netherlands": [
+            1140000,
+            1830000,
+            570000,
+            350000,
+            60000,
+            510000
+        ]
+    },
+    "colors": {
+        "Canada": "#4682B4",
+        "Netherlands": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5810000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

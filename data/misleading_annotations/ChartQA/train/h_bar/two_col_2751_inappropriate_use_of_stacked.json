@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Petronas": "#f27979",
+        "Maybank": "#f29100",
+        "Genting": "#daf279",
+        "Tenaga Nasional": "#30f200",
+        "Sime Darby": "#52a574",
+        "Public Bank": "#00a5a5",
+        "CIMB": "#5274a5",
+        "Maxis": "#2100a5",
+        "AirAsia": "#da79f2",
+        "DiGi": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Petronas": [
+            15215.0
+        ],
+        "Maybank": [
+            3979.0
+        ],
+        "Genting": [
+            3482.0
+        ],
+        "Tenaga Nasional": [
+            2742.0
+        ],
+        "Sime Darby": [
+            2475.0
+        ],
+        "Public Bank": [
+            1843.0
+        ],
+        "CIMB": [
+            1813.0
+        ],
+        "Maxis": [
+            1593.0
+        ],
+        "AirAsia": [
+            1575.0
+        ],
+        "DiGi": [
+            1065.0
+        ]
+    },
+    "colors": {
+        "Petronas": "#f27979",
+        "Maybank": "#f29100",
+        "Genting": "#daf279",
+        "Tenaga Nasional": "#30f200",
+        "Sime Darby": "#52a574",
+        "Public Bank": "#00a5a5",
+        "CIMB": "#5274a5",
+        "Maxis": "#2100a5",
+        "AirAsia": "#da79f2",
+        "DiGi": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15220
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Merchandise exports to low and middle-income economies outside region",
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#c1f200",
+        "2008": "#52a574",
+        "2009": "#0042a5",
+        "2010": "#da79f2"
+    },
+    "categories": [
+        "Merchandise exports to low and middle-income economies outside region"
+    ],
+    "data": {
+        "2006": [
+            12.2253388134123
+        ],
+        "2007": [
+            31.0172323412453
+        ],
+        "2008": [
+            19.5899300056702
+        ],
+        "2009": [
+            12.9527619122636
+        ],
+        "2010": [
+            4.86298338379121
+        ]
+    },
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#c1f200",
+        "2008": "#52a574",
+        "2009": "#0042a5",
+        "2010": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Net official aid flow in an economy from UNAIDS",
+    "x_axis": {
+        "categories": [
+            "Belarus",
+            "Benin",
+            "Botswana",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#FF4500",
+        "2006": "#DAA520",
+        "2007": "#4B0082",
+        "2008": "#FF00FF"
+    },
+    "data": {
+        "2005": [
+            110000.0,
+            100000.0,
+            530000.0,
+            590000.0
+        ],
+        "2006": [
+            30000.0,
+            240000.0,
+            690000.0,
+            630000.0
+        ],
+        "2007": [
+            130000.0,
+            170000.0,
+            970000.0,
+            690000.0
+        ],
+        "2008": [
+            110000.0,
+            470000.0,
+            470000.0,
+            480000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 970000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2005": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2006": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2007": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2008": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

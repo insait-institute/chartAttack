@@ -1,0 +1,72 @@
+{
+    "title": "Total interest payments of a country to exports of goods, services and primary income in 2014",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Guatemala": "#f27979",
+        "India": "#f2f200",
+        "Indonesia": "#79f279",
+        "Iran": "#00a5a5",
+        "Jamaica": "#5252a5",
+        "Jordan": "#a500a5"
+    },
+    "data": {
+        "Guatemala": [
+            5.65243162335983
+        ],
+        "India": [
+            2.32848498225235
+        ],
+        "Indonesia": [
+            4.36603436289711
+        ],
+        "Iran": [
+            0.0377895686628352
+        ],
+        "Jamaica": [
+            13.6983423366023
+        ],
+        "Jordan": [
+            2.9607438159283
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Guatemala": "#f27979",
+        "India": "#f2f200",
+        "Indonesia": "#79f279",
+        "Iran": "#00a5a5",
+        "Jamaica": "#5252a5",
+        "Jordan": "#a500a5"
+    }
+}

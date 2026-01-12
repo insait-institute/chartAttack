@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Air Freight Carriers": "#2876dd"
+    },
+    "categories": [
+        "Federal Express",
+        "Qatar Airways",
+        "United Parcel Service",
+        "Emirates",
+        "Cathay Pacific Airways",
+        "Korean Air",
+        "Lufthansa*",
+        "Cargolux",
+        "Turkish Airlines",
+        "China Southern Airlines"
+    ],
+    "data": {
+        "Air Freight Carriers": [
+            17503,
+            13024,
+            12842,
+            12052,
+            10930,
+            7412,
+            7226,
+            7180,
+            7029,
+            6825
+        ]
+    },
+    "colors": {
+        "Air Freight Carriers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17510
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

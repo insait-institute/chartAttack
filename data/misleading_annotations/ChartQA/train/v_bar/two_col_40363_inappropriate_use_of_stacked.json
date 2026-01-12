@@ -1,0 +1,92 @@
+{
+    "title": "Non-resident population in millions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Non-resident population in millions"
+    },
+    "legend": {
+        "2011": "#f27979",
+        "2012": "#f29100",
+        "2013": "#daf279",
+        "2014": "#30f200",
+        "2015": "#52a574",
+        "2016": "#00a5a5",
+        "2017": "#5274a5",
+        "2018": "#2100a5",
+        "2019": "#da79f2",
+        "2020": "#f20091"
+    },
+    "data": {
+        "2011": [
+            1.39
+        ],
+        "2012": [
+            1.49
+        ],
+        "2013": [
+            1.55
+        ],
+        "2014": [
+            1.6
+        ],
+        "2015": [
+            1.63
+        ],
+        "2016": [
+            1.67
+        ],
+        "2017": [
+            1.65
+        ],
+        "2018": [
+            1.64
+        ],
+        "2019": [
+            1.68
+        ],
+        "2020": [
+            1.64
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2011": "#f27979",
+        "2012": "#f29100",
+        "2013": "#daf279",
+        "2014": "#30f200",
+        "2015": "#52a574",
+        "2016": "#00a5a5",
+        "2017": "#5274a5",
+        "2018": "#2100a5",
+        "2019": "#da79f2",
+        "2020": "#f20091"
+    }
+}

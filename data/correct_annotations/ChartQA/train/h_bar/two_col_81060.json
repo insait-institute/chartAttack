@@ -1,0 +1,74 @@
+{
+    "title": "Net premiums earned in million U.S. dollars",
+    "categories": [
+        "National Indemnity Co.",
+        "Everest Reins. Co.",
+        "Munich Re America Corp.",
+        "Transatlantic Reinsurance",
+        "General Re Group",
+        "Odyssey Reins. Group",
+        "Swiss Reins. America Corp.",
+        "Partner Reins. Co.",
+        "SCOR U.S. Group/SCOR re",
+        "XL Reins. America",
+        "Endurance Reins. Corp. of America",
+        "Renaissance Resinsurance",
+        "Axis Reins. Co.",
+        "The Toa Reins. Co. of America",
+        "American Agricultural Ins. Co.",
+        "Sirius America Insurance Co.",
+        "EMC Reins. Co."
+    ],
+    "data": {
+        "Premiums": [
+            26406.98,
+            6429.25,
+            4997.77,
+            4282.68,
+            3630.24,
+            3326.98,
+            2923.76,
+            2132.01,
+            2106.54,
+            1947.75,
+            1259.28,
+            697.59,
+            685.4,
+            564.9,
+            420.81,
+            351.8,
+            199.19
+        ]
+    },
+    "colors": {
+        "Premiums": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 26410
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Premiums": "#2876dd"
+    }
+}

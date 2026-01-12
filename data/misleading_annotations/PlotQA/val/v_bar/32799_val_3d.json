@@ -1,0 +1,50 @@
+{
+    "title": "Unemployed female population in 2013 as per the survey report",
+    "x_axis": {
+        "categories": [
+            "Latvia",
+            "Lesotho",
+            "Lithuania",
+            "Luxembourg"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Unemployment youth female": "#ADFF2F"
+    },
+    "data": {
+        "Unemployment youth female": [
+            24.89999961853031,
+            41.9000015258789,
+            20.3999996185303,
+            10.8999996185303
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

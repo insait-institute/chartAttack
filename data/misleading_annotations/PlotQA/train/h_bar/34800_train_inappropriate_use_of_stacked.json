@@ -1,0 +1,67 @@
+{
+    "title": "Enrolment ratio of female students in primary schools",
+    "legend": {
+        "1999": "#f27979",
+        "2000": "#f2f200",
+        "2001": "#79f279",
+        "2002": "#00a5a5",
+        "2003": "#5252a5",
+        "2004": "#a500a5"
+    },
+    "categories": [
+        "Enrolment ratio of female students in primary schools"
+    ],
+    "data": {
+        "1999": [
+            119.484573364258
+        ],
+        "2000": [
+            118.457916259766
+        ],
+        "2001": [
+            117.614723205566
+        ],
+        "2002": [
+            117.331413269043
+        ],
+        "2003": [
+            116.053756713867
+        ],
+        "2004": [
+            115.369476318359
+        ]
+    },
+    "colors": {
+        "1999": "#f27979",
+        "2000": "#f2f200",
+        "2001": "#79f279",
+        "2002": "#00a5a5",
+        "2003": "#5252a5",
+        "2004": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

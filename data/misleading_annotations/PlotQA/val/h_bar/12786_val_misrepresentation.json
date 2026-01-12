@@ -1,0 +1,89 @@
+{
+    "title": "Net enrolment rate of males in primary schools",
+    "legend": {
+        "Bahamas": "#A020F0",
+        "Colombia": "#00FF7F",
+        "Norway": "#66CDAA",
+        "Thailand": "#E9967A"
+    },
+    "categories": [
+        "2006",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Bahamas": [
+            95.6147613525391,
+            97.32254028320308,
+            93.2626495361328
+        ],
+        "Colombia": [
+            91.4833831787109,
+            90.120506286621,
+            89.798973083496
+        ],
+        "Norway": [
+            98.3233795166016,
+            99.0856475830078,
+            98.8302993774414
+        ],
+        "Thailand": [
+            94.5993804931641,
+            95.5981674194335,
+            96.24658203125
+        ]
+    },
+    "colors": {
+        "Bahamas": "#A020F0",
+        "Colombia": "#00FF7F",
+        "Norway": "#66CDAA",
+        "Thailand": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Bahamas": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Colombia": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Norway": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Thailand": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

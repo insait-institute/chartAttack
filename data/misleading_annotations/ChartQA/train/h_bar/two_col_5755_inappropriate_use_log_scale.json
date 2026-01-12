@@ -1,0 +1,52 @@
+{
+    "title": "",
+    "legend": {
+        "Category": "#2876dd"
+    },
+    "categories": [
+        "Galvanizing",
+        "Zinc alloying",
+        "Brass and bronze",
+        "Zinc semi-manufactures",
+        "Chemicals",
+        "Miscellaneous"
+    ],
+    "data": {
+        "Category": [
+            50,
+            17,
+            17,
+            6,
+            6,
+            4
+        ]
+    },
+    "colors": {
+        "Category": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

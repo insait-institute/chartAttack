@@ -1,0 +1,72 @@
+{
+    "title": "Export of goods as percentage of GDP",
+    "legend": {
+        "1960": "#DAA520",
+        "1961": "#6495ED",
+        "1962": "#8A2BE2"
+    },
+    "categories": [
+        "Euro area",
+        "Europe(all income levels)",
+        "European Union",
+        "Heavily indebted poor countries",
+        "Latin America(all income levels)",
+        "Latin America(developing only)"
+    ],
+    "data": {
+        "1960": [
+            18.37638438162411,
+            19.4357082261506,
+            19.3252273019207,
+            20.201387159319,
+            12.0543784321974,
+            9.808854771786367
+        ],
+        "1961": [
+            18.1112959465453,
+            19.1908150998263,
+            18.98183647065689,
+            19.9048786534474,
+            11.747592423839,
+            9.66323774063661
+        ],
+        "1962": [
+            17.8161926323339,
+            18.8412538685837,
+            18.6132395314998,
+            19.9307367749005,
+            10.6183102742252,
+            8.38436396541893
+        ]
+    },
+    "colors": {
+        "1960": "#DAA520",
+        "1961": "#6495ED",
+        "1962": "#8A2BE2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

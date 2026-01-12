@@ -1,0 +1,67 @@
+{
+    "title": "Rent as percent of GDP towards minerals,forest of Brazil",
+    "legend": {
+        "Mineral": "#FFFF00",
+        "Forest": "#00FF00"
+    },
+    "x_axis": [
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977"
+    ],
+    "y_axis_label": "Rent(as % of GDP)",
+    "data": [
+        {
+            "label": "Mineral",
+            "color": "#FFFF00",
+            "values": [
+                0.40089952385149,
+                0.589248373127889,
+                0.677339059531725,
+                0.8694836215983829,
+                0.609835323800616
+            ]
+        },
+        {
+            "label": "Forest",
+            "color": "#00FF00",
+            "values": [
+                2.45594134850431,
+                2.0390254888271,
+                2.4719053666038,
+                1.96077612488917,
+                2.41946937130939
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

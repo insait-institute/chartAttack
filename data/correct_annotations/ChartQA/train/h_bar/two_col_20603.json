@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Logos": "#2876dd"
+    },
+    "categories": [
+        "Amazon",
+        "McDonald's",
+        "Chanel",
+        "Adidas",
+        "EA Sports",
+        "Nike",
+        "Apple",
+        "Pepsi",
+        "Chevrolet",
+        "Emirates",
+        "Coca-Cola",
+        "Kia Motors",
+        "Puma",
+        "Chick-fil-a",
+        "Oreo",
+        "Olympics",
+        "Samsung",
+        "BMW",
+        "Under Armour",
+        "Nikon"
+    ],
+    "data": {
+        "Logos": [
+            7431193,
+            4952473,
+            3783851,
+            3088607,
+            2019969,
+            1706864,
+            1683476,
+            1271466,
+            1215015,
+            1111787,
+            1096531,
+            1062895,
+            827139,
+            822972,
+            658819,
+            618120,
+            525560,
+            504617,
+            471332,
+            452035
+        ]
+    },
+    "colors": {
+        "Logos": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7431200
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

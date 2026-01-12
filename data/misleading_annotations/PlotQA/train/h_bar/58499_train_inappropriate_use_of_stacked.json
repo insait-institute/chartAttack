@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education",
+    "legend": {
+        "2003": "#f27979",
+        "2004": "#f2f200",
+        "2005": "#79f279",
+        "2007": "#00a5a5",
+        "2008": "#5252a5",
+        "2009": "#a500a5"
+    },
+    "categories": [
+        "Percentage of new entrants in the last grade of primary education"
+    ],
+    "data": {
+        "2003": [
+            95.1536178588867
+        ],
+        "2004": [
+            91.4778289794922
+        ],
+        "2005": [
+            91.4228286743164
+        ],
+        "2007": [
+            91.5663223266602
+        ],
+        "2008": [
+            88.4968109130859
+        ],
+        "2009": [
+            97.38391876220699
+        ]
+    },
+    "colors": {
+        "2003": "#f27979",
+        "2004": "#f2f200",
+        "2005": "#79f279",
+        "2007": "#00a5a5",
+        "2008": "#5252a5",
+        "2009": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

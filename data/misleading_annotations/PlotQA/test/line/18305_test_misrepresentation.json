@@ -1,0 +1,97 @@
+{
+    "title": "Expenditure of Comoros on education as percentage of government expenditure",
+    "legend": {
+        "Primary": "#BC8F8F",
+        "Secondary": "#F0E68C",
+        "Tertiary": "#6A5ACD"
+    },
+    "x_axis": [
+        "1998",
+        "2002",
+        "2008"
+    ],
+    "y_axis_label": "Expenditure(% of government expenditure on education)",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#BC8F8F",
+            "values": [
+                41.59922,
+                45.2147216796875,
+                61.7259101867676
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#F0E68C",
+            "values": [
+                41.21316,
+                40.12039947509771,
+                23.6637706756592
+            ]
+        },
+        {
+            "label": "Tertiary",
+            "color": "#6A5ACD",
+            "values": [
+                3.31705,
+                7.66893005371094,
+                14.6079597473145
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "label": "Secondary",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "label": "Tertiary",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        }
+    ]
+}

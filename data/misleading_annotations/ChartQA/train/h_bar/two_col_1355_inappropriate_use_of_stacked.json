@@ -1,0 +1,87 @@
+{
+    "title": "Average number of rainy days per year",
+    "categories": [
+        "Average number of rainy days per year"
+    ],
+    "data": {
+        "Rochester, New York": [
+            167.0
+        ],
+        "Buffalo, New York": [
+            167.0
+        ],
+        "Portland, Oregon": [
+            164.0
+        ],
+        "Cleveland, Ohio": [
+            155.0
+        ],
+        "Pittsburgh, Pennsylvania": [
+            151.0
+        ],
+        "Seattle, Washington": [
+            149.0
+        ],
+        "Columbus, Ohio": [
+            139.0
+        ],
+        "Cincinnati, Ohio": [
+            137.0
+        ],
+        "Miami, Florida": [
+            135.0
+        ],
+        "Detroit, Michigan": [
+            135.0
+        ]
+    },
+    "colors": {
+        "Rochester, New York": "#f27979",
+        "Buffalo, New York": "#f29100",
+        "Portland, Oregon": "#daf279",
+        "Cleveland, Ohio": "#30f200",
+        "Pittsburgh, Pennsylvania": "#52a574",
+        "Seattle, Washington": "#00a5a5",
+        "Columbus, Ohio": "#5274a5",
+        "Cincinnati, Ohio": "#2100a5",
+        "Miami, Florida": "#da79f2",
+        "Detroit, Michigan": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Rochester, New York": "#f27979",
+        "Buffalo, New York": "#f29100",
+        "Portland, Oregon": "#daf279",
+        "Cleveland, Ohio": "#30f200",
+        "Pittsburgh, Pennsylvania": "#52a574",
+        "Seattle, Washington": "#00a5a5",
+        "Columbus, Ohio": "#5274a5",
+        "Cincinnati, Ohio": "#2100a5",
+        "Miami, Florida": "#da79f2",
+        "Detroit, Michigan": "#f20091"
+    }
+}

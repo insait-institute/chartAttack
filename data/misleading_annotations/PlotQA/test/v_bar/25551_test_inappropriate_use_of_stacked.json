@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of children (under age 5) infected with anaemia",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Madagascar": "#f27979",
+        "Malawi": "#c1f200",
+        "Malaysia": "#52a574",
+        "Maldives": "#0042a5",
+        "Mali": "#da79f2"
+    },
+    "data": {
+        "Madagascar": [
+            81.1
+        ],
+        "Malawi": [
+            76.4
+        ],
+        "Malaysia": [
+            45.6
+        ],
+        "Maldives": [
+            83.8
+        ],
+        "Mali": [
+            85.2
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Madagascar": "#f27979",
+        "Malawi": "#c1f200",
+        "Malaysia": "#52a574",
+        "Maldives": "#0042a5",
+        "Mali": "#da79f2"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Number of usable tractors in agriculture in Low _ middle income",
+    "legend": {
+        "Agricultural machinery": "#E9967A"
+    },
+    "x_axis": [
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "y_axis_label": "Number of tractors",
+    "data": [
+        {
+            "label": "Agricultural machinery",
+            "color": "#E9967A",
+            "values": [
+                4667122,
+                4795464,
+                5027114,
+                5164053,
+                5293910,
+                6587020,
+                6656595,
+                6717620,
+                6880373
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 4667120,
+                "max_value": 6880380
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

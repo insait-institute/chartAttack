@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Jordan Larsson": "#f27979",
+        "Martin Olsson": "#f29100",
+        "Joel Andersson": "#daf279",
+        "Simon Hedlund": "#30f200",
+        "Muamer Tankovic": "#52a574",
+        "Marcus Danielson": "#00a5a5",
+        "Alexander Kacaniklic": "#5274a5",
+        "Darijan Bojanic": "#2100a5",
+        "Isak Petersson": "#da79f2",
+        "Daleho Irandust": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Jordan Larsson": [
+            2800.0
+        ],
+        "Martin Olsson": [
+            2000.0
+        ],
+        "Joel Andersson": [
+            2000.0
+        ],
+        "Simon Hedlund": [
+            1400.0
+        ],
+        "Muamer Tankovic": [
+            1100.0
+        ],
+        "Marcus Danielson": [
+            1000.0
+        ],
+        "Alexander Kacaniklic": [
+            950.0
+        ],
+        "Darijan Bojanic": [
+            950.0
+        ],
+        "Isak Petersson": [
+            950.0
+        ],
+        "Daleho Irandust": [
+            900.0
+        ]
+    },
+    "colors": {
+        "Jordan Larsson": "#f27979",
+        "Martin Olsson": "#f29100",
+        "Joel Andersson": "#daf279",
+        "Simon Hedlund": "#30f200",
+        "Muamer Tankovic": "#52a574",
+        "Marcus Danielson": "#00a5a5",
+        "Alexander Kacaniklic": "#5274a5",
+        "Darijan Bojanic": "#2100a5",
+        "Isak Petersson": "#da79f2",
+        "Daleho Irandust": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2800
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

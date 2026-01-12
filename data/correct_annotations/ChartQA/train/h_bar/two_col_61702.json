@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Deal value in billion U.S. dollar": "#2876dd"
+    },
+    "categories": [
+        "Morgan Stanley",
+        "Bank of America Merrill Lynch",
+        "Mizuho Financial Group",
+        "Raine Group",
+        "SEB",
+        "Nordea",
+        "Citi",
+        "Moelis & Company",
+        "JPMorgan",
+        "Credit Suisse",
+        "Perella Weinberg Partners"
+    ],
+    "data": {
+        "Deal value in billion U.S. dollar": [
+            9.22,
+            8.6,
+            8.6,
+            8.6,
+            3.58,
+            3.37,
+            2.71,
+            1.4,
+            1.37,
+            1.28,
+            1.28
+        ]
+    },
+    "colors": {
+        "Deal value in billion U.S. dollar": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

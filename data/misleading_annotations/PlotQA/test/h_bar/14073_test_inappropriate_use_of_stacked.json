@@ -1,0 +1,67 @@
+{
+    "title": "Split of the expenses (in %) made by the government of Georgia",
+    "legend": {
+        "1997": "#f27979",
+        "1998": "#f2f200",
+        "1999": "#79f279",
+        "2000": "#00a5a5",
+        "2001": "#5252a5",
+        "2002": "#a500a5"
+    },
+    "categories": [
+        "Split of the expenses (in %) made by the government of Georgia"
+    ],
+    "data": {
+        "1997": [
+            11.2919343326196
+        ],
+        "1998": [
+            11.1511789181692
+        ],
+        "1999": [
+            13.1179637787567
+        ],
+        "2000": [
+            10.9965635738832
+        ],
+        "2001": [
+            13.4977827050998
+        ],
+        "2002": [
+            13.3380969393831
+        ]
+    },
+    "colors": {
+        "1997": "#f27979",
+        "1998": "#f2f200",
+        "1999": "#79f279",
+        "2000": "#00a5a5",
+        "2001": "#5252a5",
+        "2002": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

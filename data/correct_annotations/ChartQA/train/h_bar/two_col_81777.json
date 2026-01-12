@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Visits": "#2876dd"
+    },
+    "categories": [
+        "Chester Zoo",
+        "Windermere Lake Cruises, Bowness",
+        "Tatton Park*",
+        "Ullswater Steamers",
+        "Dunham Massey Hall",
+        "The Beatles Story",
+        "Sandcastle Waterpark",
+        "Quarry Bank Mill and Garden (NT)",
+        "Speke Hall, Gardens & Estate",
+        "Ravenglass & Eskdale Railway"
+    ],
+    "data": {
+        "Visits": [
+            2086785,
+            1613785,
+            769000,
+            500200,
+            340235,
+            327000,
+            324872,
+            285762,
+            224913,
+            212000
+        ]
+    },
+    "colors": {
+        "Visits": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2086790
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

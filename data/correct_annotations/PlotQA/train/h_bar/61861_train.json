@@ -1,0 +1,82 @@
+{
+    "title": "Proportion of the male population (ages 15-24) that is economically active",
+    "legend": {
+        "1980": "#A52A2A",
+        "1981": "#FF8C00",
+        "1982": "#00FF7F",
+        "1983": "#8B008B"
+    },
+    "categories": [
+        "Israel",
+        "Italy",
+        "Japan",
+        "Korea (Republic)",
+        "Netherlands",
+        "Norway"
+    ],
+    "data": {
+        "1980": [
+            31.2000007629395,
+            49.4000015258789,
+            42.9000015258789,
+            46.4000015258789,
+            49.4000015258789,
+            65.099998474121
+        ],
+        "1981": [
+            31.5,
+            49.2000007629395,
+            43.2000007629395,
+            43.9000015258789,
+            54.0999984741211,
+            64.099998474121
+        ],
+        "1982": [
+            31.10000038146969,
+            49.7999992370605,
+            43.2999992370605,
+            43.0,
+            53.2000007629395,
+            65.40000152587889
+        ],
+        "1983": [
+            31.60000038146969,
+            53.7000007629395,
+            43.9000015258789,
+            38.2999992370605,
+            49.0,
+            66.90000152587889
+        ]
+    },
+    "colors": {
+        "1980": "#A52A2A",
+        "1981": "#FF8C00",
+        "1982": "#00FF7F",
+        "1983": "#8B008B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

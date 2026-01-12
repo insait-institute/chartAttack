@@ -1,0 +1,67 @@
+{
+    "title": "Total labor force participation rate for ages 15-24",
+    "legend": {
+        "Malawi": "#f27979",
+        "Malaysia": "#f2f200",
+        "Maldives": "#79f279",
+        "Mali": "#00a5a5",
+        "Malta": "#5252a5",
+        "Mauritania": "#a500a5"
+    },
+    "categories": [
+        "Total labor force participation rate for ages 15-24"
+    ],
+    "data": {
+        "Malawi": [
+            55.2999992370605
+        ],
+        "Malaysia": [
+            51.4000015258789
+        ],
+        "Maldives": [
+            41.0
+        ],
+        "Mali": [
+            40.5
+        ],
+        "Malta": [
+            69.599998474121
+        ],
+        "Mauritania": [
+            36.0999984741211
+        ]
+    },
+    "colors": {
+        "Malawi": "#f27979",
+        "Malaysia": "#f2f200",
+        "Maldives": "#79f279",
+        "Mali": "#00a5a5",
+        "Malta": "#5252a5",
+        "Mauritania": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

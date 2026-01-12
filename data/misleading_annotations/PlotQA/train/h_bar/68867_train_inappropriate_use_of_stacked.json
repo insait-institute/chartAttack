@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of the male unemployed labor force with tertiary education as their highest grade",
+    "legend": {
+        "2001": "#f27979",
+        "2002": "#c1f200",
+        "2003": "#52a574",
+        "2004": "#0042a5",
+        "2005": "#da79f2"
+    },
+    "categories": [
+        "Percentage of the male unemployed labor force with tertiary education as their highest grade"
+    ],
+    "data": {
+        "2001": [
+            23.1238656486486
+        ],
+        "2002": [
+            23.264516063874
+        ],
+        "2003": [
+            23.8892155762752
+        ],
+        "2004": [
+            24.8089999867657
+        ],
+        "2005": [
+            17.4157347009984
+        ]
+    },
+    "colors": {
+        "2001": "#f27979",
+        "2002": "#c1f200",
+        "2003": "#52a574",
+        "2004": "#0042a5",
+        "2005": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

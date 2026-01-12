@@ -1,0 +1,82 @@
+{
+    "title": "",
+    "legend": {
+        "Touchdowns": "#2876dd"
+    },
+    "categories": [
+        "Tim Brown",
+        "Marcus Allen",
+        "Fred Biletnikoff",
+        "Cliff Branch",
+        "Clem Daniels",
+        "Pete Banaszak",
+        "Art Powell",
+        "Warren Wells",
+        "Todd Christensen",
+        "Mark van Eeghen",
+        "Raymond Chester",
+        "Tyrone Wheatley",
+        "Dave Casper",
+        "Zack Crockett",
+        "Charlie Smith",
+        "Jerry Porter",
+        "James Jett",
+        "Darren McFadden",
+        "Rickey Dudley",
+        "Billy Cannon",
+        "Clarence Davis"
+    ],
+    "data": {
+        "Touchdowns": [
+            104,
+            98,
+            77,
+            67,
+            54,
+            52,
+            50,
+            43,
+            42,
+            39,
+            37,
+            37,
+            36,
+            36,
+            34,
+            30,
+            30,
+            30,
+            29,
+            28,
+            28
+        ]
+    },
+    "colors": {
+        "Touchdowns": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

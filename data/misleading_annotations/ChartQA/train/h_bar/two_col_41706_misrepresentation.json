@@ -1,0 +1,106 @@
+{
+    "title": "Unemployment rate",
+    "legend": {
+        "Spain": "#808080",
+        "Other regions": "#2876dd"
+    },
+    "categories": [
+        "Ceuta",
+        "Canary Islands",
+        "Andalusia",
+        "Extremadura",
+        "Melilla",
+        "Balearic Islands",
+        "Castile la Mancha",
+        "Region of Valencia",
+        "Murcia",
+        "Spain",
+        "Asturias",
+        "Galicia",
+        "Catalonia",
+        "Castile and Leon",
+        "Community of Madrid",
+        "Aragon",
+        "La Rioja",
+        "Cantabria",
+        "Navarre",
+        "Basque Country"
+    ],
+    "data": {
+        "Unemployment rate": [
+            28.52,
+            25.42,
+            22.54,
+            22.22,
+            21.52,
+            18.88,
+            17.42,
+            16.51,
+            16.42,
+            16.26,
+            14.09,
+            13.0,
+            12.9,
+            12.64,
+            12.15,
+            12.1,
+            11.9,
+            11.88,
+            11.45,
+            10.99
+        ]
+    },
+    "colors": {
+        "Spain": "#808080",
+        "Other regions": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Unemployment rate": [
+            1.75,
+            1.75,
+            1.75,
+            0.5,
+            1.5,
+            1.5,
+            2.0,
+            0.5,
+            1.75,
+            1.5,
+            0.5,
+            1.75,
+            0.5,
+            1.75,
+            1.25,
+            1.75,
+            1.5,
+            2.0,
+            1.5,
+            2.0
+        ]
+    }
+}

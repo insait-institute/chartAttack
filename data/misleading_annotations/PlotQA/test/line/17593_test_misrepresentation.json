@@ -1,0 +1,99 @@
+{
+    "title": "Proportion of the total labor force ages 15-64 who participated in production in Ukraine",
+    "legend": {
+        "Femal labourers": "#6B8E23",
+        "Male labourers": "#A52A2A"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "Labor Force (in %)",
+    "data": [
+        {
+            "label": "Femal labourers",
+            "color": "#6B8E23",
+            "values": [
+                62.0999984741211,
+                62.2999992370605,
+                62.5999984741211,
+                62.5999984741211,
+                62.0,
+                62.2000007629395,
+                62.2999992370605
+            ]
+        },
+        {
+            "label": "Male labourers",
+            "color": "#A52A2A",
+            "values": [
+                70.8000030517578,
+                70.6999969482422,
+                70.8000030517578,
+                71.0,
+                72.099998474121,
+                72.3000030517578,
+                72.5
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Femal labourers",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Male labourers",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of firms in different countries offering various services in 2009",
+    "x_axis": {
+        "categories": [
+            "Bhutan",
+            "Bosnia and Herzegovina",
+            "Brazil",
+            "Bulgaria"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Insurance services": "#228B22",
+        "Offering training": "#0000FF",
+        "Payroll services": "#663399",
+        "Quality Certification": "#006400"
+    },
+    "data": {
+        "Insurance services": [
+            2.5,
+            1.5,
+            8.3,
+            6.6
+        ],
+        "Offering training": [
+            23.3,
+            66.5,
+            42.2,
+            30.6
+        ],
+        "Payroll services": [
+            10.1,
+            10.3,
+            12.4,
+            22.4
+        ],
+        "Quality Certification": [
+            5.4,
+            30.1,
+            13.1,
+            19.9
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

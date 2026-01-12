@@ -1,0 +1,64 @@
+{
+    "title": "Merchandise exports to low and middle-income economies outside region",
+    "legend": {
+        "1960": "#BDB76B",
+        "1961": "#CD853F",
+        "1962": "#D2691E"
+    },
+    "categories": [
+        "Switzerland",
+        "Thailand",
+        "Trinidad and Tobago",
+        "Tunisia"
+    ],
+    "data": {
+        "1960": [
+            14.1129673826571,
+            6.15920976176641,
+            5.88645071403692,
+            3.012552301255229
+        ],
+        "1961": [
+            13.4226874724845,
+            4.90981963927856,
+            4.67343976777939,
+            1.99456029011786
+        ],
+        "1962": [
+            13.0606741573034,
+            4.21984891898932,
+            5.81260844418739,
+            6.309420916162487
+        ]
+    },
+    "colors": {
+        "1960": "#BDB76B",
+        "1961": "#CD853F",
+        "1962": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

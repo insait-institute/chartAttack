@@ -1,0 +1,87 @@
+{
+    "title": "Number of foreign students",
+    "legend": {
+        "Romania": "#f27979",
+        "Albania": "#f29100",
+        "China": "#daf279",
+        "Iran": "#30f200",
+        "India": "#52a574",
+        "Ukraine": "#00a5a5",
+        "Morocco": "#5274a5",
+        "Cameroon": "#2100a5",
+        "Moldova": "#da79f2",
+        "Peru": "#f20091"
+    },
+    "categories": [
+        "Number of foreign students"
+    ],
+    "data": {
+        "Romania": [
+            9891.0
+        ],
+        "Albania": [
+            9170.0
+        ],
+        "China": [
+            7562.0
+        ],
+        "Iran": [
+            3900.0
+        ],
+        "India": [
+            3896.0
+        ],
+        "Ukraine": [
+            2809.0
+        ],
+        "Morocco": [
+            2782.0
+        ],
+        "Cameroon": [
+            2673.0
+        ],
+        "Moldova": [
+            2505.0
+        ],
+        "Peru": [
+            2350.0
+        ]
+    },
+    "colors": {
+        "Romania": "#f27979",
+        "Albania": "#f29100",
+        "China": "#daf279",
+        "Iran": "#30f200",
+        "India": "#52a574",
+        "Ukraine": "#00a5a5",
+        "Morocco": "#5274a5",
+        "Cameroon": "#2100a5",
+        "Moldova": "#da79f2",
+        "Peru": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Total enrollments of male students in schools as per the survey of 2012 conducted in different countries",
+    "legend": {
+        "Belize": "#f4a460",
+        "Hungary": "#f4b660",
+        "Jordan": "#f5cb6a",
+        "Mexico": "#f2d658"
+    },
+    "categories": [
+        "Pre-primary schools",
+        "Primary schools",
+        "Secondary schools",
+        "Tertiary schools"
+    ],
+    "data": {
+        "Belize": [
+            47.358470916748,
+            119.219528198242,
+            86.07498168945308,
+            32.51511001586911
+        ],
+        "Hungary": [
+            86.51522827148442,
+            99.6880416870117,
+            100.545440673828,
+            67.6158981323242
+        ],
+        "Jordan": [
+            33.4801597595215,
+            97.5484466552734,
+            89.0492324829102,
+            49.9163818359375
+        ],
+        "Mexico": [
+            102.585861206055,
+            105.14623260498,
+            89.03488159179692,
+            28.3914108276367
+        ]
+    },
+    "colors": {
+        "Belize": "#F4A460",
+        "Hungary": "#D2B48C",
+        "Jordan": "#708090",
+        "Mexico": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Belize": "#f4a460",
+        "Hungary": "#f4b660",
+        "Jordan": "#f5cb6a",
+        "Mexico": "#f2d658"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Number of hospitals",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of hospitals"
+    },
+    "legend": {
+        "Public": "#2876dd",
+        "Private": "#0f283e"
+    },
+    "data": {
+        "Public": [
+            149,
+            150,
+            152,
+            153,
+            154,
+            154,
+            154
+        ],
+        "Private": [
+            252,
+            223,
+            216,
+            216,
+            240,
+            252,
+            250
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 149,
+                "max_value": 154
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 216,
+                "max_value": 252
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

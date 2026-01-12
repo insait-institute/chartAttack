@@ -1,0 +1,48 @@
+{
+    "title": "GDP contribution in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2006",
+            "2016",
+            "2026*"
+        ]
+    },
+    "y_axis": {
+        "label": "GDP contribution in billion U.S. dollars"
+    },
+    "legend": {
+        "GDP Contribution": "#2876dd"
+    },
+    "data": {
+        "GDP Contribution": [
+            2.2,
+            3.2,
+            6.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

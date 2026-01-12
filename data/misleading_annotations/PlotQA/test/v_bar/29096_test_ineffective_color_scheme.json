@@ -1,0 +1,77 @@
+{
+    "title": "Total enrollments in different levels of education as per the survey of 1971",
+    "x_axis": {
+        "categories": [
+            "Primary",
+            "Secondary",
+            "Secondary general",
+            "Secondary vocational"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Central Europe": "#adff2f",
+        "Botswana": "#94ff2f",
+        "Ireland": "#82ff39",
+        "Sweden": "#5cfd27"
+    },
+    "data": {
+        "Central Europe": [
+            8112432.0,
+            10269991.0,
+            6900287.5,
+            3369704.0
+        ],
+        "Botswana": [
+            78442,
+            6210,
+            4740,
+            1470
+        ],
+        "Ireland": [
+            399700,
+            208705,
+            154575,
+            54130
+        ],
+        "Sweden": [
+            615331,
+            554480,
+            416001,
+            138479
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10270000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Central Europe": "#adff2f",
+        "Botswana": "#94ff2f",
+        "Ireland": "#82ff39",
+        "Sweden": "#5cfd27"
+    }
+}

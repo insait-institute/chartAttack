@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of the unemployed female labor force with different levels of education in countries",
+    "legend": {
+        "Czech Republic": "#FFA500",
+        "Latvia": "#A52A2A"
+    },
+    "categories": [
+        "Primary education",
+        "Secondary education",
+        "Tertiary education"
+    ],
+    "data": {
+        "Czech Republic": [
+            25.0,
+            70.8000030517578,
+            4.19999980926514
+        ],
+        "Latvia": [
+            23.2000007629395,
+            58.2000007629395,
+            18.5
+        ]
+    },
+    "colors": {
+        "Czech Republic": "#FFA500",
+        "Latvia": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

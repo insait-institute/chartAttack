@@ -1,0 +1,62 @@
+{
+    "title": "Net bilateral aid flow in an economy from Greece",
+    "legend": {
+        "1996": "#CD5C5C",
+        "1997": "#B03060"
+    },
+    "categories": [
+        "OECD members",
+        "Sub-Saharan Africa (all income levels)",
+        "Sub-Saharan Africa (developing only)",
+        "Upper middle income",
+        "World",
+        "Albania"
+    ],
+    "data": {
+        "1996": [
+            120000.0,
+            6380000.0,
+            6380000.0,
+            13420000.0,
+            28540000.0,
+            4830000.0
+        ],
+        "1997": [
+            900000.0,
+            900000.0,
+            900000.0,
+            32850000.0,
+            45310000.0,
+            14400000.0
+        ]
+    },
+    "colors": {
+        "1996": "#CD5C5C",
+        "1997": "#B03060"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 45310000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

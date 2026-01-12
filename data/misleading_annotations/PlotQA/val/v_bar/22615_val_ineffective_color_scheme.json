@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of women suffering from anaemia in 1996",
+    "x_axis": {
+        "categories": [
+            "World",
+            "Afghanistan",
+            "Albania",
+            "Algeria",
+            "Andorra"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Non-pregnant women": "#a52a2a",
+        "Pregnant women": "#a5482a"
+    },
+    "data": {
+        "Non-pregnant women": [
+            32.7428491634498,
+            34.7,
+            25.5,
+            38.1,
+            14.9
+        ],
+        "Pregnant women": [
+            42.398748861813,
+            48.2,
+            31.0,
+            38.4,
+            24.7
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Non-pregnant women": "#a52a2a",
+        "Pregnant women": "#a5482a"
+    }
+}

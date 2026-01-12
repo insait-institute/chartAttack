@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Nenets Autonomous Okrug": "#f27979",
+        "Yamalo-Nenets Autonomous Okrug": "#c1f200",
+        "Khanty-Mansi Autonomous Okrug": "#52a574",
+        "Sakhalin Oblast": "#0042a5",
+        "Tyumen Oblast": "#da79f2"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Nenets Autonomous Okrug": [
+            7.53
+        ],
+        "Yamalo-Nenets Autonomous Okrug": [
+            5.71
+        ],
+        "Khanty-Mansi Autonomous Okrug": [
+            2.73
+        ],
+        "Sakhalin Oblast": [
+            2.4
+        ],
+        "Tyumen Oblast": [
+            2.38
+        ]
+    },
+    "colors": {
+        "Nenets Autonomous Okrug": "#f27979",
+        "Yamalo-Nenets Autonomous Okrug": "#c1f200",
+        "Khanty-Mansi Autonomous Okrug": "#52a574",
+        "Sakhalin Oblast": "#0042a5",
+        "Tyumen Oblast": "#da79f2"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

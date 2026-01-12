@@ -1,0 +1,67 @@
+{
+    "title": "Mean shortfall from the poverty lines (as a percentage of the poverty lines) in Bolivia",
+    "legend": {
+        "2000": "#f27979",
+        "2001": "#f2f200",
+        "2002": "#79f279",
+        "2005": "#00a5a5",
+        "2006": "#5252a5",
+        "2007": "#a500a5"
+    },
+    "categories": [
+        "Mean shortfall from the poverty lines (as a percentage of the poverty lines) in Bolivia"
+    ],
+    "data": {
+        "2000": [
+            40.16
+        ],
+        "2001": [
+            34.55
+        ],
+        "2002": [
+            34.88
+        ],
+        "2005": [
+            33.3
+        ],
+        "2006": [
+            32.39
+        ],
+        "2007": [
+            30.52
+        ]
+    },
+    "colors": {
+        "2000": "#f27979",
+        "2001": "#f2f200",
+        "2002": "#79f279",
+        "2005": "#00a5a5",
+        "2006": "#5252a5",
+        "2007": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

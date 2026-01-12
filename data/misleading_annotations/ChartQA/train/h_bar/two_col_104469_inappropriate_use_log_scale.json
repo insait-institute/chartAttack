@@ -1,0 +1,104 @@
+{
+    "title": "",
+    "legend": {
+        "Share of players": "#2876dd"
+    },
+    "categories": [
+        "Croatia",
+        "Sweden",
+        "Iceland",
+        "Senegal",
+        "Belgium",
+        "Serbia",
+        "Nigeria",
+        "Switzerland",
+        "Colombia",
+        "Denmark",
+        "Uruguay",
+        "Morocco",
+        "Argentina",
+        "Panama",
+        "Australia",
+        "Brazil",
+        "Poland",
+        "Portugal",
+        "Costa Rica",
+        "France",
+        "South Korea",
+        "Egypt",
+        "Peru",
+        "Japan",
+        "Iran",
+        "Tunisia",
+        "Spain",
+        "Mexico",
+        "Germany",
+        "Russia",
+        "Saudi Arabia",
+        "England"
+    ],
+    "data": {
+        "Share of players": [
+            100,
+            100,
+            100,
+            97,
+            92.3,
+            92.3,
+            91.4,
+            89.7,
+            88.9,
+            88.5,
+            87.5,
+            84.6,
+            84.1,
+            81.3,
+            81.1,
+            80,
+            76.9,
+            71.4,
+            66.7,
+            66.7,
+            58.7,
+            57.6,
+            53.7,
+            47.4,
+            42.4,
+            41.2,
+            35.3,
+            34.1,
+            32.4,
+            5,
+            0,
+            0
+        ]
+    },
+    "colors": {
+        "Share of players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

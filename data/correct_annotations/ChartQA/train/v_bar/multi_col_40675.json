@@ -1,0 +1,108 @@
+{
+    "title": "Revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "Last 6 months": "#2876dd",
+        "First 6 months": "#0f283e"
+    },
+    "data": {
+        "Last 6 months": [
+            4.07,
+            3.41,
+            3.03,
+            3.98,
+            5.03,
+            6.76,
+            8.97,
+            11.21,
+            11.94,
+            11.76,
+            13.91,
+            16.8,
+            19.5,
+            22.7,
+            26.4,
+            32.1,
+            39.8,
+            48.0,
+            57.9,
+            66.7,
+            80.5
+        ],
+        "First 6 months": [
+            4.01,
+            3.72,
+            2.98,
+            3.29,
+            4.6,
+            5.79,
+            7.91,
+            9.99,
+            11.51,
+            10.9,
+            12.13,
+            14.94,
+            17.0,
+            20.1,
+            23.1,
+            27.5,
+            32.7,
+            40.3,
+            49.5,
+            57.9,
+            59.3
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

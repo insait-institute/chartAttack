@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "legend": {
+        "California": "#2876dd",
+        "Florida": "#2876dd",
+        "Arizona": "#2876dd",
+        "Georgia": "#2876dd",
+        "North Carolina": "#2876dd",
+        "Washington": "#2876dd",
+        "New York": "#2876dd",
+        "Texas": "#2876dd",
+        "Michigan": "#2876dd",
+        "Wisconsin": "#2876dd"
+    },
+    "categories": [
+        "California",
+        "Florida",
+        "Arizona",
+        "Georgia",
+        "North Carolina",
+        "Washington",
+        "New York",
+        "Texas",
+        "Michigan",
+        "Wisconsin"
+    ],
+    "data": {
+        "Production value": [
+            7676076,
+            1168155,
+            1154644,
+            583351,
+            469399,
+            299824,
+            222273,
+            215990,
+            196907,
+            150694
+        ]
+    },
+    "colors": {
+        "California": "#2876dd",
+        "Florida": "#2876dd",
+        "Arizona": "#2876dd",
+        "Georgia": "#2876dd",
+        "North Carolina": "#2876dd",
+        "Washington": "#2876dd",
+        "New York": "#2876dd",
+        "Texas": "#2876dd",
+        "Michigan": "#2876dd",
+        "Wisconsin": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7676080
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Lower secondary completion rate of students in Europe(all income levels)",
+    "legend": {
+        "Female": "#FFA07A",
+        "Male": "#FFFF00"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Education completion rate(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#FFA07A",
+            "values": [
+                83.3779830932617,
+                88.47052001953129,
+                89.7868499755859,
+                90.0899200439453,
+                89.35364532470699,
+                89.4116897583008,
+                89.5970230102539
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#FFFF00",
+            "values": [
+                81.26763916015629,
+                86.54480743408199,
+                88.0912399291992,
+                88.4624710083008,
+                87.85826873779301,
+                88.4682464599609,
+                88.5514678955078
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 80,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Female",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Male",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

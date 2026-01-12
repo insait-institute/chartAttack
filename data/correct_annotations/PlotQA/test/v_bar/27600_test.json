@@ -1,0 +1,56 @@
+{
+    "title": "Revenue collected vs subsidy given by the government in 2004",
+    "x_axis": {
+        "categories": [
+            "Revenue",
+            "Subsidies"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#191970",
+        "Dominica": "#FFFF00",
+        "St. Lucia": "#808000"
+    },
+    "data": {
+        "Australia": [
+            229127000000,
+            155984000000
+        ],
+        "Dominica": [
+            234500000,
+            43900000
+        ],
+        "St. Lucia": [
+            537900000,
+            106000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 229127000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

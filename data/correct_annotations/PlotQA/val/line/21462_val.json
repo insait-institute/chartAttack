@@ -1,0 +1,57 @@
+{
+    "title": "Official exchange rate determined by national authorities of Iceland",
+    "legend": {
+        "Official exchange rate": "#006400"
+    },
+    "x_axis": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+    ],
+    "y_axis_label": "Official exchange rate (LCU per US$ period average)",
+    "data": [
+        {
+            "label": "Official exchange rate",
+            "color": "#006400",
+            "values": [
+                57.0417916666667,
+                58.283775,
+                58.9963416666667,
+                57.5459333333333,
+                67.6031816666667,
+                69.9443783333333
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

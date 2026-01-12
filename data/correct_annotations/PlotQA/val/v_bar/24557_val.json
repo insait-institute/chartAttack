@@ -1,0 +1,60 @@
+{
+    "title": "Ores,manufactures and fuel exports of different countries in 1992",
+    "x_axis": {
+        "categories": [
+            "Ores and metals",
+            "Manufactures",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Mexico": "#B03060",
+        "New Zealand": "#8FBC8F",
+        "Saudi Arabia": "#FF1493"
+    },
+    "data": {
+        "Mexico": [
+            2.84303515198173,
+            71.0750099262953,
+            17.5893509130849
+        ],
+        "New Zealand": [
+            4.60751037142965,
+            25.39702731162469,
+            2.59634672999382
+        ],
+        "Saudi Arabia": [
+            0.548851561708742,
+            9.12473664922418,
+            89.18482372341299
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

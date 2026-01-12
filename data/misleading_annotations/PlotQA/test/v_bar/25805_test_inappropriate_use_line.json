@@ -1,0 +1,60 @@
+{
+    "title": "Electricity produced from renewable sources in countries in 1969",
+    "x_axis": {
+        "categories": [
+            "Hydroelectric sources",
+            "Nuclear sources",
+            "Renewable sources"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Euro area": "#D2B48C",
+        "European Union": "#BA55D3",
+        "OECD members": "#6495ED"
+    },
+    "data": {
+        "Euro area": [
+            24.8220802961905,
+            1.83688873998068,
+            0.7439558022892401
+        ],
+        "European Union": [
+            18.6372428567245,
+            3.58260285437685,
+            0.448038993547797
+        ],
+        "OECD members": [
+            24.0616456756029,
+            1.76516302096613,
+            0.234293815228845
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

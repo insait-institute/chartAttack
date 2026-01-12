@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of repeaters in secondary general education in the year 2009",
+    "legend": {
+        "France": "#f27979",
+        "Gambia, The": "#79f200",
+        "Georgia": "#52a5a5",
+        "Germany": "#5200a5"
+    },
+    "categories": [
+        "Percentage of repeaters in secondary general education in the year 2009"
+    ],
+    "data": {
+        "France": [
+            5.50433015823364
+        ],
+        "Gambia, The": [
+            3.77601003646851
+        ],
+        "Georgia": [
+            0.0543400011956692
+        ],
+        "Germany": [
+            2.02745008468628
+        ]
+    },
+    "colors": {
+        "France": "#f27979",
+        "Gambia, The": "#79f200",
+        "Georgia": "#52a5a5",
+        "Germany": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

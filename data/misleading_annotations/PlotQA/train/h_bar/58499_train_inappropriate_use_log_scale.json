@@ -1,0 +1,82 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education",
+    "legend": {
+        "Cuba": "#00FA9A",
+        "Dominica": "#6495ED",
+        "Malta": "#D2691E",
+        "Sao Tome and Principe": "#FF00FF"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2005",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Cuba": [
+            95.1536178588867,
+            91.4778289794922,
+            91.4228286743164,
+            91.5663223266602,
+            88.4968109130859,
+            97.38391876220699
+        ],
+        "Dominica": [
+            100.277389526367,
+            102.572776794434,
+            102.141899108887,
+            93.9716262817383,
+            89.34911346435551,
+            85.2509689331055
+        ],
+        "Malta": [
+            96.2790679931641,
+            95.4739837646484,
+            93.3492584228516,
+            94.18335723876949,
+            95.4225387573242,
+            87.64157104492192
+        ],
+        "Sao Tome and Principe": [
+            55.8899803161621,
+            70.0337600708008,
+            72.934471130371,
+            73.2477493286133,
+            77.4457168579102,
+            87.1073989868164
+        ]
+    },
+    "colors": {
+        "Cuba": "#00FA9A",
+        "Dominica": "#6495ED",
+        "Malta": "#D2691E",
+        "Sao Tome and Principe": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

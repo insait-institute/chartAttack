@@ -1,0 +1,63 @@
+{
+    "title": "Takings in million euros",
+    "x_axis": {
+        "categories": [
+            "2006/07",
+            "2010/11",
+            "2013/14",
+            "2014/15",
+            "2015/16*",
+            "2016/17*"
+        ]
+    },
+    "y_axis": {
+        "label": "Takings in million euros"
+    },
+    "legend": {
+        "National media takings": "#2876dd",
+        "International media takings": "#0f283e"
+    },
+    "data": {
+        "National media takings": [
+            405,
+            395,
+            560,
+            615,
+            663,
+            673
+        ],
+        "International media takings": [
+            19,
+            48,
+            70,
+            75,
+            154,
+            162
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 680
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

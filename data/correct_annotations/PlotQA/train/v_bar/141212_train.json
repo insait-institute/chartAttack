@@ -1,0 +1,61 @@
+{
+    "title": "Net disbursements received from Regional Development Bank in 2003",
+    "x_axis": {
+        "categories": [
+            "RDB concessional",
+            "RDB nonconcessional"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "South Asia": "#DAA520",
+        "Colombia": "#BDB76B",
+        "Guyana": "#D2691E",
+        "Nigeria": "#FF00FF"
+    },
+    "data": {
+        "South Asia": [
+            348333000,
+            -799643000
+        ],
+        "Colombia": [
+            -18113000,
+            1249509000
+        ],
+        "Guyana": [
+            34504000,
+            -4947000
+        ],
+        "Nigeria": [
+            373000,
+            -95882000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1249509000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

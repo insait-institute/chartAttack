@@ -1,0 +1,117 @@
+{
+    "title": "",
+    "legend": {
+        "WhatsApp": "#f27979",
+        "Facebook": "#f25a00",
+        "YouTube": "#f2d379",
+        "Instagram": "#d3f200",
+        "FB Messenger": "#b5f279",
+        "Twitter": "#1ef200",
+        "Telegram": "#52a567",
+        "LinkedIn": "#00a567",
+        "Tiktok": "#52a5a5",
+        "Snapchat": "#0067a5",
+        "Pinterest": "#5267a5",
+        "Skype": "#1400a5",
+        "Google Hangouts": "#b579f2",
+        "Reddit": "#d300f2",
+        "WeChat": "#f279d3",
+        "Tumblr": "#f2005a"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "WhatsApp": [
+            93.0
+        ],
+        "Facebook": [
+            86.2
+        ],
+        "YouTube": [
+            81.6
+        ],
+        "Instagram": [
+            73.1
+        ],
+        "FB Messenger": [
+            67.2
+        ],
+        "Twitter": [
+            61.4
+        ],
+        "Telegram": [
+            56.3
+        ],
+        "LinkedIn": [
+            32.8
+        ],
+        "Tiktok": [
+            31.9
+        ],
+        "Snapchat": [
+            31.2
+        ],
+        "Pinterest": [
+            26.8
+        ],
+        "Skype": [
+            12.1
+        ],
+        "Google Hangouts": [
+            11.6
+        ],
+        "Reddit": [
+            9.1
+        ],
+        "WeChat": [
+            5.7
+        ],
+        "Tumblr": [
+            4.1
+        ]
+    },
+    "colors": {
+        "WhatsApp": "#f27979",
+        "Facebook": "#f25a00",
+        "YouTube": "#f2d379",
+        "Instagram": "#d3f200",
+        "FB Messenger": "#b5f279",
+        "Twitter": "#1ef200",
+        "Telegram": "#52a567",
+        "LinkedIn": "#00a567",
+        "Tiktok": "#52a5a5",
+        "Snapchat": "#0067a5",
+        "Pinterest": "#5267a5",
+        "Skype": "#1400a5",
+        "Google Hangouts": "#b579f2",
+        "Reddit": "#d300f2",
+        "WeChat": "#f279d3",
+        "Tumblr": "#f2005a"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

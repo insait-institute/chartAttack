@@ -1,0 +1,62 @@
+{
+    "title": "Number of patients on diabetes register",
+    "x_axis": {
+        "categories": [
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of patients on diabetes register"
+    },
+    "legend": {
+        "2008/09 - 2017/18": "#2876dd"
+    },
+    "data": {
+        "2008/09 - 2017/18": [
+            2213138,
+            2338813,
+            2455937,
+            2566436,
+            2703044,
+            2814004,
+            2913538,
+            2972408,
+            3116399,
+            3196124
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3196130
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,68 @@
+{
+    "title": "C02 emissions due to industrial production",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Central African Republic",
+            "Chad",
+            "Chile",
+            "China"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#708090",
+        "1961": "#F0E68C",
+        "1962": "#191970"
+    },
+    "data": {
+        "1960": [
+            0.7936841973191421,
+            0.122024911301213,
+            0.0332930301501016,
+            0.711419236883823,
+            9.65728249976122
+        ],
+        "1961": [
+            0.774481058034235,
+            0.116265742667893,
+            0.0306451541048615,
+            0.733535516786683,
+            9.393195990442381
+        ],
+        "1962": [
+            0.771441451829839,
+            0.100624968082144,
+            0.0477843155213244,
+            0.805799369341454,
+            7.937004478648441
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

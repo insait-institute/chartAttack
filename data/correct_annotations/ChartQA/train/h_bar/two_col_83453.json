@@ -1,0 +1,100 @@
+{
+    "title": "Revenue multiples for Major League Baseball teams",
+    "categories": [
+        "New York Yankees",
+        "Boston Red Sox",
+        "New York Mets",
+        "Chicago Cubs",
+        "Los Angeles Dodgers",
+        "San Diego Padres",
+        "St. Louis Cardinals",
+        "Texas Rangers",
+        "Houston Astros",
+        "Minnesota Twins",
+        "San Francisco Giants",
+        "Seattle Mariners",
+        "Atlanta Braves",
+        "Chicago White Sox",
+        "Philadelphia Phillies",
+        "Cleveland Indians",
+        "Los Angeles Angels",
+        "Arizona Diamondbacks",
+        "Florida Marlins",
+        "Baltimore Orioles",
+        "Kansas City Royals",
+        "Colorado Rockies",
+        "Tampa Bay Rays",
+        "Cincinnati Reds",
+        "Pittsburgh Pirates",
+        "Milwaukee Brewers",
+        "Toronto Blue Jays",
+        "Washington Nationals",
+        "Oakland Athletics",
+        "Detroit Tigers"
+    ],
+    "data": {
+        "Revenue Multiple": [
+            3.3,
+            3.1,
+            3,
+            2.7,
+            2.7,
+            2.6,
+            2.4,
+            2.4,
+            2.3,
+            2.3,
+            2.3,
+            2.3,
+            2.3,
+            2.2,
+            2.2,
+            2.2,
+            2.2,
+            2.1,
+            2.1,
+            2.1,
+            2,
+            2,
+            1.9,
+            1.9,
+            1.9,
+            1.9,
+            1.8,
+            1.8,
+            1.8,
+            1.8
+        ]
+    },
+    "colors": {
+        "Revenue Multiple": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Revenue Multiple": "#2876dd"
+    }
+}

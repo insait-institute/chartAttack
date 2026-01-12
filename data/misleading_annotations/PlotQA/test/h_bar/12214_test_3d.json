@@ -1,0 +1,77 @@
+{
+    "title": "Value added by various sectors to the total GDP of a country",
+    "legend": {
+        "Argentina": "#8B0000",
+        "Cameroon": "#8FBC8F",
+        "Dominican Republic": "#BEBEBE",
+        "Lebanon": "#663399"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Argentina": [
+            57.6132467535441,
+            59.6530312436525,
+            62.029908353048,
+            60.9208672562218,
+            61.3798904106876
+        ],
+        "Cameroon": [
+            47.2859097579143,
+            47.595088750885,
+            46.6245424854602,
+            46.6890822719098,
+            46.8513463417922
+        ],
+        "Dominican Republic": [
+            61.7812655714553,
+            63.2860021559384,
+            65.2977184130833,
+            65.3579163890405,
+            66.0919728541847
+        ],
+        "Lebanon": [
+            78.1113844512285,
+            78.26957295373671,
+            78.52937412005629,
+            80.7753626006144,
+            79.7492524408257
+        ]
+    },
+    "colors": {
+        "Argentina": "#8B0000",
+        "Cameroon": "#8FBC8F",
+        "Dominican Republic": "#BEBEBE",
+        "Lebanon": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

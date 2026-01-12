@@ -1,0 +1,86 @@
+{
+    "title": "Enrolment ratio of female students in different levels of education in Tonga",
+    "legend": {
+        "Pre-primary schools": "#B8860B",
+        "Primary schools": "#4B0082",
+        "Secondary schools": "#00BFFF",
+        "Tertiary schools": "#A52A2A"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2004",
+        "2012"
+    ],
+    "y_axis_label": "Gross enrolment ratio (%)",
+    "data": [
+        {
+            "label": "Pre-primary schools",
+            "color": "#B8860B",
+            "values": [
+                21.43388,
+                31.4479598999023,
+                24.9901905059814,
+                35.2559204101563
+            ]
+        },
+        {
+            "label": "Primary schools",
+            "color": "#4B0082",
+            "values": [
+                97.17394,
+                97.61934,
+                95.99757,
+                98.25716
+            ]
+        },
+        {
+            "label": "Secondary schools",
+            "color": "#00BFFF",
+            "values": [
+                86.74306999999997,
+                80.13868000000002,
+                80.84261,
+                81.18239
+            ]
+        },
+        {
+            "label": "Tertiary schools",
+            "color": "#A52A2A",
+            "values": [
+                2.01856,
+                1.52775,
+                6.35801,
+                7.509339999999999
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

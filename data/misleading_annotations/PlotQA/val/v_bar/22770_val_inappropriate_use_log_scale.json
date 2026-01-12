@@ -1,0 +1,63 @@
+{
+    "title": "Net enrollment of females recorded in primary and secondary education in year 2010",
+    "x_axis": {
+        "categories": [
+            "Europe(developing only)",
+            "European Union",
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: nonOECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary": "#DAA520",
+        "Secondary": "#6B8E23"
+    },
+    "data": {
+        "Primary": [
+            92.6740493774414,
+            97.6107635498047,
+            68.4447784423828,
+            73.7491073608398,
+            95.7842788696289,
+            94.33023071289058
+        ],
+        "Secondary": [
+            85.2906494140625,
+            92.0568161010742,
+            33.2928581237792,
+            25.3725395202637,
+            89.0845260620117,
+            82.3448181152344
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

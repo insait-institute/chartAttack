@@ -1,0 +1,81 @@
+{
+    "title": "Total goods and services exported to different countries",
+    "x_axis": {
+        "categories": [
+            "Dominican Republic",
+            "Ecuador",
+            "Fiji",
+            "Finland",
+            "France",
+            "Gabon"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FF69B4",
+        "1961": "#000000",
+        "1962": "#FFA500",
+        "1963": "#006400"
+    },
+    "data": {
+        "1960": [
+            172100000.0,
+            141816700.0,
+            34000000.0,
+            593524800.0,
+            6788513280.0,
+            11853061100.0
+        ],
+        "1961": [
+            152100000.0,
+            147958300.0,
+            28500000.0,
+            637713088.0,
+            7160192000.0,
+            12832653300.0
+        ],
+        "1962": [
+            196700000.0,
+            171408300.0,
+            34800000.0,
+            679781568.0,
+            7370955264.0,
+            14204081200.0
+        ],
+        "1963": [
+            195000000.0,
+            168616700.0,
+            52500000.0,
+            706848896.0,
+            8110418944.0,
+            17828571100.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17828571100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

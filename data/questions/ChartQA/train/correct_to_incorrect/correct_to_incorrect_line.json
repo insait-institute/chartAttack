@@ -1,0 +1,1381 @@
+[
+    {
+        "imgname": "multi_col_20243",
+        "question": "What is the average age of men at death in the Netherlands in 2013?",
+        "gold": "74.8",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 80.06666666666666
+        }
+    },
+    {
+        "imgname": "two_col_60009",
+        "question": "The growth of the data points started to slow down in which year?",
+        "gold": "FY 2001",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "fy 1981",
+            "inappropriate_use_of_log_scale": "fy 1991"
+        }
+    },
+    {
+        "imgname": "two_col_60009",
+        "question": "What is the maximum value of the chart?",
+        "gold": "73.86",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 536.6
+        }
+    },
+    {
+        "imgname": "multi_col_60346",
+        "question": "What percentage of the Dominican Republic's GDP has the travel and tourism sector exceeded for three consecutive years?",
+        "gold": "16.15",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.533333333333333
+        }
+    },
+    {
+        "imgname": "multi_col_83",
+        "question": "Did the male population in China ever decrease in any year between 2010 and 2020?",
+        "gold": "No",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes",
+            "misrepresentation": "yes"
+        }
+    },
+    {
+        "imgname": "multi_col_20946",
+        "question": "How many men lived in Argentina in 2018?",
+        "gold": "21.7",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 22.8
+        }
+    },
+    {
+        "imgname": "multi_col_100919",
+        "question": "What is the difference between the life expectancy at birth in Croatia for a male and a female born in the year 2018?",
+        "gold": "6.5",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.5
+        }
+    },
+    {
+        "imgname": "two_col_1487",
+        "question": "Which month has the highest number of part time workers?",
+        "gold": "Oct '20",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "mar '21"
+        }
+    },
+    {
+        "imgname": "two_col_3389",
+        "question": "Which supermarket showed the smallest growth in sales?",
+        "gold": "Morrisons",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "lidl"
+        }
+    },
+    {
+        "imgname": "two_col_102200",
+        "question": "What is the trough data value?",
+        "gold": "19",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 26.0
+        }
+    },
+    {
+        "imgname": "two_col_3530",
+        "question": "What was Alphabet's revenue in the first quarter of 2021?",
+        "gold": "55314",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 55314.0
+        }
+    },
+    {
+        "imgname": "two_col_41911",
+        "question": "What was the unemployment rate in Arkansas in 2020?",
+        "gold": "6.1",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 3.5
+        }
+    },
+    {
+        "imgname": "multi_col_60381",
+        "question": "What is the difference between highest and lowest value of Relative poverty?",
+        "gold": "5.8",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.1,
+            "misrepresentation": 12.633333333333333
+        }
+    },
+    {
+        "imgname": "two_col_60453",
+        "question": "How many people did Romania lose in the Second World War?",
+        "gold": "18.06",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 16.0
+        }
+    },
+    {
+        "imgname": "multi_col_80919",
+        "question": "What is the standardized men mortality rate in 2016 in the Netherlands?",
+        "gold": "5.4",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.4
+        }
+    },
+    {
+        "imgname": "multi_col_20324",
+        "question": "What was the highest value on the chart?",
+        "gold": "56.01",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 42.8
+        }
+    },
+    {
+        "imgname": "multi_col_258",
+        "question": "What was the crime rate per thousand people in the UK in 2019/20?",
+        "gold": "96.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 102.53333333333333
+        }
+    },
+    {
+        "imgname": "two_col_81838",
+        "question": "What is the highest data point?",
+        "gold": "987",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 877.0
+        }
+    },
+    {
+        "imgname": "two_col_83352",
+        "question": "How much money did New Jersey generate from sports betting in February 2021?",
+        "gold": "46.21",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 82.6
+        }
+    },
+    {
+        "imgname": "multi_col_40583",
+        "question": "What was the industry sector projected to increase by if the coronavirus can be contained in the second quarter of 2020?",
+        "gold": "7.1",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 9.2
+        }
+    },
+    {
+        "imgname": "two_col_1144",
+        "question": "How many people had obtained a legal divorce and not remarried in Canada in 2020?",
+        "gold": "2.71",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1.7999999999999998
+        }
+    },
+    {
+        "imgname": "two_col_1144",
+        "question": "How many divorcees were there in Canada in 2000?",
+        "gold": "1.88",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.033333333333333
+        }
+    },
+    {
+        "imgname": "multi_col_40108",
+        "question": "How many single males were there in Canada in 2020?",
+        "gold": "9.51",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 8.466666666666667,
+            "dual_axis": 8.5
+        }
+    },
+    {
+        "imgname": "two_col_20145",
+        "question": "What is the difference between the highest and the lowest population??",
+        "gold": "5.23",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 4.633333333333334
+        }
+    },
+    {
+        "imgname": "two_col_641",
+        "question": "The crime rate in London was maximum  on which years?",
+        "gold": "2019/20",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "2013/14",
+            "misrepresentation": "2018/19"
+        }
+    },
+    {
+        "imgname": "two_col_22905",
+        "question": "In what month did tea sell at an average of 2.39 U.S. dollars?",
+        "gold": "May 2019",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "june 2019"
+        }
+    },
+    {
+        "imgname": "two_col_83498",
+        "question": "Which year has the highest volume?",
+        "gold": "2019/20",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "2013/14"
+        }
+    },
+    {
+        "imgname": "two_col_83134",
+        "question": "Is the graph increasing or decreasing?",
+        "gold": "increasing",
+        "question_class": "Visual and Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "decreasing"
+        }
+    },
+    {
+        "imgname": "multi_col_40207",
+        "question": "How many young people in the EU were unemployed in January 2021?",
+        "gold": "2.93",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.4,
+            "misrepresentation": 2.4
+        }
+    },
+    {
+        "imgname": "two_col_21472",
+        "question": "What was the previous year's unemployment rate in New Jersey?",
+        "gold": "3.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.3
+        }
+    },
+    {
+        "imgname": "multi_col_60311",
+        "question": "What is the difference between the highest percentage and lowest percentage of the black line graph?",
+        "gold": "3.19",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 5.666666666666666
+        }
+    },
+    {
+        "imgname": "two_col_40522",
+        "question": "What month was the deadliest for drowning deaths in the U.S. in 2018?",
+        "gold": "July",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "september"
+        }
+    },
+    {
+        "imgname": "two_col_60700",
+        "question": "Which age group has the highest share of respondents?",
+        "gold": "25-29",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "70 and older"
+        }
+    },
+    {
+        "imgname": "multi_col_100435",
+        "question": "Which party had the most people who identified with them in 2012?",
+        "gold": "Labour",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "conservative"
+        }
+    },
+    {
+        "imgname": "two_col_4480",
+        "question": "What was Ohio's highest unemployment rate in 2010?",
+        "gold": "10.3",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 8.1
+        }
+    },
+    {
+        "imgname": "multi_col_213",
+        "question": "What operating system has been increasing its market share over the past decade?",
+        "gold": "iOS",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "android",
+            "inappropriate_use_of_log_scale": "android",
+            "misrepresentation": "android"
+        }
+    },
+    {
+        "imgname": "two_col_2815",
+        "question": "What was the unemployment rate in Nepal in 2020?",
+        "gold": "1.47",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.3
+        }
+    },
+    {
+        "imgname": "multi_col_100387",
+        "question": "What is y- axis in the chart ?",
+        "gold": "Life expectancy at birth in years",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "percentage"
+        }
+    },
+    {
+        "imgname": "multi_col_100387",
+        "question": "Find which line moved higher than other ? male or female",
+        "gold": "female",
+        "question_class": "Visual and Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": "male"
+        }
+    },
+    {
+        "imgname": "two_col_270",
+        "question": "What was the unemployment rate in 2020?",
+        "gold": "4.2",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3.6
+        }
+    },
+    {
+        "imgname": "multi_col_80474",
+        "question": "What was Namibia's female population in 2019?",
+        "gold": "1.29",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.2
+        }
+    },
+    {
+        "imgname": "two_col_5003",
+        "question": "How many unique global visitors visited Bing.com in January 2020?",
+        "gold": "963.5",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 849.5
+        }
+    },
+    {
+        "imgname": "two_col_42550",
+        "question": "What was Djibouti's gross domestic product in 2018?",
+        "gold": "3.01",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.8
+        }
+    },
+    {
+        "imgname": "two_col_62639",
+        "question": "What percentage of Denmark's GDP was spent on research and development in 2016?",
+        "gold": "3.12",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2.9
+        }
+    },
+    {
+        "imgname": "two_col_3",
+        "question": "What was the nationwide violent crime rate in 2019?",
+        "gold": "366.7",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 466.7
+        }
+    },
+    {
+        "imgname": "multi_col_100312",
+        "question": "What was the investment rating in Europe in 2014?",
+        "gold": "3.58",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.2,
+            "misrepresentation": 3.2
+        }
+    },
+    {
+        "imgname": "multi_col_60003",
+        "question": "What is the sum of first and last data in black line?",
+        "gold": "146.68",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 158.8
+        }
+    },
+    {
+        "imgname": "two_col_22404",
+        "question": "What is the difference between the prices of gas between the months in which the price was maximum and minimum?",
+        "gold": "1.85",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.55
+        }
+    },
+    {
+        "imgname": "two_col_20214",
+        "question": "What is the lowest value in the chart ?",
+        "gold": "570",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 621.0
+        }
+    },
+    {
+        "imgname": "multi_col_100961",
+        "question": "In the first entry, how many men were there in Portugal?",
+        "gold": "2.01",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.9,
+            "misrepresentation": 2.05
+        }
+    },
+    {
+        "imgname": "multi_col_101149",
+        "question": "What was the revenue of Quebec's provincial government in dollars in 2019?",
+        "gold": "139119",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 130833.0
+        }
+    },
+    {
+        "imgname": "multi_col_60919",
+        "question": "The mode of which gender is greater?",
+        "gold": "Male",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "female",
+            "dual_axis": "female"
+        }
+    },
+    {
+        "imgname": "multi_col_40606",
+        "question": "What is the total minimum population?",
+        "gold": "2.78",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.4
+        }
+    },
+    {
+        "imgname": "multi_col_40606",
+        "question": "How many men lived in Jamaica in 2018?",
+        "gold": "1.46",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.6333333333333333
+        }
+    },
+    {
+        "imgname": "multi_col_100842",
+        "question": "What was the average transaction value in BJ's Wholesale Clubs from January 1 to February 23?",
+        "gold": "82",
+        "question_class": "Compositional",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 82.0
+        }
+    },
+    {
+        "imgname": "two_col_24239",
+        "question": "What was Arizona's highest unemployment rate in 2010?",
+        "gold": "10.3",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 7.85
+        }
+    },
+    {
+        "imgname": "two_col_80439",
+        "question": "How much did Amazon's e-retail sales increase in 2019?",
+        "gold": "19.1",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.26666666666666666
+        }
+    },
+    {
+        "imgname": "multi_col_4",
+        "question": "What was Facebook's net income in 2020?",
+        "gold": "29146",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 85965.0
+        }
+    },
+    {
+        "imgname": "multi_col_20534",
+        "question": "What was the unemployment rate in the EU in June 2020?",
+        "gold": "7.1",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 7.8
+        }
+    },
+    {
+        "imgname": "two_col_3095",
+        "question": "What was the highest GDP California had?",
+        "gold": "70662",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 57675.0
+        }
+    },
+    {
+        "imgname": "multi_col_500",
+        "question": "How much did electricity producers pay per million British thermal unit for natural gas in 2020?",
+        "gold": "2.39",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1.9,
+            "misrepresentation": 1.7
+        }
+    },
+    {
+        "imgname": "multi_col_500",
+        "question": "How much did coal power plant operators pay per million British thermal unit for natural gas in 2020?",
+        "gold": "1.92",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 2.4
+        }
+    },
+    {
+        "imgname": "multi_col_80092",
+        "question": "What percentage of total consumer spending did Amazon account for in 2018?",
+        "gold": "2.1",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 2.5
+        }
+    },
+    {
+        "imgname": "two_col_102588",
+        "question": "Was the risk value in the year 2017 more then 2015?",
+        "gold": "Yes",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        }
+    },
+    {
+        "imgname": "two_col_80239",
+        "question": "What percentage of Japan's GDP did B2C e-commerce account for in 2013?",
+        "gold": "1.01",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.7
+        }
+    },
+    {
+        "imgname": "multi_col_80189",
+        "question": "How many men lived in Venezuela in 2018?",
+        "gold": "14.25",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 15.2
+        }
+    },
+    {
+        "imgname": "two_col_103199",
+        "question": "Is the number of cases in the year 2005 more then 2006?",
+        "gold": "Yes",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        }
+    },
+    {
+        "imgname": "two_col_82247",
+        "question": "When does the rate reach the peak?",
+        "gold": "Oct '18",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "feb '18",
+            "misrepresentation": "sep '18"
+        }
+    },
+    {
+        "imgname": "multi_col_100904",
+        "question": "Which gender has the highest Average age at the time of divorce in the Netherlands from 2008 to 2019?",
+        "gold": "Men",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "women",
+            "dual_axis": "women"
+        }
+    },
+    {
+        "imgname": "multi_col_100904",
+        "question": "Which gender has the Second highest age at the time of divorce in the Netherlands from 2008 to 2019?",
+        "gold": "Women",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "men"
+        }
+    },
+    {
+        "imgname": "multi_col_87",
+        "question": "In which time the disagreement over the way the congress is handling its job was maximum?",
+        "gold": "Dec '20",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "80"
+        }
+    },
+    {
+        "imgname": "multi_col_1032",
+        "question": "How much did the exports of goods from Russia to China reach in US dollars in 2020?",
+        "gold": "49.06",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 54.9
+        }
+    },
+    {
+        "imgname": "multi_col_80746",
+        "question": "What was the male population of Gabon in 2019?",
+        "gold": "1.11",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.0
+        }
+    },
+    {
+        "imgname": "multi_col_80746",
+        "question": "What was Gabon's female population in 2019?",
+        "gold": "1.07",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.9666666666666667
+        }
+    },
+    {
+        "imgname": "two_col_6385",
+        "question": "What is the highest number of road traffic fatalities in Austria from 2016 to 2019?",
+        "gold": "432",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 409.0
+        }
+    },
+    {
+        "imgname": "two_col_1484",
+        "question": "what is the highest percentage with the highest voter turnout?",
+        "gold": "91.1",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 71.03333333333333
+        }
+    },
+    {
+        "imgname": "multi_col_80023",
+        "question": "Which age bracket of the car generated an increase in sales in the most recent year?",
+        "gold": "9+ yrs",
+        "question_class": "Visual and Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "3-5 yrs"
+        }
+    },
+    {
+        "imgname": "two_col_82199",
+        "question": "What percentage of French people were worried about the spread of the COVID-19 virus in march 2020?",
+        "gold": "85",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 74.0
+        }
+    },
+    {
+        "imgname": "two_col_5785",
+        "question": "What is the difference between the number of road traffic fatalities in Switzerland between the years 2018 and 2019?",
+        "gold": "46",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 54.0
+        }
+    },
+    {
+        "imgname": "two_col_62228",
+        "question": "In which month and year there was highest price of sugar?",
+        "gold": "2/2021",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "april 2020"
+        }
+    },
+    {
+        "imgname": "two_col_21577",
+        "question": "During which month Brazil's climate index saw the maximum significant dip?",
+        "gold": "May '19",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "dec '18"
+        }
+    },
+    {
+        "imgname": "two_col_1311",
+        "question": "What was the inflation rate in Russia in 2020?",
+        "gold": "3.38",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.5
+        }
+    },
+    {
+        "imgname": "multi_col_60983",
+        "question": "What is the male life expectancy in 2015?",
+        "gold": "71.35",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 78.65
+        }
+    },
+    {
+        "imgname": "two_col_1239",
+        "question": "What percentage of the U.S. GDP were defense outlays in 2019?",
+        "gold": "3.2",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 3.5
+        }
+    },
+    {
+        "imgname": "two_col_82905",
+        "question": "Which year saw a highest cost?",
+        "gold": "2018/19",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "2000/01"
+        }
+    },
+    {
+        "imgname": "multi_col_100053",
+        "question": "What is the blue line data in 2014?",
+        "gold": "5.2",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.5
+        }
+    },
+    {
+        "imgname": "two_col_63572",
+        "question": "Was the wholesale price index of electrical equipment in the FY 2017 more then FY 2018?",
+        "gold": "No",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes",
+            "misrepresentation": "yes"
+        }
+    },
+    {
+        "imgname": "two_col_22494",
+        "question": "What was the largest amount of premiums in the second quarter of 2014?",
+        "gold": "9.6",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 8.766666666666667,
+            "misrepresentation": 8.85
+        }
+    },
+    {
+        "imgname": "multi_col_100516",
+        "question": "How many women were in El Salvador in 2018?",
+        "gold": "3.41",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.0
+        }
+    },
+    {
+        "imgname": "multi_col_100516",
+        "question": "How many men lived in El Salvador in 2018?",
+        "gold": "3.01",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.3666666666666667,
+            "misrepresentation": 3.4
+        }
+    },
+    {
+        "imgname": "multi_col_100194",
+        "question": "What was the female population of Liberia in 2019?",
+        "gold": "2.46",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2.6999999999999997
+        }
+    },
+    {
+        "imgname": "two_col_43595",
+        "question": "What was the peak sales volume of second hand goods in the first quarter of 2019?",
+        "gold": "133.7",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 120.15
+        }
+    },
+    {
+        "imgname": "two_col_43202",
+        "question": "What is the median value of Economic Confidence Index from Dec '16 to Feb'17?",
+        "gold": "9",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 8.0
+        }
+    },
+    {
+        "imgname": "two_col_20986",
+        "question": "How many autos did U.S. auto shoppers buy in 2020?",
+        "gold": "3.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.7
+        }
+    },
+    {
+        "imgname": "two_col_104093",
+        "question": "How many years have a percentage below 20%?",
+        "gold": "7",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 6.0
+        }
+    },
+    {
+        "imgname": "two_col_20267",
+        "question": "What was North Carolina's highest unemployment rate in 2009?",
+        "gold": "11",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 7.8
+        }
+    },
+    {
+        "imgname": "two_col_82495",
+        "question": "What was the expenditure on defense as a percentage of the GDP in 2008?",
+        "gold": "0.96",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.8666666666666667
+        }
+    },
+    {
+        "imgname": "two_col_100247",
+        "question": "In which month and day was the highest peak of support for the blockade?",
+        "gold": "March 23",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "february 24",
+            "misrepresentation": "march 16"
+        }
+    },
+    {
+        "imgname": "multi_col_1070",
+        "question": "How much money did consumers spend on adult Halloween costumes in 2017?",
+        "gold": "1.68",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1.2
+        }
+    },
+    {
+        "imgname": "multi_col_977",
+        "question": "How many marriages were registered per thousand inhabitants in Russia in 2020?",
+        "gold": "5.3",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 3.9
+        }
+    },
+    {
+        "imgname": "multi_col_80960",
+        "question": "When did the total number of goods reach the peak?",
+        "gold": "October",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "november"
+        }
+    },
+    {
+        "imgname": "two_col_82767",
+        "question": "How much did construction costs increase in 2018 compared to the previous year?",
+        "gold": "2.6",
+        "question_class": "Compositional",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.2
+        }
+    },
+    {
+        "imgname": "multi_col_101045",
+        "question": "What was the male population of Angola in 2019?",
+        "gold": "15.74",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 16.7
+        }
+    }
+]

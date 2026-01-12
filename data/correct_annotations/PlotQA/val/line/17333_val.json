@@ -1,0 +1,67 @@
+{
+    "title": "Arm exports and imports in United Kingdom",
+    "legend": {
+        "Arms exports": "#808000",
+        "Arms imports": "#FF8C00"
+    },
+    "x_axis": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "y_axis_label": "Export or import quantity",
+    "data": [
+        {
+            "label": "Arms exports",
+            "color": "#808000",
+            "values": [
+                1493000000,
+                1677000000,
+                2418000000,
+                1428000000,
+                1380000000
+            ]
+        },
+        {
+            "label": "Arms imports",
+            "color": "#FF8C00",
+            "values": [
+                492000000,
+                568000000,
+                508000000,
+                749000000,
+                125000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 125000000,
+                "max_value": 2418000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

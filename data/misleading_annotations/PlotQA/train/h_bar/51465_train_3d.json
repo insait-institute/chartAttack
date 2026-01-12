@@ -1,0 +1,56 @@
+{
+    "title": "Number of teachers providing primary vs secondary education in different countries",
+    "legend": {
+        "Cabo Verde": "#66CDAA",
+        "Lao PDR": "#8A2BE2",
+        "Tonga": "#8FBC8F"
+    },
+    "categories": [
+        "Primary education",
+        "Secondary Education"
+    ],
+    "data": {
+        "Cabo Verde": [
+            2955,
+            3624
+        ],
+        "Lao PDR": [
+            34311,
+            30873
+        ],
+        "Tonga": [
+            670,
+            1116
+        ]
+    },
+    "colors": {
+        "Cabo Verde": "#66CDAA",
+        "Lao PDR": "#8A2BE2",
+        "Tonga": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34320
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

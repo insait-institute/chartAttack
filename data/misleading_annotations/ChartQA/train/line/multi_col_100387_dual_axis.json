@@ -1,0 +1,96 @@
+{
+    "title": "",
+    "y_axis_label": "Life expectancy at birth in years",
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "legend": {
+        "female": "#2876dd",
+        "male": "#0f283e"
+    },
+    "data": [
+        {
+            "label": "female",
+            "color": "#2876dd",
+            "values": [
+                82.7,
+                83.1,
+                83.0,
+                83.1,
+                83.1,
+                83.5,
+                83.4,
+                83.6,
+                84.0,
+                84.1,
+                84.3
+            ]
+        },
+        {
+            "label": "male",
+            "color": "#0f283e",
+            "values": [
+                77.8,
+                78.5,
+                78.6,
+                78.7,
+                78.9,
+                79.3,
+                79.6,
+                79.8,
+                80.4,
+                80.5,
+                80.4
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 82.7,
+                "max_value": 84.3
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 77.8,
+                "max_value": 80.5
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

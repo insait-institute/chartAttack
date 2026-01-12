@@ -1,0 +1,86 @@
+{
+    "title": "",
+    "legend": {
+        "Hotels": "#2876dd"
+    },
+    "categories": [
+        "Starwood Hotels and Resorts",
+        "Marriott International",
+        "Hilton Worldwide",
+        "Shangri-La Hotels & Resorts",
+        "Wyndham Worldwide",
+        "InterContinental Hotels Group",
+        "Millennium & Copthorne Hotels",
+        "Peninsula",
+        "Hyatt Hotels Corp.",
+        "Accor",
+        "Choice Hotels International",
+        "Mandarin Oriental Hotel Group",
+        "Extended Stay America",
+        "China Lodging Group",
+        "La Quinta Inns & Suites",
+        "Home Inns",
+        "Steigenberger Hotel Group",
+        "Red Lion Hotels Corp.",
+        "Orient-Express Hotels",
+        "Morgans Hotel Group",
+        "NH Hoteles",
+        "Taj Hotels, Resorts and Palaces*",
+        "Melia Hotels International"
+    ],
+    "data": {
+        "Hotels": [
+            635,
+            626,
+            460,
+            441.1,
+            432,
+            420,
+            251.9,
+            220.8,
+            207,
+            191.3,
+            112.6,
+            96.8,
+            82.7,
+            46.2,
+            44.5,
+            32.1,
+            27.1,
+            -14,
+            -31.5,
+            -44.1,
+            -54.8,
+            -78.7,
+            -97.9
+        ]
+    },
+    "colors": {
+        "Hotels": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 640
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

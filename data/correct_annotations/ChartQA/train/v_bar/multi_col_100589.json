@@ -1,0 +1,63 @@
+{
+    "title": "Number of employees",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of employees"
+    },
+    "legend": {
+        "Full-time": "#2876dd",
+        "Part-time": "#0f283e"
+    },
+    "data": {
+        "Full-time": [
+            785,
+            750,
+            540,
+            380,
+            350,
+            234
+        ],
+        "Part-time": [
+            335,
+            335,
+            290,
+            240,
+            210,
+            178
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 790
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

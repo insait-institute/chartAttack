@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of votes received",
+    "x_axis": {
+        "categories": [
+            "Bill Clinton",
+            "George H. W. Bush",
+            "Ross Perot"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of votes received"
+    },
+    "legend": {
+        "Electoral vote": "#2876dd",
+        "Popular vote": "#0f283e"
+    },
+    "data": {
+        "Electoral vote": [
+            68.77,
+            31.23,
+            0
+        ],
+        "Popular vote": [
+            43,
+            37.4,
+            18.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

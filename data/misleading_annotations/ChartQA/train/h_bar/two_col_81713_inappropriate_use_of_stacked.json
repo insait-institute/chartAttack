@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "Rai": "#f27979",
+        "Mediaset": "#f2cf00",
+        "Sky": "#9bf279",
+        "Discovery": "#00a55e",
+        "La7": "#5282a5",
+        "MTV-Viacom": "#2f00a5",
+        "Fox": "#f279e0"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Rai": [
+            36.6
+        ],
+        "Mediaset": [
+            33.6
+        ],
+        "Sky": [
+            6.4
+        ],
+        "Discovery": [
+            5.9
+        ],
+        "La7": [
+            5.5
+        ],
+        "MTV-Viacom": [
+            2.1
+        ],
+        "Fox": [
+            0.8
+        ]
+    },
+    "colors": {
+        "Rai": "#f27979",
+        "Mediaset": "#f2cf00",
+        "Sky": "#9bf279",
+        "Discovery": "#00a55e",
+        "La7": "#5282a5",
+        "MTV-Viacom": "#2f00a5",
+        "Fox": "#f279e0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

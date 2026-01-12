@@ -1,0 +1,68 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in South Asia",
+    "legend": {
+        "Belarus": "#5F9EA0",
+        "St. Lucia": "#4B0082",
+        "Vietnam": "#008080"
+    },
+    "categories": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "data": {
+        "Belarus": [
+            0.243987462119689,
+            0.318412504910629,
+            0.346998631817219,
+            0.320434859998286,
+            0.302659446968499
+        ],
+        "St. Lucia": [
+            0.209440882609729,
+            0.190679738126786,
+            0.278769744792023,
+            0.390689472895426,
+            0.410387784769545
+        ],
+        "Vietnam": [
+            0.840811521133802,
+            0.8766651944002231,
+            1.10018686439007,
+            1.32050642449732,
+            1.33850686034649
+        ]
+    },
+    "colors": {
+        "Belarus": "#5F9EA0",
+        "St. Lucia": "#4B0082",
+        "Vietnam": "#008080"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

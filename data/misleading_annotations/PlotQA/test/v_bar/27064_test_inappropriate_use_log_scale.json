@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of population having access to non-solid fuels",
+    "x_axis": {
+        "categories": [
+            "Greece",
+            "Grenada",
+            "Guatemala",
+            "Guinea",
+            "Guinea-Bissau",
+            "Guyana"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#FF7F50",
+        "2000": "#FFD700",
+        "2010": "#FF00FF"
+    },
+    "data": {
+        "1990": [
+            100.0,
+            72.23247587680821,
+            37.6986384391785,
+            1.9999980926514,
+            1.9999980926514,
+            74.3858337402344
+        ],
+        "2000": [
+            100.0,
+            88.6945568025112,
+            39.8710370063782,
+            2.0795285701752,
+            2.2840797901154,
+            85.6637746095657
+        ],
+        "2010": [
+            100.0,
+            99.60463563911621,
+            37.2891902923583,
+            2.27952003478999,
+            1.9999980926514,
+            92.19027906656271
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

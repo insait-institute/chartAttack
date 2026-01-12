@@ -1,0 +1,115 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 1999",
+    "x_axis": {
+        "categories": [
+            "Mongolia",
+            "Namibia",
+            "Netherlands",
+            "Nicaragua",
+            "Oman",
+            "Pakistan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Compensation of employees": "#A0522D",
+        "Goods and services": "#BDB76B",
+        "Subsidies and Transfers": "#006400",
+        "Other expenses": "#DB7093"
+    },
+    "data": {
+        "Compensation of employees": [
+            12.5707714516405,
+            52.3402470421476,
+            8.47343731000365,
+            23.1314225689451,
+            33.2263897800852,
+            4.44616051687624
+        ],
+        "Goods and services": [
+            24.581732768956,
+            22.9005756602737,
+            6.73907060984429,
+            17.3926673064602,
+            49.5304205798285,
+            50.9564217142489
+        ],
+        "Subsidies and Transfers": [
+            72.9393995635284,
+            28.8961637138088,
+            11.3749052091233,
+            2.12050411917108,
+            25.91197543500511,
+            25.3192812262253
+        ],
+        "Other expenses": [
+            10.6712175832417,
+            5.95213511320894,
+            5.05105574137652,
+            8.37453301158826,
+            0.0987304103569591,
+            1.24725161292282
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Compensation of employees": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Goods and services": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Subsidies and Transfers": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Other expenses": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

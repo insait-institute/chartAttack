@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of the male workers employed in different sectors of an economy in 1996",
+    "legend": {
+        "OECD members": "#DC143C",
+        "Iran": "#00BFFF",
+        "St. Lucia": "#006400",
+        "United Kingdom": "#FF4500"
+    },
+    "categories": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Self-employed"
+    ],
+    "data": {
+        "OECD members": [
+            9.18739831722167,
+            35.849948504048,
+            54.58965546641021,
+            20.8718550301596
+        ],
+        "Iran": [
+            23.89999961853031,
+            30.2000007629395,
+            44.0999984741211,
+            45.5999984741211
+        ],
+        "St. Lucia": [
+            30.2000007629395,
+            25.39999961853031,
+            44.2999992370605,
+            41.2000007629395
+        ],
+        "United Kingdom": [
+            2.59999990463257,
+            38.2999992370605,
+            58.5999984741211,
+            17.2999992370605
+        ]
+    },
+    "colors": {
+        "OECD members": "#DC143C",
+        "Iran": "#00BFFF",
+        "St. Lucia": "#006400",
+        "United Kingdom": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

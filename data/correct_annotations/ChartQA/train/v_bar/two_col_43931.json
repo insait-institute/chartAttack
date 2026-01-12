@@ -1,0 +1,82 @@
+{
+    "title": "Number of NHS sight tests",
+    "x_axis": {
+        "categories": [
+            "2000/01",
+            "2001/02",
+            "2002/03",
+            "2003/04",
+            "2004/05",
+            "2005/06",
+            "2006/07",
+            "2007/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of NHS sight tests"
+    },
+    "legend": {
+        "NHS sight tests": "#2876dd"
+    },
+    "data": {
+        "NHS sight tests": [
+            9567135,
+            9807403,
+            9662052,
+            9845259,
+            10148978,
+            10354682,
+            10484922,
+            11047890,
+            11278474,
+            11811651,
+            11938529,
+            12305727,
+            12339253,
+            12787430,
+            12764485,
+            12979762,
+            12995512,
+            13032582,
+            13225755,
+            13355060
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13355060
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

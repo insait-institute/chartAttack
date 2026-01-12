@@ -1,0 +1,52 @@
+{
+    "title": "Unemployed male population in 1988 as per the survey report",
+    "legend": {
+        "Unemployment youth male": "#FFFF00"
+    },
+    "categories": [
+        "Japan",
+        "Korea (Republic)",
+        "Luxembourg",
+        "Mexico",
+        "Netherlands",
+        "New Zealand"
+    ],
+    "data": {
+        "Unemployment youth male": [
+            5.300000190734862,
+            9.80000019073486,
+            4.699999809265138,
+            3.20000004768372,
+            14.0,
+            11.1999998092651
+        ]
+    },
+    "colors": {
+        "Unemployment youth male": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

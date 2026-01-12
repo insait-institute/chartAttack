@@ -1,0 +1,56 @@
+{
+    "title": "Total female teachers in schools in 2000",
+    "legend": {
+        "Benin": "#D2691E",
+        "France": "#EE82EE",
+        "Tunisia": "#8B008B"
+    },
+    "categories": [
+        "Primary school",
+        "Secondary school"
+    ],
+    "data": {
+        "Benin": [
+            21.8802890777588,
+            12.2717504501343
+        ],
+        "France": [
+            79.8408432006835,
+            55.2048683166504
+        ],
+        "Tunisia": [
+            49.6519584655762,
+            39.1557083129883
+        ]
+    },
+    "colors": {
+        "Benin": "#D2691E",
+        "France": "#EE82EE",
+        "Tunisia": "#8B008B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

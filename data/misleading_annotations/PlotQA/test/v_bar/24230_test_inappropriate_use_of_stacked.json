@@ -1,0 +1,67 @@
+{
+    "title": "Schooling information of female students involved in an economic activity in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Gambia, The": "#f27979",
+        "Mozambique": "#c1f200",
+        "Nepal": "#52a574",
+        "South Sudan": "#0042a5",
+        "Sudan": "#da79f2"
+    },
+    "data": {
+        "Gambia, The": [
+            75.1
+        ],
+        "Mozambique": [
+            80.8490950970533
+        ],
+        "Nepal": [
+            83.7591854586088
+        ],
+        "South Sudan": [
+            21.7372397749375
+        ],
+        "Sudan": [
+            28.0030679265171
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Gambia, The": "#f27979",
+        "Mozambique": "#c1f200",
+        "Nepal": "#52a574",
+        "South Sudan": "#0042a5",
+        "Sudan": "#da79f2"
+    }
+}

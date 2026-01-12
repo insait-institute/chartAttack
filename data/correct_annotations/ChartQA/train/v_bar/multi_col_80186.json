@@ -1,0 +1,81 @@
+{
+    "title": "Number of mono-brand stores",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of mono-brand stores"
+    },
+    "legend": {
+        "Italy": "#2876dd",
+        "Europe*": "#0f283e",
+        "North America": "#bababa",
+        "Other countries": "#a60b0b"
+    },
+    "data": {
+        "Italy": [
+            421,
+            360,
+            352,
+            304,
+            286,
+            272
+        ],
+        "Europe*": [
+            350,
+            348,
+            346,
+            310,
+            285,
+            270
+        ],
+        "North America": [
+            44,
+            47,
+            48,
+            42,
+            37,
+            37
+        ],
+        "Other countries": [
+            410,
+            406,
+            415,
+            439,
+            407,
+            395
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 440
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

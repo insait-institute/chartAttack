@@ -1,0 +1,102 @@
+{
+    "title": "Total assets in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Total assets in billion U.S. dollars"
+    },
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#f27900",
+        "2011": "#f2f279",
+        "2012": "#79f200",
+        "2013": "#79f279",
+        "2014": "#00a552",
+        "2015": "#52a5a5",
+        "2016": "#0052a5",
+        "2017": "#5252a5",
+        "2018": "#5200a5",
+        "2019": "#f279f2",
+        "2020": "#f20079"
+    },
+    "data": {
+        "2009": [
+            1.05
+        ],
+        "2010": [
+            1.04
+        ],
+        "2011": [
+            1.02
+        ],
+        "2012": [
+            1.09
+        ],
+        "2013": [
+            1.12
+        ],
+        "2014": [
+            1.18
+        ],
+        "2015": [
+            1.23
+        ],
+        "2016": [
+            1.29
+        ],
+        "2017": [
+            1.33
+        ],
+        "2018": [
+            1.31
+        ],
+        "2019": [
+            2.84
+        ],
+        "2020": [
+            2.75
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#f27900",
+        "2011": "#f2f279",
+        "2012": "#79f200",
+        "2013": "#79f279",
+        "2014": "#00a552",
+        "2015": "#52a5a5",
+        "2016": "#0052a5",
+        "2017": "#5252a5",
+        "2018": "#5200a5",
+        "2019": "#f279f2",
+        "2020": "#f20079"
+    }
+}

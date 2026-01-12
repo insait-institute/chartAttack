@@ -1,0 +1,67 @@
+{
+    "title": "Primary income paid to resident workers of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "New Zealand": "#f27979",
+        "Nicaragua": "#c1f200",
+        "Pakistan": "#52a574",
+        "Panama": "#0042a5",
+        "Philippines": "#da79f2"
+    },
+    "data": {
+        "New Zealand": [
+            10795970858.0
+        ],
+        "Nicaragua": [
+            222000000.0
+        ],
+        "Pakistan": [
+            3172000000.0
+        ],
+        "Panama": [
+            2180400000.0
+        ],
+        "Philippines": [
+            4387056811.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 14679180450
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "New Zealand": "#f27979",
+        "Nicaragua": "#c1f200",
+        "Pakistan": "#52a574",
+        "Panama": "#0042a5",
+        "Philippines": "#da79f2"
+    }
+}

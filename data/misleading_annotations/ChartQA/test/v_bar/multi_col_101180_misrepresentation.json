@@ -1,0 +1,131 @@
+{
+    "title": "Length in statute miles",
+    "x_axis": {
+        "categories": [
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Length in statute miles"
+    },
+    "legend": {
+        "Oil pipeline": "#2876dd",
+        "Gas pipeline": "#0f283e"
+    },
+    "data": {
+        "Oil pipeline": [
+            166669,
+            166760,
+            166719,
+            169846,
+            173789,
+            175965,
+            181986,
+            183580,
+            186221,
+            192412,
+            199793,
+            208621,
+            212109,
+            215995,
+            219038,
+            225015
+        ],
+        "Gas pipeline": [
+            2253741,
+            2286573,
+            2343696,
+            2346840,
+            2398104,
+            2411625,
+            2426914,
+            2445692,
+            2457927,
+            2470078,
+            2488726,
+            2508575,
+            2528650,
+            2542592,
+            2558007,
+            2582603
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2582610
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "scaling_factors": {
+        "Oil pipeline": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.75,
+            0.25,
+            1.75,
+            1.75,
+            1.5,
+            0.25,
+            1.5,
+            1.25
+        ],
+        "Gas pipeline": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.75,
+            0.25,
+            1.75,
+            1.75,
+            1.5,
+            0.25,
+            1.5,
+            1.25
+        ]
+    }
+}

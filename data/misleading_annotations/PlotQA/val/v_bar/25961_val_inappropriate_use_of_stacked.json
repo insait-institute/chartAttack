@@ -1,0 +1,62 @@
+{
+    "title": "Number of secure internet servers",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Malta": "#f27979",
+        "Mauritius": "#79f200",
+        "Mexico": "#52a5a5",
+        "Moldova": "#5200a5"
+    },
+    "data": {
+        "Malta": [
+            58.5200036638611
+        ],
+        "Mauritius": [
+            10.0310377024911
+        ],
+        "Mexico": [
+            2.48466122215037
+        ],
+        "Moldova": [
+            0.826113559772896
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 260
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Malta": "#f27979",
+        "Mauritius": "#79f200",
+        "Mexico": "#52a5a5",
+        "Moldova": "#5200a5"
+    }
+}

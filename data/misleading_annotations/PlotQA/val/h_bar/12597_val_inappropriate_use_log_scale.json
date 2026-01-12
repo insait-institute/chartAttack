@@ -1,0 +1,76 @@
+{
+    "title": "Total enrollments in schools as per the survey of 1975 conducted in different countries",
+    "legend": {
+        "Pre-primary schools": "#808000",
+        "Primary schools": "#00FA9A",
+        "Secondary schools": "#00BFFF",
+        "Tertiary schools": "#FF7F50"
+    },
+    "categories": [
+        "Low income",
+        "Lower middle income",
+        "Middle East & North Africa (all income levels)",
+        "Middle East & North Africa (developing only)",
+        "Middle income"
+    ],
+    "data": {
+        "Pre-primary schools": [
+            5.373779773712161,
+            12.7412796020508,
+            9.95645046234131,
+            8.28546047210693,
+            8.4651403427124
+        ],
+        "Primary schools": [
+            94.3451919555664,
+            53.2228317260742,
+            80.0782012939453,
+            78.979881286621,
+            79.7033920288085
+        ],
+        "Secondary schools": [
+            34.5972099304199,
+            10.5281496047974,
+            28.8362903594971,
+            33.1861381530762,
+            32.5534591674805
+        ],
+        "Tertiary schools": [
+            4.74716997146606,
+            1.23952996730804,
+            6.13159990310669,
+            7.45178985595703,
+            7.36225986480713
+        ]
+    },
+    "colors": {
+        "Pre-primary schools": "#808000",
+        "Primary schools": "#00FA9A",
+        "Secondary schools": "#00BFFF",
+        "Tertiary schools": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

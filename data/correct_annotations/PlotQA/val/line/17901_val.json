@@ -1,0 +1,79 @@
+{
+    "title": "Annual rural vs urban population growth in Kuwait",
+    "legend": {
+        "Rural": "#EE82EE",
+        "Urban ": "#6B8E23"
+    },
+    "x_axis": [
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981",
+        "1982",
+        "1983",
+        "1984"
+    ],
+    "y_axis_label": "Population growth (in %)",
+    "data": [
+        {
+            "label": "Rural",
+            "color": "#EE82EE",
+            "values": [
+                -7.78496556338333,
+                -8.17101826115242,
+                -8.559049901481709,
+                -8.927907454028599,
+                -10.0319387194278,
+                -13.8763119574851,
+                -14.3778712710652,
+                -14.6429551737662,
+                -14.7329775564999
+            ]
+        },
+        {
+            "label": "Urban ",
+            "color": "#6B8E23",
+            "values": [
+                7.44613302161684,
+                7.016695141284112,
+                6.63286218786368,
+                6.28718345420267,
+                6.010331031024821,
+                5.731679962117401,
+                5.24977188496314,
+                4.979742302784191,
+                4.95337080874831
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -20,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

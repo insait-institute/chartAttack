@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Disaster Movies": "#2876dd"
+    },
+    "categories": [
+        "The Day After Tomorrow",
+        "Armageddon",
+        "2012",
+        "Independence Day",
+        "The Day the Earth Stood Still",
+        "I Am Legend",
+        "The Stand",
+        "Waterworld",
+        "Planet of the Apes",
+        "Other"
+    ],
+    "data": {
+        "Disaster Movies": [
+            37,
+            31,
+            30,
+            19,
+            19,
+            15,
+            10,
+            9,
+            7,
+            20
+        ]
+    },
+    "colors": {
+        "Disaster Movies": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

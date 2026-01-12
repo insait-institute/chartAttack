@@ -1,0 +1,106 @@
+{
+    "title": "Net Official DA received as a percentage of gross capital formation",
+    "x_axis": {
+        "categories": [
+            "Peru",
+            "Philippines",
+            "Rwanda",
+            "Senegal",
+            "Thailand"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#B03060",
+        "1961": "#CD5C5C",
+        "1962": "#FFFF00",
+        "1963": "#D2691E"
+    },
+    "data": {
+        "1960": [
+            -1.13035428148042,
+            4.2840555285544,
+            104.58333322875,
+            0.416067175825971,
+            10.29369145929931
+        ],
+        "1961": [
+            -1.76712798975642,
+            1.28747679096135,
+            89.74999991025,
+            0.645066491047023,
+            6.55006646617758
+        ],
+        "1962": [
+            0.474208528601084,
+            3.44157643771213,
+            110.5999998894,
+            41.064257332733,
+            6.37998134319324
+        ],
+        "1963": [
+            0.917366416936014,
+            2.04603643627556,
+            67.1999999328,
+            25.75065807132311,
+            5.1761552477992
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1963": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

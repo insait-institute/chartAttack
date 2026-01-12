@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of anaemic women in Hungary",
+    "legend": {
+        "1998": "#f27979",
+        "1999": "#f2f200",
+        "2000": "#79f279",
+        "2001": "#00a5a5",
+        "2002": "#5252a5",
+        "2003": "#a500a5"
+    },
+    "categories": [
+        "Percentage of anaemic women in Hungary"
+    ],
+    "data": {
+        "1998": [
+            23.3
+        ],
+        "1999": [
+            23.3
+        ],
+        "2000": [
+            23.3
+        ],
+        "2001": [
+            23.3
+        ],
+        "2002": [
+            23.4
+        ],
+        "2003": [
+            23.5
+        ]
+    },
+    "colors": {
+        "1998": "#f27979",
+        "1999": "#f2f200",
+        "2000": "#79f279",
+        "2001": "#00a5a5",
+        "2002": "#5252a5",
+        "2003": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

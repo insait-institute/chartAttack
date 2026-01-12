@@ -1,0 +1,64 @@
+{
+    "title": "CO2 emissions from manufacturing industries and construction",
+    "legend": {
+        "Macedonia": "#87CEEB",
+        "Pakistan": "#40E0D0",
+        "Saudi Arabia": "#90EE90"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Macedonia": [
+            14.4284128745838,
+            9.76190476190476,
+            15.0851581508516,
+            15.7497303128371
+        ],
+        "Pakistan": [
+            32.1715422592292,
+            31.9713261648746,
+            31.6446348127908,
+            30.9626805484273
+        ],
+        "Saudi Arabia": [
+            24.2572614107884,
+            24.3812894535274,
+            26.3613354224418,
+            25.153574087863
+        ]
+    },
+    "colors": {
+        "Macedonia": "#87CEEB",
+        "Pakistan": "#40E0D0",
+        "Saudi Arabia": "#90EE90"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

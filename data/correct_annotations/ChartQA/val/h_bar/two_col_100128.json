@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Atlanta Falcons": "#2876dd"
+    },
+    "categories": [
+        "Roddy White",
+        "Michael Turner",
+        "Julio Jones",
+        "Terance Mathis",
+        "Andre Rison",
+        "Gerald Riggs",
+        "Devonta Freeman",
+        "Jamal Anderson",
+        "William Andrews",
+        "Alfred Jenkins",
+        "Warrick Dunn",
+        "Alge Crumpler",
+        "Tony Gonzalez",
+        "Michael Haynes",
+        "T.J. Duckett",
+        "Jim Mitchell",
+        "Tevin Coleman",
+        "Wallace Francis",
+        "Haskel Stanback",
+        "Calvin Ridley"
+    ],
+    "data": {
+        "Atlanta Falcons": [
+            63,
+            61,
+            61,
+            57,
+            56,
+            48,
+            43,
+            41,
+            41,
+            40,
+            36,
+            35,
+            35,
+            34,
+            31,
+            31,
+            29,
+            28,
+            26,
+            26
+        ]
+    },
+    "colors": {
+        "Atlanta Falcons": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

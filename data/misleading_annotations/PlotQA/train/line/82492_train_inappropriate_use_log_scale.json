@@ -1,0 +1,79 @@
+{
+    "title": "Land Geography of Philippines",
+    "legend": {
+        "Forest land": "#8B0000",
+        "Agricultural land": "#191970"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Area (% of total land area)",
+    "data": [
+        {
+            "label": "Forest land",
+            "color": "#8B0000",
+            "values": [
+                23.25049468424049,
+                23.4087936412114,
+                23.5670925981822,
+                23.598618237918,
+                23.63014387765369,
+                23.6616695173894,
+                23.6931951571251,
+                23.7247207968609,
+                23.5677633564745
+            ]
+        },
+        {
+            "label": "Agricultural land",
+            "color": "#191970",
+            "values": [
+                27.6704888352444,
+                27.861597264132,
+                27.7576611010528,
+                28.26393079863211,
+                28.8233913422526,
+                29.7193064824441,
+                30.82805111178189,
+                32.4445785961029,
+                33.8397558439816
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

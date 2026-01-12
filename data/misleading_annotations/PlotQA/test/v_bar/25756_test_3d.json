@@ -1,0 +1,64 @@
+{
+    "title": "Total reserves (excluding gold) of a country",
+    "x_axis": {
+        "categories": [
+            "Haiti",
+            "Honduras",
+            "Iceland",
+            "India"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#4682B4",
+        "1961": "#8FBC8F",
+        "1962": "#FF1493"
+    },
+    "data": {
+        "1960": [
+            4300000.0,
+            13210000.0,
+            11300000.0,
+            423000000.0
+        ],
+        "1961": [
+            3000000.0,
+            12220000.0,
+            22900000.0,
+            418000000.0
+        ],
+        "1962": [
+            2200000.0,
+            13190000.0,
+            30900000.0,
+            265000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 423000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

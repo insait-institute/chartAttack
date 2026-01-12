@@ -1,0 +1,72 @@
+{
+    "title": "Information and communication technology goods imported",
+    "legend": {
+        "2000": "#20B2AA",
+        "2001": "#9ACD32",
+        "2002": "#556B2F"
+    },
+    "categories": [
+        "Philippines",
+        "Poland",
+        "Portugal",
+        "Romania",
+        "Russian Federation",
+        "Sao Tome and Principe"
+    ],
+    "data": {
+        "2000": [
+            38.0824748495,
+            9.3480086098,
+            7.726781181000002,
+            9.8581601173,
+            3.677394128,
+            0.9334970407
+        ],
+        "2001": [
+            42.4109616324,
+            9.0623873425,
+            8.6296405747,
+            7.3567338082,
+            5.09698917,
+            2.8170437083
+        ],
+        "2002": [
+            51.4769379908,
+            8.3688338529,
+            8.1228780646,
+            7.4375697377,
+            5.9819963271,
+            8.167561643300001
+        ]
+    },
+    "colors": {
+        "2000": "#20B2AA",
+        "2001": "#9ACD32",
+        "2002": "#556B2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

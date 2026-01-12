@@ -1,0 +1,82 @@
+{
+    "title": "Different expenses of government of Namibia",
+    "legend": {
+        "Salary of employees": "#8FBC8F",
+        "Custom duties": "#66CDAA",
+        "Interest Payments": "#BA55D3",
+        "Other expenses": "#FFD700"
+    },
+    "categories": [
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "data": {
+        "Salary of employees": [
+            1522200000,
+            1582100000,
+            1756100000,
+            2086800000,
+            2649700000,
+            2830500000
+        ],
+        "Custom duties": [
+            735500000,
+            2877710000,
+            2642650000,
+            2598433000,
+            3036389000,
+            4207156000
+        ],
+        "Interest Payments": [
+            21600000,
+            70000000,
+            117500000,
+            145100000,
+            250500000,
+            350100000
+        ],
+        "Other expenses": [
+            6913800000,
+            7726644000,
+            9200247000,
+            10215024000,
+            11078046000,
+            11286663000
+        ]
+    },
+    "colors": {
+        "Salary of employees": "#8FBC8F",
+        "Custom duties": "#66CDAA",
+        "Interest Payments": "#BA55D3",
+        "Other expenses": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11286663000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

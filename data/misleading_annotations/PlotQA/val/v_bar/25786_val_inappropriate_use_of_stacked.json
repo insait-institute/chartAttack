@@ -1,0 +1,52 @@
+{
+    "title": "Net savings of an economy in 1981",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Net savings(excluding particulate emission damage)": "#f27979",
+        "Net National savings": "#00a5a5"
+    },
+    "data": {
+        "Net savings(excluding particulate emission damage)": [
+            768414962.809947
+        ],
+        "Net National savings": [
+            977072075.5023428
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3274232300
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Net savings(excluding particulate emission damage)": "#f27979",
+        "Net National savings": "#00a5a5"
+    }
+}

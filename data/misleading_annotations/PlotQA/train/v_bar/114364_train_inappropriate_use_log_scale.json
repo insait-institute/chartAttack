@@ -1,0 +1,60 @@
+{
+    "title": "Plot of number of days required to import the goods",
+    "x_axis": {
+        "categories": [
+            "Saudi Arabia",
+            "Senegal",
+            "Singapore"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2007": "#FFA07A",
+        "2010": "#FFD700",
+        "2012": "#BC8F8F"
+    },
+    "data": {
+        "2007": [
+            6.6,
+            5.2,
+            2.2
+        ],
+        "2010": [
+            6.32,
+            2.65,
+            1.78
+        ],
+        "2012": [
+            6.0,
+            9.0,
+            2.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

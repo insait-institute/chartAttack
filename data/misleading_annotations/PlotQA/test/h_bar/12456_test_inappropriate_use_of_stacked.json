@@ -1,0 +1,57 @@
+{
+    "title": "Expenses (in %) made by the government on interest payments",
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#79f200",
+        "2010": "#52a5a5",
+        "2011": "#5200a5"
+    },
+    "categories": [
+        "Expenses (in %) made by the government on interest payments"
+    ],
+    "data": {
+        "2008": [
+            5.022956841138661
+        ],
+        "2009": [
+            5.204345506964558
+        ],
+        "2010": [
+            5.087653169441499
+        ],
+        "2011": [
+            5.073888541014401
+        ]
+    },
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#79f200",
+        "2010": "#52a5a5",
+        "2011": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

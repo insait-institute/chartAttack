@@ -1,0 +1,59 @@
+{
+    "title": "Balance of payments recorded for exporting services",
+    "legend": {
+        "2005": "#8B4513",
+        "2006": "#BEBEBE",
+        "2007": "#D2B48C"
+    },
+    "categories": [
+        "Albania",
+        "Argentina",
+        "Armenia"
+    ],
+    "data": {
+        "2005": [
+            1687443389.5,
+            51204020000.0,
+            1943703724.8
+        ],
+        "2006": [
+            2201687890.5,
+            60116470000.0,
+            2302670547.9
+        ],
+        "2007": [
+            2846824201.0,
+            72793890000.0,
+            2924909839.4
+        ]
+    },
+    "colors": {
+        "2005": "#8B4513",
+        "2006": "#BEBEBE",
+        "2007": "#D2B48C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 72793890000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

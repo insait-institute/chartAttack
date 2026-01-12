@@ -1,0 +1,62 @@
+{
+    "title": "Total male labor force participation rate for ages 60+",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#c1f200",
+        "2006": "#52a574",
+        "2007": "#0042a5",
+        "2008": "#da79f2"
+    },
+    "categories": [
+        "Total male labor force participation rate for ages 60+"
+    ],
+    "data": {
+        "2004": [
+            77.110745282726
+        ],
+        "2005": [
+            77.3324510098625
+        ],
+        "2006": [
+            76.55520718298571
+        ],
+        "2007": [
+            76.4870810551092
+        ],
+        "2008": [
+            76.21332707226141
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#c1f200",
+        "2006": "#52a574",
+        "2007": "#0042a5",
+        "2008": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

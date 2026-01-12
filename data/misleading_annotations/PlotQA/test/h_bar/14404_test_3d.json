@@ -1,0 +1,82 @@
+{
+    "title": "Net bilateral aid flow in an economy from Ireland",
+    "legend": {
+        "1974": "#40E0D0",
+        "1975": "#808000",
+        "1976": "#7FFFD4",
+        "1977": "#BEBEBE"
+    },
+    "categories": [
+        "Latin America(developing only)",
+        "Least developed countries",
+        "Low & middle income",
+        "Low income",
+        "Lower middle income",
+        "Middle East & North Africa (all income levels)"
+    ],
+    "data": {
+        "1974": [
+            10000.0,
+            60000.0,
+            1030000.0,
+            20000.0,
+            420000.0,
+            30000.0
+        ],
+        "1975": [
+            10000.0,
+            150000.0,
+            870000.0,
+            140000.0,
+            100000.0,
+            10000.0
+        ],
+        "1976": [
+            50000.0,
+            430000.0,
+            1370000.0,
+            310000.0,
+            270000.0,
+            20000.0
+        ],
+        "1977": [
+            10000.0,
+            830000.0,
+            1710000.0,
+            230000.0,
+            700000.0,
+            20000.0
+        ]
+    },
+    "colors": {
+        "1974": "#40E0D0",
+        "1975": "#808000",
+        "1976": "#7FFFD4",
+        "1977": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1710000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

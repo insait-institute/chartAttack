@@ -1,0 +1,56 @@
+{
+    "title": "Value added in manufacturing in 2005",
+    "x_axis": {
+        "categories": [
+            "Chemicals",
+            "Food and tobacco"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Estonia": "#A020F0",
+        "Ireland": "#87CEEB",
+        "Morocco": "#4B0082"
+    },
+    "data": {
+        "Estonia": [
+            4.93357794216811,
+            12.642067674627
+        ],
+        "Ireland": [
+            35.1191348441298,
+            17.5346560762207
+        ],
+        "Morocco": [
+            14.1917168179441,
+            19.2145613697378
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

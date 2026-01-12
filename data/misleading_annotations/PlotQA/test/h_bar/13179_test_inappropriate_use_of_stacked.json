@@ -1,0 +1,57 @@
+{
+    "title": "Expenses (in %) made by the government on goods and services",
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#79f200",
+        "2008": "#52a5a5",
+        "2009": "#5200a5"
+    },
+    "categories": [
+        "Expenses (in %) made by the government on goods and services"
+    ],
+    "data": {
+        "2006": [
+            57.2163766333674
+        ],
+        "2007": [
+            66.5901367809826
+        ],
+        "2008": [
+            72.458784315372
+        ],
+        "2009": [
+            71.7241186786376
+        ]
+    },
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#79f200",
+        "2008": "#52a5a5",
+        "2009": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

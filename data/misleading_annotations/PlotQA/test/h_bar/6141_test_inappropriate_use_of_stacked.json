@@ -1,0 +1,67 @@
+{
+    "title": "Periodicty and timeliness assessment of statistical capacity",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#f2f200",
+        "2006": "#79f279",
+        "2007": "#00a5a5",
+        "2008": "#5252a5",
+        "2009": "#a500a5"
+    },
+    "categories": [
+        "Periodicty and timeliness assessment of statistical capacity"
+    ],
+    "data": {
+        "2004": [
+            90.0
+        ],
+        "2005": [
+            90.0
+        ],
+        "2006": [
+            90.0
+        ],
+        "2007": [
+            90.0
+        ],
+        "2008": [
+            93.33333
+        ],
+        "2009": [
+            93.33333
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#f2f200",
+        "2006": "#79f279",
+        "2007": "#00a5a5",
+        "2008": "#5252a5",
+        "2009": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

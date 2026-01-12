@@ -1,0 +1,81 @@
+{
+    "title": "Percentage of total fuel imported from different countries",
+    "x_axis": {
+        "categories": [
+            "Japan",
+            "Mexico",
+            "Netherlands",
+            "Paraguay",
+            "Philippines",
+            "Portugal"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#483D8B",
+        "1963": "#8A2BE2",
+        "1964": "#FF7F50",
+        "1965": "#0000FF"
+    },
+    "data": {
+        "1962": [
+            18.4743040845683,
+            2.74710248420855,
+            25.78745526375561,
+            15.299500454088,
+            10.1959555815594,
+            10.6414175308681
+        ],
+        "1963": [
+            17.97435338739411,
+            2.87868644472495,
+            12.4132392840376,
+            18.0306447018362,
+            11.2888402671459,
+            10.4721680145647
+        ],
+        "1964": [
+            17.731062656574,
+            2.49020255295383,
+            11.2192654144305,
+            16.6812883408739,
+            10.6685291639933,
+            9.17076884506087
+        ],
+        "1965": [
+            19.87979217384,
+            2.415566897306089,
+            10.3526177673395,
+            14.1826381170682,
+            9.97004956971303,
+            8.37322032289127
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

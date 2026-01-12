@@ -1,0 +1,64 @@
+{
+    "title": "Male mortality rate in countries",
+    "legend": {
+        "1960": "#BA55D3",
+        "1961": "#B8860B",
+        "1962": "#0000FF"
+    },
+    "categories": [
+        "Sierra Leone",
+        "Singapore",
+        "Solomon Islands",
+        "Somalia"
+    ],
+    "data": {
+        "1960": [
+            544.595,
+            269.7052,
+            398.989,
+            517.624
+        ],
+        "1961": [
+            541.383,
+            265.6886,
+            393.468,
+            512.988
+        ],
+        "1962": [
+            538.17,
+            261.672,
+            387.946,
+            508.351
+        ]
+    },
+    "colors": {
+        "1960": "#BA55D3",
+        "1961": "#B8860B",
+        "1962": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 550
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

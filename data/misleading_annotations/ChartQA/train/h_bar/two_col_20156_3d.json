@@ -1,0 +1,52 @@
+{
+    "title": "Average number of segments purchased",
+    "legend": {
+        "Segments Purchased": "#2876dd"
+    },
+    "categories": [
+        "18 to 24 years",
+        "25 to 34 years",
+        "35 to 44 years",
+        "45 to 54 years",
+        "55 to 64 years",
+        "65 to 74 years"
+    ],
+    "data": {
+        "Segments Purchased": [
+            9.1,
+            9.8,
+            7.7,
+            6.1,
+            5.2,
+            5.1
+        ]
+    },
+    "colors": {
+        "Segments Purchased": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

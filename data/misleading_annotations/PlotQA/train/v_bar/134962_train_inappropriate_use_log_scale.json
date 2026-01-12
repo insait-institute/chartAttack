@@ -1,0 +1,61 @@
+{
+    "title": "Claims on the different sectors of the domestic economy of different countries",
+    "x_axis": {
+        "categories": [
+            "Central government",
+            "State government"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Comoros": "#00FF00",
+        "Dominica": "#228B22",
+        "Fiji": "#4169E1",
+        "Poland": "#EE82EE"
+    },
+    "data": {
+        "Comoros": [
+            1.30170543968195,
+            9.3291416115877
+        ],
+        "Dominica": [
+            1.7785489,
+            50.0246
+        ],
+        "Fiji": [
+            38.1799290056469,
+            73.4049581268564
+        ],
+        "Poland": [
+            6.5646007438175,
+            32.075632615474
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Trade statistics with developing economies outside region in 1970",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Jordan": "#008B8B",
+        "Romania": "#90EE90",
+        "Spain": "#228B22"
+    },
+    "data": {
+        "Jordan": [
+            6.86619718309859,
+            10.678713329342
+        ],
+        "Romania": [
+            12.6022264458322,
+            8.18057455540356
+        ],
+        "Spain": [
+            15.1911868690038,
+            16.5118311727973
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,73 @@
+{
+    "title": "CO2 emissions from different sources in Ireland",
+    "legend": {
+        "Electricity and heat production": "#00FF7F",
+        "Manufacturing industries and construction": "#00FA9A"
+    },
+    "x_axis": [
+        "1966",
+        "1967",
+        "1968",
+        "1969",
+        "1970",
+        "1971",
+        "1972"
+    ],
+    "y_axis_label": "CO2 emissions (% of total fuel combustion)",
+    "data": [
+        {
+            "label": "Electricity and heat production",
+            "color": "#00FF7F",
+            "values": [
+                29.3180369662205,
+                29.9705014749263,
+                31.9080705505077,
+                31.5653964984552,
+                30.6393861892583,
+                31.5377532228361,
+                31.7438055165965
+            ]
+        },
+        {
+            "label": "Manufacturing industries and construction",
+            "color": "#00FA9A",
+            "values": [
+                22.0522625876354,
+                23.4218289085546,
+                20.2565473009086,
+                21.7816683831102,
+                23.3759590792839,
+                25.4604051565378,
+                24.7311827956989
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

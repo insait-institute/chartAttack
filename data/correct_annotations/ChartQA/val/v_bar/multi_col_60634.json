@@ -1,0 +1,69 @@
+{
+    "title": "Emissions in million metric tons",
+    "x_axis": {
+        "categories": [
+            "1980",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011"
+        ]
+    },
+    "y_axis": {
+        "label": "Emissions in million metric tons"
+    },
+    "legend": {
+        "Emissions from operations*": "#2876dd",
+        "Avoided emissions**": "#0f283e"
+    },
+    "data": {
+        "Emissions from operations*": [
+            69,
+            47,
+            48,
+            45,
+            42,
+            40,
+            38,
+            37
+        ],
+        "Avoided emissions**": [
+            73,
+            224,
+            235,
+            244,
+            253,
+            260,
+            269,
+            277
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

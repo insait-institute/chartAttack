@@ -1,0 +1,52 @@
+{
+    "title": "Prevalence of health issues in children under 5 in different countries in 1980",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Stunting": "#f27979",
+        "Underweight": "#00a5a5"
+    },
+    "data": {
+        "Stunting": [
+            8.300000190734862
+        ],
+        "Underweight": [
+            3.20000004768372
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Stunting": "#f27979",
+        "Underweight": "#00a5a5"
+    }
+}

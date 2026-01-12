@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of male children (ages 7-14) in employment in 2005",
+    "legend": {
+        "Self-employed": "#00FF7F",
+        "Unpaid family workers": "#808000",
+        "Wage workers": "#4682B4"
+    },
+    "categories": [
+        "Azerbaijan",
+        "Nicaragua",
+        "Paraguay"
+    ],
+    "data": {
+        "Self-employed": [
+            5.5,
+            1.45,
+            9.7
+        ],
+        "Unpaid family workers": [
+            93.2,
+            89.2,
+            73.7
+        ],
+        "Wage workers": [
+            1.6,
+            5.3,
+            12.0
+        ]
+    },
+    "colors": {
+        "Self-employed": "#00FF7F",
+        "Unpaid family workers": "#808000",
+        "Wage workers": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Use of IMF credit in 1972 in the Department of Defense of different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bangladesh": "#f27979",
+        "Bolivia": "#c1f200",
+        "Chad": "#52a574",
+        "Congo (Democratic)": "#0042a5",
+        "Dominican Republic": "#da79f2"
+    },
+    "data": {
+        "Bangladesh": [
+            67856000.0
+        ],
+        "Bolivia": [
+            8555000.0
+        ],
+        "Chad": [
+            2367000.0
+        ],
+        "Congo (Democratic)": [
+            30649000.0
+        ],
+        "Dominican Republic": [
+            4071000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 67856000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Bangladesh": "#f27979",
+        "Bolivia": "#c1f200",
+        "Chad": "#52a574",
+        "Congo (Democratic)": "#0042a5",
+        "Dominican Republic": "#da79f2"
+    }
+}

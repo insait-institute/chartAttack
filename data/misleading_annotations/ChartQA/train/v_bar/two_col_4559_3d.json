@@ -1,0 +1,80 @@
+{
+    "title": "Franchise value in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Franchise value in million U.S. dollars"
+    },
+    "legend": {
+        "Franchise Value": "#2876dd"
+    },
+    "data": {
+        "Franchise Value": [
+            784,
+            851,
+            923,
+            1063,
+            1173,
+            1500,
+            1612,
+            1650,
+            1805,
+            1850,
+            2100,
+            2300,
+            3200,
+            4000,
+            4200,
+            4800,
+            5000,
+            5500,
+            5700
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5700
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

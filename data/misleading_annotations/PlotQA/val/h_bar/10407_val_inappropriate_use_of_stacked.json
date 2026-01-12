@@ -1,0 +1,57 @@
+{
+    "title": "CPIA ratings of different policies in the year 2008",
+    "legend": {
+        "Gender equality": "#f27979",
+        "Social Protection": "#79f200",
+        "Quality of public administration": "#52a5a5",
+        "Public sector management": "#5200a5"
+    },
+    "categories": [
+        "CPIA ratings of different policies in the year 2008"
+    ],
+    "data": {
+        "Gender equality": [
+            2.5
+        ],
+        "Social Protection": [
+            2.5
+        ],
+        "Quality of public administration": [
+            2.5
+        ],
+        "Public sector management": [
+            2.2
+        ]
+    },
+    "colors": {
+        "Gender equality": "#f27979",
+        "Social Protection": "#79f200",
+        "Quality of public administration": "#52a5a5",
+        "Public sector management": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

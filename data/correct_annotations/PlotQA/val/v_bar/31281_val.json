@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of agricultural raw materials imported from different countries",
+    "x_axis": {
+        "categories": [
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "North America"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#6495ED",
+        "1963": "#D2691E",
+        "1964": "#000000",
+        "1965": "#B03060"
+    },
+    "data": {
+        "1962": [
+            12.4463800355277,
+            4.33434167983931,
+            4.118639376685191,
+            9.35967129228724
+        ],
+        "1963": [
+            11.191970332045,
+            4.52408865132712,
+            4.10644169400796,
+            9.20784870371837
+        ],
+        "1964": [
+            10.8473374035812,
+            4.87031730011116,
+            4.42653158662588,
+            8.57165388641232
+        ],
+        "1965": [
+            10.0180736854295,
+            4.88558403217834,
+            4.29263055758846,
+            7.81305313223757
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

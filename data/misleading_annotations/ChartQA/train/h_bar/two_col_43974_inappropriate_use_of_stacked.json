@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Edgar Martinez": "#f27979",
+        "Ichiro Suzuki": "#f29100",
+        "Ken Griffey Jr.": "#daf279",
+        "Jay Buhner": "#30f200",
+        "Kyle Seager": "#52a574",
+        "Dan Wilson": "#00a5a5",
+        "Alvin Davis": "#5274a5",
+        "Harold Reynolds": "#2100a5",
+        "Raul Ibanez": "#da79f2",
+        "Jose Lopez": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Edgar Martinez": [
+            2055.0
+        ],
+        "Ichiro Suzuki": [
+            1861.0
+        ],
+        "Ken Griffey Jr.": [
+            1685.0
+        ],
+        "Jay Buhner": [
+            1440.0
+        ],
+        "Kyle Seager": [
+            1321.0
+        ],
+        "Dan Wilson": [
+            1251.0
+        ],
+        "Alvin Davis": [
+            1166.0
+        ],
+        "Harold Reynolds": [
+            1155.0
+        ],
+        "Raul Ibanez": [
+            1110.0
+        ],
+        "Jose Lopez": [
+            873.0
+        ]
+    },
+    "colors": {
+        "Edgar Martinez": "#f27979",
+        "Ichiro Suzuki": "#f29100",
+        "Ken Griffey Jr.": "#daf279",
+        "Jay Buhner": "#30f200",
+        "Kyle Seager": "#52a574",
+        "Dan Wilson": "#00a5a5",
+        "Alvin Davis": "#5274a5",
+        "Harold Reynolds": "#2100a5",
+        "Raul Ibanez": "#da79f2",
+        "Jose Lopez": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

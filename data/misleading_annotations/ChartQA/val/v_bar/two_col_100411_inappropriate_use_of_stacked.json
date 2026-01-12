@@ -1,0 +1,67 @@
+{
+    "title": "Number of households",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of households"
+    },
+    "legend": {
+        "1 person": "#f27979",
+        "2 persons": "#c1f200",
+        "3 persons": "#52a574",
+        "4 persons": "#0042a5",
+        "5 or more persons": "#da79f2"
+    },
+    "data": {
+        "1 person": [
+            53755.0
+        ],
+        "2 persons": [
+            88715.0
+        ],
+        "3 persons": [
+            37700.0
+        ],
+        "4 persons": [
+            28270.0
+        ],
+        "5 or more persons": [
+            10235.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 88720
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "1 person": "#f27979",
+        "2 persons": "#c1f200",
+        "3 persons": "#52a574",
+        "4 persons": "#0042a5",
+        "5 or more persons": "#da79f2"
+    }
+}

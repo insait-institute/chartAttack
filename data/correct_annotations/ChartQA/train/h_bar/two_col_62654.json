@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "Default": "#2876dd"
+    },
+    "categories": [
+        "Banca Monte dei Paschi",
+        "Banca Carige",
+        "Banco Popolare",
+        "Banca popolare dell'Emilia",
+        "Banca Populare di Vicenca",
+        "Veneto Banca SpA",
+        "Intesa Sanpaolo",
+        "UniCredit",
+        "UBI Banca",
+        "Banca Nazionale del Lavoro",
+        "Banca Populare di Milano",
+        "Banca IMI SpA",
+        "Mediobanca"
+    ],
+    "data": {
+        "Default": [
+            36,
+            27.8,
+            23.3,
+            23.3,
+            20.9,
+            20.6,
+            17.5,
+            16.3,
+            15.1,
+            13.9,
+            12.1,
+            5.4,
+            2.6
+        ]
+    },
+    "colors": {
+        "Default": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

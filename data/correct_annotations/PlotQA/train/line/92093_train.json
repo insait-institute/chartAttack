@@ -1,0 +1,101 @@
+{
+    "title": "CPIA ratings of different financial policies of Sub-Saharan Africa (developing only)",
+    "legend": {
+        "Financial sector": "#F4A460",
+        "Trade": "#BDB76B",
+        "Budget management": "#7FFFD4",
+        "Fiscal policy": "#006400"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Rating (1=low 6=high)",
+    "data": [
+        {
+            "label": "Financial sector",
+            "color": "#F4A460",
+            "values": [
+                2.98648648648649,
+                3.02702702702703,
+                2.94594594594595,
+                2.97368421052632,
+                2.96052631578947,
+                2.96052631578947,
+                2.92307692307692
+            ]
+        },
+        {
+            "label": "Trade",
+            "color": "#BDB76B",
+            "values": [
+                3.67567567567568,
+                3.64864864864865,
+                3.64864864864865,
+                3.671052631578951,
+                3.65789473684211,
+                3.64473684210526,
+                3.6025641025641
+            ]
+        },
+        {
+            "label": "Budget management",
+            "color": "#7FFFD4",
+            "values": [
+                3.02702702702703,
+                3.04054054054054,
+                3.0,
+                3.03947368421053,
+                3.078947368421049,
+                3.09210526315789,
+                3.03846153846154
+            ]
+        },
+        {
+            "label": "Fiscal policy",
+            "color": "#006400",
+            "values": [
+                3.35135135135135,
+                3.37837837837838,
+                3.39189189189189,
+                3.39473684210526,
+                3.34210526315789,
+                3.38157894736842,
+                3.32051282051282
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

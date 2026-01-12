@@ -1,0 +1,64 @@
+{
+    "title": "Gross Domestic Product at purchase prices",
+    "legend": {
+        "Channel Islands": "#228B22",
+        "Estonia": "#6495ED",
+        "Syrian Arab Republic": "#DAA520"
+    },
+    "categories": [
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "data": {
+        "Channel Islands": [
+            9264323004.063108,
+            9124157385.98485,
+            8975232287.15436,
+            8687831263.40628
+        ],
+        "Estonia": [
+            9943818462.5155,
+            10573130181.2098,
+            11215597916.8886,
+            12047370271.9606
+        ],
+        "Syrian Arab Republic": [
+            22681144448.991,
+            23860777800.3612,
+            25268563690.5826,
+            25420175072.6769
+        ]
+    },
+    "colors": {
+        "Channel Islands": "#228B22",
+        "Estonia": "#6495ED",
+        "Syrian Arab Republic": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25420175080
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

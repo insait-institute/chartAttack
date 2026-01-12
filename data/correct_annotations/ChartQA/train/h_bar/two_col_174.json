@@ -1,0 +1,106 @@
+{
+    "title": "",
+    "legend": {
+        "Cases": "#2876dd"
+    },
+    "categories": [
+        "Brazil",
+        "Argentina",
+        "Colombia",
+        "Mexico",
+        "Peru",
+        "Chile",
+        "Ecuador",
+        "Bolivia",
+        "Paraguay",
+        "Panama",
+        "Uruguay",
+        "Costa Rica",
+        "Dominican Republic",
+        "Guatemala",
+        "Venezuela",
+        "Honduras",
+        "Cuba",
+        "El Salvador",
+        "Jamaica",
+        "Trinidad and Tobago",
+        "Suriname",
+        "Guyana",
+        "Haiti",
+        "Belize",
+        "Bahamas",
+        "Nicaragua",
+        "Saint Lucia",
+        "Barbados",
+        "Saint Vincent and the Grenadines",
+        "Antigua and Barbuda",
+        "Saint Kitts and Nevis",
+        "Dominica",
+        "Grenada"
+    ],
+    "data": {
+        "Cases": [
+            18448402,
+            4423636,
+            4187194,
+            2507453,
+            2048115,
+            1551137,
+            455743,
+            435568,
+            419764,
+            401332,
+            366915,
+            364304,
+            323650,
+            291977,
+            270654,
+            260331,
+            184943,
+            78766,
+            50054,
+            32343,
+            21360,
+            19891,
+            18212,
+            13189,
+            12467,
+            7920,
+            5284,
+            4077,
+            2219,
+            1263,
+            439,
+            193,
+            161
+        ]
+    },
+    "colors": {
+        "Cases": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 18448410
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

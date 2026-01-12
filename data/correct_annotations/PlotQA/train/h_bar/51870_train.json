@@ -1,0 +1,64 @@
+{
+    "title": "Number of fixed telephone subscribers",
+    "legend": {
+        "Guyana": "#191970",
+        "Slovenia": "#66CDAA",
+        "Tajikistan": "#2E8B57"
+    },
+    "categories": [
+        "2005",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Guyana": [
+            14.4756937781435,
+            16.6657364224365,
+            17.8954519496893,
+            18.8260749883171
+        ],
+        "Slovenia": [
+            50.9629069727333,
+            49.7810070113397,
+            48.1319281465409,
+            45.9389956600178
+        ],
+        "Tajikistan": [
+            4.11716432878246,
+            4.11656547403504,
+            3.94405582102173,
+            4.66283785634603
+        ]
+    },
+    "colors": {
+        "Guyana": "#191970",
+        "Slovenia": "#66CDAA",
+        "Tajikistan": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

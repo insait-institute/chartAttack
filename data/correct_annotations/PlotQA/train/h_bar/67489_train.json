@@ -1,0 +1,72 @@
+{
+    "title": "Value added by different sectors to the total GDP of Tonga",
+    "legend": {
+        "Industry": "#00FFFF",
+        "Manufacturing": "#6B8E23",
+        "Services": "#FF0000",
+        "Agriculture": "#32CD32"
+    },
+    "categories": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "data": {
+        "Industry": [
+            19.9087632349628,
+            19.3448100234287,
+            19.9690063810392,
+            21.28825664482461
+        ],
+        "Manufacturing": [
+            9.425632938811589,
+            8.76275848018743,
+            9.42716499544212,
+            10.4638537397497
+        ],
+        "Services": [
+            56.24716238931151,
+            55.85861261077721,
+            54.2445214220602,
+            55.90249316645579
+        ],
+        "Agriculture": [
+            23.8439010865233,
+            24.796577365794,
+            25.7866180492252,
+            22.80942253535689
+        ]
+    },
+    "colors": {
+        "Industry": "#00FFFF",
+        "Manufacturing": "#6B8E23",
+        "Services": "#FF0000",
+        "Agriculture": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

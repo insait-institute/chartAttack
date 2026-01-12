@@ -1,0 +1,96 @@
+{
+    "title": "",
+    "legend": {
+        "Global 26": "#808080",
+        "Other Countries": "#2876dd"
+    },
+    "categories": [
+        "Indonesia",
+        "United Arab Emirates",
+        "Singapore",
+        "India",
+        "China",
+        "Mexico",
+        "Malaysia",
+        "Hong Kong",
+        "Netherlands",
+        "Canada",
+        "United Kingdom",
+        "Australia",
+        "Spain",
+        "Global 26",
+        "Argentina",
+        "South Africa",
+        "France",
+        "Germany",
+        "United States",
+        "Turkey",
+        "Italy",
+        "Brazil",
+        "Ireland",
+        "South Korea",
+        "Colombia",
+        "Japan",
+        "Russia"
+    ],
+    "data": {
+        "Percentage of respondents": [
+            83,
+            82,
+            82,
+            82,
+            78,
+            77,
+            76,
+            76,
+            74,
+            72,
+            71,
+            70,
+            68,
+            67,
+            65,
+            65,
+            63,
+            62,
+            61,
+            61,
+            59,
+            59,
+            58,
+            55,
+            54,
+            53,
+            43
+        ]
+    },
+    "colors": {
+        "Global 26": "#808080",
+        "Other Countries": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

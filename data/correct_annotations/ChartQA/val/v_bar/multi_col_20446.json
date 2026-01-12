@@ -1,0 +1,84 @@
+{
+    "title": "Percentage of respondents",
+    "x_axis": {
+        "categories": [
+            "18-24",
+            "25-34",
+            "35-49",
+            "50-64",
+            "65+"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of respondents"
+    },
+    "legend": {
+        "Yes - In favor of repealing the 8th Amendment": "#2876dd",
+        "No - against repealing the 8th Amendment": "#0f283e",
+        "Not sure": "#bababa",
+        "Will not vote": "#a60b0b",
+        "Refused": "#87bc24"
+    },
+    "data": {
+        "Yes - In favor of repealing the 8th Amendment": [
+            52,
+            53,
+            49,
+            37,
+            30
+        ],
+        "No - against repealing the 8th Amendment": [
+            27,
+            23,
+            26,
+            38,
+            47
+        ],
+        "Not sure": [
+            12,
+            17,
+            18,
+            18,
+            17
+        ],
+        "Will not vote": [
+            8,
+            6,
+            5,
+            2,
+            5
+        ],
+        "Refused": [
+            1,
+            1,
+            2,
+            5,
+            1
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

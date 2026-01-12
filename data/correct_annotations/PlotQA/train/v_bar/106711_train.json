@@ -1,0 +1,63 @@
+{
+    "title": "Revenue collected vs subsidy given by the government in 2002",
+    "x_axis": {
+        "categories": [
+            "Bolivia",
+            "Brazil",
+            "Bulgaria",
+            "Burkina Faso",
+            "Cambodia",
+            "Canada"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Revenue": "#FF8C00",
+        "Subsidies": "#483D8B"
+    },
+    "data": {
+        "Revenue": [
+            10416540714.81,
+            319495530311.214,
+            10693000000.0,
+            261305078896.0,
+            1727644810000.0,
+            230693000000.0
+        ],
+        "Subsidies": [
+            7265742153.04,
+            153707693313.398,
+            5947816000.0,
+            19318624126.0,
+            243003305738.0,
+            125101000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1727644810000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

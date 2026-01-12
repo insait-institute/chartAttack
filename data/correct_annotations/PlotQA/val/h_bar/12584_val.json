@@ -1,0 +1,62 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy in 1995",
+    "legend": {
+        "Belize": "#7FFFD4",
+        "Ireland": "#FF0000",
+        "Turkey": "#8A2BE2",
+        "Uzbekistan": "#8FBC8F"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Belize": [
+            161680575,
+            258513480
+        ],
+        "Ireland": [
+            43592374990,
+            32004688996
+        ],
+        "Turkey": [
+            21649589000,
+            35763118000
+        ],
+        "Uzbekistan": [
+            2717876566,
+            3029867081
+        ]
+    },
+    "colors": {
+        "Belize": "#7FFFD4",
+        "Ireland": "#FF0000",
+        "Turkey": "#8A2BE2",
+        "Uzbekistan": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 43592374990
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

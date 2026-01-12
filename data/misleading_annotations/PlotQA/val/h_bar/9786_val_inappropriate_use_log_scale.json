@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of rural population using sanitaion services",
+    "legend": {
+        "Bahamas": "#8A2BE2",
+        "Chad": "#BEBEBE",
+        "Latvia": "#00BFFF"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Bahamas": [
+            89.7,
+            90.0,
+            90.3,
+            90.6,
+            90.9
+        ],
+        "Chad": [
+            5.7,
+            5.8,
+            5.9,
+            6.0,
+            6.1
+        ],
+        "Latvia": [
+            73.1,
+            73.9,
+            74.6,
+            75.4,
+            76.2
+        ]
+    },
+    "colors": {
+        "Bahamas": "#8A2BE2",
+        "Chad": "#BEBEBE",
+        "Latvia": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Visitors": "#2876dd"
+    },
+    "categories": [
+        "New York",
+        "Los Angeles",
+        "Miami",
+        "Toronto",
+        "San Francisco",
+        "Vancouver",
+        "Washington",
+        "Chicago",
+        "Montreal",
+        "Boston"
+    ],
+    "data": {
+        "Visitors": [
+            12.7,
+            5.86,
+            5.86,
+            4.99,
+            4.41,
+            4.14,
+            2.47,
+            2.46,
+            2.41,
+            2.21
+        ]
+    },
+    "colors": {
+        "Visitors": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

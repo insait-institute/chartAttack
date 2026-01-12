@@ -1,0 +1,89 @@
+{
+    "title": "Land Geography of Croatia",
+    "legend": {
+        "Forest land": "#FF1493",
+        "Agricultural land": "#CD853F"
+    },
+    "x_axis": [
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "y_axis_label": "Area (% of total land area)",
+    "data": [
+        {
+            "label": "Forest land",
+            "color": "#FF1493",
+            "values": [
+                33.2140940797711,
+                33.2766946878913,
+                33.3392952960114,
+                33.40189590413161,
+                33.4226509467667
+            ]
+        },
+        {
+            "label": "Agricultural land",
+            "color": "#CD853F",
+            "values": [
+                40.6367376140225,
+                41.35217313539621,
+                41.709890896083,
+                34.5659163987138,
+                34.6730975348339
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Forest land",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Agricultural land",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

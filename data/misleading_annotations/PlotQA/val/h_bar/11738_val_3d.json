@@ -1,0 +1,72 @@
+{
+    "title": "Value added by the industrial sector to the total GDP of a country",
+    "legend": {
+        "Albania": "#483D8B",
+        "Egypt, Arab Rep.": "#A020F0",
+        "St. Lucia": "#228B22",
+        "Ukraine": "#B8860B"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "data": {
+        "Albania": [
+            281249228.65891,
+            431500499.348469,
+            545462372.77165,
+            477002412.793861
+        ],
+        "Egypt, Arab Rep.": [
+            14507803121.2485,
+            15830367734.2823,
+            18195222648.1864,
+            19963443396.2264
+        ],
+        "St. Lucia": [
+            86437037.037037,
+            86159259.25925921,
+            92622222.22222221,
+            90259259.25925921
+        ],
+        "Ukraine": [
+            24592364161.0772,
+            22398821475.3383,
+            18400592553.2856,
+            15052200054.6597
+        ]
+    },
+    "colors": {
+        "Albania": "#483D8B",
+        "Egypt, Arab Rep.": "#A020F0",
+        "St. Lucia": "#228B22",
+        "Ukraine": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 24592364170
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

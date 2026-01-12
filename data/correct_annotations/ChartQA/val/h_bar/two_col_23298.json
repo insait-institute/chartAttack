@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Procedures": "#2876dd"
+    },
+    "categories": [
+        "Breast augmentation",
+        "Liposuction",
+        "Eyelid surgery",
+        "Abdominoplasty",
+        "Rhinoplasty",
+        "Breast lift",
+        "Breast reduction",
+        "Fat grafting - face",
+        "Buttock augmentation - fat transfer",
+        "Facelift"
+    ],
+    "data": {
+        "Procedures": [
+            1795551,
+            1704786,
+            1259839,
+            924031,
+            821890,
+            741284,
+            600219,
+            598823,
+            479451,
+            448485
+        ]
+    },
+    "colors": {
+        "Procedures": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1795560
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

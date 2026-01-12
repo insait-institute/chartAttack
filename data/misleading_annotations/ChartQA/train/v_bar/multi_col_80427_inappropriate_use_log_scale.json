@@ -1,0 +1,81 @@
+{
+    "title": "Net revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Net revenue in million U.S. dollars"
+    },
+    "legend": {
+        "North America": "#2876dd",
+        "Rest of the world": "#0f283e"
+    },
+    "data": {
+        "North America": [
+            348.1,
+            342.4,
+            350.5,
+            365.9,
+            391.7,
+            426.2,
+            489,
+            539.9,
+            599.7,
+            612.32,
+            656.64,
+            764.94
+        ],
+        "Rest of the world": [
+            127.1,
+            135.3,
+            133.4,
+            118.1,
+            116.3,
+            116.4,
+            169.8,
+            189.3,
+            201.3,
+            317.84,
+            303.8,
+            656.64
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 770
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

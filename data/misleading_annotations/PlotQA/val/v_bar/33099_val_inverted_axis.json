@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of children who received Vitamin A dosage in different countries",
+    "x_axis": {
+        "categories": [
+            "Benin",
+            "Djibouti",
+            "Iraq",
+            "Kyrgyz Republic",
+            "Sudan",
+            "Uzbekistan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Vitamin A supplementation coverage rate ": "#6495ED"
+    },
+    "data": {
+        "Vitamin A supplementation coverage rate ": [
+            60.7,
+            17.9,
+            0.84,
+            47.0,
+            76.4,
+            72.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

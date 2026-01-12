@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Production": "#2876dd"
+    },
+    "categories": [
+        "China",
+        "India",
+        "Indonesia",
+        "Bangladesh",
+        "Vietnam",
+        "Thailand",
+        "Burma",
+        "Philippines",
+        "Japan",
+        "Brazil"
+    ],
+    "data": {
+        "Production": [
+            146.73,
+            118.87,
+            34.7,
+            35.85,
+            27.1,
+            17.66,
+            12.7,
+            11.93,
+            7.61,
+            7.6
+        ]
+    },
+    "colors": {
+        "Production": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 150
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Production": [
+            0.25,
+            1.25,
+            2.0,
+            1.25,
+            1.25,
+            2.0,
+            1.25,
+            0.25,
+            0.25,
+            0.75
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Electricity produced from renewable sources in countries in 1985",
+    "legend": {
+        "Middle income": "#FF1493",
+        "United States": "#4169E1"
+    },
+    "categories": [
+        "Hydroelectric sources",
+        "Nuclear sources",
+        "Renewable sources"
+    ],
+    "data": {
+        "Middle income": [
+            24.7128131714732,
+            1.33834128735632,
+            0.6770809282158381
+        ],
+        "United States": [
+            10.8301941051798,
+            15.5119379662836,
+            0.434107864858278
+        ]
+    },
+    "colors": {
+        "Middle income": "#FF1493",
+        "United States": "#4169E1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

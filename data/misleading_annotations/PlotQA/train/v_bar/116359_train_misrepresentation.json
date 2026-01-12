@@ -1,0 +1,84 @@
+{
+    "title": "Percentage of children (ages 7-14) in employment in 2007",
+    "x_axis": {
+        "categories": [
+            "Kyrgyz Republic",
+            "Madagascar",
+            "Mali",
+            "Mongolia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Self-employed": "#FFD700",
+        "Unpaid family workers": "#FF1493",
+        "Wage workers": "#228B22"
+    },
+    "data": {
+        "Self-employed": [
+            1.43,
+            0.05,
+            12.96,
+            5.36
+        ],
+        "Unpaid family workers": [
+            98.02,
+            89.95,
+            83.02,
+            90.13
+        ],
+        "Wage workers": [
+            0.55,
+            9.99,
+            4.02,
+            5.91
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Self-employed": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Unpaid family workers": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Wage workers": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

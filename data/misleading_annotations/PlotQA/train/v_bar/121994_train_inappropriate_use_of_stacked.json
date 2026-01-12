@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the total male labor force of different age groups participating in production in 2014",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Denmark": "#f27979",
+        "Djibouti": "#f2f200",
+        "Dominican Republic": "#79f279",
+        "Ecuador": "#00a5a5",
+        "Egypt, Arab Rep.": "#5252a5",
+        "El Salvador": "#a500a5"
+    },
+    "data": {
+        "Denmark": [
+            61.2999992370605
+        ],
+        "Djibouti": [
+            48.7000007629395
+        ],
+        "Dominican Republic": [
+            61.0
+        ],
+        "Ecuador": [
+            60.7999992370605
+        ],
+        "Egypt, Arab Rep.": [
+            47.4000015258789
+        ],
+        "El Salvador": [
+            64.1999969482422
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Denmark": "#f27979",
+        "Djibouti": "#f2f200",
+        "Dominican Republic": "#79f279",
+        "Ecuador": "#00a5a5",
+        "Egypt, Arab Rep.": "#5252a5",
+        "El Salvador": "#a500a5"
+    }
+}

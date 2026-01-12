@@ -1,0 +1,76 @@
+{
+    "title": "Consumer price index (100=1982-1984)",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*",
+            "2026*"
+        ]
+    },
+    "y_axis": {
+        "label": "Consumer price index (100=1982-1984)"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            218.08,
+            224.92,
+            229.59,
+            232.95,
+            236.72,
+            237,
+            240.01,
+            245.13,
+            251.1,
+            255.65,
+            258.84,
+            264.71,
+            271.06,
+            277.84,
+            284.74,
+            291.5,
+            298.06
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 300
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Number of inhabitants",
+    "x_axis": {
+        "categories": [
+            "0 - 20 years",
+            "20 - 40 years",
+            "40 - 65 years",
+            "65 - 80 years",
+            "80 years and older"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of inhabitants"
+    },
+    "legend": {
+        "default": "#2876dd"
+    },
+    "data": {
+        "default": [
+            3775257,
+            4381481,
+            5858292,
+            2570467,
+            822088
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5858300
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

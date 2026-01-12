@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "Readers": "#2876dd"
+    },
+    "categories": [
+        "Gazzetta dello Sport",
+        "Corriere della Sera",
+        "La Repubblica",
+        "La Stampa",
+        "Corriere dello Sport",
+        "Il Sole 24 Ore",
+        "Resto del Carlino",
+        "Il Messaggero",
+        "TuttoSport",
+        "Il Mattino",
+        "La Nazione",
+        "Il Gazzettino",
+        "La Gazzetta del Mezzogiorno"
+    ],
+    "data": {
+        "Readers": [
+            2005,
+            1817,
+            1571,
+            960,
+            885,
+            795,
+            757,
+            716,
+            529,
+            479,
+            452,
+            408,
+            295
+        ]
+    },
+    "colors": {
+        "Readers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2010
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

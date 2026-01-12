@@ -1,0 +1,61 @@
+{
+    "title": "Mortality rate in different countries in 1988",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Burkina Faso": "#8A2BE2",
+        "Grenada": "#A0522D",
+        "Montenegro": "#C71585",
+        "New Zealand": "#00FA9A"
+    },
+    "data": {
+        "Burkina Faso": [
+            291.053,
+            347.923
+        ],
+        "Grenada": [
+            150.414,
+            245.603
+        ],
+        "Montenegro": [
+            80.5294,
+            166.1086
+        ],
+        "New Zealand": [
+            88.77600000000002,
+            152.326
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 350
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

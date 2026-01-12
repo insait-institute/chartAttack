@@ -1,0 +1,62 @@
+{
+    "title": "Share of expenditures made in public institutions in 2007",
+    "legend": {
+        "Colombia": "#ADFF2F",
+        "Israel": "#DC143C",
+        "Philippines": "#6B8E23",
+        "United States": "#EE82EE"
+    },
+    "categories": [
+        "All education staff compensation",
+        "Current education expenditure"
+    ],
+    "data": {
+        "Colombia": [
+            75.39186096191409,
+            100.0
+        ],
+        "Israel": [
+            74.560417175293,
+            93.50775146484379
+        ],
+        "Philippines": [
+            78.4107131958008,
+            93.5395736694335
+        ],
+        "United States": [
+            66.6531829833984,
+            88.7591705322266
+        ]
+    },
+    "colors": {
+        "Colombia": "#ADFF2F",
+        "Israel": "#DC143C",
+        "Philippines": "#6B8E23",
+        "United States": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Balance of payments as percentage of service imports in Kazakhstan",
+    "legend": {
+        "Transport services": "#00FF7F",
+        "Travel services": "#8B4513"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Transport services": [
+            15.5994512649804,
+            17.2817778102497,
+            17.9385690205679,
+            21.1828083225636,
+            18.5757861641175
+        ],
+        "Travel services": [
+            10.0292630365486,
+            9.32909265203692,
+            9.12826771643925,
+            9.618717370086813,
+            11.2522896626325
+        ]
+    },
+    "colors": {
+        "Transport services": "#00FF7F",
+        "Travel services": "#8B4513"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Transport services": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Travel services": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

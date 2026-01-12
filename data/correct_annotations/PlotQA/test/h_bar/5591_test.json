@@ -1,0 +1,56 @@
+{
+    "title": "Mortality rates in Niger",
+    "legend": {
+        "Infant": "#F4A460",
+        "Under five": "#A52A2A"
+    },
+    "categories": [
+        "1976",
+        "1977",
+        "1978",
+        "1979"
+    ],
+    "data": {
+        "Infant": [
+            140.5,
+            138.9,
+            137.2,
+            135.7
+        ],
+        "Under five": [
+            334.6,
+            330.5,
+            326.0,
+            322.0
+        ]
+    },
+    "colors": {
+        "Infant": "#F4A460",
+        "Under five": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 340
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

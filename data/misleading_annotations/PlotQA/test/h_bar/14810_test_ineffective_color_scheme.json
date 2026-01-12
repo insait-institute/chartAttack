@@ -1,0 +1,78 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "legend": {
+        "1960": "#cd5c5c",
+        "1961": "#cd6a5c",
+        "1962": "#cf7e64",
+        "1963": "#c87f56"
+    },
+    "categories": [
+        "Burkina Faso",
+        "Chile",
+        "China",
+        "France"
+    ],
+    "data": {
+        "1960": [
+            37226998.2065029,
+            850703195.9879321,
+            23080586814.721,
+            13799244448.8441
+        ],
+        "1961": [
+            37217132.0963543,
+            1038758143.86385,
+            14708694976.4352,
+            15095996093.565
+        ],
+        "1962": [
+            42228731.0329931,
+            1218340599.48543,
+            13217921417.6526,
+            16323658511.3131
+        ],
+        "1963": [
+            43881615.5307803,
+            1222616298.62452,
+            14850866841.7142,
+            18224940892.0464
+        ]
+    },
+    "colors": {
+        "1960": "#CD5C5C",
+        "1961": "#ADFF2F",
+        "1962": "#4B0082",
+        "1963": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23080586820
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#cd5c5c",
+        "1961": "#cd6a5c",
+        "1962": "#cf7e64",
+        "1963": "#c87f56"
+    }
+}

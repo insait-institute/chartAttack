@@ -1,0 +1,57 @@
+{
+    "title": "Official exchange rate determined by national authorities of Lesotho",
+    "legend": {
+        "1979": "#f27979",
+        "1980": "#79f200",
+        "1981": "#52a5a5",
+        "1982": "#5200a5"
+    },
+    "categories": [
+        "Official exchange rate determined by national authorities of Lesotho"
+    ],
+    "data": {
+        "1979": [
+            0.842022601934943
+        ],
+        "1980": [
+            0.778833737276042
+        ],
+        "1981": [
+            0.8775283331666669
+        ],
+        "1982": [
+            1.08581583308333
+        ]
+    },
+    "colors": {
+        "1979": "#f27979",
+        "1980": "#79f200",
+        "1981": "#52a5a5",
+        "1982": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

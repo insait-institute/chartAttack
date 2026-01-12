@@ -1,0 +1,60 @@
+{
+    "title": "Market share of total assets",
+    "x_axis": {
+        "categories": [
+            "Dec '09",
+            "Dec '10",
+            "Dec '11",
+            "Dec '12",
+            "Dec '13",
+            "Dec '14",
+            "Dec '15",
+            "Dec '16",
+            "Dec '17"
+        ]
+    },
+    "y_axis": {
+        "label": "Market share of total assets"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            44.19,
+            43.86,
+            44.32,
+            45.0,
+            46.08,
+            48.5,
+            48.79,
+            48.27,
+            47.84
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

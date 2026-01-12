@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "Google": "#f27979",
+        "Yelp": "#f2cf00",
+        "Facebook": "#9bf279",
+        "Industry specific": "#00a55e",
+        "Consumer Affairs": "#5282a5",
+        "YellowPages.com": "#2f00a5",
+        "None of these": "#f279e0"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Google": [
+            81.0
+        ],
+        "Yelp": [
+            59.0
+        ],
+        "Facebook": [
+            49.0
+        ],
+        "Industry specific": [
+            36.0
+        ],
+        "Consumer Affairs": [
+            21.0
+        ],
+        "YellowPages.com": [
+            12.0
+        ],
+        "None of these": [
+            5.0
+        ]
+    },
+    "colors": {
+        "Google": "#f27979",
+        "Yelp": "#f2cf00",
+        "Facebook": "#9bf279",
+        "Industry specific": "#00a55e",
+        "Consumer Affairs": "#5282a5",
+        "YellowPages.com": "#2f00a5",
+        "None of these": "#f279e0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

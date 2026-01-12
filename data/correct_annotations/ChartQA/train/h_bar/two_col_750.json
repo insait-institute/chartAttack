@@ -1,0 +1,80 @@
+{
+    "title": "Number of players",
+    "categories": [
+        "Canada",
+        "United States",
+        "Czechia",
+        "Russia",
+        "Sweden",
+        "Finland",
+        "Switzerland",
+        "France",
+        "Germany",
+        "Japan",
+        "Great Britain",
+        "Slovakia",
+        "Norway",
+        "China",
+        "Hungary",
+        "Kazakhstan",
+        "Austria",
+        "Latvia",
+        "Belarus",
+        "Ukraine"
+    ],
+    "data": {
+        "Players": [
+            607951,
+            561700,
+            129595,
+            100701,
+            73293,
+            71063,
+            30655,
+            21582,
+            21336,
+            18641,
+            11148,
+            10970,
+            10270,
+            9506,
+            7802,
+            7684,
+            7670,
+            7460,
+            5525,
+            5340
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 607960
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Players": "#2876dd"
+    }
+}

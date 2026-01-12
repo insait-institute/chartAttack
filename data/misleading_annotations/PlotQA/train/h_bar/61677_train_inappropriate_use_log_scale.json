@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of enrolment of students in pre-primary schools",
+    "legend": {
+        "East Asia (all income levels)": "#20B2AA",
+        "Heavily indebted poor countries": "#2E8B57",
+        "Comoros": "#4B0082",
+        "Hong Kong": "#8B0000"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2008"
+    ],
+    "data": {
+        "East Asia (all income levels)": [
+            42.44910812377921,
+            44.7331314086914,
+            53.4218902587891
+        ],
+        "Heavily indebted poor countries": [
+            8.63659000396729,
+            9.04792022705078,
+            12.3731498718262
+        ],
+        "Comoros": [
+            3.23224997520447,
+            4.35629987716675,
+            23.6858100891113
+        ],
+        "Hong Kong": [
+            84.7108612060547,
+            86.81688690185551,
+            101.260696411133
+        ]
+    },
+    "colors": {
+        "East Asia (all income levels)": "#20B2AA",
+        "Heavily indebted poor countries": "#2E8B57",
+        "Comoros": "#4B0082",
+        "Hong Kong": "#8B0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

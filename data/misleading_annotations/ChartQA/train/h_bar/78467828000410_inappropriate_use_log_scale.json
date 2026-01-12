@@ -1,0 +1,50 @@
+{
+    "title": "Road traffic deaths, 2000",
+    "categories": [
+        "Malaysia",
+        "Chad",
+        "Ireland"
+    ],
+    "data": {
+        "bars": [
+            5243,
+            1640,
+            441
+        ]
+    },
+    "colors": {
+        "Malaysia": "#00847e",
+        "Chad": "#b13507",
+        "Ireland": "#3c4e66"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5250
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Malaysia": "#00847e",
+        "Chad": "#b13507",
+        "Ireland": "#3c4e66"
+    }
+}

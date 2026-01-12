@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of the unemployed female labor force with different levels of education in countries",
+    "x_axis": {
+        "categories": [
+            "Primary education",
+            "Secondary education",
+            "Tertiary education"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Georgia": "#556B2F",
+        "Poland": "#9ACD32"
+    },
+    "data": {
+        "Georgia": [
+            4.699999809265138,
+            55.9000015258789,
+            39.0
+        ],
+        "Poland": [
+            17.7999992370605,
+            76.3000030517578,
+            5.900000095367429
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

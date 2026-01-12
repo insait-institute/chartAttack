@@ -1,0 +1,112 @@
+{
+    "title": "Price in U.S. dollars per thousand cubic feet*",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Price in U.S. dollars per thousand cubic feet*"
+    },
+    "legend": {
+        "1975": "#f27979",
+        "1980": "#f26700",
+        "1985": "#f2e079",
+        "1990": "#adf200",
+        "1995": "#9bf279",
+        "2000": "#00a517",
+        "2005": "#52a582",
+        "2010": "#00a5a5",
+        "2015": "#5282a5",
+        "2016": "#0017a5",
+        "2017": "#9b79f2",
+        "2018": "#ad00f2",
+        "2019": "#f279e0",
+        "2020": "#f20067"
+    },
+    "data": {
+        "1975": [
+            1.71
+        ],
+        "1980": [
+            3.68
+        ],
+        "1985": [
+            6.12
+        ],
+        "1990": [
+            5.8
+        ],
+        "1995": [
+            6.06
+        ],
+        "2000": [
+            7.76
+        ],
+        "2005": [
+            12.7
+        ],
+        "2010": [
+            11.39
+        ],
+        "2015": [
+            10.38
+        ],
+        "2016": [
+            10.05
+        ],
+        "2017": [
+            10.91
+        ],
+        "2018": [
+            10.5
+        ],
+        "2019": [
+            10.51
+        ],
+        "2020": [
+            10.83
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "1975": "#f27979",
+        "1980": "#f26700",
+        "1985": "#f2e079",
+        "1990": "#adf200",
+        "1995": "#9bf279",
+        "2000": "#00a517",
+        "2005": "#52a582",
+        "2010": "#00a5a5",
+        "2015": "#5282a5",
+        "2016": "#0017a5",
+        "2017": "#9b79f2",
+        "2018": "#ad00f2",
+        "2019": "#f279e0",
+        "2020": "#f20067"
+    }
+}

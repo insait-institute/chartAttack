@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Derek Harper",
+        "Brad Davis",
+        "Jason Kidd",
+        "Dirk Nowitzki",
+        "Steve Nash",
+        "Rolando Blackman",
+        "Jason Terry",
+        "J.J. Barea",
+        "Michael Finley",
+        "Mark Aguirre"
+    ],
+    "data": {
+        "Players": [
+            5111,
+            4524,
+            4211,
+            3651,
+            2919,
+            2748,
+            2524,
+            2441,
+            2393,
+            2163
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Official entrance age of children of different countries in primary and secondary education",
+    "x_axis": {
+        "categories": [
+            "Belarus",
+            "Belgium",
+            "Belize",
+            "Benin"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Lower secondary education": "#F0E68C",
+        "Primary education": "#D2691E"
+    },
+    "data": {
+        "Lower secondary education": [
+            12,
+            12,
+            12,
+            11
+        ],
+        "Primary education": [
+            7,
+            6,
+            6,
+            5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Lower secondary education": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Primary education": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

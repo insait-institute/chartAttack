@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of population that have access to electricity in 2010",
+    "legend": {
+        "Rural Population": "#40E0D0",
+        "Urban Population": "#6495ED"
+    },
+    "categories": [
+        "Dominican Republic",
+        "Ecuador",
+        "Egypt, Arab Rep.",
+        "El Salvador"
+    ],
+    "data": {
+        "Rural Population": [
+            93.9,
+            92.7,
+            99.3,
+            82.4
+        ],
+        "Urban Population": [
+            99.83574913497309,
+            99.1310605267487,
+            99.9916426512968,
+            97.334660858743
+        ]
+    },
+    "colors": {
+        "Rural Population": "#40E0D0",
+        "Urban Population": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

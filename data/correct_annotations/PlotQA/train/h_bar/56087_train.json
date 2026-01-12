@@ -1,0 +1,67 @@
+{
+    "title": "Split of the expenses made by the government on grants and revenue",
+    "legend": {
+        "Cote d'Ivoire": "#FFFF00",
+        "Korea (Republic)": "#8FBC8F",
+        "Mali": "#556B2F",
+        "Vanuatu": "#A52A2A"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Cote d'Ivoire": [
+            483967000000.0,
+            333777000000.0,
+            221176000000.0
+        ],
+        "Korea (Republic)": [
+            40715035828260.0,
+            45247684000000.0,
+            48827571000000.0
+        ],
+        "Mali": [
+            285241000000.0,
+            255660000000.0,
+            243845160000.0
+        ],
+        "Vanuatu": [
+            6465000000.0,
+            6189300000.0,
+            6117500000.0
+        ]
+    },
+    "colors": {
+        "Cote d'Ivoire": "#FFFF00",
+        "Korea (Republic)": "#8FBC8F",
+        "Mali": "#556B2F",
+        "Vanuatu": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 48827571000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

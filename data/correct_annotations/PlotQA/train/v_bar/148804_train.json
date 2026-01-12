@@ -1,0 +1,52 @@
+{
+    "title": "Insurance provided to residents by nonresident insurance enterprises in 2014",
+    "x_axis": {
+        "categories": [
+            "Pakistan",
+            "Panama",
+            "Philippines",
+            "Portugal",
+            "Qatar"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Insurance provided by non-residents": "#40E0D0"
+    },
+    "data": {
+        "Insurance provided by non-residents": [
+            2.89729354614851,
+            6.20950574937022,
+            1.20719506469014,
+            1.9792660744266,
+            6.38150946489315
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

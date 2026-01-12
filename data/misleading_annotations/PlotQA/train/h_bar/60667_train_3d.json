@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of agricultural raw materials exported to different countries",
+    "legend": {
+        "Arab World": "#DAA520",
+        "Guinea-Bissau": "#FF8C00",
+        "Israel": "#9ACD32",
+        "Slovak Republic": "#FFA500"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "data": {
+        "Arab World": [
+            0.523387889636685,
+            0.471493762124404,
+            0.275565580142155
+        ],
+        "Guinea-Bissau": [
+            1.1042959341219,
+            0.105679689791431,
+            0.214107419984294
+        ],
+        "Israel": [
+            0.9902222222222221,
+            0.407080189715541,
+            0.7267714349272941
+        ],
+        "Slovak Republic": [
+            1.56477476642701,
+            1.52166304174195,
+            1.74433015182633
+        ]
+    },
+    "colors": {
+        "Arab World": "#DAA520",
+        "Guinea-Bissau": "#FF8C00",
+        "Israel": "#9ACD32",
+        "Slovak Republic": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

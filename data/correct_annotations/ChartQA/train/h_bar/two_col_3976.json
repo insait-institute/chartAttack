@@ -1,0 +1,92 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Italy",
+        "Germany",
+        "Portugal",
+        "Hungary",
+        "Spain",
+        "France",
+        "Greece",
+        "Belgium",
+        "EU Average",
+        "Poland",
+        "Romania",
+        "Bulgaria",
+        "Austria",
+        "Croatia",
+        "Slovakia",
+        "Latvia",
+        "Slovenia",
+        "Lithuania",
+        "Ireland",
+        "Czechia",
+        "United Kingdom",
+        "Estonia",
+        "Netherlands",
+        "Denmark",
+        "Finland",
+        "Sweden"
+    ],
+    "data": {
+        "Model": [
+            200,
+            168,
+            140,
+            139,
+            135,
+            133,
+            133,
+            130,
+            118,
+            114,
+            106,
+            100,
+            95,
+            84,
+            73,
+            72,
+            67,
+            61,
+            60,
+            57,
+            37,
+            37,
+            28,
+            20,
+            17,
+            10
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 200
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in Costa Rica",
+    "legend": {
+        "Female": "#2F4F4F",
+        "Male": "#C71585"
+    },
+    "categories": [
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "data": {
+        "Female": [
+            110.18559,
+            105.69804,
+            101.50135,
+            101.28492,
+            103.45981
+        ],
+        "Male": [
+            109.97761,
+            106.11861,
+            102.62635,
+            101.59945,
+            103.08216
+        ]
+    },
+    "colors": {
+        "Female": "#2F4F4F",
+        "Male": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

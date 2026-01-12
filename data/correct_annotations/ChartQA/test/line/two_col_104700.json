@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020*"
+    ],
+    "y_axis_label": "Return on equity (ROE) ratio",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                8,
+                2,
+                10,
+                8,
+                13.8,
+                19.7,
+                15.7
+            ]
+        }
+    ],
+    "type": "line",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

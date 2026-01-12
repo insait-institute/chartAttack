@@ -1,0 +1,1431 @@
+[
+    {
+        "imgname": "multi_col_20215",
+        "question": "What percentage of food and grocery retail sales did online sales make up in 2013?",
+        "gold": "0.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 99.6
+        }
+    },
+    {
+        "imgname": "two_col_22726",
+        "question": "What is the difference between the first and last year's results?",
+        "gold": "2.95",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_line"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_line": 2.3
+        }
+    },
+    {
+        "imgname": "multi_col_101206",
+        "question": "What was the value of imports of synthetic resins and rubbers in Canada in 2019?",
+        "gold": "8624",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 7712.0
+        }
+    },
+    {
+        "imgname": "two_col_103250",
+        "question": "What was the value of passenger revenue per passenger-mile in the year after 2018?",
+        "gold": "41.7",
+        "question_class": "Compositional",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 45.0
+        }
+    },
+    {
+        "imgname": "multi_col_80630",
+        "question": "WHich period has the least e-reader owners?",
+        "gold": "November 2010",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "65 and older"
+        }
+    },
+    {
+        "imgname": "multi_col_20200",
+        "question": "What is the percentage of households with Stand-alone air conditioning in Canada in 2015?",
+        "gold": "18",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 36.0
+        }
+    },
+    {
+        "imgname": "multi_col_101128",
+        "question": "What is the sum value of Male and female in the year 2012?",
+        "gold": "11",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 13.2
+        }
+    },
+    {
+        "imgname": "two_col_63806",
+        "question": "What was the average ticket price for Dallas Stars games in 2005/06?",
+        "gold": "36.36",
+        "question_class": "Compositional",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 40.0
+        }
+    },
+    {
+        "imgname": "two_col_42451",
+        "question": "What was the number of defendants charged in 2017?",
+        "gold": "412",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 450.0
+        }
+    },
+    {
+        "imgname": "multi_col_20676",
+        "question": "Which has the least wholesale unit sales in the U.S overall?",
+        "gold": "Smart home controllers",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "ineffective_color_scheme"
+        ],
+        "misleading_answers": {
+            "ineffective_color_scheme": "2014"
+        }
+    },
+    {
+        "imgname": "two_col_1755",
+        "question": "How many visitors did Yosemite National Park see in 2020?",
+        "gold": "2.27",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": 2.6666666666666665,
+            "inappropriate_use_of_stacked": 50.0
+        }
+    },
+    {
+        "imgname": "multi_col_20446",
+        "question": "What age group was most in favor if repealing the 8th amendment?",
+        "gold": "25-34",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "ineffective_color_scheme",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "3d": "18-24",
+            "ineffective_color_scheme": "65+",
+            "misrepresentation": "18-24"
+        }
+    },
+    {
+        "imgname": "two_col_104766",
+        "question": "What was Ethiopia's share in the global gross domestic product adjusted for Purchasing Power Parity in 2020?",
+        "gold": "0.22",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d",
+            "inverted_axis",
+            "misrepresentation",
+            "inappropriate_use_of_stacked",
+            "inappropriate_use_of_line"
+        ],
+        "misleading_answers": {
+            "3d": 0.2125,
+            "inverted_axis": 0.19,
+            "misrepresentation": 0.2,
+            "inappropriate_use_of_stacked": 0.2,
+            "inappropriate_use_of_line": 0.2
+        }
+    },
+    {
+        "imgname": "two_col_63719",
+        "question": "When is the projection of the total number of people enrolled in health insurance exchanges?",
+        "gold": "2025",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_line"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_line": 24.0
+        }
+    },
+    {
+        "imgname": "two_col_80902",
+        "question": "What was the previous year's EBITDA?",
+        "gold": "5.08",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 3.95
+        }
+    },
+    {
+        "imgname": "multi_col_40608",
+        "question": "What was the initial estimate for Denmark's economy growth?",
+        "gold": "1.5",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 1.5
+        }
+    },
+    {
+        "imgname": "two_col_42390",
+        "question": "What was the net income of Z Holdings Corporation in fiscal year 2019?",
+        "gold": "88.02",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 100.0
+        }
+    },
+    {
+        "imgname": "multi_col_1425",
+        "question": "Which age group has the minimum difference between \"Not likely at all\" and \"Very likely\" to subscribe to Disney's new online video streaming service?",
+        "gold": "65+",
+        "question_class": "Visual and Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "3d": "18-29",
+            "inverted_axis": "18-29",
+            "misrepresentation": "45-54"
+        }
+    },
+    {
+        "imgname": "multi_col_100760",
+        "question": "Which sector has the highest 'family administration'?",
+        "gold": "Building",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "services"
+        }
+    },
+    {
+        "imgname": "multi_col_100760",
+        "question": "What is the average for industry?",
+        "gold": "60",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 75.3,
+            "inappropriate_use_of_stacked": 75.3
+        }
+    },
+    {
+        "imgname": "multi_col_100760",
+        "question": "What was the share of SME companies with family management in Italy in 2018?",
+        "gold": "78.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "3d": 70.0,
+            "misrepresentation": 50.0
+        }
+    },
+    {
+        "imgname": "two_col_6244",
+        "question": "What was the brand value of HSBC in 2015?",
+        "gold": "27.3",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 30.0
+        }
+    },
+    {
+        "imgname": "multi_col_20333",
+        "question": "What is the average of all the light blue bars?",
+        "gold": "6.83",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked",
+            "inappropriate_use_of_line"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 7.5,
+            "inappropriate_use_of_line": 6.275
+        }
+    },
+    {
+        "imgname": "multi_col_80016",
+        "question": "Which sector is largest in 2021?",
+        "gold": "TLC network systems",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "ineffective_color_scheme",
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "devices & systems",
+            "ineffective_color_scheme": "devices & systems",
+            "inappropriate_use_of_log_scale": "digital advertisement & content",
+            "misrepresentation": "devices & systems"
+        }
+    },
+    {
+        "imgname": "two_col_82972",
+        "question": "How many carvedilol prescriptions were there in 2018?",
+        "gold": "22.78",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 25.0
+        }
+    },
+    {
+        "imgname": "multi_col_40930",
+        "question": "How much money are consumers expected to spend over the course of the Black Friday weekend in 2020?",
+        "gold": "7.5",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 8.033333333333333
+        }
+    },
+    {
+        "imgname": "two_col_102366",
+        "question": "What was the value of petroleum revenue tax in 2008/09?",
+        "gold": "2567",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 923.0
+        }
+    },
+    {
+        "imgname": "two_col_101928",
+        "question": "What was Turkey's poverty headcount ratio in 2018?",
+        "gold": "14.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 16.366666666666667
+        }
+    },
+    {
+        "imgname": "two_col_20648",
+        "question": "What was the previous year's sales of Brunswick Corporation?",
+        "gold": "4108.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 4347.5
+        }
+    },
+    {
+        "imgname": "two_col_81914",
+        "question": "How much did Slovakia's domestic banks' assets amount to in 2016?",
+        "gold": "12",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 60.0
+        }
+    },
+    {
+        "imgname": "two_col_2126",
+        "question": "How many homicides were reported in Denmark in 2020?",
+        "gold": "49",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 55.0
+        }
+    },
+    {
+        "imgname": "multi_col_60963",
+        "question": "What is the average prevelance of dietary supplements in people of age group 19-30 between 2003 and 2006 in the US?",
+        "gold": "39.5",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 36.0,
+            "inappropriate_use_of_stacked": 36.0
+        }
+    },
+    {
+        "imgname": "multi_col_60811",
+        "question": "What is the total value of fresh and shelf-stable vegetables?",
+        "gold": "42",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 19.0
+        }
+    },
+    {
+        "imgname": "two_col_3880",
+        "question": "How much revenue did Angry Birds generate in the most recent fiscal year?",
+        "gold": "272.3",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 300.0
+        }
+    },
+    {
+        "imgname": "two_col_2909",
+        "question": "How many people used a foodbank in 2008/09?",
+        "gold": "25899",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 2537198.0
+        }
+    },
+    {
+        "imgname": "two_col_82780",
+        "question": "What was Trinidad & Tobago's internal tourism consumption in dollars in 2019?",
+        "gold": "1.91",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 1.65
+        }
+    },
+    {
+        "imgname": "multi_col_40515",
+        "question": "How many hours per day did people with less than a high school diploma spend on leisure and sports activities?",
+        "gold": "5.98",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 6.4
+        }
+    },
+    {
+        "imgname": "two_col_1873",
+        "question": "What was the number of Hollister retail stores worldwide in 2020?",
+        "gold": "497",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 550.0
+        }
+    },
+    {
+        "imgname": "two_col_42286",
+        "question": "What percentage of Google's revenue was generated in the UK in 2015?",
+        "gold": "10",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 12.166666666666666
+        }
+    },
+    {
+        "imgname": "multi_col_101250",
+        "question": "What was the total amount of student loan debt in England in 2020?",
+        "gold": "121.81",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 130.0
+        }
+    },
+    {
+        "imgname": "multi_col_101250",
+        "question": "What was the total amount of student loan debt in England in 2020?",
+        "gold": "121.81",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 130.0
+        }
+    },
+    {
+        "imgname": "multi_col_60357",
+        "question": "How man years does the graph represent?",
+        "gold": "11",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 10.0
+        }
+    },
+    {
+        "imgname": "two_col_1640",
+        "question": "How much operating revenue did U.S. airlines generate in 2020 due to the coronavirus pandemic?",
+        "gold": "130.69",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 150.0
+        }
+    },
+    {
+        "imgname": "two_col_80983",
+        "question": "What was the highest value of French imports from Russia in 2011?",
+        "gold": "19346",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 17500.0
+        }
+    },
+    {
+        "imgname": "two_col_43613",
+        "question": "What was the net banking income of European banks in 2013?",
+        "gold": "700",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 750.0
+        }
+    },
+    {
+        "imgname": "multi_col_20335",
+        "question": "What is the percent average of the respondents not being a fan at all across all age groups?",
+        "gold": "28",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_line"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_line": 29.75
+        }
+    },
+    {
+        "imgname": "multi_col_60634",
+        "question": "How many metric tons of emissions did Dow Chemical avoid in 2005?",
+        "gold": "224",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 47.0,
+            "inappropriate_use_of_stacked": 47.0
+        }
+    },
+    {
+        "imgname": "multi_col_1229",
+        "question": "What is the total percentage of both people using Facebook and WhatsApp at 60+",
+        "gold": "49",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 44.0
+        }
+    },
+    {
+        "imgname": "two_col_101648",
+        "question": "What was the value of end-user payments for NC software in 2013?",
+        "gold": "1.64",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 1.9166666666666667
+        }
+    },
+    {
+        "imgname": "two_col_101448",
+        "question": "What was the infant mortality rate in Bahrain in 2019?",
+        "gold": "5.9",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 6.65
+        }
+    },
+    {
+        "imgname": "multi_col_80392",
+        "question": "How many international trips were made by air in Hungary in 2019?",
+        "gold": "2.56",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_stacked",
+            "inappropriate_use_of_line"
+        ],
+        "misleading_answers": {
+            "3d": 4.0,
+            "inappropriate_use_of_stacked": 1.8,
+            "inappropriate_use_of_line": 2.1
+        }
+    },
+    {
+        "imgname": "multi_col_80392",
+        "question": "How many international trips were made on land in 2019?",
+        "gold": "5.25",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 4.7
+        }
+    },
+    {
+        "imgname": "two_col_60943",
+        "question": "What was the value of commercial and industrial loans of FDIC-insured commercial banks in dollars in 2019?",
+        "gold": "2.16",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 2.15
+        }
+    },
+    {
+        "imgname": "multi_col_100212",
+        "question": "Which country is the most active in CAR cell therapy trials?",
+        "gold": "China",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "3d": "united states",
+            "inappropriate_use_of_log_scale": "invalid answer",
+            "misrepresentation": "united states"
+        }
+    },
+    {
+        "imgname": "two_col_82083",
+        "question": "The bar chart covers how many years?",
+        "gold": "6",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 5.0
+        }
+    },
+    {
+        "imgname": "two_col_82083",
+        "question": "How much venture capital did the biotechnology industry raise in 2020?",
+        "gold": "18100",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 20000.0
+        }
+    },
+    {
+        "imgname": "multi_col_100274",
+        "question": "How much did the national media take in the 2013/14 season?",
+        "gold": "560",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 600.0
+        }
+    },
+    {
+        "imgname": "multi_col_60793",
+        "question": "Which category has value of 30% in 2017/18?",
+        "gold": "11-15 years",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "misrepresentation",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": "5-10 years",
+            "misrepresentation": "none",
+            "inappropriate_use_of_stacked": "none"
+        }
+    },
+    {
+        "imgname": "two_col_101113",
+        "question": "How many years have the same emission rate of 25%?",
+        "gold": "3",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "3d": 0.0,
+            "misrepresentation": 2.0
+        }
+    },
+    {
+        "imgname": "two_col_101113",
+        "question": "What is the ratio of least and highest rates?",
+        "gold": "0.444444444",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.4566666666666667,
+            "inappropriate_use_of_stacked": 0.07846153846153847
+        }
+    },
+    {
+        "imgname": "multi_col_60173",
+        "question": "What is the average value of male and female reason?",
+        "gold": "46",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "dual_axis",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "dual_axis": 50.0,
+            "inappropriate_use_of_stacked": 42.0
+        }
+    },
+    {
+        "imgname": "two_col_63094",
+        "question": "What was Kuwait's infant mortality rate per 1,000 live births in 2019?",
+        "gold": "6.8",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 7.85
+        }
+    },
+    {
+        "imgname": "two_col_102450",
+        "question": "What is the 2019 revenue of the U.S. Virgin Islands tourism industry?",
+        "gold": "2.59",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 3.05
+        }
+    },
+    {
+        "imgname": "two_col_101398",
+        "question": "What was the total number of M&A deals in Croatia in 2020?",
+        "gold": "43",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 50.0
+        }
+    },
+    {
+        "imgname": "multi_col_203",
+        "question": "Which region had maximum number of Gucci stores in 2016?",
+        "gold": "Emerging countries",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "western europe",
+            "inappropriate_use_of_log_scale": "western europe"
+        }
+    },
+    {
+        "imgname": "multi_col_1411",
+        "question": "When did sales of beer lowest?",
+        "gold": "2010/11",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "3d": "2015/16",
+            "misrepresentation": "2011/12"
+        }
+    },
+    {
+        "imgname": "multi_col_1411",
+        "question": "what is the difference in sales of beer in the year 2013 and 2011",
+        "gold": "0.5",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": 0.0,
+            "inappropriate_use_of_stacked": 1.1666666666666667
+        }
+    },
+    {
+        "imgname": "two_col_63265",
+        "question": "What was the PLF of nuclear stations in 2019?",
+        "gold": "62.9",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 70.0
+        }
+    },
+    {
+        "imgname": "two_col_43542",
+        "question": "How much money did nonprofit organizations report to the IRS in 2016?",
+        "gold": "2.62",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 34.0
+        }
+    },
+    {
+        "imgname": "two_col_83559",
+        "question": "What percentage of total mobile service revenue did mobile data account for in the UK in 2015?",
+        "gold": "27.6",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 30.0
+        }
+    },
+    {
+        "imgname": "multi_col_80619",
+        "question": "Who was the market leader in terms of mobile data traffic for the given time period?",
+        "gold": "Telenor",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "ineffective_color_scheme"
+        ],
+        "misleading_answers": {
+            "ineffective_color_scheme": "telekom srbija"
+        }
+    },
+    {
+        "imgname": "multi_col_80619",
+        "question": "What was Telenor's market share in 2012?",
+        "gold": "45.2",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "ineffective_color_scheme"
+        ],
+        "misleading_answers": {
+            "ineffective_color_scheme": 34.8
+        }
+    },
+    {
+        "imgname": "two_col_43721",
+        "question": "What was the population of Eswatini in 2017?",
+        "gold": "1.1",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 1.275
+        }
+    },
+    {
+        "imgname": "two_col_103165",
+        "question": "How much CO2 did agriculture emit in Finland in 2018?",
+        "gold": "6.6",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 7.05
+        }
+    },
+    {
+        "imgname": "two_col_82674",
+        "question": "What percentage of Panama's GDP did government expenditure amount to in 2020?",
+        "gold": "28.61",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 24.25
+        }
+    },
+    {
+        "imgname": "two_col_518",
+        "question": "Which age group has highest share of population in 2021?",
+        "gold": "18 to 29 years",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "30 to 49 years"
+        }
+    },
+    {
+        "imgname": "two_col_23250",
+        "question": "How many Abercrombie & Fitch stores were open worldwide in 2020?",
+        "gold": "735",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 800.0
+        }
+    },
+    {
+        "imgname": "two_col_42294",
+        "question": "What was Five Below's net sales per store a year earlier?",
+        "gold": "2.2",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2.0
+        }
+    },
+    {
+        "imgname": "multi_col_20895",
+        "question": "What is the total value of 13-17 years old who using Facebook ?",
+        "gold": "1.6",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 0.8
+        }
+    },
+    {
+        "imgname": "two_col_83529",
+        "question": "What is the average of all the years?",
+        "gold": "2.07",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.9
+        }
+    },
+    {
+        "imgname": "two_col_83529",
+        "question": "What was the market share of non-alcoholic beer in Italy in 2019?",
+        "gold": "1.6",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 2.0
+        }
+    },
+    {
+        "imgname": "two_col_80637",
+        "question": "What was the import trade value of bamboo and rattan furniture in the United States in 2015?",
+        "gold": "21.07",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 20.0
+        }
+    },
+    {
+        "imgname": "two_col_101515",
+        "question": "What was the value of private equity investments as of 2016?",
+        "gold": "87.23",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 150.0
+        }
+    },
+    {
+        "imgname": "two_col_101888",
+        "question": "What was the annual personnel cost of the leather and related products industry in 2016?",
+        "gold": "275.8",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 300.0
+        }
+    },
+    {
+        "imgname": "multi_col_1313",
+        "question": "What was the direct value of the fashion industry measured at in 2014?",
+        "gold": "26",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 30.0
+        }
+    },
+    {
+        "imgname": "multi_col_953",
+        "question": "What is the largest growth segment for Revenue share between 2009 and 2020?",
+        "gold": "Outdoor/Fitness",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "automotive/mobile"
+        }
+    },
+    {
+        "imgname": "two_col_41891",
+        "question": "What was the total number of bank branches in Italy in 2011?",
+        "gold": "33607",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 30000.0
+        }
+    },
+    {
+        "imgname": "two_col_104883",
+        "question": "What was the highest salary in the cruise industry in 2019?",
+        "gold": "9.93",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 10.75
+        }
+    },
+    {
+        "imgname": "multi_col_60848",
+        "question": "What did the majority of people who immigrated to Greenland in 2020 have?",
+        "gold": "Danish citizenship",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "1762"
+        }
+    },
+    {
+        "imgname": "multi_col_60118",
+        "question": "How many drug recall enforcement reports were issued for prescription drugs in 2015?",
+        "gold": "195",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 39.0
+        }
+    },
+    {
+        "imgname": "two_col_100411",
+        "question": "What is the median value?",
+        "gold": "37700",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 88715.0
+        }
+    },
+    {
+        "imgname": "multi_col_21042",
+        "question": "What is the average of Hot dog?",
+        "gold": "4.625",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 6.4223333333333334
+        }
+    },
+    {
+        "imgname": "two_col_100608",
+        "question": "How many children were adopted in Norway in 2019?",
+        "gold": "332",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 400.0
+        }
+    },
+    {
+        "imgname": "multi_col_100998",
+        "question": "How many criminal offences were solved in the same year?",
+        "gold": "313438",
+        "question_class": "Compositional",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": 400000.0,
+            "inappropriate_use_of_stacked": 339149.0
+        }
+    },
+    {
+        "imgname": "multi_col_100998",
+        "question": "How many criminal offences were reported to the authorities in 2020?",
+        "gold": "543429",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 313438.0
+        }
+    },
+    {
+        "imgname": "two_col_40072",
+        "question": "What was the PLF of all power stations in the UK in 2019?",
+        "gold": "35.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 40.0
+        }
+    },
+    {
+        "imgname": "two_col_43808",
+        "question": "What was the turnover of clothing stores in 2019?",
+        "gold": "41140",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 45000.0
+        }
+    },
+    {
+        "imgname": "two_col_80557",
+        "question": "How much money did the Olympic Games in Rio contribute to the IFs in 2016?",
+        "gold": "540",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 500.0
+        }
+    },
+    {
+        "imgname": "two_col_80815",
+        "question": "What was the fertility rate in Senegal in 2018?",
+        "gold": "4.63",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 5.233333333333333
+        }
+    },
+    {
+        "imgname": "two_col_60569",
+        "question": "What was the ratio of females to males in tertiary education in Vietnam in 2005?",
+        "gold": "0.71",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 1.0333333333333334
+        }
+    },
+    {
+        "imgname": "multi_col_133",
+        "question": "In how many years the number of eSports enthusiasts is above 200 in this graph?",
+        "gold": "3",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "dual_axis",
+            "misrepresentation",
+            "inappropriate_use_of_line"
+        ],
+        "misleading_answers": {
+            "dual_axis": 4.0,
+            "misrepresentation": 2.0,
+            "inappropriate_use_of_line": 4.0
+        }
+    },
+    {
+        "imgname": "multi_col_133",
+        "question": "How many eSports enthusiasts are expected to be around by 2024?",
+        "gold": "285.7",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 300.0
+        }
+    },
+    {
+        "imgname": "two_col_62653",
+        "question": "How much did the population of Latin America & Caribbean grow in 2019?",
+        "gold": "0.93",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 1.0
+        }
+    },
+    {
+        "imgname": "multi_col_60050",
+        "question": "What was the sales of imported beer in Ontario in dollars in 2020?",
+        "gold": "716.55",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 800.0
+        }
+    },
+    {
+        "imgname": "two_col_21243",
+        "question": "What was the net sales of LafargeHolcim Ltd in dollars in the fiscal year of 2019?",
+        "gold": "27.47",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 30.6
+        }
+    }
+]

@@ -1,0 +1,72 @@
+{
+    "title": "CPIA ratings of different policies of Timor-Leste",
+    "legend": {
+        "Gender equality": "#6495ED",
+        "Social Protection": "#FF0000",
+        "Quality of public administration": "#32CD32",
+        "Public sector management": "#FF00FF"
+    },
+    "categories": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "data": {
+        "Gender equality": [
+            3.5,
+            3.5,
+            3.5,
+            3.5
+        ],
+        "Social Protection": [
+            2.5,
+            2.5,
+            2.5,
+            2.5
+        ],
+        "Quality of public administration": [
+            2.0,
+            2.0,
+            2.0,
+            3.0
+        ],
+        "Public sector management": [
+            2.5,
+            2.5,
+            2.5,
+            2.5
+        ]
+    },
+    "colors": {
+        "Gender equality": "#6495ED",
+        "Social Protection": "#FF0000",
+        "Quality of public administration": "#32CD32",
+        "Public sector management": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

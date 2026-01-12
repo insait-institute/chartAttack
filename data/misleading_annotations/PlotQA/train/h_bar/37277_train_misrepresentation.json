@@ -1,0 +1,77 @@
+{
+    "title": "Different countries expenditure on education as percentage of government expenditure",
+    "legend": {
+        "Austria": "#8B4513",
+        "Barbados": "#20B2AA",
+        "El Salvador": "#BEBEBE"
+    },
+    "categories": [
+        "Primary",
+        "Secondary",
+        "Tertiary"
+    ],
+    "data": {
+        "Austria": [
+            19.7230892181396,
+            48.9391212463379,
+            23.5198001861572
+        ],
+        "Barbados": [
+            26.8219699859619,
+            35.0073204040527,
+            28.6243000030518
+        ],
+        "El Salvador": [
+            57.1815605163574,
+            26.2787399291992,
+            7.71087980270386
+        ]
+    },
+    "colors": {
+        "Austria": "#8B4513",
+        "Barbados": "#20B2AA",
+        "El Salvador": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Austria": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Barbados": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "El Salvador": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

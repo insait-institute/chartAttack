@@ -1,0 +1,62 @@
+{
+    "title": "Rent as percent of GDP towards minerals,forest of countries in 2010",
+    "legend": {
+        "Hungary": "#FF0000",
+        "Israel": "#7FFFD4",
+        "Norway": "#FF4500",
+        "Poland": "#FF00FF"
+    },
+    "categories": [
+        "Mineral",
+        "Forest"
+    ],
+    "data": {
+        "Hungary": [
+            0.000921064408944586,
+            0.1631199794383389
+        ],
+        "Israel": [
+            0.0880123635423417,
+            0.0006363016887922638
+        ],
+        "Norway": [
+            0.0795008811758187,
+            0.118602232213642
+        ],
+        "Poland": [
+            0.560757403352029,
+            0.336669405594489
+        ]
+    },
+    "colors": {
+        "Hungary": "#FF0000",
+        "Israel": "#7FFFD4",
+        "Norway": "#FF4500",
+        "Poland": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

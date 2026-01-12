@@ -1,0 +1,66 @@
+{
+    "title": "CO2 emissions from different fuel consumption in 2000",
+    "x_axis": {
+        "categories": [
+            "Gaseous fuel",
+            "Liquid fuel",
+            "Solid fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "OECD members": "#2E8B57",
+        "Brazil": "#40E0D0",
+        "Greece": "#6A5ACD",
+        "Uruguay": "#D2691E"
+    },
+    "data": {
+        "OECD members": [
+            20.770685261939,
+            43.60566713063089,
+            33.2567419619205
+        ],
+        "Brazil": [
+            5.49518123476666,
+            71.3590930435366,
+            15.6257686545471
+        ],
+        "Greece": [
+            4.26272814601345,
+            48.4750240153698,
+            38.844860710855
+        ],
+        "Uruguay": [
+            1.17484450587422,
+            92.25984796129922,
+            0.0691085003455425
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

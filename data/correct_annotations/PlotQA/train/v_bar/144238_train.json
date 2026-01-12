@@ -1,0 +1,76 @@
+{
+    "title": "CPIA Trade rating",
+    "x_axis": {
+        "categories": [
+            "Sierra Leone",
+            "Solomon Islands",
+            "Sri Lanka",
+            "St. Lucia",
+            "St. Vincent and the Grenadines"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#90EE90",
+        "2006": "#B03060",
+        "2007": "#D2691E",
+        "2008": "#FFA500"
+    },
+    "data": {
+        "2005": [
+            3.5,
+            3.0,
+            3.5,
+            4.0,
+            4.0
+        ],
+        "2006": [
+            3.0,
+            3.5,
+            4.0,
+            4.0,
+            2.5
+        ],
+        "2007": [
+            3.5,
+            3.0,
+            3.5,
+            4.0,
+            4.0
+        ],
+        "2008": [
+            3.5,
+            3.0,
+            3.5,
+            4.0,
+            4.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

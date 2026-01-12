@@ -1,0 +1,71 @@
+{
+    "title": "Mineral rent of different countries at the time of the survey in 1998",
+    "x_axis": {
+        "categories": [
+            "Euro area",
+            "Europe(all income levels)",
+            "Europe(developing only)",
+            "European Union"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Coal": "#483D8B",
+        "Natural Gas": "#008080",
+        "Oil": "#000000",
+        "Other Minerals": "#DAA520"
+    },
+    "data": {
+        "Coal": [
+            0.000209192394630613,
+            0.0118005368045373,
+            0.111389908213694,
+            0.000157370313526939
+        ],
+        "Natural Gas": [
+            0.0801039276461868,
+            0.384996335429445,
+            1.0935830024363,
+            0.123034271500257
+        ],
+        "Oil": [
+            0.0118751573799887,
+            0.3706312317355901,
+            0.9796951178187141,
+            0.1035178084357
+        ],
+        "Other Minerals": [
+            0.000270210475290452,
+            0.00858001043346347,
+            0.105880770107705,
+            0.00287865032035136
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

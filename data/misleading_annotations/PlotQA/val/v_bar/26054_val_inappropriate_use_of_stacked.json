@@ -1,0 +1,62 @@
+{
+    "title": "Population of different countries in 1967",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "OECD members": "#f27979",
+        "Other small states": "#79f200",
+        "Pacific island small states": "#52a5a5",
+        "Small states": "#5200a5"
+    },
+    "data": {
+        "OECD members": [
+            9.127466865061107
+        ],
+        "Other small states": [
+            3.70110516847721
+        ],
+        "Pacific island small states": [
+            2.62374136837741
+        ],
+        "Small states": [
+            3.94389827113264
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "OECD members": "#f27979",
+        "Other small states": "#79f200",
+        "Pacific island small states": "#52a5a5",
+        "Small states": "#5200a5"
+    }
+}

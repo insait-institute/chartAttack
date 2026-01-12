@@ -1,0 +1,77 @@
+{
+    "title": "Ores,manufactures and fuel imports of different countries in 2009",
+    "x_axis": {
+        "categories": [
+            "Botswana",
+            "Brazil",
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi",
+            "Cabo Verde"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ores and metals": "#00ced1",
+        "Manufactures": "#00add1",
+        "Fuel": "#0092db"
+    },
+    "data": {
+        "Ores and metals": [
+            2.05692105942593,
+            2.86024542914723,
+            6.65623506034006,
+            0.64789802210401,
+            0.611722873912052,
+            1.23517830009828
+        ],
+        "Manufactures": [
+            69.5399850096145,
+            75.8771850011019,
+            58.5618215731591,
+            58.95316485618201,
+            80.84662100733499,
+            56.4562375725944
+        ],
+        "Fuel": [
+            13.2491923542008,
+            14.8023914045738,
+            20.1773560111423,
+            23.5835973036844,
+            2.41166744572227,
+            11.5877516513606
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Ores and metals": "#00ced1",
+        "Manufactures": "#00add1",
+        "Fuel": "#0092db"
+    }
+}

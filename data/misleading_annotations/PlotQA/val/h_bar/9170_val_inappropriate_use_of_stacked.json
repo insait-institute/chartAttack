@@ -1,0 +1,57 @@
+{
+    "title": "Male unemployment expressed as percentage of male labor force",
+    "legend": {
+        "Ireland": "#f27979",
+        "Israel": "#79f200",
+        "Italy": "#52a5a5",
+        "Jamaica": "#5200a5"
+    },
+    "categories": [
+        "Male unemployment expressed as percentage of male labor force"
+    ],
+    "data": {
+        "Ireland": [
+            15.3999996185303
+        ],
+        "Israel": [
+            8.60000038146973
+        ],
+        "Italy": [
+            6.800000190734861
+        ],
+        "Jamaica": [
+            9.69999980926514
+        ]
+    },
+    "colors": {
+        "Ireland": "#f27979",
+        "Israel": "#79f200",
+        "Italy": "#52a5a5",
+        "Jamaica": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Incidence rate per 100,000 population",
+    "categories": [
+        "Incidence rate per 100,000 population"
+    ],
+    "data": {
+        "USA: Black": [
+            446.1
+        ],
+        "Australia": [
+            377.5
+        ],
+        "USA: White": [
+            365.6
+        ],
+        "Slovakia": [
+            330.1
+        ],
+        "Denmark": [
+            324.4
+        ],
+        "Spain": [
+            319.9
+        ],
+        "Japan": [
+            264.9
+        ],
+        "Colombia": [
+            225.9
+        ],
+        "China": [
+            220.8
+        ],
+        "Costa Rica": [
+            182.6
+        ],
+        "Uganda": [
+            177.3
+        ],
+        "India": [
+            100.4
+        ]
+    },
+    "colors": {
+        "USA: Black": "#f27979",
+        "Australia": "#f27900",
+        "USA: White": "#f2f279",
+        "Slovakia": "#79f200",
+        "Denmark": "#79f279",
+        "Spain": "#00a552",
+        "Japan": "#52a5a5",
+        "Colombia": "#0052a5",
+        "China": "#5252a5",
+        "Costa Rica": "#5200a5",
+        "Uganda": "#f279f2",
+        "India": "#f20079"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 450
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "USA: Black": "#f27979",
+        "Australia": "#f27900",
+        "USA: White": "#f2f279",
+        "Slovakia": "#79f200",
+        "Denmark": "#79f279",
+        "Spain": "#00a552",
+        "Japan": "#52a5a5",
+        "Colombia": "#0052a5",
+        "China": "#5252a5",
+        "Costa Rica": "#5200a5",
+        "Uganda": "#f279f2",
+        "India": "#f20079"
+    }
+}

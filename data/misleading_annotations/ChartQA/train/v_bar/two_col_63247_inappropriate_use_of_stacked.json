@@ -1,0 +1,82 @@
+{
+    "title": "Market size in million GBP",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Market size in million GBP"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f2b500",
+        "2012": "#b5f279",
+        "2013": "#00a529",
+        "2014": "#52a5a5",
+        "2015": "#0029a5",
+        "2016": "#b579f2",
+        "2017": "#f200b5"
+    },
+    "data": {
+        "2010": [
+            195.0
+        ],
+        "2011": [
+            197.0
+        ],
+        "2012": [
+            208.0
+        ],
+        "2013": [
+            219.0
+        ],
+        "2014": [
+            233.0
+        ],
+        "2015": [
+            242.0
+        ],
+        "2016": [
+            246.0
+        ],
+        "2017": [
+            250.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 250
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f2b500",
+        "2012": "#b5f279",
+        "2013": "#00a529",
+        "2014": "#52a5a5",
+        "2015": "#0029a5",
+        "2016": "#b579f2",
+        "2017": "#f200b5"
+    }
+}

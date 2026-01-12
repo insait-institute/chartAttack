@@ -1,0 +1,61 @@
+{
+    "title": "Adult literacy rate among population of different countries with age above 15years",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bolivia": "#6b8e23",
+        "Congo (Democratic)": "#5a8e23",
+        "Namibia": "#4d9625"
+    },
+    "data": {
+        "Bolivia": [
+            80.6543807983398,
+            93.0574722290039
+        ],
+        "Congo (Democratic)": [
+            54.0608940124512,
+            80.92323303222659
+        ],
+        "Namibia": [
+            83.4900894165039,
+            86.77044677734379
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Bolivia": "#6b8e23",
+        "Congo (Democratic)": "#5a8e23",
+        "Namibia": "#4d9625"
+    }
+}

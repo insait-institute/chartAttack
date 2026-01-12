@@ -1,0 +1,129 @@
+{
+    "title": "",
+    "legend": {
+        "EU": "#2876dd",
+        "Euro area": "#0f283e"
+    },
+    "x_axis": [
+        "Jan '20",
+        "Feb '20",
+        "Mar '20",
+        "Apr '20",
+        "May '20",
+        "Jun '20",
+        "Jul '20",
+        "Aug '20",
+        "Sep '20",
+        "Oct '20",
+        "Nov '20",
+        "Dec '20",
+        "Jan '21"
+    ],
+    "y_axis_label": "Youth unemployment in millions",
+    "data": [
+        {
+            "label": "EU",
+            "color": "#2876dd",
+            "values": [
+                2.69,
+                2.69,
+                2.62,
+                2.77,
+                2.81,
+                2.96,
+                3.21,
+                3.18,
+                3.07,
+                2.97,
+                2.92,
+                2.93,
+                2.93
+            ]
+        },
+        {
+            "label": "Euro area",
+            "color": "#0f283e",
+            "values": [
+                2.27,
+                2.18,
+                2.16,
+                2.25,
+                2.27,
+                2.39,
+                2.62,
+                2.6,
+                2.52,
+                2.43,
+                2.38,
+                2.37,
+                2.36
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": [
+        {
+            "label": "EU",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5
+            ]
+        },
+        {
+            "label": "Euro area",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5
+            ]
+        }
+    ]
+}

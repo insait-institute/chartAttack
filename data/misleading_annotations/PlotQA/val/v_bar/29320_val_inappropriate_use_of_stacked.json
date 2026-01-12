@@ -1,0 +1,72 @@
+{
+    "title": "Total male labor force participation rate for ages 60+",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Romania": "#f27979",
+        "Russian Federation": "#f2f200",
+        "Rwanda": "#79f279",
+        "Samoa": "#00a5a5",
+        "Sao Tome and Principe": "#5252a5",
+        "Saudi Arabia": "#a500a5"
+    },
+    "data": {
+        "Romania": [
+            74.8000030517578
+        ],
+        "Russian Federation": [
+            81.599998474121
+        ],
+        "Rwanda": [
+            89.4000015258789
+        ],
+        "Samoa": [
+            79.8000030517578
+        ],
+        "Sao Tome and Principe": [
+            79.5
+        ],
+        "Saudi Arabia": [
+            82.3000030517578
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Romania": "#f27979",
+        "Russian Federation": "#f2f200",
+        "Rwanda": "#79f279",
+        "Samoa": "#00a5a5",
+        "Sao Tome and Principe": "#5252a5",
+        "Saudi Arabia": "#a500a5"
+    }
+}

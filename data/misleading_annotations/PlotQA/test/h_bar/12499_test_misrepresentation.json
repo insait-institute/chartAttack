@@ -1,0 +1,98 @@
+{
+    "title": "Net disbursements of loans in Djibouti",
+    "legend": {
+        "Regional development banks": "#00BFFF",
+        "International Monetary Fund": "#ADFF2F",
+        "International Development Association": "#8A2BE2",
+        "Others": "#FFA500"
+    },
+    "categories": [
+        "2010",
+        "2011",
+        "2012",
+        "2014"
+    ],
+    "data": {
+        "Regional development banks": [
+            1693000,
+            1561000,
+            -1765000,
+            -3322000
+        ],
+        "International Monetary Fund": [
+            -3328000,
+            4402000,
+            17693000,
+            -1398000
+        ],
+        "International Development Association": [
+            -848000,
+            -1668000,
+            -1992000,
+            -2418000
+        ],
+        "Others": [
+            6918000,
+            24671000,
+            -621000,
+            23155000
+        ]
+    },
+    "colors": {
+        "Regional development banks": "#00BFFF",
+        "International Monetary Fund": "#ADFF2F",
+        "International Development Association": "#8A2BE2",
+        "Others": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 24671000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Regional development banks": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "International Monetary Fund": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "International Development Association": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Others": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

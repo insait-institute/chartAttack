@@ -1,0 +1,104 @@
+{
+    "title": "Number of hotel rooms",
+    "legend": {
+        "Hotel Rooms": "#2876dd"
+    },
+    "categories": [
+        "Italy",
+        "Germany",
+        "Spain",
+        "Turkey*",
+        "France",
+        "Greece*",
+        "Austria",
+        "Poland",
+        "Portugal",
+        "Czech Republic",
+        "Switzerland*",
+        "Netherlands",
+        "Sweden",
+        "Bulgaria",
+        "Romania",
+        "Norway*",
+        "Croatia",
+        "Hungary",
+        "Belgium",
+        "Finland",
+        "Denmark",
+        "Slovakia",
+        "Cyprus",
+        "Serbia*",
+        "Malta",
+        "Lithuania",
+        "Estonia",
+        "Iceland",
+        "Latvia",
+        "North Macedonia",
+        "Luxembourg",
+        "Liechtenstein"
+    ],
+    "data": {
+        "Hotel Rooms": [
+            1092758,
+            993298,
+            933500,
+            693162,
+            654478,
+            420991,
+            290878,
+            176925,
+            157325,
+            141110,
+            140884,
+            138546,
+            129033,
+            127052,
+            117125,
+            89381,
+            82038,
+            75013,
+            61023,
+            60444,
+            51633,
+            44352,
+            43792,
+            27318,
+            20133,
+            18140,
+            17017,
+            15855,
+            13389,
+            10737,
+            7492,
+            782
+        ]
+    },
+    "colors": {
+        "Hotel Rooms": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1092760
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

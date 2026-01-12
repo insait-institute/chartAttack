@@ -1,0 +1,78 @@
+{
+    "title": "Number of immigrants",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of immigrants"
+    },
+    "legend": {
+        "Danish citizenship": "#2876dd",
+        "Foreign citizenship": "#0f283e"
+    },
+    "data": {
+        "Danish citizenship": [
+            2238,
+            2056,
+            1955,
+            1936,
+            1955,
+            2008,
+            2255,
+            2113,
+            2070,
+            2083,
+            1762
+        ],
+        "Foreign citizenship": [
+            253,
+            227,
+            236,
+            130,
+            193,
+            178,
+            196,
+            174,
+            246,
+            227,
+            149
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2260
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

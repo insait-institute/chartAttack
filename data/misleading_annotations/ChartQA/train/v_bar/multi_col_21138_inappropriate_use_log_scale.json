@@ -1,0 +1,76 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "An integrated system": "#2876dd",
+        "A hand-held / plug and go system": "#0f283e",
+        "None": "#bababa"
+    },
+    "data": {
+        "An integrated system": [
+            6,
+            6,
+            7,
+            9,
+            11,
+            13,
+            17
+        ],
+        "A hand-held / plug and go system": [
+            27,
+            32,
+            33,
+            37,
+            37,
+            39,
+            35
+        ],
+        "None": [
+            68,
+            61,
+            59,
+            54,
+            52,
+            48,
+            48
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

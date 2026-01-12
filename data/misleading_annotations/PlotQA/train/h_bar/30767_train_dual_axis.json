@@ -1,0 +1,67 @@
+{
+    "title": "Number of trademark applications made by an economy in 1963",
+    "legend": {
+        "Nonresident": "#FFA07A",
+        "Resident": "#B8860B"
+    },
+    "categories": [
+        "Iraq",
+        "Ireland",
+        "Israel",
+        "Italy"
+    ],
+    "data": {
+        "Nonresident": [
+            556,
+            1399,
+            2051,
+            1864
+        ],
+        "Resident": [
+            501,
+            352,
+            363,
+            7255
+        ]
+    },
+    "colors": {
+        "Nonresident": "#FFA07A",
+        "Resident": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 556,
+                "max_value": 2051
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 352,
+                "max_value": 7255
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

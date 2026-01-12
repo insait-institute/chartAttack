@@ -1,0 +1,72 @@
+{
+    "title": "Merchandise imports to low and middle-income economies outside region",
+    "legend": {
+        "Azerbaijan": "#A020F0",
+        "Korea (Republic)": "#00BFFF",
+        "Sierra Leone": "#5F9EA0"
+    },
+    "categories": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "Azerbaijan": [
+            9.7719238944383,
+            12.1889260295131,
+            11.9978580690538,
+            9.85849445389948,
+            10.1004598115606,
+            11.4010754944539
+        ],
+        "Korea (Republic)": [
+            25.6574498386196,
+            25.5251814613088,
+            27.1727873760369,
+            28.3608585307594,
+            30.2758178427247,
+            32.8262707898387
+        ],
+        "Sierra Leone": [
+            10.6073503371506,
+            15.0183386023078,
+            18.3690240468759,
+            20.6356341361768,
+            31.4317128784635,
+            31.1307592900801
+        ]
+    },
+    "colors": {
+        "Azerbaijan": "#A020F0",
+        "Korea (Republic)": "#00BFFF",
+        "Sierra Leone": "#5F9EA0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

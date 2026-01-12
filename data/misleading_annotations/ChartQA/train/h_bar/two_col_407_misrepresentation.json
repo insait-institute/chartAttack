@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Production": "#2876dd"
+    },
+    "categories": [
+        "Wisconsin",
+        "California",
+        "Idaho",
+        "New Mexico",
+        "New York",
+        "Minnesota",
+        "South Dakota",
+        "Pennsylvania",
+        "Iowa",
+        "Ohio"
+    ],
+    "data": {
+        "Production": [
+            3389763,
+            2434870,
+            1014224,
+            962449,
+            870080,
+            741743,
+            450413,
+            435874,
+            355222,
+            226816
+        ]
+    },
+    "colors": {
+        "Production": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3389770
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Production": [
+            0.5,
+            2.0,
+            1.25,
+            1.25,
+            1.5,
+            1.5,
+            1.75,
+            1.25,
+            0.75,
+            0.5
+        ]
+    }
+}

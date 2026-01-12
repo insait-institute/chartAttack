@@ -1,0 +1,64 @@
+{
+    "title": "Total rural population of a country",
+    "x_axis": {
+        "categories": [
+            "Thailand",
+            "Timor-Leste",
+            "Togo",
+            "Tonga"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#008B8B",
+        "1961": "#A020F0",
+        "1962": "#BC8F8F"
+    },
+    "data": {
+        "1960": [
+            80.328,
+            89.90899999999998,
+            89.902,
+            82.448
+        ],
+        "1961": [
+            80.219,
+            89.757,
+            89.06,
+            82.071
+        ],
+        "1962": [
+            80.11,
+            89.48899999999998,
+            88.156,
+            81.688
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Rent as percent of GDP towards minerals,forest of countries in 1972",
+    "legend": {
+        "China": "#f27979",
+        "Colombia": "#79f200",
+        "Congo (Democratic)": "#52a5a5",
+        "Congo (Republic)": "#5200a5"
+    },
+    "categories": [
+        "Rent as percent of GDP towards minerals,forest of countries in 1972"
+    ],
+    "data": {
+        "China": [
+            0.1134355307023049
+        ],
+        "Colombia": [
+            0.0111491666711021
+        ],
+        "Congo (Democratic)": [
+            5.21566893596073
+        ],
+        "Congo (Republic)": [
+            0.304538169931352
+        ]
+    },
+    "colors": {
+        "China": "#f27979",
+        "Colombia": "#79f200",
+        "Congo (Democratic)": "#52a5a5",
+        "Congo (Republic)": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,82 @@
+{
+    "title": "",
+    "legend": {
+        "Total contribution": "#2876dd",
+        "Direct contribution": "#0f283e"
+    },
+    "x_axis": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "y_axis_label": "Percentage of GDP",
+    "data": [
+        {
+            "label": "Total contribution",
+            "color": "#2876dd",
+            "values": [
+                14.5,
+                14.22,
+                14.88,
+                15.37,
+                15.62,
+                15.99,
+                16.15,
+                16.47,
+                16.44,
+                16.28
+            ]
+        },
+        {
+            "label": "Direct contribution",
+            "color": "#0f283e",
+            "values": [
+                5.1,
+                5.03,
+                5.17,
+                5.35,
+                5.52,
+                5.64,
+                5.77,
+                5.82,
+                5.77,
+                5.66
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Death rates through the 20th century, United States, 1966",
+    "categories": [
+        "Heart disease",
+        "Cancers",
+        "Stroke",
+        "Accidents",
+        "Pneumonia and influenza",
+        "Road accidents",
+        "Diabetes",
+        "Suicide",
+        "Tuberculosis"
+    ],
+    "data": {
+        "values": [
+            371.7,
+            155.3,
+            104.7,
+            58.1,
+            32.5,
+            27.1,
+            17.7,
+            10.9,
+            3.9
+        ]
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 380
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Heart disease": "#d73c50",
+        "Cancers": "#c05917",
+        "Stroke": "#4c6a9c",
+        "Accidents": "#00823f",
+        "Pneumonia and influenza": "#883039",
+        "Road accidents": "#00847e",
+        "Diabetes": "#cf0a66",
+        "Suicide": "#b13507",
+        "Tuberculosis": "#3c4e66"
+    }
+}

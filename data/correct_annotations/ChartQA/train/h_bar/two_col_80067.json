@@ -1,0 +1,60 @@
+{
+    "title": "Average retail price in U.S. cents per kilowatt hour",
+    "legend": {
+        "States": "#2876dd"
+    },
+    "categories": [
+        "North Dakota",
+        "Louisiana",
+        "Oklahoma",
+        "Washington",
+        "Missouri",
+        "Nebraska",
+        "Arkansas",
+        "Idaho",
+        "Utah",
+        "Wyoming"
+    ],
+    "data": {
+        "States": [
+            9.01,
+            9.05,
+            9.06,
+            9.43,
+            9.52,
+            9.6,
+            9.84,
+            9.91,
+            10.09,
+            10.49
+        ]
+    },
+    "colors": {
+        "States": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Total amount collected by an economy from different taxes in 2003",
+    "x_axis": {
+        "categories": [
+            "Burkina Faso",
+            "Cambodia",
+            "Canada",
+            "Chile",
+            "Colombia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Taxes on revenue": "#FF0000",
+        "Taxes on exports": "#483D8B",
+        "Taxes on goods and services": "#DC143C",
+        "Taxes on income": "#8B008B"
+    },
+    "data": {
+        "Taxes on revenue": [
+            271103148478.9,
+            1397151861276.0,
+            165643000000.0,
+            8341290000000.0,
+            30662852022347.3
+        ],
+        "Taxes on exports": [
+            855600000.0,
+            1282922741.6,
+            294786949800.0,
+            1000000.0,
+            3004550.0
+        ],
+        "Taxes on goods and services": [
+            147209293281.9,
+            689434530556.0,
+            42103000000.0,
+            5191940000000.0,
+            15126816114120.1
+        ],
+        "Taxes on income": [
+            150419385199.0,
+            120559000000.0,
+            2484550000000.0,
+            13057762156006.8,
+            34401462000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30662852022350
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

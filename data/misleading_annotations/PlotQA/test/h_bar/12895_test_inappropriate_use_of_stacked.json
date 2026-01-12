@@ -1,0 +1,62 @@
+{
+    "title": "Long term external debts owed by residents of a country",
+    "legend": {
+        "Jamaica": "#f27979",
+        "Jordan": "#c1f200",
+        "Kenya": "#52a574",
+        "Lao PDR": "#0042a5",
+        "Lebanon": "#da79f2"
+    },
+    "categories": [
+        "Long term external debts owed by residents of a country"
+    ],
+    "data": {
+        "Jamaica": [
+            9736000.0
+        ],
+        "Jordan": [
+            11800000.0
+        ],
+        "Kenya": [
+            49345000.0
+        ],
+        "Lao PDR": [
+            4424000.0
+        ],
+        "Lebanon": [
+            9726000.0
+        ]
+    },
+    "colors": {
+        "Jamaica": "#f27979",
+        "Jordan": "#c1f200",
+        "Kenya": "#52a574",
+        "Lao PDR": "#0042a5",
+        "Lebanon": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 185779000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

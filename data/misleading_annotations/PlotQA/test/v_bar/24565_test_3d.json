@@ -1,0 +1,64 @@
+{
+    "title": "Number of documents required per shipment to export goods",
+    "x_axis": {
+        "categories": [
+            "Upper middle income",
+            "World",
+            "Afghanistan",
+            "Albania"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#2F4F4F",
+        "2006": "#CD853F",
+        "2007": "#708090"
+    },
+    "data": {
+        "2005": [
+            6.510638297872338,
+            6.62068965517241,
+            10.0,
+            7.0
+        ],
+        "2006": [
+            6.5,
+            6.561797752808992,
+            10.0,
+            7.0
+        ],
+        "2007": [
+            6.375,
+            6.408839779005518,
+            10.0,
+            7.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

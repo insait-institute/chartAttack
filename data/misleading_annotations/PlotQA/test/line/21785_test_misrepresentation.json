@@ -1,0 +1,70 @@
+{
+    "title": "Use of IMF credit in the Department of Defense of Nicaragua",
+    "legend": {
+        "Use of IMF credit (DOD": "#8B008B"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "y_axis_label": "IMF credit(in current US$)",
+    "data": [
+        {
+            "label": "Use of IMF credit (DOD",
+            "color": "#8B008B",
+            "values": [
+                50979420.3,
+                39252255.2,
+                28787959.8,
+                27011984.2,
+                51869010.4,
+                182044619.1
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 27011980,
+                "max_value": 182044620
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Use of IMF credit (DOD",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

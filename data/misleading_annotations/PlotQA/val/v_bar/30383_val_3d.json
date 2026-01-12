@@ -1,0 +1,76 @@
+{
+    "title": "Imports of goods and services",
+    "x_axis": {
+        "categories": [
+            "Mexico",
+            "Moldova",
+            "Netherlands",
+            "Nicaragua",
+            "Pakistan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#00FFFF",
+        "2006": "#20B2AA",
+        "2007": "#A020F0",
+        "2008": "#8A2BE2"
+    },
+    "data": {
+        "2005": [
+            245100000000.0,
+            2544460000.0,
+            391931000000.0,
+            2852800000.0,
+            29273200000.0
+        ],
+        "2006": [
+            280272000000.0,
+            2925290000.0,
+            440776000000.0,
+            3680700000.0,
+            35098480000.0
+        ],
+        "2007": [
+            307509000000.0,
+            4065240000.0,
+            521509000000.0,
+            4450700000.0,
+            37585100000.0
+        ],
+        "2008": [
+            335150000000.0,
+            5368890000.0,
+            595434000000.0,
+            5255300000.0,
+            47927000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 595434000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

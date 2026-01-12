@@ -1,0 +1,72 @@
+{
+    "title": "Agricultural methane emissions by a country",
+    "legend": {
+        "1990": "#2F4F4F",
+        "2000": "#ADFF2F",
+        "2005": "#F4A460"
+    },
+    "categories": [
+        "East Asia (developing only)",
+        "Euro area",
+        "Europe(all income levels)",
+        "Europe(developing only)",
+        "European Union",
+        "Fragile and conflict affected situations"
+    ],
+    "data": {
+        "1990": [
+            53.8937087423993,
+            46.3572026652485,
+            33.4139685291507,
+            43.24330058522271,
+            38.7461617528294,
+            41.38919810726711
+        ],
+        "2000": [
+            49.85948538339211,
+            45.0553539969724,
+            28.2397266727207,
+            32.259316128501,
+            38.42185972841089,
+            47.797130200879
+        ],
+        "2005": [
+            42.5897367906183,
+            46.41115529446101,
+            27.1406756654853,
+            30.6321369365407,
+            40.2350994138605,
+            51.4092585293274
+        ]
+    },
+    "colors": {
+        "1990": "#2F4F4F",
+        "2000": "#ADFF2F",
+        "2005": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Number of femicides per 100,000 women",
+    "categories": [
+        "Number of femicides per 100,000 women"
+    ],
+    "data": {
+        "Honduras": [
+            6.2
+        ],
+        "El Salvador": [
+            3.3
+        ],
+        "Trinidad and Tobago": [
+            2.9
+        ],
+        "Dominican Republic": [
+            2.7
+        ],
+        "Bolivia": [
+            2.1
+        ],
+        "Brazil": [
+            1.8
+        ],
+        "Guatemala": [
+            1.8
+        ],
+        "Mexico": [
+            1.5
+        ],
+        "Uruguay": [
+            1.4
+        ],
+        "Paraguay": [
+            1.1
+        ],
+        "Argentina": [
+            1.1
+        ],
+        "Colombia": [
+            0.9
+        ],
+        "Panama": [
+            0.9
+        ],
+        "Ecuador": [
+            0.8
+        ],
+        "Peru": [
+            0.8
+        ],
+        "Costa Rica": [
+            0.6
+        ]
+    },
+    "colors": {
+        "Honduras": "#f27979",
+        "El Salvador": "#f25a00",
+        "Trinidad and Tobago": "#f2d379",
+        "Dominican Republic": "#d3f200",
+        "Bolivia": "#b5f279",
+        "Brazil": "#1ef200",
+        "Guatemala": "#52a567",
+        "Mexico": "#00a567",
+        "Uruguay": "#52a5a5",
+        "Paraguay": "#0067a5",
+        "Argentina": "#5267a5",
+        "Colombia": "#1400a5",
+        "Panama": "#b579f2",
+        "Ecuador": "#d300f2",
+        "Peru": "#f279d3",
+        "Costa Rica": "#f2005a"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Honduras": "#f27979",
+        "El Salvador": "#f25a00",
+        "Trinidad and Tobago": "#f2d379",
+        "Dominican Republic": "#d3f200",
+        "Bolivia": "#b5f279",
+        "Brazil": "#1ef200",
+        "Guatemala": "#52a567",
+        "Mexico": "#00a567",
+        "Uruguay": "#52a5a5",
+        "Paraguay": "#0067a5",
+        "Argentina": "#5267a5",
+        "Colombia": "#1400a5",
+        "Panama": "#b579f2",
+        "Ecuador": "#d300f2",
+        "Peru": "#f279d3",
+        "Costa Rica": "#f2005a"
+    }
+}

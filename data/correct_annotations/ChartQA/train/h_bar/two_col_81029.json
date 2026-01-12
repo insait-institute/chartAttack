@@ -1,0 +1,60 @@
+{
+    "title": "Number of hate crimes*",
+    "categories": [
+        "London",
+        "North West",
+        "South East",
+        "Yorkshire and the Humber",
+        "East of England",
+        "West Midlands",
+        "South West",
+        "East Midlands",
+        "North East",
+        "Wales"
+    ],
+    "data": {
+        "Hate Crimes": [
+            2199,
+            385,
+            913,
+            663,
+            672,
+            434,
+            406,
+            304,
+            303,
+            199
+        ]
+    },
+    "colors": {
+        "Hate Crimes": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2200
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Hate Crimes": "#2876dd"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "title": "CO2 emissions from resident buildings and public services",
+    "legend": {
+        "Central Europe": "#f27979",
+        "East Asia (all income levels)": "#79f200",
+        "Euro area": "#52a5a5",
+        "Europe(all income levels)": "#5200a5"
+    },
+    "categories": [
+        "CO2 emissions from resident buildings and public services"
+    ],
+    "data": {
+        "Central Europe": [
+            24.1227380015736
+        ],
+        "East Asia (all income levels)": [
+            6.70189494019716
+        ],
+        "Euro area": [
+            20.0319247391256
+        ],
+        "Europe(all income levels)": [
+            22.6260954235638
+        ]
+    },
+    "colors": {
+        "Central Europe": "#f27979",
+        "East Asia (all income levels)": "#79f200",
+        "Euro area": "#52a5a5",
+        "Europe(all income levels)": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

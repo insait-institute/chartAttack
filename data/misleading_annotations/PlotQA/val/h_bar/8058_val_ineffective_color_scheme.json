@@ -1,0 +1,69 @@
+{
+    "title": "Percentage of female children (ages 7-14) in employment in 2012",
+    "legend": {
+        "Self-employed": "#ffa500",
+        "Unpaid family workers": "#ffce00",
+        "Wage workers": "#fff70a"
+    },
+    "categories": [
+        "India",
+        "Mongolia",
+        "Panama",
+        "Uganda"
+    ],
+    "data": {
+        "Self-employed": [
+            6.59,
+            1.49,
+            9.36,
+            11.79
+        ],
+        "Unpaid family workers": [
+            73.06,
+            83.59,
+            85.89,
+            87.55
+        ],
+        "Wage workers": [
+            9.12,
+            3.97,
+            4.65,
+            10.92
+        ]
+    },
+    "colors": {
+        "Self-employed": "#FFA500",
+        "Unpaid family workers": "#483D8B",
+        "Wage workers": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Self-employed": "#ffa500",
+        "Unpaid family workers": "#ffce00",
+        "Wage workers": "#fff70a"
+    }
+}

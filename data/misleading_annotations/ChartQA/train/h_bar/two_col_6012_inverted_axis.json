@@ -1,0 +1,106 @@
+{
+    "title": "",
+    "legend": {
+        "Units Sold": "#2876dd"
+    },
+    "categories": [
+        "Nissan",
+        "General Motors",
+        "Volkswagen",
+        "Toyota",
+        "KIA",
+        "Honda",
+        "Mazda",
+        "Chrysler",
+        "Ford Motor",
+        "Hyundai",
+        "Renault",
+        "Suzuki",
+        "SEAT",
+        "Mercedes Benz",
+        "BMW",
+        "Mitsubishi",
+        "Audi",
+        "Peugeot",
+        "Fiat",
+        "Mini",
+        "JAC",
+        "Volvo",
+        "Baic",
+        "Subaru",
+        "Porsche",
+        "Lincoln",
+        "Acura",
+        "Land Rover",
+        "ISUZU",
+        "Infiniti",
+        "Jaguar",
+        "Alfa Romeo",
+        "Bentley"
+    ],
+    "data": {
+        "Units Sold": [
+            154637,
+            118581,
+            78128,
+            60425,
+            58160,
+            38938,
+            35506,
+            33505,
+            29757,
+            25602,
+            20193,
+            19431,
+            12227,
+            11741,
+            9455,
+            8381,
+            7497,
+            7315,
+            3944,
+            3060,
+            3049,
+            1841,
+            1200,
+            1093,
+            1046,
+            787,
+            776,
+            707,
+            696,
+            651,
+            84,
+            82,
+            6
+        ]
+    },
+    "colors": {
+        "Units Sold": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 154640
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Percentage of female pupils in tertiary schools",
+    "legend": {
+        "Iran": "#CD5C5C",
+        "Ireland": "#6B8E23",
+        "Poland": "#191970",
+        "Yemen, Rep.": "#228B22"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2008",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Iran": [
+            47.9922218322754,
+            48.0621490478516,
+            48.23144149780271,
+            47.7902297973633,
+            47.6716995239258,
+            47.5513496398926
+        ],
+        "Ireland": [
+            50.6663284301758,
+            50.97135925292971,
+            50.3750190734863,
+            49.8820114135742,
+            49.4612503051758,
+            49.30155944824221
+        ],
+        "Poland": [
+            49.1170310974121,
+            48.6316719055176,
+            48.6171989440917,
+            48.57860946655271,
+            48.53693008422849,
+            48.49967956542971
+        ],
+        "Yemen, Rep.": [
+            31.2185192108154,
+            32.0705795288086,
+            35.3545989990234,
+            37.4597511291504,
+            37.9107093811035,
+            38.6580505371094
+        ]
+    },
+    "colors": {
+        "Iran": "#CD5C5C",
+        "Ireland": "#6B8E23",
+        "Poland": "#191970",
+        "Yemen, Rep.": "#228B22"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

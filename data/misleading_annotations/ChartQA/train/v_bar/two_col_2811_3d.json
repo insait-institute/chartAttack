@@ -1,0 +1,60 @@
+{
+    "title": "Number of users in millions",
+    "x_axis": {
+        "categories": [
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of users in millions"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            20.23,
+            20.88,
+            21.5,
+            22.89,
+            23.77,
+            24.6,
+            25.38,
+            26.12,
+            26.81
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

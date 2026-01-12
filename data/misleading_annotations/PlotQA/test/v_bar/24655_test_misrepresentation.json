@@ -1,0 +1,84 @@
+{
+    "title": "Measure of agricultural productivity of a country",
+    "x_axis": {
+        "categories": [
+            "Bhutan",
+            "Bolivia",
+            "Botswana",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#FFA500",
+        "1981": "#FF7F50",
+        "1982": "#2E8B57"
+    },
+    "data": {
+        "1980": [
+            565.538296782144,
+            622.75090102836,
+            755.6539070891721,
+            1148.45513725842
+        ],
+        "1981": [
+            589.188247491512,
+            594.583143882065,
+            719.886904907685,
+            1241.20366135574
+        ],
+        "1982": [
+            608.927058157133,
+            618.217565368432,
+            671.180323865241,
+            1243.26062686183
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1250
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1980": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1981": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1982": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "title": "Total male labor force participation rate for ages 15-24",
+    "x_axis": {
+        "categories": [
+            "Papua New Guinea",
+            "Paraguay",
+            "Peru",
+            "Philippines",
+            "Poland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#BA55D3",
+        "1991": "#7FFFD4",
+        "1992": "#40E0D0",
+        "1993": "#0000FF"
+    },
+    "data": {
+        "1990": [
+            60.0,
+            87.4000015258789,
+            58.0,
+            61.9000015258789,
+            49.2000007629395
+        ],
+        "1991": [
+            58.9000015258789,
+            87.3000030517578,
+            55.2999992370605,
+            62.4000015258789,
+            49.5999984741211
+        ],
+        "1992": [
+            57.2000007629395,
+            87.099998474121,
+            57.2000007629395,
+            62.0999984741211,
+            50.2000007629395
+        ],
+        "1993": [
+            54.7000007629395,
+            87.0,
+            59.0999984741211,
+            61.4000015258789,
+            47.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1990": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1991": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1992": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1993": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

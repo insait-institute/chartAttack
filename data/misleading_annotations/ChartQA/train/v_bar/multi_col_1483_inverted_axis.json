@@ -1,0 +1,51 @@
+{
+    "title": "Millions of cars sold",
+    "x_axis": {
+        "categories": [
+            "Indonesia",
+            "Malaysia/Singapore"
+        ]
+    },
+    "y_axis": {
+        "label": "Millions of cars sold"
+    },
+    "legend": {
+        "2010": "#2876dd",
+        "2015": "#0f283e"
+    },
+    "data": {
+        "2010": [
+            0.72,
+            0.67
+        ],
+        "2015": [
+            1.35,
+            1.22
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

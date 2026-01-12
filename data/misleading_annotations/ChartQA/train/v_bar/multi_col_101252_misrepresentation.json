@@ -1,0 +1,61 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "Smartphone shoppers",
+            "Tablet shoppers"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "Have shopped through app": "#2876dd",
+        "Have shopped through browser": "#0f283e"
+    },
+    "data": {
+        "Have shopped through app": [
+            58,
+            38
+        ],
+        "Have shopped through browser": [
+            54,
+            70
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Have shopped through app": [
+            1.75,
+            0.25
+        ],
+        "Have shopped through browser": [
+            1.75,
+            0.25
+        ]
+    }
+}

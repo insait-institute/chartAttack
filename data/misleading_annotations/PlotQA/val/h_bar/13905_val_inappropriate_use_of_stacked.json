@@ -1,0 +1,67 @@
+{
+    "title": "Total exports of goods and services in US$",
+    "legend": {
+        "1993": "#f27979",
+        "1994": "#f2f200",
+        "1995": "#79f279",
+        "1996": "#00a5a5",
+        "1997": "#5252a5",
+        "1998": "#a500a5"
+    },
+    "categories": [
+        "Total exports of goods and services in US$"
+    ],
+    "data": {
+        "1993": [
+            44804978785.1877
+        ],
+        "1994": [
+            47467411017.9098
+        ],
+        "1995": [
+            56528602096.2243
+        ],
+        "1996": [
+            65313808180.0986
+        ],
+        "1997": [
+            65441796024.5426
+        ],
+        "1998": [
+            56898781990.961
+        ]
+    },
+    "colors": {
+        "1993": "#f27979",
+        "1994": "#f2f200",
+        "1995": "#79f279",
+        "1996": "#00a5a5",
+        "1997": "#5252a5",
+        "1998": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 65441796030
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

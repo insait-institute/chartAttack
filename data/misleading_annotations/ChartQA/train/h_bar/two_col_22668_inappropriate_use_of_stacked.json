@@ -1,0 +1,133 @@
+{
+    "title": "",
+    "y_label": "Corruption perceptions index score",
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Germany": [
+            80.0
+        ],
+        "United Kingdom": [
+            77.0
+        ],
+        "Canada": [
+            77.0
+        ],
+        "Australia": [
+            77.0
+        ],
+        "Japan": [
+            74.0
+        ],
+        "France": [
+            69.0
+        ],
+        "United States of America": [
+            67.0
+        ],
+        "Korea (South)": [
+            61.0
+        ],
+        "Italy": [
+            53.0
+        ],
+        "Saudi Arabia": [
+            53.0
+        ],
+        "South Africa": [
+            44.0
+        ],
+        "Argentina": [
+            42.0
+        ],
+        "China": [
+            42.0
+        ],
+        "India": [
+            40.0
+        ],
+        "Turkey": [
+            40.0
+        ],
+        "Brazil": [
+            38.0
+        ],
+        "Indonesia": [
+            37.0
+        ],
+        "Mexico": [
+            31.0
+        ],
+        "Russia": [
+            30.0
+        ]
+    },
+    "colors": {
+        "Germany": "#f27979",
+        "United Kingdom": "#f24c00",
+        "Canada": "#f2c579",
+        "Australia": "#f2e500",
+        "Japan": "#d2f279",
+        "France": "#65f200",
+        "United States of America": "#85f279",
+        "Korea (South)": "#00a522",
+        "Italy": "#52a57e",
+        "Saudi Arabia": "#00a58b",
+        "South Africa": "#5298a5",
+        "Argentina": "#0057a5",
+        "China": "#5264a5",
+        "India": "#1100a5",
+        "Turkey": "#ac79f2",
+        "Brazil": "#b200f2",
+        "Indonesia": "#f279eb",
+        "Mexico": "#f20099",
+        "Russia": "#f2799f"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Germany": "#f27979",
+        "United Kingdom": "#f24c00",
+        "Canada": "#f2c579",
+        "Australia": "#f2e500",
+        "Japan": "#d2f279",
+        "France": "#65f200",
+        "United States of America": "#85f279",
+        "Korea (South)": "#00a522",
+        "Italy": "#52a57e",
+        "Saudi Arabia": "#00a58b",
+        "South Africa": "#5298a5",
+        "Argentina": "#0057a5",
+        "China": "#5264a5",
+        "India": "#1100a5",
+        "Turkey": "#ac79f2",
+        "Brazil": "#b200f2",
+        "Indonesia": "#f279eb",
+        "Mexico": "#f20099",
+        "Russia": "#f2799f"
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "title": "Time required to trade the goods and services in Puerto Rico",
+    "legend": {
+        "Time to export": "#2E8B57",
+        "Time to import": "#66CDAA"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Time (in days)",
+    "data": [
+        {
+            "label": "Time to export",
+            "color": "#2E8B57",
+            "values": [
+                15,
+                15,
+                15,
+                15,
+                15
+            ]
+        },
+        {
+            "label": "Time to import",
+            "color": "#66CDAA",
+            "values": [
+                15,
+                15,
+                15,
+                15,
+                15
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Time to export",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Time to import",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

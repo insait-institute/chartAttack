@@ -1,0 +1,57 @@
+{
+    "title": "Net GHG emissions or removals by LUCF in Spain",
+    "legend": {
+        "GHG net emissions or removals": "#2F4F4F"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "y_axis_label": "Net GHG emissions or removals (Mt of CO2 equivalent)",
+    "data": [
+        {
+            "label": "GHG net emissions or removals",
+            "color": "#2F4F4F",
+            "values": [
+                -19.0227551488413,
+                -19.2313890978689,
+                -19.8705744735825,
+                -21.4709566730253,
+                -22.3321337807871,
+                -22.7202035602391
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -30,
+                "max_value": 0
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

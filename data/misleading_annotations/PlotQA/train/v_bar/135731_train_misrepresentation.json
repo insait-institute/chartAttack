@@ -1,0 +1,106 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 2004",
+    "x_axis": {
+        "categories": [
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Moldova"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Compensation of employees": "#8B0000",
+        "Goods and services": "#8A2BE2",
+        "Subsidies and Transfers": "#C71585",
+        "Other expenses": "#EE82EE"
+    },
+    "data": {
+        "Compensation of employees": [
+            26.5589224084974,
+            25.777411140203,
+            30.9773647980454,
+            33.009931151458,
+            14.9895778454772
+        ],
+        "Goods and services": [
+            18.5775077345783,
+            67.5047523403034,
+            34.7399708742745,
+            11.3317332811749,
+            17.5745012254621
+        ],
+        "Subsidies and Transfers": [
+            36.9919471033027,
+            1.74670922850687,
+            37.1290316657429,
+            48.78828137526629,
+            30.2855740818121
+        ],
+        "Other expenses": [
+            1.7919014454205,
+            1.96881653052784,
+            0.767455471018894,
+            8.15524297050325,
+            1.97663825188776
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Compensation of employees": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Goods and services": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Subsidies and Transfers": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Other expenses": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

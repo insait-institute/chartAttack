@@ -1,0 +1,73 @@
+{
+    "title": "Employment to population ratio of Uruguay for different age-groups",
+    "legend": {
+        "Female": "#2F4F4F",
+        "Male": "#008080"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Employment to population ratio(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#2F4F4F",
+            "values": [
+                48.9000015258789,
+                49.7000007629395,
+                49.9000015258789,
+                50.7999992370605,
+                50.7999992370605,
+                50.9000015258789,
+                50.7000007629395
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#008080",
+            "values": [
+                72.5,
+                72.9000015258789,
+                72.599998474121,
+                73.0,
+                73.0,
+                72.9000015258789,
+                72.6999969482422
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

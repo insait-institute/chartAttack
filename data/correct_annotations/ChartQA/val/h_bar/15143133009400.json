@@ -1,0 +1,79 @@
+{
+    "title": "Disease burden rates by cancer types, Cape Verde, 2000",
+    "categories": [
+        "Stomach cancer",
+        "Liver cancer",
+        "Esophageal cancer",
+        "Tracheal, bronchus, and lung cancer",
+        "Prostate cancer",
+        "Cervical cancer",
+        "Breast cancer",
+        "Colon and rectum cancer",
+        "Pancreatic cancer",
+        "Brain & nervous system cancer",
+        "Lip & oral cancer",
+        "Bladder cancer",
+        "Kidney cancer",
+        "Uterine cancer",
+        "Ovarian cancer",
+        "Larynx cancer",
+        "Gallbladder & biliary tract cancer",
+        "Nasopharynx cancer",
+        "Non-melanoma skin cancer",
+        "Thyroid cancer",
+        "Testicular cancer"
+    ],
+    "data": {
+        "bars": [
+            410.3,
+            276.29,
+            238.06,
+            230.01,
+            208.93,
+            178.96,
+            166.32,
+            131.96,
+            110.69,
+            103.95,
+            70.25,
+            41.72,
+            40.49,
+            34.55,
+            30.17,
+            25.04,
+            19.56,
+            9.33,
+            7.47,
+            4.88,
+            2.27
+        ]
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 420
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "bars": "#578145"
+    }
+}

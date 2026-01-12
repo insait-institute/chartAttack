@@ -1,0 +1,102 @@
+{
+    "title": "",
+    "legend": {
+        "Samsung": "#f27979",
+        "Apple": "#f26f00",
+        "Nokia": "#f2e879",
+        "Other": "#95f200",
+        "Sony Ericsson": "#8bf279",
+        "LG": "#00a533",
+        "Blackberry": "#52a592",
+        "Motorola": "#007fa5",
+        "BenQ-Siemens": "#526ca5",
+        "Panasonic": "#1900a5",
+        "HTC": "#c379f2",
+        "Philips": "#f200df",
+        "I don't have a mobile phone": "#f279b1"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Samsung": [
+            31.0
+        ],
+        "Apple": [
+            22.0
+        ],
+        "Nokia": [
+            21.0
+        ],
+        "Other": [
+            12.0
+        ],
+        "Sony Ericsson": [
+            10.0
+        ],
+        "LG": [
+            5.0
+        ],
+        "Blackberry": [
+            5.0
+        ],
+        "Motorola": [
+            5.0
+        ],
+        "BenQ-Siemens": [
+            1.0
+        ],
+        "Panasonic": [
+            1.0
+        ],
+        "HTC": [
+            1.0
+        ],
+        "Philips": [
+            1.0
+        ],
+        "I don't have a mobile phone": [
+            1.0
+        ]
+    },
+    "colors": {
+        "Samsung": "#f27979",
+        "Apple": "#f26f00",
+        "Nokia": "#f2e879",
+        "Other": "#95f200",
+        "Sony Ericsson": "#8bf279",
+        "LG": "#00a533",
+        "Blackberry": "#52a592",
+        "Motorola": "#007fa5",
+        "BenQ-Siemens": "#526ca5",
+        "Panasonic": "#1900a5",
+        "HTC": "#c379f2",
+        "Philips": "#f200df",
+        "I don't have a mobile phone": "#f279b1"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

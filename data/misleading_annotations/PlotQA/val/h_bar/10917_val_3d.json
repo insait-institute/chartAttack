@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of female workers who hold self-employment jobs",
+    "legend": {
+        "Australia": "#FF0000",
+        "Jordan": "#DAA520",
+        "Panama": "#FFFF00"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Australia": [
+            0.300000011920929,
+            0.400000005960464,
+            0.300000011920929
+        ],
+        "Jordan": [
+            0.6000000238418579,
+            0.5,
+            0.400000005960464
+        ],
+        "Panama": [
+            4.40000009536743,
+            7.400000095367429,
+            6.800000190734861
+        ]
+    },
+    "colors": {
+        "Australia": "#FF0000",
+        "Jordan": "#DAA520",
+        "Panama": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

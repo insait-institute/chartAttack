@@ -1,0 +1,59 @@
+{
+    "title": "Ratio of bank capital and reserves of Bhutan to total assets",
+    "legend": {
+        "Bank capital to assets ratio": "#008080"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+    ],
+    "y_axis_label": "Ratio(expressed as %)",
+    "data": [
+        {
+            "label": "Bank capital to assets ratio",
+            "color": "#008080",
+            "values": [
+                9.35391031117197,
+                9.255422423311462,
+                14.6164590335811,
+                16.964363970331,
+                17.4978622038032,
+                16.6112764865192,
+                17.6307783562477
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

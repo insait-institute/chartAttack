@@ -1,0 +1,67 @@
+{
+    "title": "Distribution of total population in a country",
+    "legend": {
+        "Malawi": "#FFA500",
+        "Maldives": "#A020F0",
+        "Portugal": "#EE82EE"
+    },
+    "categories": [
+        "1960",
+        "1961",
+        "1962",
+        "1963",
+        "1964"
+    ],
+    "data": {
+        "Malawi": [
+            3618604,
+            3700032,
+            3784444,
+            3872124,
+            3963424
+        ],
+        "Maldives": [
+            89875,
+            92327,
+            94909,
+            97556,
+            100177
+        ],
+        "Portugal": [
+            8857716,
+            8929316,
+            8993985,
+            9030355,
+            9035365
+        ]
+    },
+    "colors": {
+        "Malawi": "#FFA500",
+        "Maldives": "#A020F0",
+        "Portugal": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9035370
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

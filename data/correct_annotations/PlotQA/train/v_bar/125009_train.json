@@ -1,0 +1,64 @@
+{
+    "title": "Net bilateral aid flows from DAC donors",
+    "x_axis": {
+        "categories": [
+            "Upper middle income",
+            "World",
+            "Afghanistan",
+            "Albania"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2008": "#808000",
+        "2009": "#006400",
+        "2010": "#00FF00"
+    },
+    "data": {
+        "2008": [
+            11090000.0,
+            17070000.0,
+            150000.0,
+            160000.0
+        ],
+        "2009": [
+            7500000.0,
+            14720000.0,
+            140000.0,
+            630000.0
+        ],
+        "2010": [
+            6010000.0,
+            12380000.0,
+            510000.0,
+            230000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17070000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

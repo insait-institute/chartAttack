@@ -1,0 +1,54 @@
+{
+    "title": "Proportion of the total male labor force of different age groups participating in production in 2013",
+    "x_axis": {
+        "categories": [
+            "Ages 15-20",
+            "Ages 20-50",
+            "Ages 50+"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Channel Islands": "#7FFFD4",
+        "Iraq": "#00CED1"
+    },
+    "data": {
+        "Channel Islands": [
+            48.2999992370605,
+            66.0,
+            78.3000030517578
+        ],
+        "Iraq": [
+            48.2000007629395,
+            69.8000030517578,
+            72.1999969482422
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

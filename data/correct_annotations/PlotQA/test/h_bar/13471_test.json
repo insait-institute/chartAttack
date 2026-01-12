@@ -1,0 +1,82 @@
+{
+    "title": "Amount collected by government from different taxes in Egypt, Arab Rep.",
+    "legend": {
+        "Taxes on revenue": "#7FFFD4",
+        "Taxes on exports": "#CD5C5C",
+        "Taxes on goods and services": "#2F4F4F",
+        "Taxes on income": "#9ACD32"
+    },
+    "categories": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "data": {
+        "Taxes on revenue": [
+            12679000000,
+            16580000000,
+            25706000000,
+            29122000000,
+            33333000000,
+            35951000000
+        ],
+        "Taxes on exports": [
+            2000000,
+            1000000,
+            2000000,
+            1000000,
+            1500000,
+            21600000
+        ],
+        "Taxes on goods and services": [
+            3004000000,
+            3519000000,
+            6439000000,
+            7363000000,
+            8255000000,
+            9529000000
+        ],
+        "Taxes on income": [
+            4245000000,
+            6407000000,
+            9989000000,
+            11114000000,
+            12004000000,
+            12134000000
+        ]
+    },
+    "colors": {
+        "Taxes on revenue": "#7FFFD4",
+        "Taxes on exports": "#CD5C5C",
+        "Taxes on goods and services": "#2F4F4F",
+        "Taxes on income": "#9ACD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 35951000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

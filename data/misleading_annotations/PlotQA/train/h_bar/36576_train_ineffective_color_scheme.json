@@ -1,0 +1,73 @@
+{
+    "title": "CO2 emissions from different fuel consumption in 1981",
+    "legend": {
+        "Gaseous fuel": "#00ff7f",
+        "Liquid fuel": "#00ffa8",
+        "Solid fuel": "#0affd2"
+    },
+    "categories": [
+        "Bulgaria",
+        "Canada",
+        "Chile",
+        "China",
+        "Colombia"
+    ],
+    "data": {
+        "Gaseous fuel": [
+            9.83112733911456,
+            25.6082481260074,
+            6.690561529271211,
+            1.68153844599169,
+            16.6199274166942
+        ],
+        "Liquid fuel": [
+            100.0,
+            100.0,
+            17.6771223864911,
+            51.80633454305511,
+            100.0
+        ],
+        "Solid fuel": [
+            46.2574167047011,
+            19.4784373587577,
+            20.1015531660693,
+            77.5695504107845,
+            24.0019795447047
+        ]
+    },
+    "colors": {
+        "Gaseous fuel": "#00FF7F",
+        "Liquid fuel": "#6B8E23",
+        "Solid fuel": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Gaseous fuel": "#00ff7f",
+        "Liquid fuel": "#00ffa8",
+        "Solid fuel": "#0affd2"
+    }
+}

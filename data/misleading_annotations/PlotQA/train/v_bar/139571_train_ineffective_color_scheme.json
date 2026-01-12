@@ -1,0 +1,82 @@
+{
+    "title": "Net bilateral aid flows from DAC donors (Czech Republic)",
+    "x_axis": {
+        "categories": [
+            "Sudan",
+            "Syrian Arab Republic",
+            "Tajikistan",
+            "Tanzania",
+            "Turkey"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#6b8e23",
+        "2006": "#5e8e23",
+        "2007": "#569625",
+        "2008": "#418423"
+    },
+    "data": {
+        "2005": [
+            90000.0,
+            80000.0,
+            130000.0,
+            170000.0,
+            120000.0
+        ],
+        "2006": [
+            230000.0,
+            60000.0,
+            90000.0,
+            240000.0,
+            200000.0
+        ],
+        "2007": [
+            560000.0,
+            170000.0,
+            10000.0,
+            30000.0,
+            1170000.0
+        ],
+        "2008": [
+            370000.0,
+            600000.0,
+            70000.0,
+            50000.0,
+            1610000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1610000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "2005": "#6b8e23",
+        "2006": "#5e8e23",
+        "2007": "#569625",
+        "2008": "#418423"
+    }
+}

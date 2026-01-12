@@ -1,0 +1,72 @@
+{
+    "title": "Population in the largent city of the country",
+    "x_axis": {
+        "categories": [
+            "Hong Kong",
+            "Hungary",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00FF00",
+        "1961": "#556B2F",
+        "1962": "#00BFFF"
+    },
+    "data": {
+        "1960": [
+            100.0,
+            32.4449278914021,
+            7.01293146029014,
+            20.9188049806426,
+            25.3390866452674,
+            32.5781505317479
+        ],
+        "1961": [
+            100.0,
+            32.2878971359029,
+            6.98275073700983,
+            21.3157294331148,
+            25.6847810677095,
+            33.6267093066911
+        ],
+        "1962": [
+            100.0,
+            32.1763054430356,
+            6.911267517628452,
+            21.3370944405999,
+            26.03796128143189,
+            34.7062579549735
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

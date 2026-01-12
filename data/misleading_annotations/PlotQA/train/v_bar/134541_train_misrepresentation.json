@@ -1,0 +1,88 @@
+{
+    "title": "Number of ATMs in different countries",
+    "x_axis": {
+        "categories": [
+            "Denmark",
+            "Djibouti",
+            "Romania"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2001": "#808000",
+        "2002": "#F0E68C",
+        "2003": "#C71585",
+        "2004": "#00BFFF"
+    },
+    "data": {
+        "2001": [
+            61.6571976728144,
+            0.676187385048145,
+            7.04489180471215
+        ],
+        "2002": [
+            64.60514824340021,
+            0.6562443512768779,
+            11.2597176305473
+        ],
+        "2003": [
+            65.6379546904104,
+            0.6380299249850351,
+            14.3692921010822
+        ],
+        "2004": [
+            67.0435542975239,
+            0.8436878400736859,
+            18.2552850514395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2001": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "2002": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "2003": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "2004": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

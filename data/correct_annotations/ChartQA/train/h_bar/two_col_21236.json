@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Group": "#2876dd"
+    },
+    "categories": [
+        "Anne",
+        "Inger",
+        "Kari",
+        "Marit",
+        "Ingrid",
+        "Liv",
+        "Maria",
+        "Ida",
+        "Eva",
+        "Anna",
+        "Hilde",
+        "Nina",
+        "Marianne",
+        "Elisabeth",
+        "Kristin",
+        "Astrid",
+        "Berit",
+        "Bente",
+        "Heidi",
+        "Silje"
+    ],
+    "data": {
+        "Group": [
+            58852,
+            27935,
+            24491,
+            24472,
+            24333,
+            22150,
+            19708,
+            19423,
+            19023,
+            18944,
+            17994,
+            17918,
+            17716,
+            17403,
+            17088,
+            16595,
+            16577,
+            16065,
+            15719,
+            15555
+        ]
+    },
+    "colors": {
+        "Group": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 58860
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

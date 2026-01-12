@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Don Maynard": "#f27979",
+        "Wesley Walker": "#f24800",
+        "Emerson Boozer": "#f2c179",
+        "Curtis Martin": "#f2da00",
+        "Freeman McNeil": "#daf279",
+        "Bill Mathis": "#79f200",
+        "Johnny Hector": "#91f279",
+        "Wayne Chrebet": "#00a510",
+        "Jerome Barkum": "#52a574",
+        "Laveranues Coles": "#00a574",
+        "Mickey Shuler": "#52a5a5",
+        "Rich Caster": "#0074a5",
+        "Brad Baxter": "#5274a5",
+        "Keyshawn Johnson": "#0010a5",
+        "Thomas Jones": "#9179f2",
+        "John Riggins": "#7900f2",
+        "Matt Snell": "#da79f2",
+        "Al Toon": "#f200da",
+        "George Sauer": "#f279c1",
+        "Kevin Long": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Don Maynard": [
+            88.0
+        ],
+        "Wesley Walker": [
+            71.0
+        ],
+        "Emerson Boozer": [
+            65.0
+        ],
+        "Curtis Martin": [
+            63.0
+        ],
+        "Freeman McNeil": [
+            50.0
+        ],
+        "Bill Mathis": [
+            46.0
+        ],
+        "Johnny Hector": [
+            44.0
+        ],
+        "Wayne Chrebet": [
+            41.0
+        ],
+        "Jerome Barkum": [
+            40.0
+        ],
+        "Laveranues Coles": [
+            37.0
+        ],
+        "Mickey Shuler": [
+            37.0
+        ],
+        "Rich Caster": [
+            36.0
+        ],
+        "Brad Baxter": [
+            35.0
+        ],
+        "Keyshawn Johnson": [
+            32.0
+        ],
+        "Thomas Jones": [
+            31.0
+        ],
+        "John Riggins": [
+            31.0
+        ],
+        "Matt Snell": [
+            31.0
+        ],
+        "Al Toon": [
+            31.0
+        ],
+        "George Sauer": [
+            28.0
+        ],
+        "Kevin Long": [
+            28.0
+        ]
+    },
+    "colors": {
+        "Don Maynard": "#f27979",
+        "Wesley Walker": "#f24800",
+        "Emerson Boozer": "#f2c179",
+        "Curtis Martin": "#f2da00",
+        "Freeman McNeil": "#daf279",
+        "Bill Mathis": "#79f200",
+        "Johnny Hector": "#91f279",
+        "Wayne Chrebet": "#00a510",
+        "Jerome Barkum": "#52a574",
+        "Laveranues Coles": "#00a574",
+        "Mickey Shuler": "#52a5a5",
+        "Rich Caster": "#0074a5",
+        "Brad Baxter": "#5274a5",
+        "Keyshawn Johnson": "#0010a5",
+        "Thomas Jones": "#9179f2",
+        "John Riggins": "#7900f2",
+        "Matt Snell": "#da79f2",
+        "Al Toon": "#f200da",
+        "George Sauer": "#f279c1",
+        "Kevin Long": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

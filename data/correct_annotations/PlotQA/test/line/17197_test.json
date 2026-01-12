@@ -1,0 +1,67 @@
+{
+    "title": "Import and export statistics of goods and services in Croatia",
+    "legend": {
+        "Exports": "#FFA500",
+        "Imports": "#CD5C5C"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Total Trade (in US$)",
+    "data": [
+        {
+            "label": "Exports",
+            "color": "#FFA500",
+            "values": [
+                9004351231.792841,
+                10125528793.018,
+                13478579179.7166,
+                16402963193.7424,
+                17846490480.5789
+            ]
+        },
+        {
+            "label": "Imports",
+            "color": "#CD5C5C",
+            "values": [
+                9824130635.97674,
+                12242487861.5801,
+                16056768307.2334,
+                18904156240.1604,
+                20633570610.7294
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 9004351230,
+                "max_value": 20633570620
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

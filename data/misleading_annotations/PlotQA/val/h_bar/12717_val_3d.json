@@ -1,0 +1,77 @@
+{
+    "title": "CPIA policy and institutions for environmental sustainability rating",
+    "legend": {
+        "2005": "#00CED1",
+        "2006": "#DAA520",
+        "2007": "#ADFF2F",
+        "2008": "#FFA500"
+    },
+    "categories": [
+        "Fragile and conflict affected situations",
+        "Heavily indebted poor countries",
+        "Latin America(all income levels)",
+        "Latin America(developing only)",
+        "Least developed countries"
+    ],
+    "data": {
+        "2005": [
+            2.725,
+            3.06944444444444,
+            3.27777777777778,
+            3.27777777777778,
+            3.0
+        ],
+        "2006": [
+            2.61363636363636,
+            2.95945945945946,
+            3.33333333333333,
+            3.33333333333333,
+            2.95238095238095
+        ],
+        "2007": [
+            2.63636363636364,
+            2.95945945945946,
+            3.33333333333333,
+            3.33333333333333,
+            2.97619047619048
+        ],
+        "2008": [
+            2.61363636363636,
+            2.95945945945946,
+            3.38888888888889,
+            3.38888888888889,
+            2.97619047619048
+        ]
+    },
+    "colors": {
+        "2005": "#00CED1",
+        "2006": "#DAA520",
+        "2007": "#ADFF2F",
+        "2008": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

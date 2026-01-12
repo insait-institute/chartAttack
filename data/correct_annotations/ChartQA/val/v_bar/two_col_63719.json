@@ -1,0 +1,64 @@
+{
+    "title": "Enrollment in million persons",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025"
+        ]
+    },
+    "y_axis": {
+        "label": "Enrollment in million persons"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            12,
+            21,
+            25,
+            25,
+            25,
+            24,
+            25,
+            24,
+            24,
+            24,
+            24
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

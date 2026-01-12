@@ -1,0 +1,52 @@
+{
+    "title": "Total CO2 emission from different fuels in 1975",
+    "legend": {
+        "Gaseous fuel": "#f27979",
+        "Liquid fuel": "#00f200",
+        "Solid fuel": "#5252a5"
+    },
+    "categories": [
+        "Total CO2 emission from different fuels in 1975"
+    ],
+    "data": {
+        "Gaseous fuel": [
+            175883.988
+        ],
+        "Liquid fuel": [
+            77993.423
+        ],
+        "Solid fuel": [
+            87014.243
+        ]
+    },
+    "colors": {
+        "Gaseous fuel": "#f27979",
+        "Liquid fuel": "#00f200",
+        "Solid fuel": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 175890
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

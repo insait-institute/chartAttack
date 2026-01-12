@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of children ages 12-23 months who received DPT vaccinations",
+    "x_axis": {
+        "categories": [
+            "United Arab Emirates",
+            "United Kingdom",
+            "United States",
+            "Uruguay"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#2E8B57",
+        "1981": "#008080",
+        "1982": "#6495ED"
+    },
+    "data": {
+        "1980": [
+            11.0,
+            41.0,
+            96.0,
+            53.0
+        ],
+        "1981": [
+            45.0,
+            46.0,
+            96.0,
+            57.0
+        ],
+        "1982": [
+            43.0,
+            53.0,
+            96.0,
+            67.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy(residual) in 1986",
+    "legend": {
+        "Merchandise exports": "#191970",
+        "Merchandise imports": "#663399"
+    },
+    "categories": [
+        "Brazil",
+        "Brunei Darussalam",
+        "Bulgaria",
+        "Burkina Faso"
+    ],
+    "data": {
+        "Merchandise exports": [
+            5.64364947161504,
+            10.273542027115,
+            46.295879534995,
+            79.3092621688417
+        ],
+        "Merchandise imports": [
+            2.06809883780726,
+            14.1549435914706,
+            30.9329322765647,
+            8.75383987627082
+        ]
+    },
+    "colors": {
+        "Merchandise exports": "#191970",
+        "Merchandise imports": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 5.64364947161504,
+                "max_value": 79.3092621688417
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 2.06809883780726,
+                "max_value": 30.9329322765647
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

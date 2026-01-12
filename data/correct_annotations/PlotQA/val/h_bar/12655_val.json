@@ -1,0 +1,77 @@
+{
+    "title": "Rating assessing the capacity of statistical systems of Heavily indebted poor countries",
+    "legend": {
+        "Methodology assessment": "#DB7093",
+        "Overall level": "#8B4513",
+        "Periodicity assessment": "#FF4500",
+        "Source data assessment": "#00FFFF"
+    },
+    "categories": [
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+    ],
+    "data": {
+        "Methodology assessment": [
+            39.72222222222221,
+            39.72222222222221,
+            43.3333333333333,
+            43.0555555555556,
+            44.4444444444444
+        ],
+        "Overall level": [
+            59.1049382407407,
+            59.0123455555556,
+            59.9691358024691,
+            59.537037037037,
+            61.0493981481481
+        ],
+        "Periodicity assessment": [
+            82.59259250000002,
+            81.4814811111111,
+            81.57407407407409,
+            80.2777777777778,
+            83.4259722222222
+        ],
+        "Source data assessment": [
+            55.0,
+            55.8333333333333,
+            55.0,
+            55.27777777777778,
+            55.27777777777778
+        ]
+    },
+    "colors": {
+        "Methodology assessment": "#DB7093",
+        "Overall level": "#8B4513",
+        "Periodicity assessment": "#FF4500",
+        "Source data assessment": "#00FFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

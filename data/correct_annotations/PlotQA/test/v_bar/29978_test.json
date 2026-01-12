@@ -1,0 +1,76 @@
+{
+    "title": "Natural gas rents as percent of GDP towards fuel resources",
+    "x_axis": {
+        "categories": [
+            "Upper middle income",
+            "World",
+            "Algeria",
+            "Argentina",
+            "Australia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#FF1493",
+        "1971": "#A0522D",
+        "1972": "#D2691E",
+        "1973": "#32CD32"
+    },
+    "data": {
+        "1970": [
+            0.0875502419330198,
+            0.260390477459025,
+            0.484475723780023,
+            0.186033155959758,
+            0.0423512410440126
+        ],
+        "1971": [
+            0.116697042400144,
+            0.287405509167352,
+            0.5919318449384711,
+            0.214701493475227,
+            0.0647530197627794
+        ],
+        "1972": [
+            0.128268248536245,
+            0.272467650683784,
+            0.598029054491969,
+            0.207059977739742,
+            0.0857723423481815
+        ],
+        "1973": [
+            0.142213368277233,
+            0.2917087577051261,
+            0.764893625633277,
+            0.1853467116513151,
+            0.110219116044414
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

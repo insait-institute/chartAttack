@@ -1,0 +1,48 @@
+{
+    "title": "Amount of CO2 emitted from gaseous fuel consumption by different countries in 1979",
+    "legend": {
+        "CO2 emissions from gaseous fuel consumption": "#C71585"
+    },
+    "categories": [
+        "Upper middle income",
+        "World",
+        "Afghanistan",
+        "Albania"
+    ],
+    "data": {
+        "CO2 emissions from gaseous fuel consumption": [
+            273627.78617105,
+            6919629.0,
+            385.035,
+            707.7310000000001
+        ]
+    },
+    "colors": {
+        "CO2 emissions from gaseous fuel consumption": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6919630
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

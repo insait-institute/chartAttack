@@ -1,0 +1,60 @@
+{
+    "title": "IAAF score",
+    "categories": [
+        "Sara Dossena",
+        "Giovanna Epis",
+        "Catherine Bertone",
+        "Valeria Straneo",
+        "Elisa Stefani",
+        "Laila Soufyane",
+        "Anna Incerti",
+        "Sara Brogiato",
+        "Elisabetta Iavarone",
+        "Claudia Pinna"
+    ],
+    "data": {
+        "Scores": [
+            1218,
+            1194,
+            1162,
+            1141,
+            1130,
+            1103,
+            1088,
+            1043,
+            1008,
+            998
+        ]
+    },
+    "colors": {
+        "Scores": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1220
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Scores": "#2876dd"
+    }
+}

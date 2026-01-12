@@ -1,0 +1,67 @@
+{
+    "title": "Net official aid flow in an economy from WHO",
+    "legend": {
+        "Heavily indebted poor countries": "#CD853F",
+        "Central African Republic": "#00FFFF",
+        "Libya": "#00BFFF",
+        "Senegal": "#40E0D0"
+    },
+    "categories": [
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "data": {
+        "Heavily indebted poor countries": [
+            44290000.0,
+            41330000.0,
+            50680000.0
+        ],
+        "Central African Republic": [
+            1580000.0,
+            1440000.0,
+            1560000.0
+        ],
+        "Libya": [
+            620000.0,
+            380000.0,
+            420000.0
+        ],
+        "Senegal": [
+            1390000.0,
+            1170000.0,
+            1270000.0
+        ]
+    },
+    "colors": {
+        "Heavily indebted poor countries": "#CD853F",
+        "Central African Republic": "#00FFFF",
+        "Libya": "#00BFFF",
+        "Senegal": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50680000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

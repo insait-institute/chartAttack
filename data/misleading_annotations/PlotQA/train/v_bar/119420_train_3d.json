@@ -1,0 +1,64 @@
+{
+    "title": "Net disbursements of loans in different countries in 1997",
+    "x_axis": {
+        "categories": [
+            "Regional development banks",
+            "International Monetary Fund",
+            "International Development Association",
+            "Others"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Low income": "#00FA9A",
+        "Benin": "#2E8B57",
+        "Rwanda": "#FFA500"
+    },
+    "data": {
+        "Low income": [
+            721971000,
+            -21486000,
+            1422669000,
+            43398000
+        ],
+        "Benin": [
+            5857000,
+            1927000,
+            15880000,
+            2570000
+        ],
+        "Rwanda": [
+            7890000,
+            -2411000,
+            47530000,
+            3406000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1422669000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

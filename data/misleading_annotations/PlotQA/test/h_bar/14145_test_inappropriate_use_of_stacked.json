@@ -1,0 +1,57 @@
+{
+    "title": "Industrial nitrous oxide emissions in energy sector",
+    "legend": {
+        "Hungary": "#f27979",
+        "India": "#79f200",
+        "Indonesia": "#52a5a5",
+        "Iran": "#5200a5"
+    },
+    "categories": [
+        "Industrial nitrous oxide emissions in energy sector"
+    ],
+    "data": {
+        "Hungary": [
+            3178.6
+        ],
+        "India": [
+            1146.7
+        ],
+        "Indonesia": [
+            139.5
+        ],
+        "Iran": [
+            337.6
+        ]
+    },
+    "colors": {
+        "Hungary": "#f27979",
+        "India": "#79f200",
+        "Indonesia": "#52a5a5",
+        "Iran": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3180
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

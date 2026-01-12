@@ -1,0 +1,68 @@
+{
+    "title": "Discrepancy in expenditure estimate of GDP",
+    "legend": {
+        "Congo (Republic)": "#006400",
+        "Hong Kong": "#BC8F8F",
+        "Paraguay": "#8B4513"
+    },
+    "categories": [
+        "1996",
+        "1997",
+        "1998",
+        "2004",
+        "2008"
+    ],
+    "data": {
+        "Congo (Republic)": [
+            63737586800.0,
+            205454300.0,
+            61520225500.0,
+            100.0,
+            -100.0
+        ],
+        "Hong Kong": [
+            -19364000000.0,
+            -11217000000.0,
+            -4250000000.0,
+            -11657000000.0,
+            -9481000000.0
+        ],
+        "Paraguay": [
+            1000000.0,
+            -1000000.0,
+            -1000000.0,
+            3000000.0,
+            -1000000.0
+        ]
+    },
+    "colors": {
+        "Congo (Republic)": "#006400",
+        "Hong Kong": "#BC8F8F",
+        "Paraguay": "#8B4513"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 63737586800
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

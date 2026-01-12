@@ -1,0 +1,57 @@
+{
+    "title": "",
+    "legend": {
+        "Revenue": "#2876dd"
+    },
+    "categories": [
+        "Enbridge Inc.",
+        "Suncor Energy Inc.",
+        "Imperial Oil Ltd.",
+        "Canadian Natural Resources Ltd.",
+        "Husky Energy Inc.",
+        "Parkland Corp",
+        "Cenovus Energy Inc.",
+        "TC Energy Corp."
+    ],
+    "data": {
+        "Revenue": [
+            33.29,
+            23.43,
+            20.57,
+            14.73,
+            12.55,
+            12.44,
+            11.91,
+            9.78
+        ]
+    },
+    "colors": {
+        "Revenue": "#2876dd"
+    },
+    "type": "h_bar",
+    "y_label": "Revenue in billion U.S. dollars",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

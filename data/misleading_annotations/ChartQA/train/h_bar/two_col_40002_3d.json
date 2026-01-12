@@ -1,0 +1,71 @@
+{
+    "title": "",
+    "legend": {
+        "Default": "#2876dd"
+    },
+    "categories": [
+        "US",
+        "China",
+        "UK",
+        "Germany",
+        "Spain",
+        "France",
+        "Canada",
+        "South Korea",
+        "India",
+        "Switzerland",
+        "Australia",
+        "Netherlands",
+        "Japan",
+        "Brazil",
+        "Hong Kong"
+    ],
+    "data": {
+        "Default": [
+            372.06,
+            84.07,
+            68.44,
+            36.9,
+            24.28,
+            22.18,
+            21.32,
+            21.14,
+            19.42,
+            19.17,
+            16.73,
+            14.4,
+            14.15,
+            13.03,
+            11.27
+        ]
+    },
+    "colors": {
+        "Default": "#2876dd"
+    },
+    "type": "h_bar",
+    "y_axis_label": "Value in billion U.S. dollars",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 380
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

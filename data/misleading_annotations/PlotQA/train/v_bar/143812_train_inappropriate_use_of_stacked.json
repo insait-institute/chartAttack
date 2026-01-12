@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of the male workers employed in different sectors of an economy in 2007",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Central Europe": "#f27979",
+        "East Asia (all income levels)": "#79f200",
+        "East Asia (developing only)": "#52a5a5",
+        "Euro area": "#5200a5"
+    },
+    "data": {
+        "Central Europe": [
+            13.3889283513157
+        ],
+        "East Asia (all income levels)": [
+            10.809489710985
+        ],
+        "East Asia (developing only)": [
+            11.5032005567357
+        ],
+        "Euro area": [
+            4.571624010216849
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Central Europe": "#f27979",
+        "East Asia (all income levels)": "#79f200",
+        "East Asia (developing only)": "#52a5a5",
+        "Euro area": "#5200a5"
+    }
+}

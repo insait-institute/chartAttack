@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Player": "#2876dd"
+    },
+    "categories": [
+        "Randy Smith",
+        "Blake Griffin",
+        "Bob McAdoo",
+        "Elton Brand",
+        "Corey Maggette",
+        "Chris Paul",
+        "Danny Manning",
+        "DeAndre Jordan",
+        "Loy Vaught",
+        "Ken Norman"
+    ],
+    "data": {
+        "Player": [
+            12735,
+            10863,
+            9434,
+            9336,
+            8835,
+            7674,
+            7120,
+            7078,
+            6614,
+            6432
+        ]
+    },
+    "colors": {
+        "Player": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12740
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

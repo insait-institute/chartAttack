@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Countries": "#2876dd"
+    },
+    "categories": [
+        "Romania",
+        "Poland",
+        "Bulgaria",
+        "Italy",
+        "Turkey",
+        "Croatia",
+        "India",
+        "Hungary",
+        "USA",
+        "Serbia",
+        "Other countries of origin"
+    ],
+    "data": {
+        "Countries": [
+            14.8,
+            8.4,
+            5.3,
+            4.0,
+            3.3,
+            2.7,
+            2.3,
+            2.2,
+            1.9,
+            1.9,
+            43.1
+        ]
+    },
+    "colors": {
+        "Countries": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

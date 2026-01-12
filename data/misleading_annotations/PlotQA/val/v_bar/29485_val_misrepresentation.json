@@ -1,0 +1,79 @@
+{
+    "title": "Total goods and services traded in 2005",
+    "x_axis": {
+        "categories": [
+            "Exports",
+            "Imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Afghanistan": "#8B008B",
+        "Bangladesh": "#008080",
+        "Kazakhstan": "#00FA9A",
+        "Kuwait": "#00CED1"
+    },
+    "data": {
+        "Afghanistan": [
+            85318596700,
+            241260319300
+        ],
+        "Bangladesh": [
+            614681000000,
+            854323000000
+        ],
+        "Kazakhstan": [
+            4037767500000,
+            3382986700000
+        ],
+        "Kuwait": [
+            15094000000,
+            6669000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4037767500000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Afghanistan": [
+            1.75,
+            0.25
+        ],
+        "Bangladesh": [
+            1.75,
+            0.25
+        ],
+        "Kazakhstan": [
+            1.75,
+            0.25
+        ],
+        "Kuwait": [
+            1.75,
+            0.25
+        ]
+    }
+}

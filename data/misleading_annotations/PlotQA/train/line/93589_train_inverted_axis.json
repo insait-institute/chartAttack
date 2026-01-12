@@ -1,0 +1,81 @@
+{
+    "title": "Split of the expenses made by the government of Equatorial Guinea",
+    "legend": {
+        "Miscellaneous expenses": "#6B8E23",
+        "Labor Taxes": "#F4A460",
+        "Grants and Revenue": "#2F4F4F",
+        "Services": "#CD853F"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "y_axis_label": "Expenses (in $)",
+    "data": [
+        {
+            "label": "Miscellaneous expenses",
+            "color": "#6B8E23",
+            "values": [
+                9156000000,
+                9209000000,
+                4522000000
+            ]
+        },
+        {
+            "label": "Labor Taxes",
+            "color": "#F4A460",
+            "values": [
+                5690000000,
+                4439000000,
+                5448000000
+            ]
+        },
+        {
+            "label": "Grants and Revenue",
+            "color": "#2F4F4F",
+            "values": [
+                1835738000000,
+                2363153000000,
+                1462428000000
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#CD853F",
+            "values": [
+                80689000000,
+                130558000000,
+                148193000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 4439000000,
+                "max_value": 2363153000000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

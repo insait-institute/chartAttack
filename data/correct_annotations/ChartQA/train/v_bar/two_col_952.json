@@ -1,0 +1,64 @@
+{
+    "title": "Inhabitants in millions",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*",
+            "2026*"
+        ]
+    },
+    "y_axis": {
+        "label": "Inhabitants in millions"
+    },
+    "legend": {
+        "2016-2026": "#2876dd"
+    },
+    "data": {
+        "2016-2026": [
+            36.05,
+            36.5,
+            37,
+            37.53,
+            37.97,
+            38.27,
+            38.68,
+            39.09,
+            39.5,
+            39.9,
+            40.31
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

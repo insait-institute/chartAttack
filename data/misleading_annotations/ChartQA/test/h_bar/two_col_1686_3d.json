@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Average connection speed": "#2876dd"
+    },
+    "categories": [
+        "New Jersey",
+        "Maryland",
+        "Virginia",
+        "Texas",
+        "Rhode Island",
+        "New York",
+        "Delaware",
+        "Massachusetts",
+        "North Carolina",
+        "Connecticut"
+    ],
+    "data": {
+        "Average connection speed": [
+            52,
+            51.3,
+            48.7,
+            46.9,
+            46.7,
+            45.2,
+            44.9,
+            43.5,
+            42.4,
+            41.8
+        ]
+    },
+    "colors": {
+        "Average connection speed": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

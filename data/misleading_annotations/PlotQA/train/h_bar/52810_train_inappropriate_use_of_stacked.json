@@ -1,0 +1,52 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in the Arab World",
+    "legend": {
+        "United Kingdom": "#f27979",
+        "United States": "#00f200",
+        "Uruguay": "#5252a5"
+    },
+    "categories": [
+        "Merchandise imports to low and middle-income economies in the Arab World"
+    ],
+    "data": {
+        "United Kingdom": [
+            6.7516562619442
+        ],
+        "United States": [
+            1.76244689469225
+        ],
+        "Uruguay": [
+            0.794646591384358
+        ]
+    },
+    "colors": {
+        "United Kingdom": "#f27979",
+        "United States": "#00f200",
+        "Uruguay": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

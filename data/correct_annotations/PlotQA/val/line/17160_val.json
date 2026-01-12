@@ -1,0 +1,67 @@
+{
+    "title": "Total rural population vs urban population of Greece",
+    "legend": {
+        "Rural": "#6A5ACD",
+        "Urban": "#FF69B4"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Population (in % of total)",
+    "data": [
+        {
+            "label": "Rural",
+            "color": "#6A5ACD",
+            "values": [
+                25.927,
+                25.548,
+                25.173,
+                24.801,
+                24.432
+            ]
+        },
+        {
+            "label": "Urban",
+            "color": "#FF69B4",
+            "values": [
+                74.07300000000002,
+                74.452,
+                74.827,
+                75.199,
+                75.568
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

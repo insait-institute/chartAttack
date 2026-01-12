@@ -1,0 +1,82 @@
+{
+    "title": "Homicides per 100,000 inhabitants",
+    "categories": [
+        "El Salvador",
+        "Jamaica",
+        "Honduras",
+        "Venezuela",
+        "Mexico",
+        "Brazil",
+        "Colombia",
+        "Guatemala",
+        "Saint Lucia",
+        "Puerto Rico",
+        "Guyana",
+        "Uruguay",
+        "Costa Rica",
+        "Dominican Republic",
+        "Barbados",
+        "Panama",
+        "Paraguay",
+        "Haiti",
+        "Ecuador",
+        "Argentina",
+        "Chile"
+    ],
+    "data": {
+        "Homicides": [
+            52,
+            43.9,
+            38.9,
+            36.7,
+            29.1,
+            27.4,
+            25.3,
+            22.5,
+            21.4,
+            21.1,
+            14.2,
+            12.1,
+            11.3,
+            10,
+            9.8,
+            9.4,
+            7.1,
+            6.7,
+            5.8,
+            5.3,
+            4.4
+        ]
+    },
+    "colors": {
+        "Homicides": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Homicides": "#2876dd"
+    }
+}

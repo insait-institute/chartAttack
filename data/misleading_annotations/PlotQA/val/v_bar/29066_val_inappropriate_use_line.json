@@ -1,0 +1,76 @@
+{
+    "title": "CPIA economic management cluster average rating",
+    "x_axis": {
+        "categories": [
+            "St. Vincent and the Grenadines",
+            "Sudan",
+            "Tajikistan",
+            "Tanzania",
+            "Togo"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#32CD32",
+        "2006": "#BC8F8F",
+        "2007": "#2E8B57",
+        "2008": "#BEBEBE"
+    },
+    "data": {
+        "2005": [
+            4.0,
+            2.83333333333333,
+            4.16666666666667,
+            4.5,
+            2.0
+        ],
+        "2006": [
+            3.7,
+            2.7,
+            4.2,
+            4.5,
+            2.0
+        ],
+        "2007": [
+            3.66666666666667,
+            2.66666666666667,
+            3.66666666666667,
+            4.33333333333333,
+            2.16666666666667
+        ],
+        "2008": [
+            3.7,
+            2.7,
+            3.5,
+            4.3,
+            2.7
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

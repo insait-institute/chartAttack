@@ -1,0 +1,62 @@
+{
+    "title": "Share of expenditures made in secondary public institutions in 2011",
+    "legend": {
+        "France": "#00BFFF",
+        "Germany": "#6495ED",
+        "Mali": "#4169E1",
+        "Poland": "#2E8B57"
+    },
+    "categories": [
+        "All education staff compensation",
+        "Current education expenditure"
+    ],
+    "data": {
+        "France": [
+            76.0398406982422,
+            89.9164581298828
+        ],
+        "Germany": [
+            77.2826385498047,
+            92.6602935791016
+        ],
+        "Mali": [
+            56.95718002319339,
+            94.24083709716801
+        ],
+        "Poland": [
+            65.65908813476561,
+            95.8774566650391
+        ]
+    },
+    "colors": {
+        "France": "#00BFFF",
+        "Germany": "#6495ED",
+        "Mali": "#4169E1",
+        "Poland": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

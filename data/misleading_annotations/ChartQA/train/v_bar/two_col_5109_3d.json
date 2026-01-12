@@ -1,0 +1,68 @@
+{
+    "title": "B2B e-commerce volume in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011*",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016*",
+            "2017",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "B2B e-commerce volume in billion U.S. dollars"
+    },
+    "legend": {
+        "2006-2018": "#2876dd"
+    },
+    "data": {
+        "2006-2018": [
+            2761,
+            3130,
+            3482,
+            3161,
+            3705,
+            4399.79,
+            4887.55,
+            5336.51,
+            5771.1,
+            5790.31,
+            5809.94,
+            6234.43,
+            6652.94
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6660
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

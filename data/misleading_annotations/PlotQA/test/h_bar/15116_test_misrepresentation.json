@@ -1,0 +1,59 @@
+{
+    "title": "Measure of agricultural productivity of France",
+    "legend": {
+        "Agriculture value added per worker": "#A0522D"
+    },
+    "categories": [
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+    ],
+    "data": {
+        "Agriculture value added per worker": [
+            15445.5651570641,
+            16850.7415695345,
+            17443.8034309123,
+            18723.6961341406,
+            19287.5910567934
+        ]
+    },
+    "colors": {
+        "Agriculture value added per worker": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 19290
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Agriculture value added per worker": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

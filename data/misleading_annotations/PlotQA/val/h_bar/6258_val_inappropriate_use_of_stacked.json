@@ -1,0 +1,67 @@
+{
+    "title": "Gross Domestic Product of different countries in the year 1963",
+    "legend": {
+        "Korea (Republic)": "#f27979",
+        "Lesotho": "#f2f200",
+        "Liberia": "#79f279",
+        "Luxembourg": "#00a5a5",
+        "Madagascar": "#5252a5",
+        "Malawi": "#a500a5"
+    },
+    "categories": [
+        "Gross Domestic Product of different countries in the year 1963"
+    ],
+    "data": {
+        "Korea (Republic)": [
+            32600234365.55101
+        ],
+        "Lesotho": [
+            218384752.299422
+        ],
+        "Liberia": [
+            913081705.7403892
+        ],
+        "Luxembourg": [
+            7387259912.4533
+        ],
+        "Madagascar": [
+            2507094591.04217
+        ],
+        "Malawi": [
+            534011629.619984
+        ]
+    },
+    "colors": {
+        "Korea (Republic)": "#f27979",
+        "Lesotho": "#f2f200",
+        "Liberia": "#79f279",
+        "Luxembourg": "#00a5a5",
+        "Madagascar": "#5252a5",
+        "Malawi": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 32600234370
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

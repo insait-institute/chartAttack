@@ -1,0 +1,62 @@
+{
+    "title": "Trade statistics with developing economies of South Asia in 1998",
+    "legend": {
+        "Djibouti": "#663399",
+        "Madagascar": "#32CD32",
+        "Mauritius": "#FF0000",
+        "Yemen, Rep.": "#D2691E"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Djibouti": [
+            1.70350853913021,
+            2.78545439782525
+        ],
+        "Madagascar": [
+            0.7253029254170621,
+            3.98709518771326
+        ],
+        "Mauritius": [
+            0.430941365122925,
+            10.7878222758126
+        ],
+        "Yemen, Rep.": [
+            0.423164808018582,
+            2.85851760609422
+        ]
+    },
+    "colors": {
+        "Djibouti": "#663399",
+        "Madagascar": "#32CD32",
+        "Mauritius": "#FF0000",
+        "Yemen, Rep.": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

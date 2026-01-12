@@ -1,0 +1,54 @@
+{
+    "title": "Social contributions made by the government of countries in the year 1991",
+    "x_axis": {
+        "categories": [
+            "Bulgaria",
+            "Burundi",
+            "Cameroon",
+            "Canada",
+            "Congo (Democratic)",
+            "Croatia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Social contributions": "#ADFF2F"
+    },
+    "data": {
+        "Social contributions": [
+            23.56351817671131,
+            4.47382979103093,
+            1.69893322797313,
+            18.0247926985364,
+            0.6018518518518511,
+            51.5315934065934
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

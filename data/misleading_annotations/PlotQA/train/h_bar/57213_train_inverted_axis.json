@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of the unemployed labor force with tertiary education as their highest grade",
+    "legend": {
+        "Europe(all income levels)": "#9ACD32",
+        "Belarus": "#191970",
+        "Malaysia": "#A020F0",
+        "Sri Lanka": "#FF69B4"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Europe(all income levels)": [
+            18.2088047510145,
+            18.6138456157929,
+            19.5040553492818
+        ],
+        "Belarus": [
+            49.7999992370605,
+            51.0,
+            51.2000007629395
+        ],
+        "Malaysia": [
+            24.5,
+            25.10000038146969,
+            24.89999961853031
+        ],
+        "Sri Lanka": [
+            26.89999961853031,
+            32.5999984741211,
+            31.7999992370605
+        ]
+    },
+    "colors": {
+        "Europe(all income levels)": "#9ACD32",
+        "Belarus": "#191970",
+        "Malaysia": "#A020F0",
+        "Sri Lanka": "#FF69B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

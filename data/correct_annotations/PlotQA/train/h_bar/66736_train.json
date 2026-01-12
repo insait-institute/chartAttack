@@ -1,0 +1,72 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1963",
+    "legend": {
+        "Chad": "#FF00FF",
+        "Kenya": "#00FF00",
+        "Sri Lanka": "#D2B48C",
+        "Uganda": "#BDB76B"
+    },
+    "categories": [
+        "Industry",
+        "Manufacturing",
+        "Services",
+        "Agriculture"
+    ],
+    "data": {
+        "Chad": [
+            34871016.8759234,
+            23014448.1540935,
+            179620215.854864,
+            141371779.073497
+        ],
+        "Kenya": [
+            129527948.077427,
+            80541981.7139412,
+            371769850.972337,
+            356271857.184863
+        ],
+        "Sri Lanka": [
+            264033630.252101,
+            203193260.504202,
+            620168050.4201679,
+            412773109.243697
+        ],
+        "Uganda": [
+            69144015.58110839,
+            42505398.0712049,
+            169237270.856069,
+            245316449.444873
+        ]
+    },
+    "colors": {
+        "Chad": "#FF00FF",
+        "Kenya": "#00FF00",
+        "Sri Lanka": "#D2B48C",
+        "Uganda": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 620168060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

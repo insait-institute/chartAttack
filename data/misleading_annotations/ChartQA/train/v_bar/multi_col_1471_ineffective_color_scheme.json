@@ -1,0 +1,64 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Television product": "#2876dd",
+        "Theatrical product": "#2859dd",
+        "Games and other": "#3144de"
+    },
+    "data": {
+        "Television product": [
+            3621,
+            6367,
+            6171
+        ],
+        "Theatrical product": [
+            4002,
+            5978,
+            4389
+        ],
+        "Games and other": [
+            1080,
+            2013,
+            1594
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6370
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Television product": "#2876dd",
+        "Theatrical product": "#2859dd",
+        "Games and other": "#3144de"
+    }
+}

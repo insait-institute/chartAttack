@@ -1,0 +1,64 @@
+{
+    "title": "Merchandise exports to low and middle-income economies outside region",
+    "x_axis": {
+        "categories": [
+            "Least developed countries",
+            "Low & middle income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#CD5C5C",
+        "1961": "#FFA500",
+        "1962": "#B03060"
+    },
+    "data": {
+        "1960": [
+            8.49376924862757,
+            5.41666109208358,
+            9.48212309676506,
+            8.2315603406717
+        ],
+        "1961": [
+            6.5075805964525,
+            4.89828000733969,
+            8.11371529082791,
+            6.22244405623492
+        ],
+        "1962": [
+            8.897585874645632,
+            4.61115160495831,
+            8.28689417876894,
+            6.623185743156347
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

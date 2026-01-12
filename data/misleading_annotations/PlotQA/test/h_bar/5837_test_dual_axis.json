@@ -1,0 +1,64 @@
+{
+    "title": "Total CO2 emission from different fuels in 1981",
+    "legend": {
+        "Mongolia": "#FFD700",
+        "Singapore": "#6B8E23"
+    },
+    "categories": [
+        "Gaseous fuel",
+        "Liquid fuel",
+        "Solid fuel"
+    ],
+    "data": {
+        "Mongolia": [
+            6644.604,
+            2002.182,
+            4536.079000000002
+        ],
+        "Singapore": [
+            26849.774,
+            25709.337,
+            18.335
+        ]
+    },
+    "colors": {
+        "Mongolia": "#FFD700",
+        "Singapore": "#6B8E23"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 2002.182,
+                "max_value": 6644.604
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 18.335,
+                "max_value": 26849.774
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

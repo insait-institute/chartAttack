@@ -1,0 +1,68 @@
+{
+    "title": "Spending in million Australian dollars",
+    "x_axis": {
+        "categories": [
+            "Q3 2015",
+            "Q3 2016",
+            "Q4 2017",
+            "Q4 2018",
+            "Q4 2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Spending in million Australian dollars"
+    },
+    "legend": {
+        "Search and directories": "#2876dd",
+        "Classifieds": "#0f283e",
+        "General display": "#bababa"
+    },
+    "data": {
+        "Search and directories": [
+            0.7,
+            0.86,
+            0.95,
+            1.02,
+            4.2
+        ],
+        "Classifieds": [
+            0.31,
+            0.35,
+            0.38,
+            0.4,
+            1.67
+        ],
+        "General display": [
+            0.56,
+            0.67,
+            0.84,
+            0.88,
+            3.47
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

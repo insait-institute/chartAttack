@@ -1,0 +1,71 @@
+{
+    "title": "Schooling information of children involved in an economic activity in different countries",
+    "x_axis": {
+        "categories": [
+            "Macedonia",
+            "Malawi",
+            "Mexico",
+            "Pakistan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Not attending school": "#8B0000",
+        "Attending school": "#BDB76B"
+    },
+    "data": {
+        "Not attending school": [
+            1.44531959872421,
+            11.7759263729812,
+            14.9503811782538,
+            87.4463967862567
+        ],
+        "Attending school": [
+            98.55468040127579,
+            88.2240736270188,
+            85.04961882174621,
+            12.5536032137433
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Not attending school": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Attending school": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

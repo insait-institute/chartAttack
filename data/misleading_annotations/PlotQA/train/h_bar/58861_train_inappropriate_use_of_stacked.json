@@ -1,0 +1,62 @@
+{
+    "title": "Net disbursements of loans in different countries in 1985",
+    "legend": {
+        "Latin America(developing only)": "#f27979",
+        "Low & middle income": "#c1f200",
+        "Low income": "#52a574",
+        "Lower middle income": "#0042a5",
+        "Middle East & North Africa (developing only)": "#da79f2"
+    },
+    "categories": [
+        "Net disbursements of loans in different countries in 1985"
+    ],
+    "data": {
+        "Latin America(developing only)": [
+            318744000.0
+        ],
+        "Low & middle income": [
+            867879000.0
+        ],
+        "Low income": [
+            358446000.0
+        ],
+        "Lower middle income": [
+            318649000.0
+        ],
+        "Middle East & North Africa (developing only)": [
+            891000.0
+        ]
+    },
+    "colors": {
+        "Latin America(developing only)": "#f27979",
+        "Low & middle income": "#c1f200",
+        "Low income": "#52a574",
+        "Lower middle income": "#0042a5",
+        "Middle East & North Africa (developing only)": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 867879000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

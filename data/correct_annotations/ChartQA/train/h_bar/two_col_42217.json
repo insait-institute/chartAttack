@@ -1,0 +1,80 @@
+{
+    "title": "Government content removal requests per country",
+    "categories": [
+        "Russia",
+        "South Korea",
+        "India",
+        "Turkey",
+        "Brazil",
+        "United States",
+        "France",
+        "Germany",
+        "Pakistan",
+        "Australia",
+        "Vietnam",
+        "China",
+        "Italy",
+        "Israel",
+        "Japan",
+        "Canada",
+        "Kazakhstan",
+        "United Kingdom",
+        "Thailand",
+        "Spain"
+    ],
+    "data": {
+        "Requests": [
+            12688,
+            1235,
+            1024,
+            667,
+            576,
+            426,
+            337,
+            240,
+            234,
+            233,
+            171,
+            152,
+            133,
+            87,
+            80,
+            62,
+            62,
+            57,
+            55,
+            50
+        ]
+    },
+    "colors": {
+        "Requests": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12690
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Requests": "#2876dd"
+    }
+}

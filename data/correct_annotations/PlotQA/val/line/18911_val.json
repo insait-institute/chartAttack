@@ -1,0 +1,91 @@
+{
+    "title": "Rent as percent of GDP towards fuel resources of Georgia",
+    "legend": {
+        "Coal": "#FFFF00",
+        "Natural Gas": "#5F9EA0",
+        "Oil": "#00FA9A"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Rent(as % of GDP)",
+    "data": [
+        {
+            "label": "Coal",
+            "color": "#FFFF00",
+            "values": [
+                0.000459031543145388,
+                0.00124402702588202,
+                0.00197743869915744,
+                0.00702220464632694,
+                0.0023830100762806,
+                0.00399881137442077,
+                0.007194688036220709,
+                0.0115588553878578
+            ]
+        },
+        {
+            "label": "Natural Gas",
+            "color": "#5F9EA0",
+            "values": [
+                0.132151272390894,
+                0.0376885621191446,
+                0.0598098936557963,
+                0.0328104348705015,
+                0.0650964346999595,
+                0.05172161803286401,
+                0.0343253855702869,
+                0.0323616399789729
+            ]
+        },
+        {
+            "label": "Oil",
+            "color": "#00FA9A",
+            "values": [
+                0.414644814436943,
+                0.299578033249279,
+                0.578902316478131,
+                0.43317266964668,
+                0.34797177552834,
+                0.333610089917022,
+                0.2487687009792361,
+                0.253511499048335
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

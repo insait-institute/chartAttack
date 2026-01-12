@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary  and secondary schools in countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#f2f200",
+        "Middle income": "#79f279",
+        "OECD members": "#00a5a5",
+        "Other small states": "#5252a5",
+        "Pacific island small states": "#a500a5"
+    },
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            64.6827774047852
+        ],
+        "Middle East & North Africa (developing only)": [
+            64.8633270263672
+        ],
+        "Middle income": [
+            79.95533752441409
+        ],
+        "OECD members": [
+            93.1921844482422
+        ],
+        "Other small states": [
+            61.15657806396479
+        ],
+        "Pacific island small states": [
+            90.6233139038085
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#f2f200",
+        "Middle income": "#79f279",
+        "OECD members": "#00a5a5",
+        "Other small states": "#5252a5",
+        "Pacific island small states": "#a500a5"
+    }
+}

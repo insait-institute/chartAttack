@@ -1,0 +1,60 @@
+{
+    "title": "GMV in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "GMV in million U.S. dollars"
+    },
+    "legend": {
+        "Marketplace": "#2876dd",
+        "StubHub": "#0f283e"
+    },
+    "data": {
+        "Marketplace": [
+            77729,
+            79178,
+            83883,
+            89829,
+            85510
+        ],
+        "StubHub": [
+            3575,
+            4310,
+            4520,
+            4751,
+            4700
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 89830
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,101 @@
+{
+    "title": "CPIA ratings of different financial policies of Middle East & North Africa (developing only)",
+    "legend": {
+        "Financial sector": "#A0522D",
+        "Trade": "#40E0D0",
+        "Budget management": "#FF4500",
+        "Fiscal policy": "#008B8B"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Rating (1=low 6=high)",
+    "data": [
+        {
+            "label": "Financial sector",
+            "color": "#A0522D",
+            "values": [
+                2.75,
+                2.75,
+                2.75,
+                3.0,
+                2.5,
+                2.5,
+                2.5
+            ]
+        },
+        {
+            "label": "Trade",
+            "color": "#40E0D0",
+            "values": [
+                4.0,
+                4.25,
+                4.25,
+                4.0,
+                4.0,
+                4.0,
+                4.0
+            ]
+        },
+        {
+            "label": "Budget management",
+            "color": "#FF4500",
+            "values": [
+                3.25,
+                3.25,
+                3.25,
+                3.25,
+                2.75,
+                3.0,
+                3.0
+            ]
+        },
+        {
+            "label": "Fiscal policy",
+            "color": "#008B8B",
+            "values": [
+                3.0,
+                2.75,
+                3.0,
+                2.75,
+                3.0,
+                3.0,
+                3.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

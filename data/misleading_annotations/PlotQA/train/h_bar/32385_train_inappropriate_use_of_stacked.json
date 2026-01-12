@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of rural population using safely managed services in Northern Mariana Islands",
+    "legend": {
+        "1993": "#f27979",
+        "1994": "#c1f200",
+        "1995": "#52a574",
+        "1996": "#0042a5",
+        "1997": "#da79f2"
+    },
+    "categories": [
+        "Percentage of rural population using safely managed services in Northern Mariana Islands"
+    ],
+    "data": {
+        "1993": [
+            70.2
+        ],
+        "1994": [
+            70.7
+        ],
+        "1995": [
+            71.2
+        ],
+        "1996": [
+            71.7
+        ],
+        "1997": [
+            72.2
+        ]
+    },
+    "colors": {
+        "1993": "#f27979",
+        "1994": "#c1f200",
+        "1995": "#52a574",
+        "1996": "#0042a5",
+        "1997": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

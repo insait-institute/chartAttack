@@ -1,0 +1,72 @@
+{
+    "title": "Fertility rate in countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Upper middle income": "#f27979",
+        "World": "#f2f200",
+        "Afghanistan": "#79f279",
+        "Albania": "#00a5a5",
+        "Algeria": "#5252a5",
+        "Angola": "#a500a5"
+    },
+    "data": {
+        "Upper middle income": [
+            5.80451430710343
+        ],
+        "World": [
+            4.98503516232641
+        ],
+        "Afghanistan": [
+            7.45
+        ],
+        "Albania": [
+            6.186
+        ],
+        "Algeria": [
+            7.524
+        ],
+        "Angola": [
+            7.379
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Upper middle income": "#f27979",
+        "World": "#f2f200",
+        "Afghanistan": "#79f279",
+        "Albania": "#00a5a5",
+        "Algeria": "#5252a5",
+        "Angola": "#a500a5"
+    }
+}

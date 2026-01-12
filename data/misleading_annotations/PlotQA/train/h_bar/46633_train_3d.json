@@ -1,0 +1,60 @@
+{
+    "title": "Net primary income of a country",
+    "legend": {
+        "Italy": "#FF8C00",
+        "Nepal": "#8FBC8F",
+        "St. Kitts and Nevis": "#DC143C"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "Italy": [
+            -17108139051,
+            -17076503582,
+            -26798974137
+        ],
+        "Nepal": [
+            48303307.75,
+            62118346.83,
+            136661712.7
+        ],
+        "St. Kitts and Nevis": [
+            -35138333.33,
+            -32339809.26,
+            -30944481.48
+        ]
+    },
+    "colors": {
+        "Italy": "#FF8C00",
+        "Nepal": "#8FBC8F",
+        "St. Kitts and Nevis": "#DC143C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 136661720
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

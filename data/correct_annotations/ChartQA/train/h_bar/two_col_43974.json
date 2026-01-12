@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Edgar Martinez",
+        "Ichiro Suzuki",
+        "Ken Griffey Jr.",
+        "Jay Buhner",
+        "Kyle Seager",
+        "Dan Wilson",
+        "Alvin Davis",
+        "Harold Reynolds",
+        "Raul Ibanez",
+        "Jose Lopez"
+    ],
+    "data": {
+        "Players": [
+            2055,
+            1861,
+            1685,
+            1440,
+            1321,
+            1251,
+            1166,
+            1155,
+            1110,
+            873
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

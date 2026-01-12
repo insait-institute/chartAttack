@@ -1,0 +1,57 @@
+{
+    "title": "Damage caused to an economy due to the depletion of minerals",
+    "x_axis": {
+        "categories": [
+            "Caribbean small states",
+            "East Asia (all income levels)",
+            "East Asia (developing only)",
+            "Euro area"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#8FBC8F",
+        "1971": "#E9967A"
+    },
+    "data": {
+        "1970": [
+            2.65940559409666,
+            0.157421110907137,
+            0.173083896298542,
+            0.0130876728978446
+        ],
+        "1971": [
+            2.51230257189193,
+            0.130143665965467,
+            0.135675200296582,
+            0.00900382483040626
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

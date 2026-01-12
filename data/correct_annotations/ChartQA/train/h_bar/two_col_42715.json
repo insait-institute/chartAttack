@@ -1,0 +1,104 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Morocco",
+        "Senegal",
+        "Portugal",
+        "Switzerland",
+        "Tunisia",
+        "Croatia",
+        "Nigeria",
+        "France",
+        "Spain",
+        "Australia",
+        "Panama",
+        "Russia",
+        "Peru",
+        "Iceland",
+        "Serbia",
+        "Denmark",
+        "Poland",
+        "Belgium",
+        "Sweden",
+        "Costa Rica",
+        "England",
+        "Uruguay",
+        "Egypt",
+        "Japan",
+        "Argentina",
+        "Brazil",
+        "Colombia",
+        "Germany",
+        "Iran",
+        "Mexico",
+        "Saudi Arabia",
+        "South Korea"
+    ],
+    "data": {
+        "Model": [
+            61.5,
+            39.4,
+            32.1,
+            31,
+            23.5,
+            15.4,
+            11.4,
+            10,
+            8.8,
+            8.1,
+            6.3,
+            5,
+            4.9,
+            4.5,
+            3.8,
+            3.8,
+            3.8,
+            3.8,
+            3.7,
+            3.3,
+            3.2,
+            3.1,
+            3,
+            2.6,
+            2.3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

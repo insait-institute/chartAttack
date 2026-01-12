@@ -1,0 +1,56 @@
+{
+    "title": "Trade statistics with developing economies of Latin America in 1961",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle income": "#ADFF2F",
+        "Hong Kong": "#BDB76B",
+        "Israel": "#90EE90"
+    },
+    "data": {
+        "Middle income": [
+            1.16460003199582,
+            0.9391078924029441
+        ],
+        "Hong Kong": [
+            1.50537634408602,
+            1.40213658908813
+        ],
+        "Israel": [
+            0.5312627707396811,
+            0.209680237637603
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

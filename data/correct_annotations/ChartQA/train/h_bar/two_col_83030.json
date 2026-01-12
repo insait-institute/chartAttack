@@ -1,0 +1,84 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Italy",
+        "Germany",
+        "France",
+        "Poland (MSP)",
+        "Spain",
+        "Ukraine*",
+        "Sweden",
+        "Belgium",
+        "Netherlands",
+        "Switzerland (CP)",
+        "Romania",
+        "Austria",
+        "Czechia*",
+        "Greece (WP)",
+        "Ireland",
+        "Finland (WP)",
+        "Hungary (MSP)",
+        "Norway",
+        "Croatia (WP)",
+        "Denmark*",
+        "Slovenia",
+        "Latvia"
+    ],
+    "data": {
+        "Model": [
+            515.36,
+            476,
+            472,
+            356.48,
+            318,
+            201.32,
+            177.36,
+            147.58,
+            142.86,
+            107.62,
+            103.1,
+            97.59,
+            72.8,
+            70.63,
+            50.5,
+            47.2,
+            34.57,
+            31.35,
+            24.47,
+            23.23,
+            10.98,
+            5.21
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 520
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

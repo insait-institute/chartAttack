@@ -1,0 +1,88 @@
+{
+    "title": "",
+    "legend": {
+        "Homescapes": "#f27979",
+        "Candy Crush Saga": "#f29100",
+        "Puzzle & Dragons": "#daf279",
+        "Gardenscapes": "#30f200",
+        "Project Makeover": "#52a574",
+        "Fishdom": "#00a5a5",
+        "Toon Blast": "#5274a5",
+        "Top War: Battle Game": "#2100a5",
+        "Candy Crush Soda Saga": "#da79f2",
+        "Empires & Puzzles: Epic Mach 3": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Homescapes": [
+            59.57
+        ],
+        "Candy Crush Saga": [
+            59.43
+        ],
+        "Puzzle & Dragons": [
+            49.55
+        ],
+        "Gardenscapes": [
+            48.08
+        ],
+        "Project Makeover": [
+            28.02
+        ],
+        "Fishdom": [
+            26.08
+        ],
+        "Toon Blast": [
+            24.27
+        ],
+        "Top War: Battle Game": [
+            21.81
+        ],
+        "Candy Crush Soda Saga": [
+            21.67
+        ],
+        "Empires & Puzzles: Epic Mach 3": [
+            21.36
+        ]
+    },
+    "colors": {
+        "Homescapes": "#f27979",
+        "Candy Crush Saga": "#f29100",
+        "Puzzle & Dragons": "#daf279",
+        "Gardenscapes": "#30f200",
+        "Project Makeover": "#52a574",
+        "Fishdom": "#00a5a5",
+        "Toon Blast": "#5274a5",
+        "Top War: Battle Game": "#2100a5",
+        "Candy Crush Soda Saga": "#da79f2",
+        "Empires & Puzzles: Epic Mach 3": "#f20091"
+    },
+    "y_label": "Revenue in million U.S. dollars",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

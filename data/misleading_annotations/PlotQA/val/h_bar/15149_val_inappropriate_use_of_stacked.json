@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of trained primary school teachers (females) in different countries",
+    "legend": {
+        "Hong Kong": "#f27979",
+        "Iran": "#f2f200",
+        "Kyrgyz Republic": "#79f279",
+        "Lao PDR": "#00a5a5",
+        "Lesotho": "#5252a5",
+        "Macao": "#a500a5"
+    },
+    "categories": [
+        "Percentage of trained primary school teachers (females) in different countries"
+    ],
+    "data": {
+        "Hong Kong": [
+            90.4112091064453
+        ],
+        "Iran": [
+            99.14401245117192
+        ],
+        "Kyrgyz Republic": [
+            48.8549613952637
+        ],
+        "Lao PDR": [
+            68.9307327270508
+        ],
+        "Lesotho": [
+            60.8820190429688
+        ],
+        "Macao": [
+            70.3296737670898
+        ]
+    },
+    "colors": {
+        "Hong Kong": "#f27979",
+        "Iran": "#f2f200",
+        "Kyrgyz Republic": "#79f279",
+        "Lao PDR": "#00a5a5",
+        "Lesotho": "#5252a5",
+        "Macao": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

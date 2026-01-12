@@ -1,0 +1,63 @@
+{
+    "title": "Percentage of total population who survived till the age of 65 years",
+    "x_axis": {
+        "categories": [
+            "Brazil",
+            "Brunei Darussalam",
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi",
+            "Cabo Verde"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Age 65(female)": "#B8860B",
+        "Age 65(male)": "#CD5C5C"
+    },
+    "data": {
+        "Age 65(female)": [
+            65.26186,
+            74.76510999999998,
+            82.06572,
+            37.20958,
+            40.83001,
+            56.59935
+        ],
+        "Age 65(male)": [
+            53.61241,
+            68.63051,
+            71.0224,
+            31.20236,
+            34.90624,
+            49.84599
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

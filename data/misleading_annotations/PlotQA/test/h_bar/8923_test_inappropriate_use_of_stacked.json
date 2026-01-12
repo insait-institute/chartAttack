@@ -1,0 +1,52 @@
+{
+    "title": "Annual freshwater withdrawals (%) in a country",
+    "legend": {
+        "1987": "#f27979",
+        "2002": "#00f200",
+        "2013": "#5252a5"
+    },
+    "categories": [
+        "Annual freshwater withdrawals (%) in a country"
+    ],
+    "data": {
+        "1987": [
+            0.0384615384615385
+        ],
+        "2002": [
+            0.0669230769230769
+        ],
+        "2013": [
+            0.0669230769230769
+        ]
+    },
+    "colors": {
+        "1987": "#f27979",
+        "2002": "#00f200",
+        "2013": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

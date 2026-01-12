@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "The Walt Disney Company": "#f27979",
+        "AT&T": "#f29100",
+        "NBA": "#daf279",
+        "Comcast": "#30f200",
+        "NFL": "#52a574",
+        "Fox": "#00a5a5",
+        "Viacom CBS": "#5274a5",
+        "Barstool Sports": "#2100a5",
+        "Complex": "#da79f2",
+        "group nine": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "The Walt Disney Company": [
+            7.6
+        ],
+        "AT&T": [
+            5.4
+        ],
+        "NBA": [
+            3.7
+        ],
+        "Comcast": [
+            2.6
+        ],
+        "NFL": [
+            2.2
+        ],
+        "Fox": [
+            1.8
+        ],
+        "Viacom CBS": [
+            1.6
+        ],
+        "Barstool Sports": [
+            1.3
+        ],
+        "Complex": [
+            1.2
+        ],
+        "group nine": [
+            1.1
+        ]
+    },
+    "colors": {
+        "The Walt Disney Company": "#f27979",
+        "AT&T": "#f29100",
+        "NBA": "#daf279",
+        "Comcast": "#30f200",
+        "NFL": "#52a574",
+        "Fox": "#00a5a5",
+        "Viacom CBS": "#5274a5",
+        "Barstool Sports": "#2100a5",
+        "Complex": "#da79f2",
+        "group nine": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

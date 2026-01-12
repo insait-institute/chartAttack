@@ -1,0 +1,63 @@
+{
+    "title": "Proportion of the population (ages 15-24) that is economically active in different countries",
+    "x_axis": {
+        "categories": [
+            "New Zealand",
+            "Norway",
+            "Pakistan",
+            "Panama",
+            "Paraguay",
+            "Philippines"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Females": "#A0522D",
+        "Males": "#FFA500"
+    },
+    "data": {
+        "Females": [
+            60.5999984741211,
+            52.7000007629395,
+            12.8999996185303,
+            35.5,
+            54.0,
+            38.5999984741211
+        ],
+        "Males": [
+            68.8000030517578,
+            58.0999984741211,
+            66.0,
+            67.6999969482422,
+            70.599998474121,
+            60.0999984741211
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

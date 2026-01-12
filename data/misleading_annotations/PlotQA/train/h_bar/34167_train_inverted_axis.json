@@ -1,0 +1,62 @@
+{
+    "title": "Net enrollment rate in primary schools of Macedonia",
+    "legend": {
+        "Female": "#D2B48C",
+        "Male": "#8B0000"
+    },
+    "categories": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Female": [
+            92.6249465942383,
+            91.8329696655273,
+            90.8582229614258,
+            91.58409881591801,
+            92.492088317871,
+            92.3786087036133
+        ],
+        "Male": [
+            92.877197265625,
+            91.2581787109375,
+            90.5586090087891,
+            91.91729736328129,
+            92.9807815551758,
+            92.82910919189449
+        ]
+    },
+    "colors": {
+        "Female": "#D2B48C",
+        "Male": "#8B0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

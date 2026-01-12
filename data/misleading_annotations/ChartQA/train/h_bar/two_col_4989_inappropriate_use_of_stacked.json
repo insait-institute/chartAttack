@@ -1,0 +1,97 @@
+{
+    "title": "",
+    "legend": {
+        "Singapore": "#f27979",
+        "Finland": "#f27900",
+        "Netherlands": "#f2f279",
+        "Hong Kong SAR": "#79f200",
+        "Denmark": "#79f279",
+        "Japan": "#00a552",
+        "Panama": "#52a5a5",
+        "United States": "#0052a5",
+        "Estonia": "#5252a5",
+        "Belgium": "#5200a5",
+        "United Arab Emirates": "#f279f2",
+        "South Korea": "#f20079"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Singapore": [
+            6.5
+        ],
+        "Finland": [
+            6.4
+        ],
+        "Netherlands": [
+            6.4
+        ],
+        "Hong Kong SAR": [
+            6.3
+        ],
+        "Denmark": [
+            5.8
+        ],
+        "Japan": [
+            5.8
+        ],
+        "Panama": [
+            5.7
+        ],
+        "United States": [
+            5.6
+        ],
+        "Estonia": [
+            5.6
+        ],
+        "Belgium": [
+            5.6
+        ],
+        "United Arab Emirates": [
+            5.5
+        ],
+        "South Korea": [
+            5.5
+        ]
+    },
+    "colors": {
+        "Singapore": "#f27979",
+        "Finland": "#f27900",
+        "Netherlands": "#f2f279",
+        "Hong Kong SAR": "#79f200",
+        "Denmark": "#79f279",
+        "Japan": "#00a552",
+        "Panama": "#52a5a5",
+        "United States": "#0052a5",
+        "Estonia": "#5252a5",
+        "Belgium": "#5200a5",
+        "United Arab Emirates": "#f279f2",
+        "South Korea": "#f20079"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

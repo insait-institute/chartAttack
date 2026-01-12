@@ -1,0 +1,71 @@
+{
+    "title": "Net disbursements made to Brazil from members of DAC committee",
+    "legend": {
+        "Czech Republic": "#EE82EE",
+        "Poland": "#556B2F",
+        "Slovak Republic": "#00FF00"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Net Disbursements (current US$)",
+    "data": [
+        {
+            "label": "Czech Republic",
+            "color": "#EE82EE",
+            "values": [
+                120000,
+                130000,
+                10000
+            ]
+        },
+        {
+            "label": "Poland",
+            "color": "#556B2F",
+            "values": [
+                140000,
+                50000,
+                200000
+            ]
+        },
+        {
+            "label": "Slovak Republic",
+            "color": "#00FF00",
+            "values": [
+                10000,
+                30000,
+                20000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10000,
+                "max_value": 200000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

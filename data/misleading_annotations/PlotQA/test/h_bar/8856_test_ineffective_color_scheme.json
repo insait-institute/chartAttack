@@ -1,0 +1,77 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in North Africa",
+    "legend": {
+        "Bermuda": "#0000ff",
+        "Comoros": "#2900ff",
+        "Cyprus": "#590aff"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Bermuda": [
+            2.670901782509311e-05,
+            0.0167049425766401,
+            0.00135990640283773,
+            0.00107995915251033,
+            0.00158672676521815,
+            0.000705622422711481
+        ],
+        "Comoros": [
+            0.5369272937518521,
+            7.500454320543509,
+            8.19879065501627,
+            0.687961267649459,
+            0.49797861714381,
+            0.4289559116086
+        ],
+        "Cyprus": [
+            5.23167090193332,
+            5.695223432628981,
+            6.832765678511421,
+            8.47343232298442,
+            6.34616800915876,
+            5.133062718139597
+        ]
+    },
+    "colors": {
+        "Bermuda": "#0000FF",
+        "Comoros": "#00CED1",
+        "Cyprus": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Bermuda": "#0000ff",
+        "Comoros": "#2900ff",
+        "Cyprus": "#590aff"
+    }
+}

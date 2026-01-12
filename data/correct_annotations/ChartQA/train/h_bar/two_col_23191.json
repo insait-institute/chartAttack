@@ -1,0 +1,58 @@
+{
+    "title": "",
+    "legend": {
+        "Brand": "#2876dd"
+    },
+    "categories": [
+        "Closet Maid",
+        "Rubbermaid",
+        "California Closets",
+        "EasyClosets.com",
+        "Closet Factory",
+        "Gladiator GarageWorks (Whirlpool)",
+        "Organized Living",
+        "Easy Track",
+        "None of these"
+    ],
+    "data": {
+        "Brand": [
+            35.2,
+            19.2,
+            12,
+            3.2,
+            3.2,
+            1.6,
+            0.8,
+            0.8,
+            24
+        ]
+    },
+    "colors": {
+        "Brand": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

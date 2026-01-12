@@ -1,0 +1,64 @@
+{
+    "title": "Employment in various sectors of an economy in 2004",
+    "x_axis": {
+        "categories": [
+            "Agriculture",
+            "Industry",
+            "Services",
+            "Self-employed"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "El Salvador": "#000000",
+        "Ireland": "#20B2AA",
+        "Italy": "#BA55D3"
+    },
+    "data": {
+        "El Salvador": [
+            19.1000003814697,
+            23.7000007629395,
+            54.4000015258789,
+            40.0
+        ],
+        "Ireland": [
+            6.300000190734861,
+            27.60000038146969,
+            65.599998474121,
+            17.8999996185303
+        ],
+        "Italy": [
+            3.90000009536743,
+            31.10000038146969,
+            65.0,
+            27.89999961853031
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

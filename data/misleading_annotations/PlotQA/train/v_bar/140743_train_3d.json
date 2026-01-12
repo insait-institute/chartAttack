@@ -1,0 +1,71 @@
+{
+    "title": "CPIA quality of budgetary and financial management rating",
+    "x_axis": {
+        "categories": [
+            "Maldives",
+            "Mali",
+            "Mauritania",
+            "Moldova"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#FF00FF",
+        "2006": "#F0E68C",
+        "2007": "#C71585",
+        "2008": "#FF8C00"
+    },
+    "data": {
+        "2005": [
+            3.0,
+            4.0,
+            2.0,
+            3.5
+        ],
+        "2006": [
+            3.0,
+            3.5,
+            2.5,
+            3.5
+        ],
+        "2007": [
+            3.0,
+            3.5,
+            2.5,
+            4.0
+        ],
+        "2008": [
+            3.0,
+            3.5,
+            3.0,
+            4.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

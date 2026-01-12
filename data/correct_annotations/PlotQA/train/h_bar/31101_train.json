@@ -1,0 +1,56 @@
+{
+    "title": "Cost of damage due to depletion of various resources",
+    "legend": {
+        "1970": "#FFA500",
+        "1971": "#00FA9A"
+    },
+    "categories": [
+        "Bolivia",
+        "Brazil",
+        "Canada",
+        "China"
+    ],
+    "data": {
+        "1970": [
+            0.0164974454847143,
+            0.120281323574783,
+            0.519530927784888,
+            0.119831417958251
+        ],
+        "1971": [
+            1.63886939543815,
+            0.157882966705014,
+            0.6158356831270999,
+            0.2233365422188411
+        ]
+    },
+    "colors": {
+        "1970": "#FFA500",
+        "1971": "#00FA9A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

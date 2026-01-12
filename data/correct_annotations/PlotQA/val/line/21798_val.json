@@ -1,0 +1,55 @@
+{
+    "title": "Fertilizer consumption per hectare of arable land in Mongolia ",
+    "legend": {
+        "Fertilizer consumption": "#FFD700"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "y_axis_label": "Amount in kilograms",
+    "data": [
+        {
+            "label": "Fertilizer consumption",
+            "color": "#FFD700",
+            "values": [
+                5.26187050359712,
+                9.35919540229885,
+                8.560455192034139,
+                8.32254196642686,
+                12.1704180064309
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

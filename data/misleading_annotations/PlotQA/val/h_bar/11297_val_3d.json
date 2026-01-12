@@ -1,0 +1,60 @@
+{
+    "title": "Net enrollment rate in primary schools of a country",
+    "legend": {
+        "Cabo Verde": "#8B4513",
+        "San Marino": "#FF7F50",
+        "Spain": "#00FF7F"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2012"
+    ],
+    "data": {
+        "Cabo Verde": [
+            93.7862396240234,
+            94.7742462158203,
+            97.3241729736328
+        ],
+        "San Marino": [
+            91.9976272583008,
+            94.1408309936523,
+            93.0646133422852
+        ],
+        "Spain": [
+            99.8865585327148,
+            99.75003051757808,
+            99.739990234375
+        ]
+    },
+    "colors": {
+        "Cabo Verde": "#8B4513",
+        "San Marino": "#FF7F50",
+        "Spain": "#00FF7F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

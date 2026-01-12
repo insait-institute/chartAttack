@@ -1,0 +1,72 @@
+{
+    "title": "Unemployed male youth population of a country",
+    "legend": {
+        "1980": "#663399",
+        "1981": "#8B008B",
+        "1982": "#00FF00"
+    },
+    "categories": [
+        "North America",
+        "Australia",
+        "Canada",
+        "Finland",
+        "Israel",
+        "Japan"
+    ],
+    "data": {
+        "1980": [
+            14.4777083468661,
+            11.3999996185303,
+            13.3999996185303,
+            6.699999809265139,
+            13.3999996185303,
+            4.5
+        ],
+        "1981": [
+            15.4958951624067,
+            10.1999998092651,
+            13.6999998092651,
+            10.1000003814697,
+            13.8000001907349,
+            5.900000095367429
+        ],
+        "1982": [
+            19.2632175306676,
+            13.3000001907349,
+            20.7000007629395,
+            10.3000001907349,
+            12.8999996185303,
+            6.199999809265139
+        ]
+    },
+    "colors": {
+        "1980": "#663399",
+        "1981": "#8B008B",
+        "1982": "#00FF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

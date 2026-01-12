@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "BHP Group": "#f27979",
+        "Rio Tinto": "#f29100",
+        "Anglo American": "#daf279",
+        "Glencore": "#30f200",
+        "Antofagasta": "#52a574",
+        "Kaz Minerals": "#00a5a5",
+        "Hochschild Mining": "#5274a5",
+        "Petropavlovsk": "#2100a5",
+        "Greatland Gold": "#da79f2",
+        "Eurasia Mining": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "BHP Group": [
+            125.68
+        ],
+        "Rio Tinto": [
+            100.02
+        ],
+        "Anglo American": [
+            43.47
+        ],
+        "Glencore": [
+            40.1
+        ],
+        "Antofagasta": [
+            18.4
+        ],
+        "Kaz Minerals": [
+            4.0
+        ],
+        "Hochschild Mining": [
+            1.06
+        ],
+        "Petropavlovsk": [
+            1.04
+        ],
+        "Greatland Gold": [
+            0.86
+        ],
+        "Eurasia Mining": [
+            0.76
+        ]
+    },
+    "colors": {
+        "BHP Group": "#f27979",
+        "Rio Tinto": "#f29100",
+        "Anglo American": "#daf279",
+        "Glencore": "#30f200",
+        "Antofagasta": "#52a574",
+        "Kaz Minerals": "#00a5a5",
+        "Hochschild Mining": "#5274a5",
+        "Petropavlovsk": "#2100a5",
+        "Greatland Gold": "#da79f2",
+        "Eurasia Mining": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

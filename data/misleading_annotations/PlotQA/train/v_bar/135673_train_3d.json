@@ -1,0 +1,71 @@
+{
+    "title": "Net disbursements received from Regional Development Bank (concessional)",
+    "x_axis": {
+        "categories": [
+            "Panama",
+            "Paraguay",
+            "Peru",
+            "Philippines"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#7FFFD4",
+        "1971": "#FF1493",
+        "1972": "#191970",
+        "1973": "#8B0000"
+    },
+    "data": {
+        "1970": [
+            4950000.0,
+            6443000.0,
+            15193000.0,
+            69000.0
+        ],
+        "1971": [
+            11579000.0,
+            7155000.0,
+            14464000.0,
+            1503000.0
+        ],
+        "1972": [
+            6316000.0,
+            9838000.0,
+            22267000.0,
+            261000.0
+        ],
+        "1973": [
+            4005000.0,
+            9510000.0,
+            12172000.0,
+            712000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 22267000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

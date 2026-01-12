@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of rural population who used safely managed services in 2005",
+    "x_axis": {
+        "categories": [
+            "Sanitation services",
+            "Drinking water services"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Hungary": "#F4A460",
+        "Pakistan": "#40E0D0",
+        "Seychelles": "#556B2F"
+    },
+    "data": {
+        "Hungary": [
+            98.6,
+            98.4
+        ],
+        "Pakistan": [
+            30.1,
+            86.7
+        ],
+        "Seychelles": [
+            98.4,
+            95.7
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

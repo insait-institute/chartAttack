@@ -1,0 +1,67 @@
+{
+    "title": "Net savings as percentage of gross national income",
+    "legend": {
+        "Australia": "#f27979",
+        "Austria": "#f2f200",
+        "Canada": "#79f279",
+        "Colombia": "#00a5a5",
+        "Dominican Republic": "#5252a5",
+        "Israel": "#a500a5"
+    },
+    "categories": [
+        "Net savings as percentage of gross national income"
+    ],
+    "data": {
+        "Australia": [
+            14.6349895895695
+        ],
+        "Austria": [
+            16.5874468954852
+        ],
+        "Canada": [
+            9.25419666411406
+        ],
+        "Colombia": [
+            5.48135735489693
+        ],
+        "Dominican Republic": [
+            8.99363143932663
+        ],
+        "Israel": [
+            4.0629453910645
+        ]
+    },
+    "colors": {
+        "Australia": "#f27979",
+        "Austria": "#f2f200",
+        "Canada": "#79f279",
+        "Colombia": "#00a5a5",
+        "Dominican Republic": "#5252a5",
+        "Israel": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

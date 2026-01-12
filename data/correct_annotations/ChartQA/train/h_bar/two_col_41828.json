@@ -1,0 +1,80 @@
+{
+    "title": "Rushing yards",
+    "categories": [
+        "Shaun Alexander",
+        "Chris Warren",
+        "Curt Warner",
+        "Marshawn Lynch",
+        "John Williams",
+        "Russell Wilson",
+        "Ricky Watters",
+        "Sherman Smith",
+        "Chris Carson",
+        "Maurice Morris",
+        "Dan Doornink",
+        "Jim Zorn",
+        "Julius Jones",
+        "Thomas Rawls",
+        "Justin Forsett",
+        "Lamar Smith",
+        "David Sims",
+        "Derrick Fenner",
+        "Matt Hasselbeck",
+        "Dave Krieg"
+    ],
+    "data": {
+        "Rushing yards": [
+            9429,
+            6706,
+            6705,
+            6381,
+            4579,
+            4506,
+            4009,
+            3429,
+            3270,
+            2612,
+            1530,
+            1491,
+            1391,
+            1336,
+            1287,
+            1286,
+            1174,
+            1167,
+            1129,
+            1090
+        ]
+    },
+    "colors": {
+        "Rushing yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9430
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Rushing yards": "#2876dd"
+    }
+}

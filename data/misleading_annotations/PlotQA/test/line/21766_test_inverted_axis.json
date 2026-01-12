@@ -1,0 +1,49 @@
+{
+    "title": "Total unemployed labor force of Liberia",
+    "legend": {
+        "Unemployment total": "#32CD32"
+    },
+    "x_axis": [
+        "2007",
+        "2010"
+    ],
+    "y_axis_label": "Unemployed laborers (% of total labor force)",
+    "data": [
+        {
+            "label": "Unemployment total",
+            "color": "#32CD32",
+            "values": [
+                5.599999904632571,
+                3.70000004768372
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

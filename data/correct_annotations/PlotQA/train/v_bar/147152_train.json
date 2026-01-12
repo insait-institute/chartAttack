@@ -1,0 +1,81 @@
+{
+    "title": "Total electricity produced from oil sources",
+    "x_axis": {
+        "categories": [
+            "Denmark",
+            "Finland",
+            "France",
+            "Germany",
+            "Greece",
+            "Iceland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#008080",
+        "1961": "#2F4F4F",
+        "1962": "#00BFFF",
+        "1963": "#CD853F"
+    },
+    "data": {
+        "1960": [
+            27.9241877256318,
+            9.08773968622894,
+            3.5478756711387,
+            2.70858565753924,
+            26.3318777292576,
+            4.537205081669692
+        ],
+        "1961": [
+            29.6463506395786,
+            6.112702960840501,
+            4.44644734865555,
+            3.69810424664582,
+            26.5536723163842,
+            3.98009950248756
+        ],
+        "1962": [
+            27.2786142140198,
+            4.364669421487601,
+            6.16953897698327,
+            4.57270654398963,
+            35.609921848454,
+            4.025764895330109
+        ],
+        "1963": [
+            31.505016722408,
+            10.1564482029598,
+            7.74766962930848,
+            6.28391868894636,
+            29.5406784749325,
+            3.65853658536585
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

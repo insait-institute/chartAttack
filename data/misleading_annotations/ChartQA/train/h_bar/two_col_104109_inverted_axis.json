@@ -1,0 +1,98 @@
+{
+    "title": "",
+    "legend": {
+        "Net favorability": "#2876dd"
+    },
+    "categories": [
+        "Romania",
+        "Serbia",
+        "Poland",
+        "Australia",
+        "Great Britain",
+        "United States",
+        "Malaysia",
+        "India",
+        "South Africa",
+        "Hungary",
+        "Canada",
+        "Germany",
+        "China",
+        "Total",
+        "Italy",
+        "Japan",
+        "Peru",
+        "Mexico",
+        "Saudi Arabia",
+        "Belgium",
+        "Russia",
+        "France",
+        "Brazil",
+        "Chile",
+        "Turkey",
+        "Sweden",
+        "South Korea",
+        "Spain",
+        "Argentina"
+    ],
+    "data": {
+        "Net favorability": [
+            50,
+            46,
+            45,
+            44,
+            44,
+            44,
+            41,
+            39,
+            37,
+            36,
+            36,
+            35,
+            34,
+            31,
+            31,
+            29,
+            27,
+            27,
+            27,
+            26,
+            24,
+            21,
+            20,
+            20,
+            19,
+            15,
+            12,
+            9,
+            6
+        ]
+    },
+    "colors": {
+        "Net favorability": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

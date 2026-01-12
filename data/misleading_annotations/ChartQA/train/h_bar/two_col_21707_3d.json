@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "legend": {
+        "GDP growth": "#2876dd"
+    },
+    "categories": [
+        "Malta",
+        "Latvia",
+        "Greece",
+        "Ireland",
+        "Portugal",
+        "Spain",
+        "Slovenia",
+        "Slovak Republic",
+        "France",
+        "Estonia",
+        "Austria",
+        "Cyprus",
+        "Italy",
+        "Luxembourg",
+        "Germany",
+        "Lithuania",
+        "Belgium",
+        "Netherlands",
+        "Finland"
+    ],
+    "data": {
+        "GDP growth": [
+            5.58,
+            5.19,
+            5.0,
+            4.84,
+            4.8,
+            4.7,
+            4.51,
+            4.45,
+            4.22,
+            4.2,
+            4.0,
+            3.9,
+            3.6,
+            3.6,
+            3.42,
+            3.22,
+            3.09,
+            2.99,
+            2.51
+        ]
+    },
+    "colors": {
+        "GDP growth": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

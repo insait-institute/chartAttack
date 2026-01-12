@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "Nicaragua": "#f27979",
+        "Honduras": "#f2cf00",
+        "Guatemala": "#9bf279",
+        "Panama": "#00a55e",
+        "Costa Rica": "#5282a5",
+        "Belize": "#2f00a5",
+        "El Salvador": "#f279e0"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Nicaragua": [
+            130370.0
+        ],
+        "Honduras": [
+            112090.0
+        ],
+        "Guatemala": [
+            108889.0
+        ],
+        "Panama": [
+            75420.0
+        ],
+        "Costa Rica": [
+            51100.0
+        ],
+        "Belize": [
+            22966.0
+        ],
+        "El Salvador": [
+            21041.0
+        ]
+    },
+    "colors": {
+        "Nicaragua": "#f27979",
+        "Honduras": "#f2cf00",
+        "Guatemala": "#9bf279",
+        "Panama": "#00a55e",
+        "Costa Rica": "#5282a5",
+        "Belize": "#2f00a5",
+        "El Salvador": "#f279e0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130370
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

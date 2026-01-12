@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "App Usage": "#2876dd"
+    },
+    "categories": [
+        "Gardenscapes",
+        "Homescapes",
+        "FBReader",
+        "YouTube",
+        "Vkontakte",
+        "Instagram",
+        "TikTok",
+        "Yandex.Navigator",
+        "WhatsApp",
+        "Chitai!"
+    ],
+    "data": {
+        "App Usage": [
+            46,
+            41,
+            40,
+            35,
+            34,
+            27,
+            18,
+            18,
+            15,
+            15
+        ]
+    },
+    "colors": {
+        "App Usage": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

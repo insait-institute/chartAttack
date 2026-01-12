@@ -1,0 +1,97 @@
+{
+    "title": "Number of landed migrants",
+    "legend": {
+        "Pozzallo": "#f27979",
+        "Lampedusa": "#f27900",
+        "Catania": "#f2f279",
+        "Augusta": "#79f200",
+        "Messina": "#79f279",
+        "Trapani": "#00a552",
+        "Crotone": "#52a5a5",
+        "Palermo": "#0052a5",
+        "Porto Empedocle": "#5252a5",
+        "Reggio Calabria": "#5200a5",
+        "Cagliari": "#f279f2",
+        "Brindisi": "#f20079"
+    },
+    "categories": [
+        "Number of landed migrants"
+    ],
+    "data": {
+        "Pozzallo": [
+            3818.0
+        ],
+        "Lampedusa": [
+            3468.0
+        ],
+        "Catania": [
+            2961.0
+        ],
+        "Augusta": [
+            2478.0
+        ],
+        "Messina": [
+            2394.0
+        ],
+        "Trapani": [
+            1726.0
+        ],
+        "Crotone": [
+            1032.0
+        ],
+        "Palermo": [
+            809.0
+        ],
+        "Porto Empedocle": [
+            505.0
+        ],
+        "Reggio Calabria": [
+            379.0
+        ],
+        "Cagliari": [
+            176.0
+        ],
+        "Brindisi": [
+            174.0
+        ]
+    },
+    "colors": {
+        "Pozzallo": "#f27979",
+        "Lampedusa": "#f27900",
+        "Catania": "#f2f279",
+        "Augusta": "#79f200",
+        "Messina": "#79f279",
+        "Trapani": "#00a552",
+        "Crotone": "#52a5a5",
+        "Palermo": "#0052a5",
+        "Porto Empedocle": "#5252a5",
+        "Reggio Calabria": "#5200a5",
+        "Cagliari": "#f279f2",
+        "Brindisi": "#f20079"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3820
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

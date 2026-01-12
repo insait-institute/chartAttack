@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of female pupils in tertiary schools",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#f2f200",
+        "2008": "#79f279",
+        "2010": "#00a5a5",
+        "2011": "#5252a5",
+        "2012": "#a500a5"
+    },
+    "categories": [
+        "Percentage of female pupils in tertiary schools"
+    ],
+    "data": {
+        "2004": [
+            47.9922218322754
+        ],
+        "2005": [
+            48.0621490478516
+        ],
+        "2008": [
+            48.23144149780271
+        ],
+        "2010": [
+            47.7902297973633
+        ],
+        "2011": [
+            47.6716995239258
+        ],
+        "2012": [
+            47.5513496398926
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#f2f200",
+        "2008": "#79f279",
+        "2010": "#00a5a5",
+        "2011": "#5252a5",
+        "2012": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

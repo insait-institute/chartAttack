@@ -1,0 +1,57 @@
+{
+    "title": "Female unemployment expressed as percentage of female labor force",
+    "legend": {
+        "1992": "#f27979",
+        "1993": "#79f200",
+        "1994": "#52a5a5",
+        "1995": "#5200a5"
+    },
+    "categories": [
+        "Female unemployment expressed as percentage of female labor force"
+    ],
+    "data": {
+        "1992": [
+            3.64745841594923
+        ],
+        "1993": [
+            3.7844234573426
+        ],
+        "1994": [
+            3.81584705107729
+        ],
+        "1995": [
+            3.82355743342247
+        ]
+    },
+    "colors": {
+        "1992": "#f27979",
+        "1993": "#79f200",
+        "1994": "#52a5a5",
+        "1995": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

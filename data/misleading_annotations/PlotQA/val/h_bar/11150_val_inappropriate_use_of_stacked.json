@@ -1,0 +1,67 @@
+{
+    "title": "Total life expectancy at birth",
+    "legend": {
+        "Jamaica": "#f27979",
+        "Japan": "#f2f200",
+        "Jordan": "#79f279",
+        "Kazakhstan": "#00a5a5",
+        "Kenya": "#5252a5",
+        "Kiribati": "#a500a5"
+    },
+    "categories": [
+        "Total life expectancy at birth"
+    ],
+    "data": {
+        "Jamaica": [
+            64.19182926829271
+        ],
+        "Japan": [
+            67.6660975609756
+        ],
+        "Jordan": [
+            52.6852682926829
+        ],
+        "Kazakhstan": [
+            58.3675853658537
+        ],
+        "Kenya": [
+            46.3624146341463
+        ],
+        "Kiribati": [
+            49.2159756097561
+        ]
+    },
+    "colors": {
+        "Jamaica": "#f27979",
+        "Japan": "#f2f200",
+        "Jordan": "#79f279",
+        "Kazakhstan": "#00a5a5",
+        "Kenya": "#5252a5",
+        "Kiribati": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 2000 ",
+    "x_axis": {
+        "categories": [
+            "Coal",
+            "Minerals",
+            "Energy",
+            "Water"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Congo (Democratic)": "#FF00FF",
+        "Ghana": "#BDB76B"
+    },
+    "data": {
+        "Congo (Democratic)": [
+            0.0599678247385366,
+            0.0416785249988204,
+            0.7529311415820459,
+            3.97876247586217
+        ],
+        "Ghana": [
+            0.8857196451459509,
+            0.0447172044476302,
+            1.0193496996279,
+            10.4236676651587
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

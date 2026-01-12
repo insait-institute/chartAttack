@@ -1,0 +1,68 @@
+{
+    "title": "Percentage of employers",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of employers"
+    },
+    "legend": {
+        "Worker's health": "#2876dd",
+        "Productivity and performance": "#0f283e",
+        "Healthcare costs": "#bababa"
+    },
+    "data": {
+        "Worker's health": [
+            82,
+            82,
+            78,
+            79,
+            83
+        ],
+        "Productivity and performance": [
+            80,
+            80,
+            75,
+            77,
+            84
+        ],
+        "Healthcare costs": [
+            71,
+            72,
+            69,
+            71,
+            72
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Stacked vertical bar chart": false
+}

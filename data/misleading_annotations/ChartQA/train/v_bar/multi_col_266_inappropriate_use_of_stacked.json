@@ -1,0 +1,97 @@
+{
+    "title": "GDP in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "GDP in billion U.S. dollars"
+    },
+    "legend": {
+        "2016": "#f27979",
+        "2017": "#f28400",
+        "2018": "#e7f279",
+        "2019": "#58f200",
+        "2020*": "#52a561",
+        "2021*": "#00a578",
+        "2022": "#528fa5",
+        "2023": "#001ea5",
+        "2024": "#a579f2",
+        "2025*": "#dc00f2",
+        "2026*": "#f279bb"
+    },
+    "data": {
+        "2016": [
+            2217.59
+        ],
+        "2017": [
+            2396.68
+        ],
+        "2018": [
+            2558.69
+        ],
+        "2019": [
+            2735.21
+        ],
+        "2020*": [
+            2602.87
+        ],
+        "2021*": [
+            2842.12
+        ],
+        "2022": [
+            3075.8
+        ],
+        "2023": [
+            3318.92
+        ],
+        "2024": [
+            3561.84
+        ],
+        "2025*": [
+            3821.1
+        ],
+        "2026*": [
+            4099.49
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 33770
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2016": "#f27979",
+        "2017": "#f28400",
+        "2018": "#e7f279",
+        "2019": "#58f200",
+        "2020*": "#52a561",
+        "2021*": "#00a578",
+        "2022": "#528fa5",
+        "2023": "#001ea5",
+        "2024": "#a579f2",
+        "2025*": "#dc00f2",
+        "2026*": "#f279bb"
+    }
+}

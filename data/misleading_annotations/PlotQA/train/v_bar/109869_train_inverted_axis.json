@@ -1,0 +1,57 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1968",
+    "x_axis": {
+        "categories": [
+            "Industry",
+            "Manufacturing",
+            "Services",
+            "Agriculture"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brazil": "#A0522D",
+        "India": "#4682B4"
+    },
+    "data": {
+        "Brazil": [
+            36.4597235905708,
+            28.3477757018358,
+            49.48998480622272,
+            14.0502916032065
+        ],
+        "India": [
+            19.347209680052,
+            12.7538607812155,
+            37.1307467924222,
+            43.5220435011673
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Andalusia",
+        "Catalonia",
+        "Extremadura",
+        "Region of Valencia",
+        "Canary Islands",
+        "Galicia",
+        "Castile-La Mancha",
+        "Community of Madrid",
+        "Murcia",
+        "Basque Country",
+        "Aragon",
+        "Asturias",
+        "Castile and Leon",
+        "Balearic Islands",
+        "Cantabria",
+        "Ceuta",
+        "Navarre",
+        "Melilla",
+        "La Rioja"
+    ],
+    "data": {
+        "Model": [
+            61,
+            53,
+            30,
+            29,
+            15,
+            14,
+            13,
+            12,
+            12,
+            11,
+            7,
+            6,
+            5,
+            5,
+            5,
+            2,
+            2,
+            1,
+            0
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

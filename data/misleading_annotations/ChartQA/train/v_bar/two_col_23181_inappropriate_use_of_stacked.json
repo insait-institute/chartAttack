@@ -1,0 +1,117 @@
+{
+    "title": "Estimated revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Estimated revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "2005": "#f27979",
+        "2006": "#f26000",
+        "2007": "#f2da79",
+        "2008": "#c1f200",
+        "2009": "#a9f279",
+        "2010": "#00f200",
+        "2011": "#52a574",
+        "2012": "#00a584",
+        "2013": "#5295a5",
+        "2014": "#0042a5",
+        "2015": "#5252a5",
+        "2016": "#4200a5",
+        "2017": "#da79f2",
+        "2018": "#f200c1",
+        "2019": "#f279a9"
+    },
+    "data": {
+        "2005": [
+            49.4
+        ],
+        "2006": [
+            48.95
+        ],
+        "2007": [
+            47.56
+        ],
+        "2008": [
+            43.38
+        ],
+        "2009": [
+            35.37
+        ],
+        "2010": [
+            33.36
+        ],
+        "2011": [
+            31.53
+        ],
+        "2012": [
+            29.79
+        ],
+        "2013": [
+            28.59
+        ],
+        "2014": [
+            28.25
+        ],
+        "2015": [
+            26.76
+        ],
+        "2016": [
+            26.51
+        ],
+        "2017": [
+            26.02
+        ],
+        "2018": [
+            25.37
+        ],
+        "2019": [
+            23.44
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2005": "#f27979",
+        "2006": "#f26000",
+        "2007": "#f2da79",
+        "2008": "#c1f200",
+        "2009": "#a9f279",
+        "2010": "#00f200",
+        "2011": "#52a574",
+        "2012": "#00a584",
+        "2013": "#5295a5",
+        "2014": "#0042a5",
+        "2015": "#5252a5",
+        "2016": "#4200a5",
+        "2017": "#da79f2",
+        "2018": "#f200c1",
+        "2019": "#f279a9"
+    }
+}

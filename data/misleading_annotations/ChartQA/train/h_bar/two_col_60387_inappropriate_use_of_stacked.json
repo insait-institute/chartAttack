@@ -1,0 +1,87 @@
+{
+    "title": "Points scored by players",
+    "categories": [
+        "Points scored by players"
+    ],
+    "data": {
+        "Clyde Drexler": [
+            18040.0
+        ],
+        "Damian Lillard": [
+            14887.0
+        ],
+        "LaMarcus Aldridge": [
+            12562.0
+        ],
+        "Terry Porter": [
+            11330.0
+        ],
+        "Clifford Robinson": [
+            10405.0
+        ],
+        "Jerome Kersey": [
+            10067.0
+        ],
+        "Jim Paxson": [
+            10003.0
+        ],
+        "Geoff Petrie": [
+            9732.0
+        ],
+        "Mychal Thompson": [
+            9215.0
+        ],
+        "Rasheed Wallace": [
+            9119.0
+        ]
+    },
+    "colors": {
+        "Clyde Drexler": "#f27979",
+        "Damian Lillard": "#f29100",
+        "LaMarcus Aldridge": "#daf279",
+        "Terry Porter": "#30f200",
+        "Clifford Robinson": "#52a574",
+        "Jerome Kersey": "#00a5a5",
+        "Jim Paxson": "#5274a5",
+        "Geoff Petrie": "#2100a5",
+        "Mychal Thompson": "#da79f2",
+        "Rasheed Wallace": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 18040
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Clyde Drexler": "#f27979",
+        "Damian Lillard": "#f29100",
+        "LaMarcus Aldridge": "#daf279",
+        "Terry Porter": "#30f200",
+        "Clifford Robinson": "#52a574",
+        "Jerome Kersey": "#00a5a5",
+        "Jim Paxson": "#5274a5",
+        "Geoff Petrie": "#2100a5",
+        "Mychal Thompson": "#da79f2",
+        "Rasheed Wallace": "#f20091"
+    }
+}

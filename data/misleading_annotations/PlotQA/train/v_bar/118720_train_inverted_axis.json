@@ -1,0 +1,72 @@
+{
+    "title": "Primary income paid to non-resident workers of a country",
+    "x_axis": {
+        "categories": [
+            "France",
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Guatemala",
+            "Hong Kong"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#DC143C",
+        "2006": "#FF1493",
+        "2007": "#556B2F"
+    },
+    "data": {
+        "2005": [
+            175287000000.0,
+            263327015.6,
+            208390000000.0,
+            4071567026.0,
+            301500000.0,
+            65627400844.0
+        ],
+        "2006": [
+            219953000000.0,
+            341216604.3,
+            263184000000.0,
+            4566146693.0,
+            434600000.0,
+            84952693678.0
+        ],
+        "2007": [
+            276136000000.0,
+            482511404.4,
+            337041000000.0,
+            6344628154.0,
+            556000000.0,
+            115792000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 337041000000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

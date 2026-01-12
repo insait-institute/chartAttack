@@ -1,0 +1,68 @@
+{
+    "title": "Value added by different sectors to the total GDP of different countries",
+    "legend": {
+        "Industry": "#EE82EE",
+        "Services": "#00BFFF",
+        "Agriculture": "#FFD700"
+    },
+    "categories": [
+        "East Asia (developing only)",
+        "Lower middle income",
+        "South Asia",
+        "Algeria",
+        "Bangladesh"
+    ],
+    "data": {
+        "Industry": [
+            29295371192.3052,
+            83030797317.9036,
+            27550582312.4528,
+            5231463488.77718,
+            1938683691.68567
+        ],
+        "Services": [
+            51217114700.0477,
+            124431833403.015,
+            49481240663.2344,
+            8522616001.114691,
+            132274618.120151
+        ],
+        "Agriculture": [
+            131996735014.555,
+            67795083837.5144,
+            58930780388.6717,
+            1290199402.13055,
+            5479566954.93164
+        ]
+    },
+    "colors": {
+        "Industry": "#EE82EE",
+        "Services": "#00BFFF",
+        "Agriculture": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 131996735020
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

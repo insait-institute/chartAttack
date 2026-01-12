@@ -1,0 +1,152 @@
+{
+    "title": "",
+    "legend": {
+        "Tunisia": "#f27979",
+        "Ivory Coast": "#f23f00",
+        "Algeria": "#f2b879",
+        "Pakistan": "#f2bd00",
+        "Iraq": "#ecf279",
+        "Bangladesh": "#a8f200",
+        "Sudan": "#adf279",
+        "Guinea": "#2af200",
+        "Somalia": "#52a55a",
+        "Morocco": "#00a539",
+        "Eritrea": "#52a585",
+        "Mali": "#00a590",
+        "Nigeria": "#529aa5",
+        "Cameroon": "#0064a5",
+        "Libya": "#526fa5",
+        "Egypt": "#000ea5",
+        "Senegal": "#8e79f2",
+        "Gambia": "#6900f2",
+        "Ghana": "#cd79f2",
+        "Syrian Arab Republic": "#e700f2",
+        "Ethiopia": "#f279d7",
+        "Sierra Leone": "#f2007e",
+        "Others": "#f27998"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Tunisia": [
+            2722.0
+        ],
+        "Ivory Coast": [
+            1332.0
+        ],
+        "Algeria": [
+            1258.0
+        ],
+        "Pakistan": [
+            1194.0
+        ],
+        "Iraq": [
+            1034.0
+        ],
+        "Bangladesh": [
+            739.0
+        ],
+        "Sudan": [
+            518.0
+        ],
+        "Guinea": [
+            394.0
+        ],
+        "Somalia": [
+            332.0
+        ],
+        "Morocco": [
+            325.0
+        ],
+        "Eritrea": [
+            292.0
+        ],
+        "Mali": [
+            288.0
+        ],
+        "Nigeria": [
+            269.0
+        ],
+        "Cameroon": [
+            220.0
+        ],
+        "Libya": [
+            216.0
+        ],
+        "Egypt": [
+            201.0
+        ],
+        "Senegal": [
+            171.0
+        ],
+        "Gambia": [
+            94.0
+        ],
+        "Ghana": [
+            90.0
+        ],
+        "Syrian Arab Republic": [
+            46.0
+        ],
+        "Ethiopia": [
+            41.0
+        ],
+        "Sierra Leone": [
+            28.0
+        ],
+        "Others": [
+            1007.0
+        ]
+    },
+    "colors": {
+        "Tunisia": "#f27979",
+        "Ivory Coast": "#f23f00",
+        "Algeria": "#f2b879",
+        "Pakistan": "#f2bd00",
+        "Iraq": "#ecf279",
+        "Bangladesh": "#a8f200",
+        "Sudan": "#adf279",
+        "Guinea": "#2af200",
+        "Somalia": "#52a55a",
+        "Morocco": "#00a539",
+        "Eritrea": "#52a585",
+        "Mali": "#00a590",
+        "Nigeria": "#529aa5",
+        "Cameroon": "#0064a5",
+        "Libya": "#526fa5",
+        "Egypt": "#000ea5",
+        "Senegal": "#8e79f2",
+        "Gambia": "#6900f2",
+        "Ghana": "#cd79f2",
+        "Syrian Arab Republic": "#e700f2",
+        "Ethiopia": "#f279d7",
+        "Sierra Leone": "#f2007e",
+        "Others": "#f27998"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2730
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

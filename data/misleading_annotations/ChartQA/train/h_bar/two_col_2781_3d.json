@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Luigi Riva",
+        "Giuseppe Meazza",
+        "Silvio Piola",
+        "Roberto Baggio",
+        "Alessandro Del Piero",
+        "Filippo Inzaghi",
+        "Alessandro Altobelli",
+        "Christian Vieri",
+        "Francesco Graziani",
+        "Sandro Mazzola",
+        "Daniele De Rossi",
+        "Paolo Rossi",
+        "Alberto Gilardino",
+        "Roberto Bettega",
+        "Adolfo Baloncieri",
+        "Luca Toni",
+        "Gianluca Vialli",
+        "Julio Libonatti",
+        "Gino Colaussi"
+    ],
+    "data": {
+        "Players": [
+            35,
+            33,
+            30,
+            27,
+            27,
+            25,
+            25,
+            23,
+            23,
+            22,
+            21,
+            20,
+            19,
+            19,
+            17,
+            16,
+            16,
+            15,
+            15
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

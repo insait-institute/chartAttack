@@ -1,0 +1,49 @@
+{
+    "title": "Average losses of an establishment located in Yemen, Rep. as a result of theft or robbery",
+    "legend": {
+        "Losses due to theft": "#F4A460"
+    },
+    "x_axis": [
+        "2010",
+        "2013"
+    ],
+    "y_axis_label": "Loss(as % of annual sales)",
+    "data": [
+        {
+            "label": "Losses due to theft",
+            "color": "#F4A460",
+            "values": [
+                0.6,
+                0.6
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Mobile cellular and fixed telephone subscriptions recorded in 1982",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Arab World": "#f27979",
+        "East Asia (all income levels)": "#79f200",
+        "Euro area": "#52a5a5",
+        "Europe(all income levels)": "#5200a5"
+    },
+    "data": {
+        "Arab World": [
+            0.00136552306844638
+        ],
+        "East Asia (all income levels)": [
+            0.0012308774442558
+        ],
+        "Euro area": [
+            0.0111665747319405
+        ],
+        "Europe(all income levels)": [
+            0.00999459965495632
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Arab World": "#f27979",
+        "East Asia (all income levels)": "#79f200",
+        "Euro area": "#52a5a5",
+        "Europe(all income levels)": "#5200a5"
+    }
+}

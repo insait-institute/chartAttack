@@ -1,0 +1,77 @@
+{
+    "title": "Total enrolments (of both sexes) in primary schools",
+    "legend": {
+        "Bhutan": "#FFD700",
+        "Jamaica": "#006400",
+        "Malta": "#E9967A",
+        "Turks and Caicos Islands": "#6A5ACD"
+    },
+    "categories": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "data": {
+        "Bhutan": [
+            88204.0,
+            90944.0,
+            93974.0,
+            97323.0,
+            99458.0
+        ],
+        "Jamaica": [
+            328496.0,
+            329762.0,
+            325302.0,
+            331286.0,
+            326411.0
+        ],
+        "Malta": [
+            33530.0,
+            32717.0,
+            31710.0,
+            31064.0,
+            29596.0
+        ],
+        "Turks and Caicos Islands": [
+            2176.0,
+            2137.0,
+            1810.0,
+            2117.0,
+            2220.0
+        ]
+    },
+    "colors": {
+        "Bhutan": "#FFD700",
+        "Jamaica": "#006400",
+        "Malta": "#E9967A",
+        "Turks and Caicos Islands": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 331290
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

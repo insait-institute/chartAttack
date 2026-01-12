@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Stream Services": "#2876dd"
+    },
+    "categories": [
+        "Apple Music",
+        "Spotify",
+        "Pandora Radio",
+        "Google Play Music",
+        "SoundCloud",
+        "iHeartRadio",
+        "Shazam",
+        "Amazon Music",
+        "SiriusXM",
+        "TuneIn Radio"
+    ],
+    "data": {
+        "Stream Services": [
+            44.6,
+            32.6,
+            31.9,
+            19.5,
+            17.6,
+            13.9,
+            10.6,
+            9.6,
+            4.6,
+            4.5
+        ]
+    },
+    "colors": {
+        "Stream Services": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,88 @@
+{
+    "title": "Net balance on the financial account after subtracting the balances on the current accounts",
+    "legend": {
+        "Israel": "#6495ed",
+        "Macedonia": "#6485ed",
+        "Panama": "#6d7cee",
+        "Papua New Guinea": "#5d5dea"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Israel": [
+            5560200000,
+            3562500000,
+            -2988300000,
+            -2093700000,
+            2808500000,
+            3931400000
+        ],
+        "Macedonia": [
+            -6164619.265,
+            3960883.296,
+            -51842275.51,
+            -30889266.95,
+            40386982.24,
+            -643413.4596
+        ],
+        "Panama": [
+            -359300000,
+            141580000,
+            -474400000,
+            411500000,
+            334400000,
+            230000000
+        ],
+        "Papua New Guinea": [
+            -58801725.28,
+            -15048737.69,
+            9004008.807,
+            -72812432.68,
+            15861243.76,
+            -91053039.81
+        ]
+    },
+    "colors": {
+        "Israel": "#6495ED",
+        "Macedonia": "#8B0000",
+        "Panama": "#4682B4",
+        "Papua New Guinea": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5560200000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Israel": "#6495ed",
+        "Macedonia": "#6485ed",
+        "Panama": "#6d7cee",
+        "Papua New Guinea": "#5d5dea"
+    }
+}

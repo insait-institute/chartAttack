@@ -1,0 +1,72 @@
+{
+    "title": "Trade statistics with developing economies of Latin America in 2005",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#f2f200",
+        "Middle income": "#79f279",
+        "North America": "#00a5a5",
+        "OECD members": "#5252a5",
+        "Other small states": "#a500a5"
+    },
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            1.23653943931214
+        ],
+        "Middle East & North Africa (developing only)": [
+            2.15297487293923
+        ],
+        "Middle income": [
+            3.10545565027842
+        ],
+        "North America": [
+            13.7683567155622
+        ],
+        "OECD members": [
+            4.056110540380629
+        ],
+        "Other small states": [
+            0.0271662463487157
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#f2f200",
+        "Middle income": "#79f279",
+        "North America": "#00a5a5",
+        "OECD members": "#5252a5",
+        "Other small states": "#a500a5"
+    }
+}

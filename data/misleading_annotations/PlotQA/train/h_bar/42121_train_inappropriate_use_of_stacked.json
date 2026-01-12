@@ -1,0 +1,62 @@
+{
+    "title": "Number of new businesses registered in a country",
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#c1f200",
+        "2010": "#52a574",
+        "2011": "#0042a5",
+        "2012": "#da79f2"
+    },
+    "categories": [
+        "Number of new businesses registered in a country"
+    ],
+    "data": {
+        "2008": [
+            14493.0
+        ],
+        "2009": [
+            12118.0
+        ],
+        "2010": [
+            13133.0
+        ],
+        "2011": [
+            13799.0
+        ],
+        "2012": [
+            12385.0
+        ]
+    },
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#c1f200",
+        "2010": "#52a574",
+        "2011": "#0042a5",
+        "2012": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

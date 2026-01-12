@@ -1,0 +1,63 @@
+{
+    "title": "Trade statistics with developing economies of Latin America in 2005",
+    "x_axis": {
+        "categories": [
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "North America",
+            "OECD members",
+            "Other small states"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#FF4500",
+        "Merchandise imports": "#D2B48C"
+    },
+    "data": {
+        "Merchandise exports": [
+            1.23653943931214,
+            2.15297487293923,
+            3.10545565027842,
+            13.7683567155622,
+            4.056110540380629,
+            0.0271662463487157
+        ],
+        "Merchandise imports": [
+            1.83774482504581,
+            2.20992358991021,
+            3.2354575790056,
+            12.5405621639028,
+            4.64488037130125,
+            1.20150301885395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

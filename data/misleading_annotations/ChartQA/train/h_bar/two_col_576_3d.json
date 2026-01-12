@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Imports": "#2876dd"
+    },
+    "categories": [
+        "Machinery and transport equipment",
+        "Miscellaneous manufactures",
+        "Chemicals",
+        "Material manufactures",
+        "Food and live animals",
+        "Fuels",
+        "Crude materials",
+        "Beverages and tobacoo",
+        "Unspecified goods",
+        "Animal and vegetable oils and fats"
+    ],
+    "data": {
+        "Imports": [
+            151122,
+            70902,
+            55286,
+            56649,
+            39248,
+            26947,
+            12461,
+            9304,
+            7200,
+            1457
+        ]
+    },
+    "colors": {
+        "Imports": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 151130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

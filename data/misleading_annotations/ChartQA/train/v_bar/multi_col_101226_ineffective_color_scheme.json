@@ -1,0 +1,75 @@
+{
+    "title": "Number of enterprises",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of enterprises"
+    },
+    "legend": {
+        "Enterprises": "#2876dd",
+        "Local Units": "#284bdd"
+    },
+    "data": {
+        "Enterprises": [
+            45,
+            45,
+            40,
+            45,
+            50,
+            65,
+            90,
+            115,
+            140
+        ],
+        "Local Units": [
+            145,
+            140,
+            140,
+            140,
+            150,
+            165,
+            190,
+            220,
+            245
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 250
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Enterprises": "#2876dd",
+        "Local Units": "#284bdd"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "title": "CO2 emissions from liquid fuel consumption",
+    "legend": {
+        "Uganda": "#f27979",
+        "United Kingdom": "#f2f200",
+        "United States": "#79f279",
+        "Uruguay": "#00a5a5",
+        "Venezuela": "#5252a5",
+        "Vietnam": "#a500a5"
+    },
+    "categories": [
+        "CO2 emissions from liquid fuel consumption"
+    ],
+    "data": {
+        "Uganda": [
+            91.304347826087
+        ],
+        "United Kingdom": [
+            22.07731894063011
+        ],
+        "United States": [
+            44.372700748446
+        ],
+        "Uruguay": [
+            91.25636672325979
+        ],
+        "Venezuela": [
+            26.1003662532931
+        ],
+        "Vietnam": [
+            23.9843367596672
+        ]
+    },
+    "colors": {
+        "Uganda": "#f27979",
+        "United Kingdom": "#f2f200",
+        "United States": "#79f279",
+        "Uruguay": "#00a5a5",
+        "Venezuela": "#5252a5",
+        "Vietnam": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

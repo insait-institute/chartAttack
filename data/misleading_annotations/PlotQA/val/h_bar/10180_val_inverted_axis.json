@@ -1,0 +1,64 @@
+{
+    "title": "Fertilizer consumption as a percentage of production",
+    "legend": {
+        "European Union": "#4169E1",
+        "Small states": "#BEBEBE",
+        "Bulgaria": "#20B2AA"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "European Union": [
+            88.884347181609,
+            91.8019810558788,
+            88.5771674218937,
+            90.03757503548702
+        ],
+        "Small states": [
+            15.8290908637169,
+            18.42744532711711,
+            12.0795856045525,
+            20.55243981534469
+        ],
+        "Bulgaria": [
+            129.965639810427,
+            81.8653563069885,
+            85.60237816270309,
+            103.055612244898
+        ]
+    },
+    "colors": {
+        "European Union": "#4169E1",
+        "Small states": "#BEBEBE",
+        "Bulgaria": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

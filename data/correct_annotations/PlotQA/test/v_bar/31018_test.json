@@ -1,0 +1,81 @@
+{
+    "title": "Methane emissions from agricultural activities and animals",
+    "x_axis": {
+        "categories": [
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Belarus",
+            "Belgium",
+            "Benin"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#00FA9A",
+        "2000": "#8B4513",
+        "2005": "#4B0082",
+        "2008": "#F4A460"
+    },
+    "data": {
+        "1990": [
+            4258.7,
+            19.5,
+            69357.4,
+            14270.3,
+            6634.3,
+            1853.0
+        ],
+        "2000": [
+            4123.5,
+            18.5,
+            65720.9,
+            8360.4,
+            6529.5,
+            2086.3
+        ],
+        "2005": [
+            4981.0,
+            17.5,
+            66521.8,
+            8147.7,
+            5701.8,
+            1989.2
+        ],
+        "2008": [
+            5438.1,
+            16.2,
+            67364.4,
+            8252.0,
+            5517.1,
+            3247.6
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 69360
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

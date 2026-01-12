@@ -1,0 +1,72 @@
+{
+    "title": "CPIA social protection rating",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Tanzania": "#f27979",
+        "Togo": "#f2f200",
+        "Tonga": "#79f279",
+        "Uganda": "#00a5a5",
+        "Uzbekistan": "#5252a5",
+        "Vanuatu": "#a500a5"
+    },
+    "data": {
+        "Tanzania": [
+            3.5
+        ],
+        "Togo": [
+            2.5
+        ],
+        "Tonga": [
+            3.0
+        ],
+        "Uganda": [
+            3.5
+        ],
+        "Uzbekistan": [
+            3.5
+        ],
+        "Vanuatu": [
+            2.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Tanzania": "#f27979",
+        "Togo": "#f2f200",
+        "Tonga": "#79f279",
+        "Uganda": "#00a5a5",
+        "Uzbekistan": "#5252a5",
+        "Vanuatu": "#a500a5"
+    }
+}

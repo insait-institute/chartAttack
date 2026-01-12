@@ -1,0 +1,181 @@
+{
+    "title": "Revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2017",
+            "2018",
+            "2019*",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "CSCF servers": "#2876dd",
+        "Voice application servers": "#0f283e",
+        "Session border controllers": "#bababa",
+        "HSS": "#a60b0b",
+        "Trunk media gateways": "#87bc24",
+        "Softswitches": "#ebb523",
+        "Media servers": "#5d2b76"
+    },
+    "data": {
+        "CSCF servers": [
+            1.45,
+            1.25,
+            1.25,
+            1.24,
+            1.21,
+            1.14,
+            1.14
+        ],
+        "Voice application servers": [
+            0.94,
+            0.93,
+            0.96,
+            0.97,
+            0.95,
+            0.92,
+            0.95
+        ],
+        "Session border controllers": [
+            0.72,
+            0.7,
+            0.73,
+            0.73,
+            0.74,
+            0.68,
+            0.66
+        ],
+        "HSS": [
+            0.59,
+            0.64,
+            0.66,
+            0.64,
+            0.61,
+            0.56,
+            0.55
+        ],
+        "Trunk media gateways": [
+            0.29,
+            0.21,
+            0.15,
+            0.14,
+            0.14,
+            0.12,
+            0.13
+        ],
+        "Softswitches": [
+            0.28,
+            0.19,
+            0.16,
+            0.13,
+            0.1,
+            0.11,
+            0.1
+        ],
+        "Media servers": [
+            0.06,
+            0.08,
+            0.06,
+            0.07,
+            0.07,
+            0.06,
+            0.06
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "CSCF servers": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5
+        ],
+        "Voice application servers": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5
+        ],
+        "Session border controllers": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5
+        ],
+        "HSS": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5
+        ],
+        "Trunk media gateways": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5
+        ],
+        "Softswitches": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5
+        ],
+        "Media servers": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5
+        ]
+    }
+}

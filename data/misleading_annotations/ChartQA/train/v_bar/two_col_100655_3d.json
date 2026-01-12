@@ -1,0 +1,82 @@
+{
+    "title": "Direct investments in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Direct investments in billion U.S. dollars"
+    },
+    "legend": {
+        "Direct Investments": "#2876dd"
+    },
+    "data": {
+        "Direct Investments": [
+            23.48,
+            22.88,
+            23.77,
+            23.09,
+            25.18,
+            24.53,
+            25.44,
+            28.22,
+            27.66,
+            29.94,
+            27.14,
+            26.9,
+            27.32,
+            25.83,
+            30.15,
+            30.87,
+            30.57,
+            27.62,
+            33.08,
+            34.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

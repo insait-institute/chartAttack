@@ -1,0 +1,77 @@
+{
+    "title": "Global C02 emissions",
+    "legend": {
+        "Fragile and conflict affected situations": "#6495ED",
+        "Costa Rica": "#CD5C5C",
+        "Togo": "#191970"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Fragile and conflict affected situations": [
+            0.7519490734915278,
+            0.8311655420415831,
+            0.865539521378415
+        ],
+        "Costa Rica": [
+            1.85890149022821,
+            1.88006450380697,
+            1.69368292084618
+        ],
+        "Togo": [
+            0.2396767018413311,
+            0.285947796912474,
+            0.270613774387794
+        ]
+    },
+    "colors": {
+        "Fragile and conflict affected situations": "#6495ED",
+        "Costa Rica": "#CD5C5C",
+        "Togo": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Fragile and conflict affected situations": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Costa Rica": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Togo": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

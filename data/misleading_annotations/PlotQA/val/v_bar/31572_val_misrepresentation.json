@@ -1,0 +1,97 @@
+{
+    "title": "Global emissions of Perfluorocarbons",
+    "x_axis": {
+        "categories": [
+            "China",
+            "Croatia",
+            "Czech Republic",
+            "Denmark"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#D2691E",
+        "2000": "#00FF7F",
+        "2005": "#8B008B",
+        "2008": "#BEBEBE"
+    },
+    "data": {
+        "1990": [
+            4674.5,
+            890.4,
+            2.8,
+            1.4
+        ],
+        "2000": [
+            8034.4,
+            63.0,
+            28.8,
+            23.4
+        ],
+        "2005": [
+            10562.8,
+            10.9,
+            27.5,
+            21.5
+        ],
+        "2008": [
+            13500.6,
+            11.0,
+            33.3,
+            21.4
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13510
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1990": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2000": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2005": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "2008": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "title": "",
+    "categories": [
+        "France",
+        "Spain",
+        "Italy",
+        "United Kingdom",
+        "Germany",
+        "Romania",
+        "Austria",
+        "Sweden",
+        "Portugal",
+        "Greece",
+        "Netherlands",
+        "Poland",
+        "Belgium",
+        "Denmark",
+        "Finland",
+        "Hungary",
+        "Ireland",
+        "Bulgaria",
+        "Czech Republic",
+        "Slovenia",
+        "Croatia",
+        "Latvia",
+        "Cyprus",
+        "Estonia",
+        "Slovakia",
+        "Lithuania",
+        "Luxembourg",
+        "Malta"
+    ],
+    "data": {
+        "Lost sales in million euros": [
+            82,
+            76,
+            53,
+            50,
+            44,
+            42,
+            31,
+            16,
+            14,
+            12,
+            11,
+            11,
+            6,
+            6,
+            6,
+            5,
+            4,
+            4,
+            4,
+            3,
+            3,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Lost sales in million euros": "#2876dd"
+    }
+}

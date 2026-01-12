@@ -1,0 +1,106 @@
+{
+    "title": "GDP in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*",
+            "2021*",
+            "2022",
+            "2023",
+            "2024",
+            "2025*",
+            "2026*"
+        ]
+    },
+    "y_axis": {
+        "label": "GDP in billion U.S. dollars"
+    },
+    "legend": {
+        "ASEAN-5": "#2876dd",
+        "Emerging and developing Asia": "#0f283e"
+    },
+    "data": {
+        "ASEAN-5": [
+            2217.59,
+            2396.68,
+            2558.69,
+            2735.21,
+            2602.87,
+            2842.12,
+            3075.8,
+            3318.92,
+            3561.84,
+            3821.1,
+            4099.49
+        ],
+        "Emerging and developing Asia": [
+            16223.95,
+            17845.26,
+            19676.07,
+            20554.31,
+            20671.15,
+            23204.01,
+            25126.68,
+            27119.86,
+            29208.38,
+            31423.19,
+            33760.27
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 33770
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "ASEAN-5": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.75,
+            0.25,
+            1.75
+        ],
+        "Emerging and developing Asia": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5,
+            1.75,
+            0.25,
+            1.75
+        ]
+    }
+}

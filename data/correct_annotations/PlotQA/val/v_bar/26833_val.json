@@ -1,0 +1,64 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 1994 ",
+    "x_axis": {
+        "categories": [
+            "Coal",
+            "Minerals",
+            "Energy",
+            "Water"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#2F4F4F",
+        "Japan": "#FFA07A",
+        "Morocco": "#008080"
+    },
+    "data": {
+        "Australia": [
+            0.504286471264793,
+            0.595493280872527,
+            0.926019235812088,
+            1.52151251668462
+        ],
+        "Japan": [
+            0.13738042907918,
+            0.000361285053851494,
+            0.00328085730132827,
+            0.00364214235517976
+        ],
+        "Morocco": [
+            0.515128801831758,
+            0.0215607593285574,
+            0.00354148414841821,
+            0.0679165647215104
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

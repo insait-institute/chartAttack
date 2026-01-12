@@ -1,0 +1,72 @@
+{
+    "title": "Fertility rates in different countries according to the survey of 2007",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Dominican Republic": "#f27979",
+        "Ecuador": "#f2f200",
+        "Egypt, Arab Rep.": "#79f279",
+        "El Salvador": "#00a5a5",
+        "Equatorial Guinea": "#5252a5",
+        "Eritrea": "#a500a5"
+    },
+    "data": {
+        "Dominican Republic": [
+            108.701
+        ],
+        "Ecuador": [
+            83.01100000000002
+        ],
+        "Egypt, Arab Rep.": [
+            48.714
+        ],
+        "El Salvador": [
+            76.741
+        ],
+        "Equatorial Guinea": [
+            122.851
+        ],
+        "Eritrea": [
+            76.079
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Dominican Republic": "#f27979",
+        "Ecuador": "#f2f200",
+        "Egypt, Arab Rep.": "#79f279",
+        "El Salvador": "#00a5a5",
+        "Equatorial Guinea": "#5252a5",
+        "Eritrea": "#a500a5"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of women suffering from anaemia in 2008",
+    "x_axis": {
+        "categories": [
+            "Non-pregnant women",
+            "Pregnant women"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Guinea": "#663399",
+        "Kazakhstan": "#F0E68C",
+        "Kiribati": "#4169E1"
+    },
+    "data": {
+        "Guinea": [
+            50.3,
+            62.2
+        ],
+        "Kazakhstan": [
+            33.4,
+            29.0
+        ],
+        "Kiribati": [
+            21.5,
+            30.3
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

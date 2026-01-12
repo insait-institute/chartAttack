@@ -1,0 +1,88 @@
+{
+    "title": "Total labor force with tertiary education as their highest grade",
+    "legend": {
+        "Estonia": "#2f4f4f",
+        "Kazakhstan": "#2f4b4f",
+        "Morocco": "#334d55",
+        "Switzerland": "#2c3e47"
+    },
+    "categories": [
+        "2002",
+        "2003",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Estonia": [
+            30.2000007629395,
+            29.7999992370605,
+            35.9000015258789,
+            35.5,
+            36.4000015258789,
+            37.7000007629395
+        ],
+        "Kazakhstan": [
+            47.4000015258789,
+            48.9000015258789,
+            24.89999961853031,
+            26.2999992370605,
+            27.60000038146969,
+            29.5
+        ],
+        "Morocco": [
+            7.400000095367429,
+            7.599999904632571,
+            9.10000038146973,
+            9.10000038146973,
+            8.89999961853027,
+            9.19999980926514
+        ],
+        "Switzerland": [
+            24.2000007629395,
+            25.60000038146969,
+            32.9000015258789,
+            32.9000015258789,
+            32.9000015258789,
+            34.2999992370605
+        ]
+    },
+    "colors": {
+        "Estonia": "#2F4F4F",
+        "Kazakhstan": "#8B4513",
+        "Morocco": "#8A2BE2",
+        "Switzerland": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Estonia": "#2f4f4f",
+        "Kazakhstan": "#2f4b4f",
+        "Morocco": "#334d55",
+        "Switzerland": "#2c3e47"
+    }
+}

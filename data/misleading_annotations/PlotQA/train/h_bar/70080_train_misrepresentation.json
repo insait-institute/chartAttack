@@ -1,0 +1,62 @@
+{
+    "title": "Measures of the flow of containers from land to sea transport modes and vice versa in 2004",
+    "legend": {
+        "Container port traffic": "#00BFFF"
+    },
+    "categories": [
+        "Sweden",
+        "Thailand",
+        "Turkey",
+        "Ukraine",
+        "United Arab Emirates",
+        "United Kingdom"
+    ],
+    "data": {
+        "Container port traffic": [
+            1098871,
+            4847000,
+            2960746,
+            398080,
+            8661636,
+            8326913
+        ]
+    },
+    "colors": {
+        "Container port traffic": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8661640
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Container port traffic": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

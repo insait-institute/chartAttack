@@ -1,0 +1,53 @@
+{
+    "title": "Percentage of full-time male workers in High income",
+    "legend": {
+        "Wage and salary workers": "#FF4500"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "Full-time male workers(% of males employed)",
+    "data": [
+        {
+            "label": "Wage and salary workers",
+            "color": "#FF4500",
+            "values": [
+                83.6603817667478,
+                83.7041204721685,
+                83.4684682454123,
+                83.4502014392097
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 80,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Employees": "#2876dd"
+    },
+    "categories": [
+        "Brazil",
+        "United States",
+        "Poland",
+        "Mexico",
+        "Italy",
+        "Thailand",
+        "Egypt",
+        "Hungary",
+        "Germany",
+        "Sweden",
+        "Chile"
+    ],
+    "data": {
+        "Employees": [
+            6999,
+            6610,
+            5461,
+            4829,
+            4611,
+            2306,
+            2229,
+            1948,
+            1719,
+            1414,
+            1213
+        ]
+    },
+    "colors": {
+        "Employees": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

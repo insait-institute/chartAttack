@@ -1,0 +1,71 @@
+{
+    "title": "CPIA public sector management and institutions cluster average",
+    "x_axis": {
+        "categories": [
+            "East Asia (developing only)",
+            "Europe(all income levels)",
+            "Europe(developing only)",
+            "Fragile and conflict affected situations"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#D2691E",
+        "2006": "#00CED1",
+        "2007": "#20B2AA",
+        "2008": "#556B2F"
+    },
+    "data": {
+        "2005": [
+            3.08181818181818,
+            3.15,
+            3.15,
+            2.685
+        ],
+        "2006": [
+            3.025,
+            3.12,
+            3.12,
+            2.64090909090909
+        ],
+        "2007": [
+            3.036363636363641,
+            3.1625,
+            3.1625,
+            2.61363636363636
+        ],
+        "2008": [
+            3.11818181818182,
+            3.225,
+            3.225,
+            2.60454545454545
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Amount spent on the travel items of international tourists",
+    "legend": {
+        "1995": "#ADFF2F",
+        "1996": "#D2691E",
+        "1997": "#F4A460"
+    },
+    "categories": [
+        "Lower middle income",
+        "Middle income",
+        "North America",
+        "OECD members",
+        "Other small states",
+        "Pacific island small states"
+    ],
+    "data": {
+        "1995": [
+            9203367483.12984,
+            37301176769.1982,
+            56824007688.8955,
+            304878000000.0,
+            797782145.965335,
+            110057614.804427
+        ],
+        "1996": [
+            11123713201.4295,
+            41627343905.1694,
+            61125010901.5633,
+            319909000000.0,
+            706987162.120831,
+            121256459.819615
+        ],
+        "1997": [
+            12563773160.1025,
+            49414449094.3003,
+            65501259096.958,
+            313867000000.0,
+            711305175.491328,
+            113275673.716838
+        ]
+    },
+    "colors": {
+        "1995": "#ADFF2F",
+        "1996": "#D2691E",
+        "1997": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 319909000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

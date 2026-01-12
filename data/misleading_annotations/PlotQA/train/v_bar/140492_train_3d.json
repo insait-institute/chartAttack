@@ -1,0 +1,76 @@
+{
+    "title": "CPIA quality of public administration rating",
+    "x_axis": {
+        "categories": [
+            "Maldives",
+            "Mali",
+            "Mauritania",
+            "Moldova",
+            "Mongolia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#FFA500",
+        "2006": "#FF8C00",
+        "2007": "#DC143C",
+        "2008": "#C71585"
+    },
+    "data": {
+        "2005": [
+            4.0,
+            3.0,
+            3.0,
+            3.0,
+            3.5
+        ],
+        "2006": [
+            4.0,
+            3.0,
+            3.0,
+            3.0,
+            3.5
+        ],
+        "2007": [
+            4.0,
+            3.0,
+            3.0,
+            3.0,
+            3.5
+        ],
+        "2008": [
+            4.0,
+            3.0,
+            3.0,
+            3.5,
+            3.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

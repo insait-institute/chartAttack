@@ -1,0 +1,67 @@
+{
+    "title": "Gender parity index for gross enrollment ratio in different levels of education in East Asia (developing only)",
+    "legend": {
+        "1979": "#f27979",
+        "1980": "#f2f200",
+        "1981": "#79f279",
+        "1982": "#00a5a5",
+        "1983": "#5252a5",
+        "1984": "#a500a5"
+    },
+    "categories": [
+        "Gender parity index for gross enrollment ratio in different levels of education in East Asia (developing only)"
+    ],
+    "data": {
+        "1979": [
+            0.887199997901917
+        ],
+        "1980": [
+            0.883000016212463
+        ],
+        "1981": [
+            0.871999979019165
+        ],
+        "1982": [
+            0.858839988708496
+        ],
+        "1983": [
+            0.856230020523071
+        ],
+        "1984": [
+            0.858980000019073
+        ]
+    },
+    "colors": {
+        "1979": "#f27979",
+        "1980": "#f2f200",
+        "1981": "#79f279",
+        "1982": "#00a5a5",
+        "1983": "#5252a5",
+        "1984": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

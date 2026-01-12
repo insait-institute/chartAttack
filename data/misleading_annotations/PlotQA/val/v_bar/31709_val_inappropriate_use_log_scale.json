@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of food exports to different countries",
+    "x_axis": {
+        "categories": [
+            "Chile",
+            "Denmark",
+            "Ecuador",
+            "France"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#FF1493",
+        "1963": "#556B2F",
+        "1964": "#663399",
+        "1965": "#FF4500"
+    },
+    "data": {
+        "1962": [
+            6.621494813092282,
+            53.6462952671582,
+            96.4452801066973,
+            14.463805376507
+        ],
+        "1963": [
+            6.29873388112218,
+            52.7290214544756,
+            95.7393432460993,
+            15.9924709823921
+        ],
+        "1964": [
+            7.0697247315513,
+            50.80696426951179,
+            94.4871940679928,
+            16.4958357078165
+        ],
+        "1965": [
+            5.21745472175274,
+            49.2974659086238,
+            92.15460487585092,
+            16.3842503940446
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Merchandise exports to high income economies",
+    "x_axis": {
+        "categories": [
+            "Australia",
+            "Austria",
+            "Bolivia",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#F4A460",
+        "1961": "#00FF7F",
+        "1962": "#00FA9A"
+    },
+    "data": {
+        "1960": [
+            79.13391665430821,
+            75.9764053981589,
+            93.8144329896907,
+            91.11741081974961
+        ],
+        "1961": [
+            76.29677143468041,
+            77.175,
+            95.14435695538059,
+            89.83957219251344
+        ],
+        "1962": [
+            78.40630246674421,
+            78.54594466027109,
+            98.81578947368419,
+            89.60857025133909
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

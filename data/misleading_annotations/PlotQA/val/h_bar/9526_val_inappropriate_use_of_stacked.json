@@ -1,0 +1,62 @@
+{
+    "title": "Total debt service of a country to exports of goods, services and primary income",
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#c1f200",
+        "2008": "#52a574",
+        "2009": "#0042a5",
+        "2010": "#da79f2"
+    },
+    "categories": [
+        "Total debt service of a country to exports of goods, services and primary income"
+    ],
+    "data": {
+        "2006": [
+            38.248552319393
+        ],
+        "2007": [
+            28.0520896216672
+        ],
+        "2008": [
+            23.4712959527755
+        ],
+        "2009": [
+            23.4880702453716
+        ],
+        "2010": [
+            19.0443003849607
+        ]
+    },
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#c1f200",
+        "2008": "#52a574",
+        "2009": "#0042a5",
+        "2010": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

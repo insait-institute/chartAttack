@@ -1,0 +1,67 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy(residual) in 2014",
+    "legend": {
+        "El Salvador": "#f27979",
+        "Equatorial Guinea": "#f2f200",
+        "Estonia": "#79f279",
+        "Ethiopia": "#00a5a5",
+        "Faeroe Islands": "#5252a5",
+        "Fiji": "#a500a5"
+    },
+    "categories": [
+        "Total earnings from merchandise exports and imports by the reporting economy(residual) in 2014"
+    ],
+    "data": {
+        "El Salvador": [
+            0.0124560485074555
+        ],
+        "Equatorial Guinea": [
+            46.89070232962301
+        ],
+        "Estonia": [
+            0.5298409771681379
+        ],
+        "Ethiopia": [
+            12.75674475154769
+        ],
+        "Faeroe Islands": [
+            20.6125355517799
+        ],
+        "Fiji": [
+            28.7262313945622
+        ]
+    },
+    "colors": {
+        "El Salvador": "#f27979",
+        "Equatorial Guinea": "#f2f200",
+        "Estonia": "#79f279",
+        "Ethiopia": "#00a5a5",
+        "Faeroe Islands": "#5252a5",
+        "Fiji": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

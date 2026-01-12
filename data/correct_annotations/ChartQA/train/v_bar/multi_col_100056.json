@@ -1,0 +1,60 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "Convenience",
+            "Customer service",
+            "Product availability",
+            "Product quality",
+            "Value for money"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "Rated 4/5": "#2876dd",
+        "Rated 5/5": "#0f283e"
+    },
+    "data": {
+        "Rated 4/5": [
+            34,
+            36,
+            35,
+            45,
+            27
+        ],
+        "Rated 5/5": [
+            37,
+            18,
+            15,
+            16,
+            9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

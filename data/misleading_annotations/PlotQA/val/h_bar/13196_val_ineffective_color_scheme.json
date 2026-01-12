@@ -1,0 +1,73 @@
+{
+    "title": "Agricultural raw materials,food and fuel exports of countries in 2007",
+    "legend": {
+        "Bahrain": "#008080",
+        "Bulgaria": "#007180",
+        "Ethiopia": "#00698a",
+        "United Kingdom": "#014b75"
+    },
+    "categories": [
+        "Agricultural raw materials",
+        "Food",
+        "Fuel"
+    ],
+    "data": {
+        "Bahrain": [
+            0.0169819021712261,
+            0.383907482061626,
+            80.8302497627952
+        ],
+        "Bulgaria": [
+            1.67231068239431,
+            8.64387753234179,
+            14.6091797247425
+        ],
+        "Ethiopia": [
+            20.4132638419814,
+            62.1459871267809,
+            0.006189447051301439
+        ],
+        "United Kingdom": [
+            0.65145561028676,
+            5.51082886641001,
+            10.2745141049829
+        ]
+    },
+    "colors": {
+        "Bahrain": "#008080",
+        "Bulgaria": "#8A2BE2",
+        "Ethiopia": "#708090",
+        "United Kingdom": "#FF1493"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Bahrain": "#008080",
+        "Bulgaria": "#007180",
+        "Ethiopia": "#00698a",
+        "United Kingdom": "#014b75"
+    }
+}

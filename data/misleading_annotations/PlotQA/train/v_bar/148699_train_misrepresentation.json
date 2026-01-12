@@ -1,0 +1,64 @@
+{
+    "title": "Insurance provided to residents by nonresident insurance enterprises in 2010",
+    "x_axis": {
+        "categories": [
+            "Low & middle income",
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Insurance provided by non-residents": "#EE82EE"
+    },
+    "data": {
+        "Insurance provided by non-residents": [
+            3.62606430533459,
+            4.62408644672051,
+            4.01409328471056,
+            6.81916511495884,
+            4.39803206978953,
+            3.60356154142028
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Insurance provided by non-residents": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

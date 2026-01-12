@@ -1,0 +1,64 @@
+{
+    "title": "Discrepancy in expenditure estimate of GDP",
+    "x_axis": {
+        "categories": [
+            "Iran",
+            "Korea (Republic)",
+            "Singapore",
+            "South Africa"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#90EE90",
+        "1961": "#708090",
+        "1962": "#0000FF"
+    },
+    "data": {
+        "1960": [
+            -44434793292.7937,
+            -422304199.999995,
+            114900000.0,
+            68297900.0
+        ],
+        "1961": [
+            -44774582350.5538,
+            -323765199.99999,
+            85300000.00000072,
+            18381200.0
+        ],
+        "1962": [
+            -47861729597.3689,
+            -447072300.0,
+            -42200000.0000005,
+            33999100.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 114900000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

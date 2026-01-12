@@ -1,0 +1,77 @@
+{
+    "title": "Annual urban population growth",
+    "legend": {
+        "Comoros": "#20B2AA",
+        "Moldova": "#808000",
+        "Puerto Rico": "#7FFFD4",
+        "Trinidad and Tobago": "#ADFF2F"
+    },
+    "categories": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+    ],
+    "data": {
+        "Comoros": [
+            4.74539324458249,
+            4.71441058100582,
+            3.1690464084638,
+            2.7372634655562,
+            2.69913640594526
+        ],
+        "Moldova": [
+            0.205902433324318,
+            0.0171249520225575,
+            -0.14762542880009,
+            -0.337054323176683,
+            -0.473021847453914
+        ],
+        "Puerto Rico": [
+            2.00145645456832,
+            0.883696092978518,
+            0.818223017932615,
+            1.01037409552337,
+            1.09357929063143
+        ],
+        "Trinidad and Tobago": [
+            -1.02847800169516,
+            3.06074554595398,
+            3.02219167355949,
+            2.96331808288508,
+            2.86440700985334
+        ]
+    },
+    "colors": {
+        "Comoros": "#20B2AA",
+        "Moldova": "#808000",
+        "Puerto Rico": "#7FFFD4",
+        "Trinidad and Tobago": "#ADFF2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

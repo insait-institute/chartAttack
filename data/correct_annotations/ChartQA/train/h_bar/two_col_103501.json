@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Runs Scored": "#2876dd"
+    },
+    "categories": [
+        "Carl Yastrzemski",
+        "Ted Williams",
+        "Dwight Evans",
+        "Jim Rice",
+        "David Ortiz",
+        "Bobby Doerr",
+        "Wade Boggs",
+        "Dom DiMaggio",
+        "Harry Hooper",
+        "Dustin Pedroia"
+    ],
+    "data": {
+        "Runs Scored": [
+            1816,
+            1798,
+            1435,
+            1249,
+            1204,
+            1094,
+            1067,
+            1046,
+            988,
+            921
+        ]
+    },
+    "colors": {
+        "Runs Scored": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1820
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

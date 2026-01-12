@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Deaths per 100,000 population": "#2876dd"
+    },
+    "categories": [
+        "Lower respiratory infections",
+        "Diarrhoeal diseases",
+        "Ischaemic heart disease",
+        "HIV/AIDS",
+        "Stroke",
+        "Malaria",
+        "Tuberculosis",
+        "Preterm birth complications",
+        "Birth asphyxia and birth trauma",
+        "Road injury"
+    ],
+    "data": {
+        "Deaths per 100,000 population": [
+            75.8,
+            58.2,
+            52.9,
+            44.3,
+            42.2,
+            37.6,
+            34.3,
+            32.2,
+            30.5,
+            29.4
+        ]
+    },
+    "colors": {
+        "Deaths per 100,000 population": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

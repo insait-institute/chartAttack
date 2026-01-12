@@ -1,0 +1,52 @@
+{
+    "title": "Long-term public and publicly guaranteed debt and repayments of a country to the IMF in 1974",
+    "x_axis": {
+        "categories": [
+            "Jordan",
+            "Madagascar",
+            "Malaysia",
+            "Niger",
+            "Romania"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Debt service (PPG and IMF only)": "#2F4F4F"
+    },
+    "data": {
+        "Debt service (PPG and IMF only)": [
+            5.94386029416168,
+            29.8773008232236,
+            2.85307015329928,
+            2.8808703704075,
+            0.0145420207743154
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Chemicals (% of value added in manufacturing )",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Colombia",
+            "Costa Rica",
+            "Kenya",
+            "Singapore"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1963": "#bebebe",
+        "1964": "#bebebe",
+        "1965": "#c3c3c3",
+        "1966": "#b9b9b9"
+    },
+    "data": {
+        "1963": [
+            7.2204968958532,
+            9.99087588047237,
+            5.02944123884249,
+            8.28265005643586,
+            3.48207150838109
+        ],
+        "1964": [
+            7.15789473798944,
+            10.4742105169214,
+            6.52561637573691,
+            7.4077063808147,
+            3.57963828814887
+        ],
+        "1965": [
+            6.97526949824693,
+            10.994854212849,
+            6.535791109931459,
+            7.56960378385371,
+            4.22993015759715
+        ],
+        "1966": [
+            7.014492754531928,
+            12.4412296175364,
+            6.19858448030766,
+            7.66512007980214,
+            3.92983717618581
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1963": "#bebebe",
+        "1964": "#bebebe",
+        "1965": "#c3c3c3",
+        "1966": "#b9b9b9"
+    }
+}

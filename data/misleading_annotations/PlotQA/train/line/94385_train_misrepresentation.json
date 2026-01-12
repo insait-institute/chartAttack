@@ -1,0 +1,124 @@
+{
+    "title": "Value added by different sectors to the total GDP of Sub-Saharan Africa (developing only)",
+    "legend": {
+        "Industry": "#A52A2A",
+        "Manufacturing": "#A0522D",
+        "Services": "#B8860B",
+        "Agriculture": "#2F4F4F"
+    },
+    "x_axis": [
+        "1976",
+        "1977",
+        "1978",
+        "1980"
+    ],
+    "y_axis_label": "Value added (% of GDP)",
+    "data": [
+        {
+            "label": "Industry",
+            "color": "#A52A2A",
+            "values": [
+                32.4065865981159,
+                31.4237982480912,
+                32.5259247489987,
+                37.96376632393429
+            ]
+        },
+        {
+            "label": "Manufacturing",
+            "color": "#A0522D",
+            "values": [
+                15.1275737704796,
+                15.505746013684,
+                15.5141374098726,
+                15.4247642297661
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#B8860B",
+            "values": [
+                48.1116030152799,
+                48.2884837363233,
+                47.7691228863056,
+                46.37517514155729
+            ]
+        },
+        {
+            "label": "Agriculture",
+            "color": "#2F4F4F",
+            "values": [
+                19.48211687385789,
+                20.2874788436535,
+                19.7051597842803,
+                18.7543907445536
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Industry",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Manufacturing",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Agriculture",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

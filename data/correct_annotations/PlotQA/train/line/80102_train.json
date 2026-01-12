@@ -1,0 +1,76 @@
+{
+    "title": "Net bilateral aid flow in Guinea from different members of Development Assistance Committee",
+    "legend": {
+        "Canada": "#FF69B4",
+        "Netherlands": "#4169E1"
+    },
+    "x_axis": [
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "Canada",
+            "color": "#FF69B4",
+            "values": [
+                9830000,
+                11180000,
+                2790000,
+                4780000,
+                6570000,
+                6690000,
+                3920000,
+                6470000
+            ]
+        },
+        {
+            "label": "Netherlands",
+            "color": "#4169E1",
+            "values": [
+                2840000,
+                2230000,
+                210000,
+                250000,
+                220000,
+                90000,
+                20000,
+                2280000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20000,
+                "max_value": 11180000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

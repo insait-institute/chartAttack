@@ -1,0 +1,107 @@
+{
+    "title": "",
+    "legend": {
+        "France": "#f27979",
+        "Spain": "#f26700",
+        "Germany": "#f2e079",
+        "Italy": "#adf200",
+        "Switzerland": "#9bf279",
+        "Belgium": "#00a517",
+        "Norway": "#52a582",
+        "Denmark": "#00a5a5",
+        "Poland": "#5282a5",
+        "Portugal": "#0017a5",
+        "Austria": "#9b79f2",
+        "Czech Republic": "#ad00f2",
+        "Estonia": "#f279e0",
+        "Slovenia": "#f20067"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "France": [
+            2083.0
+        ],
+        "Spain": [
+            1133.0
+        ],
+        "Germany": [
+            820.0
+        ],
+        "Italy": [
+            701.0
+        ],
+        "Switzerland": [
+            282.0
+        ],
+        "Belgium": [
+            279.0
+        ],
+        "Norway": [
+            261.0
+        ],
+        "Denmark": [
+            214.0
+        ],
+        "Poland": [
+            208.0
+        ],
+        "Portugal": [
+            197.0
+        ],
+        "Austria": [
+            172.0
+        ],
+        "Czech Republic": [
+            114.0
+        ],
+        "Estonia": [
+            35.0
+        ],
+        "Slovenia": [
+            30.0
+        ]
+    },
+    "colors": {
+        "France": "#f27979",
+        "Spain": "#f26700",
+        "Germany": "#f2e079",
+        "Italy": "#adf200",
+        "Switzerland": "#9bf279",
+        "Belgium": "#00a517",
+        "Norway": "#52a582",
+        "Denmark": "#00a5a5",
+        "Poland": "#5282a5",
+        "Portugal": "#0017a5",
+        "Austria": "#9b79f2",
+        "Czech Republic": "#ad00f2",
+        "Estonia": "#f279e0",
+        "Slovenia": "#f20067"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2090
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

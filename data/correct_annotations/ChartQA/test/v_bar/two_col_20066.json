@@ -1,0 +1,48 @@
+{
+    "title": "Income (in million euros)",
+    "x_axis": {
+        "categories": [
+            "Other (incl. sponsors)",
+            "TV/broadcast",
+            "Ticket income"
+        ]
+    },
+    "y_axis": {
+        "label": "Income (in million euros)"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            83.4,
+            71.2,
+            46.5
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

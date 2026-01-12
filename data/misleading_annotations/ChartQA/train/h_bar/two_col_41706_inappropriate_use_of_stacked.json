@@ -1,0 +1,137 @@
+{
+    "title": "Unemployment rate",
+    "legend": {
+        "Ceuta": "#f27979",
+        "Canary Islands": "#f24800",
+        "Andalusia": "#f2c179",
+        "Extremadura": "#f2da00",
+        "Melilla": "#daf279",
+        "Balearic Islands": "#79f200",
+        "Castile la Mancha": "#91f279",
+        "Region of Valencia": "#00a510",
+        "Murcia": "#52a574",
+        "Spain": "#00a574",
+        "Asturias": "#52a5a5",
+        "Galicia": "#0074a5",
+        "Catalonia": "#5274a5",
+        "Castile and Leon": "#0010a5",
+        "Community of Madrid": "#9179f2",
+        "Aragon": "#7900f2",
+        "La Rioja": "#da79f2",
+        "Cantabria": "#f200da",
+        "Navarre": "#f279c1",
+        "Basque Country": "#f20048"
+    },
+    "categories": [
+        "Unemployment rate"
+    ],
+    "data": {
+        "Ceuta": [
+            28.52
+        ],
+        "Canary Islands": [
+            25.42
+        ],
+        "Andalusia": [
+            22.54
+        ],
+        "Extremadura": [
+            22.22
+        ],
+        "Melilla": [
+            21.52
+        ],
+        "Balearic Islands": [
+            18.88
+        ],
+        "Castile la Mancha": [
+            17.42
+        ],
+        "Region of Valencia": [
+            16.51
+        ],
+        "Murcia": [
+            16.42
+        ],
+        "Spain": [
+            16.26
+        ],
+        "Asturias": [
+            14.09
+        ],
+        "Galicia": [
+            13.0
+        ],
+        "Catalonia": [
+            12.9
+        ],
+        "Castile and Leon": [
+            12.64
+        ],
+        "Community of Madrid": [
+            12.15
+        ],
+        "Aragon": [
+            12.1
+        ],
+        "La Rioja": [
+            11.9
+        ],
+        "Cantabria": [
+            11.88
+        ],
+        "Navarre": [
+            11.45
+        ],
+        "Basque Country": [
+            10.99
+        ]
+    },
+    "colors": {
+        "Ceuta": "#f27979",
+        "Canary Islands": "#f24800",
+        "Andalusia": "#f2c179",
+        "Extremadura": "#f2da00",
+        "Melilla": "#daf279",
+        "Balearic Islands": "#79f200",
+        "Castile la Mancha": "#91f279",
+        "Region of Valencia": "#00a510",
+        "Murcia": "#52a574",
+        "Spain": "#00a574",
+        "Asturias": "#52a5a5",
+        "Galicia": "#0074a5",
+        "Catalonia": "#5274a5",
+        "Castile and Leon": "#0010a5",
+        "Community of Madrid": "#9179f2",
+        "Aragon": "#7900f2",
+        "La Rioja": "#da79f2",
+        "Cantabria": "#f200da",
+        "Navarre": "#f279c1",
+        "Basque Country": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Total amount earned from tourism in 2002",
+    "x_axis": {
+        "categories": [
+            "Bermuda",
+            "Bhutan",
+            "Bolivia",
+            "Bosnia and Herzegovina",
+            "Botswana"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "National Visitors": "#FFD700",
+        "International Visitors": "#20B2AA"
+    },
+    "data": {
+        "National Visitors": [
+            378000000.0,
+            8000000.0,
+            143000000.0,
+            307000000.0,
+            324000000.0
+        ],
+        "International Visitors": [
+            243000000.0,
+            114000000.0,
+            112000000.0,
+            197000000.0,
+            2929000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2929000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

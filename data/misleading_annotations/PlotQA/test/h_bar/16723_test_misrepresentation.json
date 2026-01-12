@@ -1,0 +1,56 @@
+{
+    "title": "Long-term unemployment in Bulgaria",
+    "legend": {
+        "Long-term unemployment ": "#4169E1"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Long-term unemployment ": [
+            59.7999992370605,
+            55.7000007629395,
+            58.9000015258789,
+            51.7000007629395
+        ]
+    },
+    "colors": {
+        "Long-term unemployment ": "#4169E1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Long-term unemployment ": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

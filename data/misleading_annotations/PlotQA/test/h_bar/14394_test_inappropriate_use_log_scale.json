@@ -1,0 +1,61 @@
+{
+    "title": "Trade statistics with developing economies outside region in 1994",
+    "legend": {
+        "Cuba": "#40E0D0",
+        "Nigeria": "#66CDAA",
+        "Paraguay": "#000000",
+        "Peru": "#9ACD32"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Cuba": [
+            25.1564694885654,
+            14.161807882949
+        ],
+        "Nigeria": [
+            7.316728661282611,
+            12.7182545115976
+        ],
+        "Paraguay": [
+            0.686824117932965,
+            3.06783147553514
+        ],
+        "Peru": [
+            10.5677493248687,
+            3.26509062587942
+        ]
+    },
+    "colors": {
+        "Cuba": "#40E0D0",
+        "Nigeria": "#66CDAA",
+        "Paraguay": "#000000",
+        "Peru": "#9ACD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

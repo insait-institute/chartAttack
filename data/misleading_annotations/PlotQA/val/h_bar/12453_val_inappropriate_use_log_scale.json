@@ -1,0 +1,76 @@
+{
+    "title": "Total exports of goods and services in constant 2005 US$",
+    "legend": {
+        "Cameroon": "#00FF00",
+        "China": "#4682B4",
+        "Portugal": "#E9967A",
+        "Vanuatu": "#556B2F"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Cameroon": [
+            1643896553800,
+            1667077758900,
+            1688969195900,
+            1779131598200,
+            1713493435600
+        ],
+        "China": [
+            3942148880800.0,
+            4932739345100.0,
+            6663369101000.0,
+            8144369517300.0,
+            8917025853400.0
+        ],
+        "Portugal": [
+            45251653900.0,
+            45471569000.0,
+            51096977500.0,
+            54833658200.0,
+            54656749300.0
+        ],
+        "Vanuatu": [
+            18647000000.0,
+            20013000000.0,
+            20063000000.0,
+            21225000000.0,
+            23052000000.0
+        ]
+    },
+    "colors": {
+        "Cameroon": "#00FF00",
+        "China": "#4682B4",
+        "Portugal": "#E9967A",
+        "Vanuatu": "#556B2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8917025853400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

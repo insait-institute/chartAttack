@@ -1,0 +1,62 @@
+{
+    "title": "Cost of damage due to depletion of coal depletion",
+    "legend": {
+        "South Asia": "#f27979",
+        "Sub-Saharan Africa (all income levels)": "#c1f200",
+        "Sub-Saharan Africa (developing only)": "#52a574",
+        "Upper middle income": "#0042a5",
+        "World": "#da79f2"
+    },
+    "categories": [
+        "Cost of damage due to depletion of coal depletion"
+    ],
+    "data": {
+        "South Asia": [
+            0.384635625331479
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            0.512776890249176
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            0.5134114319599871
+        ],
+        "Upper middle income": [
+            0.7220682668575971
+        ],
+        "World": [
+            0.517903252544777
+        ]
+    },
+    "colors": {
+        "South Asia": "#f27979",
+        "Sub-Saharan Africa (all income levels)": "#c1f200",
+        "Sub-Saharan Africa (developing only)": "#52a574",
+        "Upper middle income": "#0042a5",
+        "World": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

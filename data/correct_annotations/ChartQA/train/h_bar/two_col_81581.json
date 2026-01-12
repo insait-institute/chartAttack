@@ -1,0 +1,100 @@
+{
+    "title": "",
+    "legend": {
+        "default": "#2876dd"
+    },
+    "categories": [
+        "Year",
+        "Country",
+        "Russia",
+        "Human",
+        "Child",
+        "Family",
+        "Citizen",
+        "Region",
+        "Development",
+        "Federation",
+        "System",
+        "Solution",
+        "Government",
+        "Work",
+        "Colleague",
+        "Income",
+        "Constitution",
+        "Life",
+        "Support",
+        "Connection",
+        "State",
+        "Society",
+        "Project",
+        "Opportunity",
+        "School",
+        "Power",
+        "Issue/question*",
+        "Thousand",
+        "Law",
+        "Problem"
+    ],
+    "data": {
+        "default": [
+            66,
+            50,
+            50,
+            43,
+            43,
+            36,
+            31,
+            29,
+            23,
+            23,
+            22,
+            21,
+            21,
+            21,
+            21,
+            19,
+            18,
+            18,
+            17,
+            17,
+            16,
+            16,
+            15,
+            15,
+            15,
+            14,
+            14,
+            14,
+            14,
+            13
+        ]
+    },
+    "colors": {
+        "default": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,64 @@
+{
+    "title": "International migrant stocks of a country",
+    "x_axis": {
+        "categories": [
+            "Guinea",
+            "Guinea-Bissau",
+            "Guyana",
+            "Haiti"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#8A2BE2",
+        "1965": "#FF7F50",
+        "1970": "#0000FF"
+    },
+    "data": {
+        "1960": [
+            0.316234105483488,
+            1.8888494128068,
+            2.48749605651676,
+            0.3759027044923129
+        ],
+        "1965": [
+            0.35633569927722,
+            1.82939350195995,
+            2.06863997761305,
+            0.297766424037837
+        ],
+        "1970": [
+            0.400385060451549,
+            1.71965699579112,
+            1.82802083498068,
+            0.236374035044946
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

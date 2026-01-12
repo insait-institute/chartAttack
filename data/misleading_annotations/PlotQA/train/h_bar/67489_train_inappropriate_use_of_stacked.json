@@ -1,0 +1,57 @@
+{
+    "title": "Value added by different sectors to the total GDP of Tonga",
+    "legend": {
+        "1997": "#f27979",
+        "1998": "#79f200",
+        "1999": "#52a5a5",
+        "2000": "#5200a5"
+    },
+    "categories": [
+        "Value added by different sectors to the total GDP of Tonga"
+    ],
+    "data": {
+        "1997": [
+            19.9087632349628
+        ],
+        "1998": [
+            19.3448100234287
+        ],
+        "1999": [
+            19.9690063810392
+        ],
+        "2000": [
+            21.28825664482461
+        ]
+    },
+    "colors": {
+        "1997": "#f27979",
+        "1998": "#79f200",
+        "1999": "#52a5a5",
+        "2000": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

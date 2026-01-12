@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of children in countries enrolled in 1st grade who reached the last grade of primary education",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Arab World": "#FF00FF",
+        "Central Europe": "#FFA07A",
+        "Bulgaria": "#483D8B",
+        "Malawi": "#00FA9A"
+    },
+    "data": {
+        "Arab World": [
+            79.0098114013672,
+            80.200439453125
+        ],
+        "Central Europe": [
+            97.93628692626949,
+            97.2682418823242
+        ],
+        "Bulgaria": [
+            93.2094573974609,
+            91.3640823364258
+        ],
+        "Malawi": [
+            32.33406066894531,
+            35.463680267334
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

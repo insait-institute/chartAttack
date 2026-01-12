@@ -1,0 +1,62 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 1982 ",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brazil": "#f27979",
+        "Bulgaria": "#79f200",
+        "Burkina Faso": "#52a5a5",
+        "Burundi": "#5200a5"
+    },
+    "data": {
+        "Brazil": [
+            0.223775121045743
+        ],
+        "Bulgaria": [
+            1.59339506946309
+        ],
+        "Burkina Faso": [
+            0.114640557713298
+        ],
+        "Burundi": [
+            0.0544621054458936
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Brazil": "#f27979",
+        "Bulgaria": "#79f200",
+        "Burkina Faso": "#52a5a5",
+        "Burundi": "#5200a5"
+    }
+}

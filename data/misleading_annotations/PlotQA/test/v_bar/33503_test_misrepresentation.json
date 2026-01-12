@@ -1,0 +1,64 @@
+{
+    "title": "Capital used up in the process of production in 1998",
+    "x_axis": {
+        "categories": [
+            "Algeria",
+            "Andorra",
+            "Angola",
+            "Antigua and Barbuda",
+            "Argentina",
+            "Armenia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Consumption of fixed capital": "#0000FF"
+    },
+    "data": {
+        "Consumption of fixed capital": [
+            8.07360545266269,
+            9.8760214749265,
+            19.6565816152307,
+            12.3935381292203,
+            12.5866901591758,
+            13.2932908172043
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Consumption of fixed capital": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

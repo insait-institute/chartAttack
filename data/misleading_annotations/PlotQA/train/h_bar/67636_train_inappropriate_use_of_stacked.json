@@ -1,0 +1,67 @@
+{
+    "title": "Number of start-up procedures to register a business",
+    "legend": {
+        "Lebanon": "#f27979",
+        "Lesotho": "#f2f200",
+        "Lithuania": "#79f279",
+        "Macedonia": "#00a5a5",
+        "Madagascar": "#5252a5",
+        "Malawi": "#a500a5"
+    },
+    "categories": [
+        "Number of start-up procedures to register a business"
+    ],
+    "data": {
+        "Lebanon": [
+            7.0
+        ],
+        "Lesotho": [
+            9.0
+        ],
+        "Lithuania": [
+            8.0
+        ],
+        "Macedonia": [
+            13.0
+        ],
+        "Madagascar": [
+            15.0
+        ],
+        "Malawi": [
+            10.0
+        ]
+    },
+    "colors": {
+        "Lebanon": "#f27979",
+        "Lesotho": "#f2f200",
+        "Lithuania": "#79f279",
+        "Macedonia": "#00a5a5",
+        "Madagascar": "#5252a5",
+        "Malawi": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

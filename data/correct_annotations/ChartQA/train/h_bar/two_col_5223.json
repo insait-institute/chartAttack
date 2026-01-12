@@ -1,0 +1,76 @@
+{
+    "title": "Average sales in U.S. dollars",
+    "categories": [
+        "Cigarettes",
+        "Packaged beverages",
+        "Beer/malt beverages",
+        "Edible grocery",
+        "Other tobacco",
+        "General merchandise",
+        "Candy/gum",
+        "Salty snacks",
+        "Non-edible grocery",
+        "Fluid milk products",
+        "Wine & Liquor",
+        "Alternative snacks",
+        "Ice cream & frozen novelties",
+        "Health & beauty care",
+        "Publications",
+        "Ice",
+        "Packaged sweet snacks",
+        "All other merchandise"
+    ],
+    "data": {
+        "Sales": [
+            433822,
+            178561,
+            133750,
+            71879,
+            69098,
+            45702,
+            45325,
+            38410,
+            26560,
+            23924,
+            17742,
+            15285,
+            13197,
+            10258,
+            7094,
+            6618,
+            4247,
+            44315
+        ]
+    },
+    "colors": {
+        "Sales": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 433830
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Sales": "#2876dd"
+    }
+}

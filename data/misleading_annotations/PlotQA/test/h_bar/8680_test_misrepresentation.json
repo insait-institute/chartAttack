@@ -1,0 +1,84 @@
+{
+    "title": "Primary income paid to resident workers of a country",
+    "legend": {
+        "Middle East & North Africa (developing only)": "#FFA500",
+        "Cabo Verde": "#708090",
+        "Suriname": "#E9967A"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Middle East & North Africa (developing only)": [
+            25151593820.043,
+            25011551352.854,
+            23793232051.875,
+            21767919939.33
+        ],
+        "Cabo Verde": [
+            59388583.18,
+            58900783.93,
+            75733493.44,
+            66293412.26
+        ],
+        "Suriname": [
+            79500000.0,
+            46200000.0,
+            21800000.0,
+            25000000.0
+        ]
+    },
+    "colors": {
+        "Middle East & North Africa (developing only)": "#FFA500",
+        "Cabo Verde": "#708090",
+        "Suriname": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25151593830
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Middle East & North Africa (developing only)": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Cabo Verde": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Suriname": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

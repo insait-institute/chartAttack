@@ -1,0 +1,67 @@
+{
+    "title": "Expenditures made by country's government on remittances and education in 1986",
+    "x_axis": {
+        "categories": [
+            "Personal remittances",
+            " received (% of GDP)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cameroon": "#00ced1",
+        "Greece": "#00b5d1",
+        "Kenya": "#00a3db",
+        "Malta": "#027cc5"
+    },
+    "data": {
+        "Cameroon": [
+            0.223480721791056,
+            2.84834
+        ],
+        "Greece": [
+            1.71515957495152,
+            1.82663
+        ],
+        "Kenya": [
+            0.720252613730955,
+            6.01379
+        ],
+        "Malta": [
+            3.19172044960382,
+            3.10572
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Cameroon": "#00ced1",
+        "Greece": "#00b5d1",
+        "Kenya": "#00a3db",
+        "Malta": "#027cc5"
+    }
+}

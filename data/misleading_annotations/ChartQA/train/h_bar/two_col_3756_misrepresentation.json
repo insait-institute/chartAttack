@@ -1,0 +1,89 @@
+{
+    "title": "",
+    "legend": {
+        "Company": "#2876dd"
+    },
+    "categories": [
+        "Google Sites",
+        "Verizon Media",
+        "Facebook",
+        "Microsoft Sites",
+        "Amazon Sites",
+        "WarnerMedia",
+        "Comcast NBCUniversal",
+        "ViacomCBS Digital",
+        "The Walt Disney Company",
+        "Apple Inc.",
+        "CafeMedia",
+        "Hearst",
+        "UPROXX",
+        "Weather Company, The",
+        "USA TODAY Network"
+    ],
+    "data": {
+        "Company": [
+            271.8,
+            220.09,
+            220.01,
+            218.46,
+            213.56,
+            203.67,
+            195.61,
+            187.17,
+            182.9,
+            174.71,
+            166.57,
+            166.33,
+            154.41,
+            153.18,
+            148.07
+        ]
+    },
+    "colors": {
+        "Company": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Company": [
+            2.0,
+            0.5,
+            1.75,
+            0.5,
+            1.25,
+            0.25,
+            1.75,
+            1.5,
+            1.75,
+            2.0,
+            0.5,
+            1.5,
+            0.5,
+            1.75,
+            0.75
+        ]
+    }
+}

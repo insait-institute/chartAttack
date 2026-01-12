@@ -1,0 +1,73 @@
+{
+    "title": "Total earnings from merchandise exports and imports in 1991",
+    "legend": {
+        "Merchandise exports": "#00BFFF",
+        "Merchandise imports": "#6B8E23"
+    },
+    "categories": [
+        "Cameroon",
+        "Canada",
+        "Central African Republic",
+        "Chad",
+        "Chile",
+        "China"
+    ],
+    "data": {
+        "Merchandise exports": [
+            1834000000.0,
+            127163000000.0,
+            126000000.0,
+            194000000.0,
+            8941000000.0,
+            71910000000.0
+        ],
+        "Merchandise imports": [
+            1173000000.0,
+            124782000000.0,
+            92000000.0,
+            249000000.0,
+            8207000000.0,
+            63791000000.0
+        ]
+    },
+    "colors": {
+        "Merchandise exports": "#00BFFF",
+        "Merchandise imports": "#6B8E23"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 126000000.0,
+                "max_value": 127163000000.0
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 92000000.0,
+                "max_value": 124782000000.0
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

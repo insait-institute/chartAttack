@@ -1,0 +1,92 @@
+{
+    "title": "Number of drone strikes",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of drone strikes"
+    },
+    "legend": {
+        "2011": "#f27979",
+        "2012": "#f29100",
+        "2013": "#daf279",
+        "2014": "#30f200",
+        "2015": "#52a574",
+        "2016": "#00a5a5",
+        "2017": "#5274a5",
+        "2018": "#2100a5",
+        "2019": "#da79f2",
+        "2020*": "#f20091"
+    },
+    "data": {
+        "2011": [
+            1.0
+        ],
+        "2012": [
+            2.0
+        ],
+        "2013": [
+            1.0
+        ],
+        "2014": [
+            3.0
+        ],
+        "2015": [
+            11.0
+        ],
+        "2016": [
+            14.0
+        ],
+        "2017": [
+            35.0
+        ],
+        "2018": [
+            45.0
+        ],
+        "2019": [
+            63.0
+        ],
+        "2020*": [
+            12.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2011": "#f27979",
+        "2012": "#f29100",
+        "2013": "#daf279",
+        "2014": "#30f200",
+        "2015": "#52a574",
+        "2016": "#00a5a5",
+        "2017": "#5274a5",
+        "2018": "#2100a5",
+        "2019": "#da79f2",
+        "2020*": "#f20091"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Mortality rate in different countries in 1986",
+    "x_axis": {
+        "categories": [
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt, Arab Rep.",
+            "El Salvador",
+            "Equatorial Guinea"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Infant": "#B8860B",
+        "Under five": "#FF0000"
+    },
+    "data": {
+        "Infant": [
+            13.8,
+            52.9,
+            52.3,
+            78.4,
+            56.2,
+            137.7
+        ],
+        "Under five": [
+            17.0,
+            70.1,
+            69.1,
+            110.1,
+            75.2,
+            205.1
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 210
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Infant": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Under five": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

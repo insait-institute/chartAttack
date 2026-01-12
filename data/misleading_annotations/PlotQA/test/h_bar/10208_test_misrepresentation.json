@@ -1,0 +1,84 @@
+{
+    "title": "Amount of agricultural raw materials,food and fuel imports of Nepal",
+    "legend": {
+        "Agricultural raw materials": "#A52A2A",
+        "Food": "#DAA520",
+        "Fuel": "#006400"
+    },
+    "categories": [
+        "2003",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Agricultural raw materials": [
+            4.61891660553419,
+            1.95173486642275,
+            1.88081520015596,
+            2.31342675279209
+        ],
+        "Food": [
+            12.6108023444755,
+            17.28217178972999,
+            15.3697205035114,
+            14.1535272474696
+        ],
+        "Fuel": [
+            16.3215712695727,
+            15.5852681066398,
+            17.17490023962669,
+            18.191222905962
+        ]
+    },
+    "colors": {
+        "Agricultural raw materials": "#A52A2A",
+        "Food": "#DAA520",
+        "Fuel": "#006400"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Agricultural raw materials": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Food": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Fuel": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

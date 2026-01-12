@@ -1,0 +1,77 @@
+{
+    "title": "CO2 emissions from liquid fuel consumption",
+    "legend": {
+        "Low income": "#DC143C",
+        "France": "#8A2BE2",
+        "Ghana": "#BC8F8F",
+        "Guatemala": "#B8860B"
+    },
+    "categories": [
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981"
+    ],
+    "data": {
+        "Low income": [
+            61.2123377396689,
+            63.593023255814,
+            65.6669553919446,
+            65.33628972653361,
+            64.9912203687445
+        ],
+        "France": [
+            63.3481022794,
+            64.9957593023509,
+            63.7856717162617,
+            62.0691656870855,
+            61.2235681220665
+        ],
+        "Ghana": [
+            89.6214896214896,
+            91.358024691358,
+            94.7586206896552,
+            93.98280802292273,
+            93.26113116726827
+        ],
+        "Guatemala": [
+            93.55769230769228,
+            93.7833037300177,
+            93.90625,
+            93.73983739837401,
+            92.7911275415897
+        ]
+    },
+    "colors": {
+        "Low income": "#DC143C",
+        "France": "#8A2BE2",
+        "Ghana": "#BC8F8F",
+        "Guatemala": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in the year 2002",
+    "x_axis": {
+        "categories": [
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: nonOECD",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#A0522D",
+        "Male": "#FF8C00"
+    },
+    "data": {
+        "Female": [
+            96.36749267578129,
+            99.8592529296875,
+            100.921966552734,
+            99.51941680908199,
+            115.027587890625,
+            116.586692810059
+        ],
+        "Male": [
+            110.446403503418,
+            99.9925994873047,
+            102.585021972656,
+            99.17420196533199,
+            120.041717529297,
+            122.274551391602
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

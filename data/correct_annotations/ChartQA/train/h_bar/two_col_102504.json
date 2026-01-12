@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Company": "#2876dd"
+    },
+    "categories": [
+        "Apple",
+        "Amazon",
+        "Walmart",
+        "Target",
+        "Google",
+        "Kaiser Permanente",
+        "Switch",
+        "Prologis",
+        "Facebook",
+        "Solvay"
+    ],
+    "data": {
+        "Company": [
+            398.3,
+            369,
+            331,
+            284.8,
+            245.3,
+            181.8,
+            179,
+            133.7,
+            119.5,
+            81.4
+        ]
+    },
+    "colors": {
+        "Company": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

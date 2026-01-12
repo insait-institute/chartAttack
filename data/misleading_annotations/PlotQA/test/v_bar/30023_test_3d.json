@@ -1,0 +1,71 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1991",
+    "x_axis": {
+        "categories": [
+            "Industry",
+            "Manufacturing",
+            "Services",
+            "Agriculture"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Mongolia": "#DB7093",
+        "Sierra Leone": "#2E8B57",
+        "Suriname": "#66CDAA",
+        "Togo": "#E9967A"
+    },
+    "data": {
+        "Mongolia": [
+            816876200.0,
+            403639831.578947,
+            1046479547.36842,
+            280999410.526316
+        ],
+        "Sierra Leone": [
+            263565020.06811,
+            39296522.4981564,
+            188050417.106549,
+            286604578.657715
+        ],
+        "Suriname": [
+            81000000,
+            36500000,
+            323400000,
+            39500000
+        ],
+        "Togo": [
+            403067700.577334,
+            178119314.345023,
+            673290545.534335,
+            525941645.879629
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1046479550
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

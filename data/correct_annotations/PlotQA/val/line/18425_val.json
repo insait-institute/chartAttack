@@ -1,0 +1,79 @@
+{
+    "title": "Percentage of the unemployed labor force with different levels of education in Tunisia",
+    "legend": {
+        "Primary education": "#556B2F",
+        "Secondary education": "#00FFFF",
+        "Tertiary education": "#FFA500"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Unemployed and educated labor force (% of population)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#556B2F",
+            "values": [
+                38.2000007629395,
+                33.7999992370605,
+                30.2999992370605,
+                26.89999961853031,
+                24.10000038146969
+            ]
+        },
+        {
+            "label": "Secondary education",
+            "color": "#00FFFF",
+            "values": [
+                36.0999984741211,
+                39.7999992370605,
+                40.0999984741211,
+                39.7000007629395,
+                39.4000015258789
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "color": "#FFA500",
+            "values": [
+                19.2000007629395,
+                22.2000007629395,
+                25.89999961853031,
+                28.39999961853031,
+                32.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

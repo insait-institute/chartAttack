@@ -1,0 +1,82 @@
+{
+    "title": "Turnover in million euros",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Turnover in million euros"
+    },
+    "legend": {
+        "2011": "#f27979",
+        "2012": "#f2b500",
+        "2013": "#b5f279",
+        "2014": "#00a529",
+        "2015": "#52a5a5",
+        "2016": "#0029a5",
+        "2017": "#b579f2",
+        "2018": "#f200b5"
+    },
+    "data": {
+        "2011": [
+            213.7
+        ],
+        "2012": [
+            248.4
+        ],
+        "2013": [
+            293.0
+        ],
+        "2014": [
+            374.8
+        ],
+        "2015": [
+            442.5
+        ],
+        "2016": [
+            412.4
+        ],
+        "2017": [
+            431.0
+        ],
+        "2018": [
+            508.21
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 510
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2011": "#f27979",
+        "2012": "#f2b500",
+        "2013": "#b5f279",
+        "2014": "#00a529",
+        "2015": "#52a5a5",
+        "2016": "#0029a5",
+        "2017": "#b579f2",
+        "2018": "#f200b5"
+    }
+}

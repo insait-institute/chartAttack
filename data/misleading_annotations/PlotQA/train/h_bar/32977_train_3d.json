@@ -1,0 +1,53 @@
+{
+    "title": "Educated female labor force in different countries in the year 2014",
+    "legend": {
+        "Euro area": "#D2B48C",
+        "Iceland": "#A020F0"
+    },
+    "categories": [
+        "Primary education",
+        "Secondary education",
+        "Tertiary education"
+    ],
+    "data": {
+        "Euro area": [
+            20.7671444179248,
+            45.899387375034,
+            33.1985892393513
+        ],
+        "Iceland": [
+            30.2999992370605,
+            31.60000038146969,
+            38.0999984741211
+        ]
+    },
+    "colors": {
+        "Euro area": "#D2B48C",
+        "Iceland": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,81 @@
+{
+    "title": "Net income from abroad in constant 2005 US$",
+    "x_axis": {
+        "categories": [
+            "Nicaragua",
+            "Niger",
+            "Pakistan",
+            "Philippines",
+            "Portugal",
+            "Seychelles"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#663399",
+        "1961": "#8FBC8F",
+        "1962": "#00FF7F",
+        "1963": "#20B2AA"
+    },
+    "data": {
+        "1960": [
+            -5800990.17366056,
+            1223879.67087669,
+            96021186.8839946,
+            -94641292.0364658,
+            -21655708.4975172,
+            -42000.0882789774
+        ],
+        "1961": [
+            -6601241.76815605,
+            1632119.93044964,
+            105549410.151605,
+            -52223472.31669579,
+            -27545972.97529551,
+            -42000.0882789774
+        ],
+        "1962": [
+            -7559753.18450151,
+            1637137.24296007,
+            110658229.885173,
+            -14481549.69613419,
+            -33615180.4871917,
+            -42000.0882789774
+        ],
+        "1963": [
+            -7626013.272543599,
+            -2449144.30524825,
+            111966503.69664,
+            -16388910.5495052,
+            -30856981.8204221,
+            -63000.132418466
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 111966510
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

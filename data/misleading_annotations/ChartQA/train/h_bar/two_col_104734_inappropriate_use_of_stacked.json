@@ -1,0 +1,67 @@
+{
+    "title": "",
+    "legend": {
+        "Sky": "#f27979",
+        "BBC": "#f2f200",
+        "ITV": "#79f279",
+        "Pearson": "#00a5a5",
+        "Elsevier": "#5252a5",
+        "LexisNexis": "#a500a5"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Sky": [
+            8697.0
+        ],
+        "BBC": [
+            6006.0
+        ],
+        "ITV": [
+            3087.0
+        ],
+        "Pearson": [
+            3081.0
+        ],
+        "Elsevier": [
+            2871.0
+        ],
+        "LexisNexis": [
+            2270.0
+        ]
+    },
+    "colors": {
+        "Sky": "#f27979",
+        "BBC": "#f2f200",
+        "ITV": "#79f279",
+        "Pearson": "#00a5a5",
+        "Elsevier": "#5252a5",
+        "LexisNexis": "#a500a5"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8700
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

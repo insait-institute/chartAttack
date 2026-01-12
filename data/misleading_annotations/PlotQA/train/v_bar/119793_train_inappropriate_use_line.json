@@ -1,0 +1,68 @@
+{
+    "title": "Total reserves (excluding gold) of a country",
+    "x_axis": {
+        "categories": [
+            "Colombia",
+            "Congo (Republic)",
+            "Costa Rica",
+            "Cyprus",
+            "Denmark"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#0000FF",
+        "1961": "#191970",
+        "1962": "#00CED1"
+    },
+    "data": {
+        "1960": [
+            91999999.975,
+            5060000.0,
+            11339999.99862,
+            27400000.0,
+            179109999.96669
+        ],
+        "1961": [
+            52000000.0,
+            3160000.0,
+            4170000.0,
+            44700000.0,
+            175709999.96669
+        ],
+        "1962": [
+            28000000.0,
+            8380000.0,
+            10509999.9996,
+            52349999.99805,
+            163709999.96669
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 179110000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Total interest payments of a country to exports of goods, services and primary income in 1996",
+    "legend": {
+        "Interest payments on external debt": "#A52A2A"
+    },
+    "categories": [
+        "Belarus",
+        "Belize",
+        "Benin",
+        "Bolivia"
+    ],
+    "data": {
+        "Interest payments on external debt": [
+            1.4244115649272,
+            4.10594556895814,
+            2.5733558330642,
+            13.6895932256453
+        ]
+    },
+    "colors": {
+        "Interest payments on external debt": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

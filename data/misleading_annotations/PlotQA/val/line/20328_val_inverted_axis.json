@@ -1,0 +1,106 @@
+{
+    "title": "Enrolment ratio of female students in different levels of education in Tajikistan",
+    "legend": {
+        "Pre-primary schools": "#FFA07A",
+        "Primary schools": "#FF00FF",
+        "Secondary schools": "#000000",
+        "Tertiary schools": "#663399"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "y_axis_label": "Gross enrolment ratio (%)",
+    "data": [
+        {
+            "label": "Pre-primary schools",
+            "color": "#FFA07A",
+            "values": [
+                9.75553,
+                8.68586,
+                7.374960000000002,
+                6.7263298034668,
+                6.6636300086975,
+                6.93669986724854,
+                7.7734899520874,
+                8.30228996276855
+            ]
+        },
+        {
+            "label": "Primary schools",
+            "color": "#FF00FF",
+            "values": [
+                86.3565,
+                88.44774,
+                91.87767,
+                91.8042221069335,
+                91.6835174560547,
+                91.24842071533199,
+                94.41027069091801,
+                96.6227188110352
+            ]
+        },
+        {
+            "label": "Secondary schools",
+            "color": "#000000",
+            "values": [
+                73.1389389038085,
+                72.90545654296879,
+                73.7050018310547,
+                75.28814697265629,
+                77.5233612060547,
+                78.6005172729492,
+                78.5078964233398,
+                79.9295425415039
+            ]
+        },
+        {
+            "label": "Tertiary schools",
+            "color": "#663399",
+            "values": [
+                12.6965103149414,
+                13.5252304077148,
+                14.4502000808716,
+                15.0581998825073,
+                15.5310401916504,
+                15.6101703643799,
+                15.6609296798706,
+                15.1093101501465
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

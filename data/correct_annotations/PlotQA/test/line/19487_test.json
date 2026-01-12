@@ -1,0 +1,95 @@
+{
+    "title": "Amount of CO2 emissions from various sources in Sub-Saharan Africa (developing only)",
+    "legend": {
+        "Gaseous fuel": "#40E0D0",
+        "Liquid fuel": "#B8860B",
+        "Solid fuel": "#DB7093"
+    },
+    "x_axis": [
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "y_axis_label": "Emissions(kt)",
+    "data": [
+        {
+            "label": "Gaseous fuel",
+            "color": "#40E0D0",
+            "values": [
+                457026.23310313,
+                457011.511098439,
+                469341.190026529,
+                474111.119546172,
+                487865.999944557,
+                503026.509285739,
+                512959.383641767,
+                509858.119537274,
+                517256.271511338
+            ]
+        },
+        {
+            "label": "Liquid fuel",
+            "color": "#B8860B",
+            "values": [
+                135231.663581045,
+                151658.62290765,
+                132311.150115604,
+                126172.869905798,
+                128458.018907973,
+                138336.836753414,
+                137542.970054607,
+                141161.453065895,
+                132979.250664859
+            ]
+        },
+        {
+            "label": "Solid fuel",
+            "color": "#DB7093",
+            "values": [
+                412644.248400138,
+                388891.484726787,
+                429419.318486866,
+                444508.708570969,
+                458647.988108138,
+                464294.2857146121,
+                475908.796537702,
+                467881.086793026,
+                485551.439102174
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 126170,
+                "max_value": 517260
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

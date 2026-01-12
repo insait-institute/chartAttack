@@ -1,0 +1,67 @@
+{
+    "title": "Value added in manufacturing (in %) by advanced machineries",
+    "legend": {
+        "Canada": "#f27979",
+        "Colombia": "#f2f200",
+        "Costa Rica": "#79f279",
+        "Cyprus": "#00a5a5",
+        "Kenya": "#5252a5",
+        "Singapore": "#a500a5"
+    },
+    "categories": [
+        "Value added in manufacturing (in %) by advanced machineries"
+    ],
+    "data": {
+        "Canada": [
+            14.1304347773297
+        ],
+        "Colombia": [
+            3.63822998486273
+        ],
+        "Costa Rica": [
+            1.43114194807453
+        ],
+        "Cyprus": [
+            3.64148236478971
+        ],
+        "Kenya": [
+            11.323645012162
+        ],
+        "Singapore": [
+            9.44409281966253
+        ]
+    },
+    "colors": {
+        "Canada": "#f27979",
+        "Colombia": "#f2f200",
+        "Costa Rica": "#79f279",
+        "Cyprus": "#00a5a5",
+        "Kenya": "#5252a5",
+        "Singapore": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

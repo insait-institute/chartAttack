@@ -1,0 +1,75 @@
+{
+    "title": "Number of drone strikes",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of drone strikes"
+    },
+    "legend": {
+        "Minimum strikes": "#2876dd",
+        "Maximum strikes": "#0f283e"
+    },
+    "data": {
+        "Minimum strikes": [
+            1,
+            2,
+            1,
+            3,
+            11,
+            14,
+            35,
+            45,
+            63,
+            12
+        ],
+        "Maximum strikes": [
+            4,
+            2,
+            1,
+            3,
+            11,
+            14,
+            35,
+            45,
+            63,
+            12
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

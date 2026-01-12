@@ -1,0 +1,72 @@
+{
+    "title": "Cereal yield of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Malawi": "#f27979",
+        "Malaysia": "#f2f200",
+        "Maldives": "#79f279",
+        "Mali": "#00a5a5",
+        "Malta": "#5252a5",
+        "Mauritania": "#a500a5"
+    },
+    "data": {
+        "Malawi": [
+            984.461
+        ],
+        "Malaysia": [
+            2097.044
+        ],
+        "Maldives": [
+            888.268
+        ],
+        "Mali": [
+            707.5110000000002
+        ],
+        "Malta": [
+            1360.373
+        ],
+        "Mauritania": [
+            369.844
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2150
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Malawi": "#f27979",
+        "Malaysia": "#f2f200",
+        "Maldives": "#79f279",
+        "Mali": "#00a5a5",
+        "Malta": "#5252a5",
+        "Mauritania": "#a500a5"
+    }
+}

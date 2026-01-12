@@ -1,0 +1,92 @@
+{
+    "title": "",
+    "legend": {
+        "Morgan Stanley": "#f27979",
+        "Bank of America Merrill Lynch": "#f28400",
+        "Mizuho Financial Group": "#e7f279",
+        "Raine Group": "#58f200",
+        "SEB": "#52a561",
+        "Nordea": "#00a578",
+        "Citi": "#528fa5",
+        "Moelis & Company": "#001ea5",
+        "JPMorgan": "#a579f2",
+        "Credit Suisse": "#dc00f2",
+        "Perella Weinberg Partners": "#f279bb"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Morgan Stanley": [
+            9.22
+        ],
+        "Bank of America Merrill Lynch": [
+            8.6
+        ],
+        "Mizuho Financial Group": [
+            8.6
+        ],
+        "Raine Group": [
+            8.6
+        ],
+        "SEB": [
+            3.58
+        ],
+        "Nordea": [
+            3.37
+        ],
+        "Citi": [
+            2.71
+        ],
+        "Moelis & Company": [
+            1.4
+        ],
+        "JPMorgan": [
+            1.37
+        ],
+        "Credit Suisse": [
+            1.28
+        ],
+        "Perella Weinberg Partners": [
+            1.28
+        ]
+    },
+    "colors": {
+        "Morgan Stanley": "#f27979",
+        "Bank of America Merrill Lynch": "#f28400",
+        "Mizuho Financial Group": "#e7f279",
+        "Raine Group": "#58f200",
+        "SEB": "#52a561",
+        "Nordea": "#00a578",
+        "Citi": "#528fa5",
+        "Moelis & Company": "#001ea5",
+        "JPMorgan": "#a579f2",
+        "Credit Suisse": "#dc00f2",
+        "Perella Weinberg Partners": "#f279bb"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

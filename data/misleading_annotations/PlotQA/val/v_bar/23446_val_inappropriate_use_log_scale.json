@@ -1,0 +1,57 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 1989 ",
+    "x_axis": {
+        "categories": [
+            "Coal",
+            "Minerals",
+            "Energy",
+            "Water"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Arab World": "#008080",
+        "Tunisia": "#FF1493"
+    },
+    "data": {
+        "Arab World": [
+            0.7789883750831831,
+            0.0473252207057744,
+            10.6206266791756,
+            11.32695465111181
+        ],
+        "Tunisia": [
+            0.647692815149196,
+            0.0782850552594986,
+            2.6935225195449,
+            3.20221099839023
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

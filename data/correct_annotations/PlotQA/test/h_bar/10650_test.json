@@ -1,0 +1,60 @@
+{
+    "title": "Transfers recorded in the balance of payments as the secondary income of a country",
+    "legend": {
+        "Lesotho": "#00FA9A",
+        "Macao": "#87CEEB",
+        "Mexico": "#FF69B4"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Lesotho": [
+            117581.7371,
+            90196.09476,
+            301536.7656
+        ],
+        "Macao": [
+            665122842.6,
+            802735881.0,
+            569393621.2
+        ],
+        "Mexico": [
+            107701905,
+            128237715,
+            60375853
+        ]
+    },
+    "colors": {
+        "Lesotho": "#00FA9A",
+        "Macao": "#87CEEB",
+        "Mexico": "#FF69B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 802735890
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

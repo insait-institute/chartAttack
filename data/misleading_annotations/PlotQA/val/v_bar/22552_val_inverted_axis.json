@@ -1,0 +1,63 @@
+{
+    "title": "Payments made towards primary income, imports of goods and services by countries",
+    "x_axis": {
+        "categories": [
+            "Caribbean small states",
+            "Central Europe",
+            "East Asia (all income levels)",
+            "East Asia (developing only)",
+            "Euro area",
+            "Europe(all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Goods and services": "#4682B4",
+        "Primary income": "#6B8E23"
+    },
+    "data": {
+        "Goods and services": [
+            23660157854.1,
+            435175931900.0,
+            2976215520401.48,
+            1097136838942.28,
+            3644610278532.0,
+            5632414051595.5
+        ],
+        "Primary income": [
+            26642008508.49,
+            484921034544.0,
+            3308069467304.77,
+            1199339915996.92,
+            4617694050972.0,
+            7164966036963.7
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7164966036970
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

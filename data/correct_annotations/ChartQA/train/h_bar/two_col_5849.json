@@ -1,0 +1,60 @@
+{
+    "title": "Number of interactions in millions",
+    "categories": [
+        "BTS / @btw_twt (K-Pop group)",
+        "Donald Trump",
+        "Ariana Grande",
+        "BTS / @bts_bighit (BTS official account)",
+        "Bleacher Report",
+        "Alexandria Ocasio-Cortez",
+        "Got7",
+        "Miley Cyrus",
+        "Charlie Kirk",
+        "Shane Dawson"
+    ],
+    "data": {
+        "Interactions": [
+            407,
+            104.1,
+            101.8,
+            56.8,
+            49.7,
+            36.9,
+            27.8,
+            24.5,
+            24.4,
+            23.2
+        ]
+    },
+    "colors": {
+        "Interactions": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 410
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Interactions": "#2876dd"
+    }
+}

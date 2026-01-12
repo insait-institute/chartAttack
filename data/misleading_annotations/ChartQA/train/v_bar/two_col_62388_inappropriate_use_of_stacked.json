@@ -1,0 +1,97 @@
+{
+    "title": "Deaths per 1,000 live births",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Deaths per 1,000 live births"
+    },
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#f28400",
+        "2011": "#e7f279",
+        "2012": "#58f200",
+        "2013": "#52a561",
+        "2014": "#00a578",
+        "2015": "#528fa5",
+        "2016": "#001ea5",
+        "2017": "#a579f2",
+        "2018": "#dc00f2",
+        "2019": "#f279bb"
+    },
+    "data": {
+        "2009": [
+            3.6
+        ],
+        "2010": [
+            3.5
+        ],
+        "2011": [
+            3.5
+        ],
+        "2012": [
+            3.4
+        ],
+        "2013": [
+            3.3
+        ],
+        "2014": [
+            3.3
+        ],
+        "2015": [
+            3.2
+        ],
+        "2016": [
+            3.1
+        ],
+        "2017": [
+            3.0
+        ],
+        "2018": [
+            2.9
+        ],
+        "2019": [
+            2.8
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#f28400",
+        "2011": "#e7f279",
+        "2012": "#58f200",
+        "2013": "#52a561",
+        "2014": "#00a578",
+        "2015": "#528fa5",
+        "2016": "#001ea5",
+        "2017": "#a579f2",
+        "2018": "#dc00f2",
+        "2019": "#f279bb"
+    }
+}

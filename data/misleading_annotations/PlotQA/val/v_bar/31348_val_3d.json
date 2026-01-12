@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of total land area covered by forest land",
+    "x_axis": {
+        "categories": [
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Ireland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#00FA9A",
+        "1991": "#FF00FF",
+        "1992": "#663399",
+        "1993": "#F4A460"
+    },
+    "data": {
+        "1990": [
+            21.5051846669739,
+            65.4377142478624,
+            5.57309262841178,
+            1.8382605116949,
+            6.749891130788209
+        ],
+        "1991": [
+            21.5539874680057,
+            64.38139293540961,
+            5.58841914586595,
+            1.84146146283467,
+            6.99666134417187
+        ],
+        "1992": [
+            21.6027902690376,
+            63.3250716229569,
+            5.60374566332013,
+            1.84466241397444,
+            7.24328639860647
+        ],
+        "1993": [
+            21.6515930700695,
+            62.26875031050421,
+            5.619072180774308,
+            1.84786336511421,
+            7.49005661199013
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

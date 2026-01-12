@@ -1,0 +1,50 @@
+{
+    "title": "Government expenditure per student as % of GDP per capita in Estonia",
+    "legend": {
+        "Government expenditure per tertiary student": "#708090"
+    },
+    "categories": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2007"
+    ],
+    "data": {
+        "Government expenditure per tertiary student": [
+            24.5541591644287,
+            21.9984798431396,
+            17.7190704345703,
+            18.3581199645996,
+            19.9896392822266
+        ]
+    },
+    "colors": {
+        "Government expenditure per tertiary student": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

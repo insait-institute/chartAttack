@@ -1,0 +1,56 @@
+{
+    "title": "Reserves in million tons",
+    "x_axis": {
+        "categories": [
+            "2008",
+            "2011",
+            "2012",
+            "2014",
+            "2016",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Reserves in million tons"
+    },
+    "legend": {
+        "Series 1": "#2876dd"
+    },
+    "data": {
+        "Series 1": [
+            30408,
+            30156,
+            30156,
+            30156,
+            9893,
+            9893,
+            9893
+        ]
+    },
+    "type": "line",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30410
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

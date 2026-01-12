@@ -1,0 +1,76 @@
+{
+    "title": "Food and tobacco (% of value added in manufacturing )",
+    "x_axis": {
+        "categories": [
+            "Colombia",
+            "Costa Rica",
+            "Cyprus",
+            "Kenya",
+            "Singapore"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1963": "#4169E1",
+        "1964": "#FFA07A",
+        "1965": "#4682B4",
+        "1966": "#F4A460"
+    },
+    "data": {
+        "1963": [
+            32.960766419471,
+            57.9203465111218,
+            38.7545074810284,
+            39.2172328801176,
+            21.68643516538111
+        ],
+        "1964": [
+            35.6202356506149,
+            56.06592407739311,
+            40.95804467200829,
+            38.1682464726779,
+            24.127877236225
+        ],
+        "1965": [
+            35.78044596570429,
+            52.73485980742071,
+            41.85339695442379,
+            36.2048591334489,
+            24.7901886796057
+        ],
+        "1966": [
+            33.4104882338814,
+            52.0048323664046,
+            42.1866679842201,
+            36.254907990796,
+            23.03649144749189
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

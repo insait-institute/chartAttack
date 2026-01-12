@@ -1,0 +1,67 @@
+{
+    "title": "Earning from merchandise imports by the reporting economy",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Latin America(developing only)": "#f27979",
+        "Least developed countries": "#c1f200",
+        "Low & middle income": "#52a574",
+        "Low income": "#0042a5",
+        "Lower middle income": "#da79f2"
+    },
+    "data": {
+        "Latin America(developing only)": [
+            4987435000.0
+        ],
+        "Least developed countries": [
+            1476093000.0
+        ],
+        "Low & middle income": [
+            18719845000.0
+        ],
+        "Low income": [
+            708793000.0
+        ],
+        "Lower middle income": [
+            8750620000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 19768025000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Latin America(developing only)": "#f27979",
+        "Least developed countries": "#c1f200",
+        "Low & middle income": "#52a574",
+        "Low income": "#0042a5",
+        "Lower middle income": "#da79f2"
+    }
+}

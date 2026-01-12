@@ -1,0 +1,51 @@
+{
+    "title": "Percentage of infants who were provided with ARI treatment in Iraq",
+    "legend": {
+        "ARI treatment": "#DAA520"
+    },
+    "x_axis": [
+        "2000",
+        "2006",
+        "2011"
+    ],
+    "y_axis_label": "% of children under 5 taken to a health provider",
+    "data": [
+        {
+            "label": "ARI treatment",
+            "color": "#DAA520",
+            "values": [
+                76.0,
+                82.0,
+                74.4
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 70,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

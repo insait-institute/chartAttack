@@ -1,0 +1,88 @@
+{
+    "title": "Net incurrence of foreign liabilities",
+    "legend": {
+        "Europe(all income levels)": "#228b22",
+        "Ghana": "#228b2f",
+        "Honduras": "#24933f",
+        "Maldives": "#228144"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Europe(all income levels)": [
+            0.179468340714936,
+            0.21286402397944,
+            0.445373474187819,
+            0.342122406388773,
+            3.12061039788961,
+            2.16668610991559
+        ],
+        "Ghana": [
+            2.51526551293018,
+            1.20269825991592,
+            1.41381832627737,
+            2.49395026236805,
+            2.61082751018155,
+            2.62549032597234
+        ],
+        "Honduras": [
+            1.66479906654462,
+            0.812787946947956,
+            1.08349203141537,
+            2.68659526120459,
+            0.9484733641425059,
+            2.52800231216963
+        ],
+        "Maldives": [
+            1.63951316298253,
+            2.85280843265967,
+            3.12016941969975,
+            2.75827701686679,
+            3.62868852528569,
+            4.12985505587421
+        ]
+    },
+    "colors": {
+        "Europe(all income levels)": "#228B22",
+        "Ghana": "#A0522D",
+        "Honduras": "#FF7F50",
+        "Maldives": "#8B0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Europe(all income levels)": "#228b22",
+        "Ghana": "#228b2f",
+        "Honduras": "#24933f",
+        "Maldives": "#228144"
+    }
+}

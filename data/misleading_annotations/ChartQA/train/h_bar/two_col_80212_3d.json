@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Stores": "#2876dd"
+    },
+    "categories": [
+        "Foot Locker",
+        "Champs Sports",
+        "Kids Foot Locker",
+        "Footaction",
+        "Lady Foot Locker"
+    ],
+    "data": {
+        "Stores": [
+            867,
+            503,
+            376,
+            240,
+            46
+        ]
+    },
+    "colors": {
+        "Stores": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 870
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

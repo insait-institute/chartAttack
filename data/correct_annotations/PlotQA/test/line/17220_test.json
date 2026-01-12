@@ -1,0 +1,79 @@
+{
+    "title": "Number of patent applications filed by Arab World",
+    "legend": {
+        "Non-residents": "#A52A2A",
+        "Residents": "#2F4F4F"
+    },
+    "x_axis": [
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980"
+    ],
+    "y_axis_label": "Number of applications filed",
+    "data": [
+        {
+            "label": "Non-residents",
+            "color": "#A52A2A",
+            "values": [
+                1953,
+                1841,
+                2176,
+                2305,
+                1984,
+                1846,
+                2002,
+                2127,
+                1948
+            ]
+        },
+        {
+            "label": "Residents",
+            "color": "#2F4F4F",
+            "values": [
+                214,
+                209,
+                142,
+                149,
+                165,
+                162,
+                171,
+                193,
+                549
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 140,
+                "max_value": 2310
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

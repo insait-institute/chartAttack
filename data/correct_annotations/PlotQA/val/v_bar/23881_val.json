@@ -1,0 +1,57 @@
+{
+    "title": "Value added in manufacturing in 2000",
+    "x_axis": {
+        "categories": [
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Japan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chemicals": "#A52A2A",
+        "Food and tobacco": "#6495ED"
+    },
+    "data": {
+        "Chemicals": [
+            36.4515556590551,
+            10.2712425433788,
+            7.85663910964564,
+            10.4006170318898
+        ],
+        "Food and tobacco": [
+            18.0031023120896,
+            10.3781430501581,
+            13.6963208330062,
+            11.5791705444213
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

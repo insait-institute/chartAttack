@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of ores and metals imported from different countries",
+    "x_axis": {
+        "categories": [
+            "Chile",
+            "Denmark",
+            "France",
+            "Germany",
+            "Greece"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#E9967A",
+        "1963": "#00FF00",
+        "1964": "#C71585",
+        "1965": "#BC8F8F"
+    },
+    "data": {
+        "1962": [
+            1.63477114949108,
+            3.24509060859627,
+            7.05983698960944,
+            10.2970635331295,
+            2.57068124636824
+        ],
+        "1963": [
+            1.92377189940883,
+            3.08765684582267,
+            6.542044891159017,
+            9.94619388148919,
+            2.49897225484447
+        ],
+        "1964": [
+            2.43378384806715,
+            3.22421305264308,
+            7.25510489401921,
+            12.4520205280916,
+            2.4155871318216
+        ],
+        "1965": [
+            2.52765754921455,
+            3.63794091959997,
+            7.69525007274395,
+            12.586514521418,
+            2.71866121017449
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

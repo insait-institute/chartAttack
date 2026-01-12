@@ -1,0 +1,64 @@
+{
+    "title": "Areawise split of the land in different countries in 2012",
+    "x_axis": {
+        "categories": [
+            "Terrestrial protected areas",
+            "Agricultural land",
+            "Arable land",
+            "Permanent crop land"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ireland": "#F4A460",
+        "Philippines": "#32CD32",
+        "Turkey": "#BDB76B"
+    },
+    "data": {
+        "Ireland": [
+            14.270418902338,
+            65.8005516040064,
+            16.9835970387574,
+            0.0145158949049209
+        ],
+        "Philippines": [
+            10.9061324154282,
+            41.6876278632995,
+            18.7141563537579,
+            17.9427843176711
+        ],
+        "Turkey": [
+            2.05249575194583,
+            49.9032002390759,
+            26.736223899796,
+            4.17473331341034
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

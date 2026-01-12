@@ -1,0 +1,57 @@
+{
+    "title": "Pupil-teacher ratio in primary vs secondary education in different countries",
+    "x_axis": {
+        "categories": [
+            "Europe(developing only)",
+            "European Union",
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary education": "#87CEEB",
+        "Secondary Education": "#6B8E23"
+    },
+    "data": {
+        "Primary education": [
+            24.2881298065186,
+            18.3932094573975,
+            36.95164108276371,
+            42.01588821411129
+        ],
+        "Secondary Education": [
+            22.112190246582,
+            25.4903106689453,
+            14.2657403945923,
+            15.7816295623779
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

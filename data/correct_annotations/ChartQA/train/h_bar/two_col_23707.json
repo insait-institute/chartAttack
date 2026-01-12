@@ -1,0 +1,88 @@
+{
+    "title": "",
+    "categories": [
+        "Nevada",
+        "New Jersey",
+        "Pennsylvania",
+        "Mississippi",
+        "Louisiana",
+        "Indiana",
+        "Missouri",
+        "Ohio",
+        "New York",
+        "Michigan",
+        "Iowa",
+        "Illinois",
+        "Maryland",
+        "Colorado",
+        "West Virginia",
+        "Florida",
+        "Delaware",
+        "Rhode Island",
+        "Kansas",
+        "New Mexico",
+        "Massachusetts",
+        "Maine",
+        "South Dakota",
+        "Oklahoma"
+    ],
+    "data": {
+        "Jobs": [
+            409444,
+            39007,
+            33171,
+            32884,
+            32717,
+            22133,
+            19987,
+            19953,
+            17247,
+            16371,
+            15662,
+            15396,
+            15364,
+            9638,
+            8347,
+            8180,
+            5299,
+            5215,
+            3685,
+            2299,
+            1646,
+            1468,
+            1175,
+            1162
+        ]
+    },
+    "colors": {
+        "Jobs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 409450
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Jobs": "#2876dd"
+    }
+}

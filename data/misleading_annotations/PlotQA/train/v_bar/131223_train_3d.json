@@ -1,0 +1,64 @@
+{
+    "title": "Net energy imports of a country",
+    "x_axis": {
+        "categories": [
+            "Poland",
+            "Portugal",
+            "Spain",
+            "Sweden"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#32CD32",
+        "1961": "#A0522D",
+        "1962": "#FF8C00"
+    },
+    "data": {
+        "1960": [
+            -19.6273506939111,
+            57.57389123357861,
+            39.1004911827554,
+            72.8579355204863
+        ],
+        "1961": [
+            -17.6999364814919,
+            59.7427313541302,
+            41.954707137333,
+            71.2241491743055
+        ],
+        "1962": [
+            -14.7122901351909,
+            60.85374485808372,
+            50.3985524980173,
+            72.0382440692465
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

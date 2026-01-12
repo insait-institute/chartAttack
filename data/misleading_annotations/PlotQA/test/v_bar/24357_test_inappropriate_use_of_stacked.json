@@ -1,0 +1,62 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 2000",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Compensation of employees": "#f27979",
+        "Goods and services": "#79f200",
+        "Subsidies and Transfers": "#52a5a5",
+        "Other expenses": "#5200a5"
+    },
+    "data": {
+        "Compensation of employees": [
+            29.2046877881601
+        ],
+        "Goods and services": [
+            24.2483344347452
+        ],
+        "Subsidies and Transfers": [
+            21.8852296827934
+        ],
+        "Other expenses": [
+            15.2171094086187
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Compensation of employees": "#f27979",
+        "Goods and services": "#79f200",
+        "Subsidies and Transfers": "#52a5a5",
+        "Other expenses": "#5200a5"
+    }
+}

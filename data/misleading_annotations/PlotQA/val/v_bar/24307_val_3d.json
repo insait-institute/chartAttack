@@ -1,0 +1,57 @@
+{
+    "title": "Total enrollments in different levels of education as per the survey of 1988",
+    "x_axis": {
+        "categories": [
+            "Primary",
+            "Secondary",
+            "Secondary general",
+            "Secondary vocational"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Japan": "#40E0D0",
+        "Tunisia": "#20B2AA"
+    },
+    "data": {
+        "Japan": [
+            10226323,
+            11339836,
+            9916213,
+            1423623
+        ],
+        "Tunisia": [
+            1345921,
+            480245,
+            394704,
+            85541
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11339840
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

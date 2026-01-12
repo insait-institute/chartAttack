@@ -1,0 +1,76 @@
+{
+    "title": "Time required to start a business",
+    "x_axis": {
+        "categories": [
+            "Ghana",
+            "Greece",
+            "Guatemala",
+            "Guinea",
+            "Haiti"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2003": "#CD853F",
+        "2004": "#D2B48C",
+        "2005": "#C71585",
+        "2006": "#228B22"
+    },
+    "data": {
+        "2003": [
+            21.0,
+            38.0,
+            39.0,
+            48.0,
+            260.0
+        ],
+        "2004": [
+            21.0,
+            38.0,
+            39.0,
+            40.0,
+            202.0
+        ],
+        "2005": [
+            17.0,
+            38.0,
+            39.0,
+            40.0,
+            202.0
+        ],
+        "2006": [
+            17.0,
+            38.0,
+            27.0,
+            40.0,
+            202.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 260
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

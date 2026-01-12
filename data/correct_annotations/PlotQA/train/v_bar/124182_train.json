@@ -1,0 +1,56 @@
+{
+    "title": "Comparison of population in the largest city and urban agglomerations in 2003",
+    "x_axis": {
+        "categories": [
+            "Largest city",
+            "Urban agglomerations"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Armenia": "#6495ED",
+        "Haiti": "#4169E1",
+        "Jordan": "#808000"
+    },
+    "data": {
+        "Armenia": [
+            56.17391972935571,
+            36.0917462011184
+        ],
+        "Haiti": [
+            53.91368173569511,
+            21.91321726430689
+        ],
+        "Jordan": [
+            25.068573484215,
+            20.2147947327653
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,97 @@
+{
+    "title": "",
+    "legend": {
+        "Mark Zuckerberg": "#f27979",
+        "Facebook employees": "#f27900",
+        "Accel Partners": "#f2f279",
+        "Dustin Moskovitz": "#79f200",
+        "Digital Sky Technologies": "#79f279",
+        "Eduardo Saverin": "#00a552",
+        "Sean Parker": "#52a5a5",
+        "Foreign Goldman Sachs clients": "#0052a5",
+        "Peter Thiel": "#5252a5",
+        "Greylock Partners": "#5200a5",
+        "MeriTech Capital Partners": "#f279f2",
+        "Elevation Partners": "#f20079"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Mark Zuckerberg": [
+            28.2
+        ],
+        "Facebook employees": [
+            25.0
+        ],
+        "Accel Partners": [
+            11.4
+        ],
+        "Dustin Moskovitz": [
+            7.6
+        ],
+        "Digital Sky Technologies": [
+            5.5
+        ],
+        "Eduardo Saverin": [
+            5.0
+        ],
+        "Sean Parker": [
+            4.0
+        ],
+        "Foreign Goldman Sachs clients": [
+            2.8
+        ],
+        "Peter Thiel": [
+            2.5
+        ],
+        "Greylock Partners": [
+            1.5
+        ],
+        "MeriTech Capital Partners": [
+            1.5
+        ],
+        "Elevation Partners": [
+            1.5
+        ]
+    },
+    "colors": {
+        "Mark Zuckerberg": "#f27979",
+        "Facebook employees": "#f27900",
+        "Accel Partners": "#f2f279",
+        "Dustin Moskovitz": "#79f200",
+        "Digital Sky Technologies": "#79f279",
+        "Eduardo Saverin": "#00a552",
+        "Sean Parker": "#52a5a5",
+        "Foreign Goldman Sachs clients": "#0052a5",
+        "Peter Thiel": "#5252a5",
+        "Greylock Partners": "#5200a5",
+        "MeriTech Capital Partners": "#f279f2",
+        "Elevation Partners": "#f20079"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

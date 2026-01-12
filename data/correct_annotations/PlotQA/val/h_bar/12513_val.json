@@ -1,0 +1,82 @@
+{
+    "title": "CPIA policy and institutions for environmental sustainability rating",
+    "legend": {
+        "Bolivia": "#40E0D0",
+        "Djibouti": "#DC143C",
+        "Lesotho": "#F4A460",
+        "Nicaragua": "#D2691E"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "data": {
+        "Bolivia": [
+            3.5,
+            3.5,
+            3.5,
+            3.5,
+            3.5,
+            3.5
+        ],
+        "Djibouti": [
+            3.5,
+            3.5,
+            2.5,
+            2.5,
+            2.5,
+            2.5
+        ],
+        "Lesotho": [
+            3.0,
+            3.0,
+            3.5,
+            3.5,
+            3.5,
+            3.5
+        ],
+        "Nicaragua": [
+            3.5,
+            3.5,
+            3.5,
+            3.5,
+            3.5,
+            3.5
+        ]
+    },
+    "colors": {
+        "Bolivia": "#40E0D0",
+        "Djibouti": "#DC143C",
+        "Lesotho": "#F4A460",
+        "Nicaragua": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Arms import in countries",
+    "legend": {
+        "Lower middle income": "#8B0000",
+        "Netherlands": "#FF4500",
+        "United Kingdom": "#FF00FF"
+    },
+    "categories": [
+        "1968",
+        "1969",
+        "1970",
+        "1971"
+    ],
+    "data": {
+        "Lower middle income": [
+            5432000000,
+            5444000000,
+            6195000000,
+            6844000000
+        ],
+        "Netherlands": [
+            266000000,
+            542000000,
+            672000000,
+            672000000
+        ],
+        "United Kingdom": [
+            2288000000,
+            2570000000,
+            60000000,
+            171000000
+        ]
+    },
+    "colors": {
+        "Lower middle income": "#8B0000",
+        "Netherlands": "#FF4500",
+        "United Kingdom": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6844000000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

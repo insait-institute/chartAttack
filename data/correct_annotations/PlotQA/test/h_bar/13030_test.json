@@ -1,0 +1,77 @@
+{
+    "title": "Balance of Payments of ICT services as percentage of service exports",
+    "legend": {
+        "Low income": "#F0E68C",
+        "South Asia": "#90EE90",
+        "Faeroe Islands": "#00FF7F",
+        "Guyana": "#DAA520"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Low income": [
+            17.0380826303592,
+            18.1502539840787,
+            19.7792193746749,
+            20.2875769281045,
+            20.1779692392096
+        ],
+        "South Asia": [
+            64.1837433669167,
+            65.2987326826025,
+            62.5077572354996,
+            59.6388597987679,
+            58.9169753468769
+        ],
+        "Faeroe Islands": [
+            11.4310546140982,
+            11.8687560732706,
+            19.0126121853976,
+            22.9939558874313,
+            25.84199916531811
+        ],
+        "Guyana": [
+            37.8352429481136,
+            35.570196151475,
+            36.3093402013021,
+            32.1370011573709,
+            34.4416418000403
+        ]
+    },
+    "colors": {
+        "Low income": "#F0E68C",
+        "South Asia": "#90EE90",
+        "Faeroe Islands": "#00FF7F",
+        "Guyana": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

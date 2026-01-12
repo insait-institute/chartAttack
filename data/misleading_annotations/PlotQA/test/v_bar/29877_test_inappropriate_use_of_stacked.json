@@ -1,0 +1,67 @@
+{
+    "title": "Lower secondary school starting age (years)",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Jamaica": "#f27979",
+        "Japan": "#c1f200",
+        "Kazakhstan": "#52a574",
+        "Korea (Democratic)": "#0042a5",
+        "Kuwait": "#da79f2"
+    },
+    "data": {
+        "Jamaica": [
+            11.0
+        ],
+        "Japan": [
+            12.0
+        ],
+        "Kazakhstan": [
+            10.0
+        ],
+        "Korea (Democratic)": [
+            10.0
+        ],
+        "Kuwait": [
+            10.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Jamaica": "#f27979",
+        "Japan": "#c1f200",
+        "Kazakhstan": "#52a574",
+        "Korea (Democratic)": "#0042a5",
+        "Kuwait": "#da79f2"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "title": "Logistics performance index of markets of Kenya",
+    "legend": {
+        "Tracking ability": "#8B0000",
+        "Quality of logistic services": "#8A2BE2",
+        "Ease of arranging shipments": "#4B0082",
+        "Efficiency of custom clearance process": "#2F4F4F"
+    },
+    "x_axis": [
+        "2007",
+        "2010",
+        "2012",
+        "2014"
+    ],
+    "y_axis_label": "Rating(1=low to 5=high)",
+    "data": [
+        {
+            "label": "Tracking ability",
+            "color": "#8B0000",
+            "values": [
+                2.62,
+                2.89,
+                2.34,
+                3.027778
+            ]
+        },
+        {
+            "label": "Quality of logistic services",
+            "color": "#8A2BE2",
+            "values": [
+                2.31,
+                2.28,
+                2.38,
+                2.652778
+            ]
+        },
+        {
+            "label": "Ease of arranging shipments",
+            "color": "#4B0082",
+            "values": [
+                2.79,
+                2.84,
+                2.69,
+                3.152778
+            ]
+        },
+        {
+            "label": "Efficiency of custom clearance process",
+            "color": "#2F4F4F",
+            "values": [
+                2.33,
+                2.23,
+                2.08,
+                1.957639
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Tracking ability",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Quality of logistic services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Ease of arranging shipments",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Efficiency of custom clearance process",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

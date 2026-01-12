@@ -1,0 +1,64 @@
+{
+    "title": "General government consumption in current US$",
+    "x_axis": {
+        "categories": [
+            "Trinidad and Tobago",
+            "Turkey",
+            "United Kingdom",
+            "Uruguay"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#8A2BE2",
+        "1961": "#4B0082",
+        "1962": "#C71585"
+    },
+    "data": {
+        "1960": [
+            51216537.94115421,
+            1171393341.55364,
+            12049404117.8849,
+            102810141.686305
+        ],
+        "1961": [
+            63874839.45964,
+            744444444.4444442,
+            12998353715.2463,
+            158255674.046559
+        ],
+        "1962": [
+            71574820.1068294,
+            877777777.777778,
+            13927416422.181,
+            229175856.054811
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13927416430
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

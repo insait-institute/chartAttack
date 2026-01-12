@@ -1,0 +1,64 @@
+{
+    "title": "Population growth compared to previous year",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Population growth compared to previous year"
+    },
+    "legend": {
+        "2009-2019": "#2876dd"
+    },
+    "data": {
+        "2009-2019": [
+            1.71,
+            1.52,
+            1.3,
+            1.11,
+            0.98,
+            0.94,
+            0.96,
+            0.99,
+            1.01,
+            1.01,
+            0.99
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

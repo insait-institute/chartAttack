@@ -1,0 +1,88 @@
+{
+    "title": "",
+    "legend": {
+        "Power Diversity": "#f27979",
+        "China Grand": "#f29100",
+        "Yuantong": "#daf279",
+        "Lei Shing Hong": "#30f200",
+        "Guangdong Materials Group": "#52a574",
+        "China Automobile Trading": "#00a5a5",
+        "Zhongsheng": "#5274a5",
+        "Yongda": "#2100a5",
+        "Shandong Yuantong": "#da79f2",
+        "SCAS": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Power Diversity": [
+            35.5
+        ],
+        "China Grand": [
+            32.5
+        ],
+        "Yuantong": [
+            22.4
+        ],
+        "Lei Shing Hong": [
+            20.5
+        ],
+        "Guangdong Materials Group": [
+            15.2
+        ],
+        "China Automobile Trading": [
+            13.8
+        ],
+        "Zhongsheng": [
+            13.7
+        ],
+        "Yongda": [
+            11.0
+        ],
+        "Shandong Yuantong": [
+            10.6
+        ],
+        "SCAS": [
+            10.3
+        ]
+    },
+    "colors": {
+        "Power Diversity": "#f27979",
+        "China Grand": "#f29100",
+        "Yuantong": "#daf279",
+        "Lei Shing Hong": "#30f200",
+        "Guangdong Materials Group": "#52a574",
+        "China Automobile Trading": "#00a5a5",
+        "Zhongsheng": "#5274a5",
+        "Yongda": "#2100a5",
+        "Shandong Yuantong": "#da79f2",
+        "SCAS": "#f20091"
+    },
+    "y_label": "Sales revenue in billion yuan",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

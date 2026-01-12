@@ -1,0 +1,76 @@
+{
+    "title": "Firms in Mali offering various services ",
+    "legend": {
+        "Insurance services": "#BDB76B",
+        "Offering training": "#00FF7F",
+        "Payroll services": "#6A5ACD",
+        "Quality Certification": "#00BFFF"
+    },
+    "x_axis": [
+        "2007",
+        "2010"
+    ],
+    "y_axis_label": "% of firms",
+    "data": [
+        {
+            "label": "Insurance services",
+            "color": "#BDB76B",
+            "values": [
+                31.1,
+                20.2
+            ]
+        },
+        {
+            "label": "Offering training",
+            "color": "#00FF7F",
+            "values": [
+                22.5,
+                32.1
+            ]
+        },
+        {
+            "label": "Payroll services",
+            "color": "#6A5ACD",
+            "values": [
+                28.9,
+                19.4
+            ]
+        },
+        {
+            "label": "Quality Certification",
+            "color": "#00BFFF",
+            "values": [
+                8.6,
+                24.8
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Average number of employees",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Average number of employees"
+    },
+    "legend": {
+        "Full-time": "#2876dd",
+        "Part-time": "#0f283e"
+    },
+    "data": {
+        "Full-time": [
+            1.9,
+            2.1,
+            2.5,
+            2.2,
+            1.6,
+            2.6
+        ],
+        "Part-time": [
+            1.5,
+            1.5,
+            2.3,
+            1.9,
+            1.3,
+            2.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

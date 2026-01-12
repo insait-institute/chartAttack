@@ -1,0 +1,81 @@
+{
+    "title": "Percentage of male workers employed in various sectors of Kiribati",
+    "legend": {
+        "Agriculture": "#00BFFF",
+        "Industry": "#808000",
+        "Services": "#FF1493",
+        "Self-employed": "#00CED1"
+    },
+    "x_axis": [
+        "2000",
+        "2005",
+        "2010"
+    ],
+    "y_axis_label": "Employment (as % of male employment)",
+    "data": [
+        {
+            "label": "Agriculture",
+            "color": "#00BFFF",
+            "values": [
+                3.70000004768372,
+                8.699999809265138,
+                32.0999984741211
+            ]
+        },
+        {
+            "label": "Industry",
+            "color": "#808000",
+            "values": [
+                10.0,
+                10.8999996185303,
+                9.10000038146973
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#FF1493",
+            "values": [
+                81.099998474121,
+                77.3000030517578,
+                58.7999992370605
+            ]
+        },
+        {
+            "label": "Self-employed",
+            "color": "#00CED1",
+            "values": [
+                3.40000009536743,
+                7.599999904632571,
+                57.5
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

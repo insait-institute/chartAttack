@@ -1,0 +1,67 @@
+{
+    "title": "Net enrollment of males recorded in primary and secondary education in year 1985",
+    "legend": {
+        "Primary": "#6B8E23",
+        "Secondary": "#5F9EA0"
+    },
+    "categories": [
+        "Hong Kong",
+        "Iran",
+        "Iraq",
+        "Italy"
+    ],
+    "data": {
+        "Primary": [
+            96.78912,
+            89.41488000000003,
+            92.48158,
+            97.38071
+        ],
+        "Secondary": [
+            12.03509,
+            84.19221999999998,
+            68.97419000000001,
+            82.17574
+        ]
+    },
+    "colors": {
+        "Primary": "#6B8E23",
+        "Secondary": "#5F9EA0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 89.41488000000003,
+                "max_value": 97.38071
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 12.03509,
+                "max_value": 84.19221999999998
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

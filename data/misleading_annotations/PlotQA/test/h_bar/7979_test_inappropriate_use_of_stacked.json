@@ -1,0 +1,67 @@
+{
+    "title": "Nitrous oxide emission due to human activities",
+    "legend": {
+        "El Salvador": "#f27979",
+        "Eritrea": "#f2f200",
+        "Estonia": "#79f279",
+        "Ethiopia": "#00a5a5",
+        "Finland": "#5252a5",
+        "France": "#a500a5"
+    },
+    "categories": [
+        "Nitrous oxide emission due to human activities"
+    ],
+    "data": {
+        "El Salvador": [
+            1319.4
+        ],
+        "Eritrea": [
+            1030.6
+        ],
+        "Estonia": [
+            1872.9
+        ],
+        "Ethiopia": [
+            25278.6
+        ],
+        "Finland": [
+            7423.0
+        ],
+        "France": [
+            70691.3
+        ]
+    },
+    "colors": {
+        "El Salvador": "#f27979",
+        "Eritrea": "#f2f200",
+        "Estonia": "#79f279",
+        "Ethiopia": "#00a5a5",
+        "Finland": "#5252a5",
+        "France": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70700
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

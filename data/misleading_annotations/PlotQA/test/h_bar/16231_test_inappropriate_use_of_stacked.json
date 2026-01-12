@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of unemployed male labor force of Indonesia",
+    "legend": {
+        "1988": "#f27979",
+        "1989": "#79f200",
+        "1992": "#52a5a5",
+        "1996": "#5200a5"
+    },
+    "categories": [
+        "Percentage of unemployed male labor force of Indonesia"
+    ],
+    "data": {
+        "1988": [
+            2.90000009536743
+        ],
+        "1989": [
+            2.79999995231628
+        ],
+        "1992": [
+            2.70000004768372
+        ],
+        "1996": [
+            3.79999995231628
+        ]
+    },
+    "colors": {
+        "1988": "#f27979",
+        "1989": "#79f200",
+        "1992": "#52a5a5",
+        "1996": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

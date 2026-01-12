@@ -1,0 +1,89 @@
+{
+    "title": "Net bilateral aid flow in Haiti from different members of DAC",
+    "legend": {
+        "European Union": "#8A2BE2",
+        "United Kingdom": "#9ACD32",
+        "United States": "#556B2F",
+        "Iceland": "#00FF00"
+    },
+    "categories": [
+        "1970",
+        "1971",
+        "1972"
+    ],
+    "data": {
+        "European Union": [
+            30000,
+            50000,
+            10000
+        ],
+        "United Kingdom": [
+            10000,
+            10000,
+            10000
+        ],
+        "United States": [
+            10000000,
+            14000000,
+            5000000
+        ],
+        "Iceland": [
+            810000,
+            100000,
+            70000
+        ]
+    },
+    "colors": {
+        "European Union": "#8A2BE2",
+        "United Kingdom": "#9ACD32",
+        "United States": "#556B2F",
+        "Iceland": "#00FF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 14000000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "European Union": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "United Kingdom": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "United States": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Iceland": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

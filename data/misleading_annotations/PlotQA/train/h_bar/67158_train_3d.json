@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of women from Congo (Democratic) justifying marital abuse for various reasons",
+    "legend": {
+        "Argument": "#20B2AA",
+        "Burnt food": "#FF4500",
+        "Permission": "#FF0000",
+        "Negligence towards children": "#8A2BE2"
+    },
+    "categories": [
+        "2007",
+        "2014"
+    ],
+    "data": {
+        "Argument": [
+            47.1,
+            57.7
+        ],
+        "Burnt food": [
+            28.2,
+            24.4
+        ],
+        "Permission": [
+            53.3,
+            49.1
+        ],
+        "Negligence towards children": [
+            55.5,
+            51.4
+        ]
+    },
+    "colors": {
+        "Argument": "#20B2AA",
+        "Burnt food": "#FF4500",
+        "Permission": "#FF0000",
+        "Negligence towards children": "#8A2BE2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

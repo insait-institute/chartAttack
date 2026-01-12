@@ -1,0 +1,67 @@
+{
+    "title": "Annual cost of importing from different countries",
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#f2f200",
+        "2008": "#79f279",
+        "2009": "#00a5a5",
+        "2010": "#5252a5",
+        "2011": "#a500a5"
+    },
+    "categories": [
+        "Annual cost of importing from different countries"
+    ],
+    "data": {
+        "2006": [
+            1070.0
+        ],
+        "2007": [
+            820.0
+        ],
+        "2008": [
+            925.0
+        ],
+        "2009": [
+            925.0
+        ],
+        "2010": [
+            925.0
+        ],
+        "2011": [
+            925.0
+        ]
+    },
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#f2f200",
+        "2008": "#79f279",
+        "2009": "#00a5a5",
+        "2010": "#5252a5",
+        "2011": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4990
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

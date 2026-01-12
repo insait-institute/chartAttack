@@ -1,0 +1,56 @@
+{
+    "title": "Cost of exporting to or importing from an economy in 2013",
+    "x_axis": {
+        "categories": [
+            "Export",
+            "Import"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Guinea": "#00FFFF",
+        "Luxembourg": "#00FF7F",
+        "Switzerland": "#191970"
+    },
+    "data": {
+        "Guinea": [
+            915,
+            1480
+        ],
+        "Luxembourg": [
+            1425,
+            1420
+        ],
+        "Switzerland": [
+            1660,
+            1440
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1660
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

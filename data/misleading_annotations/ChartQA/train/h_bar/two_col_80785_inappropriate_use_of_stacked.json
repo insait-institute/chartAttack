@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "ElAlfaElJefeTV": "#f27979",
+        "Cartoon Studio": "#c1f200",
+        "Beby": "#52a574",
+        "YIYO SARANTE OFICIAL": "#0042a5",
+        "ChimbalaHD": "#da79f2"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "ElAlfaElJefeTV": [
+            2395.35
+        ],
+        "Cartoon Studio": [
+            2197.57
+        ],
+        "Beby": [
+            918.86
+        ],
+        "YIYO SARANTE OFICIAL": [
+            882.75
+        ],
+        "ChimbalaHD": [
+            682.8
+        ]
+    },
+    "colors": {
+        "ElAlfaElJefeTV": "#f27979",
+        "Cartoon Studio": "#c1f200",
+        "Beby": "#52a574",
+        "YIYO SARANTE OFICIAL": "#0042a5",
+        "ChimbalaHD": "#da79f2"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

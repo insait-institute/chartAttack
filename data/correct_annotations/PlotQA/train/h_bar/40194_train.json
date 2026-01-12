@@ -1,0 +1,64 @@
+{
+    "title": "S&P Global Equity Indices",
+    "legend": {
+        "Estonia": "#D2691E",
+        "Sweden": "#BC8F8F",
+        "United Arab Emirates": "#BDB76B"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Estonia": [
+            30.3297191282,
+            -15.5285499304353,
+            32.8901128749,
+            56.0251493459843
+        ],
+        "Sweden": [
+            44.4124328099557,
+            -3.06442667820038,
+            65.9998350558372,
+            32.56469374087219
+        ],
+        "United Arab Emirates": [
+            -44.5861508174,
+            52.13160333642261,
+            24.5743671682,
+            -6.788801674242362
+        ]
+    },
+    "colors": {
+        "Estonia": "#D2691E",
+        "Sweden": "#BC8F8F",
+        "United Arab Emirates": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

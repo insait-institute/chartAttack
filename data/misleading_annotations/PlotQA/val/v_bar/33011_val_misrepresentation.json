@@ -1,0 +1,61 @@
+{
+    "title": "Total trademark applications made by different countries in the year 1985",
+    "x_axis": {
+        "categories": [
+            "East Asia (developing only)",
+            "Euro area",
+            "European Union",
+            "High income",
+            "High income: OECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Trademark applications": "#8B4513"
+    },
+    "data": {
+        "Trademark applications": [
+            92385,
+            211939,
+            260700,
+            612460,
+            574078
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 612460
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Trademark applications": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

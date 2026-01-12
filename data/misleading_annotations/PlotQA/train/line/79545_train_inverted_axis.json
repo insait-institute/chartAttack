@@ -1,0 +1,64 @@
+{
+    "title": "Net incurrence of liabilities in Barbados",
+    "legend": {
+        "Domestic liabilities": "#FFFF00",
+        "Foreign liabilities": "#FF8C00"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Liability (% of GDP)",
+    "data": [
+        {
+            "label": "Domestic liabilities",
+            "color": "#FFFF00",
+            "values": [
+                7.33732996040475,
+                7.29331674646355,
+                6.30433059539331,
+                7.54026598807783
+            ]
+        },
+        {
+            "label": "Foreign liabilities",
+            "color": "#FF8C00",
+            "values": [
+                3.51141284645842,
+                -0.168373536452666,
+                4.07204737070839,
+                1.73708112698234
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -10,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

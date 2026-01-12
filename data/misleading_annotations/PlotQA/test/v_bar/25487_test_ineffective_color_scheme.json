@@ -1,0 +1,69 @@
+{
+    "title": "Long-term male unemployment in a country",
+    "x_axis": {
+        "categories": [
+            "Australia",
+            "Canada",
+            "Japan",
+            "United States"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#a52a2a",
+        "1981": "#a53e2a",
+        "1982": "#ad552c"
+    },
+    "data": {
+        "1980": [
+            19.7000007629395,
+            5.400000095367429,
+            16.0,
+            5.199999809265138
+        ],
+        "1981": [
+            21.2999992370605,
+            6.5,
+            14.3999996185303,
+            8.199999809265138
+        ],
+        "1982": [
+            20.1000003814697,
+            7.300000190734861,
+            13.1999998092651,
+            9.19999980926514
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1980": "#a52a2a",
+        "1981": "#a53e2a",
+        "1982": "#ad552c"
+    }
+}

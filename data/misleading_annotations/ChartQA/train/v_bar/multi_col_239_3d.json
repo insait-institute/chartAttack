@@ -1,0 +1,81 @@
+{
+    "title": "Price in nominal U.S. dollars per kilogram",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019*",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*"
+        ]
+    },
+    "y_axis": {
+        "label": "Price in nominal U.S. dollars per kilogram"
+    },
+    "legend": {
+        "Arabica": "#2876dd",
+        "Robusta": "#0f283e"
+    },
+    "data": {
+        "Arabica": [
+            4.42,
+            3.53,
+            3.61,
+            3.32,
+            2.93,
+            2.88,
+            3.35,
+            3.35,
+            3.36,
+            3.36,
+            3.37,
+            3.37
+        ],
+        "Robusta": [
+            2.22,
+            1.94,
+            1.95,
+            2.23,
+            1.87,
+            1.62,
+            1.5,
+            1.54,
+            1.59,
+            1.64,
+            1.68,
+            1.73
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

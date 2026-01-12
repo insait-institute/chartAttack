@@ -1,0 +1,60 @@
+{
+    "title": "Logistics performance index assessing the efficiency of customs clearance processes",
+    "x_axis": {
+        "categories": [
+            "Russian Federation",
+            "Rwanda",
+            "Saudi Arabia",
+            "Senegal",
+            "Serbia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2007": "#708090",
+        "2010": "#F4A460"
+    },
+    "data": {
+        "2007": [
+            1.94,
+            1.8,
+            2.72,
+            2.38,
+            2.33
+        ],
+        "2010": [
+            2.15,
+            1.63,
+            2.91,
+            2.45,
+            2.19
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

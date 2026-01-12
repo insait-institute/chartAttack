@@ -1,0 +1,64 @@
+{
+    "title": "Ores,manufactures and fuel imports of different countries in 2011",
+    "legend": {
+        "Ores and metals": "#8B4513",
+        "Manufactures": "#8FBC8F",
+        "Fuel": "#FF7F50"
+    },
+    "categories": [
+        "Belgium",
+        "Belize",
+        "Benin",
+        "Bermuda"
+    ],
+    "data": {
+        "Ores and metals": [
+            4.50465900589941,
+            0.339828732535607,
+            0.692335617859925,
+            0.406129393476561
+        ],
+        "Manufactures": [
+            68.1449752903598,
+            41.260971767482,
+            46.062098436313,
+            53.46139083110911
+        ],
+        "Fuel": [
+            16.2835125952998,
+            17.3104589787545,
+            16.6972930014639,
+            10.2225938929968
+        ]
+    },
+    "colors": {
+        "Ores and metals": "#8B4513",
+        "Manufactures": "#8FBC8F",
+        "Fuel": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

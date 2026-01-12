@@ -1,0 +1,51 @@
+{
+    "title": "Distance to Frontier score (on scale of 100) of Brazil",
+    "legend": {
+        "Distance to frontier score": "#8B008B"
+    },
+    "x_axis": [
+        "2013",
+        "2014",
+        "2015"
+    ],
+    "y_axis_label": "Score (0=lowest to 100=highest performance)",
+    "data": [
+        {
+            "label": "Distance to frontier score",
+            "color": "#8B008B",
+            "values": [
+                53.16,
+                57.66,
+                57.67
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

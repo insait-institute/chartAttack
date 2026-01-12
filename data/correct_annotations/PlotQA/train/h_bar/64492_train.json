@@ -1,0 +1,82 @@
+{
+    "title": "Total amount spent by the government on custom duties",
+    "legend": {
+        "Belarus": "#CD853F",
+        "Czech Republic": "#DC143C",
+        "Hungary": "#8B4513",
+        "New Zealand": "#FF4500"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Belarus": [
+            670110000000.0,
+            799529000000.0,
+            1185141000000.0,
+            1455878000000.0,
+            1854089000000.0,
+            2465188700000.0
+        ],
+        "Czech Republic": [
+            10252000000.0,
+            4086000000.0,
+            -50000000.0,
+            6000000.0,
+            24000000.0,
+            8000000.0
+        ],
+        "Hungary": [
+            132638000000.0,
+            31953000000.0,
+            -797000000.0,
+            -195000000.0,
+            -202000000.0,
+            -51000000.0
+        ],
+        "New Zealand": [
+            749804000.0,
+            720300000.0,
+            946719000.0,
+            1083000000.0,
+            1836000000.0,
+            1869152400.0
+        ]
+    },
+    "colors": {
+        "Belarus": "#CD853F",
+        "Czech Republic": "#DC143C",
+        "Hungary": "#8B4513",
+        "New Zealand": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2465188700000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

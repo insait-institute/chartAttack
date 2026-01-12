@@ -1,0 +1,122 @@
+{
+    "title": "Number of cases",
+    "legend": {
+        "Gyeonggi": "#f27979",
+        "Seoul": "#f25500",
+        "Gyeongbuk": "#f2ce79",
+        "Busan": "#e3f200",
+        "Gyeongnam": "#c0f279",
+        "Incheon": "#39f200",
+        "Jeonnam": "#52a55c",
+        "Chungnam": "#00a54e",
+        "Daegu": "#52a597",
+        "Gangwon": "#0088a5",
+        "Jeonbuk": "#5279a5",
+        "Chungbuk": "#0013a5",
+        "Gwangju": "#9579f2",
+        "Daejeon": "#8e00f2",
+        "Ulsan": "#eb79f2",
+        "Jeju": "#f200ab",
+        "Sejong": "#f279a3"
+    },
+    "categories": [
+        "Number of cases"
+    ],
+    "data": {
+        "Gyeonggi": [
+            5231.0
+        ],
+        "Seoul": [
+            4259.0
+        ],
+        "Gyeongbuk": [
+            1786.0
+        ],
+        "Busan": [
+            1642.0
+        ],
+        "Gyeongnam": [
+            1532.0
+        ],
+        "Incheon": [
+            1313.0
+        ],
+        "Jeonnam": [
+            1295.0
+        ],
+        "Chungnam": [
+            1122.0
+        ],
+        "Daegu": [
+            1061.0
+        ],
+        "Gangwon": [
+            1010.0
+        ],
+        "Jeonbuk": [
+            937.0
+        ],
+        "Chungbuk": [
+            677.0
+        ],
+        "Gwangju": [
+            578.0
+        ],
+        "Daejeon": [
+            515.0
+        ],
+        "Ulsan": [
+            470.0
+        ],
+        "Jeju": [
+            322.0
+        ],
+        "Sejong": [
+            71.0
+        ]
+    },
+    "colors": {
+        "Gyeonggi": "#f27979",
+        "Seoul": "#f25500",
+        "Gyeongbuk": "#f2ce79",
+        "Busan": "#e3f200",
+        "Gyeongnam": "#c0f279",
+        "Incheon": "#39f200",
+        "Jeonnam": "#52a55c",
+        "Chungnam": "#00a54e",
+        "Daegu": "#52a597",
+        "Gangwon": "#0088a5",
+        "Jeonbuk": "#5279a5",
+        "Chungbuk": "#0013a5",
+        "Gwangju": "#9579f2",
+        "Daejeon": "#8e00f2",
+        "Ulsan": "#eb79f2",
+        "Jeju": "#f200ab",
+        "Sejong": "#f279a3"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5240
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

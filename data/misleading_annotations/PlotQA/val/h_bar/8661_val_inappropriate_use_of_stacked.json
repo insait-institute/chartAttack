@@ -1,0 +1,57 @@
+{
+    "title": "Number of secure internet servers",
+    "legend": {
+        "Georgia": "#f27979",
+        "Germany": "#79f200",
+        "Ghana": "#52a5a5",
+        "Greece": "#5200a5"
+    },
+    "categories": [
+        "Number of secure internet servers"
+    ],
+    "data": {
+        "Georgia": [
+            2.27977384643443
+        ],
+        "Germany": [
+            62.61086455148561
+        ],
+        "Ghana": [
+            0.0518301108480215
+        ],
+        "Greece": [
+            10.5919009942143
+        ]
+    },
+    "colors": {
+        "Georgia": "#f27979",
+        "Germany": "#79f200",
+        "Ghana": "#52a5a5",
+        "Greece": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

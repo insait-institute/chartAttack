@@ -1,0 +1,92 @@
+{
+    "title": "Consumption in billion U.S. dollars*",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Consumption in billion U.S. dollars*"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f29100",
+        "2012": "#daf279",
+        "2013": "#30f200",
+        "2014": "#52a574",
+        "2015": "#00a5a5",
+        "2016": "#5274a5",
+        "2017": "#2100a5",
+        "2018": "#da79f2",
+        "2019": "#f20091"
+    },
+    "data": {
+        "2010": [
+            0.85
+        ],
+        "2011": [
+            0.87
+        ],
+        "2012": [
+            0.92
+        ],
+        "2013": [
+            0.97
+        ],
+        "2014": [
+            1.02
+        ],
+        "2015": [
+            1.12
+        ],
+        "2016": [
+            1.24
+        ],
+        "2017": [
+            1.45
+        ],
+        "2018": [
+            1.16
+        ],
+        "2019": [
+            1.14
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f29100",
+        "2012": "#daf279",
+        "2013": "#30f200",
+        "2014": "#52a574",
+        "2015": "#00a5a5",
+        "2016": "#5274a5",
+        "2017": "#2100a5",
+        "2018": "#da79f2",
+        "2019": "#f20091"
+    }
+}

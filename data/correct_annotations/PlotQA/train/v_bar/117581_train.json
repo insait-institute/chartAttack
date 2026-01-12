@@ -1,0 +1,68 @@
+{
+    "title": "Under-five mortality rates in countries",
+    "x_axis": {
+        "categories": [
+            "Cote d'Ivoire",
+            "Denmark",
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#4682B4",
+        "1961": "#BA55D3",
+        "1962": "#4B0082"
+    },
+    "data": {
+        "1960": [
+            311.2,
+            25.0,
+            139.0,
+            147.8,
+            179.2
+        ],
+        "1961": [
+            303.4,
+            24.5,
+            127.2,
+            145.9,
+            174.1
+        ],
+        "1962": [
+            295.7,
+            23.8,
+            116.5,
+            143.7,
+            169.2
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 320
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

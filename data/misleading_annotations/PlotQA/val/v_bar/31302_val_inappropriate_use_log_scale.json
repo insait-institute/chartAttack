@@ -1,0 +1,61 @@
+{
+    "title": "Number of children died in 2008",
+    "x_axis": {
+        "categories": [
+            "Infant",
+            "Under-five"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Comoros": "#2E8B57",
+        "Lebanon": "#E9967A",
+        "Luxembourg": "#7FFFD4",
+        "Senegal": "#8B0000"
+    },
+    "data": {
+        "Comoros": [
+            1542,
+            2097
+        ],
+        "Lebanon": [
+            463,
+            556
+        ],
+        "Luxembourg": [
+            12,
+            15
+        ],
+        "Senegal": [
+            22929,
+            34188
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34190
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

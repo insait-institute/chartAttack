@@ -1,0 +1,60 @@
+{
+    "title": "Amount of CO2 emitted from gaseous fuel consumption",
+    "legend": {
+        "1960": "#66CDAA",
+        "1961": "#483D8B",
+        "1962": "#FF7F50"
+    },
+    "categories": [
+        "Gabon",
+        "Hungary",
+        "Indonesia"
+    ],
+    "data": {
+        "1960": [
+            14.668,
+            1012.092,
+            4671.758
+        ],
+        "1961": [
+            14.668,
+            927.751,
+            4932.115
+        ],
+        "1962": [
+            18.335,
+            957.087,
+            5196.139
+        ]
+    },
+    "colors": {
+        "1960": "#66CDAA",
+        "1961": "#483D8B",
+        "1962": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5200
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

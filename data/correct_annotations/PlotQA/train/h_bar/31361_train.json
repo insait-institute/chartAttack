@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of repeaters in secondary general education in the year 2009",
+    "legend": {
+        "Female": "#FF8C00",
+        "Male": "#D2691E"
+    },
+    "categories": [
+        "France",
+        "Gambia, The",
+        "Georgia",
+        "Germany"
+    ],
+    "data": {
+        "Female": [
+            5.50433015823364,
+            3.77601003646851,
+            0.0543400011956692,
+            2.02745008468628
+        ],
+        "Male": [
+            6.72492980957031,
+            3.34017992019653,
+            0.164269998669624,
+            2.84639000892639
+        ]
+    },
+    "colors": {
+        "Female": "#FF8C00",
+        "Male": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

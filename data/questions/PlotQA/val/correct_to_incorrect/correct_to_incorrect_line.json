@@ -1,0 +1,5719 @@
+[
+    {
+        "imgname": "16879_val",
+        "question": "In how many years, is the age dependency ratio(old) greater than 52 ?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0,
+            "inappropriate_use_of_log_scale": 6.0,
+            "misrepresentation": 6.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16881_val",
+        "question": "What is the difference between the highest and the second highest primary completion rate of female entrants ?",
+        "gold": 40.7085393555,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.13333333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16881_val",
+        "question": "Across all years, what is the minimum primary completion rate of male entrants ?",
+        "gold": 59.51397,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 86.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16881_val",
+        "question": "What is the primary completion rate of female entrants in 1982 ?",
+        "gold": 45.54555,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 64.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16881_val",
+        "question": "In how many years, is the primary completion rate of male entrants greater than 40 %?",
+        "gold": 4,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16904_val",
+        "question": "What is the amount spent on passenger transport items in 2010 ?",
+        "gold": "2592000000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 25920000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16905_val",
+        "question": "In how many years, is the income share held by lowest 20% of the population greater than 36 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.0,
+            "dual_axis": 4.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16905_val",
+        "question": "What is the difference between the income share held by highest 20% of the population in 2001 and that in 2010 ?",
+        "gold": 5.56,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16906_val",
+        "question": "Across all years, what is the minimum number of researchers ?",
+        "gold": 370.71388,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 425.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16906_val",
+        "question": "In how many years, is the number of technicians greater than 80 ?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16915_val",
+        "question": "Across all years, what is the minimum aid flow from un agencies ?",
+        "gold": "40000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 10000.0,
+            "misrepresentation": 10000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16915_val",
+        "question": "In how many years, is the aid flow from dac donors greater than 72000 US$?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16915_val",
+        "question": "What is the difference between the aid flow from dac donors in 2008 and that in 2010 ?",
+        "gold": "-10000",
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 70000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16936_val",
+        "question": "Across all years, what is the maximum net savings(excluding particulate emission damage) ?",
+        "gold": 46613839.19558211,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6865548.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16936_val",
+        "question": "In how many years, is the net national savings greater than 20000000 US$?",
+        "gold": 4,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.0,
+            "inappropriate_use_of_log_scale": 5.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16980_val",
+        "question": "In how many years, is the under-5 male mortality rate greater than 54 ?",
+        "gold": 1,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16982_val",
+        "question": "Does the percentage of school going boys monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16982_val",
+        "question": "Across all years, what is the minimum percentage of school going boys ?",
+        "gold": 40.2,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 63.53333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16982_val",
+        "question": "What is the percentage of school going boys in 2000 ?",
+        "gold": 40.2,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 63.56666666666667
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16983_val",
+        "question": "Across all years, what is the minimum percentage of population having access to non-solid fuel ?",
+        "gold": 92.3447631299,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 98.05000000000001,
+            "misrepresentation": 52.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16985_val",
+        "question": "What is the difference between the highest and the second highest employment to population ratio(male) ?",
+        "gold": 0.4000015259,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.36666666666666664
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16985_val",
+        "question": "What is the employment to population ratio(male) in 2007 ?",
+        "gold": 86.5999984741,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 75.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16988_val",
+        "question": "What is the difference between the highest and the second highest time required to import ?",
+        "gold": 0.5,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 1.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16988_val",
+        "question": "Across all years, what is the minimum time required to import ?",
+        "gold": 2,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "16988_val",
+        "question": "What is the time required to export in 2014 ?",
+        "gold": 1,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17014_val",
+        "question": "Across all years, what is the minimum amount spent on travel items of national tourists ?",
+        "gold": "2100000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "dual_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "dual_axis": 21000000.0,
+            "inappropriate_use_of_log_scale": 21000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17024_val",
+        "question": "What is the difference between the percentage of pregnant anaemic women in 2003 and that in 2006 ?",
+        "gold": 1.2063271903,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17025_val",
+        "question": "What is the difference between the highest and the second highest net savings(excluding particulate emission damage) ?",
+        "gold": 1.1874651016,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17025_val",
+        "question": "Across all years, what is the minimum net national savings ?",
+        "gold": 1.6947742807,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.9333333333333336,
+            "misrepresentation": 2.15
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17029_val",
+        "question": "What is the net disbursements of loan from world bank in 1987 ?",
+        "gold": "16296000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 96352000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17047_val",
+        "question": "Across all years, what is the minimum percentage of economically active male population ?",
+        "gold": 27.8999996185,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 63.0,
+            "misrepresentation": 24.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17047_val",
+        "question": "What is the percentage of economically active male population in 2010 ?",
+        "gold": 39.7999992371,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 28.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17055_val",
+        "question": "Across all years, what is the minimum number of atms ?",
+        "gold": 58.1426717178,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 19.466666666666665
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17055_val",
+        "question": "In how many years, is the number of commercal bank branches greater than 40 ?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 7.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17073_val",
+        "question": "Across all years, what is the minimum income share held by lowest 20% of the population ?",
+        "gold": 3.34,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17082_val",
+        "question": "Across all years, what is the minimum percentage of underweighted female children ?",
+        "gold": 1,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17082_val",
+        "question": "What is the percentage of underweighted male children in 2006 ?",
+        "gold": 2.2000000477,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17082_val",
+        "question": "In how many years, is the percentage of underweighted female children greater than 3.8 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.0,
+            "misrepresentation": 1.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17082_val",
+        "question": "What is the difference between the percentage of underweighted female children in 2000 and that in 2006 ?",
+        "gold": 2.2999999523,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 4.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17105_val",
+        "question": "What is the merchandise exports in 1995 ?",
+        "gold": 0.9810246042,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17109_val",
+        "question": "Across all years, what is the minimum urban population ?",
+        "gold": "100",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 85.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17114_val",
+        "question": "What is the difference between the highest and the second highest birth rate ?",
+        "gold": 0.389,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.16666666666666666
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17118_val",
+        "question": "What is the difference between the highest and the second highest number of fixed telephone subscribers ?",
+        "gold": 1.6892032336,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.3666666666666667
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17118_val",
+        "question": "Across all years, what is the minimum number of fixed telephone subscribers ?",
+        "gold": 7.2704118917,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.7666666666666667
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17118_val",
+        "question": "What is the number of fixed telephone subscribers in 2001 ?",
+        "gold": 15.2511103396,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 14.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17118_val",
+        "question": "In how many years, is the number of mobile cellular subscribers greater than 12.8 ?",
+        "gold": 1,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17119_val",
+        "question": "In how many years, is the percentage of children who received treatment for diarrhoea greater than 68 %?",
+        "gold": 1,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17122_val",
+        "question": "Does the percentage of employed males who are attending school monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17122_val",
+        "question": "Across all years, what is the minimum percentage of employed males who are not attending school ?",
+        "gold": 1.1,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 9.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17123_val",
+        "question": "What is the difference between the highest and the second highest percentage of undernourished female children ?",
+        "gold": 0.3999999762,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.06666666666666667,
+            "misrepresentation": 0.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17123_val",
+        "question": "Across all years, what is the minimum percentage of undernourished female children ?",
+        "gold": 0.8999999762,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.55
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17128_val",
+        "question": "Across all years, what is the minimum amount earned from national visitors ?",
+        "gold": "144000000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 1440000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17128_val",
+        "question": "In how many years, is the amount earned from national visitors greater than 260000000 US$?",
+        "gold": 3,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 4.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17129_val",
+        "question": "Across all years, what is the minimum amount of goods imported ?",
+        "gold": "141405000000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 316593000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17129_val",
+        "question": "What is the amount of goods imported in 2009 ?",
+        "gold": "201284000000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2168800000000.0,
+            "inappropriate_use_of_log_scale": 2012840000000.0,
+            "misrepresentation": 216880000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17131_val",
+        "question": "Across all years, what is the maximum net disbursements of loan from government ?",
+        "gold": "3585000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": -24297000.0,
+            "misrepresentation": 35850000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17134_val",
+        "question": "In how many years, is the number of days to start a business greater than 240 days?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 7.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17138_val",
+        "question": "What is the difference between the highest and the second highest employment to population ratio(female) ?",
+        "gold": 0.1000022888,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17138_val",
+        "question": "Across all years, what is the minimum employment to population ratio(male) ?",
+        "gold": 72.5,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 49.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17144_val",
+        "question": "What is the difference between the highest and the second highest percentage of females who smoke ?",
+        "gold": 2.8428624569,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.43333333333333335
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17144_val",
+        "question": "Across all years, what is the minimum percentage of males who smoke ?",
+        "gold": 26.8098622992,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17150_val",
+        "question": "Across all years, what is the minimum percentage of underweight children ?",
+        "gold": 12.5,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 24.266666666666666,
+            "misrepresentation": 5.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17152_val",
+        "question": "Across all years, what is the minimum male adult literacy rate ?",
+        "gold": 59.3078613722,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 76.1,
+            "misrepresentation": 45.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17152_val",
+        "question": "What is the male adult literacy rate in 2000 ?",
+        "gold": 69.7458997116,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 45.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17152_val",
+        "question": "In how many years, is the male adult literacy rate greater than 48 %?",
+        "gold": 3,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17154_val",
+        "question": "Does the rural birth registration monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17154_val",
+        "question": "Across all years, what is the minimum urban birth registration ?",
+        "gold": 97.1,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 90.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17160_val",
+        "question": "Across all years, what is the minimum urban population ?",
+        "gold": 74.073,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 25.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17179_val",
+        "question": "Across all years, what is the minimum number of infant deaths ?",
+        "gold": "66386",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 82565.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17183_val",
+        "question": "Across all years, what is the minimum amount earned from national visitors ?",
+        "gold": "537000000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1479000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17189_val",
+        "question": "In how many years, is the merchandise imports greater than 17 %?",
+        "gold": 7,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 5.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17192_val",
+        "question": "What is the amount of nitrous oxide emissions in 2005 ?",
+        "gold": 71.341695037,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 59.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17192_val",
+        "question": "In how many years, is the amount of methane emissions greater than 56 %?",
+        "gold": 5,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 4.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17203_val",
+        "question": "Across all years, what is the minimum aid flow from dac donors ?",
+        "gold": "6010000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 8190000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17203_val",
+        "question": "In how many years, is the aid flow from un agencies greater than 8000000 US$?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17207_val",
+        "question": "Across all years, what is the minimum expenditure in healthcare ?",
+        "gold": 4.42171318,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.5,
+            "misrepresentation": 0.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17214_val",
+        "question": "Does the amount of goods exported monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17222_val",
+        "question": "In how many years, is the amount of emissions generated from industries greater than 40000 thousand metric tons?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17235_val",
+        "question": "What is the difference between the highest and the second highest urban population growth ?",
+        "gold": 0.4199637658,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.06666666666666667,
+            "misrepresentation": 0.5333333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17235_val",
+        "question": "Is the rural population growth in 1982 less than that in 1990 ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17238_val",
+        "question": "Across all years, what is the minimum gross intake ratio(male) ?",
+        "gold": 93.8084182739,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 84.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17239_val",
+        "question": "Across all years, what is the minimum food production index ?",
+        "gold": 61.57,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 79.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17239_val",
+        "question": "What is the crop production index in 1989 ?",
+        "gold": 95.78,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 79.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17239_val",
+        "question": "In how many years, is the crop production index greater than 60 ?",
+        "gold": 9,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 8.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17330_val",
+        "question": "In how many years, is the claims on central government greater than 20 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17333_val",
+        "question": "Across all years, what is the minimum arms imports ?",
+        "gold": "125000000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 749000000.0,
+            "inappropriate_use_of_log_scale": 1250000000.0,
+            "misrepresentation": 1250000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17342_val",
+        "question": "In how many years, is the number of mobile cellular subscribers greater than 48 ?",
+        "gold": 7,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 8.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17351_val",
+        "question": "What is the difference between the highest and the second highest female adult literacy rate ?",
+        "gold": 1.5820159912,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 1.65
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17353_val",
+        "question": "Across all years, what is the minimum number of mobile cellular subscribers ?",
+        "gold": 28.6288600235,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 81.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17354_val",
+        "question": "Across all years, what is the minimum income share held by highest 10% of the population ?",
+        "gold": 26.57,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 35.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17354_val",
+        "question": "In how many years, is the income share held by lowest 10% of the population greater than 14 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 7.0,
+            "misrepresentation": 7.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17360_val",
+        "question": "Across all years, what is the minimum amount of private funds spent in healthcare ?",
+        "gold": 1.1465413483,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1.3333333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17373_val",
+        "question": "What is the difference between the highest and the second highest percentage of female labor force ?",
+        "gold": 0.3999977112,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.4,
+            "dual_axis": 0.55
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17373_val",
+        "question": "In how many years, is the percentage of female labor force greater than 36 %?",
+        "gold": 4,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17407_val",
+        "question": "Across all years, what is the minimum payment made to non-resident workers ?",
+        "gold": "1403000000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1793000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17428_val",
+        "question": "What is the net disbursements of loan from world bank in 1986 ?",
+        "gold": "926000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": -926000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17428_val",
+        "question": "In how many years, is the net disbursements of loan from government greater than 5600000 US$?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17429_val",
+        "question": "What is the number of procedures to register a business in 2006 ?",
+        "gold": "11",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 4.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17430_val",
+        "question": "Across all years, what is the minimum percentage of population who used drinking water services ?",
+        "gold": 93.2625703582,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 88.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17436_val",
+        "question": "Across all years, what is the minimum expenditure in healthcare ?",
+        "gold": 3.19884187,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.45
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17460_val",
+        "question": "What is the difference between the highest and the second highest expenditure in staff compensation ?",
+        "gold": 2.2602996826,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 3.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17460_val",
+        "question": "Across all years, what is the minimum expenditure in staff compensation ?",
+        "gold": 67.9642562866,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 85.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17460_val",
+        "question": "What is the expenditure in education in 2007 ?",
+        "gold": 92.2733383179,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 85.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17462_val",
+        "question": "Across all years, what is the minimum percentage of female repeaters ?",
+        "gold": 8.96046,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 15.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17468_val",
+        "question": "Across all years, what is the minimum percentage of males who smoke ?",
+        "gold": 27.4,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 34.3,
+            "misrepresentation": 22.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17472_val",
+        "question": "Across all years, what is the minimum percentage of female teachers in primary schools ?",
+        "gold": 74.79675,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 79.5,
+            "misrepresentation": 63.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17472_val",
+        "question": "What is the difference between the percentage of female teachers in primary schools in 1986 and that in 1987 ?",
+        "gold": 3.09238,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.06666666666666667
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17483_val",
+        "question": "Does the amount spent on passenger transport items monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17515_val",
+        "question": "Across all years, what is the minimum merchandise imports ?",
+        "gold": 2.3985504704,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.6333333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17515_val",
+        "question": "What is the merchandise exports in 1979 ?",
+        "gold": 1.0689689365,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.95,
+            "misrepresentation": 0.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17515_val",
+        "question": "In how many years, is the merchandise exports greater than 6.4 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17523_val",
+        "question": "Does the percentage of formally registered firms monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17523_val",
+        "question": "Across all years, what is the minimum percentage of formally registered firms ?",
+        "gold": 75.7,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 79.5,
+            "misrepresentation": 65.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17523_val",
+        "question": "What is the percentage of formally registered firms in 2010 ?",
+        "gold": 75.7,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 65.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17544_val",
+        "question": "Does the percentage of obese male children monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17544_val",
+        "question": "Across all years, what is the minimum percentage of obese female children ?",
+        "gold": 7.0999999046,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 11.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17544_val",
+        "question": "In how many years, is the percentage of obese male children greater than 14.4 %?",
+        "gold": 1,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17557_val",
+        "question": "Across all years, what is the minimum amount earned by trading goods ?",
+        "gold": "16990794509",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 4500333228.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17557_val",
+        "question": "In how many years, is the amount earned by trading services greater than 24000000000 US$?",
+        "gold": 1,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17572_val",
+        "question": "Across all years, what is the minimum percentage of fraud firms ?",
+        "gold": 30,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 31.8,
+            "misrepresentation": 7.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17572_val",
+        "question": "What is the percentage of fraud firms in 2008 ?",
+        "gold": 30,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 7.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17573_val",
+        "question": "Does the urban birth registration monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17580_val",
+        "question": "Does the time required to import monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17583_val",
+        "question": "Across all years, what is the minimum gross intake ratio(female) ?",
+        "gold": 45.20309,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 127.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17583_val",
+        "question": "In how many years, is the gross intake ratio(male) greater than 88 %?",
+        "gold": 4,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17584_val",
+        "question": "Across all years, what is the minimum percentage of undernourished male children ?",
+        "gold": 2.7000000477,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17584_val",
+        "question": "What is the difference between the percentage of undernourished female children in 1996 and that in 2004 ?",
+        "gold": 4.2000002861,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 6.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17586_val",
+        "question": "Across all years, what is the minimum ppp conversion factor for private consumption ?",
+        "gold": 250.3163053335,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 280.3,
+            "misrepresentation": 109.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17587_val",
+        "question": "Does the percentage of employed boys monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17587_val",
+        "question": "Across all years, what is the minimum percentage of employed boys ?",
+        "gold": 20.9036756108,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 6.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17587_val",
+        "question": "What is the percentage of employed girls in 2003 ?",
+        "gold": 13.9129715635,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 20.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17598_val",
+        "question": "Across all years, what is the minimum enrollment rate in primary education ?",
+        "gold": 80.80299,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 91.6,
+            "misrepresentation": 59.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17598_val",
+        "question": "What is the enrollment rate in secondary education in 1978 ?",
+        "gold": 64.90172,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 82.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17617_val",
+        "question": "What is the percentage of urban population who used sanitation services in 2010 ?",
+        "gold": 84.5122487058,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 96.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17645_val",
+        "question": "Across all years, what is the minimum payment made to resident workers ?",
+        "gold": 194946058.5,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 240599820.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17645_val",
+        "question": "What is the payment made to non-resident workers in 2011 ?",
+        "gold": 268162953.1,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 232868569.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17671_val",
+        "question": "What is the percentage of female labor force in 1991 ?",
+        "gold": 67.0999984741,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 80.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17697_val",
+        "question": "In how many years, is the rural population greater than 62 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17711_val",
+        "question": "Across all years, what is the minimum amount of goods exported ?",
+        "gold": "1815066631",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2312046054.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17725_val",
+        "question": "Across all years, what is the minimum enrollment rate in secondary education ?",
+        "gold": 16.93286,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 59.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17725_val",
+        "question": "In how many years, is the enrollment rate in secondary education greater than 56 %?",
+        "gold": 1,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17749_val",
+        "question": "Across all years, what is the minimum pupil-teacher ratio in primary education ?",
+        "gold": 41.2119293213,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 23.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17766_val",
+        "question": "In how many years, is the amount of nitrous oxide emissions greater than 6000 thousand metric tons?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17776_val",
+        "question": "What is the difference between the survival rate of female students in primary education in 2009 and that in 2012 ?",
+        "gold": 0.3069610596,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": -0.5333333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17780_val",
+        "question": "Across all years, what is the minimum female population ?",
+        "gold": 4.9,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 9.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17780_val",
+        "question": "In how many years, is the female population greater than 32 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17814_val",
+        "question": "What is the difference between the highest and the second highest gross intake ratio(female) ?",
+        "gold": 2.17211,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17828_val",
+        "question": "Across all years, what is the minimum percentage of overweight children ?",
+        "gold": 3.5,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 7.6,
+            "misrepresentation": 2.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17836_val",
+        "question": "Across all years, what is the minimum percentage of male repeaters ?",
+        "gold": 5.34044,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 14.0,
+            "misrepresentation": 4.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17836_val",
+        "question": "In how many years, is the percentage of female repeaters greater than 5.2 %?",
+        "gold": 6,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "dual_axis"
+        ],
+        "misleading_answers": {
+            "dual_axis": 7.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17839_val",
+        "question": "What is the amount of commercial service imports in 2008 ?",
+        "gold": 47030916283.2904,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 470309.0,
+            "misrepresentation": 34191338449.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17840_val",
+        "question": "Across all years, what is the minimum balance of payments of transport services ?",
+        "gold": 26.7161606113,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 35.06666666666666
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17840_val",
+        "question": "What is the balance of payments of transport services in 2013 ?",
+        "gold": 26.7161606113,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 17.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17863_val",
+        "question": "What is the number of fixed telephone subscriptions in 1997 ?",
+        "gold": "646291",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 118433.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17869_val",
+        "question": "What is the amount spent on transport items of international tourists in 2006 ?",
+        "gold": "52000000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 20000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17890_val",
+        "question": "Across all years, what is the minimum expenditure in staff compensation ?",
+        "gold": 66.0012664795,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 78.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17894_val",
+        "question": "What is the difference between the highest and the second highest number of trademark applications made by residents ?",
+        "gold": 18,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 37.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17894_val",
+        "question": "Across all years, what is the minimum number of trademark applications made by residents ?",
+        "gold": "10",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 47.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17898_val",
+        "question": "Across all years, what is the minimum percentage of registered firms ?",
+        "gold": 12.45,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 27.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17901_val",
+        "question": "In how many years, is the rural population growth greater than 0.4 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 9.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17920_val",
+        "question": "In how many years, is the rural population density greater than 92000 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17929_val",
+        "question": "What is the difference between the highest and the second highest annual growth rate in broad money ?",
+        "gold": 2.6612999249,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17935_val",
+        "question": "What is the export of goods and services in 2005 ?",
+        "gold": 9230841935.0827,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 9945827633.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17939_val",
+        "question": "In how many years, is the net national savings greater than 88000000 US$?",
+        "gold": 1,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.0,
+            "misrepresentation": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17942_val",
+        "question": "Across all years, what is the minimum official aid received ?",
+        "gold": "57100000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 183990000.0,
+            "misrepresentation": 61610000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17943_val",
+        "question": "What is the difference between the highest and the second highest percentage of underweighted male children ?",
+        "gold": 0.2999999523,
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.3666666666666667
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17943_val",
+        "question": "Across all years, what is the minimum percentage of underweighted male children ?",
+        "gold": 1.8999999762,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.1,
+            "misrepresentation": 1.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17943_val",
+        "question": "What is the percentage of underweighted female children in 2008 ?",
+        "gold": 1.7999999523,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.45,
+            "misrepresentation": 1.25
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17943_val",
+        "question": "What is the difference between the percentage of underweighted female children in 2008 and that in 2009 ?",
+        "gold": 0.2999999523,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": -0.09999999999999999,
+            "misrepresentation": 0.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17980_val",
+        "question": "Is the percentage of electricity produced by hydroelectric sources strictly greater than the percentage of electricity produced by renewable sources over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17980_val",
+        "question": "In how many years, is the percentage of electricity produced by nuclear sources greater than 54 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0,
+            "inappropriate_use_of_log_scale": 6.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "17990_val",
+        "question": "Across all years, what is the maximum amount of net capital account ?",
+        "gold": 1804300000,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 3025643587.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18054_val",
+        "question": "Is the percentage of revenue generated by taxes on income strictly greater than the percentage of revenue generated by taxes on goods and services over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18192_val",
+        "question": "In how many years, is the percentage of male employers greater than 0.52 %?",
+        "gold": 4,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 3.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18192_val",
+        "question": "What is the difference between the percentage of male employers in 1993 and that in 1994 ?",
+        "gold": 0.2999999523,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.06666666666666667,
+            "misrepresentation": 0.8333333333333334
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18265_val",
+        "question": "Across all years, what is the minimum percentage of female labor force within the age group 15-20 ?",
+        "gold": 59.4000015259,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 65.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18297_val",
+        "question": "Across all years, what is the minimum number of people who dies of non-communicable diseases ?",
+        "gold": 15.6,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 20.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18306_val",
+        "question": "Across all years, what is the minimum percentage of self employed children ?",
+        "gold": 1.33,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18347_val",
+        "question": "Is the value added in manufacturing textile and clothing strictly greater than the value added in manufacturing transport equipments over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18347_val",
+        "question": "What is the value added in manufacturing transport equipments in 2006 ?",
+        "gold": 44.2105917057,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 24.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18357_val",
+        "question": "Is the percentage of ores and metals imports strictly greater than the percentage of manufactures imports over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18409_val",
+        "question": "Is the value added in manufacturing textile and clothing strictly greater than the value added in manufacturing transport equipments over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18410_val",
+        "question": "Is the percentage of manufactures imports strictly greater than the percentage of ores and metals imports over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "yes."
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18410_val",
+        "question": "Across all years, what is the minimum percentage of manufactures imports ?",
+        "gold": 74.9078418876,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 84.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18410_val",
+        "question": "What is the percentage of manufactures imports in 2003 ?",
+        "gold": 84.3179550272,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 5.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18410_val",
+        "question": "In how many years, is the percentage of fuel imports greater than 36 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0,
+            "inappropriate_use_of_log_scale": 6.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18425_val",
+        "question": "Is the percentage of labor force who received secondary education strictly greater than the percentage of labor force who received tertiary education over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18425_val",
+        "question": "Across all years, what is the minimum percentage of labor force who received primary education ?",
+        "gold": 24.1000003815,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 38.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18425_val",
+        "question": "What is the percentage of labor force who received secondary education in 2006 ?",
+        "gold": 36.0999984741,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 38.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18433_val",
+        "question": "Is the percentage of electricity produced by hydroelectric sources strictly greater than the percentage of electricity produced by nuclear sources over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18433_val",
+        "question": "Across all years, what is the minimum percentage of electricity produced by hydroelectric sources ?",
+        "gold": 25.0131574619,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 42.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18482_val",
+        "question": "What is the percentage of female labor force within the age group 20-50 in 2012 ?",
+        "gold": 51,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 37.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18483_val",
+        "question": "In how many years, is the amount of net capital account greater than 1000000000 US$?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18553_val",
+        "question": "Is the percentage of economically active children in manufacturing strictly greater than the percentage of economically active children in services over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18553_val",
+        "question": "Across all years, what is the minimum percentage of economically active children in services ?",
+        "gold": 50.13,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 15.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18553_val",
+        "question": "What is the percentage of economically active children in services in 2010 ?",
+        "gold": 52.76,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 15.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18553_val",
+        "question": "In how many years, is the percentage of economically active children in agriculture greater than 44 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 3.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18572_val",
+        "question": "Across all years, what is the minimum percentage of female labor force above age 50 ?",
+        "gold": 68.5843237102,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 54.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18572_val",
+        "question": "What is the percentage of female labor force above age 50 in 2007 ?",
+        "gold": 68.6265029691,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 54.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18599_val",
+        "question": "Across all years, what is the minimum amount of industrial nitrous oxide emissions ?",
+        "gold": 725.4,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 945.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18599_val",
+        "question": "What is the amount of methane emissions in 2000 ?",
+        "gold": 11839.6,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 6977.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18629_val",
+        "question": "Is the percentage of male labor force who received tertiary education strictly greater than the percentage of male labor force who received secondary education over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18629_val",
+        "question": "Across all years, what is the minimum percentage of male labor force who received secondary education ?",
+        "gold": 46.9000015259,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 53.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18678_val",
+        "question": "Across all years, what is the minimum percentage of electricity produced by nuclear sources ?",
+        "gold": 30.0986684548,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18708_val",
+        "question": "What is the percentage of claim on the private sector in 2012 ?",
+        "gold": 19.5039712008,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 22.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18708_val",
+        "question": "In how many years, is the percentage of claim on the domestic economy greater than 28 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18708_val",
+        "question": "What is the difference between the percentage of claim on the private sector in 2006 and that in 2007 ?",
+        "gold": 1.8222319924,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.16666666666666666
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18757_val",
+        "question": "Across all years, what is the minimum expenditure on primary education ?",
+        "gold": 33.6255912781,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 16.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18757_val",
+        "question": "What is the expenditure on secondary education in 2003 ?",
+        "gold": 35.3505783081,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 49.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18819_val",
+        "question": "Is the gender parity index in secondary education strictly greater than the gender parity index in primary education over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18819_val",
+        "question": "Across all years, what is the minimum gender parity index in secondary education ?",
+        "gold": 1.0041799545,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.925,
+            "misrepresentation": 0.9166666666666666
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18819_val",
+        "question": "What is the gender parity index in secondary education in 1985 ?",
+        "gold": 1.0112700462,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.85
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18830_val",
+        "question": "Across all years, what is the minimum percentage of economically active children in agriculture ?",
+        "gold": 78.48,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 11.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18830_val",
+        "question": "In how many years, is the percentage of economically active children in manufacturing greater than 68 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18911_val",
+        "question": "Is the rent towards oil strictly greater than the rent towards natural gas over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "inappropriate_use_of_log_scale": "yes."
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18925_val",
+        "question": "Is the percentage of food imports strictly greater than the percentage of raw materials imports over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "inappropriate_use_of_log_scale": "yes."
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18925_val",
+        "question": "Across all years, what is the minimum percentage of food imports ?",
+        "gold": 7.6925687537,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 13.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18999_val",
+        "question": "Across all years, what is the minimum percentage of raw materials imports ?",
+        "gold": 3.2696126357,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "18999_val",
+        "question": "What is the percentage of fuel imports in 1991 ?",
+        "gold": 25.8892617651,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 5.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19008_val",
+        "question": "What is the net disbursements made by slovak republic in 2007 ?",
+        "gold": "670000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 70000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19050_val",
+        "question": "Is the percentage of electricity produced by natural gas strictly greater than the percentage of electricity produced by oil sources over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19050_val",
+        "question": "In how many years, is the percentage of electricity produced by oil sources greater than 22 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 8.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19068_val",
+        "question": "In how many years, is the percentage of children employed as wage workers greater than 84 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19134_val",
+        "question": "Is the percentage of male labor force who received secondary education strictly greater than the percentage of male labor force who received tertiary education over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19134_val",
+        "question": "In how many years, is the percentage of male labor force who received tertiary education greater than 30 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0,
+            "misrepresentation": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19163_val",
+        "question": "Is the rent towards coal strictly greater than the rent towards oil over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "inappropriate_use_of_log_scale": "yes."
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19163_val",
+        "question": "In how many years, is the rent towards coal greater than 2.8 %?",
+        "gold": 2,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1.0,
+            "misrepresentation": 1.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19171_val",
+        "question": "Is the percentage of male labor force above age 50 strictly greater than the percentage of male labor force within the age group 15-20 over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19253_val",
+        "question": "Across all years, what is the minimum balance of payment of transport services ?",
+        "gold": 3.5980037248,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19253_val",
+        "question": "In how many years, is the balance of payment of travel services greater than 42 %?",
+        "gold": 3,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.0,
+            "misrepresentation": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19376_val",
+        "question": "Across all years, what is the minimum percentage of co2 emissions from resident buildings and public services ?",
+        "gold": 13.6088709677,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 15.100000000000001
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19376_val",
+        "question": "What is the percentage of co2 emissions from transport in 1987 ?",
+        "gold": 19.7353914002,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 15.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19420_val",
+        "question": "Across all years, what is the minimum percentage of children employed as unpaid family workers ?",
+        "gold": 68.5,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 76.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19435_val",
+        "question": "Is the value added in manufacturing transport equipments strictly greater than the value added in manufacturing textile and clothing over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "yes."
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19483_val",
+        "question": "Is the percentage of revenue generated by taxes on goods and services strictly greater than the percentage of revenue generated by tax on international trade over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19483_val",
+        "question": "Across all years, what is the minimum percentage of revenue generated by taxes on goods and services ?",
+        "gold": 26.2436830731,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 63.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19483_val",
+        "question": "In how many years, is the percentage of revenue generated by tax on international trade greater than 34 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.0,
+            "inappropriate_use_of_log_scale": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19539_val",
+        "question": "Is the percentage of gaseous fuel emission strictly greater than the percentage of solid fuel emission over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19539_val",
+        "question": "Across all years, what is the minimum percentage of liquid fuel emission ?",
+        "gold": 56.9609967497,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 68.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19539_val",
+        "question": "In how many years, is the percentage of solid fuel emission greater than 56 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19609_val",
+        "question": "Is the percentage of fuel imports strictly greater than the percentage of food imports over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19609_val",
+        "question": "Across all years, what is the minimum percentage of fuel imports ?",
+        "gold": 2.3486709403,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.3,
+            "misrepresentation": 1.1333333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19609_val",
+        "question": "In how many years, is the percentage of raw materials imports greater than 2 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 7.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19707_val",
+        "question": "Across all years, what is the minimum percentage of labor force who received secondary education ?",
+        "gold": 3.4000000954,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19712_val",
+        "question": "Is the percentage of female labor force who received primary education strictly greater than the percentage of female labor force who received tertiary education over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19712_val",
+        "question": "Across all years, what is the minimum percentage of female labor force who received primary education ?",
+        "gold": 50,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 52.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19733_val",
+        "question": "Is the cpia rating of social equity strictly greater than the cpia rating of environmental sustainability over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19733_val",
+        "question": "Across all years, what is the minimum cpia rating of social equity ?",
+        "gold": 3.26,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19743_val",
+        "question": "In how many years, is the amount of aid given by portugal greater than 5200000 US$?",
+        "gold": 1,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19869_val",
+        "question": "Across all years, what is the minimum percentage of firms offering training ?",
+        "gold": 22.5,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 32.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19906_val",
+        "question": "Is the amount spent on custom duties strictly greater than the amount spent on other expenses over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "19906_val",
+        "question": "In how many years, is the amount spent on custom duties greater than 150000000000 $?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20005_val",
+        "question": "Across all years, what is the minimum percentage of women justifying abuse for showing negligence towards children ?",
+        "gold": 22.4,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 6.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20005_val",
+        "question": "What is the percentage of women justifying abuse for showing negligence towards children in 2012 ?",
+        "gold": 25.6,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 6.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20098_val",
+        "question": "Across all years, what is the minimum amount spent on other expenses ?",
+        "gold": "116462000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 531775000.2,
+            "inappropriate_use_of_log_scale": 1164620000.0,
+            "misrepresentation": 134602000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20212_val",
+        "question": "Across all years, what is the minimum percentage of women justifying abuse in the case of an argument ?",
+        "gold": 24.1,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 37.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20212_val",
+        "question": "In how many years, is the percentage of women justifying abuse for going without permission greater than 18 %?",
+        "gold": 2,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20261_val",
+        "question": "Is the amount of aid given by unpbf strictly greater than the amount of aid given by undp over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20263_val",
+        "question": "Is the natural gas rent strictly greater than the  rent of other minerals over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20328_val",
+        "question": "Is the gross enrolment ratio(male) in tertiary schools strictly greater than the gross enrolment ratio(male) in primary schools over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20430_val",
+        "question": "Across all years, what is the minimum amount of aid given by unhcr ?",
+        "gold": "8970000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 89700000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20436_val",
+        "question": "In how many years, is the amount spent on labor taxes greater than 46000000000 $?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20465_val",
+        "question": "Is the gross enrolment ratio(male) in secondary schools strictly greater than the gross enrolment ratio(male) in pre-primary schools over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20504_val",
+        "question": "Across all years, what is the minimum value added by services sector ?",
+        "gold": 79.7589121932,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 16.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20504_val",
+        "question": "What is the value added by manufacturing sector in 2003 ?",
+        "gold": 2.6697523451,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3.566666666666667
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20536_val",
+        "question": "Is the gross enrolment ratio(male) in secondary schools strictly greater than the gross enrolment ratio(male) in primary schools over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20536_val",
+        "question": "Across all years, what is the minimum gross enrolment ratio(male) in tertiary schools ?",
+        "gold": 45.1935691833,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 66.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20573_val",
+        "question": "Is the amount of aid given by italy strictly greater than the amount of aid given by japan over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20573_val",
+        "question": "Across all years, what is the minimum amount of aid given by france ?",
+        "gold": "70040000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 704000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20573_val",
+        "question": "What is the amount of aid given by japan in 1981 ?",
+        "gold": "8240000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 82400000.0,
+            "inappropriate_use_of_log_scale": 82400000.0,
+            "misrepresentation": 82400000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20638_val",
+        "question": "Across all years, what is the minimum percentage of male workers in services ?",
+        "gold": 58.7999992371,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 81.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20764_val",
+        "question": "Across all years, what is the minimum amount of aid given by unpbf ?",
+        "gold": "20000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1320000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20848_val",
+        "question": "Across all years, what is the minimum percentage of male workers in services ?",
+        "gold": 45.7999992371,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 19.266666666666666
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20848_val",
+        "question": "What is the percentage of male workers in industry in 2004 ?",
+        "gold": 34.5999984741,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 47.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20878_val",
+        "question": "In how many years, is the gross enrolment ratio(female) in secondary schools greater than 92 %?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 7.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20933_val",
+        "question": "In how many years, is the gross enrolment ratio in primary schools greater than 96 %?",
+        "gold": 3,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20949_val",
+        "question": "What is the percentage of female students in secondary education in 1980 ?",
+        "gold": 27.65408,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 36.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20962_val",
+        "question": "Is the amount of loan disimbursed by other organisations in 2005 less than that in 2009 ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20965_val",
+        "question": "Is the amount of loan disimbursed by international development association strictly greater than the amount of loan disimbursed by other organisations over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "20971_val",
+        "question": "Is the gross enrolment ratio(male) in pre-primary schools strictly greater than the gross enrolment ratio(male) in primary schools over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21023_val",
+        "question": "Is the percentage of female students in secondary vocational education strictly greater than the percentage of female students in secondary education over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21023_val",
+        "question": "Across all years, what is the minimum percentage of female students in tertiary education ?",
+        "gold": 48.2449913025,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 42.53333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21023_val",
+        "question": "What is the percentage of female students in primary education in 2003 ?",
+        "gold": 48.5970306396,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 42.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21150_val",
+        "question": "What is the amount of aid given by japan in 1994 ?",
+        "gold": "830000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 8300000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21189_val",
+        "question": "Is the emission of greenhouse gases strictly greater than the emission of hfc gas over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21278_val",
+        "question": "Across all years, what is the minimum net enrollment rate in primary schools ?",
+        "gold": 45.7280006409,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 49.650000000000006
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21278_val",
+        "question": "What is the difference between the net enrollment rate in primary schools in 1982 and 1984 ?",
+        "gold": -0.5139503479,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 0.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21280_val",
+        "question": "Across all years, what is the minimum total unemployed labour force ?",
+        "gold": 44.9000015259,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 47.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21280_val",
+        "question": "Do a majority of the years between 2006 and 2007 (inclusive) have total unemployed labour force greater than 8 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21285_val",
+        "question": "Does the ease of doing business index monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21287_val",
+        "question": "Does the number of days to obtain operating license monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21295_val",
+        "question": "Across all years, what is the minimum long-term unemployment ?",
+        "gold": 10.3536951563,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 12.7,
+            "misrepresentation": 12.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21306_val",
+        "question": "Across all years, what is the minimum number of international migrant stocks ?",
+        "gold": 2.1182814956,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.533333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21307_val",
+        "question": "Across all years, what is the minimum total water productivity ?",
+        "gold": 232.7445265463,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 736.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21319_val",
+        "question": "Across all years, what is the minimum number of armed forces personnel ?",
+        "gold": "91000",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 192900.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21348_val",
+        "question": "Across all years, what is the minimum number of out-of-school children ?",
+        "gold": "159",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 25127.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21348_val",
+        "question": "Do a majority of the years between 1997 and 2005 (inclusive) have number of out-of-school children greater than 15000  ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21372_val",
+        "question": "Across all years, what is the minimum total number of international migrant stock ?",
+        "gold": "13103",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 20078.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21383_val",
+        "question": "What is the amount of waste generated in 1985 ?",
+        "gold": 1.4575390229,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.75
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21403_val",
+        "question": "Across all years, what is the minimum cereal yield ?",
+        "gold": 3711.535,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4047.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21403_val",
+        "question": "Do a majority of the years between 1999 and 1996 (inclusive) have cereal yield greater than 3800 kg per hectare ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21403_val",
+        "question": "What is the difference between the cereal yield in 1998 and 1999 ?",
+        "gold": 336.041,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 663.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21420_val",
+        "question": "Across all years, what is the minimum total reserves (including gold) ?",
+        "gold": 97094800,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 208907500.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21424_val",
+        "question": "Does the ease of doing business index monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21430_val",
+        "question": "Does the total debt monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21430_val",
+        "question": "Do a majority of the years between 1998 and 1999 (inclusive) have total debt greater than 2200000000 US$ ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21454_val",
+        "question": "Across all years, what is the minimum unemployed female youth ?",
+        "gold": 9.8000001907,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 74.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21454_val",
+        "question": "Do a majority of the years between 1999 and 2004 (inclusive) have unemployed female youth greater than 6 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21455_val",
+        "question": "Across all years, what is the minimum number of people infected with hiv ?",
+        "gold": 8.3,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 10.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21459_val",
+        "question": "Across all years, what is the minimum official exchange rate ?",
+        "gold": 14.5063916664,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 16.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21461_val",
+        "question": "Across all years, what is the minimum annual freshwater withdrawals ?",
+        "gold": 23.5897435897,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 29.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21462_val",
+        "question": "Across all years, what is the minimum official exchange rate ?",
+        "gold": 57.0417916667,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 69.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21466_val",
+        "question": "Does the percentage of population living below poverty line monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21496_val",
+        "question": "Across all years, what is the minimum number of internet users ?",
+        "gold": 64.43,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 73.4,
+            "misrepresentation": 68.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21501_val",
+        "question": "Across all years, what is the minimum number of required meetings with tax officials ?",
+        "gold": 4.4,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21503_val",
+        "question": "Is the difference between the number of children living with hiv in 2000 and 2003 greater than the difference between any two years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21510_val",
+        "question": "Across all years, what is the minimum agriculture value added per worker ?",
+        "gold": 4801.8999809981,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6572.9,
+            "misrepresentation": 5227.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21510_val",
+        "question": "Do a majority of the years between 2010 and 2008 (inclusive) have agriculture value added per worker greater than 5800 US$ ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21512_val",
+        "question": "Does the adjusted net savings monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21512_val",
+        "question": "Across all years, what is the minimum adjusted net savings ?",
+        "gold": 39231426.8266688,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 90928108.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21543_val",
+        "question": "What is the difference between the rating measuring burden of customs procedure in 2012 and 2013 ?",
+        "gold": 0.7,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.3,
+            "misrepresentation": 0.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21547_val",
+        "question": "Across all years, what is the minimum amount of co2 emissions ?",
+        "gold": 0.9781746809,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1.35,
+            "misrepresentation": 0.9500000000000001
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21577_val",
+        "question": "Across all years, what is the minimum enrolment percentage in primary education ?",
+        "gold": 13.9573698044,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 15.013333333333334
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21577_val",
+        "question": "What is the difference between the enrolment percentage in primary education in 2003 and 2004 ?",
+        "gold": 0.3116798401,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21582_val",
+        "question": "Across all years, what is the minimum total imports ?",
+        "gold": 45.3836777576,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 57.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21596_val",
+        "question": "Across all years, what is the minimum land under cereal production ?",
+        "gold": "368588",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 431637.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21610_val",
+        "question": "Does the number of nurses and midwives monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21617_val",
+        "question": "Does the contributing family workers monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21617_val",
+        "question": "Across all years, what is the minimum contributing family workers ?",
+        "gold": 14.1000003815,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 16.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21623_val",
+        "question": "Across all years, what is the minimum enrolment percentage in primary education ?",
+        "gold": 4.2777600288,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21630_val",
+        "question": "What is the difference between the cost of business startup procedures in 2008 and 2013 ?",
+        "gold": 0.1,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.26666666666666666
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21639_val",
+        "question": "Across all years, what is the minimum education expenditure ?",
+        "gold": 7863800.307617402,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 8760475.6
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21650_val",
+        "question": "Across all years, what is the minimum life expectancy at birth ?",
+        "gold": 62.9677073171,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 66.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21653_val",
+        "question": "Across all years, what is the minimum population in urban agglomerations ?",
+        "gold": "1035248",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1168010.0,
+            "misrepresentation": 1105000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21657_val",
+        "question": "Across all years, what is the minimum electric power transmission and distribution losses ?",
+        "gold": 8.1523228054,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 9.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21657_val",
+        "question": "What is the difference between the electric power transmission and distribution losses in 1977 and 1980 ?",
+        "gold": 0.8139637421,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.06666666666666667
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21675_val",
+        "question": "Across all years, what is the minimum enrolment percentage in primary education ?",
+        "gold": 5.8283500671,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 8.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21691_val",
+        "question": "Across all years, what is the minimum percentage of repeaters in primary education ?",
+        "gold": 16.9563999176,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 19.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21706_val",
+        "question": "Across all years, what is the minimum percentage of part-time male workers ?",
+        "gold": 2.0999999046,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.95
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21711_val",
+        "question": "Do a majority of the years between 2002 and 2007 (inclusive) have contributing male family workers greater than 1.5 % ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21715_val",
+        "question": "Across all years, what is the minimum government expenditure per student ?",
+        "gold": 16.8592605591,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 20.033333333333335
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21715_val",
+        "question": "Do a majority of the years between 2006 and 2004 (inclusive) have government expenditure per student greater than 4 % ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes",
+            "misrepresentation": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21739_val",
+        "question": "Do a majority of the years between 2005 and 2008 (inclusive) have liner shipping connectivity index greater than 6  ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes",
+            "inappropriate_use_of_log_scale": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21762_val",
+        "question": "What is the difference between the long-term unemployment in 2008 and 2010 ?",
+        "gold": 3.5,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 4.050000000000001
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21777_val",
+        "question": "Do a majority of the years between 1999 and 2000 (inclusive) have percentage of employed males who are vulnerable to fall into poverty greater than 42 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21798_val",
+        "question": "Across all years, what is the minimum amount of fertilizer consumption ?",
+        "gold": 5.2618705036,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 8.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21798_val",
+        "question": "What is the amount of fertilizer consumption in 2008 ?",
+        "gold": 8.3225419664,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 12.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21816_val",
+        "question": "Across all years, what is the minimum debt service ?",
+        "gold": 1.639543112,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 7.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21818_val",
+        "question": "Do a majority of the years between 2007 and 2008 (inclusive) have unemployed male youth population greater than 30 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "inappropriate_use_of_log_scale": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21832_val",
+        "question": "Do a majority of the years between 2004 and 2002 (inclusive) have container port traffic greater than 1300000 TEU ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21861_val",
+        "question": "Across all years, what is the minimum detection rate of tuberculosis ?",
+        "gold": "47",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 170.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21863_val",
+        "question": "Across all years, what is the minimum total number of international migrant stock ?",
+        "gold": "276039",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 455230.0,
+            "misrepresentation": 343509.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21865_val",
+        "question": "Does the prevalence of severe wasting monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21865_val",
+        "question": "Across all years, what is the minimum prevalence of severe wasting ?",
+        "gold": 0.5,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.25
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21865_val",
+        "question": "What is the difference between the prevalence of severe wasting in 1974 and 2000 ?",
+        "gold": 0.5,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": -0.225
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21867_val",
+        "question": "Do a majority of the years between 2011 and 2012 (inclusive) have bank capital to assets ratio greater than 13 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21871_val",
+        "question": "Across all years, what is the minimum freight insurance ?",
+        "gold": 7.4569380264,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 11.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21875_val",
+        "question": "Across all years, what is the minimum unemployed female youth population ?",
+        "gold": 19.6000003815,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 24.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21891_val",
+        "question": "Does the investment monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21923_val",
+        "question": "What is the difference between the unemployed males population in 1995 and 1999 ?",
+        "gold": 1.8000001907,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.5333333333333333
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21926_val",
+        "question": "Across all years, what is the minimum percentage of full-time male workers ?",
+        "gold": 54,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 62.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21930_val",
+        "question": "Does the number of births attended by skilled health staff monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21930_val",
+        "question": "Across all years, what is the minimum number of births attended by skilled health staff ?",
+        "gold": 45.6021540502,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 56.8,
+            "misrepresentation": 56.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21953_val",
+        "question": "Across all years, what is the minimum population in urban agglomerations ?",
+        "gold": "2902627",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 3051724.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21960_val",
+        "question": "What is the antiretroviral therapy coverage in 2009 ?",
+        "gold": "18",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 31.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21965_val",
+        "question": "Does the mean income or consumption monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21965_val",
+        "question": "What is the difference between the mean income or consumption in 2006 and 2009 ?",
+        "gold": 0.1418820998,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 0.1,
+            "misrepresentation": 0.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21967_val",
+        "question": "Across all years, what is the minimum discrepancy in expenditure estimate of gdp ?",
+        "gold": "8333003700",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 11909295500.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21971_val",
+        "question": "Across all years, what is the minimum dalay in electrical connection ?",
+        "gold": 6.2,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 8.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21974_val",
+        "question": "Across all years, what is the minimum percentage of rural population living below poverty line ?",
+        "gold": 27,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 39.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "21999_val",
+        "question": "In how many years, is the energy imports greater than -24 % ?",
+        "gold": 0,
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 4.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22029_val",
+        "question": "Does the percentage of babies who were born with low-birthweight monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22037_val",
+        "question": "Across all years, what is the minimum personal remittances ?",
+        "gold": 1001999.974,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2740000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22038_val",
+        "question": "Across all years, what is the minimum consumption of fixed capital ?",
+        "gold": 15.3986406318,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 16.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22040_val",
+        "question": "What is the difference between the number of anaemic children in 1998 and 2000 ?",
+        "gold": 0.6,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22055_val",
+        "question": "Across all years, what is the minimum percentage of babies who were born with low-birthweight ?",
+        "gold": 5.4,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 6.0,
+            "misrepresentation": 5.866666666666666
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22057_val",
+        "question": "Across all years, what is the minimum amount of energy used ?",
+        "gold": 14112.69739663,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 15102.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22068_val",
+        "question": "Across all years, what is the minimum current account balance ?",
+        "gold": 157.0850858191,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 291.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22069_val",
+        "question": "Do a majority of the years between 1990 and 1995 (inclusive) have total number of international migrant stock greater than 360000  ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22075_val",
+        "question": "Across all years, what is the minimum percentage of full-time male workers ?",
+        "gold": 83.4502014392,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 8.342500000000001
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22075_val",
+        "question": "What is the percentage of full-time male workers in 1999 ?",
+        "gold": 83.7041204722,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 8.37
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22075_val",
+        "question": "Do a majority of the years between 1998 and 2001 (inclusive) have percentage of full-time male workers greater than 16 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22083_val",
+        "question": "Is the difference between the number of female supervised households in 2000 and 2005 greater than the difference between any two years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22083_val",
+        "question": "Across all years, what is the minimum number of female supervised households ?",
+        "gold": 28.9,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 37.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22089_val",
+        "question": "Across all years, what is the minimum price value of exports ?",
+        "gold": 1492101452.03628,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1804980949.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22106_val",
+        "question": "Does the percentage of babies who were born with low-birthweight monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22136_val",
+        "question": "Across all years, what is the minimum total number of fixed broadband subscriptions ?",
+        "gold": "17267",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 470200.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22138_val",
+        "question": "Across all years, what is the minimum number of tractors ?",
+        "gold": "47573",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 65594.0,
+            "misrepresentation": 52400.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22149_val",
+        "question": "What is the price value of exports in 2001 ?",
+        "gold": 6133763999.99996,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 2933205600.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22178_val",
+        "question": "Across all years, what is the minimum total labor force participation rate ?",
+        "gold": 35,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 38.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22190_val",
+        "question": "Across all years, what is the minimum production of clean energy ?",
+        "gold": 1.2780022638,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 1.5499999999999998
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22191_val",
+        "question": "Across all years, what is the minimum fossil fuel energy consumption ?",
+        "gold": 99.9818621939,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 9.9982
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22191_val",
+        "question": "What is the fossil fuel energy consumption in 1993 ?",
+        "gold": 99.9926345991,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 9.9992
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22191_val",
+        "question": "Do a majority of the years between 1995 and 1992 (inclusive) have fossil fuel energy consumption greater than 52 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22192_val",
+        "question": "Across all years, what is the minimum domestic credit provided by financial sector ?",
+        "gold": 82.8148800431,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 102.4
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22199_val",
+        "question": "Across all years, what is the minimum agriculture value added per worker ?",
+        "gold": 649.114973569,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 702.7
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22201_val",
+        "question": "Do a majority of the years between 2012 and 2007 (inclusive) have cost of communications and computer greater than 36 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22203_val",
+        "question": "Across all years, what is the minimum amount spent in making social contributions ?",
+        "gold": 28.9054159202,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 31.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22221_val",
+        "question": "What is the difference between the number of hospital beds in 1980 and 1996 ?",
+        "gold": 0.736399889,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22224_val",
+        "question": "Does the percentage of firms with female as top manager monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22224_val",
+        "question": "What is the percentage of firms with female as top manager in 2008 ?",
+        "gold": 19.8,
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 32.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22227_val",
+        "question": "Does the percentage of firms with female as top manager monotonically increase over the years ?",
+        "gold": "Yes",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22239_val",
+        "question": "Across all years, what is the minimum density of new business ?",
+        "gold": 1.37,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 2.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22247_val",
+        "question": "What is the amount of electricity produced in 1966 ?",
+        "gold": "122000000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": 1220000000.0,
+            "misrepresentation": 1220000000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22265_val",
+        "question": "Across all years, what is the minimum domestic credit provided by financial sector ?",
+        "gold": 6.4601036486,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 18.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22269_val",
+        "question": "Do a majority of the years between 2004 and 2007 (inclusive) have amount of ict goods imports greater than 4.2 % ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22271_val",
+        "question": "Do a majority of the years between 2006 and 2008 (inclusive) have use of imf credit in dod greater than 25000000 US$ ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22272_val",
+        "question": "Across all years, what is the minimum number of births attended by skilled health staff ?",
+        "gold": 51.6,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 82.2
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22272_val",
+        "question": "Do a majority of the years between 2000 and 2012 (inclusive) have number of births attended by skilled health staff greater than 52 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22274_val",
+        "question": "Do a majority of the years between 2006 and 2007 (inclusive) have total female labor force greater than 12 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22289_val",
+        "question": "Across all years, what is the minimum percentage of undernourished population ?",
+        "gold": 53.9,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 65.8
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22290_val",
+        "question": "Across all years, what is the minimum liner shipping connectivity index ?",
+        "gold": 77.98,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 88.5
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22300_val",
+        "question": "Across all years, what is the minimum rating measuring quality of port infrastructure ?",
+        "gold": 4.8714471969,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 5.45
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22301_val",
+        "question": "Across all years, what is the minimum losses due to theft ?",
+        "gold": 0.2,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.4666666666666667
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22301_val",
+        "question": "What is the difference between the losses due to theft in 2009 and 2013 ?",
+        "gold": 0.5,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 0.1
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22337_val",
+        "question": "What is the use of imf credit in dod in 1988 ?",
+        "gold": "7459000",
+        "question_class": "data_retrieval",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 74590000.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22337_val",
+        "question": "Do a majority of the years between 1984 and 1985 (inclusive) have use of imf credit in dod greater than 76000000 US$ ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22341_val",
+        "question": "Do a majority of the years between 1975 and 1980 (inclusive) have number of international migrant stocks greater than 1 % ?",
+        "gold": "No",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22359_val",
+        "question": "Does the insurance provided by non-residents monotonically increase over the years ?",
+        "gold": "No",
+        "question_class": "compound",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22367_val",
+        "question": "Across all years, what is the minimum agricultural land ?",
+        "gold": "114",
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 134.0
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22372_val",
+        "question": "Across all years, what is the minimum total interest payments on external debt ?",
+        "gold": 1.8500146768,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.15
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22372_val",
+        "question": "Do a majority of the years between 2001 and 2004 (inclusive) have total interest payments on external debt greater than 8.8 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "no",
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22394_val",
+        "question": "Across all years, what is the minimum percentage of economically active population ?",
+        "gold": 51.2999992371,
+        "question_class": "min_max",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 53.9
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22394_val",
+        "question": "What is the difference between the percentage of economically active population in 2008 and 2009 ?",
+        "gold": 0.7999992371,
+        "question_class": "arithmetic",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.3
+        },
+        "criteria": "correct-to-incorrect"
+    },
+    {
+        "imgname": "22406_val",
+        "question": "Do a majority of the years between 2010 and 2006 (inclusive) have tuberculosis treatment success rate greater than 4 % ?",
+        "gold": "Yes",
+        "question_class": "comparison",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "no"
+        },
+        "criteria": "correct-to-incorrect"
+    }
+]

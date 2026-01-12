@@ -1,0 +1,61 @@
+{
+    "title": "Import and export statistics of goods and services in different countries",
+    "x_axis": {
+        "categories": [
+            "Exports",
+            "Imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Comoros": "#bdb76b",
+        "Kenya": "#b6bd6b",
+        "Solomon Islands": "#adc072"
+    },
+    "data": {
+        "Comoros": [
+            22111840.22050631,
+            59866770.74573161
+        ],
+        "Kenya": [
+            1551597959.74891,
+            1686897688.93841
+        ],
+        "Solomon Islands": [
+            69388821.1736026,
+            130071391.258924
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1686897690
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Comoros": "#bdb76b",
+        "Kenya": "#b6bd6b",
+        "Solomon Islands": "#adc072"
+    }
+}

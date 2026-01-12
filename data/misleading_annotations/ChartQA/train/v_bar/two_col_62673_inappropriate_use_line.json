@@ -1,0 +1,80 @@
+{
+    "title": "Imports in million metric tons",
+    "x_axis": {
+        "categories": [
+            "2000/01",
+            "2001/02",
+            "2002/03",
+            "2003/04",
+            "2004/05",
+            "2005/06",
+            "2006/07",
+            "2007/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19"
+        ]
+    },
+    "y_axis": {
+        "label": "Imports in million metric tons"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            3.31,
+            4.4,
+            4.64,
+            2.58,
+            2.95,
+            2.35,
+            2.54,
+            3.68,
+            2.35,
+            2.69,
+            1.74,
+            1.37,
+            1.03,
+            1.12,
+            2.31,
+            1.91,
+            1.45,
+            1.97,
+            1.43
+        ]
+    },
+    "type": "line",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Number of commercial bank branches and ATMs in different countries",
+    "x_axis": {
+        "categories": [
+            "Commercial bank branches",
+            "Automatic Teller Machines"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Botswana": "#F4A460",
+        "Cabo Verde": "#00FFFF",
+        "Lithuania": "#FF7F50",
+        "Switzerland": "#87CEEB"
+    },
+    "data": {
+        "Botswana": [
+            8.72142351890249,
+            29.3356972908538
+        ],
+        "Cabo Verde": [
+            25.5571144123457,
+            33.972261840801
+        ],
+        "Lithuania": [
+            30.00369387513789,
+            54.4881897411455
+        ],
+        "Switzerland": [
+            53.94437873847161,
+            94.13580287456259
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

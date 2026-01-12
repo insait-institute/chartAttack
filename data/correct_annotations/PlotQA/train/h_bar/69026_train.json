@@ -1,0 +1,72 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "legend": {
+        "European Union": "#2F4F4F",
+        "Bolivia": "#87CEEB",
+        "Liberia": "#CD5C5C",
+        "Mexico": "#A52A2A"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "European Union": [
+            2286784054641.21,
+            2632021862770.41,
+            2760092305670.37,
+            2267590807480.6
+        ],
+        "Bolivia": [
+            1297680363.47296,
+            1497657937.64011,
+            1862267521.37933,
+            2014339316.23932
+        ],
+        "Liberia": [
+            45806900.0,
+            54233800.0,
+            51072500.0,
+            49649800.0
+        ],
+        "Mexico": [
+            168138821840.135,
+            174407989147.344,
+            182148203096.22,
+            142695212269.212
+        ]
+    },
+    "colors": {
+        "European Union": "#2F4F4F",
+        "Bolivia": "#87CEEB",
+        "Liberia": "#CD5C5C",
+        "Mexico": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2760092305680
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Prison population per 100,000 inhabitants",
+    "categories": [
+        "Brazil",
+        "Uruguay",
+        "Guyana",
+        "Peru",
+        "French Guiana (France)",
+        "Colombia",
+        "Chile",
+        "Ecuador",
+        "Argentina",
+        "Paraguay",
+        "Suriname",
+        "Venezuela",
+        "Bolivia"
+    ],
+    "data": {
+        "Prison population": [
+            333,
+            321,
+            283,
+            278,
+            267,
+            241,
+            231,
+            222,
+            207,
+            199,
+            183,
+            178,
+            156
+        ]
+    },
+    "colors": {
+        "Prison population": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 340
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Prison population": "#2876dd"
+    }
+}

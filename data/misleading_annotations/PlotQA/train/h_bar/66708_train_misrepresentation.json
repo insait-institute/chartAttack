@@ -1,0 +1,116 @@
+{
+    "title": "CPIA fiscal policy rating",
+    "legend": {
+        "Chad": "#FF0000",
+        "Dominica": "#A020F0",
+        "Eritrea": "#90EE90",
+        "Ethiopia": "#CD853F"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Chad": [
+            3.0,
+            2.5,
+            2.5,
+            2.5,
+            2.5,
+            2.5
+        ],
+        "Dominica": [
+            4.5,
+            4.5,
+            4.5,
+            4.5,
+            4.5,
+            4.0
+        ],
+        "Eritrea": [
+            2.0,
+            2.0,
+            2.0,
+            2.0,
+            2.0,
+            2.0
+        ],
+        "Ethiopia": [
+            4.0,
+            4.0,
+            4.0,
+            4.0,
+            4.0,
+            4.0
+        ]
+    },
+    "colors": {
+        "Chad": "#FF0000",
+        "Dominica": "#A020F0",
+        "Eritrea": "#90EE90",
+        "Ethiopia": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Chad": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Dominica": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Eritrea": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Ethiopia": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

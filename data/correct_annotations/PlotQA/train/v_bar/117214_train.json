@@ -1,0 +1,56 @@
+{
+    "title": "Lower secondary completion rate of students in different countries",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Kazakhstan": "#4169E1",
+        "Macedonia": "#E9967A",
+        "Mauritania": "#DB7093"
+    },
+    "data": {
+        "Kazakhstan": [
+            104.558029174805,
+            99.82232666015629
+        ],
+        "Macedonia": [
+            92.3670120239258,
+            92.3796920776367
+        ],
+        "Mauritania": [
+            15.7297601699829,
+            18.7292003631592
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

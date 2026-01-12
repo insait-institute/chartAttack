@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Assists": "#2876dd"
+    },
+    "categories": [
+        "Michael Jordan",
+        "Scottie Pippen",
+        "Kirk Hinrich",
+        "Norm Van Lier",
+        "Derrick Rose",
+        "Reggie Theus",
+        "John Paxson",
+        "Bob Weiss",
+        "Tom Boerwinkle",
+        "Toni Kukoc"
+    ],
+    "data": {
+        "Assists": [
+            5012,
+            4494,
+            3811,
+            3676,
+            2516,
+            2472,
+            2394,
+            2008,
+            2007,
+            1840
+        ]
+    },
+    "colors": {
+        "Assists": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5020
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

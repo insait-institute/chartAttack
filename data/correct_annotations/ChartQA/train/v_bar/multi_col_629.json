@@ -1,0 +1,76 @@
+{
+    "title": "Unit sales in millions",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015*"
+        ]
+    },
+    "y_axis": {
+        "label": "Unit sales in millions"
+    },
+    "legend": {
+        "Western Europe": "#2876dd",
+        "Asia Pacific": "#0f283e",
+        "North America": "#bababa",
+        "Central and Eastern Europe": "#a60b0b",
+        "China": "#87bc24",
+        "South America": "#ebb523",
+        "Middle East and Africa": "#5d2b76"
+    },
+    "data": {
+        "Western Europe": [
+            4,
+            7.1
+        ],
+        "Asia Pacific": [
+            2.7,
+            4.9
+        ],
+        "North America": [
+            4.8,
+            8.5
+        ],
+        "Central and Eastern Europe": [
+            0.6,
+            1.1
+        ],
+        "China": [
+            0.9,
+            2.3
+        ],
+        "South America": [
+            0.2,
+            0.5
+        ],
+        "Middle East and Africa": [
+            0.3,
+            0.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

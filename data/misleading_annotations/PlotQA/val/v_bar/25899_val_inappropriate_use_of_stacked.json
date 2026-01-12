@@ -1,0 +1,72 @@
+{
+    "title": "Number of tax payers in a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Kenya": "#f27979",
+        "Kiribati": "#f2f200",
+        "Korea (Republic)": "#79f279",
+        "Kuwait": "#00a5a5",
+        "Kyrgyz Republic": "#5252a5",
+        "Lao PDR": "#a500a5"
+    },
+    "data": {
+        "Kenya": [
+            42.0
+        ],
+        "Kiribati": [
+            7.0
+        ],
+        "Korea (Republic)": [
+            15.0
+        ],
+        "Kuwait": [
+            12.0
+        ],
+        "Kyrgyz Republic": [
+            76.0
+        ],
+        "Lao PDR": [
+            34.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Kenya": "#f27979",
+        "Kiribati": "#f2f200",
+        "Korea (Republic)": "#79f279",
+        "Kuwait": "#00a5a5",
+        "Kyrgyz Republic": "#5252a5",
+        "Lao PDR": "#a500a5"
+    }
+}

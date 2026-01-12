@@ -1,0 +1,52 @@
+{
+    "title": "Population in urban agglomerations of countries",
+    "legend": {
+        "Mali": "#f27979",
+        "Mexico": "#00f200",
+        "Mongolia": "#5252a5"
+    },
+    "categories": [
+        "Population in urban agglomerations of countries"
+    ],
+    "data": {
+        "Mali": [
+            2.4700545050753
+        ],
+        "Mexico": [
+            23.718915912495
+        ],
+        "Mongolia": [
+            18.7399661334109
+        ]
+    },
+    "colors": {
+        "Mali": "#f27979",
+        "Mexico": "#00f200",
+        "Mongolia": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

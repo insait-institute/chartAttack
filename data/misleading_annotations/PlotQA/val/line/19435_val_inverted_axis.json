@@ -1,0 +1,83 @@
+{
+    "title": "Value added in manufacturing (as % of GDP) in Spain's economy",
+    "legend": {
+        "Machinery": "#A52A2A",
+        "Transport equipments": "#006400",
+        "Textiles and clothing": "#00CED1"
+    },
+    "x_axis": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+    ],
+    "y_axis_label": "Value added (in %)",
+    "data": [
+        {
+            "label": "Machinery",
+            "color": "#A52A2A",
+            "values": [
+                18.8568647432159,
+                18.322093773064,
+                19.3274339076102,
+                19.6371854137831,
+                19.2971769077319,
+                19.835353474397
+            ]
+        },
+        {
+            "label": "Transport equipments",
+            "color": "#006400",
+            "values": [
+                44.82886578638229,
+                45.5405200366642,
+                44.6826068999823,
+                44.1535847524096,
+                44.4108204895836,
+                44.39874315192579
+            ]
+        },
+        {
+            "label": "Textiles and clothing",
+            "color": "#00CED1",
+            "values": [
+                7.96034170673818,
+                7.926592079272019,
+                7.750094492876269,
+                7.27081448041967,
+                7.821457641720881,
+                7.532695719701492
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

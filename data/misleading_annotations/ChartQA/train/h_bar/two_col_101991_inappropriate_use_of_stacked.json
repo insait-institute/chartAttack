@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "China": "#f27979",
+        "Russia": "#c1f200",
+        "Germany": "#52a574",
+        "Poland": "#0042a5",
+        "Belarus": "#da79f2"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "China": [
+            13.0
+        ],
+        "Russia": [
+            12.0
+        ],
+        "Germany": [
+            10.0
+        ],
+        "Poland": [
+            9.0
+        ],
+        "Belarus": [
+            7.0
+        ]
+    },
+    "colors": {
+        "China": "#f27979",
+        "Russia": "#c1f200",
+        "Germany": "#52a574",
+        "Poland": "#0042a5",
+        "Belarus": "#da79f2"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

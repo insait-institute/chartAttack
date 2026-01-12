@@ -1,0 +1,56 @@
+{
+    "title": "Comparison of population in the largest city and urban agglomerations in 1967",
+    "x_axis": {
+        "categories": [
+            "Largest city",
+            "Urban agglomerations"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bulgaria": "#FF0000",
+        "Jordan": "#00FF7F",
+        "Turkey": "#F0E68C"
+    },
+    "data": {
+        "Bulgaria": [
+            20.8222952840392,
+            10.0986062232243
+        ],
+        "Jordan": [
+            47.4017868453227,
+            26.0505969887736
+        ],
+        "Turkey": [
+            19.6525190194967,
+            16.3123492915091
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

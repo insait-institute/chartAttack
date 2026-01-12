@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the total male labor force of different age groups participating in production in 2014",
+    "x_axis": {
+        "categories": [
+            "Denmark",
+            "Djibouti",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt, Arab Rep.",
+            "El Salvador"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ages 15-20": "#A020F0",
+        "Ages 20-50": "#D2B48C",
+        "Ages 50+": "#8FBC8F"
+    },
+    "data": {
+        "Ages 15-20": [
+            61.2999992370605,
+            48.7000007629395,
+            61.0,
+            60.7999992370605,
+            47.4000015258789,
+            64.1999969482422
+        ],
+        "Ages 20-50": [
+            66.3000030517578,
+            68.0,
+            78.5,
+            82.6999969482422,
+            75.0,
+            79.0
+        ],
+        "Ages 50+": [
+            80.599998474121,
+            71.0,
+            82.6999969482422,
+            85.599998474121,
+            79.3000030517578,
+            82.3000030517578
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

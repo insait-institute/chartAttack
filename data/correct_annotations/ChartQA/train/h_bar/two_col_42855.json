@@ -1,0 +1,60 @@
+{
+    "title": "Games played",
+    "categories": [
+        "DeMar DeRozan",
+        "Kyle Lowry",
+        "Morris Peterson",
+        "Jose Calderon",
+        "Chris Bosh",
+        "Jonas Valanciunas",
+        "Amir Johnson",
+        "Andrea Bargnani",
+        "Alvin Williams",
+        "Vince Carter"
+    ],
+    "data": {
+        "Games played": [
+            675,
+            555,
+            542,
+            525,
+            509,
+            470,
+            451,
+            433,
+            417,
+            403
+        ]
+    },
+    "colors": {
+        "Games played": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 680
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Games played": "#2876dd"
+    }
+}

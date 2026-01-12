@@ -1,0 +1,61 @@
+{
+    "title": "Lower secondary completion rate of students in different countries",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "El Salvador": "#FF00FF",
+        "Malta": "#4169E1",
+        "Netherlands": "#DB7093",
+        "Venezuela": "#F4A460"
+    },
+    "data": {
+        "El Salvador": [
+            17.60206,
+            22.61783
+        ],
+        "Malta": [
+            29.89779,
+            26.56039
+        ],
+        "Netherlands": [
+            48.91803,
+            48.10314
+        ],
+        "Venezuela": [
+            24.0257,
+            21.45942
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

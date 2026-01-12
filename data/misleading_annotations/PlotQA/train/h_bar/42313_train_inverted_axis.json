@@ -1,0 +1,68 @@
+{
+    "title": "CO2 emissions from different fuel consumption in Georgia",
+    "legend": {
+        "Gaseous fuel": "#8B0000",
+        "Liquid fuel": "#7FFFD4",
+        "Solid fuel": "#228B22"
+    },
+    "categories": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "data": {
+        "Gaseous fuel": [
+            36.37130801687761,
+            48.10024252223121,
+            49.3190661478599,
+            45.8874458874459,
+            46.8415937803693
+        ],
+        "Liquid fuel": [
+            58.3966244725738,
+            46.80679062247371,
+            44.4552529182879,
+            47.2943722943723,
+            45.4810495626822
+        ],
+        "Solid fuel": [
+            1.43459915611814,
+            1.29345189975748,
+            1.4591439688716,
+            1.62337662337662,
+            3.01263362487852
+        ]
+    },
+    "colors": {
+        "Gaseous fuel": "#8B0000",
+        "Liquid fuel": "#7FFFD4",
+        "Solid fuel": "#228B22"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

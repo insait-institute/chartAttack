@@ -1,0 +1,62 @@
+{
+    "title": "Total female labor force participation rate for ages 60+",
+    "legend": {
+        "1992": "#f27979",
+        "1993": "#c1f200",
+        "1994": "#52a574",
+        "1995": "#0042a5",
+        "1996": "#da79f2"
+    },
+    "categories": [
+        "Total female labor force participation rate for ages 60+"
+    ],
+    "data": {
+        "1992": [
+            57.3332573966501
+        ],
+        "1993": [
+            57.2105977342425
+        ],
+        "1994": [
+            57.3100382224693
+        ],
+        "1995": [
+            57.2560246176004
+        ],
+        "1996": [
+            57.1631976665716
+        ]
+    },
+    "colors": {
+        "1992": "#f27979",
+        "1993": "#c1f200",
+        "1994": "#52a574",
+        "1995": "#0042a5",
+        "1996": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

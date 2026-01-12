@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Internal consumption in billion U.S. dollars": "#2876dd"
+    },
+    "categories": [
+        "United States",
+        "China",
+        "Germany",
+        "Japan",
+        "India",
+        "United Kingdom",
+        "Italy",
+        "France",
+        "Mexico",
+        "Spain"
+    ],
+    "data": {
+        "Internal consumption in billion U.S. dollars": [
+            1105,
+            955.6,
+            382.6,
+            261,
+            253.1,
+            246,
+            215.5,
+            211.7,
+            167.2,
+            156
+        ]
+    },
+    "colors": {
+        "Internal consumption in billion U.S. dollars": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

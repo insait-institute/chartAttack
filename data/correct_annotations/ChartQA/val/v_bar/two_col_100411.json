@@ -1,0 +1,52 @@
+{
+    "title": "Number of households",
+    "x_axis": {
+        "categories": [
+            "1 person",
+            "2 persons",
+            "3 persons",
+            "4 persons",
+            "5 or more persons"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of households"
+    },
+    "legend": {
+        "Households": "#2876dd"
+    },
+    "data": {
+        "Households": [
+            53755,
+            88715,
+            37700,
+            28270,
+            10235
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 88720
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

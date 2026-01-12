@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of total population having access to electricity",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Tonga": "#f27979",
+        "Trinidad and Tobago": "#f2f200",
+        "Tunisia": "#79f279",
+        "Turkey": "#00a5a5",
+        "Turkmenistan": "#5252a5",
+        "Turks and Caicos Islands": "#a500a5"
+    },
+    "data": {
+        "Tonga": [
+            80.0
+        ],
+        "Trinidad and Tobago": [
+            90.72205
+        ],
+        "Tunisia": [
+            92.63774
+        ],
+        "Turkey": [
+            100.0
+        ],
+        "Turkmenistan": [
+            95.18774
+        ],
+        "Turks and Caicos Islands": [
+            81.13573000000002
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Tonga": "#f27979",
+        "Trinidad and Tobago": "#f2f200",
+        "Tunisia": "#79f279",
+        "Turkey": "#00a5a5",
+        "Turkmenistan": "#5252a5",
+        "Turks and Caicos Islands": "#a500a5"
+    }
+}

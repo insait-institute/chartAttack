@@ -1,0 +1,99 @@
+{
+    "title": "Trade statistics of Korea (Democratic) with developing economies outside region",
+    "legend": {
+        "Merchandise exports": "#FFFF00",
+        "Merchandise imports": "#FF69B4"
+    },
+    "x_axis": [
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "y_axis_label": "Trade with economies outside region(%)",
+    "data": [
+        {
+            "label": "Merchandise exports",
+            "color": "#FFFF00",
+            "values": [
+                26.885590014923,
+                16.55949667247101,
+                19.1118111797227,
+                8.28550308192853,
+                9.138526481795116,
+                22.3463777672503,
+                13.8031009139225
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "color": "#FF69B4",
+            "values": [
+                20.847834413317,
+                29.3866661901719,
+                23.6421508752234,
+                33.4275064642542,
+                27.02188364406,
+                20.6165800861571,
+                25.0796352637355
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Merchandise exports",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

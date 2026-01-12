@@ -1,0 +1,90 @@
+{
+    "title": "Number of seats",
+    "legend": {
+        "Forum voor Democratie": "#80FF80",
+        "VVD": "#41B7FE",
+        "CDA": "#FF8036",
+        "GroenLinks": "#A6FFD2",
+        "D66": "#00BB5E",
+        "PvdA": "#FF1515",
+        "PVV": "#400000",
+        "ChristenUnie": "#01FCE2",
+        "SP": "#AE0000",
+        "Partij voor de Dieren": "#00552B",
+        "50PLUS": "#808080",
+        "SGP": "#000091",
+        "Onafhankelijke Senaatsfractie": "#FF80FF"
+    },
+    "categories": [
+        "Forum voor Democratie",
+        "VVD",
+        "CDA",
+        "GroenLinks",
+        "D66",
+        "PvdA",
+        "PVV",
+        "ChristenUnie",
+        "SP",
+        "Partij voor de Dieren",
+        "50PLUS",
+        "SGP",
+        "Onafhankelijke Senaatsfractie"
+    ],
+    "data": {
+        "seats": [
+            12,
+            12,
+            9,
+            8,
+            7,
+            6,
+            5,
+            4,
+            4,
+            3,
+            2,
+            2,
+            1
+        ]
+    },
+    "colors": {
+        "Forum voor Democratie": "#80FF80",
+        "VVD": "#41B7FE",
+        "CDA": "#FF8036",
+        "GroenLinks": "#A6FFD2",
+        "D66": "#00BB5E",
+        "PvdA": "#FF1515",
+        "PVV": "#400000",
+        "ChristenUnie": "#01FCE2",
+        "SP": "#AE0000",
+        "Partij voor de Dieren": "#00552B",
+        "50PLUS": "#808080",
+        "SGP": "#000091",
+        "Onafhankelijke Senaatsfractie": "#FF80FF"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

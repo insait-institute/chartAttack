@@ -1,0 +1,75 @@
+{
+    "title": "Amount of CO2 emissions from various sources in Netherlands",
+    "legend": {
+        "Gaseous fuel": "#ADFF2F",
+        "Liquid fuel": "#006400",
+        "Solid fuel": "#B03060"
+    },
+    "x_axis": [
+        "1964",
+        "1965",
+        "1966",
+        "1967"
+    ],
+    "y_axis_label": "Emissions(kt)",
+    "data": [
+        {
+            "label": "Gaseous fuel",
+            "color": "#ADFF2F",
+            "values": [
+                96867.472,
+                100497.802,
+                103655.089,
+                106783.04
+            ]
+        },
+        {
+            "label": "Liquid fuel",
+            "color": "#006400",
+            "values": [
+                55734.733,
+                60725.52,
+                63864.472,
+                65019.57700000001
+            ]
+        },
+        {
+            "label": "Solid fuel",
+            "color": "#B03060",
+            "values": [
+                38158.802,
+                35272.873,
+                32489.62,
+                29757.705
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 29750,
+                "max_value": 106790
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

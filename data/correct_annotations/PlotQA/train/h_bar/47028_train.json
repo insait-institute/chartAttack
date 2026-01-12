@@ -1,0 +1,68 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in Latin America",
+    "legend": {
+        "1960": "#483D8B",
+        "1961": "#CD5C5C",
+        "1962": "#808000"
+    },
+    "categories": [
+        "Denmark",
+        "Ecuador",
+        "Egypt, Arab Rep.",
+        "El Salvador",
+        "Finland"
+    ],
+    "data": {
+        "1960": [
+            2.16955941255007,
+            2.37623762376238,
+            0.286144578313253,
+            14.1571194762684,
+            2.26776734035487
+        ],
+        "1961": [
+            2.25398864974837,
+            1.10441767068273,
+            1.47356255417509,
+            15.4981549815498,
+            2.3740944400803
+        ],
+        "1962": [
+            2.44166353029733,
+            2.75423728813559,
+            1.14609405875379,
+            20.545746388443,
+            2.21534451865125
+        ]
+    },
+    "colors": {
+        "1960": "#483D8B",
+        "1961": "#CD5C5C",
+        "1962": "#808000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Overall average of statistical capacity score",
+    "legend": {
+        "Latin America(developing only)": "#f27979",
+        "Least developed countries": "#79f200",
+        "Low & middle income": "#52a5a5",
+        "Low income": "#5200a5"
+    },
+    "categories": [
+        "Overall average of statistical capacity score"
+    ],
+    "data": {
+        "Latin America(developing only)": [
+            74.166666875
+        ],
+        "Least developed countries": [
+            54.054053963964
+        ],
+        "Low & middle income": [
+            64.0491453205128
+        ],
+        "Low income": [
+            51.9444441666667
+        ]
+    },
+    "colors": {
+        "Latin America(developing only)": "#f27979",
+        "Least developed countries": "#79f200",
+        "Low & middle income": "#52a5a5",
+        "Low income": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

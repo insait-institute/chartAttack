@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of unemployed female labor force of a country",
+    "legend": {
+        "Bhutan": "#FFFF00",
+        "Italy": "#F4A460",
+        "Philippines": "#A0522D"
+    },
+    "categories": [
+        "2009",
+        "2011",
+        "2013",
+        "2014"
+    ],
+    "data": {
+        "Bhutan": [
+            5.300000190734862,
+            4.5,
+            3.70000004768372,
+            3.5
+        ],
+        "Italy": [
+            9.19999980926514,
+            9.5,
+            13.1000003814697,
+            13.8000001907349
+        ],
+        "Philippines": [
+            7.400000095367429,
+            6.599999904632571,
+            6.800000190734861,
+            6.300000190734861
+        ]
+    },
+    "colors": {
+        "Bhutan": "#FFFF00",
+        "Italy": "#F4A460",
+        "Philippines": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

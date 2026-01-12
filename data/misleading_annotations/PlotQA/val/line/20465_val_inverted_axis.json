@@ -1,0 +1,101 @@
+{
+    "title": "Enrolment ratio of female students in different levels of education in Poland",
+    "legend": {
+        "Pre-primary schools": "#BC8F8F",
+        "Primary schools": "#BA55D3",
+        "Secondary schools": "#BEBEBE",
+        "Tertiary schools": "#708090"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Gross enrolment ratio (%)",
+    "data": [
+        {
+            "label": "Pre-primary schools",
+            "color": "#BC8F8F",
+            "values": [
+                57.6904983520508,
+                60.444221496582,
+                62.0384292602539,
+                65.5188369750977,
+                70.4826431274414,
+                73.9079895019531,
+                77.948127746582
+            ]
+        },
+        {
+            "label": "Primary schools",
+            "color": "#BA55D3",
+            "values": [
+                98.18424,
+                99.04184,
+                98.5007171630859,
+                98.3679885864258,
+                98.35296630859379,
+                97.7918014526367,
+                97.2333297729492
+            ]
+        },
+        {
+            "label": "Secondary schools",
+            "color": "#BEBEBE",
+            "values": [
+                96.87612,
+                97.51362,
+                98.5147171020508,
+                99.0687789916992,
+                100.164627075195,
+                101.796501159668,
+                102.962890625
+            ]
+        },
+        {
+            "label": "Tertiary schools",
+            "color": "#708090",
+            "values": [
+                19.79268,
+                18.66998,
+                18.83196,
+                18.93395,
+                19.63813,
+                20.25027,
+                21.29203
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

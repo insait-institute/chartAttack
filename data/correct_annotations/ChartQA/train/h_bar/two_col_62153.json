@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Imports": "#2876dd"
+    },
+    "categories": [
+        "Canada",
+        "Mexico",
+        "Brazil",
+        "South Korea",
+        "Japan",
+        "Germany",
+        "Taiwan",
+        "China",
+        "Italy",
+        "Russia",
+        "Other countries"
+    ],
+    "data": {
+        "Imports": [
+            3952.03,
+            2183.87,
+            1841.51,
+            1519.7,
+            992.67,
+            1116.71,
+            606.59,
+            464.88,
+            364.48,
+            208.56,
+            3689.94
+        ]
+    },
+    "colors": {
+        "Imports": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3960
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Total imports from other countries",
+    "legend": {
+        "Heavily indebted poor countries": "#BEBEBE",
+        "New Zealand": "#FF1493",
+        "Panama": "#A020F0"
+    },
+    "categories": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Heavily indebted poor countries": [
+            34.5313464744534,
+            36.18892246679179,
+            37.775847665111,
+            39.3783297639206,
+            37.983970618101
+        ],
+        "New Zealand": [
+            29.7714986021098,
+            28.0398447551065,
+            29.20937903585861,
+            29.64567812600611,
+            30.02195353872761
+        ],
+        "Panama": [
+            62.2852905707115,
+            58.542356106764,
+            63.90795032194821,
+            69.05727236868479,
+            69.4777382272276
+        ]
+    },
+    "colors": {
+        "Heavily indebted poor countries": "#BEBEBE",
+        "New Zealand": "#FF1493",
+        "Panama": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

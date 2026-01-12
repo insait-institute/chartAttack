@@ -1,0 +1,52 @@
+{
+    "title": "Net enrollment rate of male students in primary schools",
+    "legend": {
+        "1999": "#f27979",
+        "2002": "#00f200",
+        "2003": "#5252a5"
+    },
+    "categories": [
+        "Net enrollment rate of male students in primary schools"
+    ],
+    "data": {
+        "1999": [
+            89.8043212890625
+        ],
+        "2002": [
+            94.65003204345699
+        ],
+        "2003": [
+            95.23220825195308
+        ]
+    },
+    "colors": {
+        "1999": "#f27979",
+        "2002": "#00f200",
+        "2003": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

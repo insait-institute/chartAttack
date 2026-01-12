@@ -1,0 +1,92 @@
+{
+    "title": "Number of refugees",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of refugees"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f29100",
+        "2012": "#daf279",
+        "2013": "#30f200",
+        "2014": "#52a574",
+        "2015": "#00a5a5",
+        "2016": "#5274a5",
+        "2017": "#2100a5",
+        "2018": "#da79f2",
+        "2019": "#f20091"
+    },
+    "data": {
+        "2010": [
+            223.0
+        ],
+        "2011": [
+            188.0
+        ],
+        "2012": [
+            110.0
+        ],
+        "2013": [
+            145.0
+        ],
+        "2014": [
+            511.0
+        ],
+        "2015": [
+            784.0
+        ],
+        "2016": [
+            604.0
+        ],
+        "2017": [
+            820.0
+        ],
+        "2018": [
+            800.0
+        ],
+        "2019": [
+            1041.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1050
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f29100",
+        "2012": "#daf279",
+        "2013": "#30f200",
+        "2014": "#52a574",
+        "2015": "#00a5a5",
+        "2016": "#5274a5",
+        "2017": "#2100a5",
+        "2018": "#da79f2",
+        "2019": "#f20091"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Total population between the ages 0 to 14 as a percentage of the total population",
+    "legend": {
+        "1994": "#f27979",
+        "1995": "#79f200",
+        "1996": "#52a5a5",
+        "1997": "#5200a5"
+    },
+    "categories": [
+        "Total population between the ages 0 to 14 as a percentage of the total population"
+    ],
+    "data": {
+        "1994": [
+            17.2342613134629
+        ],
+        "1995": [
+            16.7377381188101
+        ],
+        "1996": [
+            16.4096779733487
+        ],
+        "1997": [
+            16.0659240113389
+        ]
+    },
+    "colors": {
+        "1994": "#f27979",
+        "1995": "#79f200",
+        "1996": "#52a5a5",
+        "1997": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Net disbursements received by an economy from IMF in 1991",
+    "x_axis": {
+        "categories": [
+            "Cameroon",
+            "Central African Republic",
+            "China",
+            "Congo (Democratic)",
+            "Congo (Republic)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "IMF concessional": "#2E8B57",
+        "IMF nonconcessional": "#008080"
+    },
+    "data": {
+        "IMF concessional": [
+            -181000.0,
+            -67000.0,
+            -42361000.0,
+            -582000.0,
+            -67000.0
+        ],
+        "IMF nonconcessional": [
+            -946000.0,
+            -3335000.0,
+            -409008000.0,
+            -48640000.0,
+            -4875000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 0
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

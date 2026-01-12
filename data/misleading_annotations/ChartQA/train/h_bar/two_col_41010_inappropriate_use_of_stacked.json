@@ -1,0 +1,102 @@
+{
+    "title": "",
+    "legend": {
+        "Gazzetta dello Sport": "#f27979",
+        "Corriere della Sera": "#f26f00",
+        "La Repubblica": "#f2e879",
+        "La Stampa": "#95f200",
+        "Corriere dello Sport": "#8bf279",
+        "Il Sole 24 Ore": "#00a533",
+        "Resto del Carlino": "#52a592",
+        "Il Messaggero": "#007fa5",
+        "TuttoSport": "#526ca5",
+        "Il Mattino": "#1900a5",
+        "La Nazione": "#c379f2",
+        "Il Gazzettino": "#f200df",
+        "La Gazzetta del Mezzogiorno": "#f279b1"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Gazzetta dello Sport": [
+            2005.0
+        ],
+        "Corriere della Sera": [
+            1817.0
+        ],
+        "La Repubblica": [
+            1571.0
+        ],
+        "La Stampa": [
+            960.0
+        ],
+        "Corriere dello Sport": [
+            885.0
+        ],
+        "Il Sole 24 Ore": [
+            795.0
+        ],
+        "Resto del Carlino": [
+            757.0
+        ],
+        "Il Messaggero": [
+            716.0
+        ],
+        "TuttoSport": [
+            529.0
+        ],
+        "Il Mattino": [
+            479.0
+        ],
+        "La Nazione": [
+            452.0
+        ],
+        "Il Gazzettino": [
+            408.0
+        ],
+        "La Gazzetta del Mezzogiorno": [
+            295.0
+        ]
+    },
+    "colors": {
+        "Gazzetta dello Sport": "#f27979",
+        "Corriere della Sera": "#f26f00",
+        "La Repubblica": "#f2e879",
+        "La Stampa": "#95f200",
+        "Corriere dello Sport": "#8bf279",
+        "Il Sole 24 Ore": "#00a533",
+        "Resto del Carlino": "#52a592",
+        "Il Messaggero": "#007fa5",
+        "TuttoSport": "#526ca5",
+        "Il Mattino": "#1900a5",
+        "La Nazione": "#c379f2",
+        "Il Gazzettino": "#f200df",
+        "La Gazzetta del Mezzogiorno": "#f279b1"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2010
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

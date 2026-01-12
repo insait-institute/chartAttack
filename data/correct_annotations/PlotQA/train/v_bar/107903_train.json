@@ -1,0 +1,57 @@
+{
+    "title": "Number of trademark applications made by an economy in 1976",
+    "x_axis": {
+        "categories": [
+            "Ghana",
+            "Greece",
+            "Guatemala",
+            "Haiti"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Nonresident": "#87CEEB",
+        "Resident": "#DB7093"
+    },
+    "data": {
+        "Nonresident": [
+            412,
+            1967,
+            1122,
+            670
+        ],
+        "Resident": [
+            2571,
+            946,
+            9,
+            220
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2580
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,75 @@
+{
+    "title": "CO2 emissions from different sources in Iran",
+    "legend": {
+        "Other sectors": "#6A5ACD",
+        "Resident buildings and public services": "#32CD32",
+        "Transport": "#000000"
+    },
+    "x_axis": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+    ],
+    "y_axis_label": "CO2 emissions (% of total fuel combustion)",
+    "data": [
+        {
+            "label": "Other sectors",
+            "color": "#6A5ACD",
+            "values": [
+                7.188334360238239,
+                7.41660514128465,
+                6.89075630252101,
+                6.765907437461518
+            ]
+        },
+        {
+            "label": "Resident buildings and public services",
+            "color": "#32CD32",
+            "values": [
+                25.2276305880742,
+                24.8405933284113,
+                24.79591836734689,
+                22.5362359393363
+            ]
+        },
+        {
+            "label": "Transport",
+            "color": "#000000",
+            "values": [
+                23.63250496337369,
+                23.1357809248943,
+                21.8787515006002,
+                21.68560076109461
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

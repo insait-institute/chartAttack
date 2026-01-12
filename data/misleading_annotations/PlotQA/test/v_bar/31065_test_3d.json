@@ -1,0 +1,71 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 2007 ",
+    "x_axis": {
+        "categories": [
+            "Coal",
+            "Minerals",
+            "Energy",
+            "Water"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle income": "#DAA520",
+        "World": "#483D8B",
+        "Korea (Republic)": "#ADFF2F",
+        "Morocco": "#CD5C5C"
+    },
+    "data": {
+        "Middle income": [
+            1.00475245081898,
+            1.1701228045051,
+            5.16229958589586,
+            6.72404176604962
+        ],
+        "World": [
+            0.453509748948329,
+            0.404366208557351,
+            2.53389770663894,
+            3.09419118671448
+        ],
+        "Korea (Republic)": [
+            0.387858740588611,
+            0.00135049499555498,
+            0.010727794365586,
+            0.012078289361141
+        ],
+        "Morocco": [
+            0.592977339388054,
+            0.708504012508854,
+            0.0188740305716933,
+            0.7475906320698109
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

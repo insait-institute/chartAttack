@@ -1,0 +1,109 @@
+{
+    "title": "Expenditure on health care (as % of GDP) in Namibia",
+    "legend": {
+        "Private funds": "#BC8F8F",
+        "Public funds": "#00FA9A"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "Health expenditure (as % of GDP)",
+    "data": [
+        {
+            "label": "Private funds",
+            "color": "#BC8F8F",
+            "values": [
+                1.82652141541867,
+                1.91854292549456,
+                1.88417798211737,
+                1.85922436675792,
+                1.89998674442899,
+                2.70481462829767,
+                2.59049515229186,
+                2.80169488485591,
+                3.26493743671556
+            ]
+        },
+        {
+            "label": "Public funds",
+            "color": "#00FA9A",
+            "values": [
+                4.750908804581329,
+                4.92451172450544,
+                4.95259664788263,
+                5.11174435324208,
+                4.21402942557101,
+                3.47424690170233,
+                3.57696866770814,
+                3.72233540514409,
+                3.20703875328444
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Private funds",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Public funds",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Annual rural vs urban population growth in 2005",
+    "x_axis": {
+        "categories": [
+            "Rural",
+            "Urban "
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#E9967A",
+        "Iraq": "#FFFF00",
+        "Jordan": "#8B008B",
+        "Lao PDR": "#FF0000"
+    },
+    "data": {
+        "Australia": [
+            0.0693227327837636,
+            1.49152573409895
+        ],
+        "Iraq": [
+            2.44160476075468,
+            2.6928973538634
+        ],
+        "Jordan": [
+            0.8478541758723871,
+            2.59224786347465
+        ],
+        "Lao PDR": [
+            -0.0528184426285824,
+            5.77742706400065
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

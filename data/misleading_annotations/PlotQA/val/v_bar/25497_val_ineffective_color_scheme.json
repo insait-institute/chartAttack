@@ -1,0 +1,61 @@
+{
+    "title": "Age dependency ratio as per the census of 1971",
+    "x_axis": {
+        "categories": [
+            "Dependency ratio(old)",
+            "Dependency ratio(young)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Afghanistan": "#808000",
+        "Honduras": "#6c8000",
+        "Slovenia": "#5e8a00"
+    },
+    "data": {
+        "Afghanistan": [
+            4.97141050362901,
+            84.3559682605828
+        ],
+        "Honduras": [
+            6.382411509638501,
+            97.3489713437338
+        ],
+        "Slovenia": [
+            15.3541735311705,
+            36.1736253122804
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Afghanistan": "#808000",
+        "Honduras": "#6c8000",
+        "Slovenia": "#5e8a00"
+    }
+}

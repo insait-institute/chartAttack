@@ -1,0 +1,73 @@
+{
+    "title": "Total unemployed youth population of a country",
+    "legend": {
+        "Albania": "#bdb76b",
+        "Portugal": "#b6bd6b",
+        "Slovak Republic": "#adc072"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Albania": [
+            24.7000007629395,
+            21.89999961853031,
+            22.5,
+            23.89999961853031,
+            27.89999961853031
+        ],
+        "Portugal": [
+            16.7000007629395,
+            20.2999992370605,
+            22.7999992370605,
+            30.2999992370605,
+            37.9000015258789
+        ],
+        "Slovak Republic": [
+            19.0,
+            27.2999992370605,
+            33.5999984741211,
+            33.4000015258789,
+            34.0
+        ]
+    },
+    "colors": {
+        "Albania": "#BDB76B",
+        "Portugal": "#5F9EA0",
+        "Slovak Republic": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Albania": "#bdb76b",
+        "Portugal": "#b6bd6b",
+        "Slovak Republic": "#adc072"
+    }
+}

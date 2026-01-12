@@ -1,0 +1,107 @@
+{
+    "title": "Mineral rent as percent of GDP towards fuel resources",
+    "legend": {
+        "Israel": "#BC8F8F",
+        "Panama": "#F0E68C",
+        "Tanzania": "#F4A460",
+        "Venezuela": "#006400"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "data": {
+        "Israel": [
+            0.086289912826993,
+            0.0880123635423417,
+            0.146725399915541,
+            0.169048257321622,
+            0.107780152848852
+        ],
+        "Panama": [
+            0.0633835983909404,
+            0.127403818523289,
+            0.241875211772338,
+            0.305386213322643,
+            0.272348844371186
+        ],
+        "Tanzania": [
+            2.69898163661726,
+            3.54255504665634,
+            4.99288199639324,
+            4.94404867450822,
+            3.64692142666936
+        ],
+        "Venezuela": [
+            0.568015451924857,
+            0.84656119836317,
+            1.50852814177976,
+            0.9692371512768639,
+            1.10517163921279
+        ]
+    },
+    "colors": {
+        "Israel": "#BC8F8F",
+        "Panama": "#F0E68C",
+        "Tanzania": "#F4A460",
+        "Venezuela": "#006400"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Israel": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Panama": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Tanzania": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Venezuela": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

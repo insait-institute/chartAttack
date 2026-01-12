@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of children in countries enrolled in 1st grade who reached the last grade of primary education",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cabo Verde": "#006400",
+        "Madagascar": "#DAA520",
+        "Sweden": "#191970",
+        "Togo": "#BA55D3"
+    },
+    "data": {
+        "Cabo Verde": [
+            93.4926528930664,
+            89.4520721435547
+        ],
+        "Madagascar": [
+            39.1940116882324,
+            36.7627487182617
+        ],
+        "Sweden": [
+            99.91217041015629,
+            99.540771484375
+        ],
+        "Togo": [
+            52.4336013793945,
+            75.9147491455078
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

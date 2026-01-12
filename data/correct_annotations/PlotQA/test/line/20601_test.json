@@ -1,0 +1,86 @@
+{
+    "title": "Net disbursements of loans in Haiti",
+    "legend": {
+        "Regional development banks": "#BDB76B",
+        "International Monetary Fund": "#7FFFD4",
+        "International Development Association": "#2E8B57",
+        "Others": "#9ACD32"
+    },
+    "x_axis": [
+        "1978",
+        "1981",
+        "1982",
+        "1983"
+    ],
+    "y_axis_label": "Amount (in current US$)",
+    "data": [
+        {
+            "label": "Regional development banks",
+            "color": "#BDB76B",
+            "values": [
+                19990000,
+                10987000,
+                8587000,
+                11754000
+            ]
+        },
+        {
+            "label": "International Monetary Fund",
+            "color": "#7FFFD4",
+            "values": [
+                3663000,
+                87000,
+                -114000,
+                -573000
+            ]
+        },
+        {
+            "label": "International Development Association",
+            "color": "#2E8B57",
+            "values": [
+                7915000,
+                16182000,
+                13952000,
+                26314000
+            ]
+        },
+        {
+            "label": "Others",
+            "color": "#9ACD32",
+            "values": [
+                1575000,
+                5483000,
+                3139000,
+                1314000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -573000,
+                "max_value": 26314000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

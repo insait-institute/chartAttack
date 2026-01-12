@@ -1,0 +1,67 @@
+{
+    "title": "Amount spent on the passenger transport items in the year 2001",
+    "legend": {
+        "Costa Rica": "#f27979",
+        "Cote d'Ivoire": "#f2f200",
+        "Croatia": "#79f279",
+        "Cyprus": "#00a5a5",
+        "Djibouti": "#5252a5",
+        "Dominican Republic": "#a500a5"
+    },
+    "categories": [
+        "Amount spent on the passenger transport items in the year 2001"
+    ],
+    "data": {
+        "Costa Rica": [
+            70000000.0
+        ],
+        "Cote d'Ivoire": [
+            102000000.0
+        ],
+        "Croatia": [
+            71000000.0
+        ],
+        "Cyprus": [
+            140000000.0
+        ],
+        "Djibouti": [
+            8900000.0
+        ],
+        "Dominican Republic": [
+            134000000.0
+        ]
+    },
+    "colors": {
+        "Costa Rica": "#f27979",
+        "Cote d'Ivoire": "#f2f200",
+        "Croatia": "#79f279",
+        "Cyprus": "#00a5a5",
+        "Djibouti": "#5252a5",
+        "Dominican Republic": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 319000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

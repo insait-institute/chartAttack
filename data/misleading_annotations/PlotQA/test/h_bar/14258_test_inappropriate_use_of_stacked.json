@@ -1,0 +1,62 @@
+{
+    "title": "Total enrolments (of both sexes) in primary schools",
+    "legend": {
+        "2001": "#f27979",
+        "2002": "#c1f200",
+        "2003": "#52a574",
+        "2004": "#0042a5",
+        "2005": "#da79f2"
+    },
+    "categories": [
+        "Total enrolments (of both sexes) in primary schools"
+    ],
+    "data": {
+        "2001": [
+            88204.0
+        ],
+        "2002": [
+            90944.0
+        ],
+        "2003": [
+            93974.0
+        ],
+        "2004": [
+            97323.0
+        ],
+        "2005": [
+            99458.0
+        ]
+    },
+    "colors": {
+        "2001": "#f27979",
+        "2002": "#c1f200",
+        "2003": "#52a574",
+        "2004": "#0042a5",
+        "2005": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 331290
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

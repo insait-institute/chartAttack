@@ -1,0 +1,70 @@
+{
+    "title": "",
+    "legend": {
+        "Canada": "#808080",
+        "Other Provinces/Territories": "#2876dd"
+    },
+    "categories": [
+        "Northwest Territories",
+        "Yukon",
+        "Alberta",
+        "Saskatchewan",
+        "Ontario",
+        "Canada",
+        "British Columbia",
+        "Quebec",
+        "Manitoba",
+        "Prince Edward Island",
+        "Nunavut",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+    ],
+    "data": {
+        "Income in Canadian dollars": [
+            49450,
+            49150,
+            42010,
+            38600,
+            37060,
+            36760,
+            36100,
+            35630,
+            35170,
+            34080,
+            33940,
+            33770,
+            33540,
+            33450
+        ]
+    },
+    "colors": {
+        "Canada": "#808080",
+        "Other Provinces/Territories": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 49450
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

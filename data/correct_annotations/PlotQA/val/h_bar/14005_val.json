@@ -1,0 +1,72 @@
+{
+    "title": "Total enrolments (of both sexes) in secondary schools",
+    "legend": {
+        "Sub-Saharan Africa (all income levels)": "#B03060",
+        "Sub-Saharan Africa (developing only)": "#20B2AA",
+        "Cayman Islands": "#00FF7F",
+        "Iraq": "#A0522D"
+    },
+    "categories": [
+        "1977",
+        "1980",
+        "1981",
+        "1999"
+    ],
+    "data": {
+        "Sub-Saharan Africa (all income levels)": [
+            7845167.0,
+            10059372.0,
+            11107524.0,
+            23003426.0
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            7837234.0,
+            10050880.0,
+            11097577.0,
+            22975052.0
+        ],
+        "Cayman Islands": [
+            1558.0,
+            1446.0,
+            2075.0,
+            2151.0
+        ],
+        "Iraq": [
+            593928.0,
+            969987.0,
+            1033418.0,
+            1105028.0
+        ]
+    },
+    "colors": {
+        "Sub-Saharan Africa (all income levels)": "#B03060",
+        "Sub-Saharan Africa (developing only)": "#20B2AA",
+        "Cayman Islands": "#00FF7F",
+        "Iraq": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23003430
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

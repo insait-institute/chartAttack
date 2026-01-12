@@ -1,0 +1,57 @@
+{
+    "title": "Split of tax revenue collected by government of Sri Lanka",
+    "legend": {
+        "1993": "#f27979",
+        "1995": "#79f200",
+        "1996": "#52a5a5",
+        "1997": "#5200a5"
+    },
+    "categories": [
+        "Split of tax revenue collected by government of Sri Lanka"
+    ],
+    "data": {
+        "1993": [
+            0.0653115475399317
+        ],
+        "1995": [
+            0.00674860599107497
+        ],
+        "1996": [
+            0.00384015729284271
+        ],
+        "1997": [
+            0.00280678118333895
+        ]
+    },
+    "colors": {
+        "1993": "#f27979",
+        "1995": "#79f200",
+        "1996": "#52a5a5",
+        "1997": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

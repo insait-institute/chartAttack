@@ -1,0 +1,81 @@
+{
+    "title": "Total expenditure spent by the government in R&D projects",
+    "legend": {
+        "East Asia (developing only)": "#F4A460",
+        "World": "#191970",
+        "Myanmar": "#B03060",
+        "Spain": "#BC8F8F"
+    },
+    "categories": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "East Asia (developing only)": [
+            0.567510775838958,
+            0.632252674914938,
+            0.7005958224367671,
+            0.734575386344545,
+            0.804742919823553,
+            0.9171960802557207
+        ],
+        "World": [
+            1.98389840699687,
+            2.00056450930969,
+            2.07624938930922,
+            2.07739294852987,
+            2.09788633395769,
+            2.06135453444992
+        ],
+        "Myanmar": [
+            0.05985,
+            0.03417,
+            0.04406,
+            0.11306,
+            0.07144,
+            0.16216
+        ],
+        "Spain": [
+            0.77964,
+            0.8510200000000001,
+            0.84052,
+            0.88495,
+            0.8901899999999999,
+            0.96005
+        ]
+    },
+    "colors": {
+        "East Asia (developing only)": "#F4A460",
+        "World": "#191970",
+        "Myanmar": "#B03060",
+        "Spain": "#BC8F8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

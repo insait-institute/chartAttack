@@ -1,0 +1,71 @@
+{
+    "title": "Total enrollments in different levels of education as per the survey of 1986",
+    "x_axis": {
+        "categories": [
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income",
+            "World"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary": "#B03060",
+        "Secondary": "#F4A460",
+        "Secondary general": "#A020F0",
+        "Secondary vocational": "#0000FF"
+    },
+    "data": {
+        "Primary": [
+            58451788.0,
+            58386128.0,
+            227476352.0,
+            558459328.0
+        ],
+        "Secondary": [
+            14822050.0,
+            14804234.0,
+            114639448.0,
+            324033216.0
+        ],
+        "Secondary general": [
+            13544836.0,
+            13529736.0,
+            99324616.0,
+            283542496.0
+        ],
+        "Secondary vocational": [
+            1277214.0,
+            1274498.0,
+            15314830.0,
+            40490712.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 558459330
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

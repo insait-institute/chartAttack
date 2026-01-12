@@ -1,0 +1,56 @@
+{
+    "title": "Trade statistics with high income economies in 1982",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ethiopia": "#8B008B",
+        "Mozambique": "#EE82EE",
+        "Turkey": "#8FBC8F"
+    },
+    "data": {
+        "Ethiopia": [
+            74.8162633984868,
+            61.5183848733874
+        ],
+        "Mozambique": [
+            64.4409820939182,
+            58.0639181051089
+        ],
+        "Turkey": [
+            52.79510130784921,
+            56.53796855611761
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

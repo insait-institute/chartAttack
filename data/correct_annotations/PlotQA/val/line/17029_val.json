@@ -1,0 +1,70 @@
+{
+    "title": "Net disbursements of loans in Gabon",
+    "legend": {
+        "From Government": "#FF8C00",
+        "From World Bank": "#00FA9A"
+    },
+    "x_axis": [
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+    ],
+    "y_axis_label": "Amount (in current US$)",
+    "data": [
+        {
+            "label": "From Government",
+            "color": "#FF8C00",
+            "values": [
+                -1964000,
+                8233000,
+                22131000,
+                40925000,
+                96352000,
+                107285000
+            ]
+        },
+        {
+            "label": "From World Bank",
+            "color": "#00FA9A",
+            "values": [
+                8512000,
+                15815000,
+                16003000,
+                15521000,
+                16296000,
+                15356000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -1964000,
+                "max_value": 107285000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

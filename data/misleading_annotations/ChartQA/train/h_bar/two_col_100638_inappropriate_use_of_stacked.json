@@ -1,0 +1,177 @@
+{
+    "title": "",
+    "legend": {
+        "Austria": "#f27979",
+        "United States of America": "#f23300",
+        "France": "#f2ad79",
+        "Germany": "#f29b00",
+        "Italy": "#f2e079",
+        "Switzerland": "#e0f200",
+        "Canada": "#cff279",
+        "Czech Republic": "#79f200",
+        "Norway": "#9bf279",
+        "Russian Federation": "#11f200",
+        "Sweden": "#52a55e",
+        "Japan": "#00a53b",
+        "Netherlands": "#52a582",
+        "Spain": "#00a582",
+        "Finland": "#52a5a5",
+        "Poland": "#0082a5",
+        "United Kingdom": "#5282a5",
+        "Australia": "#003ba5",
+        "Belgium": "#525ea5",
+        "China": "#0b00a5",
+        "Slovakia": "#9b79f2",
+        "Korea, Republic of": "#7900f2",
+        "Romania": "#cf79f2",
+        "Andorra": "#e000f2",
+        "Slovenia": "#f279e0",
+        "Denmark": "#f2009b",
+        "Ukraine": "#f279ad",
+        "New Zealand": "#f20033"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Austria": [
+            163473.0
+        ],
+        "United States of America": [
+            149279.0
+        ],
+        "France": [
+            94032.0
+        ],
+        "Germany": [
+            71820.0
+        ],
+        "Italy": [
+            71654.0
+        ],
+        "Switzerland": [
+            60995.0
+        ],
+        "Canada": [
+            45372.0
+        ],
+        "Czech Republic": [
+            32129.0
+        ],
+        "Norway": [
+            32102.0
+        ],
+        "Russian Federation": [
+            26742.0
+        ],
+        "Sweden": [
+            23399.0
+        ],
+        "Japan": [
+            22473.0
+        ],
+        "Netherlands": [
+            15062.0
+        ],
+        "Spain": [
+            13237.0
+        ],
+        "Finland": [
+            12173.0
+        ],
+        "Poland": [
+            10766.0
+        ],
+        "United Kingdom": [
+            7238.0
+        ],
+        "Australia": [
+            6534.0
+        ],
+        "Belgium": [
+            6275.0
+        ],
+        "China": [
+            5154.0
+        ],
+        "Slovakia": [
+            4925.0
+        ],
+        "Korea, Republic of": [
+            4391.0
+        ],
+        "Romania": [
+            3812.0
+        ],
+        "Andorra": [
+            3711.0
+        ],
+        "Slovenia": [
+            3631.0
+        ],
+        "Denmark": [
+            2953.0
+        ],
+        "Ukraine": [
+            2469.0
+        ],
+        "New Zealand": [
+            2389.0
+        ]
+    },
+    "colors": {
+        "Austria": "#f27979",
+        "United States of America": "#f23300",
+        "France": "#f2ad79",
+        "Germany": "#f29b00",
+        "Italy": "#f2e079",
+        "Switzerland": "#e0f200",
+        "Canada": "#cff279",
+        "Czech Republic": "#79f200",
+        "Norway": "#9bf279",
+        "Russian Federation": "#11f200",
+        "Sweden": "#52a55e",
+        "Japan": "#00a53b",
+        "Netherlands": "#52a582",
+        "Spain": "#00a582",
+        "Finland": "#52a5a5",
+        "Poland": "#0082a5",
+        "United Kingdom": "#5282a5",
+        "Australia": "#003ba5",
+        "Belgium": "#525ea5",
+        "China": "#0b00a5",
+        "Slovakia": "#9b79f2",
+        "Korea, Republic of": "#7900f2",
+        "Romania": "#cf79f2",
+        "Andorra": "#e000f2",
+        "Slovenia": "#f279e0",
+        "Denmark": "#f2009b",
+        "Ukraine": "#f279ad",
+        "New Zealand": "#f20033"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 163480
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

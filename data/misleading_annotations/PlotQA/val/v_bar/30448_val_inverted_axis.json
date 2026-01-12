@@ -1,0 +1,71 @@
+{
+    "title": "CO2 emissions from solid fuel consumption",
+    "x_axis": {
+        "categories": [
+            "Chile",
+            "China",
+            "Colombia",
+            "Congo (Democratic)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#BA55D3",
+        "1961": "#00BFFF",
+        "1962": "#4B0082",
+        "1963": "#8B0000"
+    },
+    "data": {
+        "1960": [
+            4514.077,
+            748988.417,
+            6684.941,
+            1041.428
+        ],
+        "1961": [
+            4444.404,
+            522903.199,
+            7198.321,
+            1059.763
+        ],
+        "1962": [
+            4774.434,
+            412262.475,
+            7711.701,
+            839.743
+        ],
+        "1963": [
+            4605.752,
+            406457.614,
+            8221.414,
+            817.7410000000001
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 748990
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

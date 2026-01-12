@@ -1,0 +1,57 @@
+{
+    "title": "Number of teachers providing primary vs secondary education in different countries",
+    "x_axis": {
+        "categories": [
+            "Low & middle income",
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary education": "#228B22",
+        "Secondary Education": "#FFA500"
+    },
+    "data": {
+        "Primary education": [
+            19161644.0,
+            1149996.0,
+            7932394.5,
+            1827901.75
+        ],
+        "Secondary Education": [
+            528960.75,
+            6388509.0,
+            1777124.75,
+            1479005.625
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 19161650
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

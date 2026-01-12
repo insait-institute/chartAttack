@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Trade value": "#2876dd"
+    },
+    "categories": [
+        "Brazil",
+        "Switzerland",
+        "Germany",
+        "Colombia",
+        "Vietnam",
+        "Italy",
+        "France",
+        "Honduras",
+        "Indonesia",
+        "Belgium"
+    ],
+    "data": {
+        "Trade value": [
+            4584.85,
+            2506.13,
+            2415.4,
+            2363.17,
+            2218.82,
+            1743.9,
+            1235.72,
+            955.56,
+            883.12,
+            832.09
+        ]
+    },
+    "colors": {
+        "Trade value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4590
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "United Arab Emirates": "#f27979",
+        "China": "#f29100",
+        "India": "#daf279",
+        "Switzerland": "#30f200",
+        "United States": "#52a574",
+        "China, Hong Kong SAR": "#00a5a5",
+        "France": "#5274a5",
+        "Italy": "#2100a5",
+        "United Kingdom": "#da79f2",
+        "Turkey": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "United Arab Emirates": [
+            16527.0
+        ],
+        "China": [
+            15857.4
+        ],
+        "India": [
+            13801.1
+        ],
+        "Switzerland": [
+            11828.0
+        ],
+        "United States": [
+            10204.8
+        ],
+        "China, Hong Kong SAR": [
+            8840.4
+        ],
+        "France": [
+            8002.4
+        ],
+        "Italy": [
+            7691.0
+        ],
+        "United Kingdom": [
+            6973.7
+        ],
+        "Turkey": [
+            5151.9
+        ]
+    },
+    "colors": {
+        "United Arab Emirates": "#f27979",
+        "China": "#f29100",
+        "India": "#daf279",
+        "Switzerland": "#30f200",
+        "United States": "#52a574",
+        "China, Hong Kong SAR": "#00a5a5",
+        "France": "#5274a5",
+        "Italy": "#2100a5",
+        "United Kingdom": "#da79f2",
+        "Turkey": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 16530
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

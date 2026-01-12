@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Company": "#2876dd"
+    },
+    "categories": [
+        "California Earthquake Authority",
+        "State Farm Mutual Automobile Insurance",
+        "Zurich Insurance Group",
+        "Chubb Ltd.",
+        "Travelers Companies Inc.",
+        "Palomar Specialty Insurance Co.",
+        "American International Group (AIG)",
+        "AXA",
+        "GeoVera Insurance Group",
+        "Sompo Holdings Inc."
+    ],
+    "data": {
+        "Company": [
+            22.8,
+            7.7,
+            6.5,
+            4.8,
+            3.9,
+            3.9,
+            3.6,
+            2.9,
+            2.9,
+            2.7
+        ]
+    },
+    "colors": {
+        "Company": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

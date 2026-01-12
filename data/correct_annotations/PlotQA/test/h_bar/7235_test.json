@@ -1,0 +1,53 @@
+{
+    "title": "Different countries expenditure on education as percentage of government expenditure",
+    "legend": {
+        "Andorra": "#20B2AA",
+        "Guyana": "#BEBEBE"
+    },
+    "categories": [
+        "Primary",
+        "Secondary",
+        "Tertiary"
+    ],
+    "data": {
+        "Andorra": [
+            25.6406192779541,
+            24.6466999053955,
+            4.53194999694824
+        ],
+        "Guyana": [
+            33.9420585632324,
+            26.8301906585693,
+            5.89013004302979
+        ]
+    },
+    "colors": {
+        "Andorra": "#20B2AA",
+        "Guyana": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

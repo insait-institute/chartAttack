@@ -1,0 +1,107 @@
+{
+    "title": "",
+    "legend": {
+        "Tiger King": "#f27979",
+        "The Queen's Gambit": "#f26700",
+        "Emily in Paris": "#f2e079",
+        "Ratched": "#adf200",
+        "The Haunting of Bly Manor": "#9bf279",
+        "The Last Dance": "#00a517",
+        "Too Hot to Handle": "#52a582",
+        "Julie and the Phantoms": "#00a5a5",
+        "I Am Not Okay With This": "#5282a5",
+        "P Valley": "#0017a5",
+        "Indian Matchmaking": "#9b79f2",
+        "Teenage Bounty Hunters": "#ad00f2",
+        "Ted Lasso": "#f279e0",
+        "The Midnight Gospel": "#f20067"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Tiger King": [
+            16.6
+        ],
+        "The Queen's Gambit": [
+            14.1
+        ],
+        "Emily in Paris": [
+            13.6
+        ],
+        "Ratched": [
+            9.14
+        ],
+        "The Haunting of Bly Manor": [
+            7.48
+        ],
+        "The Last Dance": [
+            5.0
+        ],
+        "Too Hot to Handle": [
+            4.09
+        ],
+        "Julie and the Phantoms": [
+            3.35
+        ],
+        "I Am Not Okay With This": [
+            2.24
+        ],
+        "P Valley": [
+            1.83
+        ],
+        "Indian Matchmaking": [
+            1.5
+        ],
+        "Teenage Bounty Hunters": [
+            1.5
+        ],
+        "Ted Lasso": [
+            1.22
+        ],
+        "The Midnight Gospel": [
+            1.22
+        ]
+    },
+    "colors": {
+        "Tiger King": "#f27979",
+        "The Queen's Gambit": "#f26700",
+        "Emily in Paris": "#f2e079",
+        "Ratched": "#adf200",
+        "The Haunting of Bly Manor": "#9bf279",
+        "The Last Dance": "#00a517",
+        "Too Hot to Handle": "#52a582",
+        "Julie and the Phantoms": "#00a5a5",
+        "I Am Not Okay With This": "#5282a5",
+        "P Valley": "#0017a5",
+        "Indian Matchmaking": "#9b79f2",
+        "Teenage Bounty Hunters": "#ad00f2",
+        "Ted Lasso": "#f279e0",
+        "The Midnight Gospel": "#f20067"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

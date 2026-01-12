@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "John Riggins": "#f27979",
+        "Clinton Portis": "#f24800",
+        "Larry Brown": "#f2c179",
+        "Stephen Davis": "#f2da00",
+        "Alfred Morris": "#daf279",
+        "Terry Allen": "#79f200",
+        "Earnest Byner": "#91f279",
+        "Cliff Battles": "#00a510",
+        "Mike Thomas": "#52a574",
+        "Ladell Betts": "#00a574",
+        "Don Bosseler": "#52a5a5",
+        "George Rogers": "#0074a5",
+        "Charlie Harraway": "#5274a5",
+        "Rob Goode": "#0010a5",
+        "Joe Washington": "#9179f2",
+        "Ricky Ervins": "#7900f2",
+        "Andy Farkas": "#da79f2",
+        "Adrian Peterson": "#f200da",
+        "Joe Theismann": "#f279c1",
+        "Brian Mitchell": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "John Riggins": [
+            7472.0
+        ],
+        "Clinton Portis": [
+            6824.0
+        ],
+        "Larry Brown": [
+            5875.0
+        ],
+        "Stephen Davis": [
+            5790.0
+        ],
+        "Alfred Morris": [
+            4713.0
+        ],
+        "Terry Allen": [
+            4086.0
+        ],
+        "Earnest Byner": [
+            3950.0
+        ],
+        "Cliff Battles": [
+            3511.0
+        ],
+        "Mike Thomas": [
+            3359.0
+        ],
+        "Ladell Betts": [
+            3176.0
+        ],
+        "Don Bosseler": [
+            3112.0
+        ],
+        "George Rogers": [
+            2909.0
+        ],
+        "Charlie Harraway": [
+            2659.0
+        ],
+        "Rob Goode": [
+            2257.0
+        ],
+        "Joe Washington": [
+            2070.0
+        ],
+        "Ricky Ervins": [
+            2026.0
+        ],
+        "Andy Farkas": [
+            1966.0
+        ],
+        "Adrian Peterson": [
+            1940.0
+        ],
+        "Joe Theismann": [
+            1815.0
+        ],
+        "Brian Mitchell": [
+            1751.0
+        ]
+    },
+    "colors": {
+        "John Riggins": "#f27979",
+        "Clinton Portis": "#f24800",
+        "Larry Brown": "#f2c179",
+        "Stephen Davis": "#f2da00",
+        "Alfred Morris": "#daf279",
+        "Terry Allen": "#79f200",
+        "Earnest Byner": "#91f279",
+        "Cliff Battles": "#00a510",
+        "Mike Thomas": "#52a574",
+        "Ladell Betts": "#00a574",
+        "Don Bosseler": "#52a5a5",
+        "George Rogers": "#0074a5",
+        "Charlie Harraway": "#5274a5",
+        "Rob Goode": "#0010a5",
+        "Joe Washington": "#9179f2",
+        "Ricky Ervins": "#7900f2",
+        "Andy Farkas": "#da79f2",
+        "Adrian Peterson": "#f200da",
+        "Joe Theismann": "#f279c1",
+        "Brian Mitchell": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7480
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

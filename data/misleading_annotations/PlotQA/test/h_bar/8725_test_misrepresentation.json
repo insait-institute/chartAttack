@@ -1,0 +1,84 @@
+{
+    "title": "Total enrollments in schools as per the survey of 1990 conducted in different countries",
+    "legend": {
+        "Arab World": "#FFFF00",
+        "Albania": "#BC8F8F",
+        "Denmark": "#BEBEBE"
+    },
+    "categories": [
+        "Pre-primary schools",
+        "Primary schools",
+        "Secondary schools",
+        "Tertiary schools"
+    ],
+    "data": {
+        "Arab World": [
+            12.871919631958,
+            83.4461288452148,
+            52.8462104797363,
+            11.1489200592041
+        ],
+        "Albania": [
+            52.268,
+            90.4774,
+            81.13849,
+            7.88863
+        ],
+        "Denmark": [
+            95.81419,
+            97.74097,
+            109.52802,
+            34.12242
+        ]
+    },
+    "colors": {
+        "Arab World": "#FFFF00",
+        "Albania": "#BC8F8F",
+        "Denmark": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Arab World": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Albania": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Denmark": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

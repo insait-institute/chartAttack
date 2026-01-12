@@ -1,0 +1,64 @@
+{
+    "title": "Agricultural vs Food production in Small states relative to the base period 2004-2006",
+    "legend": {
+        "Crop": "#000000",
+        "Food": "#FFA500"
+    },
+    "x_axis": [
+        "1974",
+        "1975",
+        "1976",
+        "1977"
+    ],
+    "y_axis_label": "Production index(2004-2006)",
+    "data": [
+        {
+            "label": "Crop",
+            "color": "#000000",
+            "values": [
+                74.3448145608139,
+                70.6160657877463,
+                74.68548823969621,
+                76.2307121018305
+            ]
+        },
+        {
+            "label": "Food",
+            "color": "#FFA500",
+            "values": [
+                74.98019900168079,
+                69.0536235458624,
+                72.71617437036309,
+                73.09833073028871
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

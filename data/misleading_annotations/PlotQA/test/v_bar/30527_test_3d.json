@@ -1,0 +1,76 @@
+{
+    "title": "Net taxes on products in constant 2015 US$",
+    "x_axis": {
+        "categories": [
+            "Mauritania",
+            "Mexico",
+            "Nepal",
+            "Nicaragua",
+            "Pakistan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#00FA9A",
+        "1961": "#C71585",
+        "1962": "#FF0000",
+        "1963": "#00FFFF"
+    },
+    "data": {
+        "1960": [
+            2995670.77241229,
+            544567951.885306,
+            7087544.33618653,
+            14386525.0290542,
+            203695859.492895
+        ],
+        "1961": [
+            6847247.47979952,
+            566407951.559865,
+            7350045.97826752,
+            15055665.4796573,
+            239185128.082064
+        ],
+        "1962": [
+            8559059.34974941,
+            627928030.643144,
+            8006300.08346997,
+            17063084.2696777,
+            251574880.068668
+        ],
+        "1963": [
+            9628941.76846808,
+            679367989.876629,
+            6890107.04128292,
+            20074220.0434035,
+            272994430.300168
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 679367990
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

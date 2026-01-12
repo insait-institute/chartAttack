@@ -1,0 +1,56 @@
+{
+    "title": "Net official aid flow in different countries in the year 1992",
+    "x_axis": {
+        "categories": [
+            "Amount in 2012 US$",
+            "Amount in current US$"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "OECD members": "#D2691E",
+        "Estonia": "#4169E1",
+        "Ukraine": "#DAA520"
+    },
+    "data": {
+        "OECD members": [
+            2814400000,
+            1954230000
+        ],
+        "Estonia": [
+            143110000,
+            104370000
+        ],
+        "Ukraine": [
+            719450000,
+            557600000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2814400000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

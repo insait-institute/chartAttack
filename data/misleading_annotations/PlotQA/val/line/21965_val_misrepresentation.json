@@ -1,0 +1,58 @@
+{
+    "title": "Mean income or consumption per capita of total population of Mali",
+    "legend": {
+        "Total population": "#90EE90"
+    },
+    "x_axis": [
+        "2006",
+        "2009"
+    ],
+    "y_axis_label": "Mean income or consumption per capita(2011 PPP $ per day)",
+    "data": [
+        {
+            "label": "Total population",
+            "color": "#90EE90",
+            "values": [
+                2.52666023675836,
+                2.38477813692228
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Total population",
+            "values": [
+                1.75,
+                0.25
+            ]
+        }
+    ]
+}

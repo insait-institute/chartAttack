@@ -1,0 +1,72 @@
+{
+    "title": "Number of ESPRIT stores",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of ESPRIT stores"
+    },
+    "legend": {
+        "Europe": "#2876dd",
+        "Asia / Pacific": "#0f283e",
+        "North America**": "#bababa"
+    },
+    "data": {
+        "Europe": [
+            385,
+            419,
+            408,
+            358,
+            370,
+            302
+        ],
+        "Asia / Pacific": [
+            338,
+            334,
+            630,
+            668,
+            639,
+            553
+        ],
+        "North America**": [
+            78,
+            82,
+            89,
+            0,
+            0,
+            0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 670
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Out-of-school children of primary school age in Uruguay",
+    "legend": {
+        "Out-of-school children of primary school age": "#00FFFF"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Number of children",
+    "data": [
+        {
+            "label": "Out-of-school children of primary school age",
+            "color": "#00FFFF",
+            "values": [
+                21782,
+                23555,
+                25384,
+                25127,
+                7779,
+                159,
+                6092,
+                2462
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 150,
+                "max_value": 25390
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

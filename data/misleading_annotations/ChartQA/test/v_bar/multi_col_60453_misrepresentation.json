@@ -1,0 +1,84 @@
+{
+    "title": "Share of total of M&A deals value",
+    "x_axis": {
+        "categories": [
+            "2008-09",
+            "2010-11",
+            "2012-13",
+            "2014"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of total of M&A deals value"
+    },
+    "legend": {
+        "Inbound": "#2876dd",
+        "Domestic": "#0f283e",
+        "Outbound": "#bababa"
+    },
+    "data": {
+        "Inbound": [
+            20,
+            28,
+            31,
+            32
+        ],
+        "Domestic": [
+            13,
+            26,
+            47,
+            34
+        ],
+        "Outbound": [
+            41,
+            35,
+            38,
+            32
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false,
+    "scaling_factors": {
+        "Inbound": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Domestic": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Outbound": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

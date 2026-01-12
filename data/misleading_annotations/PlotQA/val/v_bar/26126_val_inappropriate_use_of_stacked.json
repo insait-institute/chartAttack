@@ -1,0 +1,57 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in the Arab World",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Thailand": "#f27979",
+        "Tunisia": "#00f200",
+        "Turkey": "#5252a5"
+    },
+    "data": {
+        "Thailand": [
+            5.490993608367231
+        ],
+        "Tunisia": [
+            12.3012552301255
+        ],
+        "Turkey": [
+            8.21316614420063
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Thailand": "#f27979",
+        "Tunisia": "#00f200",
+        "Turkey": "#5252a5"
+    }
+}

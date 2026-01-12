@@ -1,0 +1,71 @@
+{
+    "title": "Time required to enforce a contract",
+    "x_axis": {
+        "categories": [
+            "Arab World",
+            "Caribbean small states",
+            "Central Europe",
+            "East Asia (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2003": "#D2691E",
+        "2004": "#FF69B4",
+        "2005": "#C71585",
+        "2006": "#90EE90"
+    },
+    "data": {
+        "2003": [
+            634.846153846154,
+            565.0,
+            606.5454545454551,
+            485.173913043478
+        ],
+        "2004": [
+            642.6875,
+            573.0,
+            598.363636363636,
+            529.625
+        ],
+        "2005": [
+            667.444444444444,
+            777.5454545454553,
+            587.181818181818,
+            526.25
+        ],
+        "2006": [
+            667.444444444444,
+            768.636363636364,
+            587.181818181818,
+            526.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 780
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

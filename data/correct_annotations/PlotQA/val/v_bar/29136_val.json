@@ -1,0 +1,81 @@
+{
+    "title": "CPIA ratings of different financial policies in the year 2006",
+    "x_axis": {
+        "categories": [
+            "Comoros",
+            "Congo (Democratic)",
+            "Congo (Republic)",
+            "Cote d'Ivoire",
+            "Djibouti",
+            "Dominica"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Financial sector": "#2E8B57",
+        "Trade": "#6A5ACD",
+        "Budget management": "#A0522D",
+        "Fiscal policy": "#00FFFF"
+    },
+    "data": {
+        "Financial sector": [
+            2.5,
+            2.0,
+            2.5,
+            3.0,
+            3.5,
+            4.0
+        ],
+        "Trade": [
+            2.5,
+            4.0,
+            3.5,
+            3.5,
+            4.0,
+            4.0
+        ],
+        "Budget management": [
+            1.5,
+            2.5,
+            3.0,
+            2.5,
+            3.0,
+            3.0
+        ],
+        "Fiscal policy": [
+            2.0,
+            3.5,
+            2.5,
+            2.0,
+            2.5,
+            4.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

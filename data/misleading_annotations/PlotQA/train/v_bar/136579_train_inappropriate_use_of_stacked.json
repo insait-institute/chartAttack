@@ -1,0 +1,72 @@
+{
+    "title": "Grants received by the government including technical cooeration",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chad": "#f27979",
+        "Chile": "#f2f200",
+        "Colombia": "#79f279",
+        "Comoros": "#00a5a5",
+        "Congo (Democratic)": "#5252a5",
+        "Congo (Republic)": "#a500a5"
+    },
+    "data": {
+        "Chad": [
+            9890000.0
+        ],
+        "Chile": [
+            18380000.0
+        ],
+        "Colombia": [
+            13280000.0
+        ],
+        "Comoros": [
+            4810000.0
+        ],
+        "Congo (Democratic)": [
+            42010000.0
+        ],
+        "Congo (Republic)": [
+            9060000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 78430000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Chad": "#f27979",
+        "Chile": "#f2f200",
+        "Colombia": "#79f279",
+        "Comoros": "#00a5a5",
+        "Congo (Democratic)": "#5252a5",
+        "Congo (Republic)": "#a500a5"
+    }
+}

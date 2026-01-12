@@ -1,0 +1,77 @@
+{
+    "title": "",
+    "legend": {
+        "Less than 2 hours": "#2876dd",
+        "2 to 5 hours": "#0f283e",
+        "5 to 10 hours": "#bababa",
+        "10 hours or more": "#a60b0b"
+    },
+    "categories": [
+        "Any Chinese language media",
+        "Chinese language TV",
+        "Chinese language radio",
+        "Chinese language print magazines",
+        "Chinese language print newspapers"
+    ],
+    "data": {
+        "Less than 2 hours": [
+            9,
+            8,
+            1,
+            0,
+            0
+        ],
+        "2 to 5 hours": [
+            8,
+            5,
+            8,
+            4,
+            2
+        ],
+        "5 to 10 hours": [
+            18,
+            12,
+            8,
+            9,
+            15
+        ],
+        "10 hours or more": [
+            17,
+            20,
+            22,
+            25,
+            20
+        ]
+    },
+    "colors": {
+        "Less than 2 hours": "#2876dd",
+        "2 to 5 hours": "#0f283e",
+        "5 to 10 hours": "#bababa",
+        "10 hours or more": "#a60b0b"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": true,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

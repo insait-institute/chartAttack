@@ -1,0 +1,95 @@
+{
+    "title": "CO2 emissions from different fuel consumption in South Africa",
+    "legend": {
+        "Gaseous fuel": "#FF4500",
+        "Liquid fuel": "#DAA520",
+        "Solid fuel": "#ADFF2F"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Emissions(in percent)",
+    "data": [
+        {
+            "label": "Gaseous fuel",
+            "color": "#FF4500",
+            "values": [
+                0.649025498805947,
+                1.49952087847579,
+                1.61254094525035,
+                1.45136369160258,
+                1.98654570551892,
+                1.90819405575272,
+                1.4743014144391,
+                1.9207518578821,
+                1.82181413039302
+            ]
+        },
+        {
+            "label": "Liquid fuel",
+            "color": "#DAA520",
+            "values": [
+                10.4450735690625,
+                12.77916382503,
+                7.10996724379972,
+                12.57703859308,
+                13.4667675600163,
+                13.4120792357843,
+                16.6117928763843,
+                12.9793819418697,
+                13.1806830842522
+            ]
+        },
+        {
+            "label": "Solid fuel",
+            "color": "#ADFF2F",
+            "values": [
+                87.73014405669831,
+                84.5127204606473,
+                89.81750116986429,
+                84.4785680804153,
+                83.00251956194549,
+                83.2476040086928,
+                80.6836583550142,
+                83.9085647961569,
+                83.8241960889777
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

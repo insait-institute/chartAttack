@@ -1,0 +1,72 @@
+{
+    "title": "Current account balance of countries in 2013 after exporting goods and services",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Antigua and Barbuda": "#f27979",
+        "Argentina": "#f2f200",
+        "Armenia": "#79f279",
+        "Aruba": "#00a5a5",
+        "Australia": "#5252a5",
+        "Austria": "#a500a5"
+    },
+    "data": {
+        "Antigua and Barbuda": [
+            -204399948.9
+        ],
+        "Argentina": [
+            -4696242493.0
+        ],
+        "Armenia": [
+            -844675077.3
+        ],
+        "Aruba": [
+            -269385474.9
+        ],
+        "Australia": [
+            -49954786532.0
+        ],
+        "Austria": [
+            4091253076.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4091253080
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Antigua and Barbuda": "#f27979",
+        "Argentina": "#f2f200",
+        "Armenia": "#79f279",
+        "Aruba": "#00a5a5",
+        "Australia": "#5252a5",
+        "Austria": "#a500a5"
+    }
+}

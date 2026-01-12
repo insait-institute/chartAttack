@@ -1,0 +1,81 @@
+{
+    "title": "Percentage of newborns who have received the vaccination for tetanus",
+    "x_axis": {
+        "categories": [
+            "Ecuador",
+            "El Salvador",
+            "Ghana",
+            "Guatemala",
+            "Haiti",
+            "Honduras"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#708090",
+        "1981": "#D2691E",
+        "1982": "#32CD32",
+        "1983": "#A020F0"
+    },
+    "data": {
+        "1980": [
+            2.0,
+            23.0,
+            3.0,
+            1.0,
+            14.0,
+            7.0
+        ],
+        "1981": [
+            4.0,
+            22.0,
+            11.0,
+            1.0,
+            19.0,
+            12.0
+        ],
+        "1982": [
+            5.0,
+            26.0,
+            11.0,
+            1.0,
+            25.0,
+            17.0
+        ],
+        "1983": [
+            7.0,
+            25.0,
+            11.0,
+            4.0,
+            28.0,
+            18.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,102 @@
+{
+    "title": "",
+    "legend": {
+        "Banca Monte dei Paschi": "#f27979",
+        "Banca Carige": "#f26f00",
+        "Banco Popolare": "#f2e879",
+        "Banca popolare dell'Emilia": "#95f200",
+        "Banca Populare di Vicenca": "#8bf279",
+        "Veneto Banca SpA": "#00a533",
+        "Intesa Sanpaolo": "#52a592",
+        "UniCredit": "#007fa5",
+        "UBI Banca": "#526ca5",
+        "Banca Nazionale del Lavoro": "#1900a5",
+        "Banca Populare di Milano": "#c379f2",
+        "Banca IMI SpA": "#f200df",
+        "Mediobanca": "#f279b1"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Banca Monte dei Paschi": [
+            36.0
+        ],
+        "Banca Carige": [
+            27.8
+        ],
+        "Banco Popolare": [
+            23.3
+        ],
+        "Banca popolare dell'Emilia": [
+            23.3
+        ],
+        "Banca Populare di Vicenca": [
+            20.9
+        ],
+        "Veneto Banca SpA": [
+            20.6
+        ],
+        "Intesa Sanpaolo": [
+            17.5
+        ],
+        "UniCredit": [
+            16.3
+        ],
+        "UBI Banca": [
+            15.1
+        ],
+        "Banca Nazionale del Lavoro": [
+            13.9
+        ],
+        "Banca Populare di Milano": [
+            12.1
+        ],
+        "Banca IMI SpA": [
+            5.4
+        ],
+        "Mediobanca": [
+            2.6
+        ]
+    },
+    "colors": {
+        "Banca Monte dei Paschi": "#f27979",
+        "Banca Carige": "#f26f00",
+        "Banco Popolare": "#f2e879",
+        "Banca popolare dell'Emilia": "#95f200",
+        "Banca Populare di Vicenca": "#8bf279",
+        "Veneto Banca SpA": "#00a533",
+        "Intesa Sanpaolo": "#52a592",
+        "UniCredit": "#007fa5",
+        "UBI Banca": "#526ca5",
+        "Banca Nazionale del Lavoro": "#1900a5",
+        "Banca Populare di Milano": "#c379f2",
+        "Banca IMI SpA": "#f200df",
+        "Mediobanca": "#f279b1"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

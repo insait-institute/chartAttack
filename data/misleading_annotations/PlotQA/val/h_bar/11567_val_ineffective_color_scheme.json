@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of GDP spent on health care in different countries in 2010",
+    "legend": {
+        "North America": "#ff7f50",
+        "Tonga": "#ff9b50",
+        "Uganda": "#ffbb5a"
+    },
+    "categories": [
+        "Private funds",
+        "Public funds"
+    ],
+    "data": {
+        "North America": [
+            8.42331427511668,
+            8.079071834139599
+        ],
+        "Tonga": [
+            0.896910445248813,
+            3.65689832475119
+        ],
+        "Uganda": [
+            6.313561485455049,
+            5.959055214544951
+        ]
+    },
+    "colors": {
+        "North America": "#FF7F50",
+        "Tonga": "#708090",
+        "Uganda": "#FF69B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "North America": "#ff7f50",
+        "Tonga": "#ff9b50",
+        "Uganda": "#ffbb5a"
+    }
+}

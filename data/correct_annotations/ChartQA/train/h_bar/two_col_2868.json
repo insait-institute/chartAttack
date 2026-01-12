@@ -1,0 +1,62 @@
+{
+    "title": "Production of oilseeds in thousand metric tons",
+    "legend": {
+        "Oilseeds Production": "#2876dd"
+    },
+    "categories": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "West Bengal",
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Karnataka",
+        "Uttar Pradesh",
+        "Haryana",
+        "Telangana"
+    ],
+    "data": {
+        "Oilseeds Production": [
+            6244,
+            5711,
+            4102,
+            2375,
+            937,
+            919,
+            873,
+            867,
+            864,
+            849,
+            496
+        ]
+    },
+    "colors": {
+        "Oilseeds Production": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6250
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

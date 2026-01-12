@@ -1,0 +1,62 @@
+{
+    "title": "Mortality rates in Togo",
+    "legend": {
+        "Female": "#32CD32",
+        "Male": "#FF00FF"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "data": {
+        "Female": [
+            271.081,
+            281.162,
+            291.243,
+            301.324,
+            311.404,
+            312.416
+        ],
+        "Male": [
+            300.353,
+            311.32,
+            322.286,
+            333.2530000000001,
+            344.219,
+            345.969
+        ]
+    },
+    "colors": {
+        "Female": "#32CD32",
+        "Male": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 350
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

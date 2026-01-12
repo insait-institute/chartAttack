@@ -1,0 +1,92 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#f29100",
+        "2008": "#daf279",
+        "2009": "#30f200",
+        "2010": "#52a574",
+        "2011": "#00a5a5",
+        "2012": "#5274a5",
+        "2013": "#2100a5",
+        "2014": "#da79f2",
+        "2015": "#f20091"
+    },
+    "data": {
+        "2006": [
+            15.0
+        ],
+        "2007": [
+            8.0
+        ],
+        "2008": [
+            16.0
+        ],
+        "2009": [
+            9.0
+        ],
+        "2010": [
+            26.0
+        ],
+        "2011": [
+            24.0
+        ],
+        "2012": [
+            24.0
+        ],
+        "2013": [
+            19.0
+        ],
+        "2014": [
+            24.0
+        ],
+        "2015": [
+            8.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#f29100",
+        "2008": "#daf279",
+        "2009": "#30f200",
+        "2010": "#52a574",
+        "2011": "#00a5a5",
+        "2012": "#5274a5",
+        "2013": "#2100a5",
+        "2014": "#da79f2",
+        "2015": "#f20091"
+    }
+}

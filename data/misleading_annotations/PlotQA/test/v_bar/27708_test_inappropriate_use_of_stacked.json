@@ -1,0 +1,72 @@
+{
+    "title": "Earning from merchandise imports by the reporting economy(residual) of countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "El Salvador": "#f27979",
+        "Ethiopia": "#f2f200",
+        "Finland": "#79f279",
+        "France": "#00a5a5",
+        "Gabon": "#5252a5",
+        "Germany": "#a500a5"
+    },
+    "data": {
+        "El Salvador": [
+            4.33715220949263
+        ],
+        "Ethiopia": [
+            18.12725090036011
+        ],
+        "Finland": [
+            20.24860043647411
+        ],
+        "France": [
+            9.94914125083275
+        ],
+        "Gabon": [
+            7.861635220125789
+        ],
+        "Germany": [
+            9.73734145610706
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "El Salvador": "#f27979",
+        "Ethiopia": "#f2f200",
+        "Finland": "#79f279",
+        "France": "#00a5a5",
+        "Gabon": "#5252a5",
+        "Germany": "#a500a5"
+    }
+}

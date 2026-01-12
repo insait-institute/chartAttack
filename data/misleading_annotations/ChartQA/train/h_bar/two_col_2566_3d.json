@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Brand Score": "#2876dd"
+    },
+    "categories": [
+        "Rolex",
+        "LEGO",
+        "Google",
+        "Canon",
+        "The Walt Disney Company",
+        "Sony",
+        "Adidas",
+        "Bosch",
+        "BMW Group",
+        "Microsoft"
+    ],
+    "data": {
+        "Brand Score": [
+            79.3,
+            77.9,
+            77.7,
+            77.4,
+            77.4,
+            77.3,
+            76.6,
+            76.4,
+            76.1,
+            75.8
+        ]
+    },
+    "colors": {
+        "Brand Score": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

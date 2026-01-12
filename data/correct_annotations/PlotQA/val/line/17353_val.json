@@ -1,0 +1,64 @@
+{
+    "title": "Comparison between mobile cellular and fixed telephone subscriptions in Austria",
+    "legend": {
+        "Mobile cellular": "#8A2BE2",
+        "Fixed telephone": "#FF69B4"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "No. of subscribers (per 100 people)",
+    "data": [
+        {
+            "label": "Mobile cellular",
+            "color": "#8A2BE2",
+            "values": [
+                28.6288600234909,
+                53.07787627704489,
+                76.2693288573366,
+                81.26031127631241
+            ]
+        },
+        {
+            "label": "Fixed telephone",
+            "color": "#FF69B4",
+            "values": [
+                50.0433821684991,
+                49.1892760634793,
+                49.83627716900021,
+                49.6556282176151
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

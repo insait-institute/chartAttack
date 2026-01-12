@@ -1,0 +1,63 @@
+{
+    "title": "Amount spent on the transport and travel items of national tourists visited in 2007",
+    "x_axis": {
+        "categories": [
+            "Italy",
+            "Jamaica",
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "Kenya"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Passenger Transport Items": "#DAA520",
+        "Travel Items": "#FFFF00"
+    },
+    "data": {
+        "Passenger Transport Items": [
+            3484000000.0,
+            232000000.0,
+            3077000000.0,
+            443000000.0,
+            200000000.0,
+            597000000.0
+        ],
+        "Travel Items": [
+            2837000000.0,
+            54209000000.0,
+            537000000.0,
+            85000000.0,
+            384000000.0,
+            36101000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 54209000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

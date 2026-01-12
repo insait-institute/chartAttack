@@ -1,0 +1,102 @@
+{
+    "title": "",
+    "legend": {
+        "Revenue": "#2876dd",
+        "Expenditure": "#0f283e"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "y_axis_label": "Revenue and expenditure in million Canadian dollars",
+    "data": [
+        {
+            "label": "Revenue",
+            "color": "#2876dd",
+            "values": [
+                85925,
+                87380,
+                88959,
+                92548,
+                97828,
+                100996,
+                105836,
+                110500,
+                114135,
+                117681,
+                123340,
+                130833,
+                139119
+            ]
+        },
+        {
+            "label": "Expenditure",
+            "color": "#0f283e",
+            "values": [
+                85279,
+                88392,
+                92210,
+                93861,
+                99027,
+                102361,
+                106959,
+                109732,
+                111008,
+                113333,
+                117941,
+                124102,
+                129641
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 85925,
+                "max_value": 139119
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 85279,
+                "max_value": 129641
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

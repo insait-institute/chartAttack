@@ -1,0 +1,67 @@
+{
+    "title": "International Tourism statistics of Uganda",
+    "legend": {
+        "Number of arrivals": "#DB7093",
+        "Number of departures": "#DC143C"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Number of tourists",
+    "data": [
+        {
+            "label": "Number of arrivals",
+            "color": "#DB7093",
+            "values": [
+                539000,
+                642000,
+                844000,
+                807000,
+                946000
+            ]
+        },
+        {
+            "label": "Number of departures",
+            "color": "#DC143C",
+            "values": [
+                337000,
+                311000,
+                324000,
+                367000,
+                382000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 311000,
+                "max_value": 946000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

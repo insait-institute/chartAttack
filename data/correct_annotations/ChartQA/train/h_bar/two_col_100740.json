@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Rushing yards": "#2876dd"
+    },
+    "categories": [
+        "John Riggins",
+        "Clinton Portis",
+        "Larry Brown",
+        "Stephen Davis",
+        "Alfred Morris",
+        "Terry Allen",
+        "Earnest Byner",
+        "Cliff Battles",
+        "Mike Thomas",
+        "Ladell Betts",
+        "Don Bosseler",
+        "George Rogers",
+        "Charlie Harraway",
+        "Rob Goode",
+        "Joe Washington",
+        "Ricky Ervins",
+        "Andy Farkas",
+        "Adrian Peterson",
+        "Joe Theismann",
+        "Brian Mitchell"
+    ],
+    "data": {
+        "Rushing yards": [
+            7472,
+            6824,
+            5875,
+            5790,
+            4713,
+            4086,
+            3950,
+            3511,
+            3359,
+            3176,
+            3112,
+            2909,
+            2659,
+            2257,
+            2070,
+            2026,
+            1966,
+            1940,
+            1815,
+            1751
+        ]
+    },
+    "colors": {
+        "Rushing yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7480
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

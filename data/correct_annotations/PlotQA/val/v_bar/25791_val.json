@@ -1,0 +1,72 @@
+{
+    "title": "Amount spent on the passenger transport items of national tourists",
+    "x_axis": {
+        "categories": [
+            "Suriname",
+            "Swaziland",
+            "Sweden",
+            "Switzerland",
+            "Thailand",
+            "Tunisia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#8B4513",
+        "1996": "#ADFF2F",
+        "1997": "#FFA500"
+    },
+    "data": {
+        "1995": [
+            31000000.0,
+            6000000.0,
+            919000000.0,
+            1895000000.0,
+            1222000000.0,
+            308000000.0
+        ],
+        "1996": [
+            30000000.0,
+            4000000.0,
+            848000000.0,
+            1888000000.0,
+            1278000000.0,
+            307000000.0
+        ],
+        "1997": [
+            29000000.0,
+            4000000.0,
+            425000000.0,
+            2091000000.0,
+            1392000000.0,
+            315000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2091000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

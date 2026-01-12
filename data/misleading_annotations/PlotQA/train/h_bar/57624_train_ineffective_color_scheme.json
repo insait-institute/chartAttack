@@ -1,0 +1,78 @@
+{
+    "title": "Total enrollments in schools as per the survey of 1984 conducted in different countries",
+    "legend": {
+        "Middle income": "#191970",
+        "Benin": "#231970",
+        "China": "#311b78",
+        "Venezuela": "#341866"
+    },
+    "categories": [
+        "Pre-primary schools",
+        "Primary schools",
+        "Secondary schools",
+        "Tertiary schools"
+    ],
+    "data": {
+        "Middle income": [
+            17.7997398376465,
+            101.234069824219,
+            40.22393035888671,
+            7.275569915771482
+        ],
+        "Benin": [
+            1.87582,
+            63.61773,
+            19.84169,
+            1.91716
+        ],
+        "China": [
+            14.94274,
+            114.26449,
+            30.89085,
+            2.01724
+        ],
+        "Venezuela": [
+            38.18067,
+            110.11049,
+            54.08566,
+            21.77362
+        ]
+    },
+    "colors": {
+        "Middle income": "#191970",
+        "Benin": "#FF7F50",
+        "China": "#6B8E23",
+        "Venezuela": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Middle income": "#191970",
+        "Benin": "#231970",
+        "China": "#311b78",
+        "Venezuela": "#341866"
+    }
+}

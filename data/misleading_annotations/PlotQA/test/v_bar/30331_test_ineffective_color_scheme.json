@@ -1,0 +1,82 @@
+{
+    "title": "Logistics performance index of markets of different economies in 2007",
+    "x_axis": {
+        "categories": [
+            "Azerbaijan",
+            "Bahrain",
+            "Bangladesh",
+            "Belarus",
+            "Belgium"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Tracking ability": "#90ee90",
+        "Quality of logistic services": "#90ee9b",
+        "Ease of arranging shipments": "#99efae",
+        "Efficiency of custom clearance process": "#89ebac"
+    },
+    "data": {
+        "Tracking ability": [
+            2.38,
+            3.0,
+            2.46,
+            2.71,
+            3.96
+        ],
+        "Quality of logistic services": [
+            2.0,
+            2.75,
+            2.33,
+            2.13,
+            3.95
+        ],
+        "Ease of arranging shipments": [
+            2.5,
+            3.33,
+            2.46,
+            2.13,
+            3.65
+        ],
+        "Efficiency of custom clearance process": [
+            2.23,
+            3.4,
+            2.0,
+            2.67,
+            3.61
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Tracking ability": "#90ee90",
+        "Quality of logistic services": "#90ee9b",
+        "Ease of arranging shipments": "#99efae",
+        "Efficiency of custom clearance process": "#89ebac"
+    }
+}

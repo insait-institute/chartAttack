@@ -1,0 +1,56 @@
+{
+    "title": "Primary to secondary education transition rate among students of different countries",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Korea (Republic)": "#483D8B",
+        "Mali": "#8FBC8F",
+        "Tunisia": "#6A5ACD"
+    },
+    "data": {
+        "Korea (Republic)": [
+            98.74759,
+            100.0
+        ],
+        "Mali": [
+            50.19543,
+            53.96198
+        ],
+        "Tunisia": [
+            54.61238,
+            53.8472
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

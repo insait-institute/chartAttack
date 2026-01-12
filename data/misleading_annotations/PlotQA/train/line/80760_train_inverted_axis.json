@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education in Costa Rica",
+    "legend": {
+        "Female entrants": "#40E0D0",
+        "Male entrants": "#00BFFF"
+    },
+    "x_axis": [
+        "1974",
+        "1975",
+        "1976",
+        "1977"
+    ],
+    "y_axis_label": "Primary completion rate (% of total enrollments)",
+    "data": [
+        {
+            "label": "Female entrants",
+            "color": "#40E0D0",
+            "values": [
+                86.76281,
+                87.3012,
+                83.34149000000002,
+                91.89427
+            ]
+        },
+        {
+            "label": "Male entrants",
+            "color": "#00BFFF",
+            "values": [
+                85.4924,
+                81.71474,
+                78.63179000000002,
+                85.77999
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 70,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,79 @@
+{
+    "title": "",
+    "y_label": "Fertility rate",
+    "categories": [
+        "Melilla",
+        "Ceuta",
+        "Murcia",
+        "Navarre",
+        "La Rioja",
+        "Andalusia",
+        "Catalonia",
+        "Basque Country",
+        "Aragon",
+        "Castile-La Mancha",
+        "Region of Valencia",
+        "Community of Madrid",
+        "Extremadura",
+        "Balearic Islands",
+        "Castile and Leon",
+        "Cantabria",
+        "Galicia",
+        "Asturias",
+        "Canary Islands"
+    ],
+    "data": {
+        "Fertility Rate": [
+            2.19,
+            1.49,
+            1.49,
+            1.4,
+            1.32,
+            1.3,
+            1.29,
+            1.28,
+            1.26,
+            1.25,
+            1.25,
+            1.23,
+            1.22,
+            1.14,
+            1.13,
+            1.07,
+            1.02,
+            0.96,
+            0.94
+        ]
+    },
+    "colors": {
+        "Fertility Rate": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Fertility Rate": "#2876dd"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Share of expenditures made in primary institutions in 2004",
+    "legend": {
+        "United Kingdom": "#f27979",
+        "United States": "#79f200",
+        "Uruguay": "#52a5a5",
+        "Zambia": "#5200a5"
+    },
+    "categories": [
+        "Share of expenditures made in primary institutions in 2004"
+    ],
+    "data": {
+        "United Kingdom": [
+            63.3557815551758
+        ],
+        "United States": [
+            72.0060577392578
+        ],
+        "Uruguay": [
+            58.01142883300779
+        ],
+        "Zambia": [
+            93.7272491455078
+        ]
+    },
+    "colors": {
+        "United Kingdom": "#f27979",
+        "United States": "#79f200",
+        "Uruguay": "#52a5a5",
+        "Zambia": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

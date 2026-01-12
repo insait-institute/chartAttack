@@ -1,0 +1,91 @@
+{
+    "title": "Percentage of the population of Panama participating in various social programs ",
+    "legend": {
+        "Social Awareness": "#A020F0",
+        "Social Insurance": "#BC8F8F",
+        "Social Protection": "#2E8B57",
+        "Social Assistance": "#6A5ACD"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "Population (in %)",
+    "data": [
+        {
+            "label": "Social Awareness",
+            "color": "#A020F0",
+            "values": [
+                15.3761404987911,
+                0.9423269332568459,
+                1.23598813577964,
+                0.767382544762367,
+                0.649648773885104
+            ]
+        },
+        {
+            "label": "Social Insurance",
+            "color": "#BC8F8F",
+            "values": [
+                16.3987433314436,
+                18.7120423882349,
+                18.37928904307289,
+                17.462461690869,
+                17.2491202625581
+            ]
+        },
+        {
+            "label": "Social Protection",
+            "color": "#2E8B57",
+            "values": [
+                67.09782124150229,
+                64.04045949038141,
+                64.0155154789876,
+                60.503495717304,
+                63.4537232885563
+            ]
+        },
+        {
+            "label": "Social Assistance",
+            "color": "#6A5ACD",
+            "values": [
+                52.0211903827424,
+                51.79344528061129,
+                51.9394645677004,
+                48.3963955790775,
+                52.3662501274071
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

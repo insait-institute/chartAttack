@@ -1,0 +1,62 @@
+{
+    "title": "Total population between the ages 0 to 14 as a percentage of the total population",
+    "legend": {
+        "Nicaragua": "#f27979",
+        "Niger": "#c1f200",
+        "Nigeria": "#52a574",
+        "Norway": "#0042a5",
+        "Oman": "#da79f2"
+    },
+    "categories": [
+        "Total population between the ages 0 to 14 as a percentage of the total population"
+    ],
+    "data": {
+        "Nicaragua": [
+            47.34692589604079
+        ],
+        "Niger": [
+            48.1635020140127
+        ],
+        "Nigeria": [
+            41.6186026891232
+        ],
+        "Norway": [
+            25.9198172202469
+        ],
+        "Oman": [
+            43.64507002430511
+        ]
+    },
+    "colors": {
+        "Nicaragua": "#f27979",
+        "Niger": "#c1f200",
+        "Nigeria": "#52a574",
+        "Norway": "#0042a5",
+        "Oman": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

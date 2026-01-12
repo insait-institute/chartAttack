@@ -1,0 +1,83 @@
+{
+    "title": "Neonatal mortality rate in different countries",
+    "legend": {
+        "Low & middle income": "#bebebe",
+        "Marshall Islands": "#bebebe",
+        "Montenegro": "#c3c3c3",
+        "Netherlands": "#b9b9b9"
+    },
+    "categories": [
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "data": {
+        "Low & middle income": [
+            39.6,
+            39.3,
+            39.1,
+            38.7,
+            38.2
+        ],
+        "Marshall Islands": [
+            19.2,
+            18.7,
+            18.2,
+            17.9,
+            17.7
+        ],
+        "Montenegro": [
+            10.4,
+            10.1,
+            10.0,
+            9.9,
+            9.8
+        ],
+        "Netherlands": [
+            4.5,
+            4.4,
+            4.3,
+            4.2,
+            4.1
+        ]
+    },
+    "colors": {
+        "Low & middle income": "#BEBEBE",
+        "Marshall Islands": "#2F4F4F",
+        "Montenegro": "#BC8F8F",
+        "Netherlands": "#BA55D3"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Low & middle income": "#bebebe",
+        "Marshall Islands": "#bebebe",
+        "Montenegro": "#c3c3c3",
+        "Netherlands": "#b9b9b9"
+    }
+}

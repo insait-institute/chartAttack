@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "categories": [
+        "The Simpsons",
+        "Mr. Bean",
+        "SpongeBob SquarePants",
+        "Family Guy",
+        "South Park",
+        "House",
+        "The Big Bang Theory",
+        "Two and a Half Men",
+        "Futurama",
+        "The Walking Dead"
+    ],
+    "data": {
+        "Series": [
+            74.4,
+            60.4,
+            58.2,
+            56.3,
+            50.7,
+            44.1,
+            31.9,
+            30.9,
+            30.4,
+            29.8
+        ]
+    },
+    "colors": {
+        "Series": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

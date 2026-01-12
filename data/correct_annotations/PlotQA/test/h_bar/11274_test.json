@@ -1,0 +1,72 @@
+{
+    "title": "Energy use of a country",
+    "legend": {
+        "World": "#DC143C",
+        "Greece": "#90EE90",
+        "South Africa": "#228B22"
+    },
+    "categories": [
+        "1975",
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980"
+    ],
+    "data": {
+        "World": [
+            1365.85561387041,
+            1420.58841640082,
+            1444.6954269509,
+            1475.49341566519,
+            1492.44494626402,
+            1453.91165930411
+        ],
+        "Greece": [
+            1298.2043634136,
+            1386.10046636156,
+            1469.54942907429,
+            1525.44353586267,
+            1597.92592533633,
+            1553.78161587679
+        ],
+        "South Africa": [
+            2182.60550792624,
+            2209.71241439896,
+            2208.54919915561,
+            2284.81802857328,
+            2308.23914500215,
+            2370.98854076008
+        ]
+    },
+    "colors": {
+        "World": "#DC143C",
+        "Greece": "#90EE90",
+        "South Africa": "#228B22"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2380
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

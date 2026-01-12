@@ -1,0 +1,81 @@
+{
+    "title": "Trade statistics of goods and services in 1964",
+    "x_axis": {
+        "categories": [
+            "Bolivia",
+            "Brazil",
+            "Cameroon",
+            "Canada",
+            "Chad",
+            "Chile"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Exports": "#87CEEB",
+        "Imports": "#000000"
+    },
+    "data": {
+        "Exports": [
+            1506391500.0,
+            7144883700.0,
+            234068377600.0,
+            55249917101.9556,
+            286546206400.0,
+            1823760020700.0
+        ],
+        "Imports": [
+            1624369800.0,
+            11420455900.0,
+            230465585200.0,
+            42861075092.189,
+            932649151600.0,
+            1914451124600.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1914451124600
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Exports": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Imports": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

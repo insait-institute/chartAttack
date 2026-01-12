@@ -1,0 +1,68 @@
+{
+    "title": "Price level ratio of PPP conversion factor (GDP) to market exchange rate",
+    "legend": {
+        "Afghanistan": "#FF0000",
+        "Sweden": "#B03060",
+        "Tuvalu": "#FFFF00"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Afghanistan": [
+            0.255778948092648,
+            0.30552840232369,
+            0.299391590421458,
+            0.300852606289035,
+            0.34983560756456
+        ],
+        "Sweden": [
+            1.23040646770215,
+            1.31454163460969,
+            1.33108221692889,
+            1.16478781781599,
+            1.24802192160943
+        ],
+        "Tuvalu": [
+            0.84142740909006,
+            0.90956187844972,
+            0.925740973375658,
+            0.8601600133429891,
+            1.02585815352593
+        ]
+    },
+    "colors": {
+        "Afghanistan": "#FF0000",
+        "Sweden": "#B03060",
+        "Tuvalu": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

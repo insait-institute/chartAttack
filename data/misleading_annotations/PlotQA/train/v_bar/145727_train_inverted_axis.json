@@ -1,0 +1,71 @@
+{
+    "title": "Net bilateral aid flows from DAC donors (Slovak Republic)",
+    "x_axis": {
+        "categories": [
+            "World",
+            "Afghanistan",
+            "Belarus",
+            "Bosnia and Herzegovina"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#006400",
+        "2006": "#6495ED",
+        "2007": "#FFD700",
+        "2008": "#DAA520"
+    },
+    "data": {
+        "2005": [
+            31430000.0,
+            4410000.0,
+            80000.0,
+            1390000.0
+        ],
+        "2006": [
+            20960000.0,
+            1540000.0,
+            70000.0,
+            130000.0
+        ],
+        "2007": [
+            22830000.0,
+            1330000.0,
+            70000.0,
+            10000.0
+        ],
+        "2008": [
+            34230000.0,
+            260000.0,
+            200000.0,
+            560000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 34230000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

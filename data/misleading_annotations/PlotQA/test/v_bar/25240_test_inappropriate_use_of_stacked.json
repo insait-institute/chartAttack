@@ -1,0 +1,67 @@
+{
+    "title": "Claim of different countries on it's government institutions and different sectors",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Guyana": "#f27979",
+        "Haiti": "#c1f200",
+        "Honduras": "#52a574",
+        "Hungary": "#0042a5",
+        "Iceland": "#da79f2"
+    },
+    "data": {
+        "Guyana": [
+            12.0915010949294
+        ],
+        "Haiti": [
+            0.443789669147919
+        ],
+        "Honduras": [
+            -3.46108280893383
+        ],
+        "Hungary": [
+            -3.06692070198025
+        ],
+        "Iceland": [
+            -1.69509394981885
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Guyana": "#f27979",
+        "Haiti": "#c1f200",
+        "Honduras": "#52a574",
+        "Hungary": "#0042a5",
+        "Iceland": "#da79f2"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of female workers who hold self-employment jobs",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Finland",
+            "Italy",
+            "Norway",
+            "Spain",
+            "Sweden"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#8B008B",
+        "1981": "#2F4F4F",
+        "1982": "#FF1493"
+    },
+    "data": {
+        "1980": [
+            2.0,
+            5.0,
+            11.1000003814697,
+            6.199999809265139,
+            19.6000003814697,
+            0.8999999761581421
+        ],
+        "1981": [
+            2.09999990463257,
+            5.09999990463257,
+            10.8000001907349,
+            6.199999809265139,
+            19.5,
+            0.800000011920928
+        ],
+        "1982": [
+            2.0,
+            5.09999990463257,
+            10.1999998092651,
+            5.199999809265138,
+            18.6000003814697,
+            0.699999988079071
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

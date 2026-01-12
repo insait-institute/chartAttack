@@ -1,0 +1,60 @@
+{
+    "title": "Amount spent on the transport items of international tourists",
+    "x_axis": {
+        "categories": [
+            "Bolivia",
+            "Botswana",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#00FF7F",
+        "1996": "#A0522D",
+        "1997": "#6A5ACD"
+    },
+    "data": {
+        "1995": [
+            24000000.0,
+            8000000.0,
+            591000000.0
+        ],
+        "1996": [
+            33000000.0,
+            14000000.0,
+            601000000.0
+        ],
+        "1997": [
+            39000000.0,
+            12000000.0,
+            789000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 789000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

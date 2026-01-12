@@ -1,0 +1,44 @@
+{
+    "title": "Total unemployed youth population of Marshall Islands",
+    "legend": {
+        "Unemployment youth total": "#A0522D"
+    },
+    "categories": [
+        "1999",
+        "2011"
+    ],
+    "data": {
+        "Unemployment youth total": [
+            63.4000015258789,
+            11.0
+        ]
+    },
+    "colors": {
+        "Unemployment youth total": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Net disbursements of loans from World bank",
+    "x_axis": {
+        "categories": [
+            "Senegal",
+            "Sierra Leone",
+            "Sri Lanka",
+            "Sudan",
+            "Swaziland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#BEBEBE",
+        "1971": "#FF00FF",
+        "1972": "#EE82EE",
+        "1973": "#F4A460"
+    },
+    "data": {
+        "1970": [
+            4468000.0,
+            2680000.0,
+            1715000.0,
+            10688000.0,
+            199000.0
+        ],
+        "1971": [
+            1663000.0,
+            1220000.0,
+            8512000.0,
+            1482000.0,
+            -295000.0
+        ],
+        "1972": [
+            4566000.0,
+            1378000.0,
+            7267000.0,
+            -1125000.0,
+            -344000.0
+        ],
+        "1973": [
+            9151000.0,
+            4048000.0,
+            11785000.0,
+            -2600000.0,
+            -362000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11785000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

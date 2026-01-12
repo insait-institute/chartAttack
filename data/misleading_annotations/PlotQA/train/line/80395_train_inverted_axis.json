@@ -1,0 +1,79 @@
+{
+    "title": "Investments and savings done by the government of Upper middle income",
+    "legend": {
+        "Investments": "#40E0D0",
+        "Savings": "#708090"
+    },
+    "x_axis": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "% of GDP",
+    "data": [
+        {
+            "label": "Investments",
+            "color": "#40E0D0",
+            "values": [
+                26.5264608021103,
+                26.5343543102586,
+                26.4769401158637,
+                27.1414552337548,
+                28.81506811424951,
+                30.2481994791622,
+                29.6462695910762,
+                30.5598682558647,
+                30.5269678904033
+            ]
+        },
+        {
+            "label": "Savings",
+            "color": "#708090",
+            "values": [
+                28.0304655237453,
+                27.8157559175995,
+                27.2845635974494,
+                28.4012586641173,
+                29.8485264063993,
+                31.2534137898436,
+                32.1649595812319,
+                34.0315351470326,
+                34.0888653417012
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

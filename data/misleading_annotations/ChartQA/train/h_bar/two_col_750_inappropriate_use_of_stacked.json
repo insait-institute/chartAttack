@@ -1,0 +1,137 @@
+{
+    "title": "Number of players",
+    "categories": [
+        "Number of players"
+    ],
+    "data": {
+        "Canada": [
+            607951.0
+        ],
+        "United States": [
+            561700.0
+        ],
+        "Czechia": [
+            129595.0
+        ],
+        "Russia": [
+            100701.0
+        ],
+        "Sweden": [
+            73293.0
+        ],
+        "Finland": [
+            71063.0
+        ],
+        "Switzerland": [
+            30655.0
+        ],
+        "France": [
+            21582.0
+        ],
+        "Germany": [
+            21336.0
+        ],
+        "Japan": [
+            18641.0
+        ],
+        "Great Britain": [
+            11148.0
+        ],
+        "Slovakia": [
+            10970.0
+        ],
+        "Norway": [
+            10270.0
+        ],
+        "China": [
+            9506.0
+        ],
+        "Hungary": [
+            7802.0
+        ],
+        "Kazakhstan": [
+            7684.0
+        ],
+        "Austria": [
+            7670.0
+        ],
+        "Latvia": [
+            7460.0
+        ],
+        "Belarus": [
+            5525.0
+        ],
+        "Ukraine": [
+            5340.0
+        ]
+    },
+    "colors": {
+        "Canada": "#f27979",
+        "United States": "#f24800",
+        "Czechia": "#f2c179",
+        "Russia": "#f2da00",
+        "Sweden": "#daf279",
+        "Finland": "#79f200",
+        "Switzerland": "#91f279",
+        "France": "#00a510",
+        "Germany": "#52a574",
+        "Japan": "#00a574",
+        "Great Britain": "#52a5a5",
+        "Slovakia": "#0074a5",
+        "Norway": "#5274a5",
+        "China": "#0010a5",
+        "Hungary": "#9179f2",
+        "Kazakhstan": "#7900f2",
+        "Austria": "#da79f2",
+        "Latvia": "#f200da",
+        "Belarus": "#f279c1",
+        "Ukraine": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 607960
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Canada": "#f27979",
+        "United States": "#f24800",
+        "Czechia": "#f2c179",
+        "Russia": "#f2da00",
+        "Sweden": "#daf279",
+        "Finland": "#79f200",
+        "Switzerland": "#91f279",
+        "France": "#00a510",
+        "Germany": "#52a574",
+        "Japan": "#00a574",
+        "Great Britain": "#52a5a5",
+        "Slovakia": "#0074a5",
+        "Norway": "#5274a5",
+        "China": "#0010a5",
+        "Hungary": "#9179f2",
+        "Kazakhstan": "#7900f2",
+        "Austria": "#da79f2",
+        "Latvia": "#f200da",
+        "Belarus": "#f279c1",
+        "Ukraine": "#f20048"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Balance of payments for transport services (% of service imports)",
+    "legend": {
+        "Cambodia": "#A52A2A",
+        "Ethiopia": "#F4A460",
+        "Mauritius": "#008B8B"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Cambodia": [
+            55.07005919716661,
+            51.001754836475,
+            53.6893421132137,
+            57.2793103124618,
+            50.2708143852574
+        ],
+        "Ethiopia": [
+            54.2606937321039,
+            64.23007060292561,
+            67.4494610509284,
+            66.4580702004479,
+            65.0003753965463
+        ],
+        "Mauritius": [
+            40.9822787678204,
+            38.39390942353271,
+            33.7451272817878,
+            32.0000519356298,
+            28.01945176147661
+        ]
+    },
+    "colors": {
+        "Cambodia": "#A52A2A",
+        "Ethiopia": "#F4A460",
+        "Mauritius": "#008B8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

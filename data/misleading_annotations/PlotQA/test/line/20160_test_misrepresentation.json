@@ -1,0 +1,160 @@
+{
+    "title": "CPIA ratings of different financial policies of Bhutan",
+    "legend": {
+        "Financial sector": "#D2B48C",
+        "Trade": "#8B4513",
+        "Budget management": "#DAA520",
+        "Fiscal policy": "#00BFFF"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Rating (1=low 6=high)",
+    "data": [
+        {
+            "label": "Financial sector",
+            "color": "#D2B48C",
+            "values": [
+                3.0,
+                3.0,
+                3.0,
+                3.0,
+                3.0,
+                3.5,
+                3.0,
+                3.0
+            ]
+        },
+        {
+            "label": "Trade",
+            "color": "#8B4513",
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ]
+        },
+        {
+            "label": "Budget management",
+            "color": "#DAA520",
+            "values": [
+                3.5,
+                3.5,
+                3.5,
+                3.5,
+                3.5,
+                3.5,
+                3.5,
+                3.5
+            ]
+        },
+        {
+            "label": "Fiscal policy",
+            "color": "#00BFFF",
+            "values": [
+                4.0,
+                4.5,
+                4.5,
+                4.5,
+                4.5,
+                4.0,
+                3.5,
+                3.5
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Financial sector",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Trade",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Budget management",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Fiscal policy",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

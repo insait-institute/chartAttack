@@ -1,0 +1,62 @@
+{
+    "title": "Damage caused to an economy due to the depletion of minerals",
+    "legend": {
+        "1970": "#2F4F4F",
+        "1971": "#191970"
+    },
+    "categories": [
+        "Australia",
+        "Brazil",
+        "Canada",
+        "Chile",
+        "China",
+        "Colombia"
+    ],
+    "data": {
+        "1970": [
+            0.724961315697045,
+            0.223672965616652,
+            0.958671675582476,
+            6.07181929137907,
+            0.109973112044964,
+            0.00791511186602013
+        ],
+        "1971": [
+            0.6773342401069941,
+            0.179596323750487,
+            0.686709279109026,
+            3.7682658437795,
+            0.0797984457626197,
+            0.0119690154812182
+        ]
+    },
+    "colors": {
+        "1970": "#2F4F4F",
+        "1971": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

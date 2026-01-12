@@ -1,0 +1,67 @@
+{
+    "title": "Net savings as percentage of gross national income of Ghana",
+    "legend": {
+        "Net savings(excluding particulate emission damage)": "#FF1493",
+        "Net National savings": "#6495ED"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "y_axis_label": "Savings(% of GNI)",
+    "data": [
+        {
+            "label": "Net savings(excluding particulate emission damage)",
+            "color": "#FF1493",
+            "values": [
+                8.01775643353675,
+                5.76742791666903,
+                -0.6042649005017801,
+                -2.77372496064307,
+                0.00906131933047642
+            ]
+        },
+        {
+            "label": "Net National savings",
+            "color": "#6495ED",
+            "values": [
+                13.4677843827272,
+                9.23012390699373,
+                3.94633657862966,
+                2.15762928902093,
+                7.589797116597659
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -10,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

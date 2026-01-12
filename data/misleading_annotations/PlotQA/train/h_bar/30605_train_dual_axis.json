@@ -1,0 +1,73 @@
+{
+    "title": "Percentage of population using safely managed services in Portugal",
+    "legend": {
+        "Sanitation services": "#DC143C",
+        "Drinking water services": "#8B4513"
+    },
+    "categories": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "data": {
+        "Sanitation services": [
+            95.5,
+            95.8,
+            96.2,
+            96.5,
+            96.8,
+            97.1
+        ],
+        "Drinking water services": [
+            97.6,
+            97.8,
+            98.0,
+            98.1,
+            98.3,
+            98.5
+        ]
+    },
+    "colors": {
+        "Sanitation services": "#DC143C",
+        "Drinking water services": "#8B4513"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 95.5,
+                "max_value": 97.1
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 97.6,
+                "max_value": 98.5
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

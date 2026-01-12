@@ -1,0 +1,89 @@
+{
+    "title": "Number of depositors involved with commercial banks",
+    "legend": {
+        "Kiribati": "#008080",
+        "Moldova": "#DC143C",
+        "Turkey": "#8A2BE2",
+        "Uganda": "#6495ED"
+    },
+    "categories": [
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "data": {
+        "Kiribati": [
+            163.032208390899,
+            177.688131523261,
+            196.874551971326
+        ],
+        "Moldova": [
+            1165.93081979675,
+            1235.18448537563,
+            1343.65832594514
+        ],
+        "Turkey": [
+            917.967064277292,
+            929.6199727372908,
+            991.395065197726
+        ],
+        "Uganda": [
+            172.106268105354,
+            194.388336204713,
+            180.726864370341
+        ]
+    },
+    "colors": {
+        "Kiribati": "#008080",
+        "Moldova": "#DC143C",
+        "Turkey": "#8A2BE2",
+        "Uganda": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1350
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Kiribati": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Moldova": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Turkey": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Uganda": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

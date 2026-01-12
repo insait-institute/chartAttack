@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of children (under age 5) infected with anaemia",
+    "legend": {
+        "1993": "#f27979",
+        "1994": "#00f200",
+        "1995": "#5252a5"
+    },
+    "categories": [
+        "Percentage of children (under age 5) infected with anaemia"
+    ],
+    "data": {
+        "1993": [
+            38.61614143935729
+        ],
+        "1994": [
+            37.379205430017
+        ],
+        "1995": [
+            36.2624515137275
+        ]
+    },
+    "colors": {
+        "1993": "#f27979",
+        "1994": "#00f200",
+        "1995": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

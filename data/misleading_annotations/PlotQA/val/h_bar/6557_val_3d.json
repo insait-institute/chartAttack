@@ -1,0 +1,56 @@
+{
+    "title": "Employment in various sectors of an economy in 2005",
+    "legend": {
+        "Euro area": "#8B008B",
+        "Germany": "#A0522D"
+    },
+    "categories": [
+        "Agriculture",
+        "Industry",
+        "Services",
+        "Self-employed"
+    ],
+    "data": {
+        "Euro area": [
+            4.16609583284022,
+            28.0211091364795,
+            67.4887787810106,
+            16.6238463652931
+        ],
+        "Germany": [
+            2.29999995231628,
+            30.0,
+            67.8000030517578,
+            12.3999996185303
+        ]
+    },
+    "colors": {
+        "Euro area": "#8B008B",
+        "Germany": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

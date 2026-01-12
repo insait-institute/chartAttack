@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Shaving products": "#2876dd"
+    },
+    "categories": [
+        "Edge",
+        "Barbasol",
+        "Private label",
+        "Skintimate Skin Therapy",
+        "Gillette Series",
+        "Gillette Foamy",
+        "Skintimate Signature Scents",
+        "Gillette Fusion Proglide",
+        "E.O.S.",
+        "Gillette Satin Care"
+    ],
+    "data": {
+        "Shaving products": [
+            77.6,
+            42.8,
+            39.9,
+            37.4,
+            28.3,
+            24,
+            20.7,
+            15.9,
+            15.2,
+            15
+        ]
+    },
+    "colors": {
+        "Shaving products": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

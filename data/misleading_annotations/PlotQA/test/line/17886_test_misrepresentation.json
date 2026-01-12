@@ -1,0 +1,94 @@
+{
+    "title": "Expenditures in primary institutions of Denmark",
+    "legend": {
+        "All education staff compensation": "#FFA500",
+        "Current education expenditure": "#B03060"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "% of total expenditure in primary institutions",
+    "data": [
+        {
+            "label": "All education staff compensation",
+            "color": "#FFA500",
+            "values": [
+                70.7455368041992,
+                71.3097229003906,
+                72.2281799316406,
+                72.2384719848633,
+                73.12278747558591,
+                74.4958114624023
+            ]
+        },
+        {
+            "label": "Current education expenditure",
+            "color": "#B03060",
+            "values": [
+                90.0567092895508,
+                90.47222900390629,
+                91.27105712890629,
+                92.0915298461914,
+                92.9741973876953,
+                93.0699462890625
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 70,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "All education staff compensation",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Current education expenditure",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

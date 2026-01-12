@@ -1,0 +1,86 @@
+{
+    "title": "",
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "categories": [
+        "Tunisia",
+        "Ivory Coast",
+        "Algeria",
+        "Pakistan",
+        "Iraq",
+        "Bangladesh",
+        "Sudan",
+        "Guinea",
+        "Somalia",
+        "Morocco",
+        "Eritrea",
+        "Mali",
+        "Nigeria",
+        "Cameroon",
+        "Libya",
+        "Egypt",
+        "Senegal",
+        "Gambia",
+        "Ghana",
+        "Syrian Arab Republic",
+        "Ethiopia",
+        "Sierra Leone",
+        "Others"
+    ],
+    "data": {
+        "Data": [
+            2722,
+            1332,
+            1258,
+            1194,
+            1034,
+            739,
+            518,
+            394,
+            332,
+            325,
+            292,
+            288,
+            269,
+            220,
+            216,
+            201,
+            171,
+            94,
+            90,
+            46,
+            41,
+            28,
+            1007
+        ]
+    },
+    "colors": {
+        "Data": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2730
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

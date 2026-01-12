@@ -1,0 +1,77 @@
+{
+    "title": "Percent of total female population who survived till the age of 65 years",
+    "x_axis": {
+        "categories": [
+            "Swaziland",
+            "Sweden",
+            "Switzerland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#20B2AA",
+        "1961": "#E9967A",
+        "1962": "#708090"
+    },
+    "data": {
+        "1960": [
+            38.238,
+            83.78390999999998,
+            81.88559000000002
+        ],
+        "1961": [
+            38.68119,
+            84.08882,
+            82.29773
+        ],
+        "1962": [
+            39.12438,
+            84.39373,
+            82.70985999999998
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

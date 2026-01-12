@@ -1,0 +1,60 @@
+{
+    "title": "Arms export in countries",
+    "legend": {
+        "Europe(developing only)": "#D2B48C",
+        "Oman": "#DAA520",
+        "United States": "#663399"
+    },
+    "categories": [
+        "1977",
+        "1986",
+        "2005"
+    ],
+    "data": {
+        "Europe(developing only)": [
+            75000000.0,
+            191000000.0,
+            469000000.0
+        ],
+        "Oman": [
+            5000000.0,
+            5000000.0,
+            1000000.0
+        ],
+        "United States": [
+            14537000000,
+            11548000000,
+            6758000000
+        ]
+    },
+    "colors": {
+        "Europe(developing only)": "#D2B48C",
+        "Oman": "#DAA520",
+        "United States": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 14537000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

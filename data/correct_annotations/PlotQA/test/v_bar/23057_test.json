@@ -1,0 +1,57 @@
+{
+    "title": "Trade statistics with developing economies(within region) in 2014",
+    "x_axis": {
+        "categories": [
+            "Liberia",
+            "Libya",
+            "Macedonia",
+            "Madagascar"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#DC143C",
+        "Merchandise imports": "#DB7093"
+    },
+    "data": {
+        "Merchandise exports": [
+            2.06139818829688,
+            7.66414716992094,
+            18.0486133117902,
+            8.1673067644259
+        ],
+        "Merchandise imports": [
+            5.448668359587329,
+            2.02004872761287,
+            14.5240246533377,
+            26.04080243792231
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

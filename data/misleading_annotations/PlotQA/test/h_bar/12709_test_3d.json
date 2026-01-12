@@ -1,0 +1,82 @@
+{
+    "title": "Grants received by the government including technical cooeration",
+    "legend": {
+        "Azerbaijan": "#708090",
+        "Honduras": "#D2B48C",
+        "Myanmar": "#5F9EA0",
+        "Nigeria": "#B8860B"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Azerbaijan": [
+            36240000.0,
+            45080000.0,
+            42310000.0,
+            52800000.0,
+            47720000.0,
+            37030000.0
+        ],
+        "Honduras": [
+            54440000,
+            80170000,
+            69300000,
+            53620000,
+            68160000,
+            64750000
+        ],
+        "Myanmar": [
+            34740000,
+            35260000,
+            37240000,
+            56860000,
+            58470000,
+            72060000
+        ],
+        "Nigeria": [
+            161960000,
+            201020000,
+            202670000,
+            197310000,
+            270480000,
+            316730000
+        ]
+    },
+    "colors": {
+        "Azerbaijan": "#708090",
+        "Honduras": "#D2B48C",
+        "Myanmar": "#5F9EA0",
+        "Nigeria": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 316730000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

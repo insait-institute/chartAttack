@@ -1,0 +1,77 @@
+{
+    "title": "Total arable land (as % of total land area) in different countries",
+    "legend": {
+        "Congo (Democratic)": "#008B8B",
+        "France": "#0000FF",
+        "Kiribati": "#6495ED",
+        "Serbia": "#BDB76B"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Congo (Democratic)": [
+            2.97743763922278,
+            2.99508171412188,
+            2.99949273284665,
+            3.08771310734214,
+            3.13182329458989
+        ],
+        "France": [
+            33.3640150705771,
+            33.3411863970326,
+            33.4279353565017,
+            33.3744066827746,
+            33.390782031591
+        ],
+        "Kiribati": [
+            2.46913580246914,
+            2.46913580246914,
+            2.46913580246914,
+            2.46913580246914,
+            2.46913580246914
+        ],
+        "Serbia": [
+            37.7544020123485,
+            37.7086668191173,
+            37.6514978275783,
+            37.6629316258861,
+            37.5257260461925
+        ]
+    },
+    "colors": {
+        "Congo (Democratic)": "#008B8B",
+        "France": "#0000FF",
+        "Kiribati": "#6495ED",
+        "Serbia": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

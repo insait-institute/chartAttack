@@ -1,0 +1,63 @@
+{
+    "title": "Total reserves (including gold) of Libya",
+    "legend": {
+        "Total reserves (includes gold": "#B03060"
+    },
+    "x_axis": [
+        "1968",
+        "1969",
+        "1970",
+        "1971",
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976"
+    ],
+    "y_axis_label": "Total reserves (current US$)",
+    "data": [
+        {
+            "label": "Total reserves (includes gold",
+            "color": "#B03060",
+            "values": [
+                555590299.992783,
+                918062399.992783,
+                1595900689.99153,
+                2679173141.29397,
+                2990318988.39396,
+                2297339603.99396,
+                3965710704.135479,
+                2436846615.49503,
+                3434886387.03616
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 555590290,
+                "max_value": 3965710710
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

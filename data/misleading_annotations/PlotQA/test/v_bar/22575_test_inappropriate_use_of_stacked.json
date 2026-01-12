@@ -1,0 +1,57 @@
+{
+    "title": "Agricultural and industrial emissions by different countries in 2010",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Methane": "#f27979",
+        "Agricultural Nitrous Oxide": "#00f200",
+        "Industrial Nitrous Oxide": "#5252a5"
+    },
+    "data": {
+        "Methane": [
+            4018.8
+        ],
+        "Agricultural Nitrous Oxide": [
+            2192.3
+        ],
+        "Industrial Nitrous Oxide": [
+            57.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4020
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Methane": "#f27979",
+        "Agricultural Nitrous Oxide": "#00f200",
+        "Industrial Nitrous Oxide": "#5252a5"
+    }
+}

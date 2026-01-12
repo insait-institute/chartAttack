@@ -1,0 +1,67 @@
+{
+    "title": "Balance of payments as percentage of commercial service exports in Trinidad and Tobago",
+    "legend": {
+        "Transport services": "#FF0000",
+        "Travel services": "#32CD32"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Balance of Payment (as % of commercial service exports)",
+    "data": [
+        {
+            "label": "Transport services",
+            "color": "#FF0000",
+            "values": [
+                25.2401746724891,
+                25.211561710078,
+                23.739518675814,
+                28.37552742616031,
+                25.6906077348066
+            ]
+        },
+        {
+            "label": "Travel services",
+            "color": "#32CD32",
+            "values": [
+                47.6855895196507,
+                50.8957028244862,
+                43.22116955243378,
+                48.3386075949367,
+                51.74953959484351
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

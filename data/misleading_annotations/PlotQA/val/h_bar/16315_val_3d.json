@@ -1,0 +1,50 @@
+{
+    "title": "Electric power consumption (kWh per capita) by countries in the year 1962",
+    "legend": {
+        "Electric power consumption": "#BA55D3"
+    },
+    "categories": [
+        "Denmark",
+        "Finland",
+        "France",
+        "Germany",
+        "Greece"
+    ],
+    "data": {
+        "Electric power consumption": [
+            1355.93161990797,
+            2389.209881991161,
+            1646.8324613091,
+            1790.68687742638,
+            305.389304485328
+        ]
+    },
+    "colors": {
+        "Electric power consumption": "#BA55D3"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2390
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

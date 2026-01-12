@@ -1,0 +1,73 @@
+{
+    "title": "Start-up procedures to register a business vs property in Low & middle income",
+    "legend": {
+        "Register a business": "#FFFF00",
+        "Register a property": "#7FFFD4"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Number of procedures",
+    "data": [
+        {
+            "label": "Register a business",
+            "color": "#FFFF00",
+            "values": [
+                9.042735042735039,
+                8.57627118644068,
+                8.33050847457627,
+                7.91525423728814,
+                7.83471074380165,
+                7.67906976744186,
+                7.49767441860465
+            ]
+        },
+        {
+            "label": "Register a property",
+            "color": "#7FFFD4",
+            "values": [
+                6.23684210526316,
+                6.18260869565217,
+                6.16521739130435,
+                6.20512820512821,
+                6.22,
+                6.188,
+                6.132000000000001
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

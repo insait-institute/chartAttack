@@ -1,0 +1,64 @@
+{
+    "title": "National debt in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*",
+            "2026*"
+        ]
+    },
+    "y_axis": {
+        "label": "National debt in billion U.S. dollars"
+    },
+    "legend": {
+        "Debt": "#2876dd"
+    },
+    "data": {
+        "Debt": [
+            1.76,
+            1.83,
+            2.05,
+            2.06,
+            2.53,
+            2.99,
+            3.44,
+            3.93,
+            4.37,
+            4.8,
+            5.27
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

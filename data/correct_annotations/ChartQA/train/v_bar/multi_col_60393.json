@@ -1,0 +1,60 @@
+{
+    "title": "Percentage unemployed",
+    "x_axis": {
+        "categories": [
+            "16 - 24 years",
+            "25 - 54 years",
+            "55 years and over"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage unemployed"
+    },
+    "legend": {
+        "Male": "#2876dd",
+        "Female": "#0f283e",
+        "Total": "#bababa"
+    },
+    "data": {
+        "Male": [
+            35.1,
+            10.2,
+            8.5
+        ],
+        "Female": [
+            32.6,
+            12.4,
+            9.7
+        ],
+        "Total": [
+            34,
+            11.3,
+            9.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

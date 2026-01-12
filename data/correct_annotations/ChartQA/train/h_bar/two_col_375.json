@@ -1,0 +1,82 @@
+{
+    "title": "",
+    "legend": {
+        "Mobile reach": "#2876dd"
+    },
+    "categories": [
+        "Facebook (main)",
+        "Instagram (main)",
+        "Facebook Messenger",
+        "Twitter (main)",
+        "Pinterest",
+        "Reddit",
+        "Snapchat",
+        "WhatsApp",
+        "Messenger by Google",
+        "Tumblr",
+        "Discord - Chat for Games",
+        "Google Hangouts (main)",
+        "GroupMe",
+        "Kik",
+        "TikTok (main)",
+        "Skype (main)",
+        "TikTok",
+        "Telegram",
+        "LINE",
+        "Google+",
+        "WeChat"
+    ],
+    "data": {
+        "Mobile reach": [
+            90.9,
+            64.92,
+            56.97,
+            43.62,
+            35.81,
+            25.63,
+            24.62,
+            13.69,
+            9.35,
+            8.96,
+            8.03,
+            7.59,
+            5.75,
+            4.13,
+            3.34,
+            2.96,
+            2.01,
+            1.85,
+            1.68,
+            1.4,
+            0.79
+        ]
+    },
+    "colors": {
+        "Mobile reach": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,56 @@
+{
+    "title": "General government consumption recorded in 1979",
+    "x_axis": {
+        "categories": [
+            "Constant 2005 US$",
+            "Current US$"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cameroon": "#00FFFF",
+        "China": "#6A5ACD",
+        "Peru": "#E9967A"
+    },
+    "data": {
+        "Cameroon": [
+            629923683.624776,
+            536788863.0402809
+        ],
+        "China": [
+            42547805780.3015,
+            27052174473.8906
+        ],
+        "Peru": [
+            4419347124.936971,
+            1339122702.24408
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 42547805790
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

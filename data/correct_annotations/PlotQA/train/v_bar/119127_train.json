@@ -1,0 +1,56 @@
+{
+    "title": "Average working hours of children involved in studies (ages 7-14) in 2007",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Madagascar": "#E9967A",
+        "Mauritania": "#4682B4",
+        "Timor-Leste": "#6495ED"
+    },
+    "data": {
+        "Madagascar": [
+            18.2,
+            17.2
+        ],
+        "Mauritania": [
+            11.8,
+            13.9
+        ],
+        "Timor-Leste": [
+            21.9,
+            20.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

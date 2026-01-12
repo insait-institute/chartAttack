@@ -1,0 +1,61 @@
+{
+    "title": "Number of people participated in R&D projects in 1997",
+    "x_axis": {
+        "categories": [
+            "Researchers",
+            "Technicians"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Czech Republic": "#F4A460",
+        "Iceland": "#6A5ACD",
+        "Portugal": "#20B2AA",
+        "Singapore": "#66CDAA"
+    },
+    "data": {
+        "Czech Republic": [
+            1219.72077,
+            707.59318
+        ],
+        "Iceland": [
+            4915.35862,
+            1791.43542
+        ],
+        "Portugal": [
+            1342.79172,
+            187.58006
+        ],
+        "Singapore": [
+            2656.36433,
+            374.99134
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4920
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

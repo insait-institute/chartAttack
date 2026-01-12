@@ -1,0 +1,58 @@
+{
+    "title": "Share of global prescription drug revenue at risk",
+    "x_axis": {
+        "categories": [
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023",
+            "2024",
+            "2025",
+            "2026"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of global prescription drug revenue at risk"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            5.3,
+            1.8,
+            1.2,
+            3.5,
+            5.7,
+            1.7,
+            3.9,
+            3.9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

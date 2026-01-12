@@ -1,0 +1,54 @@
+{
+    "title": "Unemployed female population in 2012 as per the survey report",
+    "x_axis": {
+        "categories": [
+            "Austria",
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Belgium",
+            "Belize"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Unemployment youth female": "#00FF7F"
+    },
+    "data": {
+        "Unemployment youth female": [
+            9.19999980926514,
+            16.2999992370605,
+            32.2000007629395,
+            12.1999998092651,
+            18.8999996185303,
+            35.5999984741211
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

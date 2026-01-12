@@ -1,0 +1,70 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy in 1979",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Jordan": "#708090",
+        "Spain": "#FF0000",
+        "Togo": "#008B8B"
+    },
+    "data": {
+        "Jordan": [
+            400370000,
+            1948020000
+        ],
+        "Spain": [
+            18206430000,
+            25437580000
+        ],
+        "Togo": [
+            213945000,
+            518082000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25437580000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Jordan": [
+            1.75,
+            0.25
+        ],
+        "Spain": [
+            1.75,
+            0.25
+        ],
+        "Togo": [
+            1.75,
+            0.25
+        ]
+    }
+}

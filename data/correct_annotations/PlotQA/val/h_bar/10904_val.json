@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of repeaters in secondary general education",
+    "legend": {
+        "Italy": "#FF1493",
+        "Jordan": "#20B2AA",
+        "Russian Federation": "#8B0000"
+    },
+    "categories": [
+        "1994",
+        "1999",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "data": {
+        "Italy": [
+            5.30741,
+            4.361499786376951,
+            2.26204991340637,
+            2.35408997535706,
+            3.20919990539551,
+            3.23766994476318
+        ],
+        "Jordan": [
+            2.02162,
+            1.46161997318268,
+            1.04337000846863,
+            0.9379799962043759,
+            2.65275001525879,
+            2.11557006835938
+        ],
+        "Russian Federation": [
+            1.65808,
+            0.97367000579834,
+            0.826569974422455,
+            0.7312099933624271,
+            0.6621699929237371,
+            0.635389983654022
+        ]
+    },
+    "colors": {
+        "Italy": "#FF1493",
+        "Jordan": "#20B2AA",
+        "Russian Federation": "#8B0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

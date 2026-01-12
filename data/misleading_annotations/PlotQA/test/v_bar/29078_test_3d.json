@@ -1,0 +1,71 @@
+{
+    "title": "Total female labor force participation rate for ages 20-60",
+    "x_axis": {
+        "categories": [
+            "East Asia (all income levels)",
+            "East Asia (developing only)",
+            "Euro area",
+            "Europe(all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#BC8F8F",
+        "1991": "#32CD32",
+        "1992": "#006400",
+        "1993": "#708090"
+    },
+    "data": {
+        "1990": [
+            66.8534307738257,
+            69.3723029669773,
+            41.729806470207,
+            49.2203081558095
+        ],
+        "1991": [
+            66.62990928719229,
+            69.05520910242349,
+            43.11815139587881,
+            49.4560234532355
+        ],
+        "1992": [
+            66.3922351515932,
+            68.7661411374468,
+            42.89422667067539,
+            48.96106697862521
+        ],
+        "1993": [
+            66.2903174127701,
+            68.6743243195308,
+            42.946853008211,
+            48.1571349737236
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Average age",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Average age"
+    },
+    "legend": {
+        "Best Actor": "#f27979",
+        "Best Actress": "#79f200",
+        "Best Supporting Actor": "#52a5a5",
+        "Best Supporting Actress": "#5200a5"
+    },
+    "data": {
+        "Best Actor": [
+            44.0
+        ],
+        "Best Actress": [
+            36.0
+        ],
+        "Best Supporting Actor": [
+            49.0
+        ],
+        "Best Supporting Actress": [
+            40.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "Best Actor": "#f27979",
+        "Best Actress": "#79f200",
+        "Best Supporting Actor": "#52a5a5",
+        "Best Supporting Actress": "#5200a5"
+    }
+}

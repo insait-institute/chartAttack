@@ -1,0 +1,57 @@
+{
+    "title": "Adjusted net savings excluding particulate emission damage",
+    "legend": {
+        "1982": "#f27979",
+        "1983": "#79f200",
+        "1984": "#52a5a5",
+        "1985": "#5200a5"
+    },
+    "categories": [
+        "Adjusted net savings excluding particulate emission damage"
+    ],
+    "data": {
+        "1982": [
+            1658325.05788645
+        ],
+        "1983": [
+            5001364.77757486
+        ],
+        "1984": [
+            19062050.65101489
+        ],
+        "1985": [
+            21274688.1721457
+        ]
+    },
+    "colors": {
+        "1982": "#f27979",
+        "1983": "#79f200",
+        "1984": "#52a5a5",
+        "1985": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 198974690
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

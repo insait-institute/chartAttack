@@ -1,0 +1,48 @@
+{
+    "title": "Freight insurance provided by countries in 2012 on exported goods ",
+    "legend": {
+        "Insurance and financial services": "#00FFFF"
+    },
+    "categories": [
+        "France",
+        "French Polynesia",
+        "Gambia, The",
+        "Georgia"
+    ],
+    "data": {
+        "Insurance and financial services": [
+            5.675225136785519,
+            4.834770489235,
+            21.7039588775941,
+            11.5363206114956
+        ]
+    },
+    "colors": {
+        "Insurance and financial services": "#00FFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

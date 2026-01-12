@@ -1,0 +1,111 @@
+{
+    "title": "Net bilateral aid flow in Yemen, Rep. from different members of DAC",
+    "legend": {
+        "France": "#2E8B57",
+        "Germany": "#FF7F50",
+        "Italy": "#F0E68C",
+        "Japan": "#808000"
+    },
+    "x_axis": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "France",
+            "color": "#2E8B57",
+            "values": [
+                36390000,
+                14170000,
+                14580000,
+                11830000,
+                12830000,
+                9990000,
+                14090000,
+                6490000,
+                1610000
+            ]
+        },
+        {
+            "label": "Germany",
+            "color": "#FF7F50",
+            "values": [
+                6740000,
+                15700000,
+                9420000,
+                16550000,
+                20370000,
+                8820000,
+                10970000,
+                9430000,
+                12410000
+            ]
+        },
+        {
+            "label": "Italy",
+            "color": "#F0E68C",
+            "values": [
+                710000,
+                1060000,
+                610000,
+                740000,
+                1220000,
+                9260000,
+                8050000,
+                5890000,
+                9490000
+            ]
+        },
+        {
+            "label": "Japan",
+            "color": "#808000",
+            "values": [
+                9570000,
+                14290000,
+                25150000,
+                25580000,
+                69890000,
+                16740000,
+                100000000,
+                31180000,
+                37030000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 610000,
+                "max_value": 100000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

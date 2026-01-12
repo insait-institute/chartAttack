@@ -1,0 +1,74 @@
+{
+    "title": "Number of stateless people in millions",
+    "x_axis": {
+        "categories": [
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of stateless people in millions"
+    },
+    "legend": {
+        "Stateless People": "#2876dd"
+    },
+    "data": {
+        "Stateless People": [
+            1.46,
+            2.38,
+            5.81,
+            2.94,
+            6.57,
+            6.56,
+            3.46,
+            3.48,
+            3.34,
+            3.47,
+            3.49,
+            3.69,
+            3.24,
+            3.85,
+            3.85,
+            4.16
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Share of revenue",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of revenue"
+    },
+    "legend": {
+        "Automotive/Mobile": "#2876dd",
+        "Outdoor/Fitness": "#0f283e",
+        "Aviation": "#bababa",
+        "Marine": "#a60b0b"
+    },
+    "data": {
+        "Automotive/Mobile": [
+            70,
+            62,
+            58,
+            55,
+            49,
+            43,
+            37,
+            29,
+            24,
+            19,
+            15,
+            11
+        ],
+        "Outdoor/Fitness": [
+            16,
+            21,
+            24,
+            27,
+            30,
+            35,
+            39,
+            45,
+            47,
+            50,
+            52,
+            58
+        ],
+        "Aviation": [
+            8,
+            10,
+            10,
+            11,
+            13,
+            13,
+            14,
+            15,
+            16,
+            18,
+            20,
+            15
+        ],
+        "Marine": [
+            6,
+            7,
+            8,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            13,
+            16
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

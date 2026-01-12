@@ -1,0 +1,91 @@
+{
+    "title": "Number of fixed telephone subscribers",
+    "legend": {
+        "Sub-Saharan Africa (developing only)": "#8A2BE2",
+        "Northern Mariana Islands": "#00FF7F",
+        "Turkey": "#00FFFF"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2012"
+    ],
+    "data": {
+        "Sub-Saharan Africa (developing only)": [
+            1.53608690500991,
+            1.49717513079481,
+            1.56620485711547,
+            1.46580261447054,
+            1.31166143294369
+        ],
+        "Northern Mariana Islands": [
+            40.47364195879049,
+            43.0726305693609,
+            45.4068526357683,
+            47.3449684366877,
+            43.14792233373978
+        ],
+        "Turkey": [
+            26.1898118543012,
+            24.87397907134,
+            23.2090192905554,
+            22.4591310605437,
+            18.7300134134936
+        ]
+    },
+    "colors": {
+        "Sub-Saharan Africa (developing only)": "#8A2BE2",
+        "Northern Mariana Islands": "#00FF7F",
+        "Turkey": "#00FFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Sub-Saharan Africa (developing only)": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Northern Mariana Islands": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Turkey": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

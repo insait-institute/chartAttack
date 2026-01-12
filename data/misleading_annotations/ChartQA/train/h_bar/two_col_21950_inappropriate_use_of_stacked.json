@@ -1,0 +1,87 @@
+{
+    "title": "Points scored",
+    "legend": {
+        "John Havlicek": "#f27979",
+        "Paul Pierce": "#f29100",
+        "Larry Bird": "#daf279",
+        "Robert Parish": "#30f200",
+        "Kevin McHale": "#52a574",
+        "Bob Cousy": "#00a5a5",
+        "Sam Jones": "#5274a5",
+        "Bill Russell": "#2100a5",
+        "Dave Cowens": "#da79f2",
+        "Jojo White": "#f20091"
+    },
+    "categories": [
+        "Points scored"
+    ],
+    "data": {
+        "John Havlicek": [
+            26395.0
+        ],
+        "Paul Pierce": [
+            24021.0
+        ],
+        "Larry Bird": [
+            21791.0
+        ],
+        "Robert Parish": [
+            18245.0
+        ],
+        "Kevin McHale": [
+            17335.0
+        ],
+        "Bob Cousy": [
+            16955.0
+        ],
+        "Sam Jones": [
+            15411.0
+        ],
+        "Bill Russell": [
+            14522.0
+        ],
+        "Dave Cowens": [
+            13192.0
+        ],
+        "Jojo White": [
+            13188.0
+        ]
+    },
+    "colors": {
+        "John Havlicek": "#f27979",
+        "Paul Pierce": "#f29100",
+        "Larry Bird": "#daf279",
+        "Robert Parish": "#30f200",
+        "Kevin McHale": "#52a574",
+        "Bob Cousy": "#00a5a5",
+        "Sam Jones": "#5274a5",
+        "Bill Russell": "#2100a5",
+        "Dave Cowens": "#da79f2",
+        "Jojo White": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 26400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

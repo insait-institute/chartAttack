@@ -1,0 +1,84 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "18-29",
+            "30-44",
+            "45-54",
+            "55-64",
+            "65+"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "Very likely": "#2876dd",
+        "Somewhat likely": "#0f283e",
+        "Not too likely": "#bababa",
+        "Not at all likely": "#a60b0b",
+        "Don't know/no opinion": "#87bc24"
+    },
+    "data": {
+        "Very likely": [
+            28,
+            16,
+            8,
+            7,
+            3
+        ],
+        "Somewhat likely": [
+            28,
+            24,
+            18,
+            13,
+            6
+        ],
+        "Not too likely": [
+            18,
+            17,
+            21,
+            23,
+            20
+        ],
+        "Not at all likely": [
+            15,
+            28,
+            37,
+            46,
+            55
+        ],
+        "Don't know/no opinion": [
+            10,
+            16,
+            16,
+            12,
+            16
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

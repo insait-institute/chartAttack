@@ -1,0 +1,137 @@
+{
+    "title": "Receiving yards",
+    "legend": {
+        "Derrick Mason": "#f27979",
+        "Todd Heap": "#f24800",
+        "Torrey Smith": "#f2c179",
+        "Mark Clayton": "#f2da00",
+        "Ray Rice": "#daf279",
+        "Qadry Ismail": "#79f200",
+        "Travis Taylor": "#91f279",
+        "Anquan Boldin": "#00a510",
+        "Michael Jackson": "#52a574",
+        "Steve Smith": "#00a574",
+        "Derrick Alexander": "#52a5a5",
+        "Mark Andrews": "#0074a5",
+        "Dennis Pitta": "#5274a5",
+        "Jermaine Lewis": "#0010a5",
+        "Mike Wallace": "#9179f2",
+        "Shannon Sharpe": "#7900f2",
+        "Kamar Aiken": "#da79f2",
+        "Willie Snead": "#f200da",
+        "Jamal Lewis": "#f279c1",
+        "Marquise Brown": "#f20048"
+    },
+    "categories": [
+        "Receiving yards"
+    ],
+    "data": {
+        "Derrick Mason": [
+            5777.0
+        ],
+        "Todd Heap": [
+            5492.0
+        ],
+        "Torrey Smith": [
+            3591.0
+        ],
+        "Mark Clayton": [
+            3116.0
+        ],
+        "Ray Rice": [
+            3034.0
+        ],
+        "Qadry Ismail": [
+            2819.0
+        ],
+        "Travis Taylor": [
+            2758.0
+        ],
+        "Anquan Boldin": [
+            2645.0
+        ],
+        "Michael Jackson": [
+            2596.0
+        ],
+        "Steve Smith": [
+            2534.0
+        ],
+        "Derrick Alexander": [
+            2108.0
+        ],
+        "Mark Andrews": [
+            2105.0
+        ],
+        "Dennis Pitta": [
+            2098.0
+        ],
+        "Jermaine Lewis": [
+            1984.0
+        ],
+        "Mike Wallace": [
+            1765.0
+        ],
+        "Shannon Sharpe": [
+            1621.0
+        ],
+        "Kamar Aiken": [
+            1539.0
+        ],
+        "Willie Snead": [
+            1422.0
+        ],
+        "Jamal Lewis": [
+            1365.0
+        ],
+        "Marquise Brown": [
+            1353.0
+        ]
+    },
+    "colors": {
+        "Derrick Mason": "#f27979",
+        "Todd Heap": "#f24800",
+        "Torrey Smith": "#f2c179",
+        "Mark Clayton": "#f2da00",
+        "Ray Rice": "#daf279",
+        "Qadry Ismail": "#79f200",
+        "Travis Taylor": "#91f279",
+        "Anquan Boldin": "#00a510",
+        "Michael Jackson": "#52a574",
+        "Steve Smith": "#00a574",
+        "Derrick Alexander": "#52a5a5",
+        "Mark Andrews": "#0074a5",
+        "Dennis Pitta": "#5274a5",
+        "Jermaine Lewis": "#0010a5",
+        "Mike Wallace": "#9179f2",
+        "Shannon Sharpe": "#7900f2",
+        "Kamar Aiken": "#da79f2",
+        "Willie Snead": "#f200da",
+        "Jamal Lewis": "#f279c1",
+        "Marquise Brown": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5780
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

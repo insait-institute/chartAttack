@@ -1,0 +1,102 @@
+{
+    "title": "Average player salary in million U.S. dollars",
+    "categories": [
+        "Minnesota Wild",
+        "Pittsburgh Penguins",
+        "St Louis Blues",
+        "Nashville Predators",
+        "Vegas Golden Knights",
+        "Colorado Avalanche",
+        "Buffalo Sabres",
+        "Winnipeg Jets",
+        "Florida Panthers",
+        "Calgary Flames",
+        "New Jersey Devils",
+        "Columbus Blue Jackets",
+        "Carolina Hurricanes",
+        "Anaheim Ducks",
+        "Philadelphia Flyers",
+        "Arizona Coyotes",
+        "Dallas Stars",
+        "Detroit Red Wings",
+        "New York Islanders",
+        "Chicago Blackhawks",
+        "Tampa Bay Lightning",
+        "New York Rangers",
+        "Edmonton Oilers",
+        "Washington Capitals",
+        "Boston Bruins",
+        "San Jose Sharks",
+        "Los Angeles Kings",
+        "Ottawa Senators",
+        "Montreal Canadiens",
+        "Vancouver Canucks",
+        "Toronto Maple Leafs"
+    ],
+    "data": {
+        "Average Salary": [
+            3.32,
+            3.28,
+            3.19,
+            3.16,
+            3.12,
+            3.09,
+            3.07,
+            3.06,
+            3.06,
+            3.05,
+            2.97,
+            2.92,
+            2.91,
+            2.83,
+            2.82,
+            2.76,
+            2.71,
+            2.67,
+            2.64,
+            2.52,
+            2.47,
+            2.42,
+            2.41,
+            2.4,
+            2.38,
+            2.37,
+            2.33,
+            2.16,
+            2.09,
+            2.02,
+            1.54
+        ]
+    },
+    "colors": {
+        "Average Salary": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Average Salary": "#2876dd"
+    }
+}

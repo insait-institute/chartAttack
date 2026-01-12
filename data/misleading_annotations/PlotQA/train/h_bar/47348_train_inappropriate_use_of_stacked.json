@@ -1,0 +1,67 @@
+{
+    "title": "Time required to import the goods and servies",
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#f2f200",
+        "2009": "#79f279",
+        "2010": "#00a5a5",
+        "2011": "#5252a5",
+        "2012": "#a500a5"
+    },
+    "categories": [
+        "Time required to import the goods and servies"
+    ],
+    "data": {
+        "2007": [
+            21.0
+        ],
+        "2008": [
+            18.0
+        ],
+        "2009": [
+            18.0
+        ],
+        "2010": [
+            18.0
+        ],
+        "2011": [
+            18.0
+        ],
+        "2012": [
+            18.0
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#f2f200",
+        "2009": "#79f279",
+        "2010": "#00a5a5",
+        "2011": "#5252a5",
+        "2012": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

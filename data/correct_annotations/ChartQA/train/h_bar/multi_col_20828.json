@@ -1,0 +1,68 @@
+{
+    "title": "",
+    "legend": {
+        "A fair amount": "#2876dd",
+        "A great deal": "#0f283e"
+    },
+    "categories": [
+        "United States",
+        "Canada",
+        "France",
+        "United Kingdom",
+        "Australia",
+        "Germany",
+        "Japan",
+        "Russia"
+    ],
+    "data": {
+        "A fair amount": [
+            42,
+            40,
+            67,
+            39,
+            42,
+            27,
+            39,
+            29
+        ],
+        "A great deal": [
+            43,
+            45,
+            28,
+            54,
+            47,
+            49,
+            53,
+            48
+        ]
+    },
+    "colors": {
+        "A fair amount": "#2876dd",
+        "A great deal": "#0f283e"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

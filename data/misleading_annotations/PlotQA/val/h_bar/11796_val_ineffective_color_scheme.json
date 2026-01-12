@@ -1,0 +1,83 @@
+{
+    "title": "Percentage of newborns who have received the vaccination for measles",
+    "legend": {
+        "Fragile and conflict affected situations": "#808000",
+        "High income: nonOECD": "#718000",
+        "Low & middle income": "#698a00",
+        "South Asia": "#4b7501"
+    },
+    "categories": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "data": {
+        "Fragile and conflict affected situations": [
+            57.038167010396,
+            58.7198125461765,
+            61.42542537841471,
+            65.8622620814388,
+            67.80754332759341
+        ],
+        "High income: nonOECD": [
+            95.15011358107692,
+            94.32102990590192,
+            94.5533417568791,
+            94.7486967355607,
+            94.50905384965219
+        ],
+        "Low & middle income": [
+            70.1840865723588,
+            69.783589477551,
+            71.5431772077728,
+            73.8226295891906,
+            75.8027763698577
+        ],
+        "South Asia": [
+            59.5889703353226,
+            58.8222444594544,
+            61.7941304441603,
+            66.0352899547461,
+            70.4034094835835
+        ]
+    },
+    "colors": {
+        "Fragile and conflict affected situations": "#808000",
+        "High income: nonOECD": "#FF1493",
+        "Low & middle income": "#ADFF2F",
+        "South Asia": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Fragile and conflict affected situations": "#808000",
+        "High income: nonOECD": "#718000",
+        "Low & middle income": "#698a00",
+        "South Asia": "#4b7501"
+    }
+}

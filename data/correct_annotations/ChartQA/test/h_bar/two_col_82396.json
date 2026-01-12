@@ -1,0 +1,86 @@
+{
+    "title": "",
+    "legend": {
+        "Conservative": "#0080FF",
+        "Labour": "#FF0000",
+        "Liberal Democrat": "#F7BF1A",
+        "Democratic Unionist": "#D6620C",
+        "Scottish National": "#FFFF80",
+        "Sinn Fein": "#008000",
+        "Social Democratic & Labour Party": "#800080",
+        "Plaid Cymru": "#00974B",
+        "Alliance": "#FF8000",
+        "Green": "#75C030",
+        "Independent": "#C0C0C0",
+        "Speaker": "#C0C0C0"
+    },
+    "categories": [
+        "Conservative",
+        "Labour",
+        "Liberal Democrat",
+        "Democratic Unionist",
+        "Scottish National",
+        "Sinn Fein",
+        "Social Democratic & Labour Party",
+        "Plaid Cymru",
+        "Alliance",
+        "Green",
+        "Independent",
+        "Speaker"
+    ],
+    "data": {
+        "Seats won": [
+            306,
+            258,
+            57,
+            8,
+            6,
+            5,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "colors": {
+        "Conservative": "#0080FF",
+        "Labour": "#FF0000",
+        "Liberal Democrat": "#F7BF1A",
+        "Democratic Unionist": "#D6620C",
+        "Scottish National": "#FFFF80",
+        "Sinn Fein": "#008000",
+        "Social Democratic & Labour Party": "#800080",
+        "Plaid Cymru": "#00974B",
+        "Alliance": "#FF8000",
+        "Green": "#75C030",
+        "Independent": "#C0C0C0",
+        "Speaker": "#C0C0C0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 310
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

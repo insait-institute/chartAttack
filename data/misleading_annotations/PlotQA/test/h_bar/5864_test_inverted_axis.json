@@ -1,0 +1,62 @@
+{
+    "title": "Value added in manufacturing in 1991",
+    "legend": {
+        "Chemicals": "#FF1493",
+        "Food and tobacco": "#20B2AA"
+    },
+    "categories": [
+        "Croatia",
+        "Cyprus",
+        "Denmark",
+        "Ecuador",
+        "Egypt, Arab Rep.",
+        "El Salvador"
+    ],
+    "data": {
+        "Chemicals": [
+            12.7048692952546,
+            4.27979966360408,
+            11.4657829329345,
+            7.60667734065467,
+            10.8125124086978,
+            23.7763915008034
+        ],
+        "Food and tobacco": [
+            28.0363456214902,
+            26.8609283989089,
+            23.3888980954198,
+            25.4626795894031,
+            13.9324012814936,
+            35.60460648013439
+        ]
+    },
+    "colors": {
+        "Chemicals": "#FF1493",
+        "Food and tobacco": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

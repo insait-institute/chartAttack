@@ -1,0 +1,71 @@
+{
+    "title": "Coal rents as percent of GDP towards fuel resources",
+    "x_axis": {
+        "categories": [
+            "Lower middle income",
+            "Middle income",
+            "South Asia",
+            "Upper middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#FFA07A",
+        "1971": "#9ACD32",
+        "1972": "#00FF00",
+        "1973": "#ADFF2F"
+    },
+    "data": {
+        "1970": [
+            0.0205969609884004,
+            0.007419184765843002,
+            0.0343875184012803,
+            0.000183844396493587
+        ],
+        "1971": [
+            0.0367551580627561,
+            0.0126938094118435,
+            0.0598968509434135,
+            0.000218812606135262
+        ],
+        "1972": [
+            0.0445998961269929,
+            0.0145772307261394,
+            0.0768801258996002,
+            0.000284406953793586
+        ],
+        "1973": [
+            0.0537806594768889,
+            0.0168225660466034,
+            0.0965890656300963,
+            0.000430858352062843
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Prevalence of overweight children in Belize with age under 5 years",
+    "legend": {
+        "Female": "#FFA07A",
+        "Male": "#CD853F"
+    },
+    "x_axis": [
+        "2006",
+        "2011"
+    ],
+    "y_axis_label": " % of children under 5",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#FFA07A",
+            "values": [
+                11.8000001907349,
+                7.099999904632571
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#CD853F",
+            "values": [
+                15.8999996185303,
+                8.60000038146973
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

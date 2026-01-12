@@ -1,0 +1,53 @@
+{
+    "title": "Percentage of value added in manufacturing machinery etc. in countries",
+    "legend": {
+        "Georgia": "#BC8F8F",
+        "Israel": "#B03060"
+    },
+    "categories": [
+        "Machinery",
+        "Transport equipments",
+        "Textiles and clothing"
+    ],
+    "data": {
+        "Georgia": [
+            4.43545212254943,
+            39.8239195374959,
+            1.55665602983997
+        ],
+        "Israel": [
+            21.161307878527,
+            45.653492097387,
+            3.52072154065818
+        ]
+    },
+    "colors": {
+        "Georgia": "#BC8F8F",
+        "Israel": "#B03060"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

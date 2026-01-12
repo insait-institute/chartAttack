@@ -1,0 +1,64 @@
+{
+    "title": "Plot of CO2 intensity in a country",
+    "x_axis": {
+        "categories": [
+            "Belgium",
+            "Canada",
+            "Denmark",
+            "Finland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#556B2F",
+        "1961": "#32CD32",
+        "1962": "#006400"
+    },
+    "data": {
+        "1960": [
+            3.94586412019569,
+            2.53346104974003,
+            3.38157676595443,
+            1.55207991452262
+        ],
+        "1961": [
+            3.93022039550048,
+            2.4671169620169,
+            3.40099422722331,
+            1.4865540187093
+        ],
+        "1962": [
+            3.78681781994156,
+            2.50038799758729,
+            3.4599762549207,
+            1.58466267419759
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

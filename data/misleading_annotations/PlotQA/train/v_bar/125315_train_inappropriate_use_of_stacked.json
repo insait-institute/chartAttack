@@ -1,0 +1,52 @@
+{
+    "title": "Undisbursed external debt of different countries in 1992",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Official creditors": "#f27979",
+        "Private creditors": "#00a5a5"
+    },
+    "data": {
+        "Official creditors": [
+            1251764000.0
+        ],
+        "Private creditors": [
+            4135000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1251764000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Official creditors": "#f27979",
+        "Private creditors": "#00a5a5"
+    }
+}

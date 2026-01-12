@@ -1,0 +1,62 @@
+{
+    "title": "CO2 emissions from liquid fuel consumption",
+    "legend": {
+        "Liberia": "#f27979",
+        "Libya": "#c1f200",
+        "Luxembourg": "#52a574",
+        "Macao": "#0042a5",
+        "Madagascar": "#da79f2"
+    },
+    "categories": [
+        "CO2 emissions from liquid fuel consumption"
+    ],
+    "data": {
+        "Liberia": [
+            100.0
+        ],
+        "Libya": [
+            87.30158730158729
+        ],
+        "Luxembourg": [
+            5.635148042024831
+        ],
+        "Macao": [
+            71.4285714285714
+        ],
+        "Madagascar": [
+            88.0733944954129
+        ]
+    },
+    "colors": {
+        "Liberia": "#f27979",
+        "Libya": "#c1f200",
+        "Luxembourg": "#52a574",
+        "Macao": "#0042a5",
+        "Madagascar": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

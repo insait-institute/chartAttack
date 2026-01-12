@@ -1,0 +1,79 @@
+{
+    "title": "Annual rural vs urban population growth in Aruba",
+    "legend": {
+        "Rural": "#DB7093",
+        "Urban ": "#BA55D3"
+    },
+    "x_axis": [
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+    ],
+    "y_axis_label": "Population growth (in %)",
+    "data": [
+        {
+            "label": "Rural",
+            "color": "#DB7093",
+            "values": [
+                1.30448148304979,
+                1.42397650908966,
+                1.0323671390136,
+                0.346032193023063,
+                -0.580604367226542,
+                -1.2691183031577,
+                -1.2029579485305,
+                -0.0428781113814181,
+                1.84355093713078
+            ]
+        },
+        {
+            "label": "Urban ",
+            "color": "#BA55D3",
+            "values": [
+                1.24548380077705,
+                1.36095825532289,
+                0.9739770210214921,
+                0.28059352867705,
+                -0.641159437863127,
+                -1.33009950984554,
+                -1.2634468091336,
+                -0.104112450841062,
+                1.78092202111824
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -10,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

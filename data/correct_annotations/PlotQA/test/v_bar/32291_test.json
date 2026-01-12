@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of people living with HIV who are receiving therapy",
+    "x_axis": {
+        "categories": [
+            "Cabo Verde",
+            "Cambodia",
+            "Cameroon",
+            "Central African Republic",
+            "Chad",
+            "Chile"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Antiretroviral therapy coverage": "#BEBEBE"
+    },
+    "data": {
+        "Antiretroviral therapy coverage": [
+            6.0,
+            13.0,
+            4.0,
+            1.0,
+            1.0,
+            33.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

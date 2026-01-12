@@ -1,0 +1,62 @@
+{
+    "title": "Total labor force participation rate for ages 20-60",
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#c1f200",
+        "2012": "#52a574",
+        "2013": "#0042a5",
+        "2014": "#da79f2"
+    },
+    "categories": [
+        "Total labor force participation rate for ages 20-60"
+    ],
+    "data": {
+        "2010": [
+            61.2000007629395
+        ],
+        "2011": [
+            61.2999992370605
+        ],
+        "2012": [
+            61.4000015258789
+        ],
+        "2013": [
+            61.4000015258789
+        ],
+        "2014": [
+            61.2999992370605
+        ]
+    },
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#c1f200",
+        "2012": "#52a574",
+        "2013": "#0042a5",
+        "2014": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Customs and other import duties (as % of tax revenue) of a country",
+    "legend": {
+        "Austria": "#CD5C5C",
+        "Bahamas": "#00FA9A",
+        "Jamaica": "#4682B4"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "Austria": [
+            0.00290248718795472,
+            0.000137314027765681,
+            -0.0139934745833927
+        ],
+        "Bahamas": [
+            47.1970587159022,
+            57.4153190760078,
+            42.0699215585807
+        ],
+        "Jamaica": [
+            8.67589180905022,
+            8.23494959760726,
+            8.03427051934543
+        ]
+    },
+    "colors": {
+        "Austria": "#CD5C5C",
+        "Bahamas": "#00FA9A",
+        "Jamaica": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

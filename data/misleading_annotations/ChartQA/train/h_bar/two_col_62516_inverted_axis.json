@@ -1,0 +1,68 @@
+{
+    "title": "Annual average sales lost in million euros",
+    "categories": [
+        "Textiles, wearing apparel and leather",
+        "Imported goods",
+        "Wholesale trade",
+        "Retail trade",
+        "Real estate",
+        "Legal and accounting",
+        "Land transport",
+        "Financial services",
+        "Electricity, gas",
+        "Warehousing services",
+        "Construction",
+        "Security and investigation",
+        "Chemical industry",
+        "Other industries"
+    ],
+    "data": {
+        "Sales Lost": [
+            6574,
+            6419,
+            5544,
+            10774,
+            1356,
+            1019,
+            794,
+            793,
+            778,
+            740,
+            606,
+            567,
+            534,
+            6791
+        ]
+    },
+    "colors": {
+        "Sales Lost": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10780
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Sales Lost": "#2876dd"
+    }
+}

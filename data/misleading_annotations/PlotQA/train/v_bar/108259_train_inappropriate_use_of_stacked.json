@@ -1,0 +1,72 @@
+{
+    "title": "Average working hours of male children (ages 7-14) in different countries in 2006",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Georgia": "#f27979",
+        "Ghana": "#f2f200",
+        "Guinea-Bissau": "#79f279",
+        "Kazakhstan": "#00a5a5",
+        "Somalia": "#5252a5",
+        "Syrian Arab Republic": "#a500a5"
+    },
+    "data": {
+        "Georgia": [
+            5.4
+        ],
+        "Ghana": [
+            14.5
+        ],
+        "Guinea-Bissau": [
+            13.4
+        ],
+        "Kazakhstan": [
+            6.8
+        ],
+        "Somalia": [
+            25.6
+        ],
+        "Syrian Arab Republic": [
+            12.7
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Georgia": "#f27979",
+        "Ghana": "#f2f200",
+        "Guinea-Bissau": "#79f279",
+        "Kazakhstan": "#00a5a5",
+        "Somalia": "#5252a5",
+        "Syrian Arab Republic": "#a500a5"
+    }
+}

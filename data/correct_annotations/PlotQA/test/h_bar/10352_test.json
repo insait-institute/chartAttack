@@ -1,0 +1,64 @@
+{
+    "title": "Earning from merchandise exports by the reporting economy",
+    "legend": {
+        "Germany": "#B03060",
+        "Malawi": "#DC143C",
+        "Qatar": "#4682B4"
+    },
+    "categories": [
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+    ],
+    "data": {
+        "Germany": [
+            183903000000,
+            243302000000,
+            294138000000,
+            323336000000
+        ],
+        "Malawi": [
+            227482000.0,
+            222408000.0,
+            311374883.5,
+            302993693.6
+        ],
+        "Qatar": [
+            3542460247.0,
+            2068646105.0,
+            1994060326.0,
+            2083288665.0
+        ]
+    },
+    "colors": {
+        "Germany": "#B03060",
+        "Malawi": "#DC143C",
+        "Qatar": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 323336000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

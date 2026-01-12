@@ -1,0 +1,68 @@
+{
+    "title": "Net bilateral aid flow in countries from different members of Development Assistance Committee",
+    "x_axis": {
+        "categories": [
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income",
+            "World"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "New Zealand": "#F0E68C",
+        "Ireland": "#FFA07A",
+        "Spain": "#191970"
+    },
+    "data": {
+        "New Zealand": [
+            540000,
+            820000,
+            820000,
+            30040000,
+            66160000
+        ],
+        "Ireland": [
+            16580000,
+            420000,
+            27340000,
+            170000,
+            10000
+        ],
+        "Spain": [
+            32100000,
+            114000000,
+            600000,
+            1200000,
+            1100000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 114000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

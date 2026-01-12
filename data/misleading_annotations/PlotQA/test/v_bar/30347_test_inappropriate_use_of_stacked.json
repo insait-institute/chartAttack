@@ -1,0 +1,62 @@
+{
+    "title": "Balance of Payments of travel services as percentage of service exports",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Kenya": "#f27979",
+        "Korea (Republic)": "#79f200",
+        "Kosovo": "#52a5a5",
+        "Kuwait": "#5200a5"
+    },
+    "data": {
+        "Kenya": [
+            30.7599325695766
+        ],
+        "Korea (Republic)": [
+            11.4440482315303
+        ],
+        "Kosovo": [
+            32.9100187757843
+        ],
+        "Kuwait": [
+            3.46435231683362
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Kenya": "#f27979",
+        "Korea (Republic)": "#79f200",
+        "Kosovo": "#52a5a5",
+        "Kuwait": "#5200a5"
+    }
+}

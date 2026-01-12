@@ -1,0 +1,91 @@
+{
+    "title": "Number of supercomputers",
+    "x_axis": {
+        "categories": [
+            "June 2019",
+            "June 2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of supercomputers"
+    },
+    "legend": {
+        "China": "#2876dd",
+        "United States": "#0f283e",
+        "Japan": "#bababa",
+        "France": "#a60b0b",
+        "Germany": "#87bc24",
+        "Netherlands": "#ebb523",
+        "Ireland": "#5d2b76",
+        "Canada": "#c271da",
+        "United Kingdom": "#76a5e3",
+        "Rest of world": "#099676"
+    },
+    "data": {
+        "China": [
+            219,
+            226
+        ],
+        "United States": [
+            116,
+            113
+        ],
+        "Japan": [
+            29,
+            29
+        ],
+        "France": [
+            19,
+            19
+        ],
+        "Germany": [
+            14,
+            16
+        ],
+        "Netherlands": [
+            13,
+            15
+        ],
+        "Ireland": [
+            13,
+            14
+        ],
+        "Canada": [
+            8,
+            13
+        ],
+        "United Kingdom": [
+            18,
+            10
+        ],
+        "Rest of world": [
+            51,
+            45
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 230
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true
+}

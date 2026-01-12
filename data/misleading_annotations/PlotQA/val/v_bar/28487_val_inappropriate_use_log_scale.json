@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of repeaters in secondary general education in the year 1992",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Indonesia": "#C71585",
+        "Namibia": "#808000",
+        "Senegal": "#5F9EA0",
+        "Togo": "#BEBEBE"
+    },
+    "data": {
+        "Indonesia": [
+            0.62453,
+            1.19135
+        ],
+        "Namibia": [
+            22.34271,
+            18.33307000000001
+        ],
+        "Senegal": [
+            17.22676,
+            14.65615
+        ],
+        "Togo": [
+            30.21991,
+            28.95784
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

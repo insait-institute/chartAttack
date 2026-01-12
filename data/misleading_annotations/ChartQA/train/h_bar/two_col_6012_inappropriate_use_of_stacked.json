@@ -1,0 +1,202 @@
+{
+    "title": "",
+    "legend": {
+        "Nissan": "#f27979",
+        "General Motors": "#f22c00",
+        "Volkswagen": "#f2a579",
+        "Toyota": "#f28400",
+        "KIA": "#f2d179",
+        "Honda": "#f2dc00",
+        "Mazda": "#e7f279",
+        "Chrysler": "#b0f200",
+        "Ford Motor": "#bbf279",
+        "Hyundai": "#58f200",
+        "Renault": "#8ff279",
+        "Suzuki": "#00f200",
+        "SEAT": "#52a561",
+        "Mercedes Benz": "#00a53c",
+        "BMW": "#52a580",
+        "Mitsubishi": "#00a578",
+        "Audi": "#52a59e",
+        "Peugeot": "#0096a5",
+        "Fiat": "#528fa5",
+        "Mini": "#005aa5",
+        "JAC": "#5271a5",
+        "Volvo": "#001ea5",
+        "Baic": "#5252a5",
+        "Subaru": "#1e00a5",
+        "Porsche": "#a579f2",
+        "Lincoln": "#8400f2",
+        "Acura": "#d179f2",
+        "Land Rover": "#dc00f2",
+        "ISUZU": "#f279e7",
+        "Infiniti": "#f200b0",
+        "Jaguar": "#f279bb",
+        "Alfa Romeo": "#f20058",
+        "Bentley": "#f2798f"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Nissan": [
+            154637.0
+        ],
+        "General Motors": [
+            118581.0
+        ],
+        "Volkswagen": [
+            78128.0
+        ],
+        "Toyota": [
+            60425.0
+        ],
+        "KIA": [
+            58160.0
+        ],
+        "Honda": [
+            38938.0
+        ],
+        "Mazda": [
+            35506.0
+        ],
+        "Chrysler": [
+            33505.0
+        ],
+        "Ford Motor": [
+            29757.0
+        ],
+        "Hyundai": [
+            25602.0
+        ],
+        "Renault": [
+            20193.0
+        ],
+        "Suzuki": [
+            19431.0
+        ],
+        "SEAT": [
+            12227.0
+        ],
+        "Mercedes Benz": [
+            11741.0
+        ],
+        "BMW": [
+            9455.0
+        ],
+        "Mitsubishi": [
+            8381.0
+        ],
+        "Audi": [
+            7497.0
+        ],
+        "Peugeot": [
+            7315.0
+        ],
+        "Fiat": [
+            3944.0
+        ],
+        "Mini": [
+            3060.0
+        ],
+        "JAC": [
+            3049.0
+        ],
+        "Volvo": [
+            1841.0
+        ],
+        "Baic": [
+            1200.0
+        ],
+        "Subaru": [
+            1093.0
+        ],
+        "Porsche": [
+            1046.0
+        ],
+        "Lincoln": [
+            787.0
+        ],
+        "Acura": [
+            776.0
+        ],
+        "Land Rover": [
+            707.0
+        ],
+        "ISUZU": [
+            696.0
+        ],
+        "Infiniti": [
+            651.0
+        ],
+        "Jaguar": [
+            84.0
+        ],
+        "Alfa Romeo": [
+            82.0
+        ],
+        "Bentley": [
+            6.0
+        ]
+    },
+    "colors": {
+        "Nissan": "#f27979",
+        "General Motors": "#f22c00",
+        "Volkswagen": "#f2a579",
+        "Toyota": "#f28400",
+        "KIA": "#f2d179",
+        "Honda": "#f2dc00",
+        "Mazda": "#e7f279",
+        "Chrysler": "#b0f200",
+        "Ford Motor": "#bbf279",
+        "Hyundai": "#58f200",
+        "Renault": "#8ff279",
+        "Suzuki": "#00f200",
+        "SEAT": "#52a561",
+        "Mercedes Benz": "#00a53c",
+        "BMW": "#52a580",
+        "Mitsubishi": "#00a578",
+        "Audi": "#52a59e",
+        "Peugeot": "#0096a5",
+        "Fiat": "#528fa5",
+        "Mini": "#005aa5",
+        "JAC": "#5271a5",
+        "Volvo": "#001ea5",
+        "Baic": "#5252a5",
+        "Subaru": "#1e00a5",
+        "Porsche": "#a579f2",
+        "Lincoln": "#8400f2",
+        "Acura": "#d179f2",
+        "Land Rover": "#dc00f2",
+        "ISUZU": "#f279e7",
+        "Infiniti": "#f200b0",
+        "Jaguar": "#f279bb",
+        "Alfa Romeo": "#f20058",
+        "Bentley": "#f2798f"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 154640
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

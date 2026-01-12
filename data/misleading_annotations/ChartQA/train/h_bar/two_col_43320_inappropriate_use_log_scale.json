@@ -1,0 +1,76 @@
+{
+    "title": "",
+    "legend": {
+        "Retail Chains": "#2876dd"
+    },
+    "categories": [
+        "Food",
+        "Fashion & Clothing",
+        "DIY & Gardening",
+        "Footwear & Leather",
+        "Consumer Electronics",
+        "Personal Care",
+        "Home Ware",
+        "Furniture & Decoration",
+        "Books & Magazines",
+        "Toys & Games",
+        "Pet Care",
+        "Jewelry & Watches",
+        "Baby Ware",
+        "Optical",
+        "Petrol",
+        "Telecom",
+        "Car Parts & Accessories",
+        "Sport & Leisure"
+    ],
+    "data": {
+        "Retail Chains": [
+            11,
+            8,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "colors": {
+        "Retail Chains": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

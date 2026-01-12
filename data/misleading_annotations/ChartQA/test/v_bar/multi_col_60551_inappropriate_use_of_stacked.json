@@ -1,0 +1,77 @@
+{
+    "title": "Loans in million euros",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Loans in million euros"
+    },
+    "legend": {
+        "2013": "#f27979",
+        "2014": "#f2cf00",
+        "2015": "#9bf279",
+        "2016": "#00a55e",
+        "2017": "#5282a5",
+        "2018": "#2f00a5",
+        "2019": "#f279e0"
+    },
+    "data": {
+        "2013": [
+            3231.0
+        ],
+        "2014": [
+            2968.0
+        ],
+        "2015": [
+            2877.0
+        ],
+        "2016": [
+            2626.0
+        ],
+        "2017": [
+            2343.0
+        ],
+        "2018": [
+            2314.0
+        ],
+        "2019": [
+            2225.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4190
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2013": "#f27979",
+        "2014": "#f2cf00",
+        "2015": "#9bf279",
+        "2016": "#00a55e",
+        "2017": "#5282a5",
+        "2018": "#2f00a5",
+        "2019": "#f279e0"
+    }
+}

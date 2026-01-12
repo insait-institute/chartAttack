@@ -1,0 +1,81 @@
+{
+    "title": "Net balance on the financial account after subtracting the balances on the current accounts",
+    "legend": {
+        "2005": "#FFA500",
+        "2006": "#8B4513",
+        "2007": "#FFD700",
+        "2008": "#006400"
+    },
+    "categories": [
+        "Albania",
+        "Argentina",
+        "Armenia",
+        "Australia",
+        "Austria",
+        "Azerbaijan"
+    ],
+    "data": {
+        "2005": [
+            204064733.5,
+            110080000.0,
+            -163436538.9,
+            1268797953.0,
+            -5729274460.0,
+            -84601000.0
+        ],
+        "2006": [
+            236978079.8,
+            1162644535.0,
+            -128086679.7,
+            1356186808.0,
+            4763901177.0,
+            -260220000.0
+        ],
+        "2007": [
+            185538118.8,
+            63187408.44,
+            28275760.48,
+            1433380749.0,
+            2004983206.0,
+            -372220000.0
+        ],
+        "2008": [
+            -33215570.25,
+            1062600000.0,
+            -41387321.55,
+            1347438100.0,
+            -4295699065.0,
+            -834293000.0
+        ]
+    },
+    "colors": {
+        "2005": "#FFA500",
+        "2006": "#8B4513",
+        "2007": "#FFD700",
+        "2008": "#006400"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4763901180
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

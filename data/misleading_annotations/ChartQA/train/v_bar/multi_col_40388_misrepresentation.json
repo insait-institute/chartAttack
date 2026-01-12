@@ -1,0 +1,66 @@
+{
+    "title": "Number of soldiers",
+    "x_axis": {
+        "categories": [
+            "British",
+            "French",
+            "German"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of soldiers"
+    },
+    "legend": {
+        "Casualties": "#2876dd",
+        "Fatalities": "#0f283e"
+    },
+    "data": {
+        "Casualties": [
+            419654,
+            204253,
+            500000
+        ],
+        "Fatalities": [
+            108700,
+            50000,
+            160000
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 500000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Casualties": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Fatalities": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

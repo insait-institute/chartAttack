@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Infected Hosts": "#2876dd"
+    },
+    "categories": [
+        "Iran",
+        "Indonesia",
+        "India",
+        "Azerbaijan",
+        "Pakistan",
+        "Malaysia",
+        "U.S.",
+        "Uzbekistan",
+        "Russia",
+        "Great Britain",
+        "Other"
+    ],
+    "data": {
+        "Infected Hosts": [
+            58.31,
+            17.83,
+            9.96,
+            3.4,
+            1.4,
+            1.16,
+            0.89,
+            0.71,
+            0.61,
+            0.57,
+            5.15
+        ]
+    },
+    "colors": {
+        "Infected Hosts": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

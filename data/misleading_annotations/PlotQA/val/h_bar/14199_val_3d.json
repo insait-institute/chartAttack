@@ -1,0 +1,82 @@
+{
+    "title": "Grants received by the government excluding technical cooeration",
+    "legend": {
+        "Cote d'Ivoire": "#A52A2A",
+        "Ghana": "#DC143C",
+        "Libya": "#20B2AA",
+        "Tonga": "#BEBEBE"
+    },
+    "categories": [
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "data": {
+        "Cote d'Ivoire": [
+            227950000.0,
+            192560000.0,
+            211450000.0,
+            683680000.0,
+            454210000.0,
+            496760000.0
+        ],
+        "Ghana": [
+            470100000,
+            217940000,
+            222460000,
+            218480000,
+            238400000,
+            216410000
+        ],
+        "Libya": [
+            3970000.0,
+            610000.0,
+            280000.0,
+            1650000.0,
+            1210000.0,
+            1680000.0
+        ],
+        "Tonga": [
+            7100000,
+            9060000,
+            15130000,
+            15300000,
+            18330000,
+            12310000
+        ]
+    },
+    "colors": {
+        "Cote d'Ivoire": "#A52A2A",
+        "Ghana": "#DC143C",
+        "Libya": "#20B2AA",
+        "Tonga": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 683680000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

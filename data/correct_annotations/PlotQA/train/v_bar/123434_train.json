@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of newborns whose births were registered as per the survey of 2005",
+    "x_axis": {
+        "categories": [
+            "Rural",
+            "Urban"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Albania": "#8B0000",
+        "Rwanda": "#EE82EE",
+        "Ukraine": "#00FFFF"
+    },
+    "data": {
+        "Albania": [
+            98,
+            97
+        ],
+        "Rwanda": [
+            83.0,
+            78.6
+        ],
+        "Ukraine": [
+            100.0,
+            99.7
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

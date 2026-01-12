@@ -1,0 +1,60 @@
+{
+    "title": "Share of marketplace site visits",
+    "legend": {
+        "Share of marketplace site visits": "#2876dd"
+    },
+    "categories": [
+        "Amazon.com",
+        "eBay.com",
+        "Walmart.com",
+        "Target.com",
+        "Etsy.com",
+        "Costco.com",
+        "Aliexpress.com",
+        "QVC.com",
+        "Wish.com",
+        "Samsclub.com"
+    ],
+    "data": {
+        "Share of marketplace site visits": [
+            56.1,
+            19.7,
+            10.8,
+            4.5,
+            3.5,
+            1.8,
+            1.2,
+            0.9,
+            0.8,
+            0.8
+        ]
+    },
+    "colors": {
+        "Share of marketplace site visits": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

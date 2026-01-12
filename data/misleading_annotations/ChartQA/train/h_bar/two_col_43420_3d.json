@@ -1,0 +1,58 @@
+{
+    "title": "",
+    "legend": {
+        "Scotland": "#2876dd",
+        "UK": "#808080",
+        "England": "#2876dd",
+        "Wales": "#2876dd",
+        "N. Ireland": "#2876dd"
+    },
+    "categories": [
+        "Scotland",
+        "UK",
+        "England",
+        "Wales",
+        "N. Ireland"
+    ],
+    "data": {
+        "Turnout rate": [
+            71.1,
+            66.1,
+            65.9,
+            65.6,
+            58.1
+        ]
+    },
+    "colors": {
+        "Scotland": "#2876dd",
+        "UK": "#808080",
+        "England": "#2876dd",
+        "Wales": "#2876dd",
+        "N. Ireland": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

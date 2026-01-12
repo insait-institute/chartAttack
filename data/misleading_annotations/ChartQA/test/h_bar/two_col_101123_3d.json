@@ -1,0 +1,70 @@
+{
+    "title": "",
+    "legend": {
+        "Export Data": "#2876dd"
+    },
+    "categories": [
+        "Indonesia",
+        "Australia",
+        "Russia",
+        "United States",
+        "Colombia",
+        "South Africa",
+        "Canada",
+        "Netherlands",
+        "Kazakhstan",
+        "Mongolia",
+        "North Korea",
+        "Poland",
+        "Vietnam",
+        "Ukraine",
+        "Philippines"
+    ],
+    "data": {
+        "Export Data": [
+            449943,
+            387252,
+            171415,
+            97257,
+            96035,
+            86054,
+            37992,
+            34454,
+            32951,
+            20734,
+            17244,
+            10074,
+            7971,
+            7886,
+            5765
+        ]
+    },
+    "colors": {
+        "Export Data": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 449950
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

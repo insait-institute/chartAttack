@@ -1,0 +1,67 @@
+{
+    "title": "Irrigated land as percentage of total agricultural land in 2010",
+    "legend": {
+        "Pakistan": "#f27979",
+        "Philippines": "#f2f200",
+        "Poland": "#79f279",
+        "Portugal": "#00a5a5",
+        "Romania": "#5252a5",
+        "Serbia": "#a500a5"
+    },
+    "categories": [
+        "Irrigated land as percentage of total agricultural land in 2010"
+    ],
+    "data": {
+        "Pakistan": [
+            56.9207195959367
+        ],
+        "Philippines": [
+            9.10743801652893
+        ],
+        "Poland": [
+            0.318361132258288
+        ],
+        "Portugal": [
+            12.6733750339951
+        ],
+        "Romania": [
+            0.58844306301215
+        ],
+        "Serbia": [
+            0.495049504950495
+        ]
+    },
+    "colors": {
+        "Pakistan": "#f27979",
+        "Philippines": "#f2f200",
+        "Poland": "#79f279",
+        "Portugal": "#00a5a5",
+        "Romania": "#5252a5",
+        "Serbia": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

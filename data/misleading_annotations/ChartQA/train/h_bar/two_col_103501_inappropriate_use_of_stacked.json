@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Carl Yastrzemski": "#f27979",
+        "Ted Williams": "#f29100",
+        "Dwight Evans": "#daf279",
+        "Jim Rice": "#30f200",
+        "David Ortiz": "#52a574",
+        "Bobby Doerr": "#00a5a5",
+        "Wade Boggs": "#5274a5",
+        "Dom DiMaggio": "#2100a5",
+        "Harry Hooper": "#da79f2",
+        "Dustin Pedroia": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Carl Yastrzemski": [
+            1816.0
+        ],
+        "Ted Williams": [
+            1798.0
+        ],
+        "Dwight Evans": [
+            1435.0
+        ],
+        "Jim Rice": [
+            1249.0
+        ],
+        "David Ortiz": [
+            1204.0
+        ],
+        "Bobby Doerr": [
+            1094.0
+        ],
+        "Wade Boggs": [
+            1067.0
+        ],
+        "Dom DiMaggio": [
+            1046.0
+        ],
+        "Harry Hooper": [
+            988.0
+        ],
+        "Dustin Pedroia": [
+            921.0
+        ]
+    },
+    "colors": {
+        "Carl Yastrzemski": "#f27979",
+        "Ted Williams": "#f29100",
+        "Dwight Evans": "#daf279",
+        "Jim Rice": "#30f200",
+        "David Ortiz": "#52a574",
+        "Bobby Doerr": "#00a5a5",
+        "Wade Boggs": "#5274a5",
+        "Dom DiMaggio": "#2100a5",
+        "Harry Hooper": "#da79f2",
+        "Dustin Pedroia": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1820
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

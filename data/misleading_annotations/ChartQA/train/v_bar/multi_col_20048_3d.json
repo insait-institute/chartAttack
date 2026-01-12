@@ -1,0 +1,63 @@
+{
+    "title": "Export value in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "FY 2015",
+            "FY 2016",
+            "FY 2017",
+            "FY 2018",
+            "FY 2019",
+            "FY 2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Export value in billion U.S. dollars"
+    },
+    "legend": {
+        "Basmati rice": "#2876dd",
+        "Non-basmati rice": "#0f283e"
+    },
+    "data": {
+        "Basmati rice": [
+            3.48,
+            3.21,
+            1.82,
+            4.17,
+            4.71,
+            4.33
+        ],
+        "Non-basmati rice": [
+            2.37,
+            2.53,
+            1.41,
+            3.64,
+            3,
+            2.01
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

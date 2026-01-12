@@ -1,0 +1,76 @@
+{
+    "title": "Total enrollments of male students in schools as per the survey of 2002 conducted in different countries",
+    "x_axis": {
+        "categories": [
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Least developed countries",
+            "Low & middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Pre-primary schools": "#FFD700",
+        "Primary schools": "#FFA500",
+        "Secondary schools": "#00CED1",
+        "Tertiary schools": "#A0522D"
+    },
+    "data": {
+        "Pre-primary schools": [
+            79.36888122558591,
+            59.2103881835938,
+            58.87134170532229,
+            9.17113018035889,
+            29.4907093048096
+        ],
+        "Primary schools": [
+            100.682067871094,
+            115.608726501465,
+            117.331413269043,
+            79.57997131347659,
+            95.63906860351558
+        ],
+        "Secondary schools": [
+            101.006042480469,
+            89.0669097900391,
+            89.8354873657227,
+            27.1400203704833,
+            51.6349296569824
+        ],
+        "Tertiary schools": [
+            68.94573974609379,
+            28.1736698150635,
+            23.2895603179932,
+            3.24346995353699,
+            12.7350196838379
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

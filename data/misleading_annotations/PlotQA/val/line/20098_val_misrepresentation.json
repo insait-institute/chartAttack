@@ -1,0 +1,133 @@
+{
+    "title": "Different expenses of government of Tajikistan",
+    "legend": {
+        "Salary of employees": "#00CED1",
+        "Custom duties": "#CD5C5C",
+        "Interest Payments": "#DAA520",
+        "Other expenses": "#9ACD32"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2003"
+    ],
+    "y_axis_label": "Expenses (in $)",
+    "data": [
+        {
+            "label": "Salary of employees",
+            "color": "#00CED1",
+            "values": [
+                9123000,
+                12235000,
+                34544000,
+                40913000,
+                59128000
+            ]
+        },
+        {
+            "label": "Custom duties",
+            "color": "#CD5C5C",
+            "values": [
+                11586000,
+                18024000,
+                25904000,
+                44928000,
+                96570000
+            ]
+        },
+        {
+            "label": "Interest Payments",
+            "color": "#DAA520",
+            "values": [
+                14088000,
+                5920000,
+                6983000,
+                13822000,
+                59047000
+            ]
+        },
+        {
+            "label": "Other expenses",
+            "color": "#9ACD32",
+            "values": [
+                116462000,
+                134602000,
+                160005000,
+                243089000,
+                531775000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 5920000,
+                "max_value": 531775000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Salary of employees",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Custom duties",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Interest Payments",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Other expenses",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

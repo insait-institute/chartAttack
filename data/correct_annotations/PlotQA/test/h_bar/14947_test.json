@@ -1,0 +1,82 @@
+{
+    "title": "Claims on private sector",
+    "legend": {
+        "Burundi": "#483D8B",
+        "Cambodia": "#90EE90",
+        "Suriname": "#9ACD32",
+        "Turkey": "#6B8E23"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Burundi": [
+            0.400865917008695,
+            11.4081535436809,
+            2.75451031776784,
+            12.417373215984,
+            12.5304277659576,
+            18.0718886379435
+        ],
+        "Cambodia": [
+            8.797840209228651,
+            25.5490049439159,
+            40.14992370449711,
+            30.7019712244741,
+            6.249128684215941,
+            14.7246690968623
+        ],
+        "Suriname": [
+            9.48715109989977,
+            14.4809360769544,
+            16.6938475955909,
+            16.5985360469238,
+            6.52340299525016,
+            5.71167378630803
+        ],
+        "Turkey": [
+            24.7111940386395,
+            19.9361952445746,
+            16.1967080171971,
+            16.5311492148495,
+            8.17167341283919,
+            26.5572953219524
+        ]
+    },
+    "colors": {
+        "Burundi": "#483D8B",
+        "Cambodia": "#90EE90",
+        "Suriname": "#9ACD32",
+        "Turkey": "#6B8E23"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

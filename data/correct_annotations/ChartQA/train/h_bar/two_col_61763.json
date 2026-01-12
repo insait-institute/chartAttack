@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Country Values": "#2876dd"
+    },
+    "categories": [
+        "Italy",
+        "France",
+        "Netherlands",
+        "Spain",
+        "Russia"
+    ],
+    "data": {
+        "Country Values": [
+            125.7,
+            121.6,
+            41.2,
+            39.5,
+            39.3
+        ]
+    },
+    "colors": {
+        "Country Values": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

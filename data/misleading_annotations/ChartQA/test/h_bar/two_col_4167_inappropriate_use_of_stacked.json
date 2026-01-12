@@ -1,0 +1,102 @@
+{
+    "title": "",
+    "legend": {
+        "Niger": "#f27979",
+        "Madagascar": "#f26f00",
+        "Mali": "#f2e879",
+        "Sierra Leone": "#95f200",
+        "Burundi": "#8bf279",
+        "Ethiopia": "#00a533",
+        "DC Congo": "#52a592",
+        "East Timor": "#007fa5",
+        "Uganda": "#526ca5",
+        "Nigeria": "#1900a5",
+        "Senegal": "#c379f2",
+        "Benin": "#f200df",
+        "Liberia": "#f279b1"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Niger": [
+            4.0
+        ],
+        "Madagascar": [
+            7.0
+        ],
+        "Mali": [
+            10.0
+        ],
+        "Sierra Leone": [
+            13.0
+        ],
+        "Burundi": [
+            14.0
+        ],
+        "Ethiopia": [
+            16.0
+        ],
+        "DC Congo": [
+            16.0
+        ],
+        "East Timor": [
+            19.0
+        ],
+        "Uganda": [
+            19.0
+        ],
+        "Nigeria": [
+            20.0
+        ],
+        "Senegal": [
+            21.0
+        ],
+        "Benin": [
+            22.0
+        ],
+        "Liberia": [
+            24.0
+        ]
+    },
+    "colors": {
+        "Niger": "#f27979",
+        "Madagascar": "#f26f00",
+        "Mali": "#f2e879",
+        "Sierra Leone": "#95f200",
+        "Burundi": "#8bf279",
+        "Ethiopia": "#00a533",
+        "DC Congo": "#52a592",
+        "East Timor": "#007fa5",
+        "Uganda": "#526ca5",
+        "Nigeria": "#1900a5",
+        "Senegal": "#c379f2",
+        "Benin": "#f200df",
+        "Liberia": "#f279b1"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

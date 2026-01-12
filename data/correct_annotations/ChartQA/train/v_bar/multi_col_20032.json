@@ -1,0 +1,66 @@
+{
+    "title": "Average vehicle age",
+    "x_axis": {
+        "categories": [
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Average vehicle age"
+    },
+    "legend": {
+        "Cars": "#2876dd",
+        "Vans": "#0f283e",
+        "Buses": "#bababa",
+        "Trucks": "#a60b0b"
+    },
+    "data": {
+        "Cars": [
+            11.1,
+            11.2,
+            11.5
+        ],
+        "Vans": [
+            11.3,
+            11.4,
+            11.6
+        ],
+        "Buses": [
+            11.6,
+            11.6,
+            11.7
+        ],
+        "Trucks": [
+            12.3,
+            12.9,
+            13
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

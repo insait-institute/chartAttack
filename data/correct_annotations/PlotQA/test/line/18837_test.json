@@ -1,0 +1,95 @@
+{
+    "title": "Rent as percent of GDP towards fuel resources of High income_ nonOECD",
+    "legend": {
+        "Coal": "#BC8F8F",
+        "Natural Gas": "#8B0000",
+        "Oil": "#006400"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "y_axis_label": "Rent(as % of GDP)",
+    "data": [
+        {
+            "label": "Coal",
+            "color": "#BC8F8F",
+            "values": [
+                0.0852201143583014,
+                0.125892335109646,
+                0.102750533269128,
+                0.0794937228909091,
+                0.0436226054663395,
+                0.02384097447782,
+                0.0373542792873582,
+                0.121432251841603,
+                0.0626964108104325
+            ]
+        },
+        {
+            "label": "Natural Gas",
+            "color": "#8B0000",
+            "values": [
+                2.22812038444004,
+                2.12196077244663,
+                2.91805104861801,
+                2.45066869273471,
+                2.10386256388012,
+                1.76461831160498,
+                4.48917605318474,
+                4.40123674090355,
+                3.40751359817418
+            ]
+        },
+        {
+            "label": "Oil",
+            "color": "#006400",
+            "values": [
+                7.12207059090622,
+                7.324683359186991,
+                8.777723015773281,
+                7.75453502234763,
+                5.20403748412185,
+                7.190697353937651,
+                12.05164932982,
+                9.93839098351613,
+                10.5260407740459
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of GDP spent on health care in different countries in 2006",
+    "legend": {
+        "Congo (Democratic)": "#f27979",
+        "Congo (Republic)": "#f2f200",
+        "Costa Rica": "#79f279",
+        "Cote d'Ivoire": "#00a5a5",
+        "Croatia": "#5252a5",
+        "Cuba": "#a500a5"
+    },
+    "categories": [
+        "Percentage of GDP spent on health care in different countries in 2006"
+    ],
+    "data": {
+        "Congo (Democratic)": [
+            2.44668995983309
+        ],
+        "Congo (Republic)": [
+            0.878675534993384
+        ],
+        "Costa Rica": [
+            2.42587187641555
+        ],
+        "Cote d'Ivoire": [
+            4.66788014329706
+        ],
+        "Croatia": [
+            0.9797697252240479
+        ],
+        "Cuba": [
+            0.5899461719692779
+        ]
+    },
+    "colors": {
+        "Congo (Democratic)": "#f27979",
+        "Congo (Republic)": "#f2f200",
+        "Costa Rica": "#79f279",
+        "Cote d'Ivoire": "#00a5a5",
+        "Croatia": "#5252a5",
+        "Cuba": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

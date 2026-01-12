@@ -1,0 +1,61 @@
+{
+    "title": "Trade statistics with developing economies outside region in 1973",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Arab World": "#D2691E",
+        "New Zealand": "#00FF00",
+        "Norway": "#2F4F4F",
+        "Saudi Arabia": "#0000FF"
+    },
+    "data": {
+        "Arab World": [
+            8.51829662393631,
+            9.08834752417405
+        ],
+        "New Zealand": [
+            9.65667801944758,
+            6.119735551133809
+        ],
+        "Norway": [
+            12.6811184363575,
+            7.23080155310035
+        ],
+        "Saudi Arabia": [
+            12.9374104526738,
+            23.4871483505363
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

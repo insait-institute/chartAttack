@@ -1,0 +1,111 @@
+{
+    "title": "Export value in billion Swiss francs",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2005",
+            "2010",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Export value in billion Swiss francs"
+    },
+    "legend": {
+        "0-200 CHF": "#2876dd",
+        "200-500 CHF": "#0f283e",
+        "500-3000 CHF": "#bababa",
+        "3000+ CHF": "#a60b0b"
+    },
+    "data": {
+        "0-200 CHF": [
+            1.23,
+            1.07,
+            1.16,
+            1.33,
+            1.27,
+            1.25,
+            1.24,
+            1.11,
+            0.98,
+            0.95,
+            0.82,
+            0.54
+        ],
+        "200-500 CHF": [
+            1.04,
+            0.84,
+            1.04,
+            1.32,
+            1.49,
+            1.56,
+            1.42,
+            1.29,
+            1.34,
+            1.3,
+            1.23,
+            0.82
+        ],
+        "500-3000 CHF": [
+            3.86,
+            4.29,
+            3.86,
+            4.45,
+            4.39,
+            4.34,
+            4.16,
+            4.0,
+            4.2,
+            4.52,
+            4.28,
+            3.41
+        ],
+        "3000+ CHF": [
+            3.15,
+            5.22,
+            9.09,
+            13.09,
+            13.46,
+            13.84,
+            13.41,
+            11.86,
+            12.26,
+            13.19,
+            14.18,
+            11.36
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "legend": {
+        "Revenue": "#2876dd"
+    },
+    "categories": [
+        "RELX Group",
+        "Alibaba Group",
+        "International Data Group",
+        "UBM",
+        "The Hearst Corporation",
+        "Informa",
+        "Daily Mail and General Trust",
+        "S&P Global",
+        "CNET Networks",
+        "Nikkei"
+    ],
+    "data": {
+        "Revenue": [
+            2280,
+            1605,
+            1573,
+            1170,
+            828,
+            808,
+            738,
+            725,
+            630,
+            480
+        ]
+    },
+    "colors": {
+        "Revenue": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2280
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Proportion of the male labor force ages 15-24 who participated in production",
+    "legend": {
+        "Brunei Darussalam": "#FF7F50",
+        "St. Lucia": "#B8860B",
+        "Uzbekistan": "#6B8E23"
+    },
+    "categories": [
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "data": {
+        "Brunei Darussalam": [
+            54.2000007629395,
+            54.0,
+            54.0,
+            54.0999984741211
+        ],
+        "St. Lucia": [
+            64.5,
+            64.1999969482422,
+            63.0999984741211,
+            63.0999984741211
+        ],
+        "Uzbekistan": [
+            53.2000007629395,
+            53.0999984741211,
+            53.0999984741211,
+            53.2999992370605
+        ]
+    },
+    "colors": {
+        "Brunei Darussalam": "#FF7F50",
+        "St. Lucia": "#B8860B",
+        "Uzbekistan": "#6B8E23"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

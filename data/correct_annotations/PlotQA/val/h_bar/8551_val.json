@@ -1,0 +1,60 @@
+{
+    "title": "Rent as percent of GDP towards fuel resources of different countries in 1978",
+    "legend": {
+        "OECD members": "#8A2BE2",
+        "Canada": "#8B0000",
+        "United States": "#A020F0"
+    },
+    "categories": [
+        "Coal",
+        "Natural Gas",
+        "Oil"
+    ],
+    "data": {
+        "OECD members": [
+            0.0219525698747895,
+            0.636553998085606,
+            0.8785388316454871
+        ],
+        "Canada": [
+            0.0043322766749984,
+            1.72591984635554,
+            2.76722898476912
+        ],
+        "United States": [
+            0.0510425270641002,
+            1.12402249010378,
+            1.55331348519337
+        ]
+    },
+    "colors": {
+        "OECD members": "#8A2BE2",
+        "Canada": "#8B0000",
+        "United States": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Land under cereal production in hectares",
+    "x_axis": {
+        "categories": [
+            "St. Vincent and the Grenadines",
+            "Sudan",
+            "Suriname"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1961": "#FFFF00",
+        "1962": "#663399",
+        "1963": "#F0E68C"
+    },
+    "data": {
+        "1961": [
+            100.0,
+            1843005.0,
+            26340.0
+        ],
+        "1962": [
+            100.0,
+            1991247.0,
+            27730.0
+        ],
+        "1963": [
+            100.0,
+            2042662.0,
+            27948.0
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2042670
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

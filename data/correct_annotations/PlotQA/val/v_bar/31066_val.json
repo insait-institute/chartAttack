@@ -1,0 +1,61 @@
+{
+    "title": "Share of expenditures made in public institutions in 2005",
+    "x_axis": {
+        "categories": [
+            "All education staff compensation",
+            "Current education expenditure"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brazil": "#6B8E23",
+        "Bulgaria": "#BA55D3",
+        "Czech Republic": "#8B008B",
+        "Slovak Republic": "#00CED1"
+    },
+    "data": {
+        "Brazil": [
+            70.2662887573242,
+            93.8673934936523
+        ],
+        "Bulgaria": [
+            63.19552993774411,
+            89.8895416259766
+        ],
+        "Czech Republic": [
+            55.9622192382813,
+            90.3403472900391
+        ],
+        "Slovak Republic": [
+            60.2248306274414,
+            94.36422729492192
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

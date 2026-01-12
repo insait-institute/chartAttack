@@ -1,0 +1,57 @@
+{
+    "title": "Enrolment ratio of male students in different levels of education in Ethiopia",
+    "legend": {
+        "1999": "#f27979",
+        "2000": "#79f200",
+        "2001": "#52a5a5",
+        "2002": "#5200a5"
+    },
+    "categories": [
+        "Enrolment ratio of male students in different levels of education in Ethiopia"
+    ],
+    "data": {
+        "1999": [
+            1.49091994762421
+        ],
+        "2000": [
+            1.62453997135162
+        ],
+        "2001": [
+            1.6952600479126
+        ],
+        "2002": [
+            1.78506994247437
+        ]
+    },
+    "colors": {
+        "1999": "#f27979",
+        "2000": "#79f200",
+        "2001": "#52a5a5",
+        "2002": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

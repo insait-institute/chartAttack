@@ -1,0 +1,62 @@
+{
+    "title": "Proportion of employers amongst total employed population in High income_ nonOECD",
+    "legend": {
+        "2002": "#f27979",
+        "2003": "#c1f200",
+        "2004": "#52a574",
+        "2005": "#0042a5",
+        "2006": "#da79f2"
+    },
+    "categories": [
+        "Proportion of employers amongst total employed population in High income_ nonOECD"
+    ],
+    "data": {
+        "2002": [
+            2.40938009376939
+        ],
+        "2003": [
+            2.28309601330205
+        ],
+        "2004": [
+            2.36191913290174
+        ],
+        "2005": [
+            2.31757148434533
+        ],
+        "2006": [
+            2.3187839153095
+        ]
+    },
+    "colors": {
+        "2002": "#f27979",
+        "2003": "#c1f200",
+        "2004": "#52a574",
+        "2005": "#0042a5",
+        "2006": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

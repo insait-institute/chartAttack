@@ -1,0 +1,54 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "15 to 24",
+            "25 to 34",
+            "35 to 44",
+            "45 to 54",
+            "55 to 64",
+            "65 or older"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "default": "#2876dd"
+    },
+    "data": {
+        "default": [
+            24,
+            26.9,
+            20.1,
+            15.7,
+            10.7,
+            6.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Mortality rate in different countries in 1992",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (developing only)": "#f27979",
+        "Middle income": "#c1f200",
+        "North America": "#52a574",
+        "OECD members": "#0042a5",
+        "Other small states": "#da79f2"
+    },
+    "data": {
+        "Middle East & North Africa (developing only)": [
+            151.931207933156
+        ],
+        "Middle income": [
+            168.315787012093
+        ],
+        "North America": [
+            86.8276432860486
+        ],
+        "OECD members": [
+            80.1824854852825
+        ],
+        "Other small states": [
+            246.910672555223
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 310
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (developing only)": "#f27979",
+        "Middle income": "#c1f200",
+        "North America": "#52a574",
+        "OECD members": "#0042a5",
+        "Other small states": "#da79f2"
+    }
+}

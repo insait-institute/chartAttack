@@ -1,0 +1,62 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1982",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Industry": "#f27979",
+        "Manufacturing": "#79f200",
+        "Services": "#52a5a5",
+        "Agriculture": "#5200a5"
+    },
+    "data": {
+        "Industry": [
+            45.5877065145383
+        ],
+        "Manufacturing": [
+            34.5599624847981
+        ],
+        "Services": [
+            45.4443929010521
+        ],
+        "Agriculture": [
+            8.96790058440956
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Industry": "#f27979",
+        "Manufacturing": "#79f200",
+        "Services": "#52a5a5",
+        "Agriculture": "#5200a5"
+    }
+}

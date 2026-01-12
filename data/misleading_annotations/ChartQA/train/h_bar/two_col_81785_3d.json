@@ -1,0 +1,72 @@
+{
+    "title": "Number of ads aired",
+    "legend": {
+        "Ads": "#2876dd"
+    },
+    "categories": [
+        "Bernie Sanders",
+        "Hillary Clinton",
+        "Marco Rubio",
+        "Ted Cruz",
+        "Jeb Bush",
+        "Donald Trump",
+        "Anti-Trump",
+        "John Kasich",
+        "Ben Carson",
+        "Chris Christie",
+        "Rick Perry",
+        "Bobby Jindal",
+        "Rand Paul",
+        "Mike Huckabee",
+        "Lindsey Graham",
+        "Carly Fiorina"
+    ],
+    "data": {
+        "Ads": [
+            124732,
+            105376,
+            59275,
+            51220,
+            39062,
+            33050,
+            17702,
+            15696,
+            12116,
+            5791,
+            3441,
+            3413,
+            1817,
+            1694,
+            1008,
+            761
+        ]
+    },
+    "colors": {
+        "Ads": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 124740
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Number of trips in millions",
+    "x_axis": {
+        "categories": [
+            "Air",
+            "Land"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of trips in millions"
+    },
+    "legend": {
+        "2017": "#2876dd",
+        "2018": "#0f283e",
+        "2019": "#bababa"
+    },
+    "data": {
+        "2017": [
+            1.77,
+            4.72
+        ],
+        "2018": [
+            2.14,
+            5.18
+        ],
+        "2019": [
+            2.56,
+            5.25
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

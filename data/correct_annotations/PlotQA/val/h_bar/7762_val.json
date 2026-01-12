@@ -1,0 +1,64 @@
+{
+    "title": "Merchandise exports from developing economies in Europe",
+    "legend": {
+        "1992": "#2E8B57",
+        "1993": "#483D8B",
+        "1994": "#D2B48C"
+    },
+    "categories": [
+        "OECD members",
+        "South Asia",
+        "Upper middle income",
+        "World"
+    ],
+    "data": {
+        "1992": [
+            0.32064378332701,
+            0.312806867823918,
+            0.8159502367079741,
+            0.4181934837094
+        ],
+        "1993": [
+            1.27657889572682,
+            0.670196002974094,
+            1.37456655468123,
+            1.22131510521034
+        ],
+        "1994": [
+            1.05225382850642,
+            0.471864103604795,
+            1.44566726734388,
+            1.41262569095955
+        ]
+    },
+    "colors": {
+        "1992": "#2E8B57",
+        "1993": "#483D8B",
+        "1994": "#D2B48C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

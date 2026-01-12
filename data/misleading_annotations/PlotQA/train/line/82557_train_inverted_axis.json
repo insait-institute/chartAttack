@@ -1,0 +1,61 @@
+{
+    "title": "Proportion of the population (ages 15+) that is economically active in Niger",
+    "legend": {
+        "Females": "#DB7093",
+        "Males": "#00CED1"
+    },
+    "x_axis": [
+        "1988",
+        "2001",
+        "2005"
+    ],
+    "y_axis_label": "Active population (% of total population)",
+    "data": [
+        {
+            "label": "Females",
+            "color": "#DB7093",
+            "values": [
+                21.7000007629395,
+                39.2999992370605,
+                39.0
+            ]
+        },
+        {
+            "label": "Males",
+            "color": "#00CED1",
+            "values": [
+                86.8000030517578,
+                87.3000030517578,
+                89.8000030517578
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

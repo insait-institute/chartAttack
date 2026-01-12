@@ -1,0 +1,67 @@
+{
+    "title": "CO2 emissions from electricity and heat production",
+    "legend": {
+        "1986": "#f27979",
+        "1987": "#f2f200",
+        "1988": "#79f279",
+        "1989": "#00a5a5",
+        "1990": "#5252a5",
+        "1991": "#a500a5"
+    },
+    "categories": [
+        "CO2 emissions from electricity and heat production"
+    ],
+    "data": {
+        "1986": [
+            79.8634812286689
+        ],
+        "1987": [
+            79.1946308724832
+        ],
+        "1988": [
+            78.2051282051282
+        ],
+        "1989": [
+            77.741935483871
+        ],
+        "1990": [
+            77.5384615384615
+        ],
+        "1991": [
+            76.85459940652821
+        ]
+    },
+    "colors": {
+        "1986": "#f27979",
+        "1987": "#f2f200",
+        "1988": "#79f279",
+        "1989": "#00a5a5",
+        "1990": "#5252a5",
+        "1991": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

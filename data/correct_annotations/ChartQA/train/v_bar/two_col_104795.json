@@ -1,0 +1,80 @@
+{
+    "title": "Production in million metric tons",
+    "x_axis": {
+        "categories": [
+            "FY 2002",
+            "FY 2003",
+            "FY 2004",
+            "FY 2005",
+            "FY 2006",
+            "FY 2007",
+            "FY 2008",
+            "FY 2009",
+            "FY 2010",
+            "FY 2011",
+            "FY 2012",
+            "FY 2013",
+            "FY 2014",
+            "FY 2015",
+            "FY 2016",
+            "FY 2017",
+            "FY 2018",
+            "FY 2019",
+            "FY 2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Production in million metric tons"
+    },
+    "legend": {
+        "Data Series": "#2876dd"
+    },
+    "data": {
+        "Data Series": [
+            13.37,
+            11.13,
+            14.91,
+            13.13,
+            13.38,
+            14.2,
+            14.76,
+            14.57,
+            14.66,
+            18.24,
+            17.09,
+            18.34,
+            19.26,
+            17.15,
+            16.32,
+            23.13,
+            25.42,
+            22.08,
+            23.01
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

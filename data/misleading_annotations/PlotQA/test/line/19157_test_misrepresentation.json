@@ -1,0 +1,118 @@
+{
+    "title": "Rent as percent of GDP towards fuel resources of Uzbekistan",
+    "legend": {
+        "Coal": "#D2B48C",
+        "Natural Gas": "#BEBEBE",
+        "Oil": "#FF0000"
+    },
+    "x_axis": [
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "y_axis_label": "Rent(as % of GDP)",
+    "data": [
+        {
+            "label": "Coal",
+            "color": "#D2B48C",
+            "values": [
+                0.213414033502687,
+                0.117455401429777,
+                0.113500539623377,
+                0.0999600512620604,
+                0.0777367155309334,
+                0.0623394745552801
+            ]
+        },
+        {
+            "label": "Natural Gas",
+            "color": "#BEBEBE",
+            "values": [
+                14.0512741928672,
+                17.7585977665274,
+                16.6322742641802,
+                16.8953976057977,
+                22.5571146290026,
+                20.3428269543971
+            ]
+        },
+        {
+            "label": "Oil",
+            "color": "#FF0000",
+            "values": [
+                3.23443594417891,
+                3.26466310709548,
+                4.11195459497484,
+                6.085155534186049,
+                7.322346601955807,
+                6.6701718848158
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Coal",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Natural Gas",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Oil",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

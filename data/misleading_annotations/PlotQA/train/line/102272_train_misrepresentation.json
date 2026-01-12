@@ -1,0 +1,67 @@
+{
+    "title": "Net enrollment rate in primary schools of Cote d_Ivoire",
+    "legend": {
+        "Adjusted net enrolment rate": "#4682B4"
+    },
+    "x_axis": [
+        "1992",
+        "1996",
+        "1997",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Enrollment rate (%)",
+    "data": [
+        {
+            "label": "Adjusted net enrolment rate",
+            "color": "#4682B4",
+            "values": [
+                48.94898,
+                55.34981,
+                56.8015,
+                59.68597030639651,
+                59.13591003417971
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Adjusted net enrolment rate",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

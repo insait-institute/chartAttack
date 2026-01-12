@@ -1,0 +1,92 @@
+{
+    "title": "Number of participants",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of participants"
+    },
+    "legend": {
+        "2009/10": "#f27979",
+        "2010/11": "#f29100",
+        "2011/12": "#daf279",
+        "2012/13": "#30f200",
+        "2013/14": "#52a574",
+        "2014/15": "#00a5a5",
+        "2015/16": "#5274a5",
+        "2016/17": "#2100a5",
+        "2017/18": "#da79f2",
+        "2018/19": "#f20091"
+    },
+    "data": {
+        "2009/10": [
+            1802.0
+        ],
+        "2010/11": [
+            1522.0
+        ],
+        "2011/12": [
+            1376.0
+        ],
+        "2012/13": [
+            1456.0
+        ],
+        "2013/14": [
+            1414.0
+        ],
+        "2014/15": [
+            1425.0
+        ],
+        "2015/16": [
+            1468.0
+        ],
+        "2016/17": [
+            1329.0
+        ],
+        "2017/18": [
+            1589.0
+        ],
+        "2018/19": [
+            2183.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 378220
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2009/10": "#f27979",
+        "2010/11": "#f29100",
+        "2011/12": "#daf279",
+        "2012/13": "#30f200",
+        "2013/14": "#52a574",
+        "2014/15": "#00a5a5",
+        "2015/16": "#5274a5",
+        "2016/17": "#2100a5",
+        "2017/18": "#da79f2",
+        "2018/19": "#f20091"
+    }
+}

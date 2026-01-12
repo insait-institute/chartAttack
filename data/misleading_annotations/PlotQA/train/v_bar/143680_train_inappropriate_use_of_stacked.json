@@ -1,0 +1,62 @@
+{
+    "title": "Balance of Payments of travel services as percentage of service exports",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Suriname": "#f27979",
+        "Sweden": "#79f200",
+        "Switzerland": "#52a5a5",
+        "Tajikistan": "#5200a5"
+    },
+    "data": {
+        "Suriname": [
+            21.8520333170015
+        ],
+        "Sweden": [
+            15.9228695648708
+        ],
+        "Switzerland": [
+            15.1561610592614
+        ],
+        "Tajikistan": [
+            1.06818420984298
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Suriname": "#f27979",
+        "Sweden": "#79f200",
+        "Switzerland": "#52a5a5",
+        "Tajikistan": "#5200a5"
+    }
+}

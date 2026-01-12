@@ -1,0 +1,57 @@
+{
+    "title": "CPIA equity of public resource use rating",
+    "legend": {
+        "Arab World": "#f27979",
+        "Caribbean small states": "#79f200",
+        "East Asia (all income levels)": "#52a5a5",
+        "East Asia (developing only)": "#5200a5"
+    },
+    "categories": [
+        "CPIA equity of public resource use rating"
+    ],
+    "data": {
+        "Arab World": [
+            3.0
+        ],
+        "Caribbean small states": [
+            3.5
+        ],
+        "East Asia (all income levels)": [
+            3.5
+        ],
+        "East Asia (developing only)": [
+            3.5
+        ]
+    },
+    "colors": {
+        "Arab World": "#f27979",
+        "Caribbean small states": "#79f200",
+        "East Asia (all income levels)": "#52a5a5",
+        "East Asia (developing only)": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

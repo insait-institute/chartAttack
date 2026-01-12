@@ -1,0 +1,76 @@
+{
+    "title": "Trade statistics with developing economies of South Asia in 1987",
+    "x_axis": {
+        "categories": [
+            "Austria",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh",
+            "Barbados"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#556B2F",
+        "Merchandise imports": "#D2691E"
+    },
+    "data": {
+        "Merchandise exports": [
+            0.3743443452654829,
+            0.0390368133644455,
+            11.4018124332916,
+            4.21062407132244,
+            0.0373148731937671
+        ],
+        "Merchandise imports": [
+            0.798679310487549,
+            0.310206875895856,
+            0.00595209908502097,
+            1.95637729691364,
+            4.27790250923888
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Merchandise exports": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Merchandise imports": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

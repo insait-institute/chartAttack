@@ -1,0 +1,68 @@
+{
+    "title": "Total unemployment among male youth",
+    "x_axis": {
+        "categories": [
+            "Brunei Darussalam",
+            "Bulgaria",
+            "Burkina Faso",
+            "Burundi",
+            "Cabo Verde"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1991": "#6A5ACD",
+        "1992": "#2F4F4F",
+        "1993": "#008B8B"
+    },
+    "data": {
+        "1991": [
+            11.6000003814697,
+            38.2000007629395,
+            5.09999990463257,
+            10.1000003814697,
+            13.8999996185303
+        ],
+        "1992": [
+            10.3999996185303,
+            28.7000007629395,
+            4.59999990463257,
+            10.1000003814697,
+            13.8999996185303
+        ],
+        "1993": [
+            9.30000019073486,
+            44.7000007629395,
+            6.099999904632571,
+            10.1000003814697,
+            13.8999996185303
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

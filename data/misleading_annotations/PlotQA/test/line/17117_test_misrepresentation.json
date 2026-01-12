@@ -1,0 +1,94 @@
+{
+    "title": "Trade statistics of Belize with developing economies in Saharan Africa",
+    "legend": {
+        "Merchandise exports": "#FF1493",
+        "Merchandise imports": "#FF8C00"
+    },
+    "x_axis": [
+        "1968",
+        "1969",
+        "1970",
+        "1983",
+        "1986",
+        "1987"
+    ],
+    "y_axis_label": "Trade with economies of Sub-Saharan Africa(%)",
+    "data": [
+        {
+            "label": "Merchandise exports",
+            "color": "#FF1493",
+            "values": [
+                0.006615069127472379,
+                0.0474890181645495,
+                29.5616554952655,
+                0.00257307533964594,
+                0.0053983437881258,
+                0.00201225463070097
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "color": "#FF8C00",
+            "values": [
+                0.403423443803491,
+                0.3107373256324519,
+                0.293685756240822,
+                0.0117247039512252,
+                0.005740339828117821,
+                0.000702508658419215
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Merchandise exports",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

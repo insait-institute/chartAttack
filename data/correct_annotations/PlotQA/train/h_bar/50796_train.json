@@ -1,0 +1,60 @@
+{
+    "title": "Female Population as percentage of total population",
+    "legend": {
+        "Sub-Saharan Africa (developing only)": "#00CED1",
+        "Armenia": "#CD5C5C",
+        "Moldova": "#FFD700"
+    },
+    "categories": [
+        "1988",
+        "1989",
+        "1990"
+    ],
+    "data": {
+        "Sub-Saharan Africa (developing only)": [
+            50.2158597044071,
+            50.2169091868868,
+            50.217982936424
+        ],
+        "Armenia": [
+            51.24945911323339,
+            51.354891157077,
+            51.4937392356747
+        ],
+        "Moldova": [
+            52.40035297981201,
+            52.3665870691224,
+            52.33712959835611
+        ]
+    },
+    "colors": {
+        "Sub-Saharan Africa (developing only)": "#00CED1",
+        "Armenia": "#CD5C5C",
+        "Moldova": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

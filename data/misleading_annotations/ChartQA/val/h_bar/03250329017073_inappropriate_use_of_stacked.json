@@ -1,0 +1,42 @@
+{
+    "title": "Global demand for education: Global population projection until 2100 by age group by the Wittgenstein Centre, 2035",
+    "legend": {
+        "Europe -": "#5252a5"
+    },
+    "categories": [
+        "Global demand for education: Global population projection until 2100 by age group by the Wittgenstein Centre, 2035"
+    ],
+    "data": {
+        "Europe -": [
+            34.58
+        ]
+    },
+    "colors": {
+        "Europe -": "#5252a5"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": true,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 760
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

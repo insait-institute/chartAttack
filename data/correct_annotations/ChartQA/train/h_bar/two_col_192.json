@@ -1,0 +1,104 @@
+{
+    "title": "Number of confirmed cases",
+    "legend": {
+        "Default": "#C0C0C0",
+        "Canada": "#2876dd",
+        "Ontario": "#2876dd",
+        "Quebec": "#2876dd",
+        "Alberta": "#2876dd",
+        "British Columbia": "#2876dd",
+        "Manitoba": "#2876dd",
+        "Saskatchewan": "#2876dd",
+        "on First Nations reserves": "#2876dd",
+        "Nova Scotia": "#2876dd",
+        "New Brunswick": "#2876dd",
+        "Newfoundland and Labrador": "#2876dd",
+        "Nunavut": "#2876dd",
+        "Yukon": "#2876dd",
+        "Prince Edward Island": "#2876dd",
+        "Northwest Territories": "#2876dd",
+        "Repatriated travellers": "#2876dd"
+    },
+    "categories": [
+        "Canada",
+        "Ontario",
+        "Quebec",
+        "Alberta",
+        "British Columbia",
+        "Manitoba",
+        "Saskatchewan",
+        "on First Nations reserves",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador",
+        "Nunavut",
+        "Yukon",
+        "Prince Edward Island",
+        "Northwest Territories",
+        "Repatriated travellers"
+    ],
+    "data": {
+        "Default": [
+            1415284,
+            544897,
+            374857,
+            231987,
+            147621,
+            56167,
+            48854,
+            32022,
+            5836,
+            2332,
+            1386,
+            657,
+            342,
+            207,
+            128,
+            13
+        ]
+    },
+    "colors": {
+        "Default": "#C0C0C0",
+        "Canada": "#2876dd",
+        "Ontario": "#2876dd",
+        "Quebec": "#2876dd",
+        "Alberta": "#2876dd",
+        "British Columbia": "#2876dd",
+        "Manitoba": "#2876dd",
+        "Saskatchewan": "#2876dd",
+        "on First Nations reserves": "#2876dd",
+        "Nova Scotia": "#2876dd",
+        "New Brunswick": "#2876dd",
+        "Newfoundland and Labrador": "#2876dd",
+        "Nunavut": "#2876dd",
+        "Yukon": "#2876dd",
+        "Prince Edward Island": "#2876dd",
+        "Northwest Territories": "#2876dd",
+        "Repatriated travellers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1415290
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

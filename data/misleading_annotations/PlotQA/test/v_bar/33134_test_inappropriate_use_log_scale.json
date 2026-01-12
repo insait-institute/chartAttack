@@ -1,0 +1,52 @@
+{
+    "title": "Amount of CO2 emissions by different countries in 2000",
+    "x_axis": {
+        "categories": [
+            "Austria",
+            "Azerbaijan",
+            "Bahamas",
+            "Bahrain",
+            "Bangladesh"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "CO2 emissions": "#A0522D"
+    },
+    "data": {
+        "CO2 emissions": [
+            7.762359194194993,
+            3.666271028501849,
+            5.60099163788097,
+            27.95664424799989,
+            0.21228704387473
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

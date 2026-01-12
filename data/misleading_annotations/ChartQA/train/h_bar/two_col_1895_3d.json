@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Japan",
+        "United Kingdom",
+        "Canada",
+        "Netherlands",
+        "Germany",
+        "Switzerland",
+        "Luxembourg",
+        "France",
+        "Ireland",
+        "Spain",
+        "Australia",
+        "Belgium",
+        "Republic of Korea",
+        "Sweden",
+        "Hungary",
+        "China",
+        "Italy",
+        "Norway",
+        "Denmark",
+        "Singapore"
+    ],
+    "data": {
+        "Model": [
+            619.26,
+            505.09,
+            495.72,
+            487.08,
+            372.88,
+            300.39,
+            297.05,
+            282.23,
+            225.52,
+            86.8,
+            66.25,
+            65.92,
+            61.82,
+            52.68,
+            52.36,
+            37.69,
+            32.81,
+            24.22,
+            23.87,
+            21.06
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 620
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of firms either registered or unregistered in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Latvia": "#f27979",
+        "Lesotho": "#c1f200",
+        "Liberia": "#52a574",
+        "Lithuania": "#0042a5",
+        "Macedonia": "#da79f2"
+    },
+    "data": {
+        "Latvia": [
+            41.7
+        ],
+        "Lesotho": [
+            59.6
+        ],
+        "Liberia": [
+            66.2
+        ],
+        "Lithuania": [
+            50.1
+        ],
+        "Macedonia": [
+            73.9
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Latvia": "#f27979",
+        "Lesotho": "#c1f200",
+        "Liberia": "#52a574",
+        "Lithuania": "#0042a5",
+        "Macedonia": "#da79f2"
+    }
+}

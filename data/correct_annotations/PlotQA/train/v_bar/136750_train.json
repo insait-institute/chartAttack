@@ -1,0 +1,61 @@
+{
+    "title": "Share of expenditures made in secondary public institutions in 2010",
+    "x_axis": {
+        "categories": [
+            "All education staff compensation",
+            "Current education expenditure"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brazil": "#8B0000",
+        "Cyprus": "#4B0082",
+        "France": "#663399",
+        "Latvia": "#A52A2A"
+    },
+    "data": {
+        "Brazil": [
+            70.8094787597656,
+            93.9366226196289
+        ],
+        "Cyprus": [
+            85.76405334472659,
+            92.2985610961914
+        ],
+        "France": [
+            75.5108337402344,
+            89.36398315429692
+        ],
+        "Latvia": [
+            66.71627807617189,
+            88.5694122314453
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

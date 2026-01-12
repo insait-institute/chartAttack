@@ -1,0 +1,72 @@
+{
+    "title": "Mobile commerce revenue in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Mobile commerce revenue in billion U.S. dollars"
+    },
+    "legend": {
+        "2014": "#f27979",
+        "2015": "#f2f200",
+        "2016*": "#79f279",
+        "2017*": "#00a5a5",
+        "2018*": "#5252a5",
+        "2019*": "#a500a5"
+    },
+    "data": {
+        "2014": [
+            50.92
+        ],
+        "2015": [
+            96.34
+        ],
+        "2016*": [
+            171.16
+        ],
+        "2017*": [
+            288.12
+        ],
+        "2018*": [
+            459.38
+        ],
+        "2019*": [
+            693.36
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 700
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2014": "#f27979",
+        "2015": "#f2f200",
+        "2016*": "#79f279",
+        "2017*": "#00a5a5",
+        "2018*": "#5252a5",
+        "2019*": "#a500a5"
+    }
+}

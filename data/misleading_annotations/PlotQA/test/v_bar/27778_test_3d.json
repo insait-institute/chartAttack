@@ -1,0 +1,56 @@
+{
+    "title": "Schooling information of children involved in an economic activity in different countries",
+    "x_axis": {
+        "categories": [
+            "Not attending school",
+            "Attending school"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bolivia": "#00BFFF",
+        "Pakistan": "#BEBEBE",
+        "Zambia": "#000000"
+    },
+    "data": {
+        "Bolivia": [
+            5.2,
+            94.8
+        ],
+        "Pakistan": [
+            88.9,
+            11.1
+        ],
+        "Zambia": [
+            18.5753910835086,
+            81.42460891649141
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

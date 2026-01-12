@@ -1,0 +1,72 @@
+{
+    "title": "Current account balance of a country after exporting goods and services",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bolivia": "#f27979",
+        "Bosnia and Herzegovina": "#f2f200",
+        "Brazil": "#79f279",
+        "Bulgaria": "#00a5a5",
+        "Cabo Verde": "#5252a5",
+        "Canada": "#a500a5"
+    },
+    "data": {
+        "Bolivia": [
+            6.51831708183819
+        ],
+        "Bosnia and Herzegovina": [
+            -16.9152190587994
+        ],
+        "Brazil": [
+            1.56760514609709
+        ],
+        "Bulgaria": [
+            -11.2233811103291
+        ],
+        "Cabo Verde": [
+            -4.18458377090171
+        ],
+        "Canada": [
+            1.88208428683922
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Bolivia": "#f27979",
+        "Bosnia and Herzegovina": "#f2f200",
+        "Brazil": "#79f279",
+        "Bulgaria": "#00a5a5",
+        "Cabo Verde": "#5252a5",
+        "Canada": "#a500a5"
+    }
+}

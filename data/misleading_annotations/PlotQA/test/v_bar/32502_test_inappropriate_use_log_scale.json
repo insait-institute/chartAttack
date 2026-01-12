@@ -1,0 +1,52 @@
+{
+    "title": "Total labor force in the year 2007",
+    "x_axis": {
+        "categories": [
+            "France",
+            "French Polynesia",
+            "Gabon",
+            "Gambia, The",
+            "Georgia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Labor force": "#0000FF"
+    },
+    "data": {
+        "Labor force": [
+            29187450,
+            107718,
+            526061,
+            638591,
+            2293175
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 29187450
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

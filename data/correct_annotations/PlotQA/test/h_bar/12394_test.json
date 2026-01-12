@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of agricultural raw materials exported to different countries",
+    "legend": {
+        "1962": "#4682B4",
+        "1963": "#40E0D0",
+        "1964": "#D2691E",
+        "1965": "#6A5ACD"
+    },
+    "categories": [
+        "India",
+        "Israel",
+        "Italy",
+        "Japan"
+    ],
+    "data": {
+        "1962": [
+            9.257298840516722,
+            1.27662071629771,
+            2.56366011564055,
+            3.14269997183186
+        ],
+        "1963": [
+            8.25292351104026,
+            0.962201442910767,
+            2.6517144050854,
+            2.95848334234909
+        ],
+        "1964": [
+            7.99026464783777,
+            1.05010960321201,
+            2.79292296462313,
+            2.71790818115176
+        ],
+        "1965": [
+            7.71134815309765,
+            1.45841863500865,
+            2.45882147619133,
+            2.50451407877806
+        ]
+    },
+    "colors": {
+        "1962": "#4682B4",
+        "1963": "#40E0D0",
+        "1964": "#D2691E",
+        "1965": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

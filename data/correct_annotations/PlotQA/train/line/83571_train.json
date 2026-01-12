@@ -1,0 +1,79 @@
+{
+    "title": "Balance of payments as percentage of commercial service imports in St. Kitts and Nevis",
+    "legend": {
+        "Transport services": "#808000",
+        "Travel services": "#00BFFF"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Balance of Payment (as % of commercial service imports)",
+    "data": [
+        {
+            "label": "Transport services",
+            "color": "#808000",
+            "values": [
+                42.2413861697913,
+                45.3625507196824,
+                43.3699085958796,
+                50.6545638934874,
+                47.1407684713451,
+                42.2826847496348,
+                40.1845067027195,
+                38.87630917331121,
+                39.6646334228492
+            ]
+        },
+        {
+            "label": "Travel services",
+            "color": "#00BFFF",
+            "values": [
+                12.1349716347567,
+                14.025150004977,
+                12.4902216850632,
+                11.9711502936661,
+                11.8016673549403,
+                12.1504873633327,
+                12.6504854825337,
+                13.1881836662532,
+                12.9926114962195
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

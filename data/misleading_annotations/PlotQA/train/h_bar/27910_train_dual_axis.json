@@ -1,0 +1,70 @@
+{
+    "title": "Percentage of anaemic women in Panama",
+    "legend": {
+        "Non-pregnant women": "#556B2F",
+        "Pregnant women": "#FF8C00"
+    },
+    "categories": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "data": {
+        "Non-pregnant women": [
+            37.0,
+            37.7,
+            38.1,
+            38.3,
+            38.3
+        ],
+        "Pregnant women": [
+            36.6,
+            36.3,
+            35.9,
+            35.5,
+            35.0
+        ]
+    },
+    "colors": {
+        "Non-pregnant women": "#556B2F",
+        "Pregnant women": "#FF8C00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 37.0,
+                "max_value": 38.3
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 35.0,
+                "max_value": 36.6
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

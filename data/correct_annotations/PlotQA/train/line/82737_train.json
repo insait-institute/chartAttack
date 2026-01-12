@@ -1,0 +1,76 @@
+{
+    "title": "Net income from abroad of Ecuador in different currencies",
+    "legend": {
+        "constant 2005 US$": "#2F4F4F",
+        "US$": "#BC8F8F"
+    },
+    "x_axis": [
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Income from abroad",
+    "data": [
+        {
+            "label": "constant 2005 US$",
+            "color": "#2F4F4F",
+            "values": [
+                -860200000.0,
+                -940000000.0,
+                -924000000.0,
+                -1022900000.0,
+                -1026900000.0,
+                -1170500000.0,
+                -1306700000.0,
+                -1410600000.0
+            ]
+        },
+        {
+            "label": "US$",
+            "color": "#BC8F8F",
+            "values": [
+                -860630315.157579,
+                -940470235.117559,
+                -924462231.115558,
+                -1023411705.85293,
+                -1027413706.85343,
+                -1171085542.77139,
+                -1307353676.83842,
+                -1411305652.82641
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -1411305660,
+                "max_value": 0
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

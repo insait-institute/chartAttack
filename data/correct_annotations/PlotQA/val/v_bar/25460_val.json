@@ -1,0 +1,72 @@
+{
+    "title": "Total earnings of a country by trading goods",
+    "x_axis": {
+        "categories": [
+            "Georgia",
+            "Germany",
+            "Greece",
+            "Guatemala",
+            "Hong Kong",
+            "Hungary"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#4682B4",
+        "2006": "#228B22",
+        "2007": "#ADFF2F"
+    },
+    "data": {
+        "2005": [
+            -1217505610.0,
+            196106000000.0,
+            -34235670016.0,
+            -4190600000.0,
+            31067637830.0,
+            -2459923048.0
+        ],
+        "2006": [
+            -2056533596.0,
+            202889000000.0,
+            -44033450729.0,
+            -4852300000.0,
+            30856959323.0,
+            -2579248408.0
+        ],
+        "2007": [
+            -2888752034.0,
+            276860000000.0,
+            -56925569165.0,
+            -5487000000.0,
+            26860969916.0,
+            -553857809.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 276860000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

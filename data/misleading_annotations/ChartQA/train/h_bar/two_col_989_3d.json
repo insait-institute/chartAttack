@@ -1,0 +1,60 @@
+{
+    "title": "TV rating",
+    "categories": [
+        "Michigan St. vs. Indiana St. - 1979",
+        "Georgetown vs. Villanova - 1985",
+        "Duke vs. Michigan - 1992",
+        "North Carolina St. vs. Houston - 1983",
+        "North Carolina vs. Michigan - 1993",
+        "Arkansas vs. Duke - 1994",
+        "North Carolina vs. Georgetown - 1982",
+        "Michigan vs. Seton Hall - 1989",
+        "UCLA vs. Kentucky - 1975",
+        "Louisville vs. Duke - 1986"
+    ],
+    "data": {
+        "": [
+            24.1,
+            23.3,
+            22.7,
+            22.3,
+            22.2,
+            21.6,
+            21.6,
+            21.3,
+            21.3,
+            20.7
+        ]
+    },
+    "colors": {
+        "": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "": "#2876dd"
+    }
+}

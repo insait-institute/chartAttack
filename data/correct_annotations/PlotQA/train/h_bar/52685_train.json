@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of the unemployed male labor force with different levels of education in countries",
+    "legend": {
+        "Bangladesh": "#2F4F4F",
+        "Hungary": "#A52A2A",
+        "Luxembourg": "#663399"
+    },
+    "categories": [
+        "Primary education",
+        "Secondary education",
+        "Tertiary education"
+    ],
+    "data": {
+        "Bangladesh": [
+            46.0,
+            32.2000007629395,
+            11.8000001907349
+        ],
+        "Hungary": [
+            37.5999984741211,
+            59.0999984741211,
+            3.29999995231628
+        ],
+        "Luxembourg": [
+            70.4000015258789,
+            25.89999961853031,
+            3.70000004768372
+        ]
+    },
+    "colors": {
+        "Bangladesh": "#2F4F4F",
+        "Hungary": "#A52A2A",
+        "Luxembourg": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

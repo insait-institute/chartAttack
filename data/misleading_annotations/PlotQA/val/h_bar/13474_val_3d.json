@@ -1,0 +1,67 @@
+{
+    "title": "Balance of Payments as percentage of service export of countries in 2007",
+    "legend": {
+        "Cote d'Ivoire": "#FF4500",
+        "Georgia": "#00FA9A",
+        "Romania": "#CD853F",
+        "Senegal": "#A52A2A"
+    },
+    "categories": [
+        "Transport services",
+        "Travel services",
+        "ICT services"
+    ],
+    "data": {
+        "Cote d'Ivoire": [
+            20.12697595242311,
+            9.83447482241865,
+            31.116229396978
+        ],
+        "Georgia": [
+            46.3257921954121,
+            34.6641289208678,
+            3.18880830875014
+        ],
+        "Romania": [
+            20.8632543926662,
+            12.2994652406417,
+            31.32925897631781
+        ],
+        "Senegal": [
+            11.3409277805501,
+            44.558769473835,
+            28.8431588614778
+        ]
+    },
+    "colors": {
+        "Cote d'Ivoire": "#FF4500",
+        "Georgia": "#00FA9A",
+        "Romania": "#CD853F",
+        "Senegal": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of anaemic women in Mauritius",
+    "legend": {
+        "Non-pregnant women": "#4169E1",
+        "Pregnant women": "#00FFFF"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Non-pregnant women": [
+            25.3,
+            25.1,
+            24.7,
+            24.1,
+            23.6,
+            23.2
+        ],
+        "Pregnant women": [
+            34.8,
+            34.0,
+            33.1,
+            32.2,
+            31.3,
+            30.4
+        ]
+    },
+    "colors": {
+        "Non-pregnant women": "#4169E1",
+        "Pregnant women": "#00FFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Different expenses of government of different countries in 1996",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Salary of employees": "#f27979",
+        "Custom duties": "#79f200",
+        "Interest Payments": "#52a5a5",
+        "Other expenses": "#5200a5"
+    },
+    "data": {
+        "Salary of employees": [
+            5281800000.0
+        ],
+        "Custom duties": [
+            2124300000.0
+        ],
+        "Interest Payments": [
+            1226800000.0
+        ],
+        "Other expenses": [
+            53184400000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 171495000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Salary of employees": "#f27979",
+        "Custom duties": "#79f200",
+        "Interest Payments": "#52a5a5",
+        "Other expenses": "#5200a5"
+    }
+}

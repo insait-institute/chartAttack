@@ -1,0 +1,77 @@
+{
+    "title": "Net disbursements of loans in different countries in 1985",
+    "legend": {
+        "Regional development banks": "#5F9EA0",
+        "International Monetary Fund": "#D2691E",
+        "International Development Association": "#EE82EE",
+        "Others": "#CD5C5C"
+    },
+    "categories": [
+        "Latin America(developing only)",
+        "Low & middle income",
+        "Low income",
+        "Lower middle income",
+        "Middle East & North Africa (developing only)"
+    ],
+    "data": {
+        "Regional development banks": [
+            318744000,
+            867879000,
+            358446000,
+            318649000,
+            891000
+        ],
+        "International Monetary Fund": [
+            -10431000.0,
+            -542538040.8,
+            -88510000.0,
+            -429469040.8,
+            -55082000.0
+        ],
+        "International Development Association": [
+            316701260.14,
+            318195000.0,
+            -3541000.0,
+            -3541000.0,
+            428766000.0
+        ],
+        "Others": [
+            -10941000.0,
+            688893507.8,
+            155698000.0,
+            291995507.8,
+            116613000.0
+        ]
+    },
+    "colors": {
+        "Regional development banks": "#5F9EA0",
+        "International Monetary Fund": "#D2691E",
+        "International Development Association": "#EE82EE",
+        "Others": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 867879000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

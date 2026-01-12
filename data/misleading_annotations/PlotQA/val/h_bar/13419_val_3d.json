@@ -1,0 +1,62 @@
+{
+    "title": "Fertility rates in different countries according to the survey of 2006",
+    "legend": {
+        "Iran": "#E9967A",
+        "Lebanon": "#20B2AA",
+        "New Zealand": "#DC143C",
+        "Oman": "#FFA500"
+    },
+    "categories": [
+        "Adolescent fertility rate",
+        "Fertility rate"
+    ],
+    "data": {
+        "Iran": [
+            31.5638,
+            1.805
+        ],
+        "Lebanon": [
+            13.8498,
+            1.686
+        ],
+        "New Zealand": [
+            29.425,
+            2.01
+        ],
+        "Oman": [
+            15.097,
+            2.912
+        ]
+    },
+    "colors": {
+        "Iran": "#E9967A",
+        "Lebanon": "#20B2AA",
+        "New Zealand": "#DC143C",
+        "Oman": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,58 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "y_axis": "E-commerce sales growth rate",
+    "x_axis": [
+        "2016",
+        "2017*",
+        "2018*",
+        "2019*",
+        "2020*",
+        "2021*"
+    ],
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                25.9,
+                25,
+                22,
+                17.5,
+                13.6,
+                9.7
+            ]
+        }
+    ],
+    "type": "line",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

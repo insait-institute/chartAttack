@@ -1,0 +1,187 @@
+{
+    "title": "Revenue multiples for Major League Baseball teams",
+    "categories": [
+        "Revenue multiples for Major League Baseball teams"
+    ],
+    "data": {
+        "New York Yankees": [
+            3.3
+        ],
+        "Boston Red Sox": [
+            3.1
+        ],
+        "New York Mets": [
+            3.0
+        ],
+        "Chicago Cubs": [
+            2.7
+        ],
+        "Los Angeles Dodgers": [
+            2.7
+        ],
+        "San Diego Padres": [
+            2.6
+        ],
+        "St. Louis Cardinals": [
+            2.4
+        ],
+        "Texas Rangers": [
+            2.4
+        ],
+        "Houston Astros": [
+            2.3
+        ],
+        "Minnesota Twins": [
+            2.3
+        ],
+        "San Francisco Giants": [
+            2.3
+        ],
+        "Seattle Mariners": [
+            2.3
+        ],
+        "Atlanta Braves": [
+            2.3
+        ],
+        "Chicago White Sox": [
+            2.2
+        ],
+        "Philadelphia Phillies": [
+            2.2
+        ],
+        "Cleveland Indians": [
+            2.2
+        ],
+        "Los Angeles Angels": [
+            2.2
+        ],
+        "Arizona Diamondbacks": [
+            2.1
+        ],
+        "Florida Marlins": [
+            2.1
+        ],
+        "Baltimore Orioles": [
+            2.1
+        ],
+        "Kansas City Royals": [
+            2.0
+        ],
+        "Colorado Rockies": [
+            2.0
+        ],
+        "Tampa Bay Rays": [
+            1.9
+        ],
+        "Cincinnati Reds": [
+            1.9
+        ],
+        "Pittsburgh Pirates": [
+            1.9
+        ],
+        "Milwaukee Brewers": [
+            1.9
+        ],
+        "Toronto Blue Jays": [
+            1.8
+        ],
+        "Washington Nationals": [
+            1.8
+        ],
+        "Oakland Athletics": [
+            1.8
+        ],
+        "Detroit Tigers": [
+            1.8
+        ]
+    },
+    "colors": {
+        "New York Yankees": "#f27979",
+        "Boston Red Sox": "#f23000",
+        "New York Mets": "#f2a979",
+        "Chicago Cubs": "#f29100",
+        "Los Angeles Dodgers": "#f2da79",
+        "San Diego Padres": "#f2f200",
+        "St. Louis Cardinals": "#daf279",
+        "Texas Rangers": "#91f200",
+        "Houston Astros": "#a9f279",
+        "Minnesota Twins": "#30f200",
+        "San Francisco Giants": "#79f279",
+        "Seattle Mariners": "#00a521",
+        "Atlanta Braves": "#52a574",
+        "Chicago White Sox": "#00a563",
+        "Philadelphia Phillies": "#52a595",
+        "Cleveland Indians": "#00a5a5",
+        "Los Angeles Angels": "#5295a5",
+        "Arizona Diamondbacks": "#0063a5",
+        "Florida Marlins": "#5274a5",
+        "Baltimore Orioles": "#0021a5",
+        "Kansas City Royals": "#5252a5",
+        "Colorado Rockies": "#2100a5",
+        "Tampa Bay Rays": "#a979f2",
+        "Cincinnati Reds": "#9100f2",
+        "Pittsburgh Pirates": "#da79f2",
+        "Milwaukee Brewers": "#f200f2",
+        "Toronto Blue Jays": "#f279da",
+        "Washington Nationals": "#f20091",
+        "Oakland Athletics": "#f279a9",
+        "Detroit Tigers": "#f20030"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "New York Yankees": "#f27979",
+        "Boston Red Sox": "#f23000",
+        "New York Mets": "#f2a979",
+        "Chicago Cubs": "#f29100",
+        "Los Angeles Dodgers": "#f2da79",
+        "San Diego Padres": "#f2f200",
+        "St. Louis Cardinals": "#daf279",
+        "Texas Rangers": "#91f200",
+        "Houston Astros": "#a9f279",
+        "Minnesota Twins": "#30f200",
+        "San Francisco Giants": "#79f279",
+        "Seattle Mariners": "#00a521",
+        "Atlanta Braves": "#52a574",
+        "Chicago White Sox": "#00a563",
+        "Philadelphia Phillies": "#52a595",
+        "Cleveland Indians": "#00a5a5",
+        "Los Angeles Angels": "#5295a5",
+        "Arizona Diamondbacks": "#0063a5",
+        "Florida Marlins": "#5274a5",
+        "Baltimore Orioles": "#0021a5",
+        "Kansas City Royals": "#5252a5",
+        "Colorado Rockies": "#2100a5",
+        "Tampa Bay Rays": "#a979f2",
+        "Cincinnati Reds": "#9100f2",
+        "Pittsburgh Pirates": "#da79f2",
+        "Milwaukee Brewers": "#f200f2",
+        "Toronto Blue Jays": "#f279da",
+        "Washington Nationals": "#f20091",
+        "Oakland Athletics": "#f279a9",
+        "Detroit Tigers": "#f20030"
+    }
+}

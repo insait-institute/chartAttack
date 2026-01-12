@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of female labor force with primary education as their highest grade",
+    "legend": {
+        "Bolivia": "#BA55D3",
+        "Hungary": "#808000",
+        "Iceland": "#00CED1",
+        "Mexico": "#556B2F"
+    },
+    "categories": [
+        "2000",
+        "2005",
+        "2008"
+    ],
+    "data": {
+        "Bolivia": [
+            45.4000015258789,
+            44.0999984741211,
+            39.2999992370605
+        ],
+        "Hungary": [
+            19.8999996185303,
+            16.3999996185303,
+            14.8000001907349
+        ],
+        "Iceland": [
+            49.0,
+            38.4000015258789,
+            37.0
+        ],
+        "Mexico": [
+            20.1000003814697,
+            53.5999984741211,
+            52.2000007629395
+        ]
+    },
+    "colors": {
+        "Bolivia": "#BA55D3",
+        "Hungary": "#808000",
+        "Iceland": "#00CED1",
+        "Mexico": "#556B2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

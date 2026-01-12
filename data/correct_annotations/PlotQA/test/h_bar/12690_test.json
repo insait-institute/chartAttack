@@ -1,0 +1,82 @@
+{
+    "title": "Net disbursements of loans from government",
+    "legend": {
+        "1970": "#6B8E23",
+        "1971": "#7FFFD4",
+        "1972": "#2E8B57",
+        "1973": "#483D8B"
+    },
+    "categories": [
+        "Nepal",
+        "Nicaragua",
+        "Niger",
+        "Pakistan",
+        "Panama",
+        "Papua New Guinea"
+    ],
+    "data": {
+        "1970": [
+            -2141000.0,
+            19144874.3,
+            9207000.0,
+            274412000.0,
+            6242000.0,
+            3920000.0
+        ],
+        "1971": [
+            3941000.0,
+            9934916.8,
+            6496000.0,
+            558551000.0,
+            8010000.0,
+            14199000.0
+        ],
+        "1972": [
+            2328000.0,
+            2700221.3,
+            4704000.0,
+            174298000.0,
+            3345000.0,
+            12104000.0
+        ],
+        "1973": [
+            2935000.0,
+            15594561.8,
+            5792000.0,
+            170397000.0,
+            10702000.0,
+            5139000.0
+        ]
+    },
+    "colors": {
+        "1970": "#6B8E23",
+        "1971": "#7FFFD4",
+        "1972": "#2E8B57",
+        "1973": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 558551000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

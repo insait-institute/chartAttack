@@ -1,0 +1,85 @@
+{
+    "title": "",
+    "legend": {
+        "Female": "#2876dd",
+        "Male": "#0f283e"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+    ],
+    "y_axis_label": "Inhabitants in millions",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#2876dd",
+            "values": [
+                42.72,
+                43.91,
+                45.15,
+                46.43,
+                47.74,
+                49.07,
+                50.43,
+                51.8,
+                53.19,
+                54.59,
+                56.01
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#0f283e",
+            "values": [
+                42.52,
+                43.73,
+                44.99,
+                46.3,
+                47.65,
+                49.02,
+                50.41,
+                51.81,
+                53.21,
+                54.64,
+                56.07
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

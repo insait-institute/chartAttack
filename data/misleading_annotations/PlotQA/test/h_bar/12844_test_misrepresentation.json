@@ -1,0 +1,98 @@
+{
+    "title": "Proportion of female employers amongst total employed population",
+    "legend": {
+        "Latin America(developing only)": "#FFA07A",
+        "Cayman Islands": "#A52A2A",
+        "Finland": "#483D8B",
+        "Russian Federation": "#BA55D3"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Latin America(developing only)": [
+            5.3089229664566,
+            5.852670394809411,
+            4.82495958672286,
+            5.00921250398523
+        ],
+        "Cayman Islands": [
+            4.800000190734862,
+            7.599999904632571,
+            5.599999904632571,
+            6.5
+        ],
+        "Finland": [
+            5.699999809265139,
+            5.5,
+            5.900000095367429,
+            6.099999904632571
+        ],
+        "Russian Federation": [
+            1.70000004768372,
+            1.79999995231628,
+            1.60000002384186,
+            1.5
+        ]
+    },
+    "colors": {
+        "Latin America(developing only)": "#FFA07A",
+        "Cayman Islands": "#A52A2A",
+        "Finland": "#483D8B",
+        "Russian Federation": "#BA55D3"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Latin America(developing only)": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Cayman Islands": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Finland": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Russian Federation": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Prevalence of severe wasting among children with age under 5 years in 1998",
+    "legend": {
+        "Prevalence of severe wasting": "#BDB76B"
+    },
+    "categories": [
+        "Armenia",
+        "Bangladesh",
+        "Bolivia",
+        "Cameroon",
+        "China",
+        "Cote d'Ivoire"
+    ],
+    "data": {
+        "Prevalence of severe wasting": [
+            1.0,
+            2.29999995231628,
+            0.699999988079071,
+            2.59999990463257,
+            0.6000000238418579,
+            1.89999997615814
+        ]
+    },
+    "colors": {
+        "Prevalence of severe wasting": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

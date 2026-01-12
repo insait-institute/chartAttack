@@ -1,0 +1,61 @@
+{
+    "title": "Comparison of population in the largest city and urban agglomerations in 1977",
+    "x_axis": {
+        "categories": [
+            "Largest city",
+            "Urban agglomerations"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Burkina Faso": "#20B2AA",
+        "Finland": "#FF8C00",
+        "Indonesia": "#808000",
+        "Nigeria": "#008080"
+    },
+    "data": {
+        "Burkina Faso": [
+            43.7542068410885,
+            3.1288634346611
+        ],
+        "Finland": [
+            18.7607906408972,
+            13.0243039421368
+        ],
+        "Indonesia": [
+            18.746586604689,
+            8.95379842732113
+        ],
+        "Nigeria": [
+            15.3641610379481,
+            8.2454388317999
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

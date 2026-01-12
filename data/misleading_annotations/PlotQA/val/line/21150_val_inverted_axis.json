@@ -1,0 +1,86 @@
+{
+    "title": "Net bilateral aid flow in Lesotho from different members of DAC",
+    "legend": {
+        "France": "#C71585",
+        "Germany": "#FFA500",
+        "Italy": "#7FFFD4",
+        "Japan": "#40E0D0"
+    },
+    "x_axis": [
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+    ],
+    "y_axis_label": "Aid flow (current US$)",
+    "data": [
+        {
+            "label": "France",
+            "color": "#C71585",
+            "values": [
+                10030000,
+                7110000,
+                3590000,
+                1230000
+            ]
+        },
+        {
+            "label": "Germany",
+            "color": "#FFA500",
+            "values": [
+                610000,
+                850000,
+                1310000,
+                3650000
+            ]
+        },
+        {
+            "label": "Italy",
+            "color": "#7FFFD4",
+            "values": [
+                240000,
+                1470000,
+                40000,
+                30000
+            ]
+        },
+        {
+            "label": "Japan",
+            "color": "#40E0D0",
+            "values": [
+                1200000,
+                630000,
+                750000,
+                830000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30000,
+                "max_value": 10030000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

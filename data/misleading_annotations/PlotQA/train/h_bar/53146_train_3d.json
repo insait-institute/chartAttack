@@ -1,0 +1,60 @@
+{
+    "title": "General government consumption in constant 2005 US$",
+    "legend": {
+        "Small states": "#00FF00",
+        "Chile": "#663399",
+        "Iran": "#8B4513"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "data": {
+        "Small states": [
+            15270943559.7287,
+            15534570740.1716,
+            16058725492.2349
+        ],
+        "Chile": [
+            11584007279.806,
+            12285396089.6145,
+            13010820143.7204
+        ],
+        "Iran": [
+            24675348753.092,
+            26770003164.5152,
+            28009228287.2746
+        ]
+    },
+    "colors": {
+        "Small states": "#00FF00",
+        "Chile": "#663399",
+        "Iran": "#8B4513"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 28009228290
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

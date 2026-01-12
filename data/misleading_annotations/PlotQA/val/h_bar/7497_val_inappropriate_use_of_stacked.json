@@ -1,0 +1,62 @@
+{
+    "title": "Share of expenditures made in primary institutions in 2010",
+    "legend": {
+        "Italy": "#f27979",
+        "Japan": "#c1f200",
+        "Latvia": "#52a574",
+        "Liechtenstein": "#0042a5",
+        "Lithuania": "#da79f2"
+    },
+    "categories": [
+        "Share of expenditures made in primary institutions in 2010"
+    ],
+    "data": {
+        "Italy": [
+            79.3340835571289
+        ],
+        "Japan": [
+            74.7866668701172
+        ],
+        "Latvia": [
+            67.03330230712889
+        ],
+        "Liechtenstein": [
+            60.1500015258789
+        ],
+        "Lithuania": [
+            81.0773468017578
+        ]
+    },
+    "colors": {
+        "Italy": "#f27979",
+        "Japan": "#c1f200",
+        "Latvia": "#52a574",
+        "Liechtenstein": "#0042a5",
+        "Lithuania": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

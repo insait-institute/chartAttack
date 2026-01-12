@@ -1,0 +1,56 @@
+{
+    "title": "",
+    "legend": {
+        "Category": "#2876dd"
+    },
+    "categories": [
+        "Female",
+        "Male",
+        "White (non-Hispanic)",
+        "Black (non-Hispanic)",
+        "Hispanic",
+        "Heterosexual",
+        "Lesbian, gay, or bisexual",
+        "Total"
+    ],
+    "data": {
+        "Category": [
+            23.6,
+            54.4,
+            23.1,
+            15.1,
+            14.8,
+            17.1,
+            32,
+            19.5
+        ]
+    },
+    "colors": {
+        "Category": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

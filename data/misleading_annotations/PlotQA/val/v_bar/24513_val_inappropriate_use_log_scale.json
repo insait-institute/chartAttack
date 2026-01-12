@@ -1,0 +1,60 @@
+{
+    "title": "Urban population of a country",
+    "x_axis": {
+        "categories": [
+            "OECD members",
+            "Other small states",
+            "Pacific island small states"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#40E0D0",
+        "1961": "#483D8B",
+        "1962": "#4169E1"
+    },
+    "data": {
+        "1960": [
+            491504970.0,
+            944945.0,
+            189880.0
+        ],
+        "1961": [
+            503109770.0,
+            993857.0,
+            199912.0
+        ],
+        "1962": [
+            513970592.0,
+            1045883.0,
+            210638.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 513970600
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

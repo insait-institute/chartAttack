@@ -1,0 +1,72 @@
+{
+    "title": "Educated female labor force in different countries in the year 2007",
+    "legend": {
+        "Primary education": "#00FFFF",
+        "Secondary education": "#5F9EA0",
+        "Tertiary education": "#BC8F8F"
+    },
+    "categories": [
+        "Spain",
+        "Sri Lanka",
+        "Sweden",
+        "Switzerland",
+        "Syrian Arab Republic",
+        "Trinidad and Tobago"
+    ],
+    "data": {
+        "Primary education": [
+            37.5999984741211,
+            61.7000007629395,
+            13.0,
+            16.3999996185303,
+            31.10000038146969,
+            22.0
+        ],
+        "Secondary education": [
+            40.2999992370605,
+            63.7000007629395,
+            19.5,
+            56.0,
+            28.89999961853031,
+            26.5
+        ],
+        "Tertiary education": [
+            37.0,
+            22.5,
+            35.2999992370605,
+            22.7000007629395,
+            14.3000001907349,
+            13.6999998092651
+        ]
+    },
+    "colors": {
+        "Primary education": "#00FFFF",
+        "Secondary education": "#5F9EA0",
+        "Tertiary education": "#BC8F8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

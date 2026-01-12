@@ -1,0 +1,60 @@
+{
+    "title": "Methane emissions due to human activities",
+    "x_axis": {
+        "categories": [
+            "Uruguay",
+            "Uzbekistan",
+            "Venezuela"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#6B8E23",
+        "2000": "#FF4500",
+        "2005": "#2E8B57"
+    },
+    "data": {
+        "1990": [
+            15752.1,
+            32947.4,
+            43935.4
+        ],
+        "2000": [
+            18183.2,
+            37079.0,
+            57498.2
+        ],
+        "2005": [
+            19751.6,
+            42352.8,
+            57497.4
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 57500
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

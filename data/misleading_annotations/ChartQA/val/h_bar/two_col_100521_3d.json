@@ -1,0 +1,52 @@
+{
+    "title": "",
+    "categories": [
+        "2010/11",
+        "2011/12",
+        "2012/13",
+        "2013/14",
+        "2014/15",
+        "2015/16",
+        "2016/17"
+    ],
+    "data": {
+        "Series 1": [
+            19285,
+            19511,
+            19631,
+            19407,
+            18713,
+            19376,
+            19089
+        ]
+    },
+    "colors": {
+        "Series 1": "#2876dd"
+    },
+    "y_label": "Average number of attendees",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 19640
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

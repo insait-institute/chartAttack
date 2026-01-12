@@ -1,0 +1,102 @@
+{
+    "title": "Prison population per 100,000 inhabitants",
+    "categories": [
+        "Prison population per 100,000 inhabitants"
+    ],
+    "data": {
+        "Brazil": [
+            333.0
+        ],
+        "Uruguay": [
+            321.0
+        ],
+        "Guyana": [
+            283.0
+        ],
+        "Peru": [
+            278.0
+        ],
+        "French Guiana (France)": [
+            267.0
+        ],
+        "Colombia": [
+            241.0
+        ],
+        "Chile": [
+            231.0
+        ],
+        "Ecuador": [
+            222.0
+        ],
+        "Argentina": [
+            207.0
+        ],
+        "Paraguay": [
+            199.0
+        ],
+        "Suriname": [
+            183.0
+        ],
+        "Venezuela": [
+            178.0
+        ],
+        "Bolivia": [
+            156.0
+        ]
+    },
+    "colors": {
+        "Brazil": "#f27979",
+        "Uruguay": "#f26f00",
+        "Guyana": "#f2e879",
+        "Peru": "#95f200",
+        "French Guiana (France)": "#8bf279",
+        "Colombia": "#00a533",
+        "Chile": "#52a592",
+        "Ecuador": "#007fa5",
+        "Argentina": "#526ca5",
+        "Paraguay": "#1900a5",
+        "Suriname": "#c379f2",
+        "Venezuela": "#f200df",
+        "Bolivia": "#f279b1"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 340
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Brazil": "#f27979",
+        "Uruguay": "#f26f00",
+        "Guyana": "#f2e879",
+        "Peru": "#95f200",
+        "French Guiana (France)": "#8bf279",
+        "Colombia": "#00a533",
+        "Chile": "#52a592",
+        "Ecuador": "#007fa5",
+        "Argentina": "#526ca5",
+        "Paraguay": "#1900a5",
+        "Suriname": "#c379f2",
+        "Venezuela": "#f200df",
+        "Bolivia": "#f279b1"
+    }
+}

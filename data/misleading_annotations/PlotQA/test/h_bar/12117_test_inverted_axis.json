@@ -1,0 +1,62 @@
+{
+    "title": "Net incurrence of liabilities of government of different countries in 1999",
+    "legend": {
+        "Ethiopia": "#FF0000",
+        "Moldova": "#BC8F8F",
+        "Portugal": "#00CED1",
+        "Venezuela": "#000000"
+    },
+    "categories": [
+        "Domestic Liabilities",
+        "Foreign Liabilities"
+    ],
+    "data": {
+        "Ethiopia": [
+            1081900000,
+            1348500000
+        ],
+        "Moldova": [
+            224400000,
+            195900000
+        ],
+        "Portugal": [
+            -3586450000,
+            7266580000
+        ],
+        "Venezuela": [
+            1730466000,
+            -623617000
+        ]
+    },
+    "colors": {
+        "Ethiopia": "#FF0000",
+        "Moldova": "#BC8F8F",
+        "Portugal": "#00CED1",
+        "Venezuela": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7266580000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

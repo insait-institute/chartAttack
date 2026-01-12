@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Heavily indebted poor countries": "#f27979",
+        "High income": "#79f200",
+        "High income: nonOECD": "#52a5a5",
+        "High income: OECD": "#5200a5"
+    },
+    "data": {
+        "Heavily indebted poor countries": [
+            34.9191703796387
+        ],
+        "High income": [
+            94.66357421875
+        ],
+        "High income: nonOECD": [
+            88.9478225708008
+        ],
+        "High income: OECD": [
+            96.64300537109379
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Heavily indebted poor countries": "#f27979",
+        "High income": "#79f200",
+        "High income: nonOECD": "#52a5a5",
+        "High income: OECD": "#5200a5"
+    }
+}

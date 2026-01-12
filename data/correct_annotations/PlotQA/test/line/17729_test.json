@@ -1,0 +1,67 @@
+{
+    "title": "Employment to population ratio of Ecuador for age group between 15-24 years",
+    "legend": {
+        "Female": "#00FF00",
+        "Male": "#FF69B4"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Employment to population ratio(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#00FF00",
+            "values": [
+                32.7000007629395,
+                34.4000015258789,
+                35.0,
+                35.4000015258789,
+                35.5999984741211
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#FF69B4",
+            "values": [
+                53.7000007629395,
+                55.5,
+                55.7999992370605,
+                55.2999992370605,
+                56.4000015258789
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

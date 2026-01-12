@@ -1,0 +1,54 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "1992",
+            "2006",
+            "2013"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "18-19 years old": "#2876dd",
+        "20-24 years": "#0f283e"
+    },
+    "data": {
+        "18-19 years old": [
+            9,
+            16,
+            21
+        ],
+        "20-24 years": [
+            23,
+            28,
+            41
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

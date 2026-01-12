@@ -1,0 +1,71 @@
+{
+    "title": "Value added in manufacturing (in %) due to transport equipments",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Colombia",
+            "Costa Rica",
+            "Cyprus"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1963": "#FFFF00",
+        "1964": "#6495ED",
+        "1965": "#F4A460",
+        "1966": "#008080"
+    },
+    "data": {
+        "1963": [
+            52.87267080343571,
+            32.4931569873388,
+            22.5343472090007,
+            32.96683744230469
+        ],
+        "1964": [
+            52.982456143352,
+            31.08603092696351,
+            23.3965098035943,
+            30.429915256472
+        ],
+        "1965": [
+            52.8852251111046,
+            30.1457975721235,
+            24.9505402741057,
+            29.75313324104311
+        ],
+        "1966": [
+            52.81159420757261,
+            32.3037973911251,
+            25.5594543443724,
+            30.715617379832
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

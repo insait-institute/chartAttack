@@ -1,0 +1,48 @@
+{
+    "title": "Total production of clean energy in 1994",
+    "legend": {
+        "Alternative and nuclear energy": "#D2691E"
+    },
+    "categories": [
+        "South Asia",
+        "Sub-Saharan Africa (all income levels)",
+        "Sub-Saharan Africa (developing only)",
+        "Upper middle income"
+    ],
+    "data": {
+        "Alternative and nuclear energy": [
+            2.54049430890528,
+            2.16056043673609,
+            2.16056043673609,
+            3.61477924920871
+        ]
+    },
+    "colors": {
+        "Alternative and nuclear energy": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

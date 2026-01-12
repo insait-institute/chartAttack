@@ -1,0 +1,68 @@
+{
+    "title": "Electric power consumption in a country",
+    "legend": {
+        "OECD members": "#00FF7F",
+        "Mexico": "#FFA500",
+        "Turkmenistan": "#87CEEB"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "OECD members": [
+            8387.2439734602,
+            8350.279066592479,
+            7951.916559491221,
+            8268.989882915792,
+            8163.94916510333
+        ],
+        "Mexico": [
+            1905.74680040213,
+            1908.346669166269,
+            1863.53515829716,
+            1903.9848254485,
+            2074.24448867813
+        ],
+        "Turkmenistan": [
+            2259.87421357756,
+            2325.14584016686,
+            2367.161013545,
+            2403.41372809771,
+            2443.86167742906
+        ]
+    },
+    "colors": {
+        "OECD members": "#00FF7F",
+        "Mexico": "#FFA500",
+        "Turkmenistan": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8390
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

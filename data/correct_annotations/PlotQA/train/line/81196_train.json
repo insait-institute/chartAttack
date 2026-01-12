@@ -1,0 +1,58 @@
+{
+    "title": "Survival rate of children of St. Kitts and Nevis in Grade 5 of primary education",
+    "legend": {
+        "Female": "#FF1493",
+        "Male": "#E9967A"
+    },
+    "x_axis": [
+        "2007",
+        "2009"
+    ],
+    "y_axis_label": "Survival Rate(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#FF1493",
+            "values": [
+                81.40834045410159,
+                77.90228271484379
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#E9967A",
+            "values": [
+                81.29583740234379,
+                89.8347320556641
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 70,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

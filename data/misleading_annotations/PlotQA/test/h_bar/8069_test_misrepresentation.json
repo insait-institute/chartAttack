@@ -1,0 +1,77 @@
+{
+    "title": "Earning from merchandise imports by the reporting economy",
+    "legend": {
+        "1960": "#FF0000",
+        "1961": "#A020F0",
+        "1962": "#D2691E"
+    },
+    "categories": [
+        "Ireland",
+        "Israel",
+        "Italy"
+    ],
+    "data": {
+        "1960": [
+            629900000.0,
+            496100000.0,
+            4625500000.0
+        ],
+        "1961": [
+            728800000.0,
+            572300000.0,
+            5142600000.0
+        ],
+        "1962": [
+            763500000.0,
+            634900000.0,
+            5991600000.0
+        ]
+    },
+    "colors": {
+        "1960": "#FF0000",
+        "1961": "#A020F0",
+        "1962": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5991600000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

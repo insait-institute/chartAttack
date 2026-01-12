@@ -1,0 +1,67 @@
+{
+    "title": "Expenditures in tertiary public institutions of Czech Republic",
+    "legend": {
+        "All education staff compensation": "#D2B48C",
+        "Current education expenditure": "#90EE90"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "y_axis_label": "% of total expenditure in tertiary public institutions",
+    "data": [
+        {
+            "label": "All education staff compensation",
+            "color": "#D2B48C",
+            "values": [
+                44.8965,
+                44.43909072875979,
+                44.61146163940421,
+                48.39884948730471,
+                42.537181854248
+            ]
+        },
+        {
+            "label": "Current education expenditure",
+            "color": "#90EE90",
+            "values": [
+                87.64519,
+                87.27899169921879,
+                89.56826782226558,
+                88.0728378295898,
+                88.1024932861328
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

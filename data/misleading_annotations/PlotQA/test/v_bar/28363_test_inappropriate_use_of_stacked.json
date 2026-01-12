@@ -1,0 +1,67 @@
+{
+    "title": "Ratio of older dependents as the proportion of dependents per 100 working-age population",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chile": "#f27979",
+        "China": "#c1f200",
+        "Colombia": "#52a574",
+        "Comoros": "#0042a5",
+        "Congo (Democratic)": "#da79f2"
+    },
+    "data": {
+        "Chile": [
+            8.76860397246895
+        ],
+        "China": [
+            6.47253502077037
+        ],
+        "Colombia": [
+            6.29620200603294
+        ],
+        "Comoros": [
+            5.76467871370013
+        ],
+        "Congo (Democratic)": [
+            5.464521982249969
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Chile": "#f27979",
+        "China": "#c1f200",
+        "Colombia": "#52a574",
+        "Comoros": "#0042a5",
+        "Congo (Democratic)": "#da79f2"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Net GHG emissions or removals by LUCF",
+    "x_axis": {
+        "categories": [
+            "Lithuania",
+            "Luxembourg",
+            "Malta"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#FF0000",
+        "1991": "#FF00FF",
+        "1992": "#DC143C"
+    },
+    "data": {
+        "1990": [
+            -4.33058353328137,
+            0.3477497855414911,
+            -0.0569693502763551
+        ],
+        "1991": [
+            -4.670693751050019,
+            0.172428372267925,
+            -0.0569693502763551
+        ],
+        "1992": [
+            -4.677666344501969,
+            -0.1957522754682831,
+            -0.0569693502763551
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

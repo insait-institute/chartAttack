@@ -1,0 +1,62 @@
+{
+    "title": "Trade statistics with high income economies in 1976",
+    "legend": {
+        "Afghanistan": "#7FFFD4",
+        "Brazil": "#4169E1",
+        "Israel": "#663399",
+        "United States": "#D2691E"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Afghanistan": [
+            43.16867802359779,
+            50.49758054246779
+        ],
+        "Brazil": [
+            76.2731787505632,
+            79.34906860825009
+        ],
+        "Israel": [
+            74.7690677001172,
+            54.4211506775852
+        ],
+        "United States": [
+            71.22311220766579,
+            71.3085073396507
+        ]
+    },
+    "colors": {
+        "Afghanistan": "#7FFFD4",
+        "Brazil": "#4169E1",
+        "Israel": "#663399",
+        "United States": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

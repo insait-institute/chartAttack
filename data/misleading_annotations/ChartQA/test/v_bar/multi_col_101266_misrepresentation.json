@@ -1,0 +1,133 @@
+{
+    "title": "Number of adults in millions",
+    "x_axis": {
+        "categories": [
+            "2003",
+            "2005",
+            "2010",
+            "2012",
+            "2014",
+            "2016",
+            "2018",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of adults in millions"
+    },
+    "legend": {
+        "Insured all year, not underinsured": "#2876dd",
+        "Insured all year, underinsured": "#0f283e",
+        "Insured now, had a coverage gap": "#bababa",
+        "Uninsured now": "#a60b0b"
+    },
+    "data": {
+        "Insured all year, not underinsured": [
+            112,
+            109,
+            103,
+            99,
+            101,
+            105,
+            107,
+            110
+        ],
+        "Insured all year, underinsured": [
+            15,
+            16,
+            29,
+            29,
+            31,
+            41,
+            44,
+            41
+        ],
+        "Insured now, had a coverage gap": [
+            16,
+            16,
+            15,
+            19,
+            23,
+            18,
+            19,
+            19
+        ],
+        "Uninsured now": [
+            30,
+            32,
+            37,
+            36,
+            29,
+            23,
+            24,
+            24
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false,
+    "scaling_factors": {
+        "Insured all year, not underinsured": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "Insured all year, underinsured": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "Insured now, had a coverage gap": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "Uninsured now": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5,
+            0.5,
+            0.5
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Methane emission due to industrial production",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#00f200",
+        "Middle income": "#5252a5"
+    },
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            156990.6
+        ],
+        "Middle East & North Africa (developing only)": [
+            103434.7
+        ],
+        "Middle income": [
+            966711.9
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1436970
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#00f200",
+        "Middle income": "#5252a5"
+    }
+}

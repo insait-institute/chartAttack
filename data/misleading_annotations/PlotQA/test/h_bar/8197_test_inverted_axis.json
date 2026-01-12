@@ -1,0 +1,72 @@
+{
+    "title": "Balance of payments for transport services (% of service imports)",
+    "legend": {
+        "Low income": "#90EE90",
+        "Bahrain": "#8B4513",
+        "Congo (Democratic)": "#006400"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Low income": [
+            43.42317968734572,
+            46.3941944471651,
+            50.67991312877172,
+            48.1442226183784,
+            48.5655085705384,
+            49.03144737418179
+        ],
+        "Bahrain": [
+            42.9383501436965,
+            41.0609021988984,
+            44.593213685897,
+            41.0678276790759,
+            39.7710456631549,
+            36.2344848164365
+        ],
+        "Congo (Democratic)": [
+            39.4126738794436,
+            45.4067754698318,
+            47.3995046675557,
+            44.0261955863739,
+            56.8257783452886,
+            48.8899916526249
+        ]
+    },
+    "colors": {
+        "Low income": "#90EE90",
+        "Bahrain": "#8B4513",
+        "Congo (Democratic)": "#006400"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of people living with HIV who are receiving antiretroviral therapy",
+    "x_axis": {
+        "categories": [
+            "Least developed countries",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Other small states",
+            "Small states",
+            "World"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2000": "#000000",
+        "2001": "#8B4513",
+        "2002": "#FF00FF"
+    },
+    "data": {
+        "2000": [
+            0.00133061296904107,
+            0.9302325581395352,
+            0.652173913043478,
+            0.0130081300813008,
+            0.0124442600850358,
+            2.0
+        ],
+        "2001": [
+            0.105514805759305,
+            0.8702791461412149,
+            0.584307178631052,
+            0.4728618421052629,
+            0.4549571723934229,
+            3.0
+        ],
+        "2002": [
+            0.13415150232755,
+            1.16051136363636,
+            0.8455988455988459,
+            1.18695258230142,
+            1.14625915927497,
+            3.0
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

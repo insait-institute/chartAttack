@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Cris Carter",
+        "Randy Moss",
+        "Anthony Carter",
+        "Jake Reed",
+        "Sammy White",
+        "Steve Jordan",
+        "Ahmad Rashad",
+        "Adam Thielen",
+        "Stefon Diggs",
+        "Kyle Rudolph",
+        "Hassan Jones",
+        "Percy Harvin",
+        "John Gilliam",
+        "Paul Flatley",
+        "Bill Brown",
+        "Gene Washington",
+        "Chuck Foreman",
+        "Leo Lewis",
+        "Ted Brown",
+        "Visanthe Shiancoe"
+    ],
+    "data": {
+        "Players": [
+            12383,
+            9316,
+            7636,
+            6433,
+            6400,
+            6307,
+            5489,
+            5240,
+            4623,
+            4488,
+            3733,
+            3302,
+            3297,
+            3222,
+            3177,
+            3087,
+            3057,
+            2924,
+            2850,
+            2424
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12390
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

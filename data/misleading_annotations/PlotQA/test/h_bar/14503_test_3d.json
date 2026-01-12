@@ -1,0 +1,72 @@
+{
+    "title": "Theoretical duration of secondary education",
+    "legend": {
+        "Brazil": "#9ACD32",
+        "Fiji": "#483D8B",
+        "Micronesia": "#EE82EE",
+        "Slovak Republic": "#00CED1"
+    },
+    "categories": [
+        "1976",
+        "1977",
+        "1978",
+        "1979"
+    ],
+    "data": {
+        "Brazil": [
+            7,
+            7,
+            7,
+            7
+        ],
+        "Fiji": [
+            6,
+            6,
+            6,
+            6
+        ],
+        "Micronesia": [
+            6,
+            6,
+            6,
+            6
+        ],
+        "Slovak Republic": [
+            8,
+            8,
+            8,
+            8
+        ]
+    },
+    "colors": {
+        "Brazil": "#9ACD32",
+        "Fiji": "#483D8B",
+        "Micronesia": "#EE82EE",
+        "Slovak Republic": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

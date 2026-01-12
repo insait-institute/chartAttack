@@ -1,0 +1,72 @@
+{
+    "title": "Payments made towards primary income, imports of goods and services by countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Caribbean small states": "#f27979",
+        "Central Europe": "#f2f200",
+        "East Asia (all income levels)": "#79f279",
+        "East Asia (developing only)": "#00a5a5",
+        "Euro area": "#5252a5",
+        "Europe(all income levels)": "#a500a5"
+    },
+    "data": {
+        "Caribbean small states": [
+            23660157854.1
+        ],
+        "Central Europe": [
+            435175931900.0
+        ],
+        "East Asia (all income levels)": [
+            2976215520401.48
+        ],
+        "East Asia (developing only)": [
+            1097136838942.28
+        ],
+        "Euro area": [
+            3644610278532.0
+        ],
+        "Europe(all income levels)": [
+            5632414051595.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7164966036970
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Caribbean small states": "#f27979",
+        "Central Europe": "#f2f200",
+        "East Asia (all income levels)": "#79f279",
+        "East Asia (developing only)": "#00a5a5",
+        "Euro area": "#5252a5",
+        "Europe(all income levels)": "#a500a5"
+    }
+}

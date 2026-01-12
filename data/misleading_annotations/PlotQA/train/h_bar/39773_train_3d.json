@@ -1,0 +1,64 @@
+{
+    "title": "Total unemployment among female youth",
+    "legend": {
+        "1991": "#808000",
+        "1992": "#A0522D",
+        "1993": "#20B2AA"
+    },
+    "categories": [
+        "Romania",
+        "Russian Federation",
+        "Rwanda",
+        "Saudi Arabia"
+    ],
+    "data": {
+        "1991": [
+            21.7999992370605,
+            24.5,
+            0.5,
+            44.5
+        ],
+        "1992": [
+            24.39999961853031,
+            13.1000003814697,
+            0.5,
+            42.0999984741211
+        ],
+        "1993": [
+            24.39999961853031,
+            14.1000003814697,
+            0.6000000238418579,
+            50.2999992370605
+        ]
+    },
+    "colors": {
+        "1991": "#808000",
+        "1992": "#A0522D",
+        "1993": "#20B2AA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

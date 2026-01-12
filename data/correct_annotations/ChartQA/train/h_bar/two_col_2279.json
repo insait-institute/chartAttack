@@ -1,0 +1,90 @@
+{
+    "title": "Brand value in million euros",
+    "categories": [
+        "Mercedes-Benz",
+        "BMW",
+        "Deutsche Telekom",
+        "SAP",
+        "Volkswagen",
+        "Audi",
+        "BASF",
+        "Siemens",
+        "Bayer",
+        "Allianz",
+        "adidas",
+        "Porsche",
+        "Hugo Boss",
+        "Bosch",
+        "Deutsche Bank",
+        "Continental",
+        "Nivea",
+        "Aldi",
+        "MAN",
+        "Linde",
+        "Schwarzkopf",
+        "Evonik",
+        "Lidl",
+        "TUI",
+        "Commerzbank"
+    ],
+    "data": {
+        "Brand Value": [
+            25438,
+            25195,
+            12923,
+            12846,
+            10161,
+            7283,
+            7011,
+            6424,
+            6276,
+            5706,
+            5466,
+            5312,
+            3069,
+            3051,
+            2913,
+            2708,
+            2692,
+            2409,
+            1650,
+            1634,
+            1548,
+            1534,
+            1439,
+            1383,
+            1346
+        ]
+    },
+    "colors": {
+        "Brand Value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25440
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Brand Value": "#2876dd"
+    }
+}

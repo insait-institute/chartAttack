@@ -1,0 +1,82 @@
+{
+    "title": "CPIA ratings of different policies of Upper middle income",
+    "legend": {
+        "Building human resources": "#A020F0",
+        "Business regulatory environment": "#8B0000",
+        "Debt policy": "#90EE90",
+        "Management rating": "#87CEEB"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Building human resources": [
+            3.58333333333333,
+            3.58333333333333,
+            3.7,
+            3.8,
+            3.75,
+            3.75
+        ],
+        "Business regulatory environment": [
+            3.708333333333329,
+            3.625,
+            3.8,
+            3.8,
+            3.8,
+            3.85
+        ],
+        "Debt policy": [
+            3.54166666666667,
+            3.41666666666667,
+            3.45,
+            3.4,
+            3.4,
+            3.3
+        ],
+        "Management rating": [
+            3.63888888888889,
+            3.55833333333333,
+            3.5,
+            3.38,
+            3.41666666666667,
+            3.4
+        ]
+    },
+    "colors": {
+        "Building human resources": "#A020F0",
+        "Business regulatory environment": "#8B0000",
+        "Debt policy": "#90EE90",
+        "Management rating": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

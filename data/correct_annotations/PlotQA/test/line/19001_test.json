@@ -1,0 +1,83 @@
+{
+    "title": "CO2 emissions from different fuel consumption in Georgia",
+    "legend": {
+        "Gaseous fuel": "#00FF7F",
+        "Liquid fuel": "#B8860B",
+        "Solid fuel": "#40E0D0"
+    },
+    "x_axis": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "y_axis_label": "Emissions(in percent)",
+    "data": [
+        {
+            "label": "Gaseous fuel",
+            "color": "#00FF7F",
+            "values": [
+                39.504132231405,
+                35.1810790835181,
+                36.37130801687761,
+                48.10024252223121,
+                49.3190661478599,
+                45.8874458874459
+            ]
+        },
+        {
+            "label": "Liquid fuel",
+            "color": "#B8860B",
+            "values": [
+                58.84297520661161,
+                61.1973392461197,
+                58.3966244725738,
+                46.80679062247371,
+                44.4552529182879,
+                47.2943722943723
+            ]
+        },
+        {
+            "label": "Solid fuel",
+            "color": "#40E0D0",
+            "values": [
+                0.661157024793388,
+                1.55210643015521,
+                1.43459915611814,
+                1.29345189975748,
+                1.4591439688716,
+                1.62337662337662
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1982",
+    "x_axis": {
+        "categories": [
+            "Industry",
+            "Manufacturing",
+            "Services",
+            "Agriculture"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brazil": "#F0E68C",
+        "Cyprus": "#4682B4",
+        "Uganda": "#708090"
+    },
+    "data": {
+        "Brazil": [
+            45.5877065145383,
+            34.5599624847981,
+            45.4443929010521,
+            8.96790058440956
+        ],
+        "Cyprus": [
+            30.8615457218406,
+            17.0260542584237,
+            59.8692535903354,
+            9.26919497727659
+        ],
+        "Uganda": [
+            11.4440078585462,
+            6.67976424361493,
+            34.8231827111984,
+            53.73280943025539
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

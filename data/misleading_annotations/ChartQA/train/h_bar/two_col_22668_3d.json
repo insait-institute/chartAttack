@@ -1,0 +1,79 @@
+{
+    "title": "",
+    "y_label": "Corruption perceptions index score",
+    "categories": [
+        "Germany",
+        "United Kingdom",
+        "Canada",
+        "Australia",
+        "Japan",
+        "France",
+        "United States of America",
+        "Korea (South)",
+        "Italy",
+        "Saudi Arabia",
+        "South Africa",
+        "Argentina",
+        "China",
+        "India",
+        "Turkey",
+        "Brazil",
+        "Indonesia",
+        "Mexico",
+        "Russia"
+    ],
+    "data": {
+        "Corruption perceptions": [
+            80,
+            77,
+            77,
+            77,
+            74,
+            69,
+            67,
+            61,
+            53,
+            53,
+            44,
+            42,
+            42,
+            40,
+            40,
+            38,
+            37,
+            31,
+            30
+        ]
+    },
+    "colors": {
+        "Corruption perceptions": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Corruption perceptions": "#2876dd"
+    }
+}

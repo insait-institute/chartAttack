@@ -1,0 +1,72 @@
+{
+    "title": "CPIA quality of budgetary and financial management rating",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Samoa": "#f27979",
+        "Sao Tome and Principe": "#f2f200",
+        "Senegal": "#79f279",
+        "Sierra Leone": "#00a5a5",
+        "Solomon Islands": "#5252a5",
+        "Sri Lanka": "#a500a5"
+    },
+    "data": {
+        "Samoa": [
+            4.0
+        ],
+        "Sao Tome and Principe": [
+            3.0
+        ],
+        "Senegal": [
+            3.5
+        ],
+        "Sierra Leone": [
+            3.5
+        ],
+        "Solomon Islands": [
+            3.0
+        ],
+        "Sri Lanka": [
+            4.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Samoa": "#f27979",
+        "Sao Tome and Principe": "#f2f200",
+        "Senegal": "#79f279",
+        "Sierra Leone": "#00a5a5",
+        "Solomon Islands": "#5252a5",
+        "Sri Lanka": "#a500a5"
+    }
+}

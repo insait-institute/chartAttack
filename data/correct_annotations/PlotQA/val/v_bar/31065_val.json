@@ -1,0 +1,71 @@
+{
+    "title": "Mineral rents as percent of GDP",
+    "x_axis": {
+        "categories": [
+            "Japan",
+            "Malaysia",
+            "Mauritania",
+            "Mexico"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#4B0082",
+        "1971": "#6495ED",
+        "1972": "#32CD32",
+        "1973": "#9ACD32"
+    },
+    "data": {
+        "1970": [
+            0.0648721034956459,
+            0.325346352689393,
+            14.2125795038445,
+            0.337599815531045
+        ],
+        "1971": [
+            0.0385286239639275,
+            0.1935798495225101,
+            13.9528789102666,
+            0.228350027099953
+        ],
+        "1972": [
+            0.0252641657747588,
+            0.1570679076690369,
+            14.4256827043567,
+            0.254048422336676
+        ],
+        "1973": [
+            0.0528290049167692,
+            0.103173264777553,
+            16.3507133700303,
+            0.549559376204952
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

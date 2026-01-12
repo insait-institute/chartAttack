@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of non-pregnant women suffering from anaemia",
+    "legend": {
+        "Chile": "#f27979",
+        "China": "#c1f200",
+        "Colombia": "#52a574",
+        "Comoros": "#0042a5",
+        "Congo (Democratic)": "#da79f2"
+    },
+    "categories": [
+        "Percentage of non-pregnant women suffering from anaemia"
+    ],
+    "data": {
+        "Chile": [
+            19.5
+        ],
+        "China": [
+            38.4
+        ],
+        "Colombia": [
+            32.6
+        ],
+        "Comoros": [
+            41.1
+        ],
+        "Congo (Democratic)": [
+            54.6
+        ]
+    },
+    "colors": {
+        "Chile": "#f27979",
+        "China": "#c1f200",
+        "Colombia": "#52a574",
+        "Comoros": "#0042a5",
+        "Congo (Democratic)": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

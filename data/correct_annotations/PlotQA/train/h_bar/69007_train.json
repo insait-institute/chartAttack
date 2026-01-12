@@ -1,0 +1,72 @@
+{
+    "title": "CPIA transparency and corruption in the public sector rating",
+    "legend": {
+        "East Asia (developing only)": "#4169E1",
+        "Honduras": "#CD5C5C",
+        "Mali": "#FF0000",
+        "Pakistan": "#008B8B"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "East Asia (developing only)": [
+            2.95454545454545,
+            3.0,
+            3.07692307692308,
+            3.14285714285714
+        ],
+        "Honduras": [
+            3,
+            3,
+            3,
+            3
+        ],
+        "Mali": [
+            3.5,
+            3.5,
+            3.5,
+            3.0
+        ],
+        "Pakistan": [
+            2.5,
+            2.5,
+            2.5,
+            2.5
+        ]
+    },
+    "colors": {
+        "East Asia (developing only)": "#4169E1",
+        "Honduras": "#CD5C5C",
+        "Mali": "#FF0000",
+        "Pakistan": "#008B8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

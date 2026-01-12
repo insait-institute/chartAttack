@@ -1,0 +1,72 @@
+{
+    "title": "Sales in billion cubic meters",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Sales in billion cubic meters"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2012": "#f2f200",
+        "2014": "#79f279",
+        "2017": "#00a5a5",
+        "2018": "#5252a5",
+        "2019": "#a500a5"
+    },
+    "data": {
+        "2010": [
+            34.29
+        ],
+        "2012": [
+            34.78
+        ],
+        "2014": [
+            34.04
+        ],
+        "2017": [
+            37.43
+        ],
+        "2018": [
+            39.03
+        ],
+        "2019": [
+            37.85
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2012": "#f2f200",
+        "2014": "#79f279",
+        "2017": "#00a5a5",
+        "2018": "#5252a5",
+        "2019": "#a500a5"
+    }
+}

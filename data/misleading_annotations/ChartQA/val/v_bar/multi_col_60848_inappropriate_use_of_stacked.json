@@ -1,0 +1,97 @@
+{
+    "title": "Number of immigrants",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of immigrants"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f28400",
+        "2012": "#e7f279",
+        "2013": "#58f200",
+        "2014": "#52a561",
+        "2015": "#00a578",
+        "2016": "#528fa5",
+        "2017": "#001ea5",
+        "2018": "#a579f2",
+        "2019": "#dc00f2",
+        "2020": "#f279bb"
+    },
+    "data": {
+        "2010": [
+            2238.0
+        ],
+        "2011": [
+            2056.0
+        ],
+        "2012": [
+            1955.0
+        ],
+        "2013": [
+            1936.0
+        ],
+        "2014": [
+            1955.0
+        ],
+        "2015": [
+            2008.0
+        ],
+        "2016": [
+            2255.0
+        ],
+        "2017": [
+            2113.0
+        ],
+        "2018": [
+            2070.0
+        ],
+        "2019": [
+            2083.0
+        ],
+        "2020": [
+            1762.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2260
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f28400",
+        "2012": "#e7f279",
+        "2013": "#58f200",
+        "2014": "#52a561",
+        "2015": "#00a578",
+        "2016": "#528fa5",
+        "2017": "#001ea5",
+        "2018": "#a579f2",
+        "2019": "#dc00f2",
+        "2020": "#f279bb"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Proportion of the population (ages 15+) that is economically active in different countries",
+    "x_axis": {
+        "categories": [
+            "Bahrain",
+            "Barbados",
+            "Belgium",
+            "Belize",
+            "Botswana",
+            "Brazil"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Females": "#87CEEB",
+        "Males": "#4B0082"
+    },
+    "data": {
+        "Females": [
+            33.7000007629395,
+            62.0,
+            41.7000007629395,
+            39.5999984741211,
+            47.7000007629395,
+            52.7999992370605
+        ],
+        "Males": [
+            87.1999969482422,
+            74.099998474121,
+            60.5999984741211,
+            78.599998474121,
+            70.3000030517578,
+            82.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

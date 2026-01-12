@@ -1,0 +1,62 @@
+{
+    "title": "Number of active connections in millions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of active connections in millions"
+    },
+    "legend": {
+        "2016": "#f27979",
+        "2019*": "#79f200",
+        "2022*": "#52a5a5",
+        "2025*": "#5200a5"
+    },
+    "data": {
+        "2016": [
+            0.87
+        ],
+        "2019*": [
+            2.79
+        ],
+        "2022*": [
+            6.05
+        ],
+        "2025*": [
+            10.34
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2016": "#f27979",
+        "2019*": "#79f200",
+        "2022*": "#52a5a5",
+        "2025*": "#5200a5"
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Split of the expenses made by the government of Belgium",
+    "legend": {
+        "Miscellaneous expenses": "#BDB76B",
+        "Labor Taxes": "#66CDAA",
+        "Grants and Revenue": "#8A2BE2",
+        "Services": "#CD5C5C"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Expenses (in $)",
+    "data": [
+        {
+            "label": "Miscellaneous expenses",
+            "color": "#BDB76B",
+            "values": [
+                2868800000,
+                2590900000,
+                2624300000,
+                3956800000,
+                2194600000,
+                10767300000
+            ]
+        },
+        {
+            "label": "Labor Taxes",
+            "color": "#66CDAA",
+            "values": [
+                2463100000,
+                2364200000,
+                1092500000,
+                1080500000,
+                1639700000,
+                1122500000
+            ]
+        },
+        {
+            "label": "Grants and Revenue",
+            "color": "#8A2BE2",
+            "values": [
+                2678200000,
+                3538000000,
+                3200700000,
+                8225300000,
+                2812800000,
+                4027600000
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#CD5C5C",
+            "values": [
+                2824300000,
+                2939300000,
+                3058700000,
+                3015500000,
+                3140200000,
+                3213700000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 1080500000,
+                "max_value": 10767300000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

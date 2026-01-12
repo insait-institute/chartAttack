@@ -1,0 +1,54 @@
+{
+    "title": "Contributing female family workers in different countries",
+    "x_axis": {
+        "categories": [
+            "Colombia",
+            "Costa Rica",
+            "Croatia",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Contributing family workers": "#008B8B"
+    },
+    "data": {
+        "Contributing family workers": [
+            8.10000038146973,
+            3.5,
+            5.199999809265138,
+            6.199999809265139,
+            1.10000002384186,
+            1.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

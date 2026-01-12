@@ -1,0 +1,67 @@
+{
+    "title": "PPP conversion factor for GDP and private consumption in Djibouti",
+    "legend": {
+        "1990": "#f27979",
+        "1991": "#f2f200",
+        "1992": "#79f279",
+        "1993": "#00a5a5",
+        "1994": "#5252a5",
+        "1995": "#a500a5"
+    },
+    "categories": [
+        "PPP conversion factor for GDP and private consumption in Djibouti"
+    ],
+    "data": {
+        "1990": [
+            67.9196545506634
+        ],
+        "1991": [
+            70.201552311131
+        ],
+        "1992": [
+            70.9705746693167
+        ],
+        "1993": [
+            72.3713671744961
+        ],
+        "1994": [
+            75.4694199911411
+        ],
+        "1995": [
+            77.539665149188
+        ]
+    },
+    "colors": {
+        "1990": "#f27979",
+        "1991": "#f2f200",
+        "1992": "#79f279",
+        "1993": "#00a5a5",
+        "1994": "#5252a5",
+        "1995": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

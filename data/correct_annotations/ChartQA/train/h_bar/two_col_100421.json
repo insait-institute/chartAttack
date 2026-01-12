@@ -1,0 +1,60 @@
+{
+    "title": "Turnover in million EUR",
+    "legend": {
+        "Turnover": "#2876dd"
+    },
+    "categories": [
+        "Elisa Oyj",
+        "Telia Finland Oyj",
+        "Viria Oyj",
+        "Lounea Oy",
+        "Soumen Turvallisuusverkko Oy",
+        "Telia Carrier Finland Ab",
+        "Partnera Oy",
+        "MPY Osuuskunta",
+        "Kainuun Puhelinosuuskunta (KPO)",
+        "Vakka-Soumen Puhelin Oy"
+    ],
+    "data": {
+        "Turnover": [
+            1787.4,
+            1285.2,
+            108.96,
+            72.84,
+            44.72,
+            44,
+            38.47,
+            25.07,
+            22.42,
+            15.85
+        ]
+    },
+    "colors": {
+        "Turnover": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1790
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,72 @@
+{
+    "title": "CPIA ratings of different financial policies in the year 2006",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Comoros": "#f27979",
+        "Congo (Democratic)": "#f2f200",
+        "Congo (Republic)": "#79f279",
+        "Cote d'Ivoire": "#00a5a5",
+        "Djibouti": "#5252a5",
+        "Dominica": "#a500a5"
+    },
+    "data": {
+        "Comoros": [
+            2.5
+        ],
+        "Congo (Democratic)": [
+            2.0
+        ],
+        "Congo (Republic)": [
+            2.5
+        ],
+        "Cote d'Ivoire": [
+            3.0
+        ],
+        "Djibouti": [
+            3.5
+        ],
+        "Dominica": [
+            4.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Comoros": "#f27979",
+        "Congo (Democratic)": "#f2f200",
+        "Congo (Republic)": "#79f279",
+        "Cote d'Ivoire": "#00a5a5",
+        "Djibouti": "#5252a5",
+        "Dominica": "#a500a5"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Educated labor force (as % of total labor force) in different countries in 2009",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Iceland": "#f27979",
+        "Indonesia": "#f2f200",
+        "Ireland": "#79f279",
+        "Italy": "#00a5a5",
+        "Jordan": "#5252a5",
+        "Kazakhstan": "#a500a5"
+    },
+    "data": {
+        "Iceland": [
+            33.9000015258789
+        ],
+        "Indonesia": [
+            63.5
+        ],
+        "Ireland": [
+            21.0
+        ],
+        "Italy": [
+            35.9000015258789
+        ],
+        "Jordan": [
+            49.7999992370605
+        ],
+        "Kazakhstan": [
+            35.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Iceland": "#f27979",
+        "Indonesia": "#f2f200",
+        "Ireland": "#79f279",
+        "Italy": "#00a5a5",
+        "Jordan": "#5252a5",
+        "Kazakhstan": "#a500a5"
+    }
+}

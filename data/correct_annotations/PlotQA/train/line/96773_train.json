@@ -1,0 +1,111 @@
+{
+    "title": "Percentage of male workers employed in various sectors of El Salvador",
+    "legend": {
+        "Agriculture": "#8B008B",
+        "Industry": "#EE82EE",
+        "Services": "#F4A460",
+        "Self-employed": "#BC8F8F"
+    },
+    "x_axis": [
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "y_axis_label": "Employment (as % of male employment)",
+    "data": [
+        {
+            "label": "Agriculture",
+            "color": "#8B008B",
+            "values": [
+                11.8000001907349,
+                15.3999996185303,
+                11.3000001907349,
+                14.8999996185303,
+                47.7999992370605,
+                40.2999992370605,
+                38.7000007629395,
+                40.2999992370605,
+                38.0999984741211
+            ]
+        },
+        {
+            "label": "Industry",
+            "color": "#EE82EE",
+            "values": [
+                34.5,
+                32.2000007629395,
+                34.5999984741211,
+                32.7999992370605,
+                22.7999992370605,
+                25.7000007629395,
+                26.60000038146969,
+                25.2999992370605,
+                25.2000007629395
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#F4A460",
+            "values": [
+                53.7000007629395,
+                52.4000015258789,
+                54.0999984741211,
+                52.4000015258789,
+                29.39999961853031,
+                34.0,
+                34.7000007629395,
+                34.4000015258789,
+                36.5999984741211
+            ]
+        },
+        {
+            "label": "Self-employed",
+            "color": "#BC8F8F",
+            "values": [
+                39.5,
+                39.0999984741211,
+                37.7000007629395,
+                35.5999984741211,
+                39.2999992370605,
+                38.9000015258789,
+                39.7999992370605,
+                36.7999992370605,
+                34.4000015258789
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

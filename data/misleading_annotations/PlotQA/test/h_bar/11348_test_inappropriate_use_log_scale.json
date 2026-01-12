@@ -1,0 +1,55 @@
+{
+    "title": "Refugee population in 1998",
+    "legend": {
+        "Ghana": "#FFD700",
+        "Guatemala": "#FF7F50",
+        "Hong Kong": "#32CD32"
+    },
+    "categories": [
+        "By country of asylum",
+        "By country of origin"
+    ],
+    "data": {
+        "Ghana": [
+            14557,
+            13633
+        ],
+        "Guatemala": [
+            815,
+            32747
+        ],
+        "Hong Kong": [
+            1039,
+            42
+        ]
+    },
+    "colors": {
+        "Ghana": "#FFD700",
+        "Guatemala": "#FF7F50",
+        "Hong Kong": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 32750
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

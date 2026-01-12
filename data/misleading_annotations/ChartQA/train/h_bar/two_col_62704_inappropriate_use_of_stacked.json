@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Hines Ward": "#f27979",
+        "Antonio Brown": "#f24800",
+        "John Stallworth": "#f2c179",
+        "Heath Miller": "#f2da00",
+        "Louis Lipps": "#daf279",
+        "Lynn Swann": "#79f200",
+        "Elbie Nickel": "#91f279",
+        "Buddy Dial": "#00a510",
+        "Plaxico Burress": "#52a574",
+        "Mike Wallace": "#00a574",
+        "Ray Mathews": "#52a5a5",
+        "Santonio Holmes": "#0074a5",
+        "JuJu Smith-Schuster": "#5274a5",
+        "Roy Jefferson": "#0010a5",
+        "Yancey Thigpen": "#9179f2",
+        "Charles Johnson": "#7900f2",
+        "Ron Shanklin": "#da79f2",
+        "Gary Ballman": "#f200da",
+        "Bennie Cunningham": "#f279c1",
+        "Eric Green": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Hines Ward": [
+            12083.0
+        ],
+        "Antonio Brown": [
+            11207.0
+        ],
+        "John Stallworth": [
+            8723.0
+        ],
+        "Heath Miller": [
+            6569.0
+        ],
+        "Louis Lipps": [
+            6018.0
+        ],
+        "Lynn Swann": [
+            5462.0
+        ],
+        "Elbie Nickel": [
+            5131.0
+        ],
+        "Buddy Dial": [
+            4723.0
+        ],
+        "Plaxico Burress": [
+            4206.0
+        ],
+        "Mike Wallace": [
+            4042.0
+        ],
+        "Ray Mathews": [
+            3919.0
+        ],
+        "Santonio Holmes": [
+            3835.0
+        ],
+        "JuJu Smith-Schuster": [
+            3726.0
+        ],
+        "Roy Jefferson": [
+            3671.0
+        ],
+        "Yancey Thigpen": [
+            3651.0
+        ],
+        "Charles Johnson": [
+            3400.0
+        ],
+        "Ron Shanklin": [
+            3047.0
+        ],
+        "Gary Ballman": [
+            2949.0
+        ],
+        "Bennie Cunningham": [
+            2879.0
+        ],
+        "Eric Green": [
+            2681.0
+        ]
+    },
+    "colors": {
+        "Hines Ward": "#f27979",
+        "Antonio Brown": "#f24800",
+        "John Stallworth": "#f2c179",
+        "Heath Miller": "#f2da00",
+        "Louis Lipps": "#daf279",
+        "Lynn Swann": "#79f200",
+        "Elbie Nickel": "#91f279",
+        "Buddy Dial": "#00a510",
+        "Plaxico Burress": "#52a574",
+        "Mike Wallace": "#00a574",
+        "Ray Mathews": "#52a5a5",
+        "Santonio Holmes": "#0074a5",
+        "JuJu Smith-Schuster": "#5274a5",
+        "Roy Jefferson": "#0010a5",
+        "Yancey Thigpen": "#9179f2",
+        "Charles Johnson": "#7900f2",
+        "Ron Shanklin": "#da79f2",
+        "Gary Ballman": "#f200da",
+        "Bennie Cunningham": "#f279c1",
+        "Eric Green": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12090
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "Frameworks": "#2876dd"
+    },
+    "categories": [
+        "jQuery",
+        "React.js",
+        "Angular",
+        "ASP.NET",
+        "Express",
+        "ASP.NET Core",
+        "Vue.js",
+        "Spring",
+        "Angular.js",
+        "Django",
+        "Flask",
+        "Laravel",
+        "Ruby on Rails",
+        "Symfony",
+        "Gatsby",
+        "Drupal"
+    ],
+    "data": {
+        "Frameworks": [
+            43.3,
+            35.9,
+            25.1,
+            21.9,
+            21.2,
+            19.1,
+            17.3,
+            16.4,
+            16.1,
+            14.2,
+            14.2,
+            11.1,
+            7,
+            4.4,
+            4,
+            3.2
+        ]
+    },
+    "colors": {
+        "Frameworks": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

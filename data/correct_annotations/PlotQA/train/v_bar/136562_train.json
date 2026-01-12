@@ -1,0 +1,61 @@
+{
+    "title": "Mortality rate in different countries in 2007",
+    "x_axis": {
+        "categories": [
+            "Infant",
+            "Under five"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#483D8B",
+        "Croatia": "#228B22",
+        "Czech Republic": "#8B4513",
+        "Lao PDR": "#FF4500"
+    },
+    "data": {
+        "Australia": [
+            4.5,
+            5.4
+        ],
+        "Croatia": [
+            5.3,
+            6.2
+        ],
+        "Czech Republic": [
+            3.9,
+            4.7
+        ],
+        "Lao PDR": [
+            65.5,
+            89.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

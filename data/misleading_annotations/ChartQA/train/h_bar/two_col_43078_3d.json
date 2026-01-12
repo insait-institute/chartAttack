@@ -1,0 +1,52 @@
+{
+    "title": "",
+    "legend": {
+        "Share of students": "#2876dd"
+    },
+    "categories": [
+        "Female",
+        "Male",
+        "Black (non-Hispanic)",
+        "Hispanic",
+        "White (non-Hispanic)",
+        "Total"
+    ],
+    "data": {
+        "Share of students": [
+            26.1,
+            20.2,
+            12.1,
+            15.5,
+            29.7,
+            23.3
+        ]
+    },
+    "colors": {
+        "Share of students": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

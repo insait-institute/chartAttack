@@ -1,0 +1,62 @@
+{
+    "title": "Land under cereal production in hectares",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Finland": "#f27979",
+        "France": "#79f200",
+        "Gabon": "#52a5a5",
+        "Gambia, The": "#5200a5"
+    },
+    "data": {
+        "Finland": [
+            1029808.0
+        ],
+        "France": [
+            9140300.0
+        ],
+        "Gabon": [
+            5850.0
+        ],
+        "Gambia, The": [
+            83994.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9408120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Finland": "#f27979",
+        "France": "#79f200",
+        "Gabon": "#52a5a5",
+        "Gambia, The": "#5200a5"
+    }
+}

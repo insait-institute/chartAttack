@@ -1,0 +1,70 @@
+{
+    "title": "Percentage of population infected with HIV in Belize",
+    "legend": {
+        "Female": "#808000",
+        "Male": "#8FBC8F"
+    },
+    "x_axis": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "HIV infected population (in %)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#808000",
+            "values": [
+                1.3,
+                1.5,
+                1.5,
+                1.4,
+                1.3,
+                1.1
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#8FBC8F",
+            "values": [
+                1.2,
+                1.3,
+                1.3,
+                1.2,
+                1.1,
+                0.9
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

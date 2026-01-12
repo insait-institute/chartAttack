@@ -1,0 +1,60 @@
+{
+    "title": "Average number of rainy days per year",
+    "categories": [
+        "Rochester, New York",
+        "Buffalo, New York",
+        "Portland, Oregon",
+        "Cleveland, Ohio",
+        "Pittsburgh, Pennsylvania",
+        "Seattle, Washington",
+        "Columbus, Ohio",
+        "Cincinnati, Ohio",
+        "Miami, Florida",
+        "Detroit, Michigan"
+    ],
+    "data": {
+        "Rainy Days": [
+            167,
+            167,
+            164,
+            155,
+            151,
+            149,
+            139,
+            137,
+            135,
+            135
+        ]
+    },
+    "colors": {
+        "Rainy Days": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Rainy Days": "#2876dd"
+    }
+}

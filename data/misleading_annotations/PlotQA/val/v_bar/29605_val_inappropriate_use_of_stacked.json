@@ -1,0 +1,67 @@
+{
+    "title": "Time required to start a business",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Hong Kong": "#f27979",
+        "Hungary": "#c1f200",
+        "Iran": "#52a574",
+        "Ireland": "#0042a5",
+        "Israel": "#da79f2"
+    },
+    "data": {
+        "Hong Kong": [
+            11.0
+        ],
+        "Hungary": [
+            52.0
+        ],
+        "Iran": [
+            31.0
+        ],
+        "Ireland": [
+            18.0
+        ],
+        "Israel": [
+            19.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Hong Kong": "#f27979",
+        "Hungary": "#c1f200",
+        "Iran": "#52a574",
+        "Ireland": "#0042a5",
+        "Israel": "#da79f2"
+    }
+}

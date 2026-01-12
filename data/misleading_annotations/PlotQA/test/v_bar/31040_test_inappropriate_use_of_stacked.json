@@ -1,0 +1,72 @@
+{
+    "title": "Total amount collected by an economy from different taxes in 2006",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Antigua and Barbuda": "#f27979",
+        "Armenia": "#f2f200",
+        "Australia": "#79f279",
+        "Austria": "#00a5a5",
+        "Bahamas": "#5252a5",
+        "Bangladesh": "#a500a5"
+    },
+    "data": {
+        "Antigua and Barbuda": [
+            567600000.0
+        ],
+        "Armenia": [
+            382384726600.0
+        ],
+        "Australia": [
+            245218000000.0
+        ],
+        "Austria": [
+            50978040000.0
+        ],
+        "Bahamas": [
+            1143646000.0
+        ],
+        "Bangladesh": [
+            339724591000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1867468000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Antigua and Barbuda": "#f27979",
+        "Armenia": "#f2f200",
+        "Australia": "#79f279",
+        "Austria": "#00a5a5",
+        "Bahamas": "#5252a5",
+        "Bangladesh": "#a500a5"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Mortality rate in different countries in 1960",
+    "x_axis": {
+        "categories": [
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: nonOECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#CD5C5C",
+        "Male": "#FF1493"
+    },
+    "data": {
+        "Female": [
+            417.206736995662,
+            430.486941124772,
+            132.754501035402,
+            140.643132173333
+        ],
+        "Male": [
+            474.478845879413,
+            486.791957798015,
+            227.657868217502,
+            274.462814539875
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 490
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

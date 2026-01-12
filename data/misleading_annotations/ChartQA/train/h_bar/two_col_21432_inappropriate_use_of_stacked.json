@@ -1,0 +1,67 @@
+{
+    "title": "",
+    "legend": {
+        "18-34": "#f27979",
+        "35-44": "#f2f200",
+        "45-54": "#79f279",
+        "55-64": "#00a5a5",
+        "65+": "#5252a5",
+        "Total": "#a500a5"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "18-34": [
+            75.0
+        ],
+        "35-44": [
+            68.0
+        ],
+        "45-54": [
+            63.0
+        ],
+        "55-64": [
+            47.0
+        ],
+        "65+": [
+            32.0
+        ],
+        "Total": [
+            59.0
+        ]
+    },
+    "colors": {
+        "18-34": "#f27979",
+        "35-44": "#f2f200",
+        "45-54": "#79f279",
+        "55-64": "#00a5a5",
+        "65+": "#5252a5",
+        "Total": "#a500a5"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

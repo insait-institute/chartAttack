@@ -1,0 +1,76 @@
+{
+    "title": "Comparison between mobile cellular and fixed telephone subscriptions in Latin America(developing only)",
+    "legend": {
+        "Mobile cellular": "#4169E1",
+        "Fixed telephone": "#00FA9A"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "No. of subscribers (per 100 people)",
+    "data": [
+        {
+            "label": "Mobile cellular",
+            "color": "#4169E1",
+            "values": [
+                0.349454781702174,
+                0.63624496916208,
+                1.12830422857977,
+                2.08775926493742,
+                3.4750169473493,
+                6.6981174878776,
+                10.5680441733519,
+                14.310801984207
+            ]
+        },
+        {
+            "label": "Fixed telephone",
+            "color": "#00FA9A",
+            "values": [
+                7.27041189166667,
+                7.725956634633559,
+                8.44678188492319,
+                9.275974482634721,
+                10.3278255546641,
+                11.8133917283569,
+                13.5619071060018,
+                15.2511103396257
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

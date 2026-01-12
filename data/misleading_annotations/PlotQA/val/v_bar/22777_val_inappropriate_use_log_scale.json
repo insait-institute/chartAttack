@@ -1,0 +1,63 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy(residual) in 2014",
+    "x_axis": {
+        "categories": [
+            "Cambodia",
+            "Cameroon",
+            "Canada",
+            "Central African Republic",
+            "Chad",
+            "Chile"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#D2B48C",
+        "Merchandise imports": "#6495ED"
+    },
+    "data": {
+        "Merchandise exports": [
+            0.249889365873582,
+            3.08543177088965,
+            0.0220480700541482,
+            0.126069138118552,
+            5.659469800701372,
+            0.442694507100181
+        ],
+        "Merchandise imports": [
+            0.127425627243727,
+            0.432508182262942,
+            0.7115731525148621,
+            31.7287441410397,
+            29.7606607939468,
+            3.6196273368718
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

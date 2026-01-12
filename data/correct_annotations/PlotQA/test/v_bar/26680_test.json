@@ -1,0 +1,56 @@
+{
+    "title": "Export and external balance on goods as percent of GDP for different countries",
+    "x_axis": {
+        "categories": [
+            "Exports of goods",
+            "External balance on goods"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Denmark": "#40E0D0",
+        "France": "#483D8B",
+        "Niger": "#66CDAA"
+    },
+    "data": {
+        "Denmark": [
+            27.6631535297528,
+            -2.0335719982006
+        ],
+        "France": [
+            13.1742493206123,
+            -0.287243521717774
+        ],
+        "Niger": [
+            7.97759855918966,
+            -6.3351281737664
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

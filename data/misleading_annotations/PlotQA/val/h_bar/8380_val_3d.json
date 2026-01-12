@@ -1,0 +1,60 @@
+{
+    "title": "CO2 emissions from electricity and heat production",
+    "legend": {
+        "Denmark": "#4169E1",
+        "Libya": "#808000",
+        "Malta": "#40E0D0"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Denmark": [
+            52.13310580204779,
+            51.414695945946,
+            48.1578321844545
+        ],
+        "Libya": [
+            49.918533604888,
+            49.1774383078731,
+            52.74787535410771
+        ],
+        "Malta": [
+            75.10204081632651,
+            74.49392712550609,
+            76.5182186234818
+        ]
+    },
+    "colors": {
+        "Denmark": "#4169E1",
+        "Libya": "#808000",
+        "Malta": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

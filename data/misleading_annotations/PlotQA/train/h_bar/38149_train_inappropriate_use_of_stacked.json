@@ -1,0 +1,52 @@
+{
+    "title": "Net bilateral aid flow from DA Committee",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#00f200",
+        "2006": "#5252a5"
+    },
+    "categories": [
+        "Net bilateral aid flow from DA Committee"
+    ],
+    "data": {
+        "2004": [
+            227820000.0
+        ],
+        "2005": [
+            250650000.0
+        ],
+        "2006": [
+            479110000.0
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#00f200",
+        "2006": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 530940000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

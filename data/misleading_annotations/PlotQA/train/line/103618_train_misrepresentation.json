@@ -1,0 +1,64 @@
+{
+    "title": "Customs and other import duties (as % of tax revenue) of Georgia",
+    "legend": {
+        "Customs and other import duties": "#90EE90"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "% of tax revenue",
+    "data": [
+        {
+            "label": "Customs and other import duties",
+            "color": "#90EE90",
+            "values": [
+                8.96284557140342,
+                11.0078034202225,
+                13.5137906285246,
+                8.825410360264339
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Customs and other import duties",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

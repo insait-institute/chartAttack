@@ -1,0 +1,67 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in South Asia",
+    "legend": {
+        "1973": "#f27979",
+        "1974": "#f2f200",
+        "1975": "#79f279",
+        "1976": "#00a5a5",
+        "1977": "#5252a5",
+        "1978": "#a500a5"
+    },
+    "categories": [
+        "Gross intake ratio in Grade 1 of primary education in South Asia"
+    ],
+    "data": {
+        "1973": [
+            84.7289962768555
+        ],
+        "1974": [
+            83.495849609375
+        ],
+        "1975": [
+            83.9300079345703
+        ],
+        "1976": [
+            84.4873809814453
+        ],
+        "1977": [
+            88.3310394287109
+        ],
+        "1978": [
+            82.1822204589844
+        ]
+    },
+    "colors": {
+        "1973": "#f27979",
+        "1974": "#f2f200",
+        "1975": "#79f279",
+        "1976": "#00a5a5",
+        "1977": "#5252a5",
+        "1978": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

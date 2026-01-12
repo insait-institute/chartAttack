@@ -1,0 +1,77 @@
+{
+    "title": "Methane emissions from agricultural activities and animals",
+    "x_axis": {
+        "categories": [
+            "Argentina",
+            "Armenia",
+            "Australia",
+            "Austria"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#db7093",
+        "2000": "#db7086",
+        "2005": "#dd7881",
+        "2008": "#d76d6a"
+    },
+    "data": {
+        "1990": [
+            78220.7,
+            1250.4,
+            75597.3,
+            4973.8
+        ],
+        "2000": [
+            71632.1,
+            903.1,
+            78549.8,
+            4433.9
+        ],
+        "2005": [
+            71851.1,
+            1086.0,
+            70118.6,
+            4138.3
+        ],
+        "2008": [
+            71915.2,
+            1161.5,
+            69452.0,
+            3982.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 78550
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1990": "#db7093",
+        "2000": "#db7086",
+        "2005": "#dd7881",
+        "2008": "#d76d6a"
+    }
+}

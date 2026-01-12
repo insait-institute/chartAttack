@@ -1,0 +1,67 @@
+{
+    "title": "Total unemployed labor force of Malaysia",
+    "legend": {
+        "Unemployment total": "#FFD700"
+    },
+    "x_axis": [
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+    ],
+    "y_axis_label": "Unemployed laborers (% of total labor force)",
+    "data": [
+        {
+            "label": "Unemployment total",
+            "color": "#FFD700",
+            "values": [
+                3.40000009536743,
+                3.79999995231628,
+                5.0,
+                5.599999904632571,
+                7.400000095367429
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Unemployment total",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "title": "External debt owed to nonresidents by residents of a country",
+    "x_axis": {
+        "categories": [
+            "Colombia",
+            "Comoros",
+            "Congo (Democratic)",
+            "Congo (Republic)",
+            "Costa Rica"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#008B8B",
+        "1971": "#A0522D",
+        "1972": "#A52A2A"
+    },
+    "data": {
+        "1970": [
+            162241000.0,
+            -48000.0,
+            40179000.0,
+            12550000.0,
+            61484000.0
+        ],
+        "1971": [
+            281081000.0,
+            -8000.0,
+            176847000.0,
+            16718000.0,
+            49897000.0
+        ],
+        "1972": [
+            323949000.0,
+            248000.0,
+            265148000.0,
+            17937000.0,
+            68312000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 323949000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

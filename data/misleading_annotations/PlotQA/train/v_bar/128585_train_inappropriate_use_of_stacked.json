@@ -1,0 +1,57 @@
+{
+    "title": "Electricity produced from renewable sources in countries in 1993",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Hydroelectric sources": "#f27979",
+        "Nuclear sources": "#00f200",
+        "Renewable sources": "#5252a5"
+    },
+    "data": {
+        "Hydroelectric sources": [
+            38.7602312589321
+        ],
+        "Nuclear sources": [
+            12.5860724957776
+        ],
+        "Renewable sources": [
+            0.1737690009094451
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Hydroelectric sources": "#f27979",
+        "Nuclear sources": "#00f200",
+        "Renewable sources": "#5252a5"
+    }
+}

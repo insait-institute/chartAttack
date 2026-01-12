@@ -1,0 +1,62 @@
+{
+    "title": "Net enrollment of females recorded in primary and secondary education in year 2001",
+    "legend": {
+        "North America": "#f27979",
+        "OECD members": "#c1f200",
+        "Other small states": "#52a574",
+        "Pacific island small states": "#0042a5",
+        "Small states": "#da79f2"
+    },
+    "categories": [
+        "Net enrollment of females recorded in primary and secondary education in year 2001"
+    ],
+    "data": {
+        "North America": [
+            96.86681365966801
+        ],
+        "OECD members": [
+            96.7782669067383
+        ],
+        "Other small states": [
+            77.6270217895508
+        ],
+        "Pacific island small states": [
+            88.43084716796879
+        ],
+        "Small states": [
+            81.67637634277341
+        ]
+    },
+    "colors": {
+        "North America": "#f27979",
+        "OECD members": "#c1f200",
+        "Other small states": "#52a574",
+        "Pacific island small states": "#0042a5",
+        "Small states": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

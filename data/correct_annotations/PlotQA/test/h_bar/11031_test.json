@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of urban population using sanitaion services",
+    "legend": {
+        "Arab World": "#A020F0",
+        "Europe(all income levels)": "#191970",
+        "Bhutan": "#BEBEBE"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Arab World": [
+            88.52565797502943,
+            88.6808350013344,
+            88.8466102222761
+        ],
+        "Europe(all income levels)": [
+            94.17825318593607,
+            94.2943619053393,
+            94.36319211683279
+        ],
+        "Bhutan": [
+            69.0,
+            70.7,
+            72.5
+        ]
+    },
+    "colors": {
+        "Arab World": "#A020F0",
+        "Europe(all income levels)": "#191970",
+        "Bhutan": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

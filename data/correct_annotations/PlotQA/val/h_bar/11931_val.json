@@ -1,0 +1,77 @@
+{
+    "title": "Net incurrence of foreign liabilities",
+    "legend": {
+        "Grenada": "#40E0D0",
+        "Sri Lanka": "#4169E1",
+        "St. Lucia": "#BC8F8F",
+        "Tunisia": "#4682B4"
+    },
+    "categories": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Grenada": [
+            19.5145731089457,
+            1.2345294503267,
+            10.3670812221559,
+            6.09853593592926,
+            2.20572640509014
+        ],
+        "Sri Lanka": [
+            0.120901911142596,
+            2.36305932394972,
+            1.77301860830164,
+            1.94770672648446,
+            1.42713735418623
+        ],
+        "St. Lucia": [
+            10.3408970695542,
+            10.9315246670558,
+            2.03322552786145,
+            3.90839033473281,
+            3.18087975859661
+        ],
+        "Tunisia": [
+            2.07620344423034,
+            2.28420871109,
+            0.532459975385313,
+            0.7554154426691508,
+            -2.06915994466505
+        ]
+    },
+    "colors": {
+        "Grenada": "#40E0D0",
+        "Sri Lanka": "#4169E1",
+        "St. Lucia": "#BC8F8F",
+        "Tunisia": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

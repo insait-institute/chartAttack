@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Reach": "#2876dd"
+    },
+    "categories": [
+        "American Samoa",
+        "Bermuda",
+        "Iceland",
+        "Cayman Islands",
+        "Andorra",
+        "U.S. Virgin Islands",
+        "Netherlands",
+        "United States",
+        "Ireland",
+        "Singapore",
+        "Aruba",
+        "New Zealand",
+        "UAE",
+        "Australia",
+        "Denmark",
+        "Malta",
+        "Canada",
+        "United Kingdom",
+        "Luxembourg",
+        "Curacao"
+    ],
+    "data": {
+        "Reach": [
+            103,
+            100.7,
+            94.9,
+            85.9,
+            81.8,
+            74.8,
+            67,
+            65.7,
+            64,
+            61.9,
+            61.7,
+            61.7,
+            60.6,
+            60.5,
+            60.1,
+            60,
+            58.4,
+            57.5,
+            56.4,
+            56.1
+        ]
+    },
+    "colors": {
+        "Reach": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

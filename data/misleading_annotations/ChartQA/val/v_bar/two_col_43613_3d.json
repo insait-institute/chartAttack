@@ -1,0 +1,52 @@
+{
+    "title": "Net banking income value in billion euros",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013"
+        ]
+    },
+    "y_axis": {
+        "label": "Net banking income value in billion euros"
+    },
+    "legend": {
+        "Net Banking Income": "#2876dd"
+    },
+    "data": {
+        "Net Banking Income": [
+            717,
+            707,
+            717,
+            704,
+            700
+        ]
+    },
+    "type": "v_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": true,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 720
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

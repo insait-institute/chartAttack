@@ -1,0 +1,67 @@
+{
+    "title": "CO2 emissions from different fuel consumption in New Zealand",
+    "legend": {
+        "1982": "#f27979",
+        "1983": "#f2f200",
+        "1984": "#79f279",
+        "1985": "#00a5a5",
+        "1986": "#5252a5",
+        "1987": "#a500a5"
+    },
+    "categories": [
+        "CO2 emissions from different fuel consumption in New Zealand"
+    ],
+    "data": {
+        "1982": [
+            21.1901889827101
+        ],
+        "1983": [
+            23.3517044294754
+        ],
+        "1984": [
+            29.0193842645382
+        ],
+        "1985": [
+            31.5338042381433
+        ],
+        "1986": [
+            36.0083293288483
+        ],
+        "1987": [
+            32.851711026616
+        ]
+    },
+    "colors": {
+        "1982": "#f27979",
+        "1983": "#f2f200",
+        "1984": "#79f279",
+        "1985": "#00a5a5",
+        "1986": "#5252a5",
+        "1987": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

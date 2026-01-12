@@ -1,0 +1,72 @@
+{
+    "title": "Split of the expenses (in %) made by the government of Caribbean small states",
+    "legend": {
+        "Compensation of employees": "#F4A460",
+        "Goods and services": "#8A2BE2",
+        "Subsidies and Transfers": "#0000FF",
+        "Other expenses": "#B8860B"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "Compensation of employees": [
+            23.6091889600492,
+            23.6181683043422,
+            19.1943427443194,
+            20.9753234560515
+        ],
+        "Goods and services": [
+            11.738365771761,
+            13.6857857633513,
+            11.69204762525569,
+            12.4288199715372
+        ],
+        "Subsidies and Transfers": [
+            20.3109089979247,
+            21.5594872476108,
+            21.357396964299,
+            23.4405364677888
+        ],
+        "Other expenses": [
+            24.8374028506072,
+            21.7565216815344,
+            27.1265614672807,
+            16.3123198848554
+        ]
+    },
+    "colors": {
+        "Compensation of employees": "#F4A460",
+        "Goods and services": "#8A2BE2",
+        "Subsidies and Transfers": "#0000FF",
+        "Other expenses": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

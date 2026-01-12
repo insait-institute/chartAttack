@@ -1,0 +1,62 @@
+{
+    "title": "Balance of payments for transport services (% of service imports)",
+    "legend": {
+        "Kosovo": "#f27979",
+        "Kuwait": "#c1f200",
+        "Kyrgyz Republic": "#52a574",
+        "Latvia": "#0042a5",
+        "Lithuania": "#da79f2"
+    },
+    "categories": [
+        "Balance of payments for transport services (% of service imports)"
+    ],
+    "data": {
+        "Kosovo": [
+            27.5938260419199
+        ],
+        "Kuwait": [
+            30.3572130300316
+        ],
+        "Kyrgyz Republic": [
+            43.40552077805389
+        ],
+        "Latvia": [
+            31.6517259653413
+        ],
+        "Lithuania": [
+            43.6595114973046
+        ]
+    },
+    "colors": {
+        "Kosovo": "#f27979",
+        "Kuwait": "#c1f200",
+        "Kyrgyz Republic": "#52a574",
+        "Latvia": "#0042a5",
+        "Lithuania": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

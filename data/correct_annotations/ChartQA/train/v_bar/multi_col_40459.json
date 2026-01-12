@@ -1,0 +1,72 @@
+{
+    "title": "Installed base in millions",
+    "x_axis": {
+        "categories": [
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022"
+        ]
+    },
+    "y_axis": {
+        "label": "Installed base in millions"
+    },
+    "legend": {
+        "Desktop PCs": "#2876dd",
+        "Mobile PCs": "#0f283e",
+        "Tablets": "#bababa"
+    },
+    "data": {
+        "Desktop PCs": [
+            89.64,
+            84.46,
+            78.9,
+            73.16,
+            67.4,
+            61.76
+        ],
+        "Mobile PCs": [
+            218.85,
+            225.26,
+            231.67,
+            237.2,
+            241.42,
+            244.43
+        ],
+        "Tablets": [
+            173.56,
+            178.51,
+            180.57,
+            181.57,
+            182.27,
+            183.11
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 250
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

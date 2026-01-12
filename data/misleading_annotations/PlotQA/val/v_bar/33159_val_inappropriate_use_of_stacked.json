@@ -1,0 +1,72 @@
+{
+    "title": "Total labor force participation rate in the year 2011",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Montenegro": "#f27979",
+        "Morocco": "#f2f200",
+        "Netherlands": "#79f279",
+        "New Zealand": "#00a5a5",
+        "Norway": "#5252a5",
+        "Panama": "#a500a5"
+    },
+    "data": {
+        "Montenegro": [
+            20.8999996185303
+        ],
+        "Morocco": [
+            35.0
+        ],
+        "Netherlands": [
+            68.8000030517578
+        ],
+        "New Zealand": [
+            59.5999984741211
+        ],
+        "Norway": [
+            55.5999984741211
+        ],
+        "Panama": [
+            44.0999984741211
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Montenegro": "#f27979",
+        "Morocco": "#f2f200",
+        "Netherlands": "#79f279",
+        "New Zealand": "#00a5a5",
+        "Norway": "#5252a5",
+        "Panama": "#a500a5"
+    }
+}

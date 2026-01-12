@@ -1,0 +1,50 @@
+{
+    "title": "Unadjusted gender gap in average hourly wages, 1981 to 2016",
+    "legend": {
+        "bars": "#2e5778"
+    },
+    "categories": [
+        "Slovakia",
+        "Vietnam",
+        "Italy",
+        "Nicaragua",
+        "Guatemala"
+    ],
+    "data": {
+        "bars": [
+            19.1,
+            10.71,
+            6.12,
+            2.62,
+            0.68
+        ]
+    },
+    "colors": {
+        "bars": "#2e5778"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

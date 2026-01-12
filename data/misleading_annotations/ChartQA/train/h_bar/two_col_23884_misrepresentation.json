@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Country Reserves": "#2876dd"
+    },
+    "categories": [
+        "United States",
+        "China",
+        "India",
+        "Australia",
+        "Russia*",
+        "Ukraine*",
+        "Indonesia",
+        "Kazakhstan",
+        "Poland",
+        "South Africa"
+    ],
+    "data": {
+        "Country Reserves": [
+            219534,
+            133467,
+            100858,
+            72571,
+            71719,
+            32039,
+            28163,
+            25605,
+            21067,
+            9893
+        ]
+    },
+    "colors": {
+        "Country Reserves": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 219540
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Country Reserves": [
+            2.0,
+            2.0,
+            1.75,
+            1.25,
+            1.75,
+            1.75,
+            0.75,
+            0.25,
+            2.0,
+            1.75
+        ]
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Prevalence of severe wasting among children of Korea (Republic) with age under 5 years",
+    "legend": {
+        "Prevalence of severe wasting": "#5F9EA0"
+    },
+    "x_axis": [
+        "2003",
+        "2010"
+    ],
+    "y_axis_label": " % of children under 5",
+    "data": [
+        {
+            "label": "Prevalence of severe wasting",
+            "color": "#5F9EA0",
+            "values": [
+                0.200000002980232,
+                0.100000001490116
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

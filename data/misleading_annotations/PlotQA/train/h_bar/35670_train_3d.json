@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of female workers employed in Private sector",
+    "legend": {
+        "1980": "#708090",
+        "1981": "#B8860B"
+    },
+    "categories": [
+        "France",
+        "Hong Kong",
+        "Israel",
+        "Italy",
+        "Norway",
+        "Portugal"
+    ],
+    "data": {
+        "1980": [
+            70.5,
+            42.5999984741211,
+            79.4000015258789,
+            56.2999992370605,
+            80.3000030517578,
+            39.5
+        ],
+        "1981": [
+            71.599998474121,
+            45.0999984741211,
+            80.4000015258789,
+            57.7999992370605,
+            81.0,
+            41.0999984741211
+        ]
+    },
+    "colors": {
+        "1980": "#708090",
+        "1981": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

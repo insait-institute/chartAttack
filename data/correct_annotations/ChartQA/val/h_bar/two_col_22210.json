@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Jamaal Charles",
+        "Priest Holmes",
+        "Larry Johnson",
+        "Christian Okoye",
+        "Ed Podolak",
+        "Abner Haynes",
+        "Marcus Allen",
+        "Mike Garrett",
+        "Curtis McClinton",
+        "Herman Heard",
+        "Wendell Hayes",
+        "Greg Hill",
+        "Ted McKnight",
+        "Barry Word",
+        "Kimble Anders",
+        "Tony Reed",
+        "Kareem Hunt",
+        "Donnell Bennett",
+        "Robert Holmes",
+        "Alex Smith"
+    ],
+    "data": {
+        "Players": [
+            7260,
+            6070,
+            6015,
+            4897,
+            4451,
+            3814,
+            3698,
+            3246,
+            3124,
+            2694,
+            2560,
+            2436,
+            2344,
+            2306,
+            2261,
+            2184,
+            2151,
+            1902,
+            1719,
+            1672
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7260
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

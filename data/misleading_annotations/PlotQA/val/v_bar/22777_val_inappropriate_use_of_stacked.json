@@ -1,0 +1,72 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy(residual) in 2014",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cambodia": "#f27979",
+        "Cameroon": "#f2f200",
+        "Canada": "#79f279",
+        "Central African Republic": "#00a5a5",
+        "Chad": "#5252a5",
+        "Chile": "#a500a5"
+    },
+    "data": {
+        "Cambodia": [
+            0.249889365873582
+        ],
+        "Cameroon": [
+            3.08543177088965
+        ],
+        "Canada": [
+            0.0220480700541482
+        ],
+        "Central African Republic": [
+            0.126069138118552
+        ],
+        "Chad": [
+            5.659469800701372
+        ],
+        "Chile": [
+            0.442694507100181
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Cambodia": "#f27979",
+        "Cameroon": "#f2f200",
+        "Canada": "#79f279",
+        "Central African Republic": "#00a5a5",
+        "Chad": "#5252a5",
+        "Chile": "#a500a5"
+    }
+}

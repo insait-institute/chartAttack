@@ -1,0 +1,52 @@
+{
+    "title": "Split of tax revenue collected by government in 1991",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Taxes on exports": "#f27979",
+        "Taxes on profits and capital gains": "#00a5a5"
+    },
+    "data": {
+        "Taxes on exports": [
+            4.71364221364222
+        ],
+        "Taxes on profits and capital gains": [
+            33.86422136422139
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Taxes on exports": "#f27979",
+        "Taxes on profits and capital gains": "#00a5a5"
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "title": "PPP conversion factor for GDP and private consumption in Congo (Republic)",
+    "legend": {
+        "GDP": "#4169E1",
+        " Private consumption": "#7FFFD4"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "y_axis_label": "PPP conversion factor (LCU per international $)",
+    "data": [
+        {
+            "label": "GDP",
+            "color": "#4169E1",
+            "values": [
+                130.871881422104,
+                135.057524654621,
+                109.261454706621,
+                139.205240076496,
+                200.133424939564,
+                168.426163565161,
+                162.995175563098,
+                153.014186528194
+            ]
+        },
+        {
+            "label": " Private consumption",
+            "color": "#7FFFD4",
+            "values": [
+                250.316305333502,
+                275.028807064563,
+                280.289535455846,
+                268.742359617668,
+                261.502325068481,
+                268.691353692464,
+                261.067168180713,
+                260.437949335832
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 100,
+                "max_value": 290
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

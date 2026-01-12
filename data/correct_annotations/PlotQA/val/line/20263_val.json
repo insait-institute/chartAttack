@@ -1,0 +1,86 @@
+{
+    "title": "Mineral rent as percent of GDP towards fuel resources of Euro area",
+    "legend": {
+        "Coal": "#4682B4",
+        "Natural Gas": "#32CD32",
+        "Oil": "#C71585",
+        "Other Minerals": "#ADFF2F"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "Mineral Rent(as % of GDP)",
+    "data": [
+        {
+            "label": "Coal",
+            "color": "#4682B4",
+            "values": [
+                0.000209192394630613,
+                0.000106248915549003,
+                0.000215054157243903,
+                0.000419935355745358
+            ]
+        },
+        {
+            "label": "Natural Gas",
+            "color": "#32CD32",
+            "values": [
+                0.0801039276461868,
+                0.0638402776061728,
+                0.179680728571013,
+                0.1736032703466731
+            ]
+        },
+        {
+            "label": "Oil",
+            "color": "#C71585",
+            "values": [
+                0.0118751573799887,
+                0.0157427250143707,
+                0.0313181521160651,
+                0.0241867678346173
+            ]
+        },
+        {
+            "label": "Other Minerals",
+            "color": "#ADFF2F",
+            "values": [
+                0.000270210475290452,
+                0.00024509609013583,
+                0.000715726603104847,
+                0.000371903867787726
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Net national savings in current US dollars",
+    "legend": {
+        "Lithuania": "#ffa07a",
+        "Malawi": "#ffb07a",
+        "Mongolia": "#ffc584",
+        "St. Lucia": "#fecc71"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Lithuania": [
+            789851286.503451,
+            1067870988.5537,
+            1533230889.67908,
+            2071939211.58432,
+            2792693547.7055
+        ],
+        "Malawi": [
+            236814877.976235,
+            450907659.307996,
+            496624850.6697611,
+            -76645771.32003741,
+            -230259489.628091
+        ],
+        "Mongolia": [
+            1435557240.76372,
+            907813563.1235199,
+            1477221221.1736,
+            2605663284.52829,
+            2679847977.90621
+        ],
+        "St. Lucia": [
+            -10734404.1597726,
+            158815425.850121,
+            95895769.6156147,
+            64373868.4034822,
+            114404312.382933
+        ]
+    },
+    "colors": {
+        "Lithuania": "#FFA07A",
+        "Malawi": "#C71585",
+        "Mongolia": "#66CDAA",
+        "St. Lucia": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2792693550
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Lithuania": "#ffa07a",
+        "Malawi": "#ffb07a",
+        "Mongolia": "#ffc584",
+        "St. Lucia": "#fecc71"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "title": "Net enrollment of males recorded in primary and secondary education in year 1979",
+    "x_axis": {
+        "categories": [
+            "Ecuador",
+            "France",
+            "Gambia, The",
+            "Greece",
+            "Guyana",
+            "Honduras"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary": "#40E0D0",
+        "Secondary": "#DB7093"
+    },
+    "data": {
+        "Primary": [
+            91.32721,
+            97.25155,
+            50.55522,
+            94.43937,
+            93.61705,
+            75.75649
+        ],
+        "Secondary": [
+            61.76337,
+            82.98173,
+            73.2483,
+            11.66085,
+            70.16269,
+            51.90666
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

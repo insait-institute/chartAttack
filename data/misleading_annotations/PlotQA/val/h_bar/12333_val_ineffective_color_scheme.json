@@ -1,0 +1,78 @@
+{
+    "title": "Adjusted net savings excluding particulate emission damage",
+    "legend": {
+        "Comoros": "#708090",
+        "Kiribati": "#707c90",
+        "Senegal": "#767e94",
+        "Tonga": "#6e7288"
+    },
+    "categories": [
+        "1982",
+        "1983",
+        "1984",
+        "1985"
+    ],
+    "data": {
+        "Comoros": [
+            1658325.05788645,
+            5001364.77757486,
+            19062050.65101489,
+            21274688.1721457
+        ],
+        "Kiribati": [
+            15872737.054967,
+            24248166.2936572,
+            18947261.7503774,
+            5857676.76465916
+        ],
+        "Senegal": [
+            198974688.745104,
+            129359038.511541,
+            112602082.786642,
+            137846374.604853
+        ],
+        "Tonga": [
+            28097607.5409868,
+            10742724.7776166,
+            10944357.5991689,
+            14912950.0214249
+        ]
+    },
+    "colors": {
+        "Comoros": "#708090",
+        "Kiribati": "#008080",
+        "Senegal": "#000000",
+        "Tonga": "#6A5ACD"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 198974690
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Comoros": "#708090",
+        "Kiribati": "#707c90",
+        "Senegal": "#767e94",
+        "Tonga": "#6e7288"
+    }
+}

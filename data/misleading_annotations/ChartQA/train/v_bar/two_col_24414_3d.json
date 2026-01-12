@@ -1,0 +1,46 @@
+{
+    "title": "Revenue losses in million euros",
+    "x_axis": {
+        "categories": [
+            "2 to 4 months",
+            "6 months"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue losses in million euros"
+    },
+    "legend": {
+        "default": "#2876dd"
+    },
+    "data": {
+        "default": [
+            39000,
+            62400
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 62400
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,98 @@
+{
+    "title": "",
+    "legend": {
+        "Female": "#2876dd",
+        "Male": "#0f283e"
+    },
+    "categories": [
+        "Under 5",
+        "5 to 9",
+        "10 to 14",
+        "15 to 19",
+        "20 to 24",
+        "25 to 29",
+        "30 to 34",
+        "35 to 39",
+        "40 to 44",
+        "45 to 49",
+        "50 to 54",
+        "55 to 59",
+        "60 to 64",
+        "65 to 69",
+        "70 to 74",
+        "75 to 79",
+        "80 to 84",
+        "85 and over"
+    ],
+    "data": {
+        "Female": [
+            10.01,
+            10.32,
+            10.62,
+            10.75,
+            11.06,
+            12,
+            11.35,
+            10.88,
+            9.91,
+            10.09,
+            10.09,
+            10.64,
+            9.86,
+            8.2,
+            6.5,
+            4.32,
+            2.68,
+            2.38
+        ],
+        "Male": [
+            9.57,
+            9.87,
+            10.18,
+            10.31,
+            10.57,
+            11.5,
+            11.08,
+            10.85,
+            10.01,
+            10.31,
+            10.39,
+            11.23,
+            10.71,
+            9.26,
+            7.53,
+            5.33,
+            3.64,
+            4.23
+        ]
+    },
+    "colors": {
+        "Female": "#2876dd",
+        "Male": "#0f283e"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "Rai": "#2876dd",
+        "Mediaset": "#2876dd",
+        "Sky": "#2876dd",
+        "Discovery": "#2876dd",
+        "La7": "#2876dd",
+        "MTV-Viacom": "#2876dd",
+        "Fox": "#2876dd"
+    },
+    "categories": [
+        "Rai",
+        "Mediaset",
+        "Sky",
+        "Discovery",
+        "La7",
+        "MTV-Viacom",
+        "Fox"
+    ],
+    "data": {
+        "Prime time audience share": [
+            36.6,
+            33.6,
+            6.4,
+            5.9,
+            5.5,
+            2.1,
+            0.8
+        ]
+    },
+    "colors": {
+        "Rai": "#2876dd",
+        "Mediaset": "#2876dd",
+        "Sky": "#2876dd",
+        "Discovery": "#2876dd",
+        "La7": "#2876dd",
+        "MTV-Viacom": "#2876dd",
+        "Fox": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

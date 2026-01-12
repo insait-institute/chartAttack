@@ -1,0 +1,54 @@
+{
+    "title": "",
+    "legend": {
+        "Product": "#2876dd"
+    },
+    "categories": [
+        "Icy Hot Smart Relief",
+        "Omron Electro Therapy",
+        "Aleve Direct Therapy",
+        "Private label",
+        "Accurelief",
+        "Wahl",
+        "Quell"
+    ],
+    "data": {
+        "Product": [
+            32.9,
+            20,
+            8.9,
+            5,
+            2.3,
+            0.4,
+            0.2
+        ]
+    },
+    "colors": {
+        "Product": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

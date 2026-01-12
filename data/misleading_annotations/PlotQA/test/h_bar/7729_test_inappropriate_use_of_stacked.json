@@ -1,0 +1,57 @@
+{
+    "title": "Cost of communications and computers with respect to service exports",
+    "legend": {
+        "France": "#f27979",
+        "Georgia": "#79f200",
+        "Germany": "#52a5a5",
+        "Greece": "#5200a5"
+    },
+    "categories": [
+        "Cost of communications and computers with respect to service exports"
+    ],
+    "data": {
+        "France": [
+            48.2261721153419
+        ],
+        "Georgia": [
+            17.9176572419502
+        ],
+        "Germany": [
+            52.8014456813825
+        ],
+        "Greece": [
+            8.84061696382109
+        ]
+    },
+    "colors": {
+        "France": "#f27979",
+        "Georgia": "#79f200",
+        "Germany": "#52a5a5",
+        "Greece": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

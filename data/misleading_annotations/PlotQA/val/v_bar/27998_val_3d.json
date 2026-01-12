@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of total population who survived till the age of 65 years",
+    "x_axis": {
+        "categories": [
+            "Age 65(female)",
+            "Age 65(male)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cameroon": "#5F9EA0",
+        "Poland": "#0000FF",
+        "St. Lucia": "#CD853F"
+    },
+    "data": {
+        "Cameroon": [
+            49.34461,
+            44.34245
+        ],
+        "Poland": [
+            84.47551,
+            64.30813
+        ],
+        "St. Lucia": [
+            75.78072,
+            68.28761
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

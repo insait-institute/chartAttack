@@ -1,0 +1,72 @@
+{
+    "title": "Global emissions of Perfluorocarbons",
+    "legend": {
+        "1990": "#FFD700",
+        "2000": "#A52A2A",
+        "2005": "#FF8C00",
+        "2008": "#DAA520"
+    },
+    "categories": [
+        "Belarus",
+        "Belgium",
+        "Bosnia and Herzegovina",
+        "Brazil"
+    ],
+    "data": {
+        "1990": [
+            2.6,
+            2.9,
+            616.7,
+            4958.1
+        ],
+        "2000": [
+            23.9,
+            25.2,
+            329.9,
+            4119.1
+        ],
+        "2005": [
+            23.4,
+            25.7,
+            144.4,
+            5622.1
+        ],
+        "2008": [
+            23.1,
+            26.0,
+            135.6,
+            6221.8
+        ]
+    },
+    "colors": {
+        "1990": "#FFD700",
+        "2000": "#A52A2A",
+        "2005": "#FF8C00",
+        "2008": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6230
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

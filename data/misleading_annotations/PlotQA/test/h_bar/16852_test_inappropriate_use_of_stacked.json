@@ -1,0 +1,67 @@
+{
+    "title": "Air freight by the air carriers registered in Iran",
+    "legend": {
+        "1985": "#f27979",
+        "1986": "#f2f200",
+        "1987": "#79f279",
+        "1988": "#00a5a5",
+        "1989": "#5252a5",
+        "1990": "#a500a5"
+    },
+    "categories": [
+        "Air freight by the air carriers registered in Iran"
+    ],
+    "data": {
+        "1985": [
+            104.3000030518
+        ],
+        "1986": [
+            132.0
+        ],
+        "1987": [
+            137.8000030518
+        ],
+        "1988": [
+            120.5999984741
+        ],
+        "1989": [
+            92.3000030518
+        ],
+        "1990": [
+            113.6999969482
+        ]
+    },
+    "colors": {
+        "1985": "#f27979",
+        "1986": "#f2f200",
+        "1987": "#79f279",
+        "1988": "#00a5a5",
+        "1989": "#5252a5",
+        "1990": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

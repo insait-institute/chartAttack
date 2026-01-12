@@ -1,0 +1,57 @@
+{
+    "title": "Customs and other import duties (as % of tax revenue) of a country",
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#79f200",
+        "2010": "#52a5a5",
+        "2011": "#5200a5"
+    },
+    "categories": [
+        "Customs and other import duties (as % of tax revenue) of a country"
+    ],
+    "data": {
+        "2008": [
+            0.0041957748547213
+        ],
+        "2009": [
+            0.0022063365987115
+        ],
+        "2010": [
+            0.00224992125275615
+        ],
+        "2011": [
+            0.0044973128555688
+        ]
+    },
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#79f200",
+        "2010": "#52a5a5",
+        "2011": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

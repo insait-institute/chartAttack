@@ -1,0 +1,64 @@
+{
+    "title": "Expenditure in billion GBP",
+    "x_axis": {
+        "categories": [
+            "2009/10",
+            "2010/11*",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Expenditure in billion GBP"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            13.18,
+            15.78,
+            9.31,
+            8.15,
+            7.53,
+            6.68,
+            6.16,
+            6.07,
+            5.42,
+            4.62,
+            4.37
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Stacked vertical bar chart": false
+}

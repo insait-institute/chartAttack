@@ -1,0 +1,52 @@
+{
+    "title": "Value in billion Japanese yen",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019*"
+        ]
+    },
+    "y_axis": {
+        "label": "Value in billion Japanese yen"
+    },
+    "legend": {
+        "2015-2019": "#2876dd"
+    },
+    "data": {
+        "2015-2019": [
+            101.4,
+            104.5,
+            103.4,
+            103,
+            106
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

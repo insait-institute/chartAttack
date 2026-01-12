@@ -1,0 +1,64 @@
+{
+    "title": "Educated male labor force in different countries in the year 2003",
+    "x_axis": {
+        "categories": [
+            "High income: nonOECD",
+            "High income: OECD",
+            "OECD members",
+            "Argentina"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary education": "#FFD700",
+        "Secondary education": "#BA55D3",
+        "Tertiary education": "#00FF7F"
+    },
+    "data": {
+        "Primary education": [
+            18.9027434231205,
+            33.3147369364738,
+            33.7079292371393,
+            44.7000007629395
+        ],
+        "Secondary education": [
+            32.2000007629395,
+            41.5999984741211,
+            66.6999969482422,
+            67.40000152587889
+        ],
+        "Tertiary education": [
+            21.4989725583861,
+            27.1664961952588,
+            26.36989260221251,
+            21.89999961853031
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

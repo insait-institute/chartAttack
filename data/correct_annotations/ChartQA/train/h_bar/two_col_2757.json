@@ -1,0 +1,64 @@
+{
+    "title": "Volume of registrations",
+    "legend": {
+        "Registrations": "#2876dd"
+    },
+    "categories": [
+        "Fiat Ducato",
+        "Iveco Daily",
+        "Daf Trucks Fa 45Lf",
+        "Isuzu Trucks Forward",
+        "Iveco Eurocargo",
+        "Mercedes Sprinter",
+        "Mitsubishi Fuso Canter",
+        "Fiat Auto Trail",
+        "Peugeot Boxer",
+        "Leyland Daf Fa 45",
+        "Iveco Stralis",
+        "Daf Trucks Fa 55Lf"
+    ],
+    "data": {
+        "Registrations": [
+            13056,
+            11136,
+            7768,
+            7190,
+            6676,
+            5408,
+            4562,
+            4502,
+            3358,
+            3009,
+            2681,
+            2032
+        ]
+    },
+    "colors": {
+        "Registrations": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

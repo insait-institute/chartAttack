@@ -1,0 +1,82 @@
+{
+    "title": "Percentage of male labor force with tertiary education as their highest grade",
+    "legend": {
+        "Cyprus": "#FFFF00",
+        "Georgia": "#00FFFF",
+        "Singapore": "#D2691E",
+        "United Kingdom": "#483D8B"
+    },
+    "categories": [
+        "1999",
+        "2002",
+        "2004",
+        "2007",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Cyprus": [
+            25.2999992370605,
+            29.5,
+            29.39999961853031,
+            30.89999961853031,
+            31.10000038146969,
+            33.0
+        ],
+        "Georgia": [
+            39.7000007629395,
+            26.7999992370605,
+            26.7000007629395,
+            29.2999992370605,
+            30.2999992370605,
+            30.5
+        ],
+        "Singapore": [
+            14.8000001907349,
+            18.1000003814697,
+            21.2000007629395,
+            23.39999961853031,
+            26.10000038146969,
+            27.10000038146969
+        ],
+        "United Kingdom": [
+            25.2999992370605,
+            26.2999992370605,
+            28.5,
+            30.2000007629395,
+            31.7999992370605,
+            33.2999992370605
+        ]
+    },
+    "colors": {
+        "Cyprus": "#FFFF00",
+        "Georgia": "#00FFFF",
+        "Singapore": "#D2691E",
+        "United Kingdom": "#483D8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

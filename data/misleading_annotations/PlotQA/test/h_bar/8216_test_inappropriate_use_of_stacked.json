@@ -1,0 +1,57 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1996",
+    "legend": {
+        "Europe(all income levels)": "#f27979",
+        "Europe(developing only)": "#79f200",
+        "European Union": "#52a5a5",
+        "Fragile and conflict affected situations": "#5200a5"
+    },
+    "categories": [
+        "Electricity produced from non-renewable sources in countries in 1996"
+    ],
+    "data": {
+        "Europe(all income levels)": [
+            29.3218860117234
+        ],
+        "Europe(developing only)": [
+            30.7115748944602
+        ],
+        "European Union": [
+            34.1994392476987
+        ],
+        "Fragile and conflict affected situations": [
+            6.0756976038754
+        ]
+    },
+    "colors": {
+        "Europe(all income levels)": "#f27979",
+        "Europe(developing only)": "#79f200",
+        "European Union": "#52a5a5",
+        "Fragile and conflict affected situations": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

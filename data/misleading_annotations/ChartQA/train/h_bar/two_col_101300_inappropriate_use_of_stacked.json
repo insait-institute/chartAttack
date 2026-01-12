@@ -1,0 +1,177 @@
+{
+    "title": "Lost sales in million euros",
+    "legend": {
+        "Germany": "#f27979",
+        "United Kingdom": "#f23300",
+        "Italy": "#f2ad79",
+        "France": "#f29b00",
+        "Spain": "#f2e079",
+        "Austria": "#e0f200",
+        "Romania": "#cff279",
+        "Poland": "#79f200",
+        "Netherlands": "#9bf279",
+        "Ireland": "#11f200",
+        "Greece": "#52a55e",
+        "Czech Republic": "#00a53b",
+        "Portugal": "#52a582",
+        "Belgium": "#00a582",
+        "Bulgaria": "#52a5a5",
+        "Sweden": "#0082a5",
+        "Hungary": "#5282a5",
+        "Finland": "#003ba5",
+        "Denmark": "#525ea5",
+        "Slovakia": "#0b00a5",
+        "Cyprus": "#9b79f2",
+        "Slovenia": "#7900f2",
+        "Croatia": "#cf79f2",
+        "Latvia": "#e000f2",
+        "Luxembourg": "#f279e0",
+        "Lithuania": "#f2009b",
+        "Malta": "#f279ad",
+        "Estonia": "#f20033"
+    },
+    "categories": [
+        "Lost sales in million euros"
+    ],
+    "data": {
+        "Germany": [
+            327.0
+        ],
+        "United Kingdom": [
+            213.0
+        ],
+        "Italy": [
+            201.0
+        ],
+        "France": [
+            168.0
+        ],
+        "Spain": [
+            167.0
+        ],
+        "Austria": [
+            49.0
+        ],
+        "Romania": [
+            41.0
+        ],
+        "Poland": [
+            32.0
+        ],
+        "Netherlands": [
+            26.0
+        ],
+        "Ireland": [
+            26.0
+        ],
+        "Greece": [
+            25.0
+        ],
+        "Czech Republic": [
+            24.0
+        ],
+        "Portugal": [
+            23.0
+        ],
+        "Belgium": [
+            21.0
+        ],
+        "Bulgaria": [
+            16.0
+        ],
+        "Sweden": [
+            12.0
+        ],
+        "Hungary": [
+            11.0
+        ],
+        "Finland": [
+            6.0
+        ],
+        "Denmark": [
+            6.0
+        ],
+        "Slovakia": [
+            5.0
+        ],
+        "Cyprus": [
+            5.0
+        ],
+        "Slovenia": [
+            4.0
+        ],
+        "Croatia": [
+            4.0
+        ],
+        "Latvia": [
+            4.0
+        ],
+        "Luxembourg": [
+            3.0
+        ],
+        "Lithuania": [
+            3.0
+        ],
+        "Malta": [
+            2.0
+        ],
+        "Estonia": [
+            2.0
+        ]
+    },
+    "colors": {
+        "Germany": "#f27979",
+        "United Kingdom": "#f23300",
+        "Italy": "#f2ad79",
+        "France": "#f29b00",
+        "Spain": "#f2e079",
+        "Austria": "#e0f200",
+        "Romania": "#cff279",
+        "Poland": "#79f200",
+        "Netherlands": "#9bf279",
+        "Ireland": "#11f200",
+        "Greece": "#52a55e",
+        "Czech Republic": "#00a53b",
+        "Portugal": "#52a582",
+        "Belgium": "#00a582",
+        "Bulgaria": "#52a5a5",
+        "Sweden": "#0082a5",
+        "Hungary": "#5282a5",
+        "Finland": "#003ba5",
+        "Denmark": "#525ea5",
+        "Slovakia": "#0b00a5",
+        "Cyprus": "#9b79f2",
+        "Slovenia": "#7900f2",
+        "Croatia": "#cf79f2",
+        "Latvia": "#e000f2",
+        "Luxembourg": "#f279e0",
+        "Lithuania": "#f2009b",
+        "Malta": "#f279ad",
+        "Estonia": "#f20033"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 330
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

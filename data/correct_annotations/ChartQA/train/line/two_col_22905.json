@@ -1,0 +1,97 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "y_axis_label": "Auction price of tea in U.S. dollars",
+    "x_axis": [
+        "Jan 2019",
+        "Feb 2019",
+        "Mar 2019",
+        "Apr 2019",
+        "May 2019",
+        "June 2019",
+        "Jul 2019",
+        "Aug 2019",
+        "Sep 2019",
+        "Oct 2019",
+        "Nov 2019",
+        "Dec 2019",
+        "Jan 2020",
+        "Feb 2020",
+        "Mar 2020",
+        "Apr 2020",
+        "May 2020",
+        "Jun 2020",
+        "Jul 2020",
+        "Aug 2020",
+        "Sep 2020",
+        "Oct 2020",
+        "Nov 2020",
+        "Dec 2020",
+        "Jan 2021",
+        "Feb 2021"
+    ],
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                2.3,
+                2.16,
+                2.13,
+                2.26,
+                2.39,
+                2.16,
+                1.99,
+                2.11,
+                2.21,
+                2.33,
+                2.3,
+                2.21,
+                2.29,
+                2.13,
+                1.99,
+                2.11,
+                1.97,
+                1.86,
+                1.81,
+                2,
+                2.03,
+                1.98,
+                1.99,
+                1.94,
+                2.03,
+                2.1
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

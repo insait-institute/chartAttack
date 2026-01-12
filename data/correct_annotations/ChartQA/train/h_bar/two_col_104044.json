@@ -1,0 +1,56 @@
+{
+    "title": "",
+    "legend": {
+        "Revenue in billion euros": "#2876dd"
+    },
+    "categories": [
+        "Amazon.de",
+        "Media Markt and Saturn",
+        "Euronics*",
+        "Expert",
+        "Conrad*",
+        "Cyberport.de",
+        "Notebooks-billiger.de",
+        "ProMarkt**"
+    ],
+    "data": {
+        "Revenue in billion euros": [
+            7.9,
+            6.5,
+            3,
+            2,
+            0.5,
+            0.5,
+            0.5,
+            36.2
+        ]
+    },
+    "colors": {
+        "Revenue in billion euros": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

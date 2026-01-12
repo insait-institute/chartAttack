@@ -1,0 +1,52 @@
+{
+    "title": "Educated labor force (as % of total labor force) in different countries in 2001",
+    "legend": {
+        "Primary education": "#f27979",
+        "Secondary education": "#00f200",
+        "Tertiary education": "#5252a5"
+    },
+    "categories": [
+        "Educated labor force (as % of total labor force) in different countries in 2001"
+    ],
+    "data": {
+        "Primary education": [
+            60.2000007629395
+        ],
+        "Secondary education": [
+            15.8999996185303
+        ],
+        "Tertiary education": [
+            15.1000003814697
+        ]
+    },
+    "colors": {
+        "Primary education": "#f27979",
+        "Secondary education": "#00f200",
+        "Tertiary education": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

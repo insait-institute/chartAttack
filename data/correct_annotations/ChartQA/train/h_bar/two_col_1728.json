@@ -1,0 +1,56 @@
+{
+    "title": "",
+    "legend": {
+        "Comics": "#2876dd"
+    },
+    "categories": [
+        "Superman",
+        "Batman",
+        "Spider-Man",
+        "X-Men",
+        "Captain America",
+        "The Adventures of Tintin",
+        "Dragon Ball",
+        "The Phantom"
+    ],
+    "data": {
+        "Comics": [
+            600,
+            460,
+            360,
+            270,
+            210,
+            200,
+            200,
+            150
+        ]
+    },
+    "colors": {
+        "Comics": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 600
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

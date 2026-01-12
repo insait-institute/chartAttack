@@ -1,0 +1,62 @@
+{
+    "title": "Death rate and birth rate according to the survey of 1997",
+    "legend": {
+        "Ireland": "#DAA520",
+        "Micronesia": "#5F9EA0",
+        "New Zealand": "#D2691E",
+        "Swaziland": "#A52A2A"
+    },
+    "categories": [
+        "Death rate",
+        "Birth rate"
+    ],
+    "data": {
+        "Ireland": [
+            8.6,
+            14.4
+        ],
+        "Micronesia": [
+            6.297999999999999,
+            31.467
+        ],
+        "New Zealand": [
+            7.26,
+            15.23
+        ],
+        "Swaziland": [
+            11.673,
+            34.621
+        ]
+    },
+    "colors": {
+        "Ireland": "#DAA520",
+        "Micronesia": "#5F9EA0",
+        "New Zealand": "#D2691E",
+        "Swaziland": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

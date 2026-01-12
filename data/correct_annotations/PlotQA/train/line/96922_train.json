@@ -1,0 +1,91 @@
+{
+    "title": "Greenhouse gas emission in Italy",
+    "legend": {
+        "Other greenhouse gases": "#8A2BE2",
+        "SF6 gas": "#FF7F50",
+        "HFC gas": "#DC143C",
+        "PFC gas": "#9ACD32"
+    },
+    "x_axis": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "y_axis_label": "Emissions (in thousand metric tons of CO2 equivalent)",
+    "data": [
+        {
+            "label": "Other greenhouse gases",
+            "color": "#8A2BE2",
+            "values": [
+                4074.0,
+                8752.3,
+                10386.0,
+                13325.4,
+                15541.0
+            ]
+        },
+        {
+            "label": "SF6 gas",
+            "color": "#FF7F50",
+            "values": [
+                1230.8,
+                1268.5,
+                877.2,
+                992.1,
+                987.0
+            ]
+        },
+        {
+            "label": "HFC gas",
+            "color": "#DC143C",
+            "values": [
+                1972.2,
+                7099.5,
+                9114.5,
+                11924.5,
+                14097.0
+            ]
+        },
+        {
+            "label": "PFC gas",
+            "color": "#9ACD32",
+            "values": [
+                871.0,
+                384.3,
+                394.3,
+                408.8,
+                457.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 380,
+                "max_value": 15550
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

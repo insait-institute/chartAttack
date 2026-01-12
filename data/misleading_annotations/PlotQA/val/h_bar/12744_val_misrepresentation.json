@@ -1,0 +1,98 @@
+{
+    "title": "Value added in manufacturing (in %) by advanced machineries",
+    "legend": {
+        "Bolivia": "#00FFFF",
+        "Iceland": "#8FBC8F",
+        "Poland": "#2E8B57",
+        "Senegal": "#BEBEBE"
+    },
+    "categories": [
+        "1981",
+        "1982",
+        "1983",
+        "1984"
+    ],
+    "data": {
+        "Bolivia": [
+            2.12740949694405,
+            0.3279476657337609,
+            0.577168879904576,
+            0.29429270913072
+        ],
+        "Iceland": [
+            3.38710101119334,
+            4.03536565358693,
+            3.47244958626462,
+            2.81194708647291
+        ],
+        "Poland": [
+            28.3446648689147,
+            22.9245283013886,
+            21.6857216282574,
+            21.7485455721853
+        ],
+        "Senegal": [
+            3.639570610032489,
+            5.85537951554045,
+            4.894449084264139,
+            5.66892677104308
+        ]
+    },
+    "colors": {
+        "Bolivia": "#00FFFF",
+        "Iceland": "#8FBC8F",
+        "Poland": "#2E8B57",
+        "Senegal": "#BEBEBE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Bolivia": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Iceland": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Poland": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Senegal": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

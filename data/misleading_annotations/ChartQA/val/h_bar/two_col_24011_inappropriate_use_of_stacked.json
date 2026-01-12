@@ -1,0 +1,87 @@
+{
+    "title": "Maximum monthly search volume in millions",
+    "categories": [
+        "Maximum monthly search volume in millions"
+    ],
+    "data": {
+        "Donald Trump": [
+            90.22
+        ],
+        "Kim Jong Un": [
+            83.1
+        ],
+        "Joe Biden": [
+            35.52
+        ],
+        "Kamala Harris": [
+            30.4
+        ],
+        "Boris Johnson": [
+            30.4
+        ],
+        "Kellyanne Conway": [
+            4.09
+        ],
+        "Hillary Clinton": [
+            3.35
+        ],
+        "Justin Trudeau": [
+            3.35
+        ],
+        "Vladimir Putin": [
+            2.74
+        ],
+        "Angela Merkel": [
+            2.74
+        ]
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Donald Trump": "#f27979",
+        "Kim Jong Un": "#f29100",
+        "Joe Biden": "#daf279",
+        "Kamala Harris": "#30f200",
+        "Boris Johnson": "#52a574",
+        "Kellyanne Conway": "#00a5a5",
+        "Hillary Clinton": "#5274a5",
+        "Justin Trudeau": "#2100a5",
+        "Vladimir Putin": "#da79f2",
+        "Angela Merkel": "#f20091"
+    },
+    "colors": {
+        "Donald Trump": "#f27979",
+        "Kim Jong Un": "#f29100",
+        "Joe Biden": "#daf279",
+        "Kamala Harris": "#30f200",
+        "Boris Johnson": "#52a574",
+        "Kellyanne Conway": "#00a5a5",
+        "Hillary Clinton": "#5274a5",
+        "Justin Trudeau": "#2100a5",
+        "Vladimir Putin": "#da79f2",
+        "Angela Merkel": "#f20091"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "CPIA financial sector rating",
+    "legend": {
+        "Pacific island small states": "#F4A460",
+        "Upper middle income": "#008080",
+        "World": "#00FFFF",
+        "Cambodia": "#00FF00"
+    },
+    "categories": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "data": {
+        "Pacific island small states": [
+            3.071428571428569,
+            2.9375,
+            2.75,
+            2.75
+        ],
+        "Upper middle income": [
+            3.2,
+            3.13636363636364,
+            2.95454545454545,
+            2.94444444444444
+        ],
+        "World": [
+            3.07692307692308,
+            3.0125,
+            2.97530864197531,
+            2.94078947368421
+        ],
+        "Cambodia": [
+            3.0,
+            3.0,
+            3.0,
+            3.0
+        ]
+    },
+    "colors": {
+        "Pacific island small states": "#F4A460",
+        "Upper middle income": "#008080",
+        "World": "#00FFFF",
+        "Cambodia": "#00FF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

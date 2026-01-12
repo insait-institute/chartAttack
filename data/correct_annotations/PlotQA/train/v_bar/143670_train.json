@@ -1,0 +1,66 @@
+{
+    "title": "Agricultural raw materials,food and fuel exports of countries in 2002",
+    "x_axis": {
+        "categories": [
+            "Agricultural raw materials",
+            "Food",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Small states": "#D2B48C",
+        "Bulgaria": "#F4A460",
+        "Germany": "#FFA07A",
+        "Yemen, Rep.": "#FFD700"
+    },
+    "data": {
+        "Small states": [
+            2.40155690056224,
+            14.7928304389964,
+            32.8753392339298
+        ],
+        "Bulgaria": [
+            2.34615372206256,
+            12.1266249630561,
+            5.990776393811832
+        ],
+        "Germany": [
+            0.895486510581871,
+            4.58066580232714,
+            1.48136022663476
+        ],
+        "Yemen, Rep.": [
+            0.65518065069374,
+            2.08924695360926,
+            93.54263027218107
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Service imports of a country",
+    "legend": {
+        "2005": "#CD853F",
+        "2006": "#FF7F50",
+        "2007": "#4682B4"
+    },
+    "categories": [
+        "Israel",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Kenya",
+        "Korea (Republic)"
+    ],
+    "data": {
+        "2005": [
+            13826100000.0,
+            90544025735.0,
+            1722027977.0,
+            139013000000.0,
+            1152258436.0,
+            59860600000.0
+        ],
+        "2006": [
+            15093900000.0,
+            101235000000.0,
+            2021063142.0,
+            141407000000.0,
+            1418941264.0,
+            70426100000.0
+        ],
+        "2007": [
+            17716800000.0,
+            123005000000.0,
+            2281682536.0,
+            158677000000.0,
+            1690323118.0,
+            84897500000.0
+        ]
+    },
+    "colors": {
+        "2005": "#CD853F",
+        "2006": "#FF7F50",
+        "2007": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 158677000000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2005": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "2006": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "2007": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

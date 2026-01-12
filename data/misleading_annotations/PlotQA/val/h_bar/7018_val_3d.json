@@ -1,0 +1,53 @@
+{
+    "title": "Percentage of female children (ages 7-14) in employment in 2008",
+    "legend": {
+        "South Sudan": "#008080",
+        "Zambia": "#FFFF00"
+    },
+    "categories": [
+        "Self-employed",
+        "Unpaid family workers",
+        "Wage workers"
+    ],
+    "data": {
+        "South Sudan": [
+            14.42,
+            73.67,
+            3.61
+        ],
+        "Zambia": [
+            3.03,
+            93.55,
+            3.29
+        ]
+    },
+    "colors": {
+        "South Sudan": "#008080",
+        "Zambia": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

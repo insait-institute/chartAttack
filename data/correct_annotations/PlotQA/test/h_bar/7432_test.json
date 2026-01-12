@@ -1,0 +1,59 @@
+{
+    "title": "Comparison of rural and urban population as per the survey in 1994 census",
+    "legend": {
+        "Rural": "#4B0082",
+        "Urban": "#00FA9A"
+    },
+    "categories": [
+        "Fragile and conflict affected situations",
+        "Heavily indebted poor countries",
+        "High income",
+        "High income: nonOECD",
+        "High income: OECD"
+    ],
+    "data": {
+        "Rural": [
+            66.2579572276956,
+            73.2115914398043,
+            24.3067332784008,
+            22.6101753416924,
+            24.77141765149869
+        ],
+        "Urban": [
+            33.74204277230439,
+            26.7884085601957,
+            75.6932667215992,
+            77.38982465830759,
+            75.2285823485013
+        ]
+    },
+    "colors": {
+        "Rural": "#4B0082",
+        "Urban": "#00FA9A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

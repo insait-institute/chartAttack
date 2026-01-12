@@ -1,0 +1,70 @@
+{
+    "title": "Tax revenue in billion Indian rupees",
+    "categories": [
+        "Chhattisgarh",
+        "Maharashtra",
+        "Gujarat",
+        "Karnataka",
+        "Uttar Pradesh",
+        "Tamil Nadu",
+        "Others",
+        "Kerala",
+        "Rajasthan",
+        "Andhra Pradesh",
+        "Madhya Pradesh",
+        "Telangana",
+        "West Bengal",
+        "Delhi",
+        "Bihar"
+    ],
+    "data": {
+        "Revenue": [
+            832.71,
+            64.21,
+            63.1,
+            48.27,
+            44.09,
+            42.34,
+            38.64,
+            25.69,
+            24.94,
+            24.57,
+            20.4,
+            18.1,
+            17.16,
+            13.87,
+            10.71
+        ]
+    },
+    "colors": {
+        "Revenue": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 840
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Revenue": "#2876dd"
+    }
+}

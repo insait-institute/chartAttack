@@ -1,0 +1,57 @@
+{
+    "title": "Trade statistics with developing economies of South Asia in 1964",
+    "x_axis": {
+        "categories": [
+            "Europe(all income levels)",
+            "Europe(developing only)",
+            "European Union",
+            "Fragile and conflict affected situations"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#008080",
+        "Merchandise imports": "#32CD32"
+    },
+    "data": {
+        "Merchandise exports": [
+            1.81522106099479,
+            0.5589722854731051,
+            1.85628612512718,
+            2.99558659661516
+        ],
+        "Merchandise imports": [
+            1.2313121587102,
+            0.490091275388537,
+            1.30542381710202,
+            3.84844083069092
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

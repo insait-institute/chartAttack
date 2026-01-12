@@ -1,0 +1,83 @@
+{
+    "title": "Educated female labor force in Bahamas",
+    "legend": {
+        "Primary education": "#808000",
+        "Secondary education": "#BC8F8F",
+        "Tertiary education": "#20B2AA"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "2001"
+    ],
+    "y_axis_label": "Educated females (as % of female labor force)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#808000",
+            "values": [
+                16.7999992370605,
+                17.6000003814697,
+                21.5,
+                17.2000007629395,
+                18.2999992370605,
+                11.3999996185303
+            ]
+        },
+        {
+            "label": "Secondary education",
+            "color": "#BC8F8F",
+            "values": [
+                61.9000015258789,
+                60.5,
+                60.2000007629395,
+                58.5999984741211,
+                58.5,
+                60.5
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "color": "#20B2AA",
+            "values": [
+                20.1000003814697,
+                18.0,
+                13.6000003814697,
+                17.2999992370605,
+                16.6000003814697,
+                22.89999961853031
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

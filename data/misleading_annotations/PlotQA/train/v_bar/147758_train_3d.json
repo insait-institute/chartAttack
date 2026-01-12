@@ -1,0 +1,71 @@
+{
+    "title": "Different expenses of government of different countries in 1996",
+    "x_axis": {
+        "categories": [
+            "Salary of employees",
+            "Custom duties",
+            "Interest Payments",
+            "Other expenses"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Belarus": "#87CEEB",
+        "Kuwait": "#BDB76B",
+        "Oman": "#DC143C",
+        "Spain": "#000000"
+    },
+    "data": {
+        "Belarus": [
+            5281800000,
+            2124300000,
+            1226800000,
+            53184400000
+        ],
+        "Kuwait": [
+            993000000,
+            72000000,
+            200000000,
+            3630000000
+        ],
+        "Oman": [
+            521800000,
+            47600000,
+            121200000,
+            1706400000
+        ],
+        "Spain": [
+            22927000000,
+            -16000000,
+            20673000000,
+            171495000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 171495000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

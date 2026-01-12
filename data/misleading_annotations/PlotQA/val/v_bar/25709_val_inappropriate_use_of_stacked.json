@@ -1,0 +1,52 @@
+{
+    "title": "International Tourism statistics recorded in 2012",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Number of arrivals": "#f27979",
+        "Number of departures": "#00a5a5"
+    },
+    "data": {
+        "Number of arrivals": [
+            10369000.0
+        ],
+        "Number of departures": [
+            2680000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 35698000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Number of arrivals": "#f27979",
+        "Number of departures": "#00a5a5"
+    }
+}

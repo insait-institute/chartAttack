@@ -1,0 +1,87 @@
+{
+    "title": "Net bilateral aid flow from different members of Development Assistance Committee in the year 2012",
+    "x_axis": {
+        "categories": [
+            "High income",
+            "High income: nonOECD",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Least developed countries"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "European Union": "#4169e1",
+        "United Kingdom": "#4156e1",
+        "United States": "#4a4be2",
+        "Iceland": "#4c3add"
+    },
+    "data": {
+        "European Union": [
+            30000000,
+            23400000,
+            1940000,
+            1209810000,
+            1180590000,
+            3753350000
+        ],
+        "United Kingdom": [
+            5890000,
+            3940000,
+            1400000,
+            427570000,
+            421680000,
+            3040640000
+        ],
+        "United States": [
+            1410000,
+            -120000,
+            1530000,
+            1968480000,
+            1967450000,
+            9382100000
+        ],
+        "Iceland": [
+            12360000,
+            10320000,
+            1980000,
+            1370000,
+            1370000,
+            2040000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9382100000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "European Union": "#4169e1",
+        "United Kingdom": "#4156e1",
+        "United States": "#4a4be2",
+        "Iceland": "#4c3add"
+    }
+}

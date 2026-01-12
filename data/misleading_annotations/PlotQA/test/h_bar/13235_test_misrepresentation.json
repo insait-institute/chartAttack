@@ -1,0 +1,89 @@
+{
+    "title": "Expenditure spent by government on the tertiary education",
+    "legend": {
+        "Andorra": "#C71585",
+        "Niger": "#006400",
+        "Romania": "#FFFF00",
+        "Timor-Leste": "#40E0D0"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Andorra": [
+            3.59818005561829,
+            3.86128997802734,
+            3.84055995941162
+        ],
+        "Niger": [
+            9.89743041992188,
+            12.5692195892334,
+            14.3698301315308
+        ],
+        "Romania": [
+            28.2829608917236,
+            28.474910736084,
+            27.6819496154785
+        ],
+        "Timor-Leste": [
+            8.13706970214844,
+            10.4328699111938,
+            19.7909107208252
+        ]
+    },
+    "colors": {
+        "Andorra": "#C71585",
+        "Niger": "#006400",
+        "Romania": "#FFFF00",
+        "Timor-Leste": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Andorra": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Niger": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Romania": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "Timor-Leste": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

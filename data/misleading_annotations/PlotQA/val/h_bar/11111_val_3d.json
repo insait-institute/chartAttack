@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of trained primary school teachers (males) in countries",
+    "legend": {
+        "Other small states": "#FF1493",
+        "Benin": "#556B2F",
+        "Vietnam": "#BC8F8F"
+    },
+    "categories": [
+        "1999",
+        "2000",
+        "2009"
+    ],
+    "data": {
+        "Other small states": [
+            86.1517715454102,
+            85.6031799316406,
+            83.0627899169922
+        ],
+        "Benin": [
+            77.2100601196289,
+            69.9870986938477,
+            44.9422607421875
+        ],
+        "Vietnam": [
+            78.379768371582,
+            81.634407043457,
+            99.76278686523442
+        ]
+    },
+    "colors": {
+        "Other small states": "#FF1493",
+        "Benin": "#556B2F",
+        "Vietnam": "#BC8F8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

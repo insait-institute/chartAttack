@@ -1,0 +1,57 @@
+{
+    "title": "Survival rate of the students in Colombia to the last grade of primary education",
+    "legend": {
+        "Primary Education": "#483D8B"
+    },
+    "x_axis": [
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987"
+    ],
+    "y_axis_label": "Survival rate(%)",
+    "data": [
+        {
+            "label": "Primary Education",
+            "color": "#483D8B",
+            "values": [
+                50.6407,
+                51.95537,
+                53.28297,
+                52.31749,
+                61.19937,
+                53.28284
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

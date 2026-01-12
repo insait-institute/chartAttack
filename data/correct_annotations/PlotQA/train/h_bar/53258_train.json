@@ -1,0 +1,56 @@
+{
+    "title": "Official Aid vs Net ODA received in 1976 ",
+    "legend": {
+        "Europe(developing only)": "#006400",
+        "Iraq": "#BC8F8F",
+        "Yemen, Rep.": "#00FA9A"
+    },
+    "categories": [
+        "Official aid received",
+        "ODA received"
+    ],
+    "data": {
+        "Europe(developing only)": [
+            664610000,
+            664610000
+        ],
+        "Iraq": [
+            50560000,
+            50560000
+        ],
+        "Yemen, Rep.": [
+            1767070000,
+            1767070000
+        ]
+    },
+    "colors": {
+        "Europe(developing only)": "#006400",
+        "Iraq": "#BC8F8F",
+        "Yemen, Rep.": "#00FA9A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1767070000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Number of active connections in millions",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2019*",
+            "2022*",
+            "2025*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of active connections in millions"
+    },
+    "legend": {
+        "Active Connections": "#2876dd"
+    },
+    "data": {
+        "Active Connections": [
+            0.87,
+            2.79,
+            6.05,
+            10.34
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

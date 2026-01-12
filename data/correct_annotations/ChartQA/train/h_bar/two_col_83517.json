@@ -1,0 +1,82 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Autonomous province of Bolzano",
+        "Aosta Valley",
+        "Campania",
+        "Sicily",
+        "Lombardy",
+        "Piedmont",
+        "Autonomous province of Trento",
+        "Emilia-Romagna",
+        "Liguria",
+        "Lazio",
+        "Friuli-Venezia Giulia",
+        "Calabria",
+        "Basilicata",
+        "Tuscany",
+        "Veneto",
+        "Marche",
+        "Sardinia",
+        "Apulia",
+        "Umbria",
+        "Abruzzo",
+        "Molise"
+    ],
+    "data": {
+        "Model": [
+            30.6,
+            27.9,
+            26.4,
+            24.4,
+            23.4,
+            23.4,
+            22.5,
+            22.3,
+            22.2,
+            20.8,
+            20.7,
+            20.4,
+            20.0,
+            19.4,
+            18.3,
+            17.8,
+            15.8,
+            15.6,
+            14.1,
+            11.3,
+            6.9
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

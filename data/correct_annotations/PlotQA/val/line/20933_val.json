@@ -1,0 +1,101 @@
+{
+    "title": "Enrolment ratio of students in different levels of education in North America",
+    "legend": {
+        "Pre-primary schools": "#BC8F8F",
+        "Primary schools": "#00FF7F",
+        "Secondary schools": "#808000",
+        "Tertiary schools": "#006400"
+    },
+    "x_axis": [
+        "1976",
+        "1977",
+        "1978",
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+    ],
+    "y_axis_label": "Gross enrolment ratio (%)",
+    "data": [
+        {
+            "label": "Pre-primary schools",
+            "color": "#BC8F8F",
+            "values": [
+                51.77566146850589,
+                50.87393951416021,
+                48.73183822631839,
+                48.6397094726563,
+                48.9500885009766,
+                52.6600112915039,
+                52.6997985839844
+            ]
+        },
+        {
+            "label": "Primary schools",
+            "color": "#00FF7F",
+            "values": [
+                90.3422088623047,
+                90.82424926757808,
+                91.5075836181641,
+                91.36575317382808,
+                99.12246704101558,
+                99.037498474121,
+                101.217971801758
+            ]
+        },
+        {
+            "label": "Secondary schools",
+            "color": "#808000",
+            "values": [
+                85.6611709594727,
+                85.6928176879883,
+                85.4067916870117,
+                79.56907653808591,
+                90.7114410400391,
+                89.8337173461914,
+                93.1432876586914
+            ]
+        },
+        {
+            "label": "Tertiary schools",
+            "color": "#006400",
+            "values": [
+                54.03741836547849,
+                52.588451385498,
+                53.19128036499021,
+                52.6995697021484,
+                53.7896308898926,
+                55.93302917480471,
+                57.3131790161133
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

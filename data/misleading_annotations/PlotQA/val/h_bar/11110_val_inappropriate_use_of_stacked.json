@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of external PPG debt contracted in Euros for the low-income countries",
+    "legend": {
+        "Chad": "#f27979",
+        "China": "#00f200",
+        "Colombia": "#5252a5"
+    },
+    "categories": [
+        "Percentage of external PPG debt contracted in Euros for the low-income countries"
+    ],
+    "data": {
+        "Chad": [
+            3.4625
+        ],
+        "China": [
+            4.7908
+        ],
+        "Colombia": [
+            10.1916
+        ]
+    },
+    "colors": {
+        "Chad": "#f27979",
+        "China": "#00f200",
+        "Colombia": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

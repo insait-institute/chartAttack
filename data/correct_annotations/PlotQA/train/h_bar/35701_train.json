@@ -1,0 +1,62 @@
+{
+    "title": "Gross intake ratio in Grade 1 of primary education in Aruba",
+    "legend": {
+        "Female": "#FF0000",
+        "Male": "#00FA9A"
+    },
+    "categories": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Female": [
+            100.269538879395,
+            97.8378372192383,
+            104.258239746094,
+            107.172996520996,
+            104.291847229004,
+            104.927543640137
+        ],
+        "Male": [
+            100.395782470703,
+            105.319152832031,
+            97.9702301025391,
+            99.44674682617192,
+            106.415618896484,
+            105.625877380371
+        ]
+    },
+    "colors": {
+        "Female": "#FF0000",
+        "Male": "#00FA9A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

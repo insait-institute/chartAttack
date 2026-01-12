@@ -1,0 +1,57 @@
+{
+    "title": "Information and communication technology goods imported by Costa Rica",
+    "legend": {
+        "ICT goods imports": "#BC8F8F"
+    },
+    "x_axis": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Amount of imports(% of total goods imports)",
+    "data": [
+        {
+            "label": "ICT goods imports",
+            "color": "#BC8F8F",
+            "values": [
+                18.276534587,
+                17.1032396098,
+                17.7217351346,
+                18.2135233884,
+                18.3142735247,
+                18.4664726113
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

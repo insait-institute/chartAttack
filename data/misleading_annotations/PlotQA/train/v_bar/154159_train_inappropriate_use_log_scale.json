@@ -1,0 +1,54 @@
+{
+    "title": "Number of neonatal deaths in the year 2010",
+    "x_axis": {
+        "categories": [
+            "Egypt, Arab Rep.",
+            "El Salvador",
+            "Equatorial Guinea",
+            "Eritrea",
+            "Estonia",
+            "Ethiopia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Neonatal deaths": "#2F4F4F"
+    },
+    "data": {
+        "Neonatal deaths": [
+            31379,
+            1122,
+            950,
+            3451,
+            41,
+            96265
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 96270
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

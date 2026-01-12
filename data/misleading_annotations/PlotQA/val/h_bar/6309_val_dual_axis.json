@@ -1,0 +1,73 @@
+{
+    "title": "Cost of damage caused to an economy due to CO2 emissions",
+    "legend": {
+        "Grenada": "#EE82EE",
+        "Panama": "#FFD700"
+    },
+    "categories": [
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+    ],
+    "data": {
+        "Grenada": [
+            313822.831221185,
+            427214.2420675,
+            483581.221443224,
+            543600.88118373,
+            587239.402254591,
+            646888.175811992
+        ],
+        "Panama": [
+            13698366.5828047,
+            13128622.2850743,
+            11882281.4411764,
+            13680622.1764572,
+            16764737.7740424,
+            22699894.1694026
+        ]
+    },
+    "colors": {
+        "Grenada": "#EE82EE",
+        "Panama": "#FFD700"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 313822.831221185,
+                "max_value": 646888.175811992
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 11882281.4411764,
+                "max_value": 22699894.1694026
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

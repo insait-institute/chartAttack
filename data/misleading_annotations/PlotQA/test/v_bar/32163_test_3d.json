@@ -1,0 +1,52 @@
+{
+    "title": "Earning of countries from merchandise trade in the year 1982",
+    "x_axis": {
+        "categories": [
+            "Egypt, Arab Rep.",
+            "El Salvador",
+            "Equatorial Guinea",
+            "Ethiopia",
+            "Fiji"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise trade": "#CD5C5C"
+    },
+    "data": {
+        "Merchandise trade": [
+            47.6626504083293,
+            45.7756233685263,
+            97.0771914898864,
+            15.3742799901171,
+            74.2033953112369
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

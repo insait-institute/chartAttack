@@ -1,0 +1,68 @@
+{
+    "title": "Urban population of a country",
+    "legend": {
+        "1960": "#DAA520",
+        "1961": "#191970",
+        "1962": "#FFA07A"
+    },
+    "categories": [
+        "Congo (Republic)",
+        "Costa Rica",
+        "Cote d'Ivoire",
+        "Croatia",
+        "Cuba"
+    ],
+    "data": {
+        "1960": [
+            320302.0,
+            456620.0,
+            614296.0,
+            1248376.0,
+            4170491.0
+        ],
+        "1961": [
+            336096.0,
+            474399.0,
+            681188.0,
+            1294887.0,
+            4270964.0
+        ],
+        "1962": [
+            352792.0,
+            492866.0,
+            755956.0,
+            1344715.0,
+            4379049.0
+        ]
+    },
+    "colors": {
+        "1960": "#DAA520",
+        "1961": "#191970",
+        "1962": "#FFA07A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4379050
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

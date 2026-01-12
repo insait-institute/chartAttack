@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "Share of internet users": "#2876dd"
+    },
+    "categories": [
+        "WhatsApp",
+        "Facebook",
+        "YouTube",
+        "Instagram",
+        "FB Messenger",
+        "Twitter",
+        "Telegram",
+        "LinkedIn",
+        "Tiktok",
+        "Snapchat",
+        "Pinterest",
+        "Skype",
+        "Google Hangouts",
+        "Reddit",
+        "WeChat",
+        "Tumblr"
+    ],
+    "data": {
+        "Share of internet users": [
+            93,
+            86.2,
+            81.6,
+            73.1,
+            67.2,
+            61.4,
+            56.3,
+            32.8,
+            31.9,
+            31.2,
+            26.8,
+            12.1,
+            11.6,
+            9.1,
+            5.7,
+            4.1
+        ]
+    },
+    "colors": {
+        "Share of internet users": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

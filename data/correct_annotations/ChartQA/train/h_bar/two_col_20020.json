@@ -1,0 +1,80 @@
+{
+    "title": "Touchdowns scored",
+    "legend": {
+        "Touchdowns": "#2876dd"
+    },
+    "categories": [
+        "Frank Gifford",
+        "Tiki Barber",
+        "Joe Morrison",
+        "Brandon Jacobs",
+        "Amani Toomer",
+        "Alex Webster",
+        "Kyle Rote",
+        "Rodney Hampton",
+        "Joe Morris",
+        "Ron Johnson",
+        "Odell Beckham",
+        "Homer Jones",
+        "Ahmad Bradshaw",
+        "Ottis Anderson",
+        "Del Shofner",
+        "Aaron Thomas",
+        "Plaxico Burress",
+        "Bill Paschal",
+        "Bob Schnelker",
+        "Mark Bavaro"
+    ],
+    "data": {
+        "Touchdowns": [
+            78,
+            68,
+            65,
+            64,
+            58,
+            56,
+            52,
+            51,
+            50,
+            48,
+            44,
+            36,
+            35,
+            35,
+            35,
+            35,
+            33,
+            30,
+            30,
+            28
+        ]
+    },
+    "colors": {
+        "Touchdowns": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

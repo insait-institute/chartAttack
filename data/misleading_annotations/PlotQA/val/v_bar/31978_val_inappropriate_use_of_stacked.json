@@ -1,0 +1,67 @@
+{
+    "title": "Electric power transmission and distribution losses in the year 2000",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Gabon": "#f27979",
+        "Georgia": "#c1f200",
+        "Germany": "#52a574",
+        "Ghana": "#0042a5",
+        "Greece": "#da79f2"
+    },
+    "data": {
+        "Gabon": [
+            17.7946768060837
+        ],
+        "Georgia": [
+            16.8238146551724
+        ],
+        "Germany": [
+            5.96365341118806
+        ],
+        "Ghana": [
+            19.4794406756195
+        ],
+        "Greece": [
+            7.998128217126808
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Gabon": "#f27979",
+        "Georgia": "#c1f200",
+        "Germany": "#52a574",
+        "Ghana": "#0042a5",
+        "Greece": "#da79f2"
+    }
+}

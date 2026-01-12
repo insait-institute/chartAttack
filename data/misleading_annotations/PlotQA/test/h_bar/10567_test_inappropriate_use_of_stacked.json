@@ -1,0 +1,67 @@
+{
+    "title": "Insurance provided to residents by nonresident insurance enterprises outside a country",
+    "legend": {
+        "Italy": "#f27979",
+        "Jamaica": "#f2f200",
+        "Japan": "#79f279",
+        "Kenya": "#00a5a5",
+        "Korea (Republic)": "#5252a5",
+        "Kosovo": "#a500a5"
+    },
+    "categories": [
+        "Insurance provided to residents by nonresident insurance enterprises outside a country"
+    ],
+    "data": {
+        "Italy": [
+            3.1967520767751
+        ],
+        "Jamaica": [
+            2.76946501900803
+        ],
+        "Japan": [
+            5.80367838114573
+        ],
+        "Kenya": [
+            0.5554050996399511
+        ],
+        "Korea (Republic)": [
+            1.85589282933474
+        ],
+        "Kosovo": [
+            3.48768854969054
+        ]
+    },
+    "colors": {
+        "Italy": "#f27979",
+        "Jamaica": "#f2f200",
+        "Japan": "#79f279",
+        "Kenya": "#00a5a5",
+        "Korea (Republic)": "#5252a5",
+        "Kosovo": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

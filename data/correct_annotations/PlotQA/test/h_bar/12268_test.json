@@ -1,0 +1,82 @@
+{
+    "title": "Percentage of female teachers in secondary schools",
+    "legend": {
+        "Cameroon": "#191970",
+        "Chile": "#D2691E",
+        "Moldova": "#F0E68C",
+        "New Zealand": "#CD5C5C"
+    },
+    "categories": [
+        "1999",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Cameroon": [
+            21.5540199279785,
+            25.52470016479489,
+            26.4057598114014,
+            26.4070606231689,
+            26.755729675293,
+            41.70534133911129
+        ],
+        "Chile": [
+            62.2634811401367,
+            62.7853012084961,
+            62.5712203979492,
+            62.6204681396484,
+            62.85713958740229,
+            62.76187896728521
+        ],
+        "Moldova": [
+            72.2191925048828,
+            75.589599609375,
+            75.3169479370117,
+            75.5386581420898,
+            75.6617126464844,
+            76.1682434082031
+        ],
+        "New Zealand": [
+            58.11758041381839,
+            59.8041305541992,
+            61.18381118774411,
+            61.40414810180661,
+            61.6012687683105,
+            61.5451812744141
+        ]
+    },
+    "colors": {
+        "Cameroon": "#191970",
+        "Chile": "#D2691E",
+        "Moldova": "#F0E68C",
+        "New Zealand": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Prevalence of underweightedness in children of Bhutan with age under 5 years",
+    "legend": {
+        "Female": "#6B8E23",
+        "Male": "#FF00FF"
+    },
+    "x_axis": [
+        "1999",
+        "2008",
+        "2010"
+    ],
+    "y_axis_label": " % of children under 5",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#6B8E23",
+            "values": [
+                11.5,
+                10.3000001907349,
+                12.3000001907349
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#FF00FF",
+            "values": [
+                16.7000007629395,
+                10.5,
+                13.3999996185303
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Female",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "label": "Male",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        }
+    ]
+}

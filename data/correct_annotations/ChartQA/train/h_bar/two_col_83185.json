@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Price": "#2876dd"
+    },
+    "categories": [
+        "Hawaii",
+        "Alaska",
+        "Connecticut",
+        "Rhode Island",
+        "Massachusetts",
+        "New Hampshire",
+        "California",
+        "Vermont",
+        "New York",
+        "Maine"
+    ],
+    "data": {
+        "Price": [
+            84.23,
+            59.36,
+            54.68,
+            54.18,
+            53.92,
+            50.28,
+            49.6,
+            45.02,
+            42.04,
+            41.14
+        ]
+    },
+    "colors": {
+        "Price": "#2876dd"
+    },
+    "type": "h_bar",
+    "y_label": "Price in U.S. dollars per million British thermal units",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

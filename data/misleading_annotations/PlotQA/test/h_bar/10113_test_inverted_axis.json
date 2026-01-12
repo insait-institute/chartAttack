@@ -1,0 +1,60 @@
+{
+    "title": "Population of different countries in 1985",
+    "legend": {
+        "Myanmar": "#DB7093",
+        "New Zealand": "#A52A2A",
+        "Rwanda": "#E9967A"
+    },
+    "categories": [
+        "Ages 65 and above",
+        "Ages 0-14",
+        "Ages 15-64"
+    ],
+    "data": {
+        "Myanmar": [
+            4.03012598074608,
+            39.8655596337265,
+            56.1043143855274
+        ],
+        "New Zealand": [
+            10.3141431103191,
+            24.6325185301231,
+            65.0533383595578
+        ],
+        "Rwanda": [
+            2.15502995603441,
+            49.60526096418321,
+            48.2397090797824
+        ]
+    },
+    "colors": {
+        "Myanmar": "#DB7093",
+        "New Zealand": "#A52A2A",
+        "Rwanda": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

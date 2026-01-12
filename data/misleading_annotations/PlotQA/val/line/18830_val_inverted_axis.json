@@ -1,0 +1,67 @@
+{
+    "title": "Female Child (ages 7-14) employment in various industries in Pakistan",
+    "legend": {
+        "Agriculture": "#D2691E",
+        "Maunufacturing": "#228B22",
+        "Services": "#9ACD32"
+    },
+    "x_axis": [
+        "2008",
+        "2011"
+    ],
+    "y_axis_label": "% of female economically active children",
+    "data": [
+        {
+            "label": "Agriculture",
+            "color": "#D2691E",
+            "values": [
+                78.48,
+                81.73
+            ]
+        },
+        {
+            "label": "Maunufacturing",
+            "color": "#228B22",
+            "values": [
+                7.36,
+                4.3
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#9ACD32",
+            "values": [
+                12.47,
+                11.93
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

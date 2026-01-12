@@ -1,0 +1,86 @@
+{
+    "title": "Mineral rent as percent of GDP towards fuel resources of Egypt, Arab Rep.",
+    "legend": {
+        "Coal": "#66CDAA",
+        "Natural Gas": "#8B008B",
+        "Oil": "#2F4F4F",
+        "Other Minerals": "#20B2AA"
+    },
+    "x_axis": [
+        "2001",
+        "2004",
+        "2005",
+        "2011"
+    ],
+    "y_axis_label": "Mineral Rent(as % of GDP)",
+    "data": [
+        {
+            "label": "Coal",
+            "color": "#66CDAA",
+            "values": [
+                1.02739128441411e-06,
+                0.000787277867239282,
+                0.000278531108791864,
+                0.000699712450204214
+            ]
+        },
+        {
+            "label": "Natural Gas",
+            "color": "#8B008B",
+            "values": [
+                2.9313690547953,
+                6.19474269826812,
+                11.0470339646565,
+                4.15105514312153
+            ]
+        },
+        {
+            "label": "Oil",
+            "color": "#2F4F4F",
+            "values": [
+                4.97548904252884,
+                9.672630076888847,
+                11.9403954068676,
+                8.94113925001343
+            ]
+        },
+        {
+            "label": "Other Minerals",
+            "color": "#20B2AA",
+            "values": [
+                0.0376605423983434,
+                0.0587630561916647,
+                0.0829752240320754,
+                0.3036358424329501
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

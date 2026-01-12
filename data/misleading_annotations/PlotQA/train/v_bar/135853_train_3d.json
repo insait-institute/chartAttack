@@ -1,0 +1,61 @@
+{
+    "title": "Grants received by an economy in 1975",
+    "x_axis": {
+        "categories": [
+            "Excluding technical cooperation",
+            "Techinal cooperation"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Burkina Faso": "#000000",
+        "Lebanon": "#6A5ACD",
+        "Seychelles": "#BEBEBE",
+        "St. Lucia": "#6495ED"
+    },
+    "data": {
+        "Burkina Faso": [
+            41200000,
+            31380000
+        ],
+        "Lebanon": [
+            8680000,
+            6940000
+        ],
+        "Seychelles": [
+            5090000,
+            2440000
+        ],
+        "St. Lucia": [
+            5180000,
+            2230000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 41200000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

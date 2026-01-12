@@ -1,0 +1,104 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018"
+    ],
+    "y_axis_label": "Transport volume in million passenger-kilometers",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                18542,
+                21976,
+                28939,
+                38060,
+                42755,
+                42289,
+                40943,
+                38437,
+                34917,
+                32308,
+                36578,
+                35846,
+                27038,
+                27322,
+                28215,
+                33835,
+                32702
+            ]
+        }
+    ],
+    "type": "line",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 18540,
+                "max_value": 42760
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": [
+        {
+            "label": "line",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5,
+                0.25,
+                1.5,
+                1.25,
+                0.25
+            ]
+        }
+    ]
+}

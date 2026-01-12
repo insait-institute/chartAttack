@@ -1,0 +1,73 @@
+{
+    "title": "Percent of total population of Philippines who survived till the age of 65 years",
+    "legend": {
+        "Age 65(female)": "#40E0D0",
+        "Age 65(male)": "#FF0000"
+    },
+    "x_axis": [
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+    ],
+    "y_axis_label": "Population(% of cohort)",
+    "data": [
+        {
+            "label": "Age 65(female)",
+            "color": "#40E0D0",
+            "values": [
+                69.51844,
+                69.94516999999999,
+                70.37189000000002,
+                70.79862,
+                71.22534,
+                71.48568,
+                71.74602
+            ]
+        },
+        {
+            "label": "Age 65(male)",
+            "color": "#FF0000",
+            "values": [
+                57.13081999999999,
+                57.35674,
+                57.58266,
+                57.80857,
+                58.03449000000001,
+                58.118,
+                58.20152
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

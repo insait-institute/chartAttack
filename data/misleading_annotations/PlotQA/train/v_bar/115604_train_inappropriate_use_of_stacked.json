@@ -1,0 +1,67 @@
+{
+    "title": "Ratio of older dependents as the proportion of dependents per 100 working-age population",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brazil": "#f27979",
+        "Brunei Darussalam": "#c1f200",
+        "Bulgaria": "#52a574",
+        "Burkina Faso": "#0042a5",
+        "Burundi": "#da79f2"
+    },
+    "data": {
+        "Brazil": [
+            5.865862515235679
+        ],
+        "Brunei Darussalam": [
+            7.49011397999535
+        ],
+        "Bulgaria": [
+            11.2686724069553
+        ],
+        "Burkina Faso": [
+            4.135780148255289
+        ],
+        "Burundi": [
+            5.5074257840712
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Brazil": "#f27979",
+        "Brunei Darussalam": "#c1f200",
+        "Bulgaria": "#52a574",
+        "Burkina Faso": "#0042a5",
+        "Burundi": "#da79f2"
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "title": "Funding in million euros",
+    "categories": [
+        "Poland",
+        "Hungary",
+        "Spain",
+        "Romania",
+        "Slovakia",
+        "Italy",
+        "Portugal",
+        "Greece",
+        "Lithuania",
+        "Czechia",
+        "Croatia",
+        "Germany",
+        "Bulgaria",
+        "Latvia",
+        "France",
+        "Slovenia",
+        "Estonia",
+        "Belgium",
+        "Finland",
+        "Malta",
+        "Sweden",
+        "Cyprus",
+        "Denmark",
+        "The Netherlands",
+        "Austria",
+        "Ireland",
+        "Luxembourg"
+    ],
+    "data": {
+        "Funding": [
+            7435,
+            5603,
+            4145,
+            3079,
+            2475,
+            2318,
+            1813,
+            1776,
+            1487,
+            1163,
+            1158,
+            826,
+            812,
+            792,
+            650,
+            586,
+            295,
+            66,
+            48,
+            48,
+            46,
+            45,
+            38,
+            25,
+            19,
+            3,
+            2
+        ]
+    },
+    "colors": {
+        "Funding": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7440
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Funding": "#2876dd"
+    }
+}

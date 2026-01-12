@@ -1,0 +1,77 @@
+{
+    "title": "Imports of goods and services",
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#FFA07A",
+        "Cameroon": "#ADFF2F",
+        "Papua New Guinea": "#00BFFF",
+        "Tonga": "#00FF7F"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            638301879773.369,
+            790704904885.8241,
+            1011140245362.79,
+            896029738150.496,
+            983948995886.303
+        ],
+        "Cameroon": [
+            4653457687.0,
+            5985580692.0,
+            8043900681.0,
+            6233327095.0,
+            6371450446.0
+        ],
+        "Papua New Guinea": [
+            3586277765.0,
+            4574643486.0,
+            4983577698.0,
+            4710644213.0,
+            6285601686.0
+        ],
+        "Tonga": [
+            170446880.4,
+            199361752.5,
+            247493333.9,
+            239231562.9,
+            227301337.5
+        ]
+    },
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#FFA07A",
+        "Cameroon": "#ADFF2F",
+        "Papua New Guinea": "#00BFFF",
+        "Tonga": "#00FF7F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1011140245370
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

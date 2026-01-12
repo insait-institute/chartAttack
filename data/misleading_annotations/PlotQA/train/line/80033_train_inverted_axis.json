@@ -1,0 +1,76 @@
+{
+    "title": "Claims on the different sectors of the domestic economy of Caribbean small states",
+    "legend": {
+        "Central government": "#F0E68C",
+        "State government": "#DB7093"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Claims (% of GDP)",
+    "data": [
+        {
+            "label": "Central government",
+            "color": "#F0E68C",
+            "values": [
+                12.6019393102173,
+                8.41423582428562,
+                7.073632700889831,
+                3.06769189501306,
+                0.34218429946262,
+                -1.11216204204804,
+                5.68808820550517,
+                3.61409862411466
+            ]
+        },
+        {
+            "label": "State government",
+            "color": "#DB7093",
+            "values": [
+                44.0836842864328,
+                43.9299010716755,
+                44.0336485248651,
+                43.733427842965,
+                44.6653955859758,
+                41.696157617554,
+                50.37586757475449,
+                42.6824511166584
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -10,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

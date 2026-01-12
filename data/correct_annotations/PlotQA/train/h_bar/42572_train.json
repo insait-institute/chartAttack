@@ -1,0 +1,68 @@
+{
+    "title": "Electric power consumption in a country",
+    "legend": {
+        "1960": "#8B4513",
+        "1961": "#008B8B",
+        "1962": "#708090"
+    },
+    "categories": [
+        "Germany",
+        "Greece",
+        "Iceland",
+        "Ireland",
+        "Italy"
+    ],
+    "data": {
+        "1960": [
+            1586.74941529824,
+            241.726653244076,
+            2614.28229692323,
+            695.0434844092482,
+            975.02574716582
+        ],
+        "1961": [
+            1683.4149131441,
+            272.56327361709,
+            2871.043238804891,
+            752.018127743946,
+            1046.41510516688
+        ],
+        "1962": [
+            1790.68687742638,
+            305.389304485328,
+            2895.08603011328,
+            838.1375504663181,
+            1143.60512937935
+        ]
+    },
+    "colors": {
+        "1960": "#8B4513",
+        "1961": "#008B8B",
+        "1962": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

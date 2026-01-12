@@ -1,0 +1,72 @@
+{
+    "title": "Annual cost of importing from different countries",
+    "legend": {
+        "Cabo Verde": "#008080",
+        "Mauritius": "#CD853F",
+        "Rwanda": "#8FBC8F"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Cabo Verde": [
+            1070,
+            820,
+            925,
+            925,
+            925,
+            925
+        ],
+        "Mauritius": [
+            683,
+            673,
+            677,
+            689,
+            689,
+            689
+        ],
+        "Rwanda": [
+            4000,
+            4890,
+            4990,
+            4990,
+            4990,
+            4990
+        ]
+    },
+    "colors": {
+        "Cabo Verde": "#008080",
+        "Mauritius": "#CD853F",
+        "Rwanda": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4990
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Assets in billion euros",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Assets in billion euros"
+    },
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#f2a100",
+        "2010": "#c9f279",
+        "2011": "#00f200",
+        "2012": "#52a58a",
+        "2013": "#006ea5",
+        "2014": "#5252a5",
+        "2015": "#6e00a5",
+        "2016": "#f279c9"
+    },
+    "data": {
+        "2008": [
+            2.0
+        ],
+        "2009": [
+            3.0
+        ],
+        "2010": [
+            4.0
+        ],
+        "2011": [
+            6.0
+        ],
+        "2012": [
+            6.0
+        ],
+        "2013": [
+            7.0
+        ],
+        "2014": [
+            10.0
+        ],
+        "2015": [
+            10.0
+        ],
+        "2016": [
+            12.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#f2a100",
+        "2010": "#c9f279",
+        "2011": "#00f200",
+        "2012": "#52a58a",
+        "2013": "#006ea5",
+        "2014": "#5252a5",
+        "2015": "#6e00a5",
+        "2016": "#f279c9"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Educated male labor force in different countries in the year 2008",
+    "legend": {
+        "Central Europe": "#DB7093",
+        "Slovak Republic": "#FF7F50"
+    },
+    "categories": [
+        "Primary education",
+        "Secondary education",
+        "Tertiary education"
+    ],
+    "data": {
+        "Central Europe": [
+            13.21627479422,
+            69.6318150921662,
+            16.925883937403
+        ],
+        "Slovak Republic": [
+            5.900000095367429,
+            79.599998474121,
+            14.5
+        ]
+    },
+    "colors": {
+        "Central Europe": "#DB7093",
+        "Slovak Republic": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

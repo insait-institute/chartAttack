@@ -1,0 +1,68 @@
+{
+    "title": "Information and communication technology goods imported",
+    "x_axis": {
+        "categories": [
+            "High income",
+            "High income: nonOECD",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2000": "#B03060",
+        "2001": "#FF1493",
+        "2002": "#D2B48C"
+    },
+    "data": {
+        "2000": [
+            15.4583184583609,
+            22.6584528805096,
+            14.4293252313295,
+            13.2748209503115,
+            14.0466466438277
+        ],
+        "2001": [
+            14.2697264939538,
+            22.4330374256154,
+            13.1019799166893,
+            13.4807673423981,
+            14.6068714699959
+        ],
+        "2002": [
+            13.6973568820736,
+            23.4986957529512,
+            12.2952934282996,
+            12.0627424236977,
+            13.4431784458274
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

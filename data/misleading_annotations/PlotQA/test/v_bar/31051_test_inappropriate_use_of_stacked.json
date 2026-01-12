@@ -1,0 +1,67 @@
+{
+    "title": "CPIA Debt policy rating",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#c1f200",
+        "Middle income": "#52a574",
+        "Other small states": "#0042a5",
+        "Pacific island small states": "#da79f2"
+    },
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            3.75
+        ],
+        "Middle East & North Africa (developing only)": [
+            3.75
+        ],
+        "Middle income": [
+            3.67
+        ],
+        "Other small states": [
+            3.11111111111111
+        ],
+        "Pacific island small states": [
+            3.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#c1f200",
+        "Middle income": "#52a574",
+        "Other small states": "#0042a5",
+        "Pacific island small states": "#da79f2"
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "title": "Tourism statistics : Earnings from national visitors",
+    "x_axis": {
+        "categories": [
+            "Djibouti",
+            "Dominica",
+            "Dominican Republic",
+            "Ecuador"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#808000",
+        "1996": "#4682B4",
+        "1997": "#00BFFF"
+    },
+    "data": {
+        "1995": [
+            5400000.0,
+            42000000.0,
+            1571000000.0,
+            315000000.0
+        ],
+        "1996": [
+            4600000.0,
+            44000000.0,
+            1781000000.0,
+            330000000.0
+        ],
+        "1997": [
+            4200000.0,
+            48000000.0,
+            2099000000.0,
+            335000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2099000000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1995": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1996": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "1997": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Measure of Malta's business executives perception of the quality of port infrastructure",
+    "legend": {
+        "Quality of port infrastructure": "#66CDAA"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Rating (1=underdeveloped to 7=well developed) ",
+    "data": [
+        {
+            "label": "Quality of port infrastructure",
+            "color": "#66CDAA",
+            "values": [
+                4.871447196870929,
+                5.18716311327434,
+                5.4449535857,
+                5.56754625,
+                5.6,
+                5.7,
+                5.8,
+                5.5
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

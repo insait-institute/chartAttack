@@ -1,0 +1,77 @@
+{
+    "title": "Reserves in million tons",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Reserves in million tons"
+    },
+    "legend": {
+        "2008": "#f27979",
+        "2011": "#f2cf00",
+        "2012": "#9bf279",
+        "2014": "#00a55e",
+        "2016": "#5282a5",
+        "2018": "#2f00a5",
+        "2019": "#f279e0"
+    },
+    "data": {
+        "2008": [
+            30408.0
+        ],
+        "2011": [
+            30156.0
+        ],
+        "2012": [
+            30156.0
+        ],
+        "2014": [
+            30156.0
+        ],
+        "2016": [
+            9893.0
+        ],
+        "2018": [
+            9893.0
+        ],
+        "2019": [
+            9893.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30410
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2008": "#f27979",
+        "2011": "#f2cf00",
+        "2012": "#9bf279",
+        "2014": "#00a55e",
+        "2016": "#5282a5",
+        "2018": "#2f00a5",
+        "2019": "#f279e0"
+    }
+}

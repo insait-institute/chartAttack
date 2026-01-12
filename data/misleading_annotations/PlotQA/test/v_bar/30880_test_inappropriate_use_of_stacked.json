@@ -1,0 +1,67 @@
+{
+    "title": "Total labor force participation rate for ages 15-24",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Venezuela": "#f27979",
+        "Vietnam": "#c1f200",
+        "Virgin Islands": "#52a574",
+        "West Bank and Gaza": "#0042a5",
+        "Yemen, Rep.": "#da79f2"
+    },
+    "data": {
+        "Venezuela": [
+            44.5999984741211
+        ],
+        "Vietnam": [
+            77.1999969482422
+        ],
+        "Virgin Islands": [
+            51.2999992370605
+        ],
+        "West Bank and Gaza": [
+            27.39999961853031
+        ],
+        "Yemen, Rep.": [
+            32.9000015258789
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Venezuela": "#f27979",
+        "Vietnam": "#c1f200",
+        "Virgin Islands": "#52a574",
+        "West Bank and Gaza": "#0042a5",
+        "Yemen, Rep.": "#da79f2"
+    }
+}

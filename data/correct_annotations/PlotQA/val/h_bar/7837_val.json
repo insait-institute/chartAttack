@@ -1,0 +1,64 @@
+{
+    "title": "Net balance of payments of Kosovo from capital and financial account",
+    "legend": {
+        "Capital account": "#8FBC8F",
+        "Errors": "#B8860B",
+        "Financial account": "#32CD32"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Capital account": [
+            19647905.79,
+            23456457.4,
+            21857624.33,
+            17674773.21
+        ],
+        "Errors": [
+            221240486.0,
+            304933217.4,
+            360448339.2,
+            240582916.3
+        ],
+        "Financial account": [
+            -66845910.02,
+            44800835.25,
+            -102309338.0,
+            -662680229.7
+        ]
+    },
+    "colors": {
+        "Capital account": "#8FBC8F",
+        "Errors": "#B8860B",
+        "Financial account": "#32CD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 360448340
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

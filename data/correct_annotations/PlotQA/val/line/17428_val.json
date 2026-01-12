@@ -1,0 +1,70 @@
+{
+    "title": "Net disbursements of loans in St. Vincent and the Grenadines",
+    "legend": {
+        "From Government": "#D2B48C",
+        "From World Bank": "#2E8B57"
+    },
+    "x_axis": [
+        "1981",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987"
+    ],
+    "y_axis_label": "Amount (in current US$)",
+    "data": [
+        {
+            "label": "From Government",
+            "color": "#D2B48C",
+            "values": [
+                -69000,
+                -256000,
+                -113000,
+                -96000,
+                2641000,
+                2029000
+            ]
+        },
+        {
+            "label": "From World Bank",
+            "color": "#2E8B57",
+            "values": [
+                6707000,
+                3964000,
+                1635000,
+                1819000,
+                926000,
+                6635000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -256000,
+                "max_value": 6707000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

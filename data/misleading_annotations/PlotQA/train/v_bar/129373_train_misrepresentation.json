@@ -1,0 +1,98 @@
+{
+    "title": "PPP conversion factor for GDP",
+    "x_axis": {
+        "categories": [
+            "Malta",
+            "Marshall Islands",
+            "Mauritania",
+            "Mauritius",
+            "Mexico",
+            "Micronesia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#DAA520",
+        "1991": "#808000",
+        "1992": "#0000FF"
+    },
+    "data": {
+        "1990": [
+            0.486709537772364,
+            0.8498068747632099,
+            22.4365922854254,
+            7.61566134505872,
+            1.433903,
+            0.855649411939674
+        ],
+        "1991": [
+            0.486814865136049,
+            0.8639180319249811,
+            30.7062213528717,
+            8.00155503258358,
+            1.710361,
+            0.8703302099235791
+        ],
+        "1992": [
+            0.492882762571899,
+            0.8701220630624491,
+            31.7456954839954,
+            8.24218545698958,
+            1.913231,
+            0.876720850557509
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1990": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1991": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1992": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

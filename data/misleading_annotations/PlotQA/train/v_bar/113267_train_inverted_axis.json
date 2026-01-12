@@ -1,0 +1,54 @@
+{
+    "title": "Cost of damage due to depletion of the various natural resources",
+    "x_axis": {
+        "categories": [
+            "Japan",
+            "Libya",
+            "Malaysia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#FFA07A",
+        "1971": "#4B0082"
+    },
+    "data": {
+        "1970": [
+            23000874.3645613,
+            1161073622.24757,
+            3970377.45095804
+        ],
+        "1971": [
+            33701379.0939385,
+            1181194852.088,
+            17879697.2142594
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1181194860
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

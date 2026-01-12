@@ -1,0 +1,60 @@
+{
+    "title": "Number of children ages 0-14 who are infected with HIV",
+    "x_axis": {
+        "categories": [
+            "Swaziland",
+            "Tajikistan",
+            "Thailand"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#FF4500",
+        "1991": "#FFA07A",
+        "1992": "#FF00FF"
+    },
+    "data": {
+        "1990": [
+            500,
+            100,
+            200
+        ],
+        "1991": [
+            1000,
+            100,
+            500
+        ],
+        "1992": [
+            1200,
+            100,
+            1000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1200
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Export and external balance on goods as percent of GDP for Uzbekistan",
+    "legend": {
+        "1993": "#f27979",
+        "1994": "#c1f200",
+        "1995": "#52a574",
+        "1996": "#0042a5",
+        "1997": "#da79f2"
+    },
+    "categories": [
+        "Export and external balance on goods as percent of GDP for Uzbekistan"
+    ],
+    "data": {
+        "1993": [
+            33.7196634216488
+        ],
+        "1994": [
+            16.7755897258838
+        ],
+        "1995": [
+            36.6830761726136
+        ],
+        "1996": [
+            27.6872808599113
+        ],
+        "1997": [
+            27.04040109333251
+        ]
+    },
+    "colors": {
+        "1993": "#f27979",
+        "1994": "#c1f200",
+        "1995": "#52a574",
+        "1996": "#0042a5",
+        "1997": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

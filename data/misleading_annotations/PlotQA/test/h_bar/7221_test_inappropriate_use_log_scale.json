@@ -1,0 +1,58 @@
+{
+    "title": "Emission of gasses due to human activities in Senegal",
+    "legend": {
+        "Methane emissions": "#00CED1",
+        "Nitrous oxide emissions": "#ADFF2F"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "data": {
+        "Methane emissions": [
+            5628.2,
+            7078.1,
+            7662.4,
+            9131.9,
+            9732.9
+        ],
+        "Nitrous oxide emissions": [
+            2946.3,
+            3794.9,
+            4042.4,
+            5280.7,
+            6433.0
+        ]
+    },
+    "colors": {
+        "Methane emissions": "#00CED1",
+        "Nitrous oxide emissions": "#ADFF2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9740
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Annual growth rate in broad and quasi money of different countries",
+    "x_axis": {
+        "categories": [
+            "Quasi money growth",
+            "Broad money growth"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Armenia": "#663399",
+        "Cabo Verde": "#6B8E23",
+        "Japan": "#C71585",
+        "Tanzania": "#191970"
+    },
+    "data": {
+        "Armenia": [
+            23.655416685468,
+            23.655416685468
+        ],
+        "Cabo Verde": [
+            4.5845954135798,
+            4.5845954135798
+        ],
+        "Japan": [
+            2.88103021384875,
+            2.88103021384875
+        ],
+        "Tanzania": [
+            18.2395320637285,
+            18.2395320637285
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

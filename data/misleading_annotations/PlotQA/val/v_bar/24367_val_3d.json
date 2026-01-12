@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of female workers employed in Private sector",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Finland",
+            "France",
+            "Hong Kong",
+            "Israel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#F0E68C",
+        "1981": "#FF4500"
+    },
+    "data": {
+        "1980": [
+            81.1999969482422,
+            65.099998474121,
+            70.5,
+            42.5999984741211,
+            79.4000015258789
+        ],
+        "1981": [
+            81.5,
+            66.1999969482422,
+            71.599998474121,
+            45.0999984741211,
+            80.4000015258789
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

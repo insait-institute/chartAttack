@@ -1,0 +1,50 @@
+{
+    "title": "Official Development Assistance (per capita) received by different countries in the year 2002",
+    "x_axis": {
+        "categories": [
+            "Caribbean small states",
+            "Central Europe",
+            "East Asia (all income levels)",
+            "East Asia (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Net ODA received per capita": "#FFA07A"
+    },
+    "data": {
+        "Net ODA received per capita": [
+            37.30083806335679,
+            1.82471797241909,
+            3.53765691449104,
+            3.98463303271253
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Agricultural methane emissions by a country",
+    "legend": {
+        "1990": "#708090",
+        "2000": "#BEBEBE",
+        "2005": "#ADFF2F"
+    },
+    "categories": [
+        "Luxembourg",
+        "Macedonia",
+        "Malaysia",
+        "Malta",
+        "Mexico",
+        "Moldova"
+    ],
+    "data": {
+        "1990": [
+            80.2225852562793,
+            64.7299410561771,
+            29.0015492325796,
+            27.7082199237888,
+            53.39239548521339,
+            53.5630383711825
+        ],
+        "2000": [
+            81.741435162462,
+            47.70469798657722,
+            19.0796020751187,
+            21.9237435008665,
+            52.091726363054,
+            34.3902663839985
+        ],
+        "2005": [
+            82.53275109170309,
+            46.15927206037949,
+            16.0107834434691,
+            19.6654426764586,
+            47.93239832266249,
+            27.9698356210812
+        ]
+    },
+    "colors": {
+        "1990": "#708090",
+        "2000": "#BEBEBE",
+        "2005": "#ADFF2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

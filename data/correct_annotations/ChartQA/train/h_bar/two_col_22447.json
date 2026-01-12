@@ -1,0 +1,78 @@
+{
+    "title": "Points scored",
+    "categories": [
+        "LeBron James",
+        "Zydrunas Ilgauskas",
+        "Brad Daugherty",
+        "Austin Carr",
+        "Mark Price",
+        "Bingo Smith",
+        "Hot Rod Williams",
+        "Kyrie Irving",
+        "Larry Nance",
+        "Campy Russell"
+    ],
+    "data": {
+        "Points": [
+            23119,
+            10616,
+            10389,
+            10265,
+            9543,
+            9513,
+            8504,
+            8232,
+            7257,
+            6588
+        ]
+    },
+    "colors": {
+        "LeBron James": "#2876dd",
+        "Zydrunas Ilgauskas": "#2876dd",
+        "Brad Daugherty": "#2876dd",
+        "Austin Carr": "#2876dd",
+        "Mark Price": "#2876dd",
+        "Bingo Smith": "#2876dd",
+        "Hot Rod Williams": "#2876dd",
+        "Kyrie Irving": "#2876dd",
+        "Larry Nance": "#2876dd",
+        "Campy Russell": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "LeBron James": "#2876dd",
+        "Zydrunas Ilgauskas": "#2876dd",
+        "Brad Daugherty": "#2876dd",
+        "Austin Carr": "#2876dd",
+        "Mark Price": "#2876dd",
+        "Bingo Smith": "#2876dd",
+        "Hot Rod Williams": "#2876dd",
+        "Kyrie Irving": "#2876dd",
+        "Larry Nance": "#2876dd",
+        "Campy Russell": "#2876dd"
+    }
+}

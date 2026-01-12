@@ -1,0 +1,52 @@
+{
+    "title": "Revenue collected vs subsidy given by the government in 2004",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Revenue": "#f27979",
+        "Subsidies": "#00a5a5"
+    },
+    "data": {
+        "Revenue": [
+            229127000000.0
+        ],
+        "Subsidies": [
+            155984000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 229127000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Revenue": "#f27979",
+        "Subsidies": "#00a5a5"
+    }
+}

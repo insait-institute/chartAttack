@@ -1,0 +1,79 @@
+{
+    "title": "Adult literacy rate among population of South Asia with age of 15+ years",
+    "legend": {
+        "Female": "#00BFFF",
+        "Male": "#FFA07A"
+    },
+    "x_axis": [
+        "1990",
+        "2000",
+        "2010"
+    ],
+    "y_axis_label": "Literacy rate(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#00BFFF",
+            "values": [
+                32.68069697456639,
+                45.5944552691571,
+                57.00318361142079
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#FFA07A",
+            "values": [
+                59.3078613721903,
+                69.7458997115555,
+                76.0810554783978
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Female",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "label": "Male",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        }
+    ]
+}

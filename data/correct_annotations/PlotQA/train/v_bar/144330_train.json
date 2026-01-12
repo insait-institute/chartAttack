@@ -1,0 +1,66 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1989",
+    "x_axis": {
+        "categories": [
+            "Coal sources",
+            "Natural gas sources",
+            "Oil sources"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "World": "#556B2F",
+        "Australia": "#DAA520",
+        "Finland": "#66CDAA",
+        "Slovak Republic": "#A020F0"
+    },
+    "data": {
+        "World": [
+            34.1872878036333,
+            8.77113345830824,
+            9.36897722468821
+        ],
+        "Australia": [
+            77.2800206687426,
+            10.2854190179628,
+            2.05599597503433
+        ],
+        "Finland": [
+            17.0057788431165,
+            7.30438337328354,
+            2.13129680212572
+        ],
+        "Slovak Republic": [
+            33.1666666666667,
+            2.25641025641026,
+            4.23931623931624
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

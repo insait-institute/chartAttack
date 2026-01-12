@@ -1,0 +1,57 @@
+{
+    "title": "Energy use of a country",
+    "legend": {
+        "Finland": "#f27979",
+        "France": "#79f200",
+        "Germany": "#52a5a5",
+        "Greece": "#5200a5"
+    },
+    "categories": [
+        "Energy use of a country"
+    ],
+    "data": {
+        "Finland": [
+            2196.95306655132
+        ],
+        "France": [
+            1692.26177925318
+        ],
+        "Germany": [
+            1952.588632271689
+        ],
+        "Greece": [
+            289.057068014127
+        ]
+    },
+    "colors": {
+        "Finland": "#f27979",
+        "France": "#79f200",
+        "Germany": "#52a5a5",
+        "Greece": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2370
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

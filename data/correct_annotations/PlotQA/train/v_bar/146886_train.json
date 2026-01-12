@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary  and secondary schools in countries",
+    "x_axis": {
+        "categories": [
+            "Primary completion rate",
+            "Lower secondary rate"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cameroon": "#ADFF2F",
+        "Costa Rica": "#CD853F",
+        "Djibouti": "#FF7F50",
+        "Finland": "#FFFF00"
+    },
+    "data": {
+        "Cameroon": [
+            54.43546,
+            15.74333
+        ],
+        "Costa Rica": [
+            75.39533,
+            26.62818
+        ],
+        "Djibouti": [
+            29.00483,
+            8.70664
+        ],
+        "Finland": [
+            104.12964,
+            105.22232
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

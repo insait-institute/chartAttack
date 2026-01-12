@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of population having access to drinking water",
+    "x_axis": {
+        "categories": [
+            "Antigua and Barbuda",
+            "Argentina",
+            "Aruba",
+            "Australia",
+            "Austria",
+            "Azerbaijan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#00FFFF",
+        "1991": "#6A5ACD",
+        "1992": "#00FA9A"
+    },
+    "data": {
+        "1990": [
+            97.4,
+            93.8,
+            91.0,
+            100.0,
+            100.0,
+            69.1
+        ],
+        "1991": [
+            97.5,
+            94.1,
+            91.3,
+            100.0,
+            100.0,
+            69.0
+        ],
+        "1992": [
+            97.5,
+            94.3,
+            91.6,
+            100.0,
+            100.0,
+            68.9
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

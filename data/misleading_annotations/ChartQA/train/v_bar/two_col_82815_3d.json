@@ -1,0 +1,62 @@
+{
+    "title": "Revenues in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenues in billion U.S. dollars"
+    },
+    "legend": {
+        "Company": "#2876dd"
+    },
+    "data": {
+        "Company": [
+            312.7,
+            318.7,
+            341,
+            392.3,
+            439.9,
+            488.7,
+            546.6,
+            572.4,
+            510,
+            588.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 590
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

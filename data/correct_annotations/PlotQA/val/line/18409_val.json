@@ -1,0 +1,83 @@
+{
+    "title": "Value added in manufacturing (as % of GDP) in Hungary's economy",
+    "legend": {
+        "Machinery": "#228B22",
+        "Transport equipments": "#00FFFF",
+        "Textiles and clothing": "#008080"
+    },
+    "x_axis": [
+        "1972",
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1977"
+    ],
+    "y_axis_label": "Value added (in %)",
+    "data": [
+        {
+            "label": "Machinery",
+            "color": "#228B22",
+            "values": [
+                16.9252095903161,
+                16.4061574794868,
+                16.9607584891406,
+                17.9199923029872,
+                18.3599486071074,
+                19.6634543310297
+            ]
+        },
+        {
+            "label": "Transport equipments",
+            "color": "#00FFFF",
+            "values": [
+                47.4222720811217,
+                47.48963883462461,
+                50.0869107182376,
+                49.5961150156912,
+                48.2057635808891,
+                48.958905473797
+            ]
+        },
+        {
+            "label": "Textiles and clothing",
+            "color": "#008080",
+            "values": [
+                11.4198957034126,
+                11.716992313187,
+                11.5038188022938,
+                11.0202904082188,
+                10.3248898683273,
+                10.3959654514943
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

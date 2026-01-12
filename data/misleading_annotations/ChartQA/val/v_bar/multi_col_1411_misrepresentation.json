@@ -1,0 +1,98 @@
+{
+    "title": "Sales price in U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales price in U.S. dollars"
+    },
+    "legend": {
+        "Beer*": "#2876dd",
+        "Soft drink**": "#0f283e",
+        "Hot dog": "#bababa"
+    },
+    "data": {
+        "Beer*": [
+            7,
+            8,
+            7.5,
+            8.5,
+            8.5,
+            8.5
+        ],
+        "Soft drink**": [
+            4.75,
+            5,
+            4.5,
+            5.25,
+            5.25,
+            5.25
+        ],
+        "Hot dog": [
+            5,
+            6,
+            5.75,
+            6,
+            5.75,
+            5.75
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false,
+    "scaling_factors": {
+        "Beer*": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Soft drink**": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Hot dog": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

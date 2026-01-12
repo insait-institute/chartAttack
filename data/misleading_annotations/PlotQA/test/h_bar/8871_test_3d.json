@@ -1,0 +1,60 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in the Arab World",
+    "legend": {
+        "1960": "#FF8C00",
+        "1961": "#87CEEB",
+        "1962": "#663399"
+    },
+    "categories": [
+        "Pakistan",
+        "Philippines",
+        "Portugal"
+    ],
+    "data": {
+        "1960": [
+            2.59437626223396,
+            1.17665036674817,
+            6.09790002409505
+        ],
+        "1961": [
+            3.10823603660461,
+            2.64832075750851,
+            5.87609309212048
+        ],
+        "1962": [
+            2.22496909765142,
+            3.03077160971084,
+            6.31160297423483
+        ]
+    },
+    "colors": {
+        "1960": "#FF8C00",
+        "1961": "#87CEEB",
+        "1962": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

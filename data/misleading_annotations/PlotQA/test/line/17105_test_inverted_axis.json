@@ -1,0 +1,73 @@
+{
+    "title": "Survival rate of children of Tanzania in Grade 5 of primary education",
+    "legend": {
+        "Female": "#006400",
+        "Male": "#4B0082"
+    },
+    "x_axis": [
+        "1992",
+        "1993",
+        "1994",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Survival Rate(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#006400",
+            "values": [
+                71.43099000000002,
+                77.05665,
+                72.03938000000002,
+                77.14676999999998,
+                83.19388000000002,
+                79.651611328125,
+                83.2583694458008
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#4B0082",
+            "values": [
+                68.82434,
+                72.74896,
+                70.57278000000002,
+                72.79498000000002,
+                78.66808,
+                79.787712097168,
+                79.5268630981445
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

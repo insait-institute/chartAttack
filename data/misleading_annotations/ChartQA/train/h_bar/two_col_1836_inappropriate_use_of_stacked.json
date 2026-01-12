@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Japan": "#f27979",
+        "North America": "#c1f200",
+        "Asia": "#52a574",
+        "Europe": "#0042a5",
+        "Other": "#da79f2"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Japan": [
+            14948931.0
+        ],
+        "North America": [
+            9491803.0
+        ],
+        "Asia": [
+            5045295.0
+        ],
+        "Europe": [
+            3134489.0
+        ],
+        "Other": [
+            1872895.0
+        ]
+    },
+    "colors": {
+        "Japan": "#f27979",
+        "North America": "#c1f200",
+        "Asia": "#52a574",
+        "Europe": "#0042a5",
+        "Other": "#da79f2"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 14948940
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

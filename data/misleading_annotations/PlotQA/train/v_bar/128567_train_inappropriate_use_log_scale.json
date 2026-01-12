@@ -1,0 +1,60 @@
+{
+    "title": "Total CO2 emission from different fuels in 1994",
+    "x_axis": {
+        "categories": [
+            "Gaseous fuel",
+            "Liquid fuel",
+            "Solid fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bhutan": "#8FBC8F",
+        "Canada": "#B03060",
+        "Israel": "#87CEEB"
+    },
+    "data": {
+        "Bhutan": [
+            212.686,
+            91.675,
+            62.339
+        ],
+        "Canada": [
+            456955.871,
+            201857.349,
+            96405.43
+        ],
+        "Israel": [
+            48705.09400000001,
+            29930.054,
+            16336.485
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 456960
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

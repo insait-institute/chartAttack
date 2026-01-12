@@ -1,0 +1,72 @@
+{
+    "title": "Net bilateral aid flow in an economy from Iceland",
+    "legend": {
+        "1992": "#808000",
+        "1994": "#FF1493",
+        "1997": "#00FFFF",
+        "1998": "#0000FF"
+    },
+    "categories": [
+        "Other small states",
+        "Small states",
+        "Sub-Saharan Africa (all income levels)",
+        "Sub-Saharan Africa (developing only)"
+    ],
+    "data": {
+        "1992": [
+            800000.0,
+            800000.0,
+            1550000.0,
+            1550000.0
+        ],
+        "1994": [
+            1270000.0,
+            1270000.0,
+            1610000.0,
+            1610000.0
+        ],
+        "1997": [
+            1300000.0,
+            1300000.0,
+            2200000.0,
+            2200000.0
+        ],
+        "1998": [
+            1290000.0,
+            1290000.0,
+            2120000.0,
+            2120000.0
+        ]
+    },
+    "colors": {
+        "1992": "#808000",
+        "1994": "#FF1493",
+        "1997": "#00FFFF",
+        "1998": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2200000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,96 @@
+{
+    "title": "Revenue in million euros",
+    "x_axis": {
+        "categories": [
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million euros"
+    },
+    "legend": {
+        "Matchday": "#2876dd",
+        "Broadcasting": "#0f283e",
+        "Commercial": "#bababa"
+    },
+    "data": {
+        "Matchday": [
+            24.4,
+            29.8,
+            29.5,
+            38.1,
+            46.2,
+            56.8,
+            57,
+            70.2,
+            60.4,
+            63.9,
+            62.4,
+            47.6
+        ],
+        "Broadcasting": [
+            56.7,
+            66,
+            76.1,
+            109,
+            103.1,
+            159.3,
+            178,
+            215.8,
+            236.8,
+            238.8,
+            287.2,
+            217
+        ],
+        "Commercial": [
+            21.1,
+            57,
+            64,
+            138.5,
+            166.9,
+            198.3,
+            228.5,
+            238.9,
+            230.5,
+            265.7,
+            261,
+            284.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 290
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

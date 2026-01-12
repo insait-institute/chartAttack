@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of trained primary school teachers (females) in different countries",
+    "x_axis": {
+        "categories": [
+            "Niger",
+            "Oman",
+            "Panama",
+            "Rwanda",
+            "Seychelles"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Trained teachers female": "#8B008B"
+    },
+    "data": {
+        "Trained teachers female": [
+            97.4164810180664,
+            99.8270797729492,
+            81.0864181518555,
+            53.38364028930661,
+            74.7368392944335
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Trained teachers female": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

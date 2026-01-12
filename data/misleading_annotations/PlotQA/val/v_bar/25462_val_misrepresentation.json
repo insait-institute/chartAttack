@@ -1,0 +1,77 @@
+{
+    "title": "Female unemployment expressed as percentage of female labor force",
+    "x_axis": {
+        "categories": [
+            "Ukraine",
+            "United Arab Emirates",
+            "United Kingdom"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1991": "#B8860B",
+        "1992": "#00FA9A",
+        "1993": "#FFD700"
+    },
+    "data": {
+        "1991": [
+            6.0,
+            8.60000038146973,
+            7.400000095367429
+        ],
+        "1992": [
+            6.699999809265139,
+            8.10000038146973,
+            7.5
+        ],
+        "1993": [
+            7.300000190734861,
+            9.80000019073486,
+            7.800000190734861
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1991": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1992": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "1993": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

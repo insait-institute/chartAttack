@@ -1,0 +1,64 @@
+{
+    "title": "Trade statistics of Cameroon with developing economies in Latin America",
+    "legend": {
+        "Merchandise exports": "#A020F0",
+        "Merchandise imports": "#0000FF"
+    },
+    "x_axis": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "Trade with economies of Latin America & Caribbean(%)",
+    "data": [
+        {
+            "label": "Merchandise exports",
+            "color": "#A020F0",
+            "values": [
+                0.762405574217265,
+                0.7220758767973399,
+                0.2258139189376269,
+                0.283640584585126
+            ]
+        },
+        {
+            "label": "Merchandise imports",
+            "color": "#0000FF",
+            "values": [
+                1.18339907136343,
+                1.02942572314968,
+                0.8070384458090699,
+                0.891604822193266
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

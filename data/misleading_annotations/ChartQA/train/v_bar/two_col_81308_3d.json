@@ -1,0 +1,62 @@
+{
+    "title": "Total investment in million euros",
+    "x_axis": {
+        "categories": [
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016"
+        ]
+    },
+    "y_axis": {
+        "label": "Total investment in million euros"
+    },
+    "legend": {
+        "Investment": "#2876dd"
+    },
+    "data": {
+        "Investment": [
+            191.07,
+            233.95,
+            223.36,
+            233.89,
+            447.36,
+            268.29,
+            316.96,
+            238.84,
+            155.88,
+            146.81
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 450
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

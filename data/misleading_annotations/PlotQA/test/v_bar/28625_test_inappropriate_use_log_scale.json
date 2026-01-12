@@ -1,0 +1,61 @@
+{
+    "title": "Amount earned/paid by the government for trading goods in 2000",
+    "x_axis": {
+        "categories": [
+            "Exports",
+            "Imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Albania": "#87CEEB",
+        "Guinea-Bissau": "#CD853F",
+        "Philippines": "#BEBEBE",
+        "Uzbekistan": "#FF4500"
+    },
+    "data": {
+        "Albania": [
+            886057688.341439,
+            2093776465.25564
+        ],
+        "Guinea-Bissau": [
+            96547916.0993571,
+            135468560.461812
+        ],
+        "Philippines": [
+            39528909952.1592,
+            42542411331.6008
+        ],
+        "Uzbekistan": [
+            3383400000,
+            2961900000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 42542411340
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

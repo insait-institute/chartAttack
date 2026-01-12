@@ -1,0 +1,67 @@
+{
+    "title": "Net disbursements made to countries from members of DAC",
+    "legend": {
+        "Azerbaijan": "#00FA9A",
+        "Ecuador": "#C71585",
+        "Georgia": "#FFD700",
+        "Ukraine": "#DAA520"
+    },
+    "categories": [
+        "Czech Republic",
+        "Poland",
+        "Slovak Republic"
+    ],
+    "data": {
+        "Azerbaijan": [
+            160000,
+            430000,
+            30000
+        ],
+        "Ecuador": [
+            50000,
+            10000,
+            40000
+        ],
+        "Georgia": [
+            2630000,
+            2580000,
+            520000
+        ],
+        "Ukraine": [
+            2540000,
+            12330000,
+            950000
+        ]
+    },
+    "colors": {
+        "Azerbaijan": "#00FA9A",
+        "Ecuador": "#C71585",
+        "Georgia": "#FFD700",
+        "Ukraine": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12330000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

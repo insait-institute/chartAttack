@@ -1,0 +1,61 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Physical": "#2876dd",
+        "Other": "#0f283e",
+        "Downloaded": "#bababa",
+        "Total": "#a60b0b"
+    },
+    "data": {
+        "Physical": [
+            78.2,
+            78.4
+        ],
+        "Other": [
+            102.7,
+            107.6
+        ],
+        "Downloaded": [
+            111,
+            131.6
+        ],
+        "Total": [
+            291.9,
+            317.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 320
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

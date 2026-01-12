@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Receiving yards": "#2876dd"
+    },
+    "categories": [
+        "Jason Witten",
+        "Michael Irvin",
+        "Tony Hill",
+        "Drew Pearson",
+        "Dez Bryant",
+        "Bob Hayes",
+        "Frank Clarke",
+        "Miles Austin",
+        "Doug Cosbie",
+        "Terrell Owens",
+        "Jay Novacek",
+        "Billy Joe DuPree",
+        "Lance Rentzel",
+        "Tony Dorsett",
+        "Terrance Williams",
+        "Terry Glenn",
+        "Cole Beasley",
+        "Kelvin Martin",
+        "Amari Cooper",
+        "Emmitt Smith"
+    ],
+    "data": {
+        "Receiving yards": [
+            12977,
+            11904,
+            7988,
+            7822,
+            7459,
+            7295,
+            5214,
+            4481,
+            3728,
+            3587,
+            3576,
+            3565,
+            3521,
+            3432,
+            3377,
+            3337,
+            3271,
+            3083,
+            3028,
+            3012
+        ]
+    },
+    "colors": {
+        "Receiving yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12980
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

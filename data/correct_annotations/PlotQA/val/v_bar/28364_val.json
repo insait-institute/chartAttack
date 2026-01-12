@@ -1,0 +1,56 @@
+{
+    "title": "Agricultural methane and nitrous oxide emissions by different countries in 2005",
+    "x_axis": {
+        "categories": [
+            "Methane emissions",
+            "Nitrous oxide emissions"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Brazil": "#663399",
+        "Honduras": "#FF69B4",
+        "Kenya": "#CD853F"
+    },
+    "data": {
+        "Brazil": [
+            61.4837270779521,
+            66.1053822098198
+        ],
+        "Honduras": [
+            78.2139164400873,
+            79.947143463082
+        ],
+        "Kenya": [
+            56.65593097928989,
+            88.24695179494921
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

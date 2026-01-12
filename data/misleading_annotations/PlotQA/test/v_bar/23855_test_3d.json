@@ -1,0 +1,60 @@
+{
+    "title": "Number of procedures to register a business or property in different countries",
+    "x_axis": {
+        "categories": [
+            "France",
+            "Georgia",
+            "Germany",
+            "Ghana",
+            "Greece"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Register a business": "#6495ED",
+        "Register a property": "#6A5ACD"
+    },
+    "data": {
+        "Register a business": [
+            5.0,
+            9.0,
+            9.0,
+            11.0,
+            15.0
+        ],
+        "Register a property": [
+            9.0,
+            8.0,
+            5.0,
+            6.0,
+            11.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

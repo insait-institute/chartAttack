@@ -1,0 +1,97 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "Jan 29 to 30, 2020",
+        "Feb 27 to 28, 2020",
+        "Mar 5, 2020",
+        "Mar 15, 2020",
+        "Mar 19 to 20, 2020",
+        "Mar 24 to 25, 2020",
+        "Mar 26 to 27, 2020",
+        "Apr 1 to 2, 2020",
+        "Apr 15 to16, 2020",
+        "Apr 28 to 29, 2020",
+        "May 12 to 13, 2020",
+        "May 26 to 27, 2020",
+        "Jun 10 to 11, 2020",
+        "Jun 23 to 24, 2020",
+        "Jul 9 to 10, 2020",
+        "Aug 13 to 14, 2020",
+        "Sep 8 to 9, 2020",
+        "Sep 25, 2020",
+        "Sep 30 to Oct 1, 2020",
+        "Oct 13 to 14, 2020",
+        "Oct 29, 2020",
+        "Nov 17 to 18, 2020",
+        "Jan 5 to 6, 2021",
+        "Jan 20 to 21, 2021",
+        "Feb 23 to 24, 2021",
+        "May 11 to 12, 2021"
+    ],
+    "y_axis_label": "Share of respondents who are worried",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                44,
+                61,
+                47,
+                74,
+                84,
+                85,
+                79,
+                82,
+                75,
+                78,
+                76,
+                65,
+                62,
+                65,
+                69,
+                73,
+                67,
+                68,
+                69,
+                71,
+                78,
+                69,
+                71,
+                73,
+                69,
+                54
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

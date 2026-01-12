@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Poland": "#f27979",
+        "Syria": "#f24800",
+        "Turkey": "#f2c179",
+        "Germany": "#f2da00",
+        "Romania": "#daf279",
+        "Iraq": "#79f200",
+        "Iran": "#91f279",
+        "Bosnia and Herzegovina": "#00a510",
+        "United Kingdom": "#52a574",
+        "Norway": "#00a574",
+        "Sweden": "#52a5a5",
+        "Pakistan": "#0074a5",
+        "Afghanistan": "#5274a5",
+        "Lithuania": "#0010a5",
+        "Lebanon": "#9179f2",
+        "India": "#7900f2",
+        "Ukraine": "#da79f2",
+        "China": "#f200da",
+        "Thailand": "#f279c1",
+        "Somalia": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Poland": [
+            41859.0
+        ],
+        "Syria": [
+            35659.0
+        ],
+        "Turkey": [
+            33219.0
+        ],
+        "Germany": [
+            30936.0
+        ],
+        "Romania": [
+            30288.0
+        ],
+        "Iraq": [
+            21894.0
+        ],
+        "Iran": [
+            17571.0
+        ],
+        "Bosnia and Herzegovina": [
+            16599.0
+        ],
+        "United Kingdom": [
+            15812.0
+        ],
+        "Norway": [
+            15580.0
+        ],
+        "Sweden": [
+            14588.0
+        ],
+        "Pakistan": [
+            14483.0
+        ],
+        "Afghanistan": [
+            13941.0
+        ],
+        "Lithuania": [
+            13162.0
+        ],
+        "Lebanon": [
+            13140.0
+        ],
+        "India": [
+            12701.0
+        ],
+        "Ukraine": [
+            12298.0
+        ],
+        "China": [
+            12060.0
+        ],
+        "Thailand": [
+            12037.0
+        ],
+        "Somalia": [
+            11196.0
+        ]
+    },
+    "colors": {
+        "Poland": "#f27979",
+        "Syria": "#f24800",
+        "Turkey": "#f2c179",
+        "Germany": "#f2da00",
+        "Romania": "#daf279",
+        "Iraq": "#79f200",
+        "Iran": "#91f279",
+        "Bosnia and Herzegovina": "#00a510",
+        "United Kingdom": "#52a574",
+        "Norway": "#00a574",
+        "Sweden": "#52a5a5",
+        "Pakistan": "#0074a5",
+        "Afghanistan": "#5274a5",
+        "Lithuania": "#0010a5",
+        "Lebanon": "#9179f2",
+        "India": "#7900f2",
+        "Ukraine": "#da79f2",
+        "China": "#f200da",
+        "Thailand": "#f279c1",
+        "Somalia": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 41860
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

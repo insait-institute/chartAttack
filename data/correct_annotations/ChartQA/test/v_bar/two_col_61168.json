@@ -1,0 +1,50 @@
+{
+    "title": "Demand in million metric tons of oil equivalent",
+    "x_axis": {
+        "categories": [
+            "2000",
+            "2017",
+            "2025*",
+            "2040*"
+        ]
+    },
+    "y_axis": {
+        "label": "Demand in million metric tons of oil equivalent"
+    },
+    "legend": {
+        "Demand": "#2876dd"
+    },
+    "data": {
+        "Demand": [
+            10027,
+            13972,
+            15388,
+            17715
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17720
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

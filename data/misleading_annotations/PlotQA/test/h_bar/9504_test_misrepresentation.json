@@ -1,0 +1,91 @@
+{
+    "title": "Population in urban agglomerations of more than 1 million",
+    "legend": {
+        "Guatemala": "#FF69B4",
+        "Senegal": "#F4A460",
+        "Venezuela": "#FF00FF"
+    },
+    "categories": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "data": {
+        "Guatemala": [
+            1710891,
+            1772856,
+            1837156,
+            1903788,
+            1972933
+        ],
+        "Senegal": [
+            1751286,
+            1816737,
+            1884730,
+            1955268,
+            2028549
+        ],
+        "Venezuela": [
+            7317478,
+            7439520,
+            7564685,
+            7692883,
+            7824375
+        ]
+    },
+    "colors": {
+        "Guatemala": "#FF69B4",
+        "Senegal": "#F4A460",
+        "Venezuela": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7824380
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Guatemala": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Senegal": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Venezuela": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

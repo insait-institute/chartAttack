@@ -1,0 +1,66 @@
+{
+    "title": "Enrolment ratio of female students in pre-primary schools",
+    "legend": {
+        "Chile": "#9acd32",
+        "Tajikistan": "#75cd32"
+    },
+    "categories": [
+        "2000",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Chile": [
+            77.86402893066409,
+            77.0923614501953,
+            74.4204406738281,
+            77.114402770996,
+            81.5967788696289,
+            81.9697036743164
+        ],
+        "Tajikistan": [
+            6.6636300086975,
+            7.7734899520874,
+            8.30228996276855,
+            8.65777015686035,
+            8.488889694213869,
+            8.38871002197266
+        ]
+    },
+    "colors": {
+        "Chile": "#9ACD32",
+        "Tajikistan": "#00FFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Chile": "#9acd32",
+        "Tajikistan": "#75cd32"
+    }
+}

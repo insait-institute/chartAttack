@@ -1,0 +1,66 @@
+{
+    "title": "Share of active Facebook users",
+    "x_axis": {
+        "categories": [
+            "13-17",
+            "18-24",
+            "25-34",
+            "35-44",
+            "45-54",
+            "55-64",
+            "65+"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of active Facebook users"
+    },
+    "legend": {
+        "Female": "#2876dd",
+        "Male": "#0f283e"
+    },
+    "data": {
+        "Female": [
+            2.5,
+            9.5,
+            12.6,
+            7.7,
+            5,
+            3.3,
+            2.6
+        ],
+        "Male": [
+            3.2,
+            14,
+            18.9,
+            9.9,
+            5.4,
+            3.1,
+            2.3
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

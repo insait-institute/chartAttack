@@ -1,0 +1,145 @@
+{
+    "title": "",
+    "legend": {
+        "Total": "#2876dd",
+        "Railway*": "#0f283e",
+        "Road**": "#bababa",
+        "Pipeline": "#a60b0b",
+        "Maritime": "#87bc24"
+    },
+    "x_axis": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    "y_axis_label": "Goods in thousand metric tons",
+    "data": [
+        {
+            "label": "Total",
+            "color": "#2876dd",
+            "values": [
+                44483,
+                45582,
+                47838,
+                43379,
+                43174,
+                44477,
+                46257,
+                45074,
+                48804,
+                50688,
+                49464,
+                48314
+            ]
+        },
+        {
+            "label": "Railway*",
+            "color": "#0f283e",
+            "values": [
+                16822,
+                17572,
+                18847,
+                16281,
+                16074,
+                16935,
+                18154,
+                18499,
+                19257,
+                20351,
+                20216,
+                19306
+            ]
+        },
+        {
+            "label": "Road**",
+            "color": "#bababa",
+            "values": [
+                22449,
+                23052,
+                23753,
+                22397,
+                22277,
+                22609,
+                23114,
+                21428,
+                24315,
+                25079,
+                24470,
+                23516
+            ]
+        },
+        {
+            "label": "Pipeline",
+            "color": "#a60b0b",
+            "values": [
+                4589,
+                4378,
+                4582,
+                4130,
+                4175,
+                4082,
+                4331,
+                4440,
+                4384,
+                4436,
+                3989,
+                4752
+            ]
+        },
+        {
+            "label": "Maritime",
+            "color": "#87bc24",
+            "values": [
+                584,
+                574,
+                652,
+                511,
+                548,
+                754,
+                553,
+                612,
+                743,
+                708,
+                683,
+                653
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 510,
+                "max_value": 50690
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

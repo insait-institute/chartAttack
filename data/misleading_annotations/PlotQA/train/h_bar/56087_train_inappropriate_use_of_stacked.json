@@ -1,0 +1,52 @@
+{
+    "title": "Split of the expenses made by the government on grants and revenue",
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#00f200",
+        "2011": "#5252a5"
+    },
+    "categories": [
+        "Split of the expenses made by the government on grants and revenue"
+    ],
+    "data": {
+        "2009": [
+            483967000000.0
+        ],
+        "2010": [
+            333777000000.0
+        ],
+        "2011": [
+            221176000000.0
+        ]
+    },
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#00f200",
+        "2011": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 48827571000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

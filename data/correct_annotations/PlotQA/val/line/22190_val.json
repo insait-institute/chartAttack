@@ -1,0 +1,61 @@
+{
+    "title": "Production of clean energy in Netherlands",
+    "legend": {
+        "Alternative and nuclear energy": "#66CDAA"
+    },
+    "x_axis": [
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+    ],
+    "y_axis_label": "Clean energy produced (as % of total energy)",
+    "data": [
+        {
+            "label": "Alternative and nuclear energy",
+            "color": "#66CDAA",
+            "values": [
+                1.67607870002675,
+                1.74694713533773,
+                1.44062151621112,
+                1.50613712638082,
+                1.64165421999257,
+                1.41104603912103,
+                1.27800226381113,
+                1.48673158189534
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of part-time male workers in 1997",
+    "x_axis": {
+        "categories": [
+            "Belize",
+            "Canada",
+            "Chile",
+            "Costa Rica",
+            "Czech Republic"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Part time employment": "#008B8B"
+    },
+    "data": {
+        "Part time employment": [
+            12.1999998092651,
+            10.6000003814697,
+            2.79999995231628,
+            8.39999961853027,
+            1.79999995231628
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

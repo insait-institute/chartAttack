@@ -1,0 +1,107 @@
+{
+    "title": "Number of hotels",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of hotels"
+    },
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#f26f00",
+        "2010": "#f2e879",
+        "2011": "#95f200",
+        "2012": "#8bf279",
+        "2013": "#00a533",
+        "2014": "#52a592",
+        "2015": "#007fa5",
+        "2016": "#526ca5",
+        "2017": "#1900a5",
+        "2018": "#c379f2",
+        "2019": "#f200df",
+        "2020": "#f279b1"
+    },
+    "data": {
+        "2008": [
+            159.0
+        ],
+        "2009": [
+            166.0
+        ],
+        "2010": [
+            171.0
+        ],
+        "2011": [
+            169.0
+        ],
+        "2012": [
+            170.0
+        ],
+        "2013": [
+            178.0
+        ],
+        "2014": [
+            180.0
+        ],
+        "2015": [
+            184.0
+        ],
+        "2016": [
+            187.0
+        ],
+        "2017": [
+            194.0
+        ],
+        "2018": [
+            204.0
+        ],
+        "2019": [
+            212.0
+        ],
+        "2020": [
+            205.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 220
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#f26f00",
+        "2010": "#f2e879",
+        "2011": "#95f200",
+        "2012": "#8bf279",
+        "2013": "#00a533",
+        "2014": "#52a592",
+        "2015": "#007fa5",
+        "2016": "#526ca5",
+        "2017": "#1900a5",
+        "2018": "#c379f2",
+        "2019": "#f200df",
+        "2020": "#f279b1"
+    }
+}

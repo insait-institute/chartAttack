@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of part-time male workers in 2008",
+    "legend": {
+        "New Zealand": "#f27979",
+        "Nicaragua": "#f2f200",
+        "Norway": "#79f279",
+        "Panama": "#00a5a5",
+        "Paraguay": "#5252a5",
+        "Peru": "#a500a5"
+    },
+    "categories": [
+        "Percentage of part-time male workers in 2008"
+    ],
+    "data": {
+        "New Zealand": [
+            11.0
+        ],
+        "Nicaragua": [
+            9.80000019073486
+        ],
+        "Norway": [
+            10.8000001907349
+        ],
+        "Panama": [
+            14.6999998092651
+        ],
+        "Paraguay": [
+            18.0
+        ],
+        "Peru": [
+            13.3000001907349
+        ]
+    },
+    "colors": {
+        "New Zealand": "#f27979",
+        "Nicaragua": "#f2f200",
+        "Norway": "#79f279",
+        "Panama": "#00a5a5",
+        "Paraguay": "#5252a5",
+        "Peru": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Market share",
+    "legend": {
+        "Market Share": "#2876dd"
+    },
+    "categories": [
+        "Medtronic Plc",
+        "Johnson & Johnson",
+        "B.Braun Melsungen AG",
+        "Olympus Corporation",
+        "CONMED Corporation",
+        "ERBE Elektromedizin GmbH",
+        "Applied Medical Systems",
+        "Boston Scientific Corporation",
+        "Megadyne Medical Products, Inc.",
+        "Bovie Medical Corporation",
+        "KLS Martin Group",
+        "Bowa Electronic GmbH & Co.KG",
+        "Others"
+    ],
+    "data": {
+        "Market Share": [
+            30.6,
+            17.2,
+            9.3,
+            8.7,
+            5.5,
+            3.4,
+            2.5,
+            2.4,
+            1.4,
+            1.4,
+            1.1,
+            0.9,
+            15.7
+        ]
+    },
+    "colors": {
+        "Market Share": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

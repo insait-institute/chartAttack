@@ -1,0 +1,82 @@
+{
+    "title": "Value in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Value in billion U.S. dollars"
+    },
+    "legend": {
+        "2012": "#f27979",
+        "2013": "#f2b500",
+        "2014": "#b5f279",
+        "2015": "#00a529",
+        "2016": "#52a5a5",
+        "2017": "#0029a5",
+        "2018*": "#b579f2",
+        "2028**": "#f200b5"
+    },
+    "data": {
+        "2012": [
+            1.67
+        ],
+        "2013": [
+            1.76
+        ],
+        "2014": [
+            1.88
+        ],
+        "2015": [
+            1.97
+        ],
+        "2016": [
+            2.31
+        ],
+        "2017": [
+            2.61
+        ],
+        "2018*": [
+            2.89
+        ],
+        "2028**": [
+            5.65
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2012": "#f27979",
+        "2013": "#f2b500",
+        "2014": "#b5f279",
+        "2015": "#00a529",
+        "2016": "#52a5a5",
+        "2017": "#0029a5",
+        "2018*": "#b579f2",
+        "2028**": "#f200b5"
+    }
+}

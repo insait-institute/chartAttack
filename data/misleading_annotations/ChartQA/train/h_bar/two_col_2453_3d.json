@@ -1,0 +1,94 @@
+{
+    "title": "",
+    "legend": {
+        "Expenditure": "#2876dd"
+    },
+    "categories": [
+        "2019*",
+        "2018*",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1995",
+        "1990",
+        "1985",
+        "1980",
+        "1975",
+        "1970",
+        "1966"
+    ],
+    "data": {
+        "Expenditure": [
+            639.4,
+            616.1,
+            600,
+            577.3,
+            549.1,
+            494.7,
+            456,
+            431,
+            427,
+            401.5,
+            378.6,
+            351.9,
+            332.2,
+            315.1,
+            315.9,
+            296.3,
+            276.2,
+            258.2,
+            229,
+            206.2,
+            159.5,
+            72.2,
+            41.3,
+            25.2,
+            13.1,
+            5.1,
+            0.9
+        ]
+    },
+    "colors": {
+        "Expenditure": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 640
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Percentage of enrolment in primary education in private institutions in Venezuela",
+    "legend": {
+        "Enrolment ": "#FFA07A"
+    },
+    "x_axis": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Percentage of enrolment in primary education (%)",
+    "data": [
+        {
+            "label": "Enrolment ",
+            "color": "#FFA07A",
+            "values": [
+                15.0158700942993,
+                14.3578796386719,
+                14.3578796386719,
+                14.4341497421265,
+                14.2690496444702,
+                13.9573698043823,
+                14.1125602722168
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

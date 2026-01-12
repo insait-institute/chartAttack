@@ -1,0 +1,56 @@
+{
+    "title": "Official entrance age of children of different countries in primary and secondary education",
+    "legend": {
+        "Lower secondary education": "#BA55D3",
+        "Primary education": "#008B8B"
+    },
+    "categories": [
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria"
+    ],
+    "data": {
+        "Lower secondary education": [
+            10,
+            12,
+            12,
+            10
+        ],
+        "Primary education": [
+            6,
+            7,
+            6,
+            5
+        ]
+    },
+    "colors": {
+        "Lower secondary education": "#BA55D3",
+        "Primary education": "#008B8B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,78 @@
+{
+    "title": "Value in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Value in million U.S. dollars"
+    },
+    "legend": {
+        "Revenue": "#2876dd",
+        "Net profit": "#0f283e"
+    },
+    "data": {
+        "Revenue": [
+            12379,
+            16066,
+            17515,
+            15860,
+            14956,
+            13827,
+            11693,
+            11537,
+            14642,
+            14309,
+            12525
+        ],
+        "Net profit": [
+            1174,
+            1876,
+            2055,
+            3990,
+            1115,
+            711,
+            -2328,
+            -334,
+            624,
+            190,
+            14.5
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 17520
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

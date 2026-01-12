@@ -1,0 +1,107 @@
+{
+    "title": "Revenue in billion Swiss francs",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in billion Swiss francs"
+    },
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#f26f00",
+        "2009": "#f2e879",
+        "2010": "#95f200",
+        "2011": "#8bf279",
+        "2012": "#00a533",
+        "2013": "#52a592",
+        "2014": "#007fa5",
+        "2015**": "#526ca5",
+        "2016": "#1900a5",
+        "2017": "#c379f2",
+        "2018": "#f200df",
+        "2019": "#f279b1"
+    },
+    "data": {
+        "2007": [
+            27.05
+        ],
+        "2008": [
+            25.16
+        ],
+        "2009": [
+            21.13
+        ],
+        "2010": [
+            21.65
+        ],
+        "2011": [
+            20.74
+        ],
+        "2012": [
+            21.16
+        ],
+        "2013": [
+            19.72
+        ],
+        "2014": [
+            18.8
+        ],
+        "2015**": [
+            23.6
+        ],
+        "2016": [
+            26.9
+        ],
+        "2017": [
+            27.02
+        ],
+        "2018": [
+            27.47
+        ],
+        "2019": [
+            26.72
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#f26f00",
+        "2009": "#f2e879",
+        "2010": "#95f200",
+        "2011": "#8bf279",
+        "2012": "#00a533",
+        "2013": "#52a592",
+        "2014": "#007fa5",
+        "2015**": "#526ca5",
+        "2016": "#1900a5",
+        "2017": "#c379f2",
+        "2018": "#f200df",
+        "2019": "#f279b1"
+    }
+}

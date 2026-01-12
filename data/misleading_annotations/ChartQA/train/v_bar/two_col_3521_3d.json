@@ -1,0 +1,74 @@
+{
+    "title": "Net sales in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2005",
+            "2006",
+            "2007",
+            "2008*",
+            "2009*",
+            "2010",
+            "2011",
+            "2012**",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017**",
+            "2018",
+            "2019",
+            "2020***"
+        ]
+    },
+    "y_axis": {
+        "label": "Net sales in million U.S. dollars"
+    },
+    "legend": {
+        "Net Sales": "#2876dd"
+    },
+    "data": {
+        "Net Sales": [
+            22390,
+            36970,
+            26313,
+            24892,
+            23489,
+            25003,
+            26405,
+            27686,
+            27931,
+            28105,
+            27079,
+            25908,
+            24939,
+            24971,
+            24560,
+            17346
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 36970
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

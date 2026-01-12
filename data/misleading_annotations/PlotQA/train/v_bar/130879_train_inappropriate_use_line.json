@@ -1,0 +1,68 @@
+{
+    "title": "Female Population as percentage of total population",
+    "x_axis": {
+        "categories": [
+            "Georgia",
+            "Germany",
+            "Ghana",
+            "Greece",
+            "Grenada"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#8B0000",
+        "1961": "#DC143C",
+        "1962": "#FFD700"
+    },
+    "data": {
+        "1960": [
+            53.44130888037289,
+            53.5045575844054,
+            49.1875498418964,
+            51.14491133007179,
+            53.6027865258566
+        ],
+        "1961": [
+            53.388536379369,
+            53.4152312045261,
+            49.16963334544521,
+            51.17812293061689,
+            53.4955073416612
+        ],
+        "1962": [
+            53.3354177825732,
+            53.3029199110639,
+            49.15417665719229,
+            51.22340440075371,
+            53.3779104994374
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

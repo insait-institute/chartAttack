@@ -1,0 +1,137 @@
+{
+    "title": "Touchdowns scored",
+    "legend": {
+        "Frank Gifford": "#f27979",
+        "Tiki Barber": "#f24800",
+        "Joe Morrison": "#f2c179",
+        "Brandon Jacobs": "#f2da00",
+        "Amani Toomer": "#daf279",
+        "Alex Webster": "#79f200",
+        "Kyle Rote": "#91f279",
+        "Rodney Hampton": "#00a510",
+        "Joe Morris": "#52a574",
+        "Ron Johnson": "#00a574",
+        "Odell Beckham": "#52a5a5",
+        "Homer Jones": "#0074a5",
+        "Ahmad Bradshaw": "#5274a5",
+        "Ottis Anderson": "#0010a5",
+        "Del Shofner": "#9179f2",
+        "Aaron Thomas": "#7900f2",
+        "Plaxico Burress": "#da79f2",
+        "Bill Paschal": "#f200da",
+        "Bob Schnelker": "#f279c1",
+        "Mark Bavaro": "#f20048"
+    },
+    "categories": [
+        "Touchdowns scored"
+    ],
+    "data": {
+        "Frank Gifford": [
+            78.0
+        ],
+        "Tiki Barber": [
+            68.0
+        ],
+        "Joe Morrison": [
+            65.0
+        ],
+        "Brandon Jacobs": [
+            64.0
+        ],
+        "Amani Toomer": [
+            58.0
+        ],
+        "Alex Webster": [
+            56.0
+        ],
+        "Kyle Rote": [
+            52.0
+        ],
+        "Rodney Hampton": [
+            51.0
+        ],
+        "Joe Morris": [
+            50.0
+        ],
+        "Ron Johnson": [
+            48.0
+        ],
+        "Odell Beckham": [
+            44.0
+        ],
+        "Homer Jones": [
+            36.0
+        ],
+        "Ahmad Bradshaw": [
+            35.0
+        ],
+        "Ottis Anderson": [
+            35.0
+        ],
+        "Del Shofner": [
+            35.0
+        ],
+        "Aaron Thomas": [
+            35.0
+        ],
+        "Plaxico Burress": [
+            33.0
+        ],
+        "Bill Paschal": [
+            30.0
+        ],
+        "Bob Schnelker": [
+            30.0
+        ],
+        "Mark Bavaro": [
+            28.0
+        ]
+    },
+    "colors": {
+        "Frank Gifford": "#f27979",
+        "Tiki Barber": "#f24800",
+        "Joe Morrison": "#f2c179",
+        "Brandon Jacobs": "#f2da00",
+        "Amani Toomer": "#daf279",
+        "Alex Webster": "#79f200",
+        "Kyle Rote": "#91f279",
+        "Rodney Hampton": "#00a510",
+        "Joe Morris": "#52a574",
+        "Ron Johnson": "#00a574",
+        "Odell Beckham": "#52a5a5",
+        "Homer Jones": "#0074a5",
+        "Ahmad Bradshaw": "#5274a5",
+        "Ottis Anderson": "#0010a5",
+        "Del Shofner": "#9179f2",
+        "Aaron Thomas": "#7900f2",
+        "Plaxico Burress": "#da79f2",
+        "Bill Paschal": "#f200da",
+        "Bob Schnelker": "#f279c1",
+        "Mark Bavaro": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

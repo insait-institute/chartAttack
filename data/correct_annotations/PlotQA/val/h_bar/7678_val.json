@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of expenditure towards staff compensation in tertiary public institutions",
+    "legend": {
+        "France": "#FF7F50",
+        "Italy": "#CD5C5C",
+        "Jamaica": "#FF69B4"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2008"
+    ],
+    "data": {
+        "France": [
+            71.5950164794922,
+            72.5806579589844,
+            72.7368698120117
+        ],
+        "Italy": [
+            59.2830581665039,
+            59.586311340332,
+            59.0165901184082
+        ],
+        "Jamaica": [
+            93.4551010131835,
+            96.75131225585942,
+            98.7377471923828
+        ]
+    },
+    "colors": {
+        "France": "#FF7F50",
+        "Italy": "#CD5C5C",
+        "Jamaica": "#FF69B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

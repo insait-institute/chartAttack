@@ -1,0 +1,72 @@
+{
+    "title": "Total urban population of a country",
+    "x_axis": {
+        "categories": [
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Iran",
+            "Iraq",
+            "Ireland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#66CDAA",
+        "1961": "#8A2BE2",
+        "1962": "#E9967A"
+    },
+    "data": {
+        "1960": [
+            80.3,
+            17.924,
+            14.586,
+            33.735,
+            42.899,
+            45.822
+        ],
+        "1961": [
+            80.803,
+            18.032,
+            14.821,
+            34.389,
+            44.432,
+            46.24
+        ],
+        "1962": [
+            81.297,
+            18.218,
+            15.058,
+            35.051,
+            45.978,
+            46.856
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

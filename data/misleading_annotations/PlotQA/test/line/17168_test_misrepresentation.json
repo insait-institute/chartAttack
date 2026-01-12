@@ -1,0 +1,94 @@
+{
+    "title": "Balance of payments as percentage of commercial service imports in Cameroon",
+    "legend": {
+        "Transport services": "#BA55D3",
+        "Travel services": "#DAA520"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Balance of Payment (as % of commercial service imports)",
+    "data": [
+        {
+            "label": "Transport services",
+            "color": "#BA55D3",
+            "values": [
+                31.7547192832618,
+                38.2242531267636,
+                30.98697086618569,
+                29.2132359098532,
+                35.9249758595585,
+                45.5888054053057
+            ]
+        },
+        {
+            "label": "Travel services",
+            "color": "#DAA520",
+            "values": [
+                28.9195962044616,
+                21.4089703678082,
+                15.8058147187487,
+                20.4365705081951,
+                10.83667653455,
+                27.09613594925689
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Transport services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Travel services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

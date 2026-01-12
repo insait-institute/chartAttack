@@ -1,0 +1,57 @@
+{
+    "title": "Schooling information of female students in 1983",
+    "legend": {
+        "Primary education": "#f27979",
+        "Tertiary education": "#79f200",
+        "Secondary general education": "#52a5a5",
+        "Secondary vocational education": "#5200a5"
+    },
+    "categories": [
+        "Schooling information of female students in 1983"
+    ],
+    "data": {
+        "Primary education": [
+            45.49316
+        ],
+        "Tertiary education": [
+            33.23428
+        ],
+        "Secondary general education": [
+            33.88009
+        ],
+        "Secondary vocational education": [
+            21.81303
+        ]
+    },
+    "colors": {
+        "Primary education": "#f27979",
+        "Tertiary education": "#79f200",
+        "Secondary general education": "#52a5a5",
+        "Secondary vocational education": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

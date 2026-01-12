@@ -1,0 +1,73 @@
+{
+    "title": "Share of expenditures made in tertiary public institutions in 1998",
+    "legend": {
+        "All education staff compensation": "#7FFFD4",
+        "Current education expenditure": "#00FA9A"
+    },
+    "categories": [
+        "France",
+        "Germany",
+        "Greece",
+        "Hungary",
+        "Ireland",
+        "Israel"
+    ],
+    "data": {
+        "All education staff compensation": [
+            64.71951,
+            67.38828000000001,
+            43.44719,
+            56.17729,
+            66.66667,
+            63.34661
+        ],
+        "Current education expenditure": [
+            88.58278,
+            88.29309,
+            69.87505999999999,
+            88.44407,
+            91.15646,
+            85.85656999999998
+        ]
+    },
+    "colors": {
+        "All education staff compensation": "#7FFFD4",
+        "Current education expenditure": "#00FA9A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 43.44719,
+                "max_value": 67.38828000000001
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 69.87505999999999,
+                "max_value": 91.15646
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

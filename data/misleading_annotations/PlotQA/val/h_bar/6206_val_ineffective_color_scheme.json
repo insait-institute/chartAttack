@@ -1,0 +1,63 @@
+{
+    "title": "Employment to population ratio of West Bank and Gaza for age group between 15-24 years",
+    "legend": {
+        "Female": "#663399",
+        "Male": "#7e3399"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Female": [
+            5.09999990463257,
+            5.09999990463257,
+            5.0,
+            4.19999980926514,
+            4.099999904632569
+        ],
+        "Male": [
+            29.5,
+            28.0,
+            27.10000038146969,
+            26.7999992370605,
+            28.89999961853031
+        ]
+    },
+    "colors": {
+        "Female": "#663399",
+        "Male": "#006400"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Female": "#663399",
+        "Male": "#7e3399"
+    }
+}

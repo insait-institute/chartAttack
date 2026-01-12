@@ -1,0 +1,62 @@
+{
+    "title": "Number of children ages 0-14 who are infected with HIV in Peru",
+    "legend": {
+        "Children (0-14) living with HIV": "#90EE90"
+    },
+    "categories": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "Children (0-14) living with HIV": [
+            3600,
+            3700,
+            3700,
+            3700,
+            3700,
+            3700
+        ]
+    },
+    "colors": {
+        "Children (0-14) living with HIV": "#90EE90"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3700
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Children (0-14) living with HIV": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

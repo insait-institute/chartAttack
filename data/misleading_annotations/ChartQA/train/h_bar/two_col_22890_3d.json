@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Cruises": "#2876dd"
+    },
+    "categories": [
+        "Viking River Cruises",
+        "Crystal River Cruises",
+        "Uniworld Boutique River Cruises",
+        "Tauck River Cruises",
+        "Aqua Expeditions",
+        "Delfin Amazon Cruises",
+        "Avalon Waterways",
+        "American Queen Steamboat Company",
+        "Amawaterways",
+        "Scenic Luxury Cruises and Tours"
+    ],
+    "data": {
+        "Cruises": [
+            97.37,
+            97.24,
+            97.13,
+            96.94,
+            96.65,
+            96.27,
+            95.72,
+            95.6,
+            93.97,
+            88.42
+        ]
+    },
+    "colors": {
+        "Cruises": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

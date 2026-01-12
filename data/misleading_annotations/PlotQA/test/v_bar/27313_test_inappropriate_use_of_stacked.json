@@ -1,0 +1,67 @@
+{
+    "title": "Cost of communications and computers with respect to service exports",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Seychelles": "#f27979",
+        "Singapore": "#c1f200",
+        "Slovak Republic": "#52a574",
+        "Slovenia": "#0042a5",
+        "South Africa": "#da79f2"
+    },
+    "data": {
+        "Seychelles": [
+            10.9321593234227
+        ],
+        "Singapore": [
+            31.338816023594
+        ],
+        "Slovak Republic": [
+            31.9807632562248
+        ],
+        "Slovenia": [
+            25.0452716297787
+        ],
+        "South Africa": [
+            13.8085376466896
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Seychelles": "#f27979",
+        "Singapore": "#c1f200",
+        "Slovak Republic": "#52a574",
+        "Slovenia": "#0042a5",
+        "South Africa": "#da79f2"
+    }
+}

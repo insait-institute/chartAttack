@@ -1,0 +1,91 @@
+{
+    "title": "Greenhouse gas emission in Sweden",
+    "legend": {
+        "Other greenhouse gases": "#8B0000",
+        "SF6 gas": "#FFD700",
+        "HFC gas": "#20B2AA",
+        "PFC gas": "#2E8B57"
+    },
+    "x_axis": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "y_axis_label": "Emissions (in thousand metric tons of CO2 equivalent)",
+    "data": [
+        {
+            "label": "Other greenhouse gases",
+            "color": "#8B0000",
+            "values": [
+                888.6,
+                1485.3,
+                2068.4,
+                2340.9,
+                2198.0
+            ]
+        },
+        {
+            "label": "SF6 gas",
+            "color": "#FFD700",
+            "values": [
+                173.5,
+                194.0,
+                214.2,
+                168.1,
+                166.0
+            ]
+        },
+        {
+            "label": "HFC gas",
+            "color": "#20B2AA",
+            "values": [
+                0.2,
+                568.8,
+                1131.9,
+                1498.0,
+                1593.0
+            ]
+        },
+        {
+            "label": "PFC gas",
+            "color": "#2E8B57",
+            "values": [
+                714.9,
+                722.5,
+                722.3,
+                674.8,
+                439.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2350
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

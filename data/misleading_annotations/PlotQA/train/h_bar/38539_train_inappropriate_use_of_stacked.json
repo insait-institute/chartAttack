@@ -1,0 +1,67 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service exports",
+    "legend": {
+        "Czech Republic": "#f27979",
+        "El Salvador": "#f2f200",
+        "France": "#79f279",
+        "Georgia": "#00a5a5",
+        "Germany": "#5252a5",
+        "Greece": "#a500a5"
+    },
+    "categories": [
+        "Cost of communications and computers with respect to commercial service exports"
+    ],
+    "data": {
+        "Czech Republic": [
+            36.2789629195751
+        ],
+        "El Salvador": [
+            47.14935002141271
+        ],
+        "France": [
+            47.19434390226029
+        ],
+        "Georgia": [
+            9.66047203919589
+        ],
+        "Germany": [
+            44.0332115925849
+        ],
+        "Greece": [
+            8.55057279523713
+        ]
+    },
+    "colors": {
+        "Czech Republic": "#f27979",
+        "El Salvador": "#f2f200",
+        "France": "#79f279",
+        "Georgia": "#00a5a5",
+        "Germany": "#5252a5",
+        "Greece": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

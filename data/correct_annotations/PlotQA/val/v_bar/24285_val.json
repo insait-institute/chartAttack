@@ -1,0 +1,60 @@
+{
+    "title": "Adult literacy rate among population of different countries with age above 15years",
+    "x_axis": {
+        "categories": [
+            "Kazakhstan",
+            "Kyrgyz Republic",
+            "Solomon Islands",
+            "Vietnam",
+            "Zambia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#D2B48C",
+        "Male": "#000000"
+    },
+    "data": {
+        "Female": [
+            99.2898941040039,
+            98.1306304931641,
+            69.0,
+            86.9200820922852,
+            59.8028450012207
+        ],
+        "Male": [
+            99.76329803466801,
+            99.3067092895508,
+            83.6999969482422,
+            93.9182586669922,
+            76.254020690918
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

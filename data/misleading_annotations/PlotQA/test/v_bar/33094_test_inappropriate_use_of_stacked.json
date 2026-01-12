@@ -1,0 +1,67 @@
+{
+    "title": "Number of visits or required meetings with tax officials in firms of country in 2009",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Philippines": "#f27979",
+        "Poland": "#c1f200",
+        "Romania": "#52a574",
+        "Russian Federation": "#0042a5",
+        "Samoa": "#da79f2"
+    },
+    "data": {
+        "Philippines": [
+            1.5
+        ],
+        "Poland": [
+            0.6
+        ],
+        "Romania": [
+            2.3
+        ],
+        "Russian Federation": [
+            1.6
+        ],
+        "Samoa": [
+            1.1
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Philippines": "#f27979",
+        "Poland": "#c1f200",
+        "Romania": "#52a574",
+        "Russian Federation": "#0042a5",
+        "Samoa": "#da79f2"
+    }
+}

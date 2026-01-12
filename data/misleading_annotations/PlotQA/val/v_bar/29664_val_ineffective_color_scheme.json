@@ -1,0 +1,67 @@
+{
+    "title": "Annual growth rate in broad and quasi money of different countries",
+    "x_axis": {
+        "categories": [
+            "Quasi money growth",
+            "Broad money growth"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cameroon": "#a020f0",
+        "Croatia": "#b920f0",
+        "Moldova": "#d42af1",
+        "Myanmar": "#e819ed"
+    },
+    "data": {
+        "Cameroon": [
+            13.9517532671927,
+            13.9517532671927
+        ],
+        "Croatia": [
+            4.35682222075023,
+            4.35682222075023
+        ],
+        "Moldova": [
+            15.8590444381919,
+            15.8590444381919
+        ],
+        "Myanmar": [
+            14.8922041933974,
+            14.8922041933974
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Cameroon": "#a020f0",
+        "Croatia": "#b920f0",
+        "Moldova": "#d42af1",
+        "Myanmar": "#e819ed"
+    }
+}

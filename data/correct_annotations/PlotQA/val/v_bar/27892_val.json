@@ -1,0 +1,68 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service imports",
+    "x_axis": {
+        "categories": [
+            "Colombia",
+            "Czech Republic",
+            "El Salvador",
+            "France",
+            "Georgia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#DAA520",
+        "2006": "#000000",
+        "2007": "#4B0082"
+    },
+    "data": {
+        "2005": [
+            19.3917457375215,
+            41.7182949899575,
+            22.3797977949586,
+            44.31036289424561,
+            11.8530466223815
+        ],
+        "2006": [
+            22.6304437876799,
+            42.2048627030684,
+            22.7006893576779,
+            45.4278149725001,
+            7.76648216861835
+        ],
+        "2007": [
+            22.3510429893294,
+            42.99178243301289,
+            20.6269475838333,
+            46.5090026609636,
+            7.73458992601731
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

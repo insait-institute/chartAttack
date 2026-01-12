@@ -1,0 +1,60 @@
+{
+    "title": "Female life expectancy at birth in countries",
+    "x_axis": {
+        "categories": [
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#DAA520",
+        "1961": "#228B22",
+        "1962": "#4169E1"
+    },
+    "data": {
+        "1960": [
+            41.53738964255229,
+            41.54102867824479,
+            48.9546996315115
+        ],
+        "1961": [
+            41.9962676525683,
+            42.0000375973147,
+            49.5996924563029
+        ],
+        "1962": [
+            42.4430562559274,
+            42.4469360099405,
+            50.47713526512
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

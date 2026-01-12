@@ -1,0 +1,60 @@
+{
+    "title": "Current operating expenditure towards education",
+    "legend": {
+        "Bahrain": "#FF00FF",
+        "Luxembourg": "#00FA9A",
+        "Mozambique": "#ADFF2F"
+    },
+    "categories": [
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "data": {
+        "Bahrain": [
+            212680856.71,
+            226182196.691,
+            220146132.731778
+        ],
+        "Luxembourg": [
+            600609120.51,
+            558654149.76,
+            558129028.66
+        ],
+        "Mozambique": [
+            52199029.1419997,
+            59864115.28349941,
+            65747874.752
+        ]
+    },
+    "colors": {
+        "Bahrain": "#FF00FF",
+        "Luxembourg": "#00FA9A",
+        "Mozambique": "#ADFF2F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 600609130
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

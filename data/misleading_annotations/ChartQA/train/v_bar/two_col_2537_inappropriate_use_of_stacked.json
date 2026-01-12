@@ -1,0 +1,97 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "09/10": "#f27979",
+        "10/11": "#f28400",
+        "11/12": "#e7f279",
+        "12/13": "#58f200",
+        "13/14": "#52a561",
+        "14/15": "#00a578",
+        "15/16": "#528fa5",
+        "16/17": "#001ea5",
+        "17/18": "#a579f2",
+        "18/19": "#dc00f2",
+        "19/20*": "#f279bb"
+    },
+    "data": {
+        "09/10": [
+            536.0
+        ],
+        "10/11": [
+            572.0
+        ],
+        "11/12": [
+            610.0
+        ],
+        "12/13": [
+            642.0
+        ],
+        "13/14": [
+            679.0
+        ],
+        "14/15": [
+            739.0
+        ],
+        "15/16": [
+            799.0
+        ],
+        "16/17": [
+            861.0
+        ],
+        "17/18": [
+            1120.0
+        ],
+        "18/19": [
+            1298.0
+        ],
+        "19/20*": [
+            1390.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1390
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "09/10": "#f27979",
+        "10/11": "#f28400",
+        "11/12": "#e7f279",
+        "12/13": "#58f200",
+        "13/14": "#52a561",
+        "14/15": "#00a578",
+        "15/16": "#528fa5",
+        "16/17": "#001ea5",
+        "17/18": "#a579f2",
+        "18/19": "#dc00f2",
+        "19/20*": "#f279bb"
+    }
+}

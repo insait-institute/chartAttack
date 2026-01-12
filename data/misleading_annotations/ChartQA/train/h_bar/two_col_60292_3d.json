@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Revenue": "#2876dd"
+    },
+    "categories": [
+        "SAP",
+        "Oracle",
+        "JDA Software",
+        "Manhattan Associates",
+        "Infor",
+        "GEP",
+        "Descartes Systems Group",
+        "Achilles Information",
+        "Epicor",
+        "HighJump"
+    ],
+    "data": {
+        "Revenue": [
+            2839,
+            1388,
+            762,
+            604,
+            330,
+            317,
+            204,
+            178,
+            173,
+            165
+        ]
+    },
+    "colors": {
+        "Revenue": "#2876dd"
+    },
+    "y_label": "Revenue in million U.S. dollars",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2840
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

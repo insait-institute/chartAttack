@@ -1,0 +1,79 @@
+{
+    "title": "Amount of ores,manufactures and fuel imports of Papua New Guinea",
+    "legend": {
+        "Ores and metals": "#20B2AA",
+        "Manufactures": "#708090",
+        "Fuel": "#D2691E"
+    },
+    "x_axis": [
+        "1973",
+        "1974",
+        "1975",
+        "1976",
+        "1981"
+    ],
+    "y_axis_label": "Amount of imports(as % of merchandise imports)",
+    "data": [
+        {
+            "label": "Ores and metals",
+            "color": "#20B2AA",
+            "values": [
+                0.497880012246996,
+                0.5035216171383979,
+                0.571793794575005,
+                0.497326846361466,
+                0.5090514385179931
+            ]
+        },
+        {
+            "label": "Manufactures",
+            "color": "#708090",
+            "values": [
+                63.7525139828979,
+                59.1833703322826,
+                62.9616009075471,
+                58.4839626606635,
+                55.8012386218794
+            ]
+        },
+        {
+            "label": "Fuel",
+            "color": "#D2691E",
+            "values": [
+                4.85184415698024,
+                8.58242883033186,
+                10.7143900430142,
+                13.6320233765745,
+                21.0564834346193
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

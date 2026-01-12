@@ -1,0 +1,52 @@
+{
+    "title": "Net energy imports of different countries in 1991",
+    "x_axis": {
+        "categories": [
+            "Czech Republic",
+            "Denmark",
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt, Arab Rep."
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Energy imports": "#FFD700"
+    },
+    "data": {
+        "Energy imports": [
+            13.8732125531416,
+            38.0941769501826,
+            77.66229624326309,
+            -158.555538554634,
+            -71.72037334926479
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

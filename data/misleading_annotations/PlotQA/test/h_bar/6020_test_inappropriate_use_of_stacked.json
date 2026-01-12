@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of female workers employed in Private sector",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#79f200",
+        "2006": "#52a5a5",
+        "2007": "#5200a5"
+    },
+    "categories": [
+        "Percentage of female workers employed in Private sector"
+    ],
+    "data": {
+        "2004": [
+            94.4000015258789
+        ],
+        "2005": [
+            94.3000030517578
+        ],
+        "2006": [
+            94.1999969482422
+        ],
+        "2007": [
+            94.1999969482422
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#79f200",
+        "2006": "#52a5a5",
+        "2007": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

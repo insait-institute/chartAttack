@@ -1,0 +1,64 @@
+{
+    "title": "Schooling information of female students in 1978",
+    "legend": {
+        "Dominica": "#D2B48C",
+        "El Salvador": "#00FF00",
+        "Vanuatu": "#FF1493"
+    },
+    "categories": [
+        "Primary education",
+        "Tertiary education",
+        "Secondary general education",
+        "Secondary vocational education"
+    ],
+    "data": {
+        "Dominica": [
+            49.24147,
+            59.41343000000001,
+            58.37225,
+            77.45665
+        ],
+        "El Salvador": [
+            48.89638,
+            46.22829,
+            46.01955,
+            47.0895
+        ],
+        "Vanuatu": [
+            44.87074000000001,
+            41.46235,
+            43.25872,
+            31.95592000000001
+        ]
+    },
+    "colors": {
+        "Dominica": "#D2B48C",
+        "El Salvador": "#00FF00",
+        "Vanuatu": "#FF1493"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

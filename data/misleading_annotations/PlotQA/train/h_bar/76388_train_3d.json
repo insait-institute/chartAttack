@@ -1,0 +1,50 @@
+{
+    "title": "Amount of CO2 emissions in Panama",
+    "legend": {
+        "CO2 emissions": "#4682B4"
+    },
+    "categories": [
+        "1974",
+        "1975",
+        "1976",
+        "1977",
+        "1978"
+    ],
+    "data": {
+        "CO2 emissions": [
+            1.77834330127349,
+            2.09908222921407,
+            2.01623090453089,
+            1.883493381257929,
+            1.50804293100813
+        ]
+    },
+    "colors": {
+        "CO2 emissions": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

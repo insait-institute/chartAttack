@@ -1,0 +1,64 @@
+{
+    "title": "Split of the income in different subgroups of a country in 1990",
+    "legend": {
+        "Honduras": "#00FF00",
+        "Iran": "#008080",
+        "Pakistan": "#F4A460"
+    },
+    "categories": [
+        "First 20% of population",
+        "Second 20% of population",
+        "Third 20% of population",
+        "Fourth 20% of population"
+    ],
+    "data": {
+        "Honduras": [
+            61.22,
+            6.25,
+            10.91,
+            18.8
+        ],
+        "Iran": [
+            49.41,
+            9.56,
+            14.4,
+            21.43
+        ],
+        "Pakistan": [
+            41.77,
+            12.26,
+            16.29,
+            21.6
+        ]
+    },
+    "colors": {
+        "Honduras": "#00FF00",
+        "Iran": "#008080",
+        "Pakistan": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

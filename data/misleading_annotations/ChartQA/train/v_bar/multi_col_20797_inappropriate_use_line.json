@@ -1,0 +1,57 @@
+{
+    "title": "Gini index",
+    "x_axis": {
+        "categories": [
+            "2006",
+            "2009",
+            "2011",
+            "2015"
+        ]
+    },
+    "y_axis": {
+        "label": "Gini index"
+    },
+    "legend": {
+        "Urban": "#2876dd",
+        "Rural": "#0f283e"
+    },
+    "data": {
+        "Urban": [
+            0.65,
+            0.62,
+            0.62,
+            0.61
+        ],
+        "Rural": [
+            0.53,
+            0.51,
+            0.55,
+            0.55
+        ]
+    },
+    "type": "line",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

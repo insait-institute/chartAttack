@@ -1,0 +1,57 @@
+{
+    "title": "Net disbursements of loans in different countries in 1986",
+    "x_axis": {
+        "categories": [
+            "Regional development banks",
+            "International Monetary Fund",
+            "International Development Association",
+            "Others"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Nepal": "#00FF7F",
+        "Philippines": "#7FFFD4"
+    },
+    "data": {
+        "Nepal": [
+            32829000,
+            -3196000,
+            53983000,
+            4601000
+        ],
+        "Philippines": [
+            29571000,
+            -34937000,
+            7731000,
+            1169000
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 53983000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

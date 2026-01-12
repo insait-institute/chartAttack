@@ -1,0 +1,62 @@
+{
+    "title": "Schooling information of female students in 2006",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Germany": "#f27979",
+        "Ghana": "#79f200",
+        "Greece": "#52a5a5",
+        "Guatemala": "#5200a5"
+    },
+    "data": {
+        "Germany": [
+            48.6798515319824
+        ],
+        "Ghana": [
+            48.49198913574221
+        ],
+        "Greece": [
+            48.56505966186521
+        ],
+        "Guatemala": [
+            47.7458000183105
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Germany": "#f27979",
+        "Ghana": "#79f200",
+        "Greece": "#52a5a5",
+        "Guatemala": "#5200a5"
+    }
+}

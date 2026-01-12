@@ -1,0 +1,71 @@
+{
+    "title": "CPIA Gender equality rating",
+    "x_axis": {
+        "categories": [
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "Latin America(all income levels)",
+            "Latin America(developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#C71585",
+        "2006": "#00BFFF",
+        "2007": "#FFD700",
+        "2008": "#B03060"
+    },
+    "data": {
+        "2005": [
+            3.0,
+            3.27777777777778,
+            4.0,
+            4.0
+        ],
+        "2006": [
+            2.95454545454545,
+            3.22972972972973,
+            4.0,
+            4.0
+        ],
+        "2007": [
+            2.97727272727273,
+            3.25675675675676,
+            3.833333333333329,
+            3.833333333333329
+        ],
+        "2008": [
+            2.95454545454545,
+            3.24324324324324,
+            3.833333333333329,
+            3.833333333333329
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

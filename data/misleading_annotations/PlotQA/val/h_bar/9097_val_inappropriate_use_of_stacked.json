@@ -1,0 +1,57 @@
+{
+    "title": "Split of the income in different subgroups of a country in 1990",
+    "legend": {
+        "First 20% of population": "#f27979",
+        "Second 20% of population": "#79f200",
+        "Third 20% of population": "#52a5a5",
+        "Fourth 20% of population": "#5200a5"
+    },
+    "categories": [
+        "Split of the income in different subgroups of a country in 1990"
+    ],
+    "data": {
+        "First 20% of population": [
+            61.22
+        ],
+        "Second 20% of population": [
+            6.25
+        ],
+        "Third 20% of population": [
+            10.91
+        ],
+        "Fourth 20% of population": [
+            18.8
+        ]
+    },
+    "colors": {
+        "First 20% of population": "#f27979",
+        "Second 20% of population": "#79f200",
+        "Third 20% of population": "#52a5a5",
+        "Fourth 20% of population": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

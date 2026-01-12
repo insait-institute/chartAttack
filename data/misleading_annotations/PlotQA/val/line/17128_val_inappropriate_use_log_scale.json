@@ -1,0 +1,70 @@
+{
+    "title": "Earnings from tourism in Georgia",
+    "legend": {
+        "National Visitors": "#BC8F8F",
+        "International Visitors": "#FFA500"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "Amount (in US$)",
+    "data": [
+        {
+            "label": "National Visitors",
+            "color": "#BC8F8F",
+            "values": [
+                144000000,
+                172000000,
+                209000000,
+                287000000,
+                361000000,
+                440000000
+            ]
+        },
+        {
+            "label": "International Visitors",
+            "color": "#FFA500",
+            "values": [
+                189000000,
+                170000000,
+                196000000,
+                237000000,
+                257000000,
+                277000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 144000000,
+                "max_value": 440000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

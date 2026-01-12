@@ -1,0 +1,68 @@
+{
+    "title": "",
+    "legend": {
+        "Companies": "#2876dd"
+    },
+    "categories": [
+        "France",
+        "Spain",
+        "Germany",
+        "Italy",
+        "Switzerland",
+        "Belgium",
+        "Norway",
+        "Denmark",
+        "Poland",
+        "Portugal",
+        "Austria",
+        "Czech Republic",
+        "Estonia",
+        "Slovenia"
+    ],
+    "data": {
+        "Companies": [
+            2083,
+            1133,
+            820,
+            701,
+            282,
+            279,
+            261,
+            214,
+            208,
+            197,
+            172,
+            114,
+            35,
+            30
+        ]
+    },
+    "colors": {
+        "Companies": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2090
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

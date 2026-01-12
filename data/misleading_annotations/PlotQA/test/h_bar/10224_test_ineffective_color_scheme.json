@@ -1,0 +1,69 @@
+{
+    "title": "Fertilizer consumption as a percentage of production",
+    "legend": {
+        "Europe(all income levels)": "#bebebe",
+        "Norway": "#bebebe",
+        "Uzbekistan": "#c3c3c3"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Europe(all income levels)": [
+            49.98343187251839,
+            53.3697545919721,
+            48.8832695182847,
+            63.13401014186729
+        ],
+        "Norway": [
+            23.4327834593601,
+            23.42003728702031,
+            23.8062386889467,
+            27.7786446143444
+        ],
+        "Uzbekistan": [
+            76.01530937699341,
+            70.80226540376921,
+            70.1826291079812,
+            77.4639396198286
+        ]
+    },
+    "colors": {
+        "Europe(all income levels)": "#BEBEBE",
+        "Norway": "#F0E68C",
+        "Uzbekistan": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Europe(all income levels)": "#bebebe",
+        "Norway": "#bebebe",
+        "Uzbekistan": "#c3c3c3"
+    }
+}

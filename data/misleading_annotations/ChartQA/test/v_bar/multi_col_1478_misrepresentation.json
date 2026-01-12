@@ -1,0 +1,121 @@
+{
+    "title": "Share of individuals",
+    "x_axis": {
+        "categories": [
+            "25 to 34",
+            "35 to 44",
+            "45 to 54",
+            "55 to 64",
+            "65 and older"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of individuals"
+    },
+    "legend": {
+        "No high school degree": "#2876dd",
+        "High school graduate": "#0f283e",
+        "Some college, no degree": "#bababa",
+        "Associate degree": "#a60b0b",
+        "Bachelor's degree": "#87bc24"
+    },
+    "data": {
+        "No high school degree": [
+            45,
+            43,
+            36,
+            32,
+            30
+        ],
+        "High school graduate": [
+            54,
+            51,
+            52,
+            48,
+            42
+        ],
+        "Some college, no degree": [
+            71,
+            64,
+            62,
+            56,
+            52
+        ],
+        "Associate degree": [
+            68,
+            71,
+            67,
+            61,
+            61
+        ],
+        "Bachelor's degree": [
+            81,
+            79,
+            78,
+            75,
+            67
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false,
+    "scaling_factors": {
+        "No high school degree": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "High school graduate": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Some college, no degree": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Associate degree": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Bachelor's degree": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

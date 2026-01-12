@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Kentucky": "#f27979",
+        "Tennessee": "#f29100",
+        "Florida": "#daf279",
+        "Alabama": "#30f200",
+        "Utah": "#52a574",
+        "Ohio": "#00a5a5",
+        "Oklahoma": "#5274a5",
+        "Indiana": "#2100a5",
+        "North Carolina": "#da79f2",
+        "Georgia": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Kentucky": [
+            346000.0
+        ],
+        "Tennessee": [
+            338000.0
+        ],
+        "Florida": [
+            333000.0
+        ],
+        "Alabama": [
+            332000.0
+        ],
+        "Utah": [
+            328000.0
+        ],
+        "Ohio": [
+            326000.0
+        ],
+        "Oklahoma": [
+            326000.0
+        ],
+        "Indiana": [
+            326000.0
+        ],
+        "North Carolina": [
+            325000.0
+        ],
+        "Georgia": [
+            323000.0
+        ]
+    },
+    "colors": {
+        "Kentucky": "#f27979",
+        "Tennessee": "#f29100",
+        "Florida": "#daf279",
+        "Alabama": "#30f200",
+        "Utah": "#52a574",
+        "Ohio": "#00a5a5",
+        "Oklahoma": "#5274a5",
+        "Indiana": "#2100a5",
+        "North Carolina": "#da79f2",
+        "Georgia": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 346000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

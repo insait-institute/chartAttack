@@ -1,0 +1,57 @@
+{
+    "title": "Cost of business start-up procedures",
+    "legend": {
+        "Hong Kong": "#f27979",
+        "Hungary": "#79f200",
+        "Iran": "#52a5a5",
+        "Ireland": "#5200a5"
+    },
+    "categories": [
+        "Cost of business start-up procedures"
+    ],
+    "data": {
+        "Hong Kong": [
+            2.4
+        ],
+        "Hungary": [
+            40.4
+        ],
+        "Iran": [
+            6.5
+        ],
+        "Ireland": [
+            10.4
+        ]
+    },
+    "colors": {
+        "Hong Kong": "#f27979",
+        "Hungary": "#79f200",
+        "Iran": "#52a5a5",
+        "Ireland": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

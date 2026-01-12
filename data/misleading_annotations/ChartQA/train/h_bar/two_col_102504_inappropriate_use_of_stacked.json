@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Apple": "#f27979",
+        "Amazon": "#f29100",
+        "Walmart": "#daf279",
+        "Target": "#30f200",
+        "Google": "#52a574",
+        "Kaiser Permanente": "#00a5a5",
+        "Switch": "#5274a5",
+        "Prologis": "#2100a5",
+        "Facebook": "#da79f2",
+        "Solvay": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Apple": [
+            398.3
+        ],
+        "Amazon": [
+            369.0
+        ],
+        "Walmart": [
+            331.0
+        ],
+        "Target": [
+            284.8
+        ],
+        "Google": [
+            245.3
+        ],
+        "Kaiser Permanente": [
+            181.8
+        ],
+        "Switch": [
+            179.0
+        ],
+        "Prologis": [
+            133.7
+        ],
+        "Facebook": [
+            119.5
+        ],
+        "Solvay": [
+            81.4
+        ]
+    },
+    "colors": {
+        "Apple": "#f27979",
+        "Amazon": "#f29100",
+        "Walmart": "#daf279",
+        "Target": "#30f200",
+        "Google": "#52a574",
+        "Kaiser Permanente": "#00a5a5",
+        "Switch": "#5274a5",
+        "Prologis": "#2100a5",
+        "Facebook": "#da79f2",
+        "Solvay": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

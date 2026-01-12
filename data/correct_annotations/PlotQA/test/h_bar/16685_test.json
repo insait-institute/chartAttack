@@ -1,0 +1,52 @@
+{
+    "title": "Information and communication technology goods exported by different countries",
+    "legend": {
+        "ICT goods exports": "#2F4F4F"
+    },
+    "categories": [
+        "Colombia",
+        "Comoros",
+        "Costa Rica",
+        "Cote d'Ivoire",
+        "Croatia",
+        "Cuba"
+    ],
+    "data": {
+        "ICT goods exports": [
+            0.2302455615,
+            0.1494304834,
+            25.77288762400001,
+            0.3410533078,
+            3.123551609,
+            1.9767651945
+        ]
+    },
+    "colors": {
+        "ICT goods exports": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

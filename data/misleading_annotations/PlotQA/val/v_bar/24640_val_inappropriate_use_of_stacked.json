@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of population having access to drinking water",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Antigua and Barbuda": "#f27979",
+        "Argentina": "#f2f200",
+        "Aruba": "#79f279",
+        "Australia": "#00a5a5",
+        "Austria": "#5252a5",
+        "Azerbaijan": "#a500a5"
+    },
+    "data": {
+        "Antigua and Barbuda": [
+            97.4
+        ],
+        "Argentina": [
+            93.8
+        ],
+        "Aruba": [
+            91.0
+        ],
+        "Australia": [
+            100.0
+        ],
+        "Austria": [
+            100.0
+        ],
+        "Azerbaijan": [
+            69.1
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Antigua and Barbuda": "#f27979",
+        "Argentina": "#f2f200",
+        "Aruba": "#79f279",
+        "Australia": "#00a5a5",
+        "Austria": "#5252a5",
+        "Azerbaijan": "#a500a5"
+    }
+}

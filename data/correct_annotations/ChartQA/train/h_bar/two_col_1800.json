@@ -1,0 +1,54 @@
+{
+    "title": "Share of respondents currently purchasing",
+    "legend": {
+        "Product": "#2876dd"
+    },
+    "categories": [
+        "Walkers",
+        "Doritos",
+        "Hula Hoops",
+        "Pringles",
+        "McCoys",
+        "Own brand crisps",
+        "KP nuts"
+    ],
+    "data": {
+        "Product": [
+            42,
+            32,
+            26,
+            26,
+            25,
+            24,
+            22
+        ]
+    },
+    "colors": {
+        "Product": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

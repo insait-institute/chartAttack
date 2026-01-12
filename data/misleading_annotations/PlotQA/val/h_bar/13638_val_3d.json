@@ -1,0 +1,82 @@
+{
+    "title": "Net disbursements of loans from government",
+    "legend": {
+        "Low & middle income": "#8FBC8F",
+        "Gabon": "#000000",
+        "Togo": "#66CDAA",
+        "Zambia": "#DC143C"
+    },
+    "categories": [
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+    ],
+    "data": {
+        "Low & middle income": [
+            13025963295.8,
+            10293222300.5,
+            8773181409.8,
+            8983648168.6,
+            9954771924.3,
+            7193088919.1
+        ],
+        "Gabon": [
+            -1964000,
+            8233000,
+            22131000,
+            40925000,
+            96352000,
+            107285000
+        ],
+        "Togo": [
+            9377000,
+            469000,
+            -15237000,
+            -20952000,
+            6966000,
+            38303000
+        ],
+        "Zambia": [
+            78676000,
+            81360000,
+            78616000,
+            65835000,
+            30027000,
+            99944000
+        ]
+    },
+    "colors": {
+        "Low & middle income": "#8FBC8F",
+        "Gabon": "#000000",
+        "Togo": "#66CDAA",
+        "Zambia": "#DC143C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13025963300
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of external PPG debt contracted in Euros for the low-income countries",
+    "legend": {
+        "Cameroon": "#32CD32",
+        "Guinea-Bissau": "#6495ED",
+        "Somalia": "#C71585"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "Cameroon": [
+            73.1953,
+            68.0012,
+            78.4398,
+            73.2347
+        ],
+        "Guinea-Bissau": [
+            10.8837,
+            10.3439,
+            11.0245,
+            11.9972
+        ],
+        "Somalia": [
+            6.2431,
+            5.6011,
+            6.1195,
+            6.6455
+        ]
+    },
+    "colors": {
+        "Cameroon": "#32CD32",
+        "Guinea-Bissau": "#6495ED",
+        "Somalia": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

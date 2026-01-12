@@ -1,0 +1,61 @@
+{
+    "title": "PPP conversion factor for GDP and private consumption in 2006",
+    "x_axis": {
+        "categories": [
+            "GDP",
+            " Private consumption"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Saudi Arabia": "#90EE90",
+        "Slovak Republic": "#008080",
+        "Turkey": "#BEBEBE",
+        "Vanuatu": "#DC143C"
+    },
+    "data": {
+        "Saudi Arabia": [
+            1.51704684833654,
+            1.48610974551829
+        ],
+        "Slovak Republic": [
+            0.5547810000000001,
+            0.615654
+        ],
+        "Turkey": [
+            0.846865,
+            1.031864
+        ],
+        "Vanuatu": [
+            89.3859819380118,
+            109.706820069728
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

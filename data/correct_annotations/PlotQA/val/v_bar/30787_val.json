@@ -1,0 +1,66 @@
+{
+    "title": "Ores,manufactures and fuel exports of different countries in 1982",
+    "x_axis": {
+        "categories": [
+            "Ores and metals",
+            "Manufactures",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Barbados": "#0000FF",
+        "Benin": "#FF7F50",
+        "Canada": "#4682B4",
+        "Portugal": "#40E0D0"
+    },
+    "data": {
+        "Barbados": [
+            0.0989211698672746,
+            71.6643562435535,
+            0.240775705080182
+        ],
+        "Benin": [
+            0.0744919065423367,
+            46.68170582008199,
+            3.92913015976696
+        ],
+        "Canada": [
+            9.72105869963591,
+            53.45678935201079,
+            14.3353531918953
+        ],
+        "Portugal": [
+            1.30615269963534,
+            73.4298716644149,
+            3.90008260745183
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

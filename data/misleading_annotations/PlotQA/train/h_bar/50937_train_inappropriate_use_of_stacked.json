@@ -1,0 +1,62 @@
+{
+    "title": "Total unemployment among male youth",
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#c1f200",
+        "2009": "#52a574",
+        "2010": "#0042a5",
+        "2011": "#da79f2"
+    },
+    "categories": [
+        "Total unemployment among male youth"
+    ],
+    "data": {
+        "2007": [
+            8.88325189898997
+        ],
+        "2008": [
+            9.26216631311931
+        ],
+        "2009": [
+            9.343605373806831
+        ],
+        "2010": [
+            9.32193472219937
+        ],
+        "2011": [
+            9.20623411625302
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#c1f200",
+        "2009": "#52a574",
+        "2010": "#0042a5",
+        "2011": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

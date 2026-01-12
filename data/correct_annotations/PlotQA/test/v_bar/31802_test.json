@@ -1,0 +1,50 @@
+{
+    "title": "Percentage of employed workers in the year 1993 that are vulnerable to fall into poverty",
+    "x_axis": {
+        "categories": [
+            "Egypt, Arab Rep.",
+            "El Salvador",
+            "Estonia",
+            "France"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Vulnerable employment": "#808000"
+    },
+    "data": {
+        "Vulnerable employment": [
+            28.2999992370605,
+            34.5,
+            5.300000190734862,
+            9.30000019073486
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

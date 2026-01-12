@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Games": "#2876dd"
+    },
+    "categories": [
+        "Homescapes",
+        "Candy Crush Saga",
+        "Puzzle & Dragons",
+        "Gardenscapes",
+        "Project Makeover",
+        "Fishdom",
+        "Toon Blast",
+        "Top War: Battle Game",
+        "Candy Crush Soda Saga",
+        "Empires & Puzzles: Epic Mach 3"
+    ],
+    "data": {
+        "Games": [
+            59.57,
+            59.43,
+            49.55,
+            48.08,
+            28.02,
+            26.08,
+            24.27,
+            21.81,
+            21.67,
+            21.36
+        ]
+    },
+    "colors": {
+        "Games": "#2876dd"
+    },
+    "y_label": "Revenue in million U.S. dollars",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,104 @@
+{
+    "title": "",
+    "legend": {
+        "Surgeons": "#2876dd"
+    },
+    "categories": [
+        "United States",
+        "Brazil",
+        "China",
+        "Japan",
+        "South Korea",
+        "India",
+        "Mexico",
+        "Russia",
+        "Turkey",
+        "Germany",
+        "Italy",
+        "Egypt",
+        "Colombia",
+        "Argentina",
+        "France",
+        "United Kingdom",
+        "Spain",
+        "Chinese Taipei",
+        "Venezuela",
+        "Peru"
+    ],
+    "data": {
+        "Surgeons": [
+            6900,
+            6011,
+            3000,
+            2707,
+            2571,
+            2400,
+            2124,
+            1812,
+            1450,
+            1397,
+            1390,
+            1215,
+            1130,
+            1100,
+            1082,
+            1077,
+            1021,
+            720,
+            625,
+            563
+        ]
+    },
+    "colors": {
+        "Surgeons": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6900
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Surgeons": [
+            1.5,
+            2.0,
+            0.75,
+            1.25,
+            1.25,
+            1.25,
+            0.25,
+            1.75,
+            0.75,
+            1.75,
+            0.75,
+            0.75,
+            0.75,
+            1.5,
+            2.0,
+            1.75,
+            1.5,
+            2.0,
+            0.25,
+            0.75
+        ]
+    }
+}

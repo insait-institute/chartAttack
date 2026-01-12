@@ -1,0 +1,86 @@
+{
+    "title": "Net official aid flows in World from different UN agencies",
+    "legend": {
+        "UNHCR": "#2E8B57",
+        "UNRWA": "#A0522D",
+        "UNTA": "#5F9EA0",
+        "UNAIDS": "#D2691E"
+    },
+    "x_axis": [
+        "1971",
+        "1972",
+        "1973",
+        "1974"
+    ],
+    "y_axis_label": "Aid flow from UN agencies (US$)",
+    "data": [
+        {
+            "label": "UNHCR",
+            "color": "#2E8B57",
+            "values": [
+                8970000,
+                22370000,
+                26820000,
+                37040000
+            ]
+        },
+        {
+            "label": "UNRWA",
+            "color": "#A0522D",
+            "values": [
+                41060000,
+                44420000,
+                53750000,
+                76960000
+            ]
+        },
+        {
+            "label": "UNTA",
+            "color": "#5F9EA0",
+            "values": [
+                43990000,
+                48220000,
+                48610000,
+                70260000
+            ]
+        },
+        {
+            "label": "UNAIDS",
+            "color": "#D2691E",
+            "values": [
+                193100000,
+                208950000,
+                243030000,
+                245760000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 8970000,
+                "max_value": 245760000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Health expenditure as a share of GDP",
+    "x_axis": {
+        "categories": [
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "Health expenditure as a share of GDP"
+    },
+    "legend": {
+        "Health expenditure": "#2876dd"
+    },
+    "data": {
+        "Health expenditure": [
+            2.88,
+            2.61,
+            2.68,
+            2.96,
+            2.96,
+            2.9,
+            2.96,
+            3.12,
+            2.99,
+            3.09,
+            2.87,
+            2.87
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

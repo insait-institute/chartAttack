@@ -1,0 +1,62 @@
+{
+    "title": "Average ticket price in U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2005/06",
+            "2006/07",
+            "2006/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15**"
+        ]
+    },
+    "y_axis": {
+        "label": "Average ticket price in U.S. dollars"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            43.13,
+            40.51,
+            46.6,
+            46.6,
+            51.73,
+            51.73,
+            53.28,
+            53.28,
+            64.46,
+            49.16
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Stacked vertical bar chart": false
+}

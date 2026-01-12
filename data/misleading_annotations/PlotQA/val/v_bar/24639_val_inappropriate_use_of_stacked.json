@@ -1,0 +1,62 @@
+{
+    "title": "Merchandise exports to low and middle-income economies in Latin America",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Costa Rica": "#f27979",
+        "Denmark": "#79f200",
+        "Ecuador": "#52a5a5",
+        "El Salvador": "#5200a5"
+    },
+    "data": {
+        "Costa Rica": [
+            5.324074074074071
+        ],
+        "Denmark": [
+            3.16400188895635
+        ],
+        "Ecuador": [
+            4.07288317256163
+        ],
+        "El Salvador": [
+            10.7969151670951
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Costa Rica": "#f27979",
+        "Denmark": "#79f200",
+        "Ecuador": "#52a5a5",
+        "El Salvador": "#5200a5"
+    }
+}

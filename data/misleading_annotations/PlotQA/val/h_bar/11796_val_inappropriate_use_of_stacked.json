@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of newborns who have received the vaccination for measles",
+    "legend": {
+        "2001": "#f27979",
+        "2002": "#c1f200",
+        "2003": "#52a574",
+        "2004": "#0042a5",
+        "2005": "#da79f2"
+    },
+    "categories": [
+        "Percentage of newborns who have received the vaccination for measles"
+    ],
+    "data": {
+        "2001": [
+            57.038167010396
+        ],
+        "2002": [
+            58.7198125461765
+        ],
+        "2003": [
+            61.42542537841471
+        ],
+        "2004": [
+            65.8622620814388
+        ],
+        "2005": [
+            67.80754332759341
+        ]
+    },
+    "colors": {
+        "2001": "#f27979",
+        "2002": "#c1f200",
+        "2003": "#52a574",
+        "2004": "#0042a5",
+        "2005": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Premier": "#f27979",
+        "Best-one": "#f29100",
+        "Costcutter": "#daf279",
+        "Spar": "#30f200",
+        "Londis": "#52a574",
+        "Lifestyle express": "#00a5a5",
+        "The Co-operative": "#5274a5",
+        "Tesco Express": "#2100a5",
+        "Nisa": "#da79f2",
+        "McColl's": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Premier": [
+            2950.0
+        ],
+        "Best-one": [
+            2904.0
+        ],
+        "Costcutter": [
+            2547.0
+        ],
+        "Spar": [
+            2312.0
+        ],
+        "Londis": [
+            2018.0
+        ],
+        "Lifestyle express": [
+            1976.0
+        ],
+        "The Co-operative": [
+            1785.0
+        ],
+        "Tesco Express": [
+            1463.0
+        ],
+        "Nisa": [
+            1002.0
+        ],
+        "McColl's": [
+            719.0
+        ]
+    },
+    "colors": {
+        "Premier": "#f27979",
+        "Best-one": "#f29100",
+        "Costcutter": "#daf279",
+        "Spar": "#30f200",
+        "Londis": "#52a574",
+        "Lifestyle express": "#00a5a5",
+        "The Co-operative": "#5274a5",
+        "Tesco Express": "#2100a5",
+        "Nisa": "#da79f2",
+        "McColl's": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2950
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

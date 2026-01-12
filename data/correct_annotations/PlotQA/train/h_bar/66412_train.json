@@ -1,0 +1,67 @@
+{
+    "title": "Global emissions of Perfluorocarbons",
+    "legend": {
+        "Euro area": "#7FFFD4",
+        "Europe(developing only)": "#8A2BE2",
+        "European Union": "#00BFFF",
+        "Hungary": "#FF69B4"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2005"
+    ],
+    "data": {
+        "Euro area": [
+            17255.1,
+            7625.0,
+            5640.05545140951
+        ],
+        "Europe(developing only)": [
+            7140.8,
+            2981.2,
+            2226.020995746281
+        ],
+        "European Union": [
+            23536.5,
+            10874.6,
+            8230.79238932638
+        ],
+        "Hungary": [
+            683.3,
+            308.5,
+            283.7
+        ]
+    },
+    "colors": {
+        "Euro area": "#7FFFD4",
+        "Europe(developing only)": "#8A2BE2",
+        "European Union": "#00BFFF",
+        "Hungary": "#FF69B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23540
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

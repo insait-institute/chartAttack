@@ -1,0 +1,98 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 1972 ",
+    "legend": {
+        "Austria": "#2E8B57",
+        "Cuba": "#663399",
+        "Italy": "#EE82EE",
+        "Philippines": "#DAA520"
+    },
+    "categories": [
+        "Coal",
+        "Minerals",
+        "Energy",
+        "Water"
+    ],
+    "data": {
+        "Austria": [
+            0.3813471290568,
+            0.0050410028261404,
+            0.2120180749954069,
+            0.217059077821547
+        ],
+        "Cuba": [
+            0.390444889525845,
+            0.242736644307322,
+            0.0069045484004395,
+            0.307167536779931
+        ],
+        "Italy": [
+            0.337150958635805,
+            0.00158539983960404,
+            0.104688537751317,
+            0.106538841041244
+        ],
+        "Philippines": [
+            0.501992727008903,
+            0.953843671848364,
+            0.000169287117566381,
+            2.85839408877464
+        ]
+    },
+    "colors": {
+        "Austria": "#2E8B57",
+        "Cuba": "#663399",
+        "Italy": "#EE82EE",
+        "Philippines": "#DAA520"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Austria": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Cuba": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Italy": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Philippines": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

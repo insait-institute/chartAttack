@@ -1,0 +1,84 @@
+{
+    "title": "Median age in years",
+    "x_axis": {
+        "categories": [
+            "1950",
+            "1955",
+            "1960",
+            "1965",
+            "1970",
+            "1975",
+            "1980",
+            "1985",
+            "1990",
+            "1995",
+            "2000",
+            "2005",
+            "2010",
+            "2015",
+            "2020*",
+            "2025*",
+            "2030*",
+            "2035*",
+            "2040*",
+            "2045*",
+            "2050*"
+        ]
+    },
+    "y_axis": {
+        "label": "Median age in years"
+    },
+    "legend": {
+        "Median Age": "#2876dd"
+    },
+    "data": {
+        "Median Age": [
+            21.3,
+            20.7,
+            20.2,
+            19.6,
+            19.3,
+            19.7,
+            20.2,
+            20.6,
+            21.1,
+            21.8,
+            22.7,
+            23.8,
+            25.1,
+            26.8,
+            28.4,
+            30,
+            31.7,
+            33.3,
+            35,
+            36.6,
+            38.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

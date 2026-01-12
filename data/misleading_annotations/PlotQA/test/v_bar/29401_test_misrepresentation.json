@@ -1,0 +1,106 @@
+{
+    "title": "Employment to population ratio (female)",
+    "x_axis": {
+        "categories": [
+            "Arab World",
+            "Caribbean small states",
+            "Central Europe",
+            "East Asia (all income levels)",
+            "East Asia (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1991": "#8A2BE2",
+        "1992": "#FF4500",
+        "1993": "#EE82EE",
+        "1994": "#E9967A"
+    },
+    "data": {
+        "1991": [
+            15.6121487524536,
+            43.18387932531761,
+            47.4203216744845,
+            63.8309003279391,
+            66.0623018368938
+        ],
+        "1992": [
+            15.6717243173684,
+            42.5929186066136,
+            47.0124263421805,
+            64.00459987080849,
+            66.2509968136343
+        ],
+        "1993": [
+            15.3916247287353,
+            42.5427181354117,
+            45.80929338547811,
+            63.82551777426389,
+            66.0831217678187
+        ],
+        "1994": [
+            15.7681124746552,
+            43.4819922693615,
+            45.3820975690676,
+            63.74389346945171,
+            65.9554078491355
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1991": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1992": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1993": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1994": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

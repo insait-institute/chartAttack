@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Exports": "#2876dd"
+    },
+    "categories": [
+        "Canada",
+        "Hong Kong",
+        "Mexico",
+        "South Korea",
+        "Guatemala"
+    ],
+    "data": {
+        "Exports": [
+            23987,
+            5408,
+            1726,
+            186,
+            210
+        ]
+    },
+    "colors": {
+        "Exports": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23990
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Total earnings from merchandise exports and imports in 1977",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "China": "#FFA07A",
+        "Ecuador": "#4B0082",
+        "Mali": "#ADFF2F",
+        "Sierra Leone": "#87CEEB"
+    },
+    "data": {
+        "China": [
+            7519650000,
+            7148240000
+        ],
+        "Ecuador": [
+            1436300000,
+            1188500000
+        ],
+        "Mali": [
+            124564000,
+            158966000
+        ],
+        "Sierra Leone": [
+            135924000,
+            180654000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7519650000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

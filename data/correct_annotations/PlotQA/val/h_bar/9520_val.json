@@ -1,0 +1,72 @@
+{
+    "title": "Proportion of the total male labor force of different age groups participating in production in 2013",
+    "legend": {
+        "Ages 15-20": "#EE82EE",
+        "Ages 20-50": "#8FBC8F",
+        "Ages 50+": "#BDB76B"
+    },
+    "categories": [
+        "East Asia (developing only)",
+        "Euro area",
+        "Europe(all income levels)",
+        "Europe(developing only)",
+        "European Union",
+        "Fragile and conflict affected situations"
+    ],
+    "data": {
+        "Ages 15-20": [
+            58.8960010704531,
+            43.99699735935921,
+            46.8342322010209,
+            48.5507657117863,
+            45.46773729746321,
+            54.3299430121276
+        ],
+        "Ages 20-50": [
+            79.39004412196991,
+            64.0856317964933,
+            67.26039534793779,
+            69.36876659756639,
+            64.7400798203131,
+            77.2367420795506
+        ],
+        "Ages 50+": [
+            84.2212632588709,
+            78.33248454350999,
+            77.55323098236241,
+            74.9999119550895,
+            78.0425254639075,
+            78.78521565174209
+        ]
+    },
+    "colors": {
+        "Ages 15-20": "#EE82EE",
+        "Ages 20-50": "#8FBC8F",
+        "Ages 50+": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

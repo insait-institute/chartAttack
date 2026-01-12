@@ -1,0 +1,56 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1992",
+    "legend": {
+        "Costa Rica": "#663399",
+        "Tanzania": "#228B22"
+    },
+    "categories": [
+        "Industry",
+        "Manufacturing",
+        "Services",
+        "Agriculture"
+    ],
+    "data": {
+        "Costa Rica": [
+            30.89567513854789,
+            23.3405991402287,
+            55.7595961652707,
+            13.3447286961814
+        ],
+        "Tanzania": [
+            16.2014859865822,
+            8.19714402156875,
+            35.8016176562794,
+            47.9968963571384
+        ]
+    },
+    "colors": {
+        "Costa Rica": "#663399",
+        "Tanzania": "#228B22"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

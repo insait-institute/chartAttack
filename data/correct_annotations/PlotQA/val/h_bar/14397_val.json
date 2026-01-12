@@ -1,0 +1,82 @@
+{
+    "title": "Lower secondary school starting age (years)",
+    "legend": {
+        "Bolivia": "#DC143C",
+        "Denmark": "#C71585",
+        "Dominican Republic": "#A52A2A",
+        "Jordan": "#FF4500"
+    },
+    "categories": [
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+    ],
+    "data": {
+        "Bolivia": [
+            12.0,
+            12.0,
+            12.0,
+            12.0,
+            12.0,
+            12.0
+        ],
+        "Denmark": [
+            13,
+            13,
+            13,
+            13,
+            13,
+            13
+        ],
+        "Dominican Republic": [
+            13,
+            13,
+            13,
+            13,
+            13,
+            13
+        ],
+        "Jordan": [
+            12.0,
+            12.0,
+            12.0,
+            12.0,
+            12.0,
+            12.0
+        ]
+    },
+    "colors": {
+        "Bolivia": "#DC143C",
+        "Denmark": "#C71585",
+        "Dominican Republic": "#A52A2A",
+        "Jordan": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

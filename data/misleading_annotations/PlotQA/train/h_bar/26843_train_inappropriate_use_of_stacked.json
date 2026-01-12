@@ -1,0 +1,52 @@
+{
+    "title": "CO2 emissions from different sources in 2002",
+    "legend": {
+        "Other sectors": "#f27979",
+        "Resident buildings and public services": "#00f200",
+        "Transport": "#5252a5"
+    },
+    "categories": [
+        "CO2 emissions from different sources in 2002"
+    ],
+    "data": {
+        "Other sectors": [
+            3.99692544196772
+        ],
+        "Resident buildings and public services": [
+            8.95465026902383
+        ],
+        "Transport": [
+            23.3282090699462
+        ]
+    },
+    "colors": {
+        "Other sectors": "#f27979",
+        "Resident buildings and public services": "#00f200",
+        "Transport": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

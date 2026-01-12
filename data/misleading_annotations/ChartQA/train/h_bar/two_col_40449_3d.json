@@ -1,0 +1,80 @@
+{
+    "title": "Rushing yards",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Gerald Riggs",
+        "Michael Turner",
+        "William Andrews",
+        "Warrick Dunn",
+        "Jamal Anderson",
+        "Devonta Freeman",
+        "Michael Vick",
+        "Dave Hampton",
+        "Haskel Stanback",
+        "Tevin Coleman",
+        "Lynn Cain",
+        "Cannonball Butler",
+        "Craig Heyward",
+        "T.J. Duckett",
+        "Art Malone",
+        "Jerious Norwood",
+        "Erric Pegram",
+        "John Settle",
+        "Junior Coffey",
+        "Bubba Bean"
+    ],
+    "data": {
+        "Players": [
+            6631,
+            6081,
+            5986,
+            5981,
+            5336,
+            3972,
+            3859,
+            3482,
+            2662,
+            2340,
+            2263,
+            2250,
+            2183,
+            2175,
+            2118,
+            1995,
+            1981,
+            1801,
+            1612,
+            1528
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6640
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

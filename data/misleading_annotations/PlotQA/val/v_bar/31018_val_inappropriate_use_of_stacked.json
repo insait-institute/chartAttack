@@ -1,0 +1,67 @@
+{
+    "title": "CPIA building human resources rating",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Sub-Saharan Africa (developing only)": "#f27979",
+        "Upper middle income": "#c1f200",
+        "World": "#52a574",
+        "Bangladesh": "#0042a5",
+        "Benin": "#da79f2"
+    },
+    "data": {
+        "Sub-Saharan Africa (developing only)": [
+            3.189189189189189
+        ],
+        "Upper middle income": [
+            3.58333333333333
+        ],
+        "World": [
+            3.38815789473684
+        ],
+        "Bangladesh": [
+            4.0
+        ],
+        "Benin": [
+            3.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Sub-Saharan Africa (developing only)": "#f27979",
+        "Upper middle income": "#c1f200",
+        "World": "#52a574",
+        "Bangladesh": "#0042a5",
+        "Benin": "#da79f2"
+    }
+}

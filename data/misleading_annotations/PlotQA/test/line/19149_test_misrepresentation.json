@@ -1,0 +1,90 @@
+{
+    "title": "Net disbursements made to European Union from members of DAC committee",
+    "legend": {
+        "Czech Republic": "#FF4500",
+        "Poland": "#5F9EA0",
+        "Slovak Republic": "#20B2AA"
+    },
+    "x_axis": [
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Net Disbursements (current US$)",
+    "data": [
+        {
+            "label": "Czech Republic",
+            "color": "#FF4500",
+            "values": [
+                110000,
+                500000
+            ]
+        },
+        {
+            "label": "Poland",
+            "color": "#5F9EA0",
+            "values": [
+                10000,
+                10000
+            ]
+        },
+        {
+            "label": "Slovak Republic",
+            "color": "#20B2AA",
+            "values": [
+                20000,
+                130000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10000,
+                "max_value": 500000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Czech Republic",
+            "values": [
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "Poland",
+            "values": [
+                1.75,
+                0.25
+            ]
+        },
+        {
+            "label": "Slovak Republic",
+            "values": [
+                1.75,
+                0.25
+            ]
+        }
+    ]
+}

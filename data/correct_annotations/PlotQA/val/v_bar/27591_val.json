@@ -1,0 +1,64 @@
+{
+    "title": "Measure of agricultural productivity of a country",
+    "x_axis": {
+        "categories": [
+            "Thailand",
+            "Togo",
+            "Tunisia",
+            "Turkey"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#B8860B",
+        "1981": "#8A2BE2",
+        "1982": "#6B8E23"
+    },
+    "data": {
+        "1980": [
+            503.751651605749,
+            487.340253411897,
+            1948.62876341312,
+            3936.145321923879
+        ],
+        "1981": [
+            521.091985421475,
+            476.726605405998,
+            2075.92596449428,
+            3775.17243822774
+        ],
+        "1982": [
+            517.059859343657,
+            422.796145579711,
+            1864.55657896435,
+            3759.3078083711
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3940
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

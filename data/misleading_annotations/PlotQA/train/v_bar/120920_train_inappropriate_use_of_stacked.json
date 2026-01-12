@@ -1,0 +1,67 @@
+{
+    "title": "Male unemployment expressed as percentage of male labor force",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Montenegro": "#f27979",
+        "Morocco": "#c1f200",
+        "Mozambique": "#52a574",
+        "Myanmar": "#0042a5",
+        "Namibia": "#da79f2"
+    },
+    "data": {
+        "Montenegro": [
+            17.7999992370605
+        ],
+        "Morocco": [
+            12.3000001907349
+        ],
+        "Mozambique": [
+            21.3999996185303
+        ],
+        "Myanmar": [
+            3.5
+        ],
+        "Namibia": [
+            17.2000007629395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Montenegro": "#f27979",
+        "Morocco": "#c1f200",
+        "Mozambique": "#52a574",
+        "Myanmar": "#0042a5",
+        "Namibia": "#da79f2"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "title": "Total electricity produced from different renewable sources in Switzerland",
+    "legend": {
+        "Hydroelectric sources": "#483D8B",
+        "Nuclear sources": "#FFFF00",
+        "Renewable sources": "#9ACD32"
+    },
+    "x_axis": [
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Hydroelectric sources",
+            "color": "#483D8B",
+            "values": [
+                67.86090621707059,
+                60.87983049137321,
+                57.70747429641501,
+                58.19140093029839,
+                58.9693001105536,
+                59.973524581923,
+                55.39079796833429,
+                54.178637669564,
+                56.38821502654429
+            ]
+        },
+        {
+            "label": "Nuclear sources",
+            "color": "#FFFF00",
+            "values": [
+                30.0986684548328,
+                37.211179497528,
+                40.6179664007779,
+                39.9373905661379,
+                39.1240751764606,
+                38.1916284057777,
+                42.48637183947611,
+                42.97923409826529,
+                40.349119291214
+            ]
+        },
+        {
+            "label": "Renewable sources",
+            "color": "#9ACD32",
+            "values": [
+                0.7586933614330881,
+                0.7446271819190801,
+                0.65721951131678,
+                0.8100316584425459,
+                0.86912152393911,
+                0.859613257816951,
+                0.9842043572903679,
+                0.8019056624359019,
+                0.7734767781176389
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

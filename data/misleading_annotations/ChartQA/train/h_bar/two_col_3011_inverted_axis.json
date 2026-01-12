@@ -1,0 +1,78 @@
+{
+    "title": "",
+    "legend": {
+        "Countries": "#2876dd"
+    },
+    "categories": [
+        "Brazil",
+        "Argentina",
+        "Mexico",
+        "Peru",
+        "Colombia",
+        "Bolivia",
+        "Venezuela",
+        "Chile",
+        "Paraguay",
+        "Ecuador",
+        "Uruguay",
+        "Nicaragua",
+        "Honduras",
+        "Cuba",
+        "Guatemala",
+        "Panama",
+        "Costa Rica",
+        "Dominican Republic",
+        "Haiti"
+    ],
+    "data": {
+        "Countries": [
+            8515770,
+            2780400,
+            1964375,
+            1285216,
+            1138910,
+            1098581,
+            912050,
+            756102,
+            406752,
+            283561,
+            176215,
+            130370,
+            112090,
+            110860,
+            108889,
+            75420,
+            51100,
+            48670,
+            27750
+        ]
+    },
+    "colors": {
+        "Countries": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8515770
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

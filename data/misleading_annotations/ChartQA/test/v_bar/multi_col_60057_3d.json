@@ -1,0 +1,63 @@
+{
+    "title": "Sales revenue in billion GBP",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Sales revenue in billion GBP"
+    },
+    "legend": {
+        "Website sales": "#2876dd",
+        "EDI sales*": "#0f283e"
+    },
+    "data": {
+        "Website sales": [
+            227.4,
+            236.6,
+            247.9,
+            299.1,
+            365,
+            356.4
+        ],
+        "EDI sales*": [
+            286.1,
+            259.6,
+            260.9,
+            283.3,
+            323.4,
+            336.6
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 370
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Stacked vertical bar chart": true
+}

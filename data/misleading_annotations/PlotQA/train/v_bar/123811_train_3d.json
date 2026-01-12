@@ -1,0 +1,56 @@
+{
+    "title": "Prevalence of wasting in children with age under 5 years as per the report of 1998",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "El Salvador": "#FF00FF",
+        "Nepal": "#CD853F",
+        "Niger": "#DAA520"
+    },
+    "data": {
+        "El Salvador": [
+            1.29999995231628,
+            1.79999995231628
+        ],
+        "Nepal": [
+            7.0,
+            8.80000019073486
+        ],
+        "Niger": [
+            25.5,
+            25.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

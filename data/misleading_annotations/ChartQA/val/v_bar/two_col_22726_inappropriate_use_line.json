@@ -1,0 +1,58 @@
+{
+    "title": "Production volume in thousand metric tons",
+    "x_axis": {
+        "categories": [
+            "FY 2013",
+            "FY 2014",
+            "FY 2015",
+            "FY 2016",
+            "FY 2017",
+            "FY 2018",
+            "FY 2019",
+            "FY 2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Production volume in thousand metric tons"
+    },
+    "legend": {
+        "Production": "#2876dd"
+    },
+    "data": {
+        "Production": [
+            125.79,
+            128.37,
+            119.75,
+            153.08,
+            148.87,
+            157.02,
+            156.45,
+            122.84
+        ]
+    },
+    "type": "line",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 160
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

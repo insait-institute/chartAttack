@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of repeaters in secondary general education",
+    "legend": {
+        "1994": "#f27979",
+        "1999": "#f2f200",
+        "2002": "#79f279",
+        "2003": "#00a5a5",
+        "2004": "#5252a5",
+        "2005": "#a500a5"
+    },
+    "categories": [
+        "Percentage of repeaters in secondary general education"
+    ],
+    "data": {
+        "1994": [
+            5.30741
+        ],
+        "1999": [
+            4.361499786376951
+        ],
+        "2002": [
+            2.26204991340637
+        ],
+        "2003": [
+            2.35408997535706
+        ],
+        "2004": [
+            3.20919990539551
+        ],
+        "2005": [
+            3.23766994476318
+        ]
+    },
+    "colors": {
+        "1994": "#f27979",
+        "1999": "#f2f200",
+        "2002": "#79f279",
+        "2003": "#00a5a5",
+        "2004": "#5252a5",
+        "2005": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

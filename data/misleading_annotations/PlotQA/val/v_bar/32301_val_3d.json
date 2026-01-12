@@ -1,0 +1,52 @@
+{
+    "title": "Net enrollment rate in primary schools of countries in the year 2007",
+    "x_axis": {
+        "categories": [
+            "Iran",
+            "Iraq",
+            "Ireland",
+            "Israel",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Adjusted net enrolment rate": "#708090"
+    },
+    "data": {
+        "Adjusted net enrolment rate": [
+            99.6258010864258,
+            91.7532424926758,
+            99.8605117797852,
+            97.2928619384766,
+            99.3459701538085
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

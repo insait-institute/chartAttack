@@ -1,0 +1,56 @@
+{
+    "title": "Proportion of the population (ages 15-24) that is economically active in different countries",
+    "x_axis": {
+        "categories": [
+            "Females",
+            "Males"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "European Union": "#708090",
+        "Brazil": "#6495ED",
+        "Morocco": "#A020F0"
+    },
+    "data": {
+        "European Union": [
+            41.28394225185421,
+            48.8309233533308
+        ],
+        "Brazil": [
+            50.7000007629395,
+            75.099998474121
+        ],
+        "Morocco": [
+            20.7999992370605,
+            53.2999992370605
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

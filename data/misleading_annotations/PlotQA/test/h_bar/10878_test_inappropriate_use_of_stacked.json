@@ -1,0 +1,62 @@
+{
+    "title": "Electric power consumption in a country",
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#c1f200",
+        "2009": "#52a574",
+        "2010": "#0042a5",
+        "2011": "#da79f2"
+    },
+    "categories": [
+        "Electric power consumption in a country"
+    ],
+    "data": {
+        "2007": [
+            8387.2439734602
+        ],
+        "2008": [
+            8350.279066592479
+        ],
+        "2009": [
+            7951.916559491221
+        ],
+        "2010": [
+            8268.989882915792
+        ],
+        "2011": [
+            8163.94916510333
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#c1f200",
+        "2009": "#52a574",
+        "2010": "#0042a5",
+        "2011": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8390
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

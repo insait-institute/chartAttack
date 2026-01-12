@@ -1,0 +1,78 @@
+{
+    "title": "Number of total scheduled aircraft departures",
+    "x_axis": {
+        "categories": [
+            "1991",
+            "1995",
+            "2000",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of total scheduled aircraft departures"
+    },
+    "legend": {
+        "Total Departures": "#2876dd"
+    },
+    "data": {
+        "Total Departures": [
+            6893779,
+            8252834,
+            9097556,
+            11220400,
+            10981541,
+            11273979,
+            10732522,
+            9990734,
+            9921657,
+            9864878,
+            9581585,
+            8916584,
+            8819945,
+            8802767,
+            8983379,
+            9019930,
+            9214722,
+            9464482
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11273980
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Stacked vertical bar chart": false
+}

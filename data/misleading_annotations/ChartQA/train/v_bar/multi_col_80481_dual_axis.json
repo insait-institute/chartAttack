@@ -1,0 +1,68 @@
+{
+    "title": "Share",
+    "x_axis": {
+        "categories": [
+            "Facebook",
+            "Instagram",
+            "Other",
+            "YouTube"
+        ]
+    },
+    "y_axis": {
+        "label": "Share"
+    },
+    "legend": {
+        "Visits": "#2876dd",
+        "GMV": "#0f283e"
+    },
+    "data": {
+        "Visits": [
+            78,
+            12,
+            8,
+            2
+        ],
+        "GMV": [
+            74,
+            14,
+            10,
+            1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 2,
+                "max_value": 78
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 1,
+                "max_value": 74
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Percentage of women justifying marital abuse for various reasons in countries in 2014",
+    "legend": {
+        "Refusal of sex": "#00FF7F",
+        "Negligence towards kids": "#FF8C00",
+        "Argument": "#D2B48C"
+    },
+    "categories": [
+        "Cambodia",
+        "Congo (Democratic)",
+        "Egypt, Arab Rep.",
+        "Senegal",
+        "Togo",
+        "Zambia"
+    ],
+    "data": {
+        "Refusal of sex": [
+            12.8,
+            43.5,
+            19.9,
+            43.3,
+            9.6,
+            28.9
+        ],
+        "Negligence towards kids": [
+            43.7,
+            51.4,
+            24.1,
+            43.3,
+            18.9,
+            33.1
+        ],
+        "Argument": [
+            23.9,
+            57.7,
+            12.8,
+            46.3,
+            19.5,
+            33.5
+        ]
+    },
+    "colors": {
+        "Refusal of sex": "#00FF7F",
+        "Negligence towards kids": "#FF8C00",
+        "Argument": "#D2B48C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Refusal of sex": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Negligence towards kids": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "Argument": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

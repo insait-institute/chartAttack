@@ -1,0 +1,62 @@
+{
+    "title": "Proportion of the female population (ages 15+) that is economically active",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Canada": "#f27979",
+        "Finland": "#79f200",
+        "Germany": "#52a5a5",
+        "Israel": "#5200a5"
+    },
+    "data": {
+        "Canada": [
+            50.5999984741211
+        ],
+        "Finland": [
+            61.4000015258789
+        ],
+        "Germany": [
+            40.7000007629395
+        ],
+        "Israel": [
+            35.7000007629395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Canada": "#f27979",
+        "Finland": "#79f200",
+        "Germany": "#52a5a5",
+        "Israel": "#5200a5"
+    }
+}

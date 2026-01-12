@@ -1,0 +1,95 @@
+{
+    "title": "Total electricity produced from different renewable sources in Argentina",
+    "legend": {
+        "Hydroelectric sources": "#A52A2A",
+        "Nuclear sources": "#2F4F4F",
+        "Renewable sources": "#008B8B"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Hydroelectric sources",
+            "color": "#A52A2A",
+            "values": [
+                42.4496465489681,
+                36.7412800173856,
+                30.389856736385,
+                32.23402944327,
+                35.5107655166606,
+                28.2823108660625,
+                25.0131574619256,
+                27.7774588046162,
+                26.8131850586366
+            ]
+        },
+        {
+            "label": "Nuclear sources",
+            "color": "#2F4F4F",
+            "values": [
+                6.892591145370799,
+                8.22123220688906,
+                7.856037538062202,
+                6.51524774625323,
+                7.196661333033902,
+                6.72155423717764,
+                6.027762244663,
+                6.69378849892141,
+                5.72475511523754
+            ]
+        },
+        {
+            "label": "Renewable sources",
+            "color": "#008B8B",
+            "values": [
+                1.11422921625046,
+                1.21047484515919,
+                1.24494583936505,
+                1.2911054023566,
+                1.61693288044241,
+                1.53486509392667,
+                1.3297259958554,
+                1.14912359845471,
+                1.77067450085021
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Total labor force participation rate in the year 1996",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Italy": "#f27979",
+        "Jamaica": "#c1f200",
+        "Japan": "#52a574",
+        "Korea (Republic)": "#0042a5",
+        "Luxembourg": "#da79f2"
+    },
+    "data": {
+        "Italy": [
+            38.7000007629395
+        ],
+        "Jamaica": [
+            52.4000015258789
+        ],
+        "Japan": [
+            48.2999992370605
+        ],
+        "Korea (Republic)": [
+            35.9000015258789
+        ],
+        "Luxembourg": [
+            40.7000007629395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Italy": "#f27979",
+        "Jamaica": "#c1f200",
+        "Japan": "#52a574",
+        "Korea (Republic)": "#0042a5",
+        "Luxembourg": "#da79f2"
+    }
+}

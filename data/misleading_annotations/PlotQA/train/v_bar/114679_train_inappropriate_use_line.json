@@ -1,0 +1,60 @@
+{
+    "title": "Agricultural raw materials,food and fuel exports of countries in 2000",
+    "x_axis": {
+        "categories": [
+            "Agricultural raw materials",
+            "Food",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Australia": "#FFA07A",
+        "Barbados": "#2E8B57",
+        "Costa Rica": "#D2691E"
+    },
+    "data": {
+        "Australia": [
+            5.654583335648379,
+            20.6516348385937,
+            21.8804271956801
+        ],
+        "Barbados": [
+            0.157456582021961,
+            37.1631932005514,
+            8.62442777763815
+        ],
+        "Costa Rica": [
+            3.00391303909975,
+            30.0385281921591,
+            0.617905398054796
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

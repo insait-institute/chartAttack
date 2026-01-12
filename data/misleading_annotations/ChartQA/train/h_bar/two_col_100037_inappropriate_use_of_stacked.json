@@ -1,0 +1,87 @@
+{
+    "title": "Number of games played by baseball players",
+    "legend": {
+        "Zack Wheat": "#f27979",
+        "Bill Russell": "#f29100",
+        "Pee Wee Reese": "#daf279",
+        "Gil Hodges": "#30f200",
+        "Jim Gilliam": "#52a574",
+        "Willie Davis": "#00a5a5",
+        "Duke Snider": "#5274a5",
+        "Carl Furillo": "#2100a5",
+        "Steve Garvey": "#da79f2",
+        "Eric Karros": "#f20091"
+    },
+    "categories": [
+        "Number of games played by baseball players"
+    ],
+    "data": {
+        "Zack Wheat": [
+            2322.0
+        ],
+        "Bill Russell": [
+            2181.0
+        ],
+        "Pee Wee Reese": [
+            2166.0
+        ],
+        "Gil Hodges": [
+            2006.0
+        ],
+        "Jim Gilliam": [
+            1956.0
+        ],
+        "Willie Davis": [
+            1952.0
+        ],
+        "Duke Snider": [
+            1923.0
+        ],
+        "Carl Furillo": [
+            1806.0
+        ],
+        "Steve Garvey": [
+            1727.0
+        ],
+        "Eric Karros": [
+            1601.0
+        ]
+    },
+    "colors": {
+        "Zack Wheat": "#f27979",
+        "Bill Russell": "#f29100",
+        "Pee Wee Reese": "#daf279",
+        "Gil Hodges": "#30f200",
+        "Jim Gilliam": "#52a574",
+        "Willie Davis": "#00a5a5",
+        "Duke Snider": "#5274a5",
+        "Carl Furillo": "#2100a5",
+        "Steve Garvey": "#da79f2",
+        "Eric Karros": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2330
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

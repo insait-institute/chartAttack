@@ -1,0 +1,83 @@
+{
+    "title": "Proportion of the total male labor force of different age groups participating in production in Cuba",
+    "legend": {
+        "Ages 15-20": "#66CDAA",
+        "Ages 20-50": "#0000FF",
+        "Ages 50+": "#4B0082"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "Total Labor Force (in %)",
+    "data": [
+        {
+            "label": "Ages 15-20",
+            "color": "#66CDAA",
+            "values": [
+                52.9000015258789,
+                51.4000015258789,
+                49.5999984741211,
+                47.7000007629395,
+                45.7999992370605,
+                44.2000007629395
+            ]
+        },
+        {
+            "label": "Ages 20-50",
+            "color": "#0000FF",
+            "values": [
+                72.099998474121,
+                71.8000030517578,
+                71.3000030517578,
+                70.8000030517578,
+                70.1999969482422,
+                69.5
+            ]
+        },
+        {
+            "label": "Ages 50+",
+            "color": "#4B0082",
+            "values": [
+                79.4000015258789,
+                79.1999969482422,
+                78.8000030517578,
+                78.3000030517578,
+                77.8000030517578,
+                77.1999969482422
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,91 @@
+{
+    "title": "Net sales in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Net sales in million U.S. dollars"
+    },
+    "legend": {
+        "Seating": "#2876dd",
+        "Systems": "#2865dd",
+        "Freestanding and storage": "#315ade",
+        "Textiles": "#253ed6",
+        "Other*": "#373fe2"
+    },
+    "data": {
+        "Seating": [
+            855.5,
+            894.8,
+            965.9,
+            1013.5,
+            1041.6
+        ],
+        "Systems": [
+            656.8,
+            639,
+            601.5,
+            668,
+            589.3
+        ],
+        "Freestanding and storage": [
+            456.9,
+            428.8,
+            465.1,
+            505.4,
+            496.9
+        ],
+        "Textiles": [
+            97.6,
+            96.9,
+            94.3,
+            113.8,
+            138.8
+        ],
+        "Other*": [
+            198.1,
+            218.7,
+            254.4,
+            266.5,
+            220
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1050
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "color": {
+        "Seating": "#2876dd",
+        "Systems": "#2865dd",
+        "Freestanding and storage": "#315ade",
+        "Textiles": "#253ed6",
+        "Other*": "#373fe2"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "title": "GDP in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*",
+            "2025*",
+            "2026*"
+        ]
+    },
+    "y_axis": {
+        "label": "GDP in billion U.S. dollars"
+    },
+    "legend": {
+        "Canada": "#2876dd",
+        "United States": "#284bdd"
+    },
+    "data": {
+        "Canada": [
+            1528,
+            1649.27,
+            1721.82,
+            1741.58,
+            1643.41,
+            1883.49,
+            2030.62,
+            2142.96,
+            2243.38,
+            2349.54,
+            2466.74
+        ],
+        "United States": [
+            18745.1,
+            19542.98,
+            20611.88,
+            21433.23,
+            20932.75,
+            22675.27,
+            24003.7,
+            24892.61,
+            25790.12,
+            26719.63,
+            27659.15
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 27660
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Canada": "#2876dd",
+        "United States": "#284bdd"
+    }
+}

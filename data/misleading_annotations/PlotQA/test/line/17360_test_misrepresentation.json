@@ -1,0 +1,89 @@
+{
+    "title": "Employment to population ratio of the male population of Australia for different age-groups",
+    "legend": {
+        "Age 15+": "#191970",
+        "Ages 15-24": "#40E0D0"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Employment to population ratio(%)",
+    "data": [
+        {
+            "label": "Age 15+",
+            "color": "#191970",
+            "values": [
+                67.3000030517578,
+                66.8000030517578,
+                67.099998474121,
+                67.3000030517578,
+                67.6999969482422
+            ]
+        },
+        {
+            "label": "Ages 15-24",
+            "color": "#40E0D0",
+            "values": [
+                62.0,
+                60.2999992370605,
+                61.2000007629395,
+                62.2999992370605,
+                63.0999984741211
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 60,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Age 15+",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Ages 15-24",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

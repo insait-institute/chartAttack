@@ -1,0 +1,167 @@
+{
+    "title": "Per capita consumption in kilograms per year",
+    "legend": {
+        "Luxembourg": "#f27979",
+        "Germany": "#f23700",
+        "Austria": "#f2b179",
+        "Slovenia": "#f2a700",
+        "Belgium": "#f2e879",
+        "United States": "#ccf200",
+        "Japan": "#c3f279",
+        "Finland": "#5df200",
+        "Denmark": "#8bf279",
+        "New Zealand": "#00a50c",
+        "South Korea": "#52a56c",
+        "Netherlands": "#00a559",
+        "Italy": "#52a592",
+        "Sweden": "#00a5a5",
+        "Canada": "#5292a5",
+        "Spain": "#0059a5",
+        "Australia": "#526ca5",
+        "United Kingdom": "#000ca5",
+        "Poland": "#8b79f2",
+        "France": "#5d00f2",
+        "Cayman Islands": "#c379f2",
+        "Switzerland": "#cc00f2",
+        "United Arab Emirates": "#f279e8",
+        "Czech Republic": "#f200a7",
+        "Slovakia": "#f279b1",
+        "Croatia": "#f20037"
+    },
+    "categories": [
+        "Per capita consumption in kilograms per year"
+    ],
+    "data": {
+        "Luxembourg": [
+            277.0
+        ],
+        "Germany": [
+            251.0
+        ],
+        "Austria": [
+            249.0
+        ],
+        "Slovenia": [
+            247.0
+        ],
+        "Belgium": [
+            241.0
+        ],
+        "United States": [
+            222.0
+        ],
+        "Japan": [
+            214.0
+        ],
+        "Finland": [
+            200.0
+        ],
+        "Denmark": [
+            198.0
+        ],
+        "New Zealand": [
+            189.0
+        ],
+        "South Korea": [
+            186.0
+        ],
+        "Netherlands": [
+            183.0
+        ],
+        "Italy": [
+            170.0
+        ],
+        "Sweden": [
+            165.0
+        ],
+        "Canada": [
+            150.0
+        ],
+        "Spain": [
+            149.0
+        ],
+        "Australia": [
+            146.0
+        ],
+        "United Kingdom": [
+            145.0
+        ],
+        "Poland": [
+            143.0
+        ],
+        "France": [
+            137.0
+        ],
+        "Cayman Islands": [
+            135.0
+        ],
+        "Switzerland": [
+            132.0
+        ],
+        "United Arab Emirates": [
+            130.0
+        ],
+        "Czech Republic": [
+            126.0
+        ],
+        "Slovakia": [
+            118.0
+        ],
+        "Croatia": [
+            111.0
+        ]
+    },
+    "colors": {
+        "Luxembourg": "#f27979",
+        "Germany": "#f23700",
+        "Austria": "#f2b179",
+        "Slovenia": "#f2a700",
+        "Belgium": "#f2e879",
+        "United States": "#ccf200",
+        "Japan": "#c3f279",
+        "Finland": "#5df200",
+        "Denmark": "#8bf279",
+        "New Zealand": "#00a50c",
+        "South Korea": "#52a56c",
+        "Netherlands": "#00a559",
+        "Italy": "#52a592",
+        "Sweden": "#00a5a5",
+        "Canada": "#5292a5",
+        "Spain": "#0059a5",
+        "Australia": "#526ca5",
+        "United Kingdom": "#000ca5",
+        "Poland": "#8b79f2",
+        "France": "#5d00f2",
+        "Cayman Islands": "#c379f2",
+        "Switzerland": "#cc00f2",
+        "United Arab Emirates": "#f279e8",
+        "Czech Republic": "#f200a7",
+        "Slovakia": "#f279b1",
+        "Croatia": "#f20037"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 280
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

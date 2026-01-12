@@ -1,0 +1,77 @@
+{
+    "title": "Net bilateral aid flow in an economy from France",
+    "legend": {
+        "1960": "#A0522D",
+        "1961": "#DC143C",
+        "1962": "#40E0D0",
+        "1963": "#00FF7F"
+    },
+    "categories": [
+        "Middle East & North Africa (developing only)",
+        "Middle income",
+        "Sub-Saharan Africa (all income levels)",
+        "Sub-Saharan Africa (developing only)",
+        "Upper middle income"
+    ],
+    "data": {
+        "1960": [
+            383200000.0,
+            397800000.0,
+            307500000.0,
+            307500000.0,
+            357300000.0
+        ],
+        "1961": [
+            464200000.0,
+            464200000.0,
+            304000000.0,
+            304000000.0,
+            435900000.0
+        ],
+        "1962": [
+            403000000.0,
+            407200000.0,
+            325900000.0,
+            325900000.0,
+            361800000.0
+        ],
+        "1963": [
+            311100000.0,
+            334700000.0,
+            337300000.0,
+            337300000.0,
+            255600000.0
+        ]
+    },
+    "colors": {
+        "1960": "#A0522D",
+        "1961": "#DC143C",
+        "1962": "#40E0D0",
+        "1963": "#00FF7F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 464200000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

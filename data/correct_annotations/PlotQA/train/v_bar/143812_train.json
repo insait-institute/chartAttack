@@ -1,0 +1,71 @@
+{
+    "title": "Percentage of the male workers employed in different sectors of an economy in 2007",
+    "x_axis": {
+        "categories": [
+            "Central Europe",
+            "East Asia (all income levels)",
+            "East Asia (developing only)",
+            "Euro area"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agriculture": "#8FBC8F",
+        "Industry": "#FFA07A",
+        "Services": "#87CEEB",
+        "Self-employed": "#A020F0"
+    },
+    "data": {
+        "Agriculture": [
+            13.3889283513157,
+            10.809489710985,
+            11.5032005567357,
+            4.571624010216849
+        ],
+        "Industry": [
+            42.8155386637096,
+            40.69745895553829,
+            41.4592310251789,
+            38.7224511859772
+        ],
+        "Services": [
+            43.6843141372123,
+            46.1182793041942,
+            44.51305718104049,
+            56.44669524444671
+        ],
+        "Self-employed": [
+            23.584328399587,
+            19.5784575190038,
+            19.8162117742502,
+            30.9413338240899
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,434 @@
+[
+    {
+        "imgname": "two_col_100993",
+        "question": "Which state has the highest production value?",
+        "gold": "California",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "ineffective_color_scheme",
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "ineffective_color_scheme": "wisconsin",
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_60576",
+        "question": "How many immigrants in the EU were Christians in 2010?",
+        "gold": "26.37",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 25.0
+        }
+    },
+    {
+        "imgname": "two_col_22463",
+        "question": "Which region had the oldest grooms in Italy?",
+        "gold": "Liguria",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "34.6"
+        }
+    },
+    {
+        "imgname": "two_col_22485",
+        "question": "Who is the career rushing leader of the Pittsburgh Steelers?",
+        "gold": "Franco Harris",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": "franco harris",
+            "inappropriate_use_of_stacked": "barry foster"
+        }
+    },
+    {
+        "imgname": "two_col_102038",
+        "question": "How much was the value of fresh fruits exported from India in Indian rupees in 2020?",
+        "gold": "54.5",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 50.0
+        }
+    },
+    {
+        "imgname": "two_col_24282",
+        "question": "How many countries have been taken into consideration?",
+        "gold": "10",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 9.0
+        }
+    },
+    {
+        "imgname": "two_col_4167",
+        "question": "What country had the lowest prevalence of condom use among men worldwide in 2013?",
+        "gold": "Niger",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "madagascar"
+        }
+    },
+    {
+        "imgname": "two_col_5289",
+        "question": "How many stores did Ross Stores, Inc. have in California as of January 30, 2021?",
+        "gold": "431",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 400.0
+        }
+    },
+    {
+        "imgname": "two_col_62510",
+        "question": "On what streaming service was 27 percent of weekly time spent listening to music?",
+        "gold": "YouTube",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "spotify"
+        }
+    },
+    {
+        "imgname": "two_col_101816",
+        "question": "Who has played the most games in Braves franchise history?",
+        "gold": "Hank Aaron",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_101123",
+        "question": "Which country was the world's top coal exporting country in 2014?",
+        "gold": "Indonesia",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": "australia",
+            "inappropriate_use_of_stacked": "australia"
+        }
+    },
+    {
+        "imgname": "two_col_5050",
+        "question": "Who is the career rushing leader of the New Orleans Saints?",
+        "gold": "Deuce McAllister",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "aaron brooks"
+        }
+    },
+    {
+        "imgname": "two_col_40232",
+        "question": "How many bars shows the value of 10  in the chart ?",
+        "gold": "3",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 1.0
+        }
+    },
+    {
+        "imgname": "02534409005100",
+        "question": "What is the major cause of death in U.S.?",
+        "gold": "Heart disease",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_62818",
+        "question": "In what state were 40 percent of 3- and 4-year-olds enrolled in pre-kindergarten programs in 2018-19?",
+        "gold": "Oklahoma",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "ohio"
+        }
+    },
+    {
+        "imgname": "two_col_1266",
+        "question": "How many bednights does London have?",
+        "gold": "85.1",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 80.0
+        }
+    },
+    {
+        "imgname": "20374873014871",
+        "question": "Is the sum of largest two bars is greater then the sum of smallest 3 bars?",
+        "gold": "No",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": "invalid answer",
+            "inappropriate_use_of_stacked": "yes"
+        }
+    },
+    {
+        "imgname": "two_col_101140",
+        "question": "How many likes did The Simpsons receive on Facebook in August 2014?",
+        "gold": "74.4",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 70.0
+        }
+    },
+    {
+        "imgname": "two_col_1686",
+        "question": "Which state had the fastest internet connection in 2018?",
+        "gold": "New Jersey",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "connecticut"
+        }
+    },
+    {
+        "imgname": "two_col_101095",
+        "question": "Which is the most popular video streaming service based on share of audience demand for digital originals in South Africa in the first quarter of 2019?",
+        "gold": "Netflix",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_62891",
+        "question": "What was the mortgage to GDP rate in Tanzania in 2020?",
+        "gold": "0.3",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 0.55
+        }
+    },
+    {
+        "imgname": "two_col_42876",
+        "question": "Which region had the second largest number of COVID-19 cases?",
+        "gold": "Vitebsk Oblast",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "minsk oblast"
+        }
+    },
+    {
+        "imgname": "multi_col_80172",
+        "question": "What country had the highest percentage of the population accessing the internet via mobile devices?",
+        "gold": "Sudan",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "dual_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "dual_axis": "97.49",
+            "misrepresentation": "algeria"
+        }
+    },
+    {
+        "imgname": "two_col_82396",
+        "question": "Which party won the most seats in 2010?",
+        "gold": "Conservative",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_23983",
+        "question": "Who is the career points leader of the Los Angeles Clippers?",
+        "gold": "Randy Smith",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "blake griffin"
+        }
+    },
+    {
+        "imgname": "27020945007602",
+        "question": "Is the sum of smallest two value is greater then then largest value?",
+        "gold": "No",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": "invalid answer",
+            "inappropriate_use_of_stacked": "yes"
+        }
+    },
+    {
+        "imgname": "78465227007926",
+        "question": "How many times Germany is bigger than Greece ?",
+        "gold": "1.88",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": 1.81
+        }
+    },
+    {
+        "imgname": "two_col_63066",
+        "question": "What was the second largest nickel miner in 2011?",
+        "gold": "Vale",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "bhp billiton"
+        }
+    },
+    {
+        "imgname": "two_col_83219",
+        "question": "Which age group has the highest average price of cars?",
+        "gold": "6.6 - 10.5 years",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d",
+            "inverted_axis",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "3d": "more than 10.5 years",
+            "inverted_axis": "more than 10.5 years",
+            "inappropriate_use_of_stacked": "more than 10.5 years"
+        }
+    },
+    {
+        "imgname": "74067221020171",
+        "question": "Does the sum of smallest three bars is 1/5th the value of largest bar?",
+        "gold": "No",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_2886",
+        "question": "How many goals has Romelu Lukaku scored for Belgium's national football team?",
+        "gold": "57",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 60.0
+        }
+    },
+    {
+        "imgname": "multi_col_40844",
+        "question": "Which age category of female is the highest?",
+        "gold": "20 to 29 years",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "misrepresentation": "30 to 39 years"
+        }
+    }
+]

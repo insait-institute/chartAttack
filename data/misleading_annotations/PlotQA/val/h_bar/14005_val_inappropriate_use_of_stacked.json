@@ -1,0 +1,57 @@
+{
+    "title": "Total enrolments (of both sexes) in secondary schools",
+    "legend": {
+        "1977": "#f27979",
+        "1980": "#79f200",
+        "1981": "#52a5a5",
+        "1999": "#5200a5"
+    },
+    "categories": [
+        "Total enrolments (of both sexes) in secondary schools"
+    ],
+    "data": {
+        "1977": [
+            7845167.0
+        ],
+        "1980": [
+            10059372.0
+        ],
+        "1981": [
+            11107524.0
+        ],
+        "1999": [
+            23003426.0
+        ]
+    },
+    "colors": {
+        "1977": "#f27979",
+        "1980": "#79f200",
+        "1981": "#52a5a5",
+        "1999": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23003430
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

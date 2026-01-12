@@ -1,0 +1,62 @@
+{
+    "title": "Comparison between mobile cellular and fixed telephone subscriptions in Sub-Saharan Africa (all income levels)",
+    "legend": {
+        "Mobile cellular": "#66CDAA",
+        "Fixed telephone": "#A020F0"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Mobile cellular": [
+            184823777,
+            261134046,
+            316759711,
+            387953418,
+            471725434,
+            544819675
+        ],
+        "Fixed telephone": [
+            12216529,
+            13190751,
+            12828832,
+            12478940,
+            11990912,
+            10678104
+        ]
+    },
+    "colors": {
+        "Mobile cellular": "#66CDAA",
+        "Fixed telephone": "#A020F0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 544819680
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

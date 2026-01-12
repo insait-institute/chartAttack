@@ -1,0 +1,69 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "2008/09",
+        "2009/10",
+        "2010/11",
+        "2011/12",
+        "2012/13",
+        "2013/14",
+        "2014/15",
+        "2015/16",
+        "2016/17",
+        "2017/18",
+        "2018/19",
+        "2019/20"
+    ],
+    "y_axis_label": "Consumption volume in tonnes",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                97591,
+                99445,
+                102993,
+                97405,
+                96233,
+                91664,
+                99150,
+                101474,
+                105477,
+                107229,
+                112757,
+                121773
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 91660,
+                "max_value": 121780
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Number of games played",
+    "legend": {
+        "Tony Fernandez": "#f27979",
+        "Carlos Delgado": "#f29100",
+        "Vernon Wells": "#daf279",
+        "Lloyd Moseby": "#30f200",
+        "Jose Bautista": "#52a574",
+        "Ernie Whitt": "#00a5a5",
+        "George Bell": "#5274a5",
+        "Rance Mulliniks": "#2100a5",
+        "Willie Upshaw": "#da79f2",
+        "Joe Carter": "#f20091"
+    },
+    "categories": [
+        "Number of games played"
+    ],
+    "data": {
+        "Tony Fernandez": [
+            1450.0
+        ],
+        "Carlos Delgado": [
+            1423.0
+        ],
+        "Vernon Wells": [
+            1393.0
+        ],
+        "Lloyd Moseby": [
+            1392.0
+        ],
+        "Jose Bautista": [
+            1235.0
+        ],
+        "Ernie Whitt": [
+            1218.0
+        ],
+        "George Bell": [
+            1181.0
+        ],
+        "Rance Mulliniks": [
+            1115.0
+        ],
+        "Willie Upshaw": [
+            1115.0
+        ],
+        "Joe Carter": [
+            1039.0
+        ]
+    },
+    "colors": {
+        "Tony Fernandez": "#f27979",
+        "Carlos Delgado": "#f29100",
+        "Vernon Wells": "#daf279",
+        "Lloyd Moseby": "#30f200",
+        "Jose Bautista": "#52a574",
+        "Ernie Whitt": "#00a5a5",
+        "George Bell": "#5274a5",
+        "Rance Mulliniks": "#2100a5",
+        "Willie Upshaw": "#da79f2",
+        "Joe Carter": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1450
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

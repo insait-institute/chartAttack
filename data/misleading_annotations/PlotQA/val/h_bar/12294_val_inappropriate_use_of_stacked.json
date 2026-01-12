@@ -1,0 +1,57 @@
+{
+    "title": "Mineral rents as percent of GDP",
+    "legend": {
+        "High income: nonOECD": "#f27979",
+        "High income: OECD": "#79f200",
+        "Latin America(all income levels)": "#52a5a5",
+        "Latin America(developing only)": "#5200a5"
+    },
+    "categories": [
+        "Mineral rents as percent of GDP"
+    ],
+    "data": {
+        "High income: nonOECD": [
+            0.229748436578027
+        ],
+        "High income: OECD": [
+            0.213614063539071
+        ],
+        "Latin America(all income levels)": [
+            1.02757111654131
+        ],
+        "Latin America(developing only)": [
+            0.7504020026924549
+        ]
+    },
+    "colors": {
+        "High income: nonOECD": "#f27979",
+        "High income: OECD": "#79f200",
+        "Latin America(all income levels)": "#52a5a5",
+        "Latin America(developing only)": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,117 @@
+{
+    "title": "",
+    "legend": {
+        "jQuery": "#f27979",
+        "React.js": "#f25a00",
+        "Angular": "#f2d379",
+        "ASP.NET": "#d3f200",
+        "Express": "#b5f279",
+        "ASP.NET Core": "#1ef200",
+        "Vue.js": "#52a567",
+        "Spring": "#00a567",
+        "Angular.js": "#52a5a5",
+        "Django": "#0067a5",
+        "Flask": "#5267a5",
+        "Laravel": "#1400a5",
+        "Ruby on Rails": "#b579f2",
+        "Symfony": "#d300f2",
+        "Gatsby": "#f279d3",
+        "Drupal": "#f2005a"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "jQuery": [
+            43.3
+        ],
+        "React.js": [
+            35.9
+        ],
+        "Angular": [
+            25.1
+        ],
+        "ASP.NET": [
+            21.9
+        ],
+        "Express": [
+            21.2
+        ],
+        "ASP.NET Core": [
+            19.1
+        ],
+        "Vue.js": [
+            17.3
+        ],
+        "Spring": [
+            16.4
+        ],
+        "Angular.js": [
+            16.1
+        ],
+        "Django": [
+            14.2
+        ],
+        "Flask": [
+            14.2
+        ],
+        "Laravel": [
+            11.1
+        ],
+        "Ruby on Rails": [
+            7.0
+        ],
+        "Symfony": [
+            4.4
+        ],
+        "Gatsby": [
+            4.0
+        ],
+        "Drupal": [
+            3.2
+        ]
+    },
+    "colors": {
+        "jQuery": "#f27979",
+        "React.js": "#f25a00",
+        "Angular": "#f2d379",
+        "ASP.NET": "#d3f200",
+        "Express": "#b5f279",
+        "ASP.NET Core": "#1ef200",
+        "Vue.js": "#52a567",
+        "Spring": "#00a567",
+        "Angular.js": "#52a5a5",
+        "Django": "#0067a5",
+        "Flask": "#5267a5",
+        "Laravel": "#1400a5",
+        "Ruby on Rails": "#b579f2",
+        "Symfony": "#d300f2",
+        "Gatsby": "#f279d3",
+        "Drupal": "#f2005a"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

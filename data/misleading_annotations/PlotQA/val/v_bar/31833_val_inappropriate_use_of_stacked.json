@@ -1,0 +1,62 @@
+{
+    "title": "Money invested in energy sector by the government in the year 1990",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chile": "#f27979",
+        "Cote d'Ivoire": "#79f200",
+        "Philippines": "#52a5a5",
+        "Turkey": "#5200a5"
+    },
+    "data": {
+        "Chile": [
+            440000000.0
+        ],
+        "Cote d'Ivoire": [
+            39600000.0
+        ],
+        "Philippines": [
+            44000000.0
+        ],
+        "Turkey": [
+            68000000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 440000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Chile": "#f27979",
+        "Cote d'Ivoire": "#79f200",
+        "Philippines": "#52a5a5",
+        "Turkey": "#5200a5"
+    }
+}

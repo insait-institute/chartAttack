@@ -1,0 +1,56 @@
+{
+    "title": "Countrywise comparison of arm exports and imports in 2012",
+    "legend": {
+        "North America": "#DC143C",
+        "OECD members": "#00BFFF",
+        "France": "#708090"
+    },
+    "categories": [
+        "Arms exports",
+        "Arms imports"
+    ],
+    "data": {
+        "North America": [
+            9359000000,
+            1410000000
+        ],
+        "OECD members": [
+            16837000000,
+            8478000000
+        ],
+        "France": [
+            1067000000,
+            92000000
+        ]
+    },
+    "colors": {
+        "North America": "#DC143C",
+        "OECD members": "#00BFFF",
+        "France": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 16837000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

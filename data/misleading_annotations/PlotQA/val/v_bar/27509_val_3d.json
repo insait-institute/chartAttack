@@ -1,0 +1,64 @@
+{
+    "title": "International migrant stocks of a country",
+    "x_axis": {
+        "categories": [
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#5F9EA0",
+        "1965": "#DAA520",
+        "1970": "#FF7F50"
+    },
+    "data": {
+        "1960": [
+            2.67948232289908,
+            3.60447887549402,
+            2.42659568364642,
+            1.62567363712947
+        ],
+        "1965": [
+            2.285962673744,
+            3.21390697039022,
+            1.8293836277066,
+            1.40862799739001
+        ],
+        "1970": [
+            1.96600622711241,
+            3.32790456463093,
+            1.67900307274515,
+            1.21100691775951
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

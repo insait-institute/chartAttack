@@ -1,0 +1,94 @@
+{
+    "title": "Number of trademark applications made by the people of Moldova",
+    "legend": {
+        "Nonresident": "#FFA07A",
+        "Resident": "#FF1493"
+    },
+    "x_axis": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "Number of direct applications",
+    "data": [
+        {
+            "label": "Nonresident",
+            "color": "#FFA07A",
+            "values": [
+                2996,
+                3160,
+                3121,
+                2690,
+                3179,
+                3235
+            ]
+        },
+        {
+            "label": "Resident",
+            "color": "#FF1493",
+            "values": [
+                298,
+                540,
+                788,
+                1391,
+                1559,
+                1851
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 290,
+                "max_value": 3240
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Nonresident",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Resident",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

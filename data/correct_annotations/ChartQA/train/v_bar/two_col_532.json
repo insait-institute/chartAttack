@@ -1,0 +1,78 @@
+{
+    "title": "Number of homes sold in million units",
+    "x_axis": {
+        "categories": [
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021*",
+            "2022*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of homes sold in million units"
+    },
+    "legend": {
+        "Homes Sold": "#2876dd"
+    },
+    "data": {
+        "Homes Sold": [
+            7.08,
+            6.52,
+            5.02,
+            4.12,
+            4.34,
+            4.18,
+            4.26,
+            4.66,
+            5.09,
+            4.94,
+            5.25,
+            5.45,
+            5.51,
+            5.34,
+            5.34,
+            5.64,
+            6.49,
+            6.44
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

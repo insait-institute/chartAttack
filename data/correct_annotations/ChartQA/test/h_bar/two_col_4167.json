@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "Category": "#2876dd"
+    },
+    "categories": [
+        "Niger",
+        "Madagascar",
+        "Mali",
+        "Sierra Leone",
+        "Burundi",
+        "Ethiopia",
+        "DC Congo",
+        "East Timor",
+        "Uganda",
+        "Nigeria",
+        "Senegal",
+        "Benin",
+        "Liberia"
+    ],
+    "data": {
+        "Category": [
+            4,
+            7,
+            10,
+            13,
+            14,
+            16,
+            16,
+            19,
+            19,
+            20,
+            21,
+            22,
+            24
+        ]
+    },
+    "colors": {
+        "Category": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

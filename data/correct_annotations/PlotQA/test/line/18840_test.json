@@ -1,0 +1,83 @@
+{
+    "title": "Value added by different sectors to the total GDP of Ecuador",
+    "legend": {
+        "Industry": "#FFA500",
+        "Services": "#BDB76B",
+        "Agriculture": "#FFFF00"
+    },
+    "x_axis": [
+        "1967",
+        "1968",
+        "1969",
+        "1970",
+        "1971",
+        "1972"
+    ],
+    "y_axis_label": "Value added (constant 2005 US$)",
+    "data": [
+        {
+            "label": "Industry",
+            "color": "#FFA500",
+            "values": [
+                2506056402.41326,
+                2533938196.61374,
+                2689755086.916,
+                2911952454.57795,
+                3400216524.36491,
+                3750481129.33339
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#BDB76B",
+            "values": [
+                4932393838.29618,
+                5100706638.68483,
+                5340802886.58761,
+                5723757059.46802,
+                5851116034.76524,
+                6057798735.676829
+            ]
+        },
+        {
+            "label": "Agriculture",
+            "color": "#FFFF00",
+            "values": [
+                1214182450.85502,
+                1177918627.2994,
+                1219148221.21826,
+                1269119955.11557,
+                1259094116.34922,
+                1297042850.16424
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 1177918620,
+                "max_value": 6057798740
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Damage caused due to forest depletion",
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#f2f200",
+        "Middle income": "#79f279",
+        "OECD members": "#00a5a5",
+        "Other small states": "#5252a5",
+        "Small states": "#a500a5"
+    },
+    "categories": [
+        "Damage caused due to forest depletion"
+    ],
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            0.193470800955136
+        ],
+        "Middle East & North Africa (developing only)": [
+            0.269908723002269
+        ],
+        "Middle income": [
+            0.802136018101748
+        ],
+        "OECD members": [
+            0.026490098614075
+        ],
+        "Other small states": [
+            1.71922025460526
+        ],
+        "Small states": [
+            0.508860668445293
+        ]
+    },
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#f27979",
+        "Middle East & North Africa (developing only)": "#f2f200",
+        "Middle income": "#79f279",
+        "OECD members": "#00a5a5",
+        "Other small states": "#5252a5",
+        "Small states": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

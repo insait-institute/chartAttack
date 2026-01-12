@@ -1,0 +1,62 @@
+{
+    "title": "CO2 emissions from liquid fuel consumption",
+    "legend": {
+        "1977": "#f27979",
+        "1978": "#c1f200",
+        "1979": "#52a574",
+        "1980": "#0042a5",
+        "1981": "#da79f2"
+    },
+    "categories": [
+        "CO2 emissions from liquid fuel consumption"
+    ],
+    "data": {
+        "1977": [
+            61.2123377396689
+        ],
+        "1978": [
+            63.593023255814
+        ],
+        "1979": [
+            65.6669553919446
+        ],
+        "1980": [
+            65.33628972653361
+        ],
+        "1981": [
+            64.9912203687445
+        ]
+    },
+    "colors": {
+        "1977": "#f27979",
+        "1978": "#c1f200",
+        "1979": "#52a574",
+        "1980": "#0042a5",
+        "1981": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Fertilizer consumption in Mali as a percentage of production",
+    "legend": {
+        "Fertilizer consumption": "#2F4F4F"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "y_axis_label": "% of fertilizer production",
+    "data": [
+        {
+            "label": "Fertilizer consumption",
+            "color": "#2F4F4F",
+            "values": [
+                120.813905541282,
+                501.606376456162,
+                253.712634214373,
+                277.578600720766
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 120,
+                "max_value": 510
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Fertilizer consumption",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

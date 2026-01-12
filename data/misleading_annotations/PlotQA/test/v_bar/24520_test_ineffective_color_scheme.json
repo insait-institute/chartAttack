@@ -1,0 +1,61 @@
+{
+    "title": "Net taxes on products in different countries in different currencies",
+    "x_axis": {
+        "categories": [
+            "Local Currency Unit",
+            "US$"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Dominican Republic": "#d2691e",
+        "France": "#d2861e",
+        "Sweden": "#dbaa1f"
+    },
+    "data": {
+        "Dominican Republic": [
+            3072241700.0,
+            484580709.77918
+        ],
+        "France": [
+            106206000000.0,
+            109198025909.932
+        ],
+        "Sweden": [
+            163269978100.0,
+            25325346771.3164
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 163269978100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Dominican Republic": "#d2691e",
+        "France": "#d2861e",
+        "Sweden": "#dbaa1f"
+    }
+}

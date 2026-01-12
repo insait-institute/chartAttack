@@ -1,0 +1,106 @@
+{
+    "title": "Enrolments of both sexes in different levels of education in Singapore",
+    "legend": {
+        "Primary": "#66CDAA",
+        "Secondary": "#20B2AA",
+        "Secondary general": "#6A5ACD",
+        "Secondary vocational": "#4B0082"
+    },
+    "x_axis": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "y_axis_label": "Number of enrolments of both sexes",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#66CDAA",
+            "values": [
+                257833,
+                257932,
+                260286,
+                262599,
+                261534,
+                251097,
+                261648,
+                269668
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#20B2AA",
+            "values": [
+                220561,
+                214584,
+                210304,
+                205683,
+                210473,
+                213138,
+                232100,
+                231144
+            ]
+        },
+        {
+            "label": "Secondary general",
+            "color": "#6A5ACD",
+            "values": [
+                185713,
+                182149,
+                180729,
+                197981,
+                203662,
+                204269,
+                204146,
+                205171
+            ]
+        },
+        {
+            "label": "Secondary vocational",
+            "color": "#4B0082",
+            "values": [
+                29102,
+                28871,
+                28155,
+                24954,
+                12492,
+                9476,
+                27831,
+                26998
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 9470,
+                "max_value": 269670
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

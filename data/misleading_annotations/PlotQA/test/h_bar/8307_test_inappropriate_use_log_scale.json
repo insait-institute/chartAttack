@@ -1,0 +1,71 @@
+{
+    "title": "Number of infant deaths",
+    "legend": {
+        "Bhutan": "#00FF00",
+        "Malawi": "#FF00FF",
+        "United States": "#6495ED"
+    },
+    "categories": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "data": {
+        "Bhutan": [
+            1318.0,
+            1208.0,
+            1106.0,
+            1042.0,
+            1003.0,
+            968.0
+        ],
+        "Malawi": [
+            52732.0,
+            51421.0,
+            50671.0,
+            50844.0,
+            51144.0,
+            50763.0
+        ],
+        "United States": [
+            32450,
+            31592,
+            30041,
+            28742,
+            27457,
+            26768
+        ]
+    },
+    "colors": {
+        "Bhutan": "#00FF00",
+        "Malawi": "#FF00FF",
+        "United States": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 52740
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

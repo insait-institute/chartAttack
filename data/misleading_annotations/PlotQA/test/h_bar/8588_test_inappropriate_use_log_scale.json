@@ -1,0 +1,63 @@
+{
+    "title": "Total commercial service import",
+    "legend": {
+        "Macedonia": "#8B4513",
+        "Mali": "#40E0D0",
+        "Philippines": "#FF1493"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "Macedonia": [
+            538328638.018558,
+            727400507.348255,
+            941595855.7468779,
+            784388345.8183348
+        ],
+        "Mali": [
+            673793582.101252,
+            775789212.831828,
+            1024195215.00626,
+            817368076.025618
+        ],
+        "Philippines": [
+            6491470863.40999,
+            7417665307.8,
+            10875251514.27,
+            8965206944.57999
+        ]
+    },
+    "colors": {
+        "Macedonia": "#8B4513",
+        "Mali": "#40E0D0",
+        "Philippines": "#FF1493"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10875251520
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Unemployed female youth population of a country",
+    "x_axis": {
+        "categories": [
+            "Japan",
+            "Korea (Republic)",
+            "Norway",
+            "Portugal"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#0000FF",
+        "1981": "#483D8B",
+        "1982": "#FF0000"
+    },
+    "data": {
+        "1980": [
+            3.70000004768372,
+            9.10000038146973,
+            4.699999809265138,
+            26.7000007629395
+        ],
+        "1981": [
+            4.699999809265138,
+            7.199999809265139,
+            4.099999904632569,
+            25.60000038146969
+        ],
+        "1982": [
+            6.400000095367429,
+            7.5,
+            6.699999809265139,
+            23.7000007629395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Split of tax revenue collected by government of Sri Lanka",
+    "legend": {
+        "Taxes on exports": "#A020F0",
+        "Taxes on profits and capital gains": "#40E0D0"
+    },
+    "categories": [
+        "1993",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "data": {
+        "Taxes on exports": [
+            0.0653115475399317,
+            0.00674860599107497,
+            0.00384015729284271,
+            0.00280678118333895
+        ],
+        "Taxes on profits and capital gains": [
+            15.6495634438664,
+            15.3665872033958,
+            14.4766034266047,
+            15.9374207967558
+        ]
+    },
+    "colors": {
+        "Taxes on exports": "#A020F0",
+        "Taxes on profits and capital gains": "#40E0D0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0.00280678118333895,
+                "max_value": 0.0653115475399317
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 14.4766034266047,
+                "max_value": 15.9374207967558
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

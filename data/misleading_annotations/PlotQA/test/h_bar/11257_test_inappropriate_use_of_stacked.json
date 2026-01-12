@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of female workers employed in different sectors of an economy in 1983",
+    "legend": {
+        "Agriculture": "#f27979",
+        "Industry": "#79f200",
+        "Services": "#52a5a5",
+        "Self-employed": "#5200a5"
+    },
+    "categories": [
+        "Percentage of female workers employed in different sectors of an economy in 1983"
+    ],
+    "data": {
+        "Agriculture": [
+            10.3000001907349
+        ],
+        "Industry": [
+            20.5
+        ],
+        "Services": [
+            69.099998474121
+        ],
+        "Self-employed": [
+            13.6000003814697
+        ]
+    },
+    "colors": {
+        "Agriculture": "#f27979",
+        "Industry": "#79f200",
+        "Services": "#52a5a5",
+        "Self-employed": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

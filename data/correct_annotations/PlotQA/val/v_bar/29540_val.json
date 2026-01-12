@@ -1,0 +1,66 @@
+{
+    "title": "Ores,manufactures and fuel exports of different countries in 1968",
+    "x_axis": {
+        "categories": [
+            "Ores and metals",
+            "Manufactures",
+            "Fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Euro area": "#A52A2A",
+        "Indonesia": "#FF69B4",
+        "Israel": "#228B22",
+        "Italy": "#556B2F"
+    },
+    "data": {
+        "Euro area": [
+            4.54987378557494,
+            72.5259325828776,
+            4.71602460367695
+        ],
+        "Indonesia": [
+            5.96156203114093,
+            1.44515302591989,
+            40.708093081726
+        ],
+        "Israel": [
+            3.73282074529184,
+            70.508495464683,
+            0.0435330772217075
+        ],
+        "Italy": [
+            1.83742613978568,
+            81.14707100005191,
+            5.96921109969688
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

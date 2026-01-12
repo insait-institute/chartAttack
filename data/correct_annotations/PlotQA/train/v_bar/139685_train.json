@@ -1,0 +1,76 @@
+{
+    "title": "Total enrollments in schools as per the survey of 1982 conducted in different countries",
+    "x_axis": {
+        "categories": [
+            "Croatia",
+            "Cuba",
+            "Cyprus",
+            "Czech Republic",
+            "Denmark"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Pre-primary schools": "#CD853F",
+        "Primary schools": "#FFFF00",
+        "Secondary schools": "#00CED1",
+        "Tertiary schools": "#A52A2A"
+    },
+    "data": {
+        "Pre-primary schools": [
+            25.6535,
+            63.5191,
+            25.00542,
+            85.92619,
+            94.94888
+        ],
+        "Primary schools": [
+            111.99185,
+            113.87381,
+            111.15299,
+            98.07656,
+            131.48225
+        ],
+        "Secondary schools": [
+            45.28548,
+            80.13365999999998,
+            69.53497,
+            103.73329,
+            104.73365
+        ],
+        "Tertiary schools": [
+            27.96577000000001,
+            32.57952,
+            17.67646000000001,
+            10.8812,
+            4.03969
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 140
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

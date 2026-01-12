@@ -1,0 +1,68 @@
+{
+    "title": "Agricultural raw materials,food and fuel imports of different countries in 1978",
+    "x_axis": {
+        "categories": [
+            "Iceland",
+            "India",
+            "Indonesia",
+            "Ireland",
+            "Israel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agricultural raw materials": "#8FBC8F",
+        "Food": "#ADFF2F",
+        "Fuel": "#006400"
+    },
+    "data": {
+        "Agricultural raw materials": [
+            2.76563162772825,
+            5.44136406472991,
+            3.2019763363967,
+            3.03954876783636,
+            2.82432815506864
+        ],
+        "Food": [
+            10.3367019276855,
+            13.8469096715189,
+            17.6379704732133,
+            12.2868786732775,
+            10.7054048641991
+        ],
+        "Fuel": [
+            11.7631925999775,
+            26.09791679686931,
+            8.75375382769051,
+            10.108223636025,
+            13.2242778730599
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

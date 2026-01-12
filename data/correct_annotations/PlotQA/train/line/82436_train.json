@@ -1,0 +1,70 @@
+{
+    "title": "Total rural population vs urban population of Least developed countries",
+    "legend": {
+        "Rural": "#5F9EA0",
+        "Urban": "#2E8B57"
+    },
+    "x_axis": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "y_axis_label": "Population (in % of total)",
+    "data": [
+        {
+            "label": "Rural",
+            "color": "#5F9EA0",
+            "values": [
+                73.89148243040059,
+                73.43939133818641,
+                72.9803236653982,
+                72.513355871282,
+                72.0227727870287,
+                71.5266259914142
+            ]
+        },
+        {
+            "label": "Urban",
+            "color": "#2E8B57",
+            "values": [
+                26.1085175695994,
+                26.56060866181361,
+                27.0196763346018,
+                27.486644128718,
+                27.9772272129713,
+                28.4733740085858
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

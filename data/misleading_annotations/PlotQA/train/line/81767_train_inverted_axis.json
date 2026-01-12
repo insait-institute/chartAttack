@@ -1,0 +1,73 @@
+{
+    "title": "Percentage of value added in manufacturing chemicals, food and tobacco in Costa Rica",
+    "legend": {
+        "Chemicals": "#FF4500",
+        "Food and tobacco": "#00FFFF"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "y_axis_label": "% of value added in manufacturing",
+    "data": [
+        {
+            "label": "Chemicals",
+            "color": "#FF4500",
+            "values": [
+                11.2288538917634,
+                10.7234812466706,
+                10.1646108178773,
+                9.67203654817515,
+                9.22420353059173,
+                8.684190648697161,
+                8.8367106359114
+            ]
+        },
+        {
+            "label": "Food and tobacco",
+            "color": "#00FFFF",
+            "values": [
+                44.3135491945984,
+                43.8264508571932,
+                43.2566979742484,
+                41.0360114604485,
+                40.7843377331287,
+                41.8804235628207,
+                46.7778866366283
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

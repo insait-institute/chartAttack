@@ -1,0 +1,64 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Singapore",
+        "Finland",
+        "Netherlands",
+        "Hong Kong SAR",
+        "Denmark",
+        "Japan",
+        "Panama",
+        "United States",
+        "Estonia",
+        "Belgium",
+        "United Arab Emirates",
+        "South Korea"
+    ],
+    "data": {
+        "Model": [
+            6.5,
+            6.4,
+            6.4,
+            6.3,
+            5.8,
+            5.8,
+            5.7,
+            5.6,
+            5.6,
+            5.6,
+            5.5,
+            5.5
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

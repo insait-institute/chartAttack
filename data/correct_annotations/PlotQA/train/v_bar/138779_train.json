@@ -1,0 +1,66 @@
+{
+    "title": "Freshwater withdrawals in different countries in 1992",
+    "x_axis": {
+        "categories": [
+            "Agriculture",
+            "Domestic",
+            "Industry"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cameroon": "#FF8C00",
+        "Denmark": "#808000",
+        "India": "#0000FF",
+        "United States": "#00FF00"
+    },
+    "data": {
+        "Cameroon": [
+            35,
+            46,
+            19
+        ],
+        "Denmark": [
+            41.08,
+            31.01,
+            27.91
+        ],
+        "India": [
+            92,
+            5,
+            3
+        ],
+        "United States": [
+            42.1,
+            13.12,
+            44.78
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

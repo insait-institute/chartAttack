@@ -1,0 +1,67 @@
+{
+    "title": "Share of SMEs",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Share of SMEs"
+    },
+    "legend": {
+        "Agriculture": "#f27979",
+        "Building": "#c1f200",
+        "Industry": "#52a574",
+        "Services": "#0042a5",
+        "Utility": "#da79f2"
+    },
+    "data": {
+        "Agriculture": [
+            50.0
+        ],
+        "Building": [
+            78.4
+        ],
+        "Industry": [
+            75.3
+        ],
+        "Services": [
+            61.9
+        ],
+        "Utility": [
+            56.6
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "Agriculture": "#f27979",
+        "Building": "#c1f200",
+        "Industry": "#52a574",
+        "Services": "#0042a5",
+        "Utility": "#da79f2"
+    }
+}

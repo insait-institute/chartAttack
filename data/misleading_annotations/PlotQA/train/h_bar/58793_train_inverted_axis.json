@@ -1,0 +1,72 @@
+{
+    "title": "Different expenses of government of different countries in 1995",
+    "legend": {
+        "Salary of employees": "#A0522D",
+        "Custom duties": "#F4A460",
+        "Interest Payments": "#483D8B",
+        "Other expenses": "#191970"
+    },
+    "categories": [
+        "Croatia",
+        "Cyprus",
+        "Czech Republic",
+        "Denmark"
+    ],
+    "data": {
+        "Salary of employees": [
+            11121670000.0,
+            2479961393.2091,
+            41748000000.0,
+            51208000000.0
+        ],
+        "Custom duties": [
+            17410000000.0,
+            7352000000.0,
+            500000.0,
+            1179900000.0
+        ],
+        "Interest Payments": [
+            1400170000.0,
+            771867913.318994,
+            15366000000.0,
+            57202000000.0
+        ],
+        "Other expenses": [
+            41782170000.0,
+            6521174526.36902,
+            477775000000.0,
+            422957000000.0
+        ]
+    },
+    "colors": {
+        "Salary of employees": "#A0522D",
+        "Custom duties": "#F4A460",
+        "Interest Payments": "#483D8B",
+        "Other expenses": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 477775000000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

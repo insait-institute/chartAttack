@@ -1,0 +1,69 @@
+{
+    "title": "Current account balance of a country after exporting goods and services",
+    "x_axis": {
+        "categories": [
+            "Cyprus",
+            "Czech Republic",
+            "Denmark",
+            "Egypt, Arab Rep."
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#191970",
+        "2006": "#271970",
+        "2007": "#391b78"
+    },
+    "data": {
+        "2005": [
+            -5.313931727219519,
+            -0.889482629615374,
+            4.19711281923756,
+            2.3446317710107
+        ],
+        "2006": [
+            -6.43965840115883,
+            -2.01682577718282,
+            2.90442915062944,
+            2.45189902733927
+        ],
+        "2007": [
+            -7.72006211078948,
+            -4.20521153682415,
+            1.38141314690848,
+            0.315453157894737
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "2005": "#191970",
+        "2006": "#271970",
+        "2007": "#391b78"
+    }
+}

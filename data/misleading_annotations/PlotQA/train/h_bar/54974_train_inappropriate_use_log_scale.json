@@ -1,0 +1,72 @@
+{
+    "title": "Net bilateral aid flow in an economy from Korea",
+    "legend": {
+        "Small states": "#00FF00",
+        "Bahamas": "#DAA520",
+        "Grenada": "#6A5ACD",
+        "Guatemala": "#EE82EE"
+    },
+    "categories": [
+        "1991",
+        "1997",
+        "2000",
+        "2002"
+    ],
+    "data": {
+        "Small states": [
+            3210000.0,
+            3410000.0,
+            1000000.0,
+            4560000.0
+        ],
+        "Bahamas": [
+            40000.0,
+            60000.0,
+            10000.0,
+            110000.0
+        ],
+        "Grenada": [
+            50000.0,
+            30000.0,
+            20000.0,
+            120000.0
+        ],
+        "Guatemala": [
+            150000.0,
+            960000.0,
+            170000.0,
+            260000.0
+        ]
+    },
+    "colors": {
+        "Small states": "#00FF00",
+        "Bahamas": "#DAA520",
+        "Grenada": "#6A5ACD",
+        "Guatemala": "#EE82EE"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4560000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

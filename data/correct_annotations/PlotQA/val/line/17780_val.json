@@ -1,0 +1,61 @@
+{
+    "title": "Percentage of the total population ages 15-24 who uses condom in Armenia",
+    "legend": {
+        "Female population": "#00FA9A",
+        "Male population": "#EE82EE"
+    },
+    "x_axis": [
+        "2000",
+        "2005",
+        "2010"
+    ],
+    "y_axis_label": "Population (% of total population) ",
+    "data": [
+        {
+            "label": "Female population",
+            "color": "#00FA9A",
+            "values": [
+                7.1,
+                4.9,
+                9.2
+            ]
+        },
+        {
+            "label": "Male population",
+            "color": "#EE82EE",
+            "values": [
+                32.0,
+                67.8,
+                73.6
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

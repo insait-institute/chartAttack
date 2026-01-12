@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Streams": "#2876dd"
+    },
+    "categories": [
+        "Post Malone",
+        "Drake",
+        "Billie Eilish",
+        "Ariana Grande",
+        "Youngboy Never Broke Again",
+        "Juice Wrld",
+        "XXXTentacion",
+        "Taylor Swift",
+        "Eminem",
+        "Khalid"
+    ],
+    "data": {
+        "Streams": [
+            6.7,
+            6.35,
+            4.99,
+            4.98,
+            4.88,
+            3.91,
+            3.64,
+            3.54,
+            3.48,
+            3.26
+        ]
+    },
+    "colors": {
+        "Streams": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

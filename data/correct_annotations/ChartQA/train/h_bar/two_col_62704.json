@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Pittsburgh Steelers": "#2876dd"
+    },
+    "categories": [
+        "Hines Ward",
+        "Antonio Brown",
+        "John Stallworth",
+        "Heath Miller",
+        "Louis Lipps",
+        "Lynn Swann",
+        "Elbie Nickel",
+        "Buddy Dial",
+        "Plaxico Burress",
+        "Mike Wallace",
+        "Ray Mathews",
+        "Santonio Holmes",
+        "JuJu Smith-Schuster",
+        "Roy Jefferson",
+        "Yancey Thigpen",
+        "Charles Johnson",
+        "Ron Shanklin",
+        "Gary Ballman",
+        "Bennie Cunningham",
+        "Eric Green"
+    ],
+    "data": {
+        "Pittsburgh Steelers": [
+            12083,
+            11207,
+            8723,
+            6569,
+            6018,
+            5462,
+            5131,
+            4723,
+            4206,
+            4042,
+            3919,
+            3835,
+            3726,
+            3671,
+            3651,
+            3400,
+            3047,
+            2949,
+            2879,
+            2681
+        ]
+    },
+    "colors": {
+        "Pittsburgh Steelers": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12090
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,56 @@
+{
+    "title": "User share",
+    "x_axis": {
+        "categories": [
+            "Cloud SharePoint",
+            "On-premises SharePoint server"
+        ]
+    },
+    "y_axis": {
+        "label": "User share"
+    },
+    "legend": {
+        "2018": "#2876dd",
+        "2019": "#0f283e",
+        "2020": "#bababa"
+    },
+    "data": {
+        "2018": [
+            67,
+            33
+        ],
+        "2019": [
+            74,
+            26
+        ],
+        "2020": [
+            81,
+            19
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

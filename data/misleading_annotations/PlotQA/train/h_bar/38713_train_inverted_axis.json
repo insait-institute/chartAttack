@@ -1,0 +1,64 @@
+{
+    "title": "Female unemployment expressed as percentage of female labor force",
+    "legend": {
+        "East Asia (developing only)": "#FFA500",
+        "China": "#000000",
+        "Slovak Republic": "#B03060"
+    },
+    "categories": [
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "data": {
+        "East Asia (developing only)": [
+            3.64745841594923,
+            3.7844234573426,
+            3.81584705107729,
+            3.82355743342247
+        ],
+        "China": [
+            3.70000004768372,
+            3.59999990463257,
+            3.59999990463257,
+            3.79999995231628
+        ],
+        "Slovak Republic": [
+            12.1999998092651,
+            12.6000003814697,
+            14.1999998092651,
+            13.8000001907349
+        ]
+    },
+    "colors": {
+        "East Asia (developing only)": "#FFA500",
+        "China": "#000000",
+        "Slovak Republic": "#B03060"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

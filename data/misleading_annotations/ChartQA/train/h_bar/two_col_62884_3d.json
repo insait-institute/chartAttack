@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Country Consumption": "#2876dd"
+    },
+    "categories": [
+        "Mexico",
+        "Brazil",
+        "Argentina",
+        "Chile",
+        "Peru",
+        "Colombia",
+        "Panama",
+        "Uruguay",
+        "Costa Rica",
+        "Guatemala",
+        "Ecuador",
+        "Venezuela",
+        "El Salvador",
+        "Honduras",
+        "Bolivia",
+        "Nicaragua",
+        "Paraguay",
+        "Belize",
+        "Guyana",
+        "Suriname"
+    ],
+    "data": {
+        "Country Consumption": [
+            172.18,
+            97.11,
+            31.01,
+            19.06,
+            17.3,
+            11.7,
+            7.45,
+            6.54,
+            6.14,
+            4.02,
+            3.95,
+            2.98,
+            2.56,
+            2.47,
+            2.25,
+            1.14,
+            1.13,
+            0.6,
+            0.14,
+            0.12
+        ]
+    },
+    "colors": {
+        "Country Consumption": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 180
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

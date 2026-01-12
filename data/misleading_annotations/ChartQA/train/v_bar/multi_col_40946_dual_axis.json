@@ -1,0 +1,65 @@
+{
+    "title": "Unemployment rate",
+    "x_axis": {
+        "categories": [
+            "15-24 years",
+            "25-49 years",
+            "50-64 years"
+        ]
+    },
+    "y_axis": {
+        "label": "Unemployment rate"
+    },
+    "legend": {
+        "Male": "#2876dd",
+        "Female": "#0f283e"
+    },
+    "data": {
+        "Male": [
+            16,
+            5.3,
+            4.1
+        ],
+        "Female": [
+            12.3,
+            4.7,
+            3.5
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 4.1,
+                "max_value": 16
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 3.5,
+                "max_value": 12.3
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Percentage of female pupils in tertiary schools",
+    "legend": {
+        "Barbados": "#2F4F4F",
+        "Cabo Verde": "#D2B48C",
+        "Malta": "#00CED1",
+        "Peru": "#B03060"
+    },
+    "categories": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Barbados": [
+            49.41532135009771,
+            49.4250717163086,
+            49.73505020141599,
+            49.6525802612305,
+            49.35100936889651,
+            50.20858001708979
+        ],
+        "Cabo Verde": [
+            51.4034118652344,
+            50.9437103271484,
+            51.9688186645508,
+            52.1791496276855,
+            52.4634017944336,
+            53.49874114990229
+        ],
+        "Malta": [
+            47.3532791137695,
+            48.1454887390137,
+            48.42068099975589,
+            47.0824394226074,
+            47.53918838500979,
+            48.06052017211911
+        ],
+        "Peru": [
+            47.5320701599121,
+            47.5045318603516,
+            47.73770904541021,
+            48.6879806518555,
+            48.61714935302729,
+            48.8807792663574
+        ]
+    },
+    "colors": {
+        "Barbados": "#2F4F4F",
+        "Cabo Verde": "#D2B48C",
+        "Malta": "#00CED1",
+        "Peru": "#B03060"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

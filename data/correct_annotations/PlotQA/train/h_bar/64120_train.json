@@ -1,0 +1,67 @@
+{
+    "title": "Global emissions of Perfluorocarbons",
+    "legend": {
+        "Upper middle income": "#A0522D",
+        "Belarus": "#DAA520",
+        "Estonia": "#D2691E",
+        "Luxembourg": "#808000"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2005"
+    ],
+    "data": {
+        "Upper middle income": [
+            14900.6,
+            15326.8,
+            25377.4309979177
+        ],
+        "Belarus": [
+            2.6,
+            23.9,
+            23.4
+        ],
+        "Estonia": [
+            0.5,
+            3.5,
+            3.4
+        ],
+        "Luxembourg": [
+            0.1,
+            1.0,
+            1.1
+        ]
+    },
+    "colors": {
+        "Upper middle income": "#A0522D",
+        "Belarus": "#DAA520",
+        "Estonia": "#D2691E",
+        "Luxembourg": "#808000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25380
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Electricity produced from non-renewable sources in countries in 1996",
+    "legend": {
+        "Coal sources": "#4B0082",
+        "Natural gas sources": "#5F9EA0",
+        "Oil sources": "#D2B48C"
+    },
+    "categories": [
+        "Europe(all income levels)",
+        "Europe(developing only)",
+        "European Union",
+        "Fragile and conflict affected situations"
+    ],
+    "data": {
+        "Coal sources": [
+            29.3218860117234,
+            30.7115748944602,
+            34.1994392476987,
+            6.0756976038754
+        ],
+        "Natural gas sources": [
+            18.5102282203743,
+            23.2373990969435,
+            11.1457140730396,
+            15.1867498809513
+        ],
+        "Oil sources": [
+            7.189074845004151,
+            7.32629737857204,
+            7.87867617086286,
+            44.1394276388824
+        ]
+    },
+    "colors": {
+        "Coal sources": "#4B0082",
+        "Natural gas sources": "#5F9EA0",
+        "Oil sources": "#D2B48C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

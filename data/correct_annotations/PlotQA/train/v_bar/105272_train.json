@@ -1,0 +1,60 @@
+{
+    "title": "Proportion of the population (ages 15+) that is economically active in different countries",
+    "x_axis": {
+        "categories": [
+            "Slovak Republic",
+            "Spain",
+            "Sri Lanka",
+            "St. Lucia",
+            "Sudan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Females": "#E9967A",
+        "Males": "#FF0000"
+    },
+    "data": {
+        "Females": [
+            55.0999984741211,
+            35.0999984741211,
+            37.9000015258789,
+            61.2000007629395,
+            25.89999961853031
+        ],
+        "Males": [
+            69.8000030517578,
+            65.599998474121,
+            76.1999969482422,
+            78.9000015258789,
+            74.599998474121
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,87 @@
+{
+    "title": "Amount of agricultural raw materials,food and fuel imports of Germany",
+    "legend": {
+        "Agricultural raw materials": "#008B8B",
+        "Food": "#FF69B4",
+        "Fuel": "#00CED1"
+    },
+    "x_axis": [
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+    ],
+    "y_axis_label": "Amount of imports(as % of merchandise imports)",
+    "data": [
+        {
+            "label": "Agricultural raw materials",
+            "color": "#008B8B",
+            "values": [
+                3.4916517107751,
+                3.5037581152462,
+                3.61724655670937,
+                3.70198524227697,
+                3.664577492891509,
+                3.15743181230437,
+                2.66304455733681
+            ]
+        },
+        {
+            "label": "Food",
+            "color": "#FF69B4",
+            "values": [
+                12.0897150615716,
+                12.6039417191363,
+                11.9452250153506,
+                11.5312100213199,
+                10.5422216974231,
+                10.1718349714523,
+                9.9489796883295
+            ]
+        },
+        {
+            "label": "Fuel",
+            "color": "#00CED1",
+            "values": [
+                19.5278009844215,
+                11.3106763303376,
+                9.48248392896525,
+                7.578758761400731,
+                7.50857335872779,
+                8.24989379266804,
+                8.30087545557006
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

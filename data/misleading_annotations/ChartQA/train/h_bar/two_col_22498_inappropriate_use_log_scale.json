@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "North America": "#2876dd",
+        "Europe": "#2876dd",
+        "Latin America": "#2876dd",
+        "Asia": "#2876dd",
+        "Oceania": "#2876dd",
+        "Africa": "#2876dd",
+        "Not specified": "#C0C0C0"
+    },
+    "categories": [
+        "North America",
+        "Europe",
+        "Latin America",
+        "Asia",
+        "Oceania",
+        "Africa",
+        "Not specified"
+    ],
+    "data": {
+        "value": [
+            1348.3,
+            86.39,
+            62.88,
+            27.63,
+            1.69,
+            1.39,
+            3.85
+        ]
+    },
+    "colors": {
+        "North America": "#2876dd",
+        "Europe": "#2876dd",
+        "Latin America": "#2876dd",
+        "Asia": "#2876dd",
+        "Oceania": "#2876dd",
+        "Africa": "#2876dd",
+        "Not specified": "#C0C0C0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1350
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

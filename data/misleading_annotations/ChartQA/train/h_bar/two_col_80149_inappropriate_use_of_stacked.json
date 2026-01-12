@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Jameer Nelson": "#f27979",
+        "Scott Skiles": "#f29100",
+        "Darrell Armstrong": "#daf279",
+        "Anfernee Hardaway": "#30f200",
+        "Nick Anderson": "#52a574",
+        "Hedo Turkoglu": "#00a5a5",
+        "Elfrid Payton": "#5274a5",
+        "Tracy McGrady": "#2100a5",
+        "Nikola Vucevic": "#da79f2",
+        "Evan Fournier": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Jameer Nelson": [
+            3501.0
+        ],
+        "Scott Skiles": [
+            2776.0
+        ],
+        "Darrell Armstrong": [
+            2555.0
+        ],
+        "Anfernee Hardaway": [
+            2343.0
+        ],
+        "Nick Anderson": [
+            1937.0
+        ],
+        "Hedo Turkoglu": [
+            1927.0
+        ],
+        "Elfrid Payton": [
+            1804.0
+        ],
+        "Tracy McGrady": [
+            1533.0
+        ],
+        "Nikola Vucevic": [
+            1501.0
+        ],
+        "Evan Fournier": [
+            1205.0
+        ]
+    },
+    "colors": {
+        "Jameer Nelson": "#f27979",
+        "Scott Skiles": "#f29100",
+        "Darrell Armstrong": "#daf279",
+        "Anfernee Hardaway": "#30f200",
+        "Nick Anderson": "#52a574",
+        "Hedo Turkoglu": "#00a5a5",
+        "Elfrid Payton": "#5274a5",
+        "Tracy McGrady": "#2100a5",
+        "Nikola Vucevic": "#da79f2",
+        "Evan Fournier": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3510
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

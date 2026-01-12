@@ -1,0 +1,47 @@
+{
+    "title": "Arable land in different countries as per the survey report of the year 2009",
+    "legend": {
+        "Area of land": "#5F9EA0"
+    },
+    "categories": [
+        "Georgia",
+        "Germany",
+        "Ghana",
+        "Greece"
+    ],
+    "data": {
+        "Area of land": [
+            450000,
+            11945000,
+            4600000,
+            2547000
+        ]
+    },
+    "colors": {
+        "Area of land": "#5F9EA0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 11945000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

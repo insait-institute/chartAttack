@@ -1,0 +1,64 @@
+{
+    "title": "At-risk-of-poverty rate",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "At-risk-of-poverty rate"
+    },
+    "legend": {
+        "2009-2019": "#2876dd"
+    },
+    "data": {
+        "2009-2019": [
+            13.2,
+            13.7,
+            13.2,
+            11.9,
+            12.8,
+            12.5,
+            11.7,
+            11.5,
+            12.1,
+            11.8,
+            12.3
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

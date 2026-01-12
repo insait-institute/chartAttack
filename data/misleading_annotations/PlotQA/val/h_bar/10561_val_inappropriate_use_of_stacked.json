@@ -1,0 +1,52 @@
+{
+    "title": "Birth rate in countries",
+    "legend": {
+        "1979": "#f27979",
+        "1980": "#00f200",
+        "1981": "#5252a5"
+    },
+    "categories": [
+        "Birth rate in countries"
+    ],
+    "data": {
+        "1979": [
+            41.3257023102951
+        ],
+        "1980": [
+            41.1949189605448
+        ],
+        "1981": [
+            40.9705404509355
+        ]
+    },
+    "colors": {
+        "1979": "#f27979",
+        "1980": "#00f200",
+        "1981": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,72 @@
+{
+    "title": "CO2 emissions from resident buildings and public services",
+    "legend": {
+        "1960": "#40E0D0",
+        "1961": "#FFA07A",
+        "1962": "#FF00FF",
+        "1963": "#2F4F4F"
+    },
+    "categories": [
+        "Central Europe",
+        "East Asia (all income levels)",
+        "Euro area",
+        "Europe(all income levels)"
+    ],
+    "data": {
+        "1960": [
+            24.1227380015736,
+            6.70189494019716,
+            20.0319247391256,
+            22.6260954235638
+        ],
+        "1961": [
+            22.2703029083224,
+            6.422375733651903,
+            20.1866719204059,
+            22.19054112688281
+        ],
+        "1962": [
+            22.2950508216966,
+            6.233983835994482,
+            21.8036382402271,
+            23.3230064956256
+        ],
+        "1963": [
+            21.55140011276081,
+            5.824374762532692,
+            23.8510597724367,
+            24.4548280035593
+        ]
+    },
+    "colors": {
+        "1960": "#40E0D0",
+        "1961": "#FFA07A",
+        "1962": "#FF00FF",
+        "1963": "#2F4F4F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

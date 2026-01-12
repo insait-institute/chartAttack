@@ -1,0 +1,47 @@
+{
+    "title": "Primary to secondary education transition rate among students of different countries",
+    "legend": {
+        "Female": "#f27979",
+        "Male": "#00a5a5"
+    },
+    "categories": [
+        "Primary to secondary education transition rate among students of different countries"
+    ],
+    "data": {
+        "Female": [
+            95.52855682373051
+        ],
+        "Male": [
+            94.7508163452148
+        ]
+    },
+    "colors": {
+        "Female": "#f27979",
+        "Male": "#00a5a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

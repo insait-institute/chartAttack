@@ -1,0 +1,63 @@
+{
+    "title": "Countrywise comparison of arm exports and imports in 1997",
+    "x_axis": {
+        "categories": [
+            "Kazakhstan",
+            "Korea (Republic)",
+            "Libya",
+            "Moldova",
+            "Netherlands",
+            "Norway"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Arms exports": "#FF1493",
+        "Arms imports": "#DC143C"
+    },
+    "data": {
+        "Arms exports": [
+            3000000,
+            60000000,
+            3000000,
+            217000000,
+            614000000,
+            19000000
+        ],
+        "Arms imports": [
+            27000000,
+            31000000,
+            98000000,
+            6000000,
+            77000000,
+            95000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 614000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

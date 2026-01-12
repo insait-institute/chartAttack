@@ -1,0 +1,137 @@
+{
+    "title": "Receiving yards by player",
+    "categories": [
+        "Receiving yards by player"
+    ],
+    "data": {
+        "Stanley Morgan": [
+            10352.0
+        ],
+        "Rob Gronkowski": [
+            7861.0
+        ],
+        "Wes Welker": [
+            7459.0
+        ],
+        "Julian Edelman": [
+            6822.0
+        ],
+        "Troy Brown": [
+            6366.0
+        ],
+        "Irving Fryar": [
+            5726.0
+        ],
+        "Ben Coates": [
+            5471.0
+        ],
+        "Jim Colclough": [
+            5001.0
+        ],
+        "Terry Glenn": [
+            4669.0
+        ],
+        "Gino Cappelletti": [
+            4589.0
+        ],
+        "Deion Branch": [
+            4297.0
+        ],
+        "Randy Moss": [
+            3904.0
+        ],
+        "Kevin Faulk": [
+            3701.0
+        ],
+        "James White": [
+            3184.0
+        ],
+        "Harold Jackson": [
+            3162.0
+        ],
+        "Russ Francis": [
+            3157.0
+        ],
+        "Vincent Brisby": [
+            3142.0
+        ],
+        "Art Graham": [
+            3107.0
+        ],
+        "Shawn Jefferson": [
+            3081.0
+        ],
+        "Randy Vataha": [
+            3055.0
+        ]
+    },
+    "colors": {
+        "Stanley Morgan": "#f27979",
+        "Rob Gronkowski": "#f24800",
+        "Wes Welker": "#f2c179",
+        "Julian Edelman": "#f2da00",
+        "Troy Brown": "#daf279",
+        "Irving Fryar": "#79f200",
+        "Ben Coates": "#91f279",
+        "Jim Colclough": "#00a510",
+        "Terry Glenn": "#52a574",
+        "Gino Cappelletti": "#00a574",
+        "Deion Branch": "#52a5a5",
+        "Randy Moss": "#0074a5",
+        "Kevin Faulk": "#5274a5",
+        "James White": "#0010a5",
+        "Harold Jackson": "#9179f2",
+        "Russ Francis": "#7900f2",
+        "Vincent Brisby": "#da79f2",
+        "Art Graham": "#f200da",
+        "Shawn Jefferson": "#f279c1",
+        "Randy Vataha": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10360
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Stanley Morgan": "#f27979",
+        "Rob Gronkowski": "#f24800",
+        "Wes Welker": "#f2c179",
+        "Julian Edelman": "#f2da00",
+        "Troy Brown": "#daf279",
+        "Irving Fryar": "#79f200",
+        "Ben Coates": "#91f279",
+        "Jim Colclough": "#00a510",
+        "Terry Glenn": "#52a574",
+        "Gino Cappelletti": "#00a574",
+        "Deion Branch": "#52a5a5",
+        "Randy Moss": "#0074a5",
+        "Kevin Faulk": "#5274a5",
+        "James White": "#0010a5",
+        "Harold Jackson": "#9179f2",
+        "Russ Francis": "#7900f2",
+        "Vincent Brisby": "#da79f2",
+        "Art Graham": "#f200da",
+        "Shawn Jefferson": "#f279c1",
+        "Randy Vataha": "#f20048"
+    }
+}

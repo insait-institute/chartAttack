@@ -1,0 +1,102 @@
+{
+    "title": "GDP in trllion euros (at current prices)",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "GDP in trllion euros (at current prices)"
+    },
+    "legend": {
+        "2009": "#f27979",
+        "2010": "#f27900",
+        "2011": "#f2f279",
+        "2012": "#79f200",
+        "2013": "#79f279",
+        "2014": "#00a552",
+        "2015": "#52a5a5",
+        "2016": "#0052a5",
+        "2017": "#5252a5",
+        "2018": "#5200a5",
+        "2019": "#f279f2",
+        "2020": "#f20079"
+    },
+    "data": {
+        "2009": [
+            10.59
+        ],
+        "2010": [
+            10.98
+        ],
+        "2011": [
+            11.32
+        ],
+        "2012": [
+            11.39
+        ],
+        "2013": [
+            11.52
+        ],
+        "2014": [
+            11.78
+        ],
+        "2015": [
+            12.21
+        ],
+        "2016": [
+            12.55
+        ],
+        "2017": [
+            13.07
+        ],
+        "2018": [
+            13.52
+        ],
+        "2019": [
+            13.97
+        ],
+        "2020": [
+            13.31
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2009": "#f27979",
+        "2010": "#f27900",
+        "2011": "#f2f279",
+        "2012": "#79f200",
+        "2013": "#79f279",
+        "2014": "#00a552",
+        "2015": "#52a5a5",
+        "2016": "#0052a5",
+        "2017": "#5252a5",
+        "2018": "#5200a5",
+        "2019": "#f279f2",
+        "2020": "#f20079"
+    }
+}

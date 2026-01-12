@@ -1,0 +1,80 @@
+{
+    "title": "Passing yards by quarterbacks",
+    "legend": {
+        "Quarterbacks": "#2876dd"
+    },
+    "categories": [
+        "Brian Sipe",
+        "Otto Graham",
+        "Bernie Kosar",
+        "Frank Ryan",
+        "Tim Couch",
+        "Baker Mayfield",
+        "Bill Nelsen",
+        "Milt Plum",
+        "Mike Phipps",
+        "Vinny Testaverde",
+        "Derek Anderson",
+        "Paul McDonald",
+        "Brandon Weeden",
+        "Colt McCoy",
+        "Brian Hoyer",
+        "Charlie Frye",
+        "Kelly Holcomb",
+        "Josh McCown",
+        "DeShone Kizer",
+        "Jim Ninowski"
+    ],
+    "data": {
+        "Quarterbacks": [
+            23713,
+            23584,
+            21904,
+            13361,
+            11131,
+            11115,
+            9725,
+            8914,
+            7700,
+            7255,
+            7083,
+            5269,
+            5116,
+            4388,
+            3941,
+            3490,
+            3438,
+            3209,
+            2894,
+            2630
+        ]
+    },
+    "colors": {
+        "Quarterbacks": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23720
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

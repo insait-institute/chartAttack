@@ -1,0 +1,72 @@
+{
+    "title": "Lower secondary completion rate of female students",
+    "legend": {
+        "Brunei Darussalam": "#FF69B4",
+        "Dominica": "#0000FF",
+        "Saudi Arabia": "#FFFF00",
+        "Venezuela": "#000000"
+    },
+    "categories": [
+        "2008",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Brunei Darussalam": [
+            103.247711181641,
+            109.566291809082,
+            107.656829833984,
+            106.670669555664
+        ],
+        "Dominica": [
+            102.945297241211,
+            88.93804931640629,
+            93.1402435302734,
+            89.2744522094727
+        ],
+        "Saudi Arabia": [
+            90.1039810180664,
+            108.541511535645,
+            111.367828369141,
+            115.245651245117
+        ],
+        "Venezuela": [
+            83.8445129394531,
+            82.3562927246094,
+            82.13722229003909,
+            83.6050262451172
+        ]
+    },
+    "colors": {
+        "Brunei Darussalam": "#FF69B4",
+        "Dominica": "#0000FF",
+        "Saudi Arabia": "#FFFF00",
+        "Venezuela": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

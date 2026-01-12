@@ -1,0 +1,61 @@
+{
+    "title": "Mortality rate in different countries in 1978",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "World": "#32CD32",
+        "Guyana": "#FFA500",
+        "Kenya": "#FFFF00",
+        "Mexico": "#BA55D3"
+    },
+    "data": {
+        "World": [
+            188.712424303948,
+            255.029024580604
+        ],
+        "Guyana": [
+            198.397,
+            299.38
+        ],
+        "Kenya": [
+            254.393,
+            313.934
+        ],
+        "Mexico": [
+            168.365,
+            275.869
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 320
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

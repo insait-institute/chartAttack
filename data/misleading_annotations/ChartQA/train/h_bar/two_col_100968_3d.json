@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Revenue": "#2876dd"
+    },
+    "categories": [
+        "Europe",
+        "Asia and Australia",
+        "United States",
+        "Middle East",
+        "Canada",
+        "Latin America",
+        "South/Central Africa",
+        "North Africa",
+        "Caribbean Island",
+        "Arctic and Antartic"
+    ],
+    "data": {
+        "Revenue": [
+            19000.7,
+            15922.2,
+            13277.9,
+            10107.4,
+            5963,
+            3626,
+            2611.8,
+            1221.8,
+            145.1,
+            0.4
+        ]
+    },
+    "colors": {
+        "Revenue": "#2876dd"
+    },
+    "y_label": "Revenue in million U.S. dollars",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 19010
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

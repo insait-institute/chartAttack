@@ -1,0 +1,79 @@
+{
+    "title": "Comparison between mobile cellular and fixed telephone subscriptions in Bolivia",
+    "legend": {
+        "Mobile cellular": "#008B8B",
+        "Fixed telephone": "#FF00FF"
+    },
+    "x_axis": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "y_axis_label": "Number of subsciptions",
+    "data": [
+        {
+            "label": "Mobile cellular",
+            "color": "#008B8B",
+            "values": [
+                7229,
+                33400,
+                118433,
+                239272,
+                420344,
+                582620,
+                779917,
+                1023333,
+                1278844
+            ]
+        },
+        {
+            "label": "Fixed telephone",
+            "color": "#FF00FF",
+            "values": [
+                610261,
+                625428,
+                646291,
+                666553,
+                678198,
+                788972,
+                804217,
+                851203,
+                878483
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 7220,
+                "max_value": 1278850
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

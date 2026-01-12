@@ -1,0 +1,60 @@
+{
+    "title": "Net bilateral aid flow from DA Committee",
+    "legend": {
+        "Guatemala": "#708090",
+        "Moldova": "#2F4F4F",
+        "Turkey": "#FF7F50"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "data": {
+        "Guatemala": [
+            227820000,
+            250650000,
+            479110000
+        ],
+        "Moldova": [
+            86680000.0,
+            126140000.0,
+            112310000.0
+        ],
+        "Turkey": [
+            286030000,
+            382720000,
+            530940000
+        ]
+    },
+    "colors": {
+        "Guatemala": "#708090",
+        "Moldova": "#2F4F4F",
+        "Turkey": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 530940000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

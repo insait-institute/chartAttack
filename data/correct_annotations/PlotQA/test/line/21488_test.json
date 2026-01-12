@@ -1,0 +1,55 @@
+{
+    "title": "Total reserves (excluding gold) of Kyrgyz Republic",
+    "legend": {
+        "Total reserves minus gold (current US$)": "#2F4F4F"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "Total reserves (current US$)",
+    "data": [
+        {
+            "label": "Total reserves minus gold (current US$)",
+            "color": "#2F4F4F",
+            "values": [
+                239045431.20126,
+                263530043.85801,
+                288849331.51552,
+                364599320.1509701,
+                528152374.6371599
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 239045430,
+                "max_value": 528152380
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

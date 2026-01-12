@@ -1,0 +1,66 @@
+{
+    "title": "Hourly wage in U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2015",
+            "2016",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Hourly wage in U.S. dollars"
+    },
+    "legend": {
+        "Mexico": "#2876dd",
+        "U.S.": "#0f283e"
+    },
+    "data": {
+        "Mexico": [
+            2.4,
+            2.1,
+            2.3
+        ],
+        "U.S.": [
+            19.9,
+            20.4,
+            20.8
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Mexico": [
+            1.75,
+            0.25,
+            0.25
+        ],
+        "U.S.": [
+            1.75,
+            0.25,
+            0.25
+        ]
+    }
+}

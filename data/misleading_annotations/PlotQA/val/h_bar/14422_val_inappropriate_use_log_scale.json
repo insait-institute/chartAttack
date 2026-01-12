@@ -1,0 +1,82 @@
+{
+    "title": "Split of the expenses made by the government of Pakistan",
+    "legend": {
+        "Miscellaneous expenses": "#191970",
+        "Labor Taxes": "#BDB76B",
+        "Grants and Revenue": "#8B008B",
+        "Services": "#CD5C5C"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Miscellaneous expenses": [
+            106334000000,
+            431434000000,
+            385871000000,
+            447949000000,
+            806985000000,
+            985573000000
+        ],
+        "Labor Taxes": [
+            391000000,
+            602000000,
+            628000000,
+            28119000000,
+            22340000000,
+            26815000000
+        ],
+        "Grants and Revenue": [
+            56980000000,
+            56875000000,
+            67493000000,
+            71835000000,
+            79831000000,
+            79627000000
+        ],
+        "Services": [
+            284399000000,
+            314368000000,
+            142914000000,
+            166036000000,
+            179455000000,
+            251838000000
+        ]
+    },
+    "colors": {
+        "Miscellaneous expenses": "#191970",
+        "Labor Taxes": "#BDB76B",
+        "Grants and Revenue": "#8B008B",
+        "Services": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 985573000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,67 @@
+{
+    "title": "IDA resource allocation index of a country",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle East & North Africa (developing only)": "#f27979",
+        "Middle income": "#c1f200",
+        "Other small states": "#52a574",
+        "Pacific island small states": "#0042a5",
+        "Small states": "#da79f2"
+    },
+    "data": {
+        "Middle East & North Africa (developing only)": [
+            3.21666666666667
+        ],
+        "Middle income": [
+            3.45583333333333
+        ],
+        "Other small states": [
+            3.28055555555556
+        ],
+        "Pacific island small states": [
+            3.20666666666667
+        ],
+        "Small states": [
+            3.38245614035088
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Middle East & North Africa (developing only)": "#f27979",
+        "Middle income": "#c1f200",
+        "Other small states": "#52a574",
+        "Pacific island small states": "#0042a5",
+        "Small states": "#da79f2"
+    }
+}

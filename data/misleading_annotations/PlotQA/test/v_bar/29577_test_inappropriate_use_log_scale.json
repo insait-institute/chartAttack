@@ -1,0 +1,81 @@
+{
+    "title": "Total electricity produced from oil sources",
+    "x_axis": {
+        "categories": [
+            "Italy",
+            "Japan",
+            "Netherlands",
+            "Poland",
+            "Portugal",
+            "Spain"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#A0522D",
+        "1961": "#228B22",
+        "1962": "#A020F0",
+        "1963": "#00FF7F"
+    },
+    "data": {
+        "1960": [
+            6.67083407751384,
+            17.0562770562771,
+            19.423589246791,
+            0.105867085581586,
+            2.43976822201891,
+            3.16428494681423
+        ],
+        "1961": [
+            16.1386056536517,
+            19.9091597274792,
+            19.9443940081707,
+            0.170595533498759,
+            2.14168039538715,
+            5.38844716926909
+        ],
+        "1962": [
+            23.9997521646866,
+            22.2934472934473,
+            22.8823682160478,
+            0.2262187535346681,
+            0.568181818181818,
+            10.8709888670596
+        ],
+        "1963": [
+            23.17461211387381,
+            22.9418015877977,
+            30.12295081967211,
+            0.381689721447714,
+            0.8053382420616659,
+            8.23647526740549
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

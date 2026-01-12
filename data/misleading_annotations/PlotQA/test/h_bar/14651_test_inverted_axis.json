@@ -1,0 +1,77 @@
+{
+    "title": "CPIA building human resources rating",
+    "legend": {
+        "2005": "#00FFFF",
+        "2006": "#FFA500",
+        "2007": "#F0E68C",
+        "2008": "#D2691E"
+    },
+    "categories": [
+        "Mongolia",
+        "Mozambique",
+        "Nepal",
+        "Nicaragua",
+        "Niger"
+    ],
+    "data": {
+        "2005": [
+            3.5,
+            3.5,
+            3.5,
+            3.5,
+            3.0
+        ],
+        "2006": [
+            3.5,
+            3.5,
+            3.5,
+            3.5,
+            3.0
+        ],
+        "2007": [
+            3.5,
+            3.5,
+            4.0,
+            3.5,
+            3.0
+        ],
+        "2008": [
+            4.0,
+            4.0,
+            4.0,
+            3.5,
+            3.0
+        ]
+    },
+    "colors": {
+        "2005": "#00FFFF",
+        "2006": "#FFA500",
+        "2007": "#F0E68C",
+        "2008": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

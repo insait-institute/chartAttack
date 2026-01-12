@@ -1,0 +1,68 @@
+{
+    "title": "Earning from merchandise imports",
+    "x_axis": {
+        "categories": [
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FF1493",
+        "1961": "#8B008B",
+        "1962": "#FF8C00"
+    },
+    "data": {
+        "1960": [
+            2014122237.7254,
+            11101957321.8192,
+            6136123809.230479,
+            4711061284.17169,
+            27170009823.3701
+        ],
+        "1961": [
+            2089774573.00156,
+            11569969915.6577,
+            6095384548.94385,
+            4521402730.94838,
+            26644133408.0104
+        ],
+        "1962": [
+            2089825152.60926,
+            11202496270.7034,
+            5622376610.56042,
+            3909968238.09145,
+            26029208327.7701
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 27170009830
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

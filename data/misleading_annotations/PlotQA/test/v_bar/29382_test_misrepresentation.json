@@ -1,0 +1,79 @@
+{
+    "title": "Time required to trade the goods and services in 2011",
+    "x_axis": {
+        "categories": [
+            "Time to export",
+            "Time to import"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Colombia": "#FF8C00",
+        "Malaysia": "#20B2AA",
+        "Namibia": "#A020F0",
+        "Tunisia": "#FF4500"
+    },
+    "data": {
+        "Colombia": [
+            14,
+            13
+        ],
+        "Malaysia": [
+            13,
+            10
+        ],
+        "Namibia": [
+            24,
+            20
+        ],
+        "Tunisia": [
+            13,
+            17
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Colombia": [
+            1.75,
+            0.25
+        ],
+        "Malaysia": [
+            1.75,
+            0.25
+        ],
+        "Namibia": [
+            1.75,
+            0.25
+        ],
+        "Tunisia": [
+            1.75,
+            0.25
+        ]
+    }
+}

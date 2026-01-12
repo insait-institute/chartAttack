@@ -1,0 +1,68 @@
+{
+    "title": "Number of passengers carried by air carriers registered in a country",
+    "x_axis": {
+        "categories": [
+            "Morocco",
+            "Myanmar",
+            "Nepal",
+            "Netherlands",
+            "New Zealand"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#2F4F4F",
+        "1971": "#008B8B",
+        "1972": "#DC143C"
+    },
+    "data": {
+        "1970": [
+            289500.0,
+            345800.0,
+            203400.0,
+            2881100.0,
+            1862000.0
+        ],
+        "1971": [
+            362000.0,
+            380500.0,
+            217900.0,
+            3012300.0,
+            1923800.0
+        ],
+        "1972": [
+            410300.0,
+            393000.0,
+            232000.0,
+            3275800.0,
+            2084300.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3275800
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,73 @@
+{
+    "title": "Amount of goods and services traded in Switzerland",
+    "legend": {
+        "Exports": "#6A5ACD",
+        "Imports": "#008B8B"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Amount of goods traded (in US$)",
+    "data": [
+        {
+            "label": "Exports",
+            "color": "#6A5ACD",
+            "values": [
+                152905000000,
+                171284000000,
+                205940000000,
+                251317000000,
+                216880000000,
+                277166000000,
+                345691000000
+            ]
+        },
+        {
+            "label": "Imports",
+            "color": "#008B8B",
+            "values": [
+                141405000000,
+                156215000000,
+                181439000000,
+                222829000000,
+                201284000000,
+                242654000000,
+                316593000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 100000000000,
+                "max_value": 345691000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

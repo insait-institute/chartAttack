@@ -1,0 +1,65 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "2010/11",
+        "2011/12",
+        "2012/13",
+        "2013/14",
+        "2014/15",
+        "2015/16",
+        "2016/17",
+        "2017/18",
+        "2018/19",
+        "2019/20"
+    ],
+    "y_axis_label": "Crimes per 1,000 population",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                91.51,
+                90.63,
+                85.77,
+                77.9,
+                85.46,
+                82.36,
+                86.42,
+                92.18,
+                95.99,
+                101.48
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 70,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

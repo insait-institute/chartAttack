@@ -1,0 +1,66 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education in Tonga",
+    "legend": {
+        "Female entrants": "#bebebe",
+        "Male entrants": "#bebebe"
+    },
+    "categories": [
+        "1984",
+        "1985",
+        "1986",
+        "1990",
+        "1991",
+        "1993"
+    ],
+    "data": {
+        "Female entrants": [
+            114.22222,
+            95.32628,
+            101.17117,
+            119.94704,
+            94.61998,
+            117.84841
+        ],
+        "Male entrants": [
+            119.31438,
+            96.69148,
+            102.44519,
+            135.13515,
+            99.37008,
+            105.09978
+        ]
+    },
+    "colors": {
+        "Female entrants": "#BEBEBE",
+        "Male entrants": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Female entrants": "#bebebe",
+        "Male entrants": "#bebebe"
+    }
+}

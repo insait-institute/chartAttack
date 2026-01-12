@@ -1,0 +1,48 @@
+{
+    "title": "Net financial flows in Bangladesh from International Banks",
+    "legend": {
+        "Net financial flows from IBRD": "#BC8F8F"
+    },
+    "categories": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "data": {
+        "Net financial flows from IBRD": [
+            -4448000,
+            -4947000,
+            -5330000,
+            -5211000
+        ]
+    },
+    "colors": {
+        "Net financial flows from IBRD": "#BC8F8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 0
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,85 @@
+{
+    "title": "",
+    "legend": {
+        "Homicides": "#2876dd"
+    },
+    "categories": [
+        "Jamaica",
+        "Venezuela",
+        "Honduras",
+        "Trinidad and Tobago",
+        "Mexico",
+        "Belize",
+        "Colombia",
+        "El Salvador",
+        "Brazil",
+        "Puerto Rico",
+        "Guatemala",
+        "Haiti",
+        "Panama",
+        "Costa Rica",
+        "Uruguay",
+        "Dominican Republic",
+        "Peru",
+        "Ecuador",
+        "Paraguay",
+        "Argentina",
+        "Chile",
+        "Nicaragua"
+    ],
+    "data": {
+        "Homicides": [
+            46.5,
+            45.6,
+            37.6,
+            28.2,
+            27,
+            24.3,
+            24.3,
+            19.7,
+            19.3,
+            16.5,
+            15.4,
+            13,
+            11.6,
+            11.2,
+            9.3,
+            9,
+            8.3,
+            7.7,
+            6.6,
+            4.6,
+            3.7,
+            3.5
+        ]
+    },
+    "colors": {
+        "Homicides": "#2876dd"
+    },
+    "y_label": "Homicides per 100,000 inhabitants",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

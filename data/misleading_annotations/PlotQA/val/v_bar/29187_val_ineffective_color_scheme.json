@@ -1,0 +1,77 @@
+{
+    "title": "Net bilateral aid flow from different members of Development Assistance Committee in the year 1961",
+    "x_axis": {
+        "categories": [
+            "High income: OECD",
+            "Lower middle income",
+            "Upper middle income",
+            "World"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Norway": "#a020f0",
+        "Portugal": "#b920f0",
+        "Sweden": "#d42af1",
+        "Switzerland": "#e819ed"
+    },
+    "data": {
+        "Norway": [
+            500000,
+            900000,
+            -100000,
+            1300000
+        ],
+        "Portugal": [
+            5410000,
+            30520000,
+            6180000,
+            3360000
+        ],
+        "Sweden": [
+            500000,
+            1020000,
+            400000,
+            400000
+        ],
+        "Switzerland": [
+            40000,
+            10000,
+            50000,
+            70000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30520000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Norway": "#a020f0",
+        "Portugal": "#b920f0",
+        "Sweden": "#d42af1",
+        "Switzerland": "#e819ed"
+    }
+}

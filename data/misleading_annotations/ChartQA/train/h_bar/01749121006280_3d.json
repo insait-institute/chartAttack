@@ -1,0 +1,50 @@
+{
+    "title": "Share of population who have ever been homeless, 2003",
+    "categories": [
+        "United Kingdom",
+        "United States",
+        "Italy",
+        "Belgium",
+        "Germany"
+    ],
+    "data": {
+        "bars": [
+            7.7,
+            6.2,
+            4,
+            3.4,
+            2.4
+        ]
+    },
+    "colors": {
+        "bars": "#2e5778"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "bars": "#2e5778"
+    }
+}

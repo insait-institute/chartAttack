@@ -1,0 +1,60 @@
+{
+    "title": "Trade statistics with developing economies of North Africa in 2000",
+    "x_axis": {
+        "categories": [
+            "Belgium",
+            "Benin",
+            "Bermuda",
+            "Bolivia",
+            "Bosnia and Herzegovina"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#32CD32",
+        "Merchandise imports": "#FF1493"
+    },
+    "data": {
+        "Merchandise exports": [
+            1.17992261853725,
+            3.84133590549529,
+            0.067562257659915,
+            0.0611520448647197,
+            2.44155035915181
+        ],
+        "Merchandise imports": [
+            0.9791317041524392,
+            2.14095269762836,
+            0.00245993694163684,
+            0.0086754393409745,
+            0.0345501190646611
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

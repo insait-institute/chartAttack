@@ -1,0 +1,80 @@
+{
+    "title": "Number of average active sessions",
+    "categories": [
+        "iHeartRadio",
+        "NPR Member Stations*",
+        "Audacy",
+        "Cumulus Streaming Network",
+        "EMF Corporate",
+        "Univision",
+        "Beasley Broadcasting Corporate",
+        "Hubbard Broadcasting",
+        "AccuRadio",
+        "Salem Communications",
+        "New York Public Radio",
+        "Urban One",
+        "Bonneville International",
+        "ESPN Radio Corporate",
+        "Prisa Radio",
+        "Midwest Communications",
+        "MediaCo Holding Inc",
+        "Classical KUSC/KDFC",
+        "Entravision Communications Corporation",
+        "Estrella Media"
+    ],
+    "data": {
+        "Sessions": [
+            397804,
+            109470,
+            89857,
+            61071,
+            36909,
+            31158,
+            27653,
+            21424,
+            15718,
+            14371,
+            13698,
+            11368,
+            10317,
+            7457,
+            7081,
+            6875,
+            6565,
+            6540,
+            5847,
+            5387
+        ]
+    },
+    "colors": {
+        "Sessions": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 397810
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Sessions": "#2876dd"
+    }
+}

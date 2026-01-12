@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "American Samoa": "#f27979",
+        "Bermuda": "#f24800",
+        "Iceland": "#f2c179",
+        "Cayman Islands": "#f2da00",
+        "Andorra": "#daf279",
+        "U.S. Virgin Islands": "#79f200",
+        "Netherlands": "#91f279",
+        "United States": "#00a510",
+        "Ireland": "#52a574",
+        "Singapore": "#00a574",
+        "Aruba": "#52a5a5",
+        "New Zealand": "#0074a5",
+        "UAE": "#5274a5",
+        "Australia": "#0010a5",
+        "Denmark": "#9179f2",
+        "Malta": "#7900f2",
+        "Canada": "#da79f2",
+        "United Kingdom": "#f200da",
+        "Luxembourg": "#f279c1",
+        "Curacao": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "American Samoa": [
+            103.0
+        ],
+        "Bermuda": [
+            100.7
+        ],
+        "Iceland": [
+            94.9
+        ],
+        "Cayman Islands": [
+            85.9
+        ],
+        "Andorra": [
+            81.8
+        ],
+        "U.S. Virgin Islands": [
+            74.8
+        ],
+        "Netherlands": [
+            67.0
+        ],
+        "United States": [
+            65.7
+        ],
+        "Ireland": [
+            64.0
+        ],
+        "Singapore": [
+            61.9
+        ],
+        "Aruba": [
+            61.7
+        ],
+        "New Zealand": [
+            61.7
+        ],
+        "UAE": [
+            60.6
+        ],
+        "Australia": [
+            60.5
+        ],
+        "Denmark": [
+            60.1
+        ],
+        "Malta": [
+            60.0
+        ],
+        "Canada": [
+            58.4
+        ],
+        "United Kingdom": [
+            57.5
+        ],
+        "Luxembourg": [
+            56.4
+        ],
+        "Curacao": [
+            56.1
+        ]
+    },
+    "colors": {
+        "American Samoa": "#f27979",
+        "Bermuda": "#f24800",
+        "Iceland": "#f2c179",
+        "Cayman Islands": "#f2da00",
+        "Andorra": "#daf279",
+        "U.S. Virgin Islands": "#79f200",
+        "Netherlands": "#91f279",
+        "United States": "#00a510",
+        "Ireland": "#52a574",
+        "Singapore": "#00a574",
+        "Aruba": "#52a5a5",
+        "New Zealand": "#0074a5",
+        "UAE": "#5274a5",
+        "Australia": "#0010a5",
+        "Denmark": "#9179f2",
+        "Malta": "#7900f2",
+        "Canada": "#da79f2",
+        "United Kingdom": "#f200da",
+        "Luxembourg": "#f279c1",
+        "Curacao": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

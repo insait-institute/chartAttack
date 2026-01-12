@@ -1,0 +1,72 @@
+{
+    "title": "Number of tax payers in a country",
+    "x_axis": {
+        "categories": [
+            "Kenya",
+            "Kiribati",
+            "Korea (Republic)",
+            "Kuwait",
+            "Kyrgyz Republic",
+            "Lao PDR"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#EE82EE",
+        "2006": "#000000",
+        "2007": "#BA55D3"
+    },
+    "data": {
+        "2005": [
+            42.0,
+            7.0,
+            15.0,
+            12.0,
+            76.0,
+            34.0
+        ],
+        "2006": [
+            42.0,
+            7.0,
+            15.0,
+            12.0,
+            76.0,
+            34.0
+        ],
+        "2007": [
+            41.0,
+            7.0,
+            15.0,
+            12.0,
+            76.0,
+            34.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

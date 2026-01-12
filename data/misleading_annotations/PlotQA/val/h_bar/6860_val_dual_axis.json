@@ -1,0 +1,70 @@
+{
+    "title": "Proportion of the population (ages 15-24) that is economically active in Albania",
+    "legend": {
+        "Females": "#DAA520",
+        "Males": "#66CDAA"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Females": [
+            35.5999984741211,
+            39.7000007629395,
+            37.4000015258789,
+            37.0,
+            28.7999992370605
+        ],
+        "Males": [
+            48.2000007629395,
+            52.4000015258789,
+            51.5,
+            52.2000007629395,
+            45.2999992370605
+        ]
+    },
+    "colors": {
+        "Females": "#DAA520",
+        "Males": "#66CDAA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 28.7999992370605,
+                "max_value": 39.7000007629395
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 45.2999992370605,
+                "max_value": 52.4000015258789
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

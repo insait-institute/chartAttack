@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Region": "#2876dd"
+    },
+    "categories": [
+        "Sicily",
+        "Piedmont",
+        "Sardinia",
+        "Lombardy",
+        "Tuscany",
+        "Emilia-Romagna",
+        "Apulia",
+        "Veneto",
+        "Lazio",
+        "Calabria",
+        "Campania",
+        "Trentino-South Tyrol",
+        "Abruzzo",
+        "Basilicata",
+        "Marche",
+        "Umbria",
+        "Friuli-Venezia Giulia",
+        "Liguria",
+        "Molise",
+        "Aosta Valley"
+    ],
+    "data": {
+        "Region": [
+            25832,
+            25387,
+            24100,
+            23864,
+            22987,
+            22453,
+            19541,
+            18345,
+            17232,
+            15222,
+            13671,
+            13606,
+            10832,
+            10073,
+            9401,
+            8464,
+            7924,
+            5416,
+            4461,
+            3261
+        ]
+    },
+    "colors": {
+        "Region": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25840
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

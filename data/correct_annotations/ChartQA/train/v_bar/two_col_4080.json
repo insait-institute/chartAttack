@@ -1,0 +1,68 @@
+{
+    "title": "Capacity in million dwt",
+    "x_axis": {
+        "categories": [
+            "1980",
+            "1985",
+            "1990",
+            "1995",
+            "2000",
+            "2005",
+            "2010",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Capacity in million dwt"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            116,
+            106,
+            103,
+            104,
+            101,
+            92,
+            108,
+            74,
+            75,
+            75,
+            74,
+            74,
+            74.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

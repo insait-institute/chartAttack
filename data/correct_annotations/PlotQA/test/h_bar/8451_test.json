@@ -1,0 +1,72 @@
+{
+    "title": "Use of IMF credit in the Department of Defense",
+    "legend": {
+        "1970": "#000000",
+        "1971": "#00BFFF",
+        "1972": "#FF0000"
+    },
+    "categories": [
+        "Low & middle income",
+        "Low income",
+        "Lower middle income",
+        "Middle East & North Africa (developing only)",
+        "Middle income",
+        "South Asia"
+    ],
+    "data": {
+        "1970": [
+            736220000.0,
+            48810000.0,
+            514960000.0,
+            99610000.0,
+            687410000.0,
+            123900000.0
+        ],
+        "1971": [
+            806268843.0,
+            53021000.0,
+            527762843.0,
+            88628000.0,
+            753247843.0,
+            123900000.0
+        ],
+        "1972": [
+            848026025.0,
+            133559000.0,
+            572523025.0,
+            55925000.0,
+            714467025.0,
+            268993000.0
+        ]
+    },
+    "colors": {
+        "1970": "#000000",
+        "1971": "#00BFFF",
+        "1972": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 848026030
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,115 @@
+{
+    "title": "Net bilateral aid flow in an economy from Netherlands",
+    "x_axis": {
+        "categories": [
+            "Europe(developing only)",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Low & middle income",
+            "Middle income",
+            "OECD members"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FF4500",
+        "1961": "#B8860B",
+        "1962": "#008080",
+        "1963": "#5F9EA0"
+    },
+    "data": {
+        "1960": [
+            -1000000.0,
+            3800000.0,
+            3600000.0,
+            24200000.0,
+            23700000.0,
+            -400000.0
+        ],
+        "1961": [
+            -1030000.0,
+            4800000.0,
+            4800000.0,
+            29860000.0,
+            28870000.0,
+            -610000.0
+        ],
+        "1962": [
+            -610000.0,
+            8920000.0,
+            8920000.0,
+            46070000.0,
+            44980000.0,
+            -610000.0
+        ],
+        "1963": [
+            100000.0,
+            14300000.0,
+            14300000.0,
+            15300000.0,
+            13800000.0,
+            100000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 46070000
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1960": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1961": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1962": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1963": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

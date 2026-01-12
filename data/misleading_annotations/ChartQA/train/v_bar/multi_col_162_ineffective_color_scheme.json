@@ -1,0 +1,72 @@
+{
+    "title": "Number of people",
+    "x_axis": {
+        "categories": [
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of people"
+    },
+    "legend": {
+        "Male": "#2876dd",
+        "Female": "#2859dd",
+        "Unknown": "#3144de"
+    },
+    "data": {
+        "Male": [
+            940,
+            942,
+            961,
+            983,
+            420
+        ],
+        "Female": [
+            45,
+            53,
+            43,
+            38,
+            20
+        ],
+        "Unknown": [
+            2,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 990
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Male": "#2876dd",
+        "Female": "#2859dd",
+        "Unknown": "#3144de"
+    }
+}

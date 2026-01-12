@@ -1,0 +1,77 @@
+{
+    "title": "Net incurrence of foreign liabilities",
+    "legend": {
+        "Caribbean small states": "#ADFF2F",
+        "Low & middle income": "#F0E68C",
+        "Bangladesh": "#6495ED",
+        "Kyrgyz Republic": "#000000"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Caribbean small states": [
+            1.29796460819941,
+            3.05261378806446,
+            2.2563172347641,
+            2.02311878580009,
+            2.41590259578561
+        ],
+        "Low & middle income": [
+            0.499239085516554,
+            0.236846771537857,
+            1.25131761402055,
+            1.81702710833305,
+            0.978495573447632
+        ],
+        "Bangladesh": [
+            0.432005837762371,
+            0.98830269093033,
+            0.317287147209688,
+            0.7567803919734549,
+            0.287291008974603
+        ],
+        "Kyrgyz Republic": [
+            1.26091705503331,
+            0.3365751396735711,
+            7.55296887183318,
+            3.01292784430499,
+            3.2950738332335
+        ]
+    },
+    "colors": {
+        "Caribbean small states": "#ADFF2F",
+        "Low & middle income": "#F0E68C",
+        "Bangladesh": "#6495ED",
+        "Kyrgyz Republic": "#000000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,92 @@
+{
+    "title": "",
+    "legend": {
+        "Morocco": "#f27979",
+        "Romania": "#f28400",
+        "Albania": "#e7f279",
+        "Tunisia": "#58f200",
+        "Nigeria": "#52a561",
+        "Gambia": "#00a578",
+        "Algeria": "#528fa5",
+        "Senegal": "#001ea5",
+        "Egypt": "#a579f2",
+        "Pakistan": "#dc00f2",
+        "Ukraine": "#f279bb"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Morocco": [
+            3333.0
+        ],
+        "Romania": [
+            2049.0
+        ],
+        "Albania": [
+            1968.0
+        ],
+        "Tunisia": [
+            1756.0
+        ],
+        "Nigeria": [
+            1447.0
+        ],
+        "Gambia": [
+            467.0
+        ],
+        "Algeria": [
+            446.0
+        ],
+        "Senegal": [
+            431.0
+        ],
+        "Egypt": [
+            406.0
+        ],
+        "Pakistan": [
+            287.0
+        ],
+        "Ukraine": [
+            228.0
+        ]
+    },
+    "colors": {
+        "Morocco": "#f27979",
+        "Romania": "#f28400",
+        "Albania": "#e7f279",
+        "Tunisia": "#58f200",
+        "Nigeria": "#52a561",
+        "Gambia": "#00a578",
+        "Algeria": "#528fa5",
+        "Senegal": "#001ea5",
+        "Egypt": "#a579f2",
+        "Pakistan": "#dc00f2",
+        "Ukraine": "#f279bb"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3340
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

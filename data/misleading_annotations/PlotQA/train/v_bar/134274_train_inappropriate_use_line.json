@@ -1,0 +1,66 @@
+{
+    "title": "Percentage of value added in manufacturing machinery etc. in countries",
+    "x_axis": {
+        "categories": [
+            "Machinery",
+            "Transport equipments",
+            "Textiles and clothing"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Austria": "#BDB76B",
+        "Eritrea": "#663399",
+        "Malaysia": "#008B8B",
+        "Malta": "#7FFFD4"
+    },
+    "data": {
+        "Austria": [
+            27.3757555406094,
+            54.80607790517821,
+            2.285510409447991
+        ],
+        "Eritrea": [
+            1.31908516047882,
+            56.36901277232199,
+            31.2169228934469
+        ],
+        "Malaysia": [
+            26.7291549861633,
+            47.9291623715395,
+            1.90550783396845
+        ],
+        "Malta": [
+            18.942563244449,
+            45.72964723107579,
+            4.27846104964369
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

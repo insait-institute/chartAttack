@@ -1,0 +1,54 @@
+{
+    "title": "Total labor force participation rate in the year 1980",
+    "x_axis": {
+        "categories": [
+            "Caribbean small states",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "North America",
+            "OECD members"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Labor force participation rate for ages 15-24 total": "#FF0000"
+    },
+    "data": {
+        "Labor force participation rate for ages 15-24 total": [
+            42.347713197376,
+            58.3381706790909,
+            51.0824208596776,
+            51.9206358783986,
+            68.1512424665188,
+            57.8578974232295
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

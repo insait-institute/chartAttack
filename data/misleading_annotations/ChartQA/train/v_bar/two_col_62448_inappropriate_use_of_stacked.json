@@ -1,0 +1,97 @@
+{
+    "title": "Number of cases",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of cases"
+    },
+    "legend": {
+        "2000": "#f27979",
+        "2001": "#f28400",
+        "2002": "#e7f279",
+        "2003": "#58f200",
+        "2004": "#52a561",
+        "2005": "#00a578",
+        "2006": "#528fa5",
+        "2007": "#001ea5",
+        "2008": "#a579f2",
+        "2009": "#dc00f2",
+        "2010": "#f279bb"
+    },
+    "data": {
+        "2000": [
+            9.0
+        ],
+        "2001": [
+            13.0
+        ],
+        "2002": [
+            16.0
+        ],
+        "2003": [
+            30.0
+        ],
+        "2004": [
+            28.0
+        ],
+        "2005": [
+            108.0
+        ],
+        "2006": [
+            51.0
+        ],
+        "2007": [
+            74.0
+        ],
+        "2008": [
+            85.0
+        ],
+        "2009": [
+            97.0
+        ],
+        "2010": [
+            89.0
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2000": "#f27979",
+        "2001": "#f28400",
+        "2002": "#e7f279",
+        "2003": "#58f200",
+        "2004": "#52a561",
+        "2005": "#00a578",
+        "2006": "#528fa5",
+        "2007": "#001ea5",
+        "2008": "#a579f2",
+        "2009": "#dc00f2",
+        "2010": "#f279bb"
+    }
+}

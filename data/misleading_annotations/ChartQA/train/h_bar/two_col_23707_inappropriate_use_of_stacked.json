@@ -1,0 +1,157 @@
+{
+    "title": "",
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Nevada": [
+            409444.0
+        ],
+        "New Jersey": [
+            39007.0
+        ],
+        "Pennsylvania": [
+            33171.0
+        ],
+        "Mississippi": [
+            32884.0
+        ],
+        "Louisiana": [
+            32717.0
+        ],
+        "Indiana": [
+            22133.0
+        ],
+        "Missouri": [
+            19987.0
+        ],
+        "Ohio": [
+            19953.0
+        ],
+        "New York": [
+            17247.0
+        ],
+        "Michigan": [
+            16371.0
+        ],
+        "Iowa": [
+            15662.0
+        ],
+        "Illinois": [
+            15396.0
+        ],
+        "Maryland": [
+            15364.0
+        ],
+        "Colorado": [
+            9638.0
+        ],
+        "West Virginia": [
+            8347.0
+        ],
+        "Florida": [
+            8180.0
+        ],
+        "Delaware": [
+            5299.0
+        ],
+        "Rhode Island": [
+            5215.0
+        ],
+        "Kansas": [
+            3685.0
+        ],
+        "New Mexico": [
+            2299.0
+        ],
+        "Massachusetts": [
+            1646.0
+        ],
+        "Maine": [
+            1468.0
+        ],
+        "South Dakota": [
+            1175.0
+        ],
+        "Oklahoma": [
+            1162.0
+        ]
+    },
+    "colors": {
+        "Nevada": "#f27979",
+        "New Jersey": "#f23c00",
+        "Pennsylvania": "#f2b579",
+        "Mississippi": "#f2b500",
+        "Louisiana": "#f2f279",
+        "Indiana": "#b5f200",
+        "Missouri": "#b5f279",
+        "Ohio": "#3cf200",
+        "New York": "#79f279",
+        "Michigan": "#00a529",
+        "Iowa": "#52a57c",
+        "Illinois": "#00a57c",
+        "Maryland": "#52a5a5",
+        "Colorado": "#007ca5",
+        "West Virginia": "#527ca5",
+        "Florida": "#0029a5",
+        "Delaware": "#5252a5",
+        "Rhode Island": "#2900a5",
+        "Kansas": "#b579f2",
+        "New Mexico": "#b500f2",
+        "Massachusetts": "#f279f2",
+        "Maine": "#f200b5",
+        "South Dakota": "#f279b5",
+        "Oklahoma": "#f2003c"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 409450
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Nevada": "#f27979",
+        "New Jersey": "#f23c00",
+        "Pennsylvania": "#f2b579",
+        "Mississippi": "#f2b500",
+        "Louisiana": "#f2f279",
+        "Indiana": "#b5f200",
+        "Missouri": "#b5f279",
+        "Ohio": "#3cf200",
+        "New York": "#79f279",
+        "Michigan": "#00a529",
+        "Iowa": "#52a57c",
+        "Illinois": "#00a57c",
+        "Maryland": "#52a5a5",
+        "Colorado": "#007ca5",
+        "West Virginia": "#527ca5",
+        "Florida": "#0029a5",
+        "Delaware": "#5252a5",
+        "Rhode Island": "#2900a5",
+        "Kansas": "#b579f2",
+        "New Mexico": "#b500f2",
+        "Massachusetts": "#f279f2",
+        "Maine": "#f200b5",
+        "South Dakota": "#f279b5",
+        "Oklahoma": "#f2003c"
+    }
+}

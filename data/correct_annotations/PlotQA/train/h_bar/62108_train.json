@@ -1,0 +1,67 @@
+{
+    "title": "CO2 emissions from different sources in 2006",
+    "legend": {
+        "Montenegro": "#C71585",
+        "Myanmar": "#A0522D",
+        "Portugal": "#FFFF00",
+        "Turkey": "#FF0000"
+    },
+    "categories": [
+        "Other sectors",
+        "Resident buildings and public services",
+        "Transport"
+    ],
+    "data": {
+        "Montenegro": [
+            1.8018018018018,
+            1.35135135135135,
+            20.7207207207207
+        ],
+        "Myanmar": [
+            7.66871165644172,
+            0.102249488752556,
+            40.3885480572597
+        ],
+        "Portugal": [
+            2.06992520438337,
+            7.3925900156549,
+            32.8752826578535
+        ],
+        "Turkey": [
+            4.04305920640881,
+            15.1541703175199,
+            17.5866816873201
+        ]
+    },
+    "colors": {
+        "Montenegro": "#C71585",
+        "Myanmar": "#A0522D",
+        "Portugal": "#FFFF00",
+        "Turkey": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

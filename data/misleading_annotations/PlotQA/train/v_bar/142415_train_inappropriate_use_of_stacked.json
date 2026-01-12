@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of newborns who have received the vaccination for tetanus",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ecuador": "#f27979",
+        "El Salvador": "#f2f200",
+        "Ghana": "#79f279",
+        "Guatemala": "#00a5a5",
+        "Haiti": "#5252a5",
+        "Honduras": "#a500a5"
+    },
+    "data": {
+        "Ecuador": [
+            2.0
+        ],
+        "El Salvador": [
+            23.0
+        ],
+        "Ghana": [
+            3.0
+        ],
+        "Guatemala": [
+            1.0
+        ],
+        "Haiti": [
+            14.0
+        ],
+        "Honduras": [
+            7.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Ecuador": "#f27979",
+        "El Salvador": "#f2f200",
+        "Ghana": "#79f279",
+        "Guatemala": "#00a5a5",
+        "Haiti": "#5252a5",
+        "Honduras": "#a500a5"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Adult literacy rate among population of different countries with age above 15years",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Costa Rica": "#9ACD32",
+        "Libya": "#32CD32",
+        "Tunisia": "#8B008B"
+    },
+    "data": {
+        "Costa Rica": [
+            92.57713,
+            92.68214
+        ],
+        "Libya": [
+            42.31355,
+            76.99263
+        ],
+        "Tunisia": [
+            35.76757,
+            60.40723000000001
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

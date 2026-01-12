@@ -1,0 +1,72 @@
+{
+    "title": "Net Official DA received by a country",
+    "x_axis": {
+        "categories": [
+            "Thailand",
+            "Togo",
+            "Tonga",
+            "Tunisia",
+            "Turkey",
+            "Uganda"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#90EE90",
+        "1961": "#4169E1",
+        "1962": "#228B22"
+    },
+    "data": {
+        "1960": [
+            43780000.0,
+            110000.0,
+            10000.0,
+            51830000.0,
+            137310000.0,
+            20600000.0
+        ],
+        "1961": [
+            29340000.0,
+            2930000.0,
+            20000.0,
+            93820000.0,
+            188280000.0,
+            21230000.0
+        ],
+        "1962": [
+            37890000.0,
+            4530000.0,
+            70000.0,
+            70110000.0,
+            229590000.0,
+            28770000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 229590000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

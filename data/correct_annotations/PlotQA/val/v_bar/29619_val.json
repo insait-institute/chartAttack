@@ -1,0 +1,71 @@
+{
+    "title": "Participation of the population in various social programs organised in 2011",
+    "x_axis": {
+        "categories": [
+            "Chile",
+            "Costa Rica",
+            "Ecuador",
+            "El Salvador"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Social Awareness": "#6B8E23",
+        "Social Insurance": "#BA55D3",
+        "Social Protection": "#8B008B",
+        "Social Assistance": "#00CED1"
+    },
+    "data": {
+        "Social Awareness": [
+            0.589844094701568,
+            21.7640048039912,
+            0.256914928727819,
+            0.8372445090422049
+        ],
+        "Social Insurance": [
+            28.3104496205996,
+            23.657566156417,
+            9.61440839914004,
+            14.4033982302739
+        ],
+        "Social Protection": [
+            76.4787274664734,
+            45.3438802543435,
+            83.6797770827232,
+            51.59690511188661
+        ],
+        "Social Assistance": [
+            74.7325146977656,
+            18.6521436332286,
+            77.66233131089709,
+            43.9866328032433
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Child (ages 7-14) employment in various industries in 2003",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agriculture": "#f27979",
+        "Maunufacturing": "#00f200",
+        "Services": "#5252a5"
+    },
+    "data": {
+        "Agriculture": [
+            24.14
+        ],
+        "Maunufacturing": [
+            6.85
+        ],
+        "Services": [
+            66.9
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Agriculture": "#f27979",
+        "Maunufacturing": "#00f200",
+        "Services": "#5252a5"
+    }
+}

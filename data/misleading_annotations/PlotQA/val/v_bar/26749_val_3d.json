@@ -1,0 +1,56 @@
+{
+    "title": "Average working hours of children involved in studies (ages 7-14) in 2008",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Gambia, The": "#20B2AA",
+        "Nepal": "#D2691E",
+        "Zambia": "#00CED1"
+    },
+    "data": {
+        "Gambia, The": [
+            13.5,
+            13.3
+        ],
+        "Nepal": [
+            16.5,
+            16.2
+        ],
+        "Zambia": [
+            4.3,
+            4.2
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

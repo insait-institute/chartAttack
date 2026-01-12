@@ -1,0 +1,56 @@
+{
+    "title": "Expenditures made by country's government on remittances and education in 1988",
+    "legend": {
+        "Malta": "#C71585",
+        "Sri Lanka": "#00FA9A",
+        "United Kingdom": "#BDB76B"
+    },
+    "categories": [
+        "Personal remittances",
+        " received (% of GDP)"
+    ],
+    "data": {
+        "Malta": [
+            2.55924319599406,
+            3.33824
+        ],
+        "Sri Lanka": [
+            5.1253629293731,
+            2.82636
+        ],
+        "United Kingdom": [
+            0.178702852438891,
+            4.33847
+        ]
+    },
+    "colors": {
+        "Malta": "#C71585",
+        "Sri Lanka": "#00FA9A",
+        "United Kingdom": "#BDB76B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

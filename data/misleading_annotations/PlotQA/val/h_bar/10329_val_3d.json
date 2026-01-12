@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of total electricity produced from oil, gas and coal",
+    "legend": {
+        "1960": "#191970",
+        "1961": "#FF0000",
+        "1962": "#2E8B57"
+    },
+    "categories": [
+        "Poland",
+        "Portugal",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "Turkey"
+    ],
+    "data": {
+        "1960": [
+            97.8006966737245,
+            3.53766392192742,
+            16.0631782529279,
+            11.1804442408976,
+            0.8695652173913041,
+            62.9484902309059
+        ],
+        "1961": [
+            98.067617866005,
+            4.03624382207578,
+            23.4601015422933,
+            4.95178186166203,
+            0.8536025699862321,
+            56.52607107273329
+        ],
+        "1962": [
+            97.78588394977942,
+            7.30888429752066,
+            29.8275485701812,
+            4.02485210029951,
+            1.15334329473291,
+            67.1629213483146
+        ]
+    },
+    "colors": {
+        "1960": "#191970",
+        "1961": "#FF0000",
+        "1962": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

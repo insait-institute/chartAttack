@@ -1,0 +1,54 @@
+{
+    "title": "Child (ages 7-14) employment in various industries in 2003",
+    "x_axis": {
+        "categories": [
+            "Agriculture",
+            "Maunufacturing",
+            "Services"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chile": "#708090",
+        "Venezuela": "#8B008B"
+    },
+    "data": {
+        "Chile": [
+            24.14,
+            6.85,
+            66.9
+        ],
+        "Venezuela": [
+            25.9000450175,
+            8.0869201974,
+            63.5735751569
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

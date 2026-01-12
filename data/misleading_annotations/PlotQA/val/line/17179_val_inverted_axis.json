@@ -1,0 +1,79 @@
+{
+    "title": "Number of children died in Angola",
+    "legend": {
+        "Infant": "#FF8C00",
+        "Under-five": "#00CED1"
+    },
+    "x_axis": [
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994"
+    ],
+    "y_axis_label": "Number of deaths",
+    "data": [
+        {
+            "label": "Infant",
+            "color": "#FF8C00",
+            "values": [
+                66386,
+                67949,
+                69534,
+                71366,
+                73548,
+                75469,
+                77738,
+                80160,
+                82565
+            ]
+        },
+        {
+            "label": "Under-five",
+            "color": "#00CED1",
+            "values": [
+                111064,
+                113605,
+                116133,
+                118970,
+                122452,
+                126124,
+                130079,
+                133996,
+                137884
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 66380,
+                "max_value": 137890
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

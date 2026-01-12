@@ -1,0 +1,54 @@
+{
+    "title": "ED visits per 100,000 population",
+    "x_axis": {
+        "categories": [
+            "15-19",
+            "20-24",
+            "25-29",
+            "30-34",
+            "35-39",
+            "40-44"
+        ]
+    },
+    "y_axis": {
+        "label": "ED visits per 100,000 population"
+    },
+    "legend": {
+        "Default": "#2876dd"
+    },
+    "data": {
+        "Default": [
+            211,
+            766,
+            890,
+            660,
+            473,
+            381
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 890
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

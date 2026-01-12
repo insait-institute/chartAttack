@@ -1,0 +1,77 @@
+{
+    "title": "Adjusted net savings excluding particulate emission damage",
+    "legend": {
+        "Cote d'Ivoire": "#008080",
+        "Denmark": "#708090",
+        "Namibia": "#DC143C",
+        "Rwanda": "#191970"
+    },
+    "categories": [
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+    ],
+    "data": {
+        "Cote d'Ivoire": [
+            10.9983679777447,
+            8.77769367630331,
+            10.9930567639939,
+            10.5921556750086,
+            11.880481912535
+        ],
+        "Denmark": [
+            13.7368371189145,
+            14.126090994718,
+            14.6567616819296,
+            14.6053041763247,
+            14.6375140461542
+        ],
+        "Namibia": [
+            26.0322607084864,
+            24.2221861515957,
+            19.5114244582128,
+            22.6896978407347,
+            19.0233587186462
+        ],
+        "Rwanda": [
+            0.287317269849146,
+            -4.78483057145806,
+            -6.63112849470405,
+            -8.78096330396914,
+            -8.761761455510191
+        ]
+    },
+    "colors": {
+        "Cote d'Ivoire": "#008080",
+        "Denmark": "#708090",
+        "Namibia": "#DC143C",
+        "Rwanda": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

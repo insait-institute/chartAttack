@@ -1,0 +1,137 @@
+{
+    "title": "Rushing yards",
+    "legend": {
+        "Sam Cunningham": "#f27979",
+        "Jim Nance": "#f24800",
+        "Tony Collins": "#f2c179",
+        "Curtis Martin": "#f2da00",
+        "Kevin Faulk": "#daf279",
+        "Don Calhoun": "#79f200",
+        "John Stephens": "#91f279",
+        "Corey Dillon": "#00a510",
+        "Larry Garron": "#52a574",
+        "LeGarrette Blount": "#00a574",
+        "Stevan Ridley": "#52a5a5",
+        "Antowain Smith": "#0074a5",
+        "Craig James": "#5274a5",
+        "Leonard Russell": "#0010a5",
+        "Laurence Maroney": "#9179f2",
+        "Mosi Tatupu": "#7900f2",
+        "Sony Michel": "#da79f2",
+        "Carl Garrett": "#f200da",
+        "Steve Grogan": "#f279c1",
+        "BenJarvus Green-Ellis": "#f20048"
+    },
+    "categories": [
+        "Rushing yards"
+    ],
+    "data": {
+        "Sam Cunningham": [
+            5453.0
+        ],
+        "Jim Nance": [
+            5323.0
+        ],
+        "Tony Collins": [
+            4647.0
+        ],
+        "Curtis Martin": [
+            3799.0
+        ],
+        "Kevin Faulk": [
+            3607.0
+        ],
+        "Don Calhoun": [
+            3391.0
+        ],
+        "John Stephens": [
+            3249.0
+        ],
+        "Corey Dillon": [
+            3180.0
+        ],
+        "Larry Garron": [
+            2981.0
+        ],
+        "LeGarrette Blount": [
+            2917.0
+        ],
+        "Stevan Ridley": [
+            2817.0
+        ],
+        "Antowain Smith": [
+            2781.0
+        ],
+        "Craig James": [
+            2469.0
+        ],
+        "Leonard Russell": [
+            2437.0
+        ],
+        "Laurence Maroney": [
+            2430.0
+        ],
+        "Mosi Tatupu": [
+            2415.0
+        ],
+        "Sony Michel": [
+            2292.0
+        ],
+        "Carl Garrett": [
+            2235.0
+        ],
+        "Steve Grogan": [
+            2176.0
+        ],
+        "BenJarvus Green-Ellis": [
+            2064.0
+        ]
+    },
+    "colors": {
+        "Sam Cunningham": "#f27979",
+        "Jim Nance": "#f24800",
+        "Tony Collins": "#f2c179",
+        "Curtis Martin": "#f2da00",
+        "Kevin Faulk": "#daf279",
+        "Don Calhoun": "#79f200",
+        "John Stephens": "#91f279",
+        "Corey Dillon": "#00a510",
+        "Larry Garron": "#52a574",
+        "LeGarrette Blount": "#00a574",
+        "Stevan Ridley": "#52a5a5",
+        "Antowain Smith": "#0074a5",
+        "Craig James": "#5274a5",
+        "Leonard Russell": "#0010a5",
+        "Laurence Maroney": "#9179f2",
+        "Mosi Tatupu": "#7900f2",
+        "Sony Michel": "#da79f2",
+        "Carl Garrett": "#f200da",
+        "Steve Grogan": "#f279c1",
+        "BenJarvus Green-Ellis": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5460
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

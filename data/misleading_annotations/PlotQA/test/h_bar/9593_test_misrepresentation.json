@@ -1,0 +1,98 @@
+{
+    "title": "Percentage of urban population having access to drinking water",
+    "legend": {
+        "1990": "#556B2F",
+        "1991": "#006400",
+        "1992": "#7FFFD4"
+    },
+    "categories": [
+        "Tanzania",
+        "Thailand",
+        "Togo",
+        "Tonga",
+        "Trinidad and Tobago",
+        "Tunisia"
+    ],
+    "data": {
+        "1990": [
+            91.6,
+            95.9,
+            79.3,
+            97.4,
+            91.6,
+            95.7
+        ],
+        "1991": [
+            91.1,
+            96.0,
+            79.8,
+            97.4,
+            91.8,
+            95.9
+        ],
+        "1992": [
+            90.5,
+            96.1,
+            80.3,
+            97.4,
+            92.0,
+            96.1
+        ]
+    },
+    "colors": {
+        "1990": "#556B2F",
+        "1991": "#006400",
+        "1992": "#7FFFD4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1990": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1991": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1992": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

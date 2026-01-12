@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary  and secondary schools in countries",
+    "legend": {
+        "Guinea": "#f27979",
+        "Guinea-Bissau": "#c1f200",
+        "Guyana": "#52a574",
+        "Haiti": "#0042a5",
+        "Hungary": "#da79f2"
+    },
+    "categories": [
+        "Percentage of new entrants in the last grade of primary  and secondary schools in countries"
+    ],
+    "data": {
+        "Guinea": [
+            15.88194
+        ],
+        "Guinea-Bissau": [
+            7.426539999999998
+        ],
+        "Guyana": [
+            92.35472
+        ],
+        "Haiti": [
+            37.80276
+        ],
+        "Hungary": [
+            96.92975
+        ]
+    },
+    "colors": {
+        "Guinea": "#f27979",
+        "Guinea-Bissau": "#c1f200",
+        "Guyana": "#52a574",
+        "Haiti": "#0042a5",
+        "Hungary": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

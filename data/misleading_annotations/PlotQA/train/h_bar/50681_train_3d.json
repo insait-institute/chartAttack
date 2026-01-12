@@ -1,0 +1,60 @@
+{
+    "title": "Cash surplus or deficit in a country",
+    "legend": {
+        "Central African Republic": "#7FFFD4",
+        "Dominica": "#F4A460",
+        "Trinidad and Tobago": "#CD853F"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Central African Republic": [
+            -8603605073.399109,
+            -57417896255.0429,
+            -88741648963.95
+        ],
+        "Dominica": [
+            -33500000.0,
+            -28100000.0,
+            -83500000.0
+        ],
+        "Trinidad and Tobago": [
+            3771000000.0,
+            -6009600000.0,
+            -2091400000.0
+        ]
+    },
+    "colors": {
+        "Central African Republic": "#7FFFD4",
+        "Dominica": "#F4A460",
+        "Trinidad and Tobago": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3771000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

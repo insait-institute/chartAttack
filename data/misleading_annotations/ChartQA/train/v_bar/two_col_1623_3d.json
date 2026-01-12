@@ -1,0 +1,78 @@
+{
+    "title": "Number of slots in thousands",
+    "x_axis": {
+        "categories": [
+            "1965",
+            "1970",
+            "1975",
+            "1980",
+            "1985",
+            "1990",
+            "1995",
+            "2000",
+            "2005",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of slots in thousands"
+    },
+    "legend": {
+        "Data": "#2876dd"
+    },
+    "data": {
+        "Data": [
+            25.45,
+            35.17,
+            48.76,
+            80.96,
+            104,
+            148.52,
+            182.18,
+            213.8,
+            206.01,
+            191.45,
+            187.37,
+            182.57,
+            179.84,
+            175.46,
+            171.1,
+            167.69,
+            165,
+            164.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 220
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

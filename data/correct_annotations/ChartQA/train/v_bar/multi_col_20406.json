@@ -1,0 +1,102 @@
+{
+    "title": "Retail sales in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Retail sales in million U.S. dollars"
+    },
+    "legend": {
+        "Asia/Pacific": "#2876dd",
+        "Americas": "#0f283e",
+        "Europe": "#bababa",
+        "South & Central America": "#a60b0b",
+        "Africa/Middle East": "#87bc24"
+    },
+    "data": {
+        "Asia/Pacific": [
+            73276,
+            77569,
+            81542,
+            84084,
+            83750,
+            85381,
+            89168,
+            78900
+        ],
+        "Americas": [
+            66448,
+            68049,
+            67431,
+            62934,
+            60898,
+            64041,
+            62438,
+            61758
+        ],
+        "Europe": [
+            25892,
+            31620,
+            32609,
+            35427,
+            36548,
+            38469,
+            39558,
+            37908
+        ],
+        "South & Central America": [
+            32594,
+            33360,
+            31136,
+            25181,
+            23441,
+            27149,
+            25140,
+            24068
+        ],
+        "Africa/Middle East": [
+            1260,
+            1284,
+            1241,
+            1283,
+            1360,
+            1751,
+            1786,
+            1913
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 89170
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

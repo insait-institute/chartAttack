@@ -1,0 +1,89 @@
+{
+    "title": "Agricultural methane and nitrous oxide emissions by Latin America(all income levels)",
+    "legend": {
+        "Methane emissions": "#8B008B",
+        "Nitrous oxide emissions": "#A52A2A"
+    },
+    "x_axis": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "y_axis_label": "Agricultural emissions (as % of total)",
+    "data": [
+        {
+            "label": "Methane emissions",
+            "color": "#8B008B",
+            "values": [
+                64.63461741287409,
+                64.4372038787388,
+                59.55681856700371,
+                66.0198624937565,
+                65.3798266841274
+            ]
+        },
+        {
+            "label": "Nitrous oxide emissions",
+            "color": "#A52A2A",
+            "values": [
+                72.2550828708207,
+                75.07774203161141,
+                71.3416950369721,
+                80.7296960272321,
+                80.25767663842029
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Methane emissions",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Nitrous oxide emissions",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

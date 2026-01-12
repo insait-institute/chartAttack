@@ -1,0 +1,62 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy in 1990",
+    "legend": {
+        "Brunei Darussalam": "#32CD32",
+        "Guinea-Bissau": "#00FFFF",
+        "Korea (Democratic)": "#9ACD32",
+        "Togo": "#DC143C"
+    },
+    "categories": [
+        "Merchandise exports",
+        "Merchandise imports"
+    ],
+    "data": {
+        "Brunei Darussalam": [
+            2211970637,
+            1000160883
+        ],
+        "Guinea-Bissau": [
+            34109871.47,
+            124305918.1
+        ],
+        "Korea (Democratic)": [
+            923627104,
+            1325774758
+        ],
+        "Togo": [
+            266723000,
+            581046000
+        ]
+    },
+    "colors": {
+        "Brunei Darussalam": "#32CD32",
+        "Guinea-Bissau": "#00FFFF",
+        "Korea (Democratic)": "#9ACD32",
+        "Togo": "#DC143C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2211970640
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

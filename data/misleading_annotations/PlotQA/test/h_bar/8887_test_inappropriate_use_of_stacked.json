@@ -1,0 +1,57 @@
+{
+    "title": "Ores,manufactures and fuel imports of different countries in 2011",
+    "legend": {
+        "Belgium": "#f27979",
+        "Belize": "#79f200",
+        "Benin": "#52a5a5",
+        "Bermuda": "#5200a5"
+    },
+    "categories": [
+        "Ores,manufactures and fuel imports of different countries in 2011"
+    ],
+    "data": {
+        "Belgium": [
+            4.50465900589941
+        ],
+        "Belize": [
+            0.339828732535607
+        ],
+        "Benin": [
+            0.692335617859925
+        ],
+        "Bermuda": [
+            0.406129393476561
+        ]
+    },
+    "colors": {
+        "Belgium": "#f27979",
+        "Belize": "#79f200",
+        "Benin": "#52a5a5",
+        "Bermuda": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

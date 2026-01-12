@@ -1,0 +1,67 @@
+{
+    "title": "Net disbursements of loans from government",
+    "legend": {
+        "1983": "#f27979",
+        "1984": "#f2f200",
+        "1985": "#79f279",
+        "1986": "#00a5a5",
+        "1987": "#5252a5",
+        "1988": "#a500a5"
+    },
+    "categories": [
+        "Net disbursements of loans from government"
+    ],
+    "data": {
+        "1983": [
+            13025963295.8
+        ],
+        "1984": [
+            10293222300.5
+        ],
+        "1985": [
+            8773181409.8
+        ],
+        "1986": [
+            8983648168.6
+        ],
+        "1987": [
+            9954771924.3
+        ],
+        "1988": [
+            7193088919.1
+        ]
+    },
+    "colors": {
+        "1983": "#f27979",
+        "1984": "#f2f200",
+        "1985": "#79f279",
+        "1986": "#00a5a5",
+        "1987": "#5252a5",
+        "1988": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 13025963300
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

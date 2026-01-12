@@ -1,0 +1,73 @@
+{
+    "title": "Percentage of female workers employed in Agricultural sector",
+    "legend": {
+        "1980": "#8A2BE2",
+        "1981": "#FFA07A"
+    },
+    "categories": [
+        "Portugal",
+        "Romania",
+        "Spain",
+        "Sweden",
+        "Switzerland",
+        "United Kingdom"
+    ],
+    "data": {
+        "1980": [
+            35.0999984741211,
+            39.2999992370605,
+            18.3999996185303,
+            3.09999990463257,
+            5.09999990463257,
+            1.29999995231628
+        ],
+        "1981": [
+            34.2000007629395,
+            38.5,
+            17.7000007629395,
+            3.20000004768372,
+            5.300000190734862,
+            1.20000004768372
+        ]
+    },
+    "colors": {
+        "1980": "#8A2BE2",
+        "1981": "#FFA07A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 1.29999995231628,
+                "max_value": 39.2999992370605
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 1.20000004768372,
+                "max_value": 38.5
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

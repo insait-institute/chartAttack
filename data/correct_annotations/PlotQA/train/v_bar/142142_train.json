@@ -1,0 +1,61 @@
+{
+    "title": "Split of tax revenue collected by government in 1995",
+    "x_axis": {
+        "categories": [
+            "Taxes on exports",
+            "Taxes on profits and capital gains"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Azerbaijan": "#BDB76B",
+        "Indonesia": "#FFA500",
+        "Maldives": "#BC8F8F",
+        "Sri Lanka": "#FFFF00"
+    },
+    "data": {
+        "Azerbaijan": [
+            16.19012069829601,
+            30.8570518710324
+        ],
+        "Indonesia": [
+            0.291902071563089,
+            58.18581293157561
+        ],
+        "Maldives": [
+            0.219263899765074,
+            3.00704776820673
+        ],
+        "Sri Lanka": [
+            0.00674860599107497,
+            14.4766034266047
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

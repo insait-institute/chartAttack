@@ -1,0 +1,71 @@
+{
+    "title": "Total enrollments in schools as per the survey of 1986 conducted in different countries",
+    "x_axis": {
+        "categories": [
+            "Pre-primary schools",
+            "Primary schools",
+            "Secondary schools",
+            "Tertiary schools"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "South Asia": "#20B2AA",
+        "Belgium": "#6495ED",
+        "Kuwait": "#87CEEB",
+        "Latvia": "#FFFF00"
+    },
+    "data": {
+        "South Asia": [
+            13.478630065918,
+            83.01580810546879,
+            33.7951698303223,
+            5.44924020767212
+        ],
+        "Belgium": [
+            110.47058,
+            98.94764,
+            100.76336,
+            31.76913
+        ],
+        "Kuwait": [
+            48.36761,
+            104.94209,
+            87.82681,
+            16.04081
+        ],
+        "Latvia": [
+            67.01874000000001,
+            100.47258,
+            103.3065,
+            23.16787
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

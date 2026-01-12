@@ -1,0 +1,56 @@
+{
+    "title": "Total earnings from merchandise exports and imports in 1981",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Chad": "#8B008B",
+        "Grenada": "#BDB76B",
+        "Niger": "#A52A2A"
+    },
+    "data": {
+        "Chad": [
+            83000000,
+            108000000
+        ],
+        "Grenada": [
+            19000000,
+            54000000
+        ],
+        "Niger": [
+            455000000,
+            510000000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 510000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

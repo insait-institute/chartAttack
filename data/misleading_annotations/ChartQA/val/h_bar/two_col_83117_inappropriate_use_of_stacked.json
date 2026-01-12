@@ -1,0 +1,112 @@
+{
+    "title": "",
+    "legend": {
+        "Porsche": "#f27979",
+        "MG": "#f26000",
+        "Subaru": "#f2da79",
+        "Jaguar": "#c1f200",
+        "BMW": "#a9f279",
+        "Mazda": "#00f200",
+        "MINI": "#52a574",
+        "Alfa Romeo": "#00a584",
+        "Ford": "#5295a5",
+        "Skoda": "#0042a5",
+        "Audi": "#5252a5",
+        "Peugeot": "#4200a5",
+        "Renault": "#da79f2",
+        "SEAT": "#f200c1",
+        "Mercedes": "#f279a9"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Porsche": [
+            98.26
+        ],
+        "MG": [
+            96.5
+        ],
+        "Subaru": [
+            94.14
+        ],
+        "Jaguar": [
+            93.61
+        ],
+        "BMW": [
+            92.12
+        ],
+        "Mazda": [
+            91.78
+        ],
+        "MINI": [
+            91.63
+        ],
+        "Alfa Romeo": [
+            91.43
+        ],
+        "Ford": [
+            89.82
+        ],
+        "Skoda": [
+            89.71
+        ],
+        "Audi": [
+            89.24
+        ],
+        "Peugeot": [
+            88.05
+        ],
+        "Renault": [
+            87.95
+        ],
+        "SEAT": [
+            87.95
+        ],
+        "Mercedes": [
+            87.72
+        ]
+    },
+    "colors": {
+        "Porsche": "#f27979",
+        "MG": "#f26000",
+        "Subaru": "#f2da79",
+        "Jaguar": "#c1f200",
+        "BMW": "#a9f279",
+        "Mazda": "#00f200",
+        "MINI": "#52a574",
+        "Alfa Romeo": "#00a584",
+        "Ford": "#5295a5",
+        "Skoda": "#0042a5",
+        "Audi": "#5252a5",
+        "Peugeot": "#4200a5",
+        "Renault": "#da79f2",
+        "SEAT": "#f200c1",
+        "Mercedes": "#f279a9"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Number of passenger entries and exits",
+    "x_axis": {
+        "categories": [
+            "2004/05",
+            "2005/06",
+            "2006/07",
+            "2007/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of passenger entries and exits"
+    },
+    "legend": {
+        "Passenger Entries/Exits": "#2876dd"
+    },
+    "data": {
+        "Passenger Entries/Exits": [
+            16243912,
+            17303169,
+            14525873,
+            17007185,
+            25191945,
+            25267757,
+            24686632,
+            31235638,
+            32090346,
+            34748984,
+            35312788,
+            39077018,
+            42366776
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 42366780
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

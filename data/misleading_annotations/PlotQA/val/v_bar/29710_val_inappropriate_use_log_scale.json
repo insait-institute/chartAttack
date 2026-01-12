@@ -1,0 +1,66 @@
+{
+    "title": "Total CO2 emission from different fuels in 2003",
+    "x_axis": {
+        "categories": [
+            "Gaseous fuel",
+            "Liquid fuel",
+            "Solid fuel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "OECD members": "#00CED1",
+        "Greece": "#708090",
+        "Latvia": "#556B2F",
+        "New Caledonia": "#00BFFF"
+    },
+    "data": {
+        "OECD members": [
+            12978433.417,
+            5652390.807,
+            4313587.442
+        ],
+        "Greece": [
+            95738.036,
+            48664.75700000001,
+            35129.86
+        ],
+        "Latvia": [
+            7088.311,
+            3527.654,
+            330.03
+        ],
+        "New Caledonia": [
+            2750.25,
+            1866.503,
+            832.409
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12978440
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

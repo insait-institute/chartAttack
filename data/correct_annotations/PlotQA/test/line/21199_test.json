@@ -1,0 +1,106 @@
+{
+    "title": "Percentage of female pupils at different levels of education in Kyrgyz Republic",
+    "legend": {
+        "Primary education": "#E9967A",
+        "Tertiary education": "#FFA500",
+        "Secondary general education": "#F0E68C",
+        "Secondary vocational education": "#4169E1"
+    },
+    "x_axis": [
+        "1990",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+    ],
+    "y_axis_label": "Female students (as % of total students)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#E9967A",
+            "values": [
+                50.02934000000001,
+                49.85727,
+                49.71937,
+                49.91421,
+                49.67284,
+                48.69525,
+                48.19717,
+                47.89435
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "color": "#FFA500",
+            "values": [
+                49.5582,
+                50.27641,
+                50.27709,
+                50.1023101806641,
+                50.2399711608887,
+                49.50090026855471,
+                49.55416107177729,
+                49.6663589477539
+            ]
+        },
+        {
+            "label": "Secondary general education",
+            "color": "#F0E68C",
+            "values": [
+                49.52681,
+                50.30797000000001,
+                50.30818,
+                50.54589,
+                51.18458,
+                51.11556,
+                52.41706,
+                50.7112312316895
+            ]
+        },
+        {
+            "label": "Secondary vocational education",
+            "color": "#4169E1",
+            "values": [
+                49.90758,
+                49.90099,
+                49.89858,
+                35.5687294006348,
+                35.5205612182617,
+                35.9255485534667,
+                36.06531906127921,
+                35.64608001708979
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

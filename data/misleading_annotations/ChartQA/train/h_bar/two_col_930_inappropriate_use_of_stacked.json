@@ -1,0 +1,87 @@
+{
+    "title": "Number of Instagram followers in millions",
+    "legend": {
+        "Kylie Cosmetics": "#f27979",
+        "Anastasia Beverly Hills": "#f29100",
+        "Benefit Cosmetics US": "#daf279",
+        "NARS Cosmetics": "#30f200",
+        "Ulta Beauty": "#52a574",
+        "Bath Body Works": "#00a5a5",
+        "KKW BEAUTY": "#5274a5",
+        "beccacosmetics": "#2100a5",
+        "Vult": "#da79f2",
+        "Pat McGrath": "#f20091"
+    },
+    "categories": [
+        "Number of Instagram followers in millions"
+    ],
+    "data": {
+        "Kylie Cosmetics": [
+            25.37
+        ],
+        "Anastasia Beverly Hills": [
+            20.01
+        ],
+        "Benefit Cosmetics US": [
+            10.17
+        ],
+        "NARS Cosmetics": [
+            7.96
+        ],
+        "Ulta Beauty": [
+            6.84
+        ],
+        "Bath Body Works": [
+            5.75
+        ],
+        "KKW BEAUTY": [
+            4.45
+        ],
+        "beccacosmetics": [
+            4.0
+        ],
+        "Vult": [
+            3.75
+        ],
+        "Pat McGrath": [
+            3.18
+        ]
+    },
+    "colors": {
+        "Kylie Cosmetics": "#f27979",
+        "Anastasia Beverly Hills": "#f29100",
+        "Benefit Cosmetics US": "#daf279",
+        "NARS Cosmetics": "#30f200",
+        "Ulta Beauty": "#52a574",
+        "Bath Body Works": "#00a5a5",
+        "KKW BEAUTY": "#5274a5",
+        "beccacosmetics": "#2100a5",
+        "Vult": "#da79f2",
+        "Pat McGrath": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,58 @@
+{
+    "title": "Percentage of repeaters in secondary general education of Czech Republic",
+    "legend": {
+        "Female": "#BA55D3",
+        "Male": "#663399"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "data": {
+        "Female": [
+            0.6758300065994259,
+            0.697239995002747,
+            0.6620500087738039,
+            0.7049099802970891,
+            2.56861996650696
+        ],
+        "Male": [
+            1.24213004112244,
+            1.21221005916595,
+            1.11462998390198,
+            1.17929995059967,
+            4.596049785614009
+        ]
+    },
+    "colors": {
+        "Female": "#BA55D3",
+        "Male": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

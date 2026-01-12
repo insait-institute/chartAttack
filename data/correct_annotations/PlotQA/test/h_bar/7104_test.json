@@ -1,0 +1,59 @@
+{
+    "title": "Amount earned/paid by the government of Eritrea for trading goods",
+    "legend": {
+        "Exports": "#8B4513",
+        "Imports": "#00FF00"
+    },
+    "categories": [
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "Exports": [
+            107128425.899129,
+            64838371.4953666,
+            65682367.4021109,
+            76321256.9065078,
+            82981112.3419034
+        ],
+        "Imports": [
+            829432299.6519929,
+            844331140.959939,
+            571779803.6703969,
+            655330607.5012,
+            667696137.180498
+        ]
+    },
+    "colors": {
+        "Exports": "#8B4513",
+        "Imports": "#00FF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 844331150
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

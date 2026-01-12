@@ -1,0 +1,82 @@
+{
+    "title": "Net official aid flow in an economy from WHO",
+    "legend": {
+        "2009": "#A52A2A",
+        "2010": "#CD5C5C",
+        "2011": "#8FBC8F",
+        "2012": "#FF4500"
+    },
+    "categories": [
+        "Latin America(developing only)",
+        "Low & middle income",
+        "Middle income",
+        "Sub-Saharan Africa (all income levels)",
+        "Sub-Saharan Africa (developing only)",
+        "World"
+    ],
+    "data": {
+        "2009": [
+            41570000.0,
+            436790000.0,
+            20800000.0,
+            103620000.0,
+            103620000.0,
+            436790000.0
+        ],
+        "2010": [
+            37560000.0,
+            366240000.0,
+            25070000.0,
+            89760000.0,
+            89760000.0,
+            366240000.0
+        ],
+        "2011": [
+            38980000.0,
+            451590000.0,
+            89980000.0,
+            106150000.0,
+            105480000.0,
+            452260000.0
+        ],
+        "2012": [
+            37580000.0,
+            396280000.0,
+            83180000.0,
+            90570000.0,
+            89850000.0,
+            397000000.0
+        ]
+    },
+    "colors": {
+        "2009": "#A52A2A",
+        "2010": "#CD5C5C",
+        "2011": "#8FBC8F",
+        "2012": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 452260000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

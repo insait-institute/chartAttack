@@ -1,0 +1,76 @@
+{
+    "title": "CO2 emissions from gaseous fuel consumption",
+    "x_axis": {
+        "categories": [
+            "European Union",
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: OECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#D2B48C",
+        "1961": "#B8860B",
+        "1962": "#00FF00",
+        "1963": "#663399"
+    },
+    "data": {
+        "1960": [
+            2359869.70113928,
+            33028.9125894136,
+            19481.4023207302,
+            6832548.96656289,
+            5668393.5355214
+        ],
+        "1961": [
+            2446230.5364823,
+            32574.3662205769,
+            20522.2608596829,
+            6975252.56155742,
+            5784145.13499203
+        ],
+        "1962": [
+            2587557.24067747,
+            35414.5188756238,
+            20556.9561443147,
+            7299531.74384019,
+            6042262.18433566
+        ],
+        "1963": [
+            2763983.13296007,
+            36308.9350847532,
+            21737.9428925045,
+            7699373.73600998,
+            6378499.26676394
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7699380
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Amount spent on the transport and travel items of international tourists visited in 2002",
+    "legend": {
+        "Passenger Transport Items": "#F0E68C",
+        "Travel Items": "#8A2BE2"
+    },
+    "categories": [
+        "Ghana",
+        "Greece",
+        "Guatemala",
+        "Guinea",
+        "Guinea-Bissau"
+    ],
+    "data": {
+        "Passenger Transport Items": [
+            65000000.0,
+            17000000.0,
+            53000000.0,
+            7000000.0,
+            5100000.0
+        ],
+        "Travel Items": [
+            295000000.0,
+            364000000.0,
+            1266000000.0,
+            191000000.0,
+            231000000.0
+        ]
+    },
+    "colors": {
+        "Passenger Transport Items": "#F0E68C",
+        "Travel Items": "#8A2BE2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1266000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

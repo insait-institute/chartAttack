@@ -1,0 +1,72 @@
+{
+    "title": "Gross intake ratio of male students to Grade 1 of primary education",
+    "legend": {
+        "Estonia": "#7FFFD4",
+        "Israel": "#6B8E23",
+        "Mozambique": "#FFA07A",
+        "Tunisia": "#FFA500"
+    },
+    "categories": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Estonia": [
+            99.60568237304692,
+            97.8874282836914,
+            94.496238708496,
+            98.8960800170898
+        ],
+        "Israel": [
+            98.1869583129883,
+            104.575157165527,
+            100.181701660156,
+            101.701538085938
+        ],
+        "Mozambique": [
+            155.149963378906,
+            159.859603881836,
+            155.694854736328,
+            156.670684814453
+        ],
+        "Tunisia": [
+            104.459083557129,
+            106.280250549316,
+            105.148406982422,
+            107.828971862793
+        ]
+    },
+    "colors": {
+        "Estonia": "#7FFFD4",
+        "Israel": "#6B8E23",
+        "Mozambique": "#FFA07A",
+        "Tunisia": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 160
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

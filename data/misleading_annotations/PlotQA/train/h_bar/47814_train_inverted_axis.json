@@ -1,0 +1,60 @@
+{
+    "title": "Insurance provided to residents by nonresident insurance enterprises outside a country",
+    "legend": {
+        "2005": "#A0522D",
+        "2006": "#FF4500",
+        "2007": "#8B0000"
+    },
+    "categories": [
+        "Iceland",
+        "India",
+        "Indonesia"
+    ],
+    "data": {
+        "2005": [
+            15.3185239861328,
+            3.99412563179736,
+            2.93871941236333
+        ],
+        "2006": [
+            34.2698715176216,
+            4.99735631061805,
+            2.34804579027248
+        ],
+        "2007": [
+            34.0888540860705,
+            5.643358198870041,
+            2.81128678175161
+        ]
+    },
+    "colors": {
+        "2005": "#A0522D",
+        "2006": "#FF4500",
+        "2007": "#8B0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

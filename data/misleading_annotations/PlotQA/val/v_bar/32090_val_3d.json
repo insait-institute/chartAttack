@@ -1,0 +1,50 @@
+{
+    "title": "Total agricultural land in different countries as per the survey report of the year 1980",
+    "x_axis": {
+        "categories": [
+            "Dominican Republic",
+            "Ecuador",
+            "Egypt, Arab Rep.",
+            "El Salvador"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agricultural land (sq. km)": "#ADFF2F"
+    },
+    "data": {
+        "Agricultural land (sq. km)": [
+            26200,
+            64780,
+            24450,
+            14100
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 64780
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

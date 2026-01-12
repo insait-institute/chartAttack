@@ -1,0 +1,81 @@
+{
+    "title": "Net official aid flow in an economy from UNTA",
+    "legend": {
+        "Europe(all income levels)": "#00CED1",
+        "Afghanistan": "#008B8B",
+        "Djibouti": "#A0522D",
+        "Marshall Islands": "#4B0082"
+    },
+    "categories": [
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+    ],
+    "data": {
+        "Europe(all income levels)": [
+            14330000,
+            18090000,
+            19060000,
+            16530000,
+            17360000,
+            17390000
+        ],
+        "Afghanistan": [
+            4110000.0,
+            2350000.0,
+            3830000.0,
+            3360000.0,
+            3600000.0,
+            4180000.0
+        ],
+        "Djibouti": [
+            1250000.0,
+            670000.0,
+            1370000.0,
+            1220000.0,
+            840000.0,
+            1230000.0
+        ],
+        "Marshall Islands": [
+            140000.0,
+            170000.0,
+            160000.0,
+            140000.0,
+            200000.0,
+            90000.0
+        ]
+    },
+    "colors": {
+        "Europe(all income levels)": "#00CED1",
+        "Afghanistan": "#008B8B",
+        "Djibouti": "#A0522D",
+        "Marshall Islands": "#4B0082"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 19060000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

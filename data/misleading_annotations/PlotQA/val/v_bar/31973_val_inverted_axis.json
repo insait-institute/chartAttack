@@ -1,0 +1,54 @@
+{
+    "title": "Remittances received by the government employees of different countries in 1975",
+    "x_axis": {
+        "categories": [
+            "Upper middle income",
+            "World",
+            "Algeria",
+            "Australia",
+            "Austria",
+            "Barbados"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Personal remittances": "#DB7093"
+    },
+    "data": {
+        "Personal remittances": [
+            1991654966.785,
+            10202871309.1201,
+            266000000.0,
+            286614196.8,
+            87247398.38,
+            9213089.943
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10202871310
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

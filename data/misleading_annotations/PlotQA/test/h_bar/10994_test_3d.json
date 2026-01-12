@@ -1,0 +1,60 @@
+{
+    "title": "Child (ages 7-14) employment in various industries in Nicaragua",
+    "legend": {
+        "Agriculture": "#FF4500",
+        "Maunufacturing": "#000000",
+        "Services": "#8FBC8F"
+    },
+    "categories": [
+        "2001",
+        "2005",
+        "2010"
+    ],
+    "data": {
+        "Agriculture": [
+            62.4051744298,
+            70.46,
+            57.83
+        ],
+        "Maunufacturing": [
+            4.888347761399999,
+            9.65,
+            7.75
+        ],
+        "Services": [
+            32.3109508864,
+            19.34,
+            33.43
+        ]
+    },
+    "colors": {
+        "Agriculture": "#FF4500",
+        "Maunufacturing": "#000000",
+        "Services": "#8FBC8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

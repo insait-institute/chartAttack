@@ -1,0 +1,64 @@
+{
+    "title": "Value added in manufacturing (as % of GDP) in Sudan's economy",
+    "legend": {
+        "Machinery": "#00FA9A",
+        "Transport equipments": "#B8860B",
+        "Textiles and clothing": "#2E8B57"
+    },
+    "categories": [
+        "1970",
+        "1972",
+        "1976",
+        "2001"
+    ],
+    "data": {
+        "Machinery": [
+            1.98313198700036,
+            2.18832089219859,
+            0.6374764545606469,
+            4.15772942266318
+        ],
+        "Transport equipments": [
+            24.6313504380364,
+            23.9334084714827,
+            23.4392677952514,
+            20.7676669466973
+        ],
+        "Textiles and clothing": [
+            35.4089222607136,
+            34.7347629220531,
+            38.4594670724424,
+            36.3243514627681
+        ]
+    },
+    "colors": {
+        "Machinery": "#00FA9A",
+        "Transport equipments": "#B8860B",
+        "Textiles and clothing": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

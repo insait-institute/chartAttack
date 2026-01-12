@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of unemployed female labor force of countries in 2014",
+    "legend": {
+        "Unemployment female": "#2E8B57"
+    },
+    "categories": [
+        "High income",
+        "High income: nonOECD",
+        "High income: OECD",
+        "Latin America(all income levels)",
+        "Latin America(developing only)",
+        "Lower middle income"
+    ],
+    "data": {
+        "Unemployment female": [
+            7.2840853028949,
+            6.459656579124348,
+            7.484933344893429,
+            7.00378866873392,
+            6.821539942905459,
+            6.78707709794318
+        ]
+    },
+    "colors": {
+        "Unemployment female": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Unemployment female": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

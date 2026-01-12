@@ -1,0 +1,71 @@
+{
+    "title": "Natural gas rents as percent of GDP towards fuel resources",
+    "x_axis": {
+        "categories": [
+            "Egypt, Arab Rep.",
+            "France",
+            "Germany",
+            "India"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#00FA9A",
+        "1971": "#00CED1",
+        "1972": "#E9967A",
+        "1973": "#FFA07A"
+    },
+    "data": {
+        "1970": [
+            0.0110648093194717,
+            0.0466730794692075,
+            0.0530443046096912,
+            0.0101241960048993
+        ],
+        "1971": [
+            0.0115328768117648,
+            0.0489396192371795,
+            0.0655724146457537,
+            0.0111901889209482
+        ],
+        "1972": [
+            0.00964406530950077,
+            0.0436402500481137,
+            0.0695846003468729,
+            0.012246045530713
+        ],
+        "1973": [
+            0.0087603273200764,
+            0.0420156989563312,
+            0.0734200844434431,
+            0.0126913151417437
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

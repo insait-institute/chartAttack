@@ -1,0 +1,67 @@
+{
+    "title": "Plot of number of days required to import the goods",
+    "legend": {
+        "Latin America(developing only)": "#f27979",
+        "Least developed countries": "#f2f200",
+        "Low & middle income": "#79f279",
+        "Low income": "#00a5a5",
+        "Lower middle income": "#5252a5",
+        "Middle East & North Africa (all income levels)": "#a500a5"
+    },
+    "categories": [
+        "Plot of number of days required to import the goods"
+    ],
+    "data": {
+        "Latin America(developing only)": [
+            4.80666666666667
+        ],
+        "Least developed countries": [
+            10.9578947368421
+        ],
+        "Low & middle income": [
+            7.057627118644072
+        ],
+        "Low income": [
+            12.9857142857143
+        ],
+        "Lower middle income": [
+            5.635
+        ],
+        "Middle East & North Africa (all income levels)": [
+            5.28
+        ]
+    },
+    "colors": {
+        "Latin America(developing only)": "#f27979",
+        "Least developed countries": "#f2f200",
+        "Low & middle income": "#79f279",
+        "Low income": "#00a5a5",
+        "Lower middle income": "#5252a5",
+        "Middle East & North Africa (all income levels)": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

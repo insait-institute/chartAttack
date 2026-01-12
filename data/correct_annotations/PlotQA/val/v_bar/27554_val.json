@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of firms either registered or unregistered in different countries",
+    "x_axis": {
+        "categories": [
+            "Competing against unregistered firms",
+            "Formally registered"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "El Salvador": "#008B8B",
+        "Nicaragua": "#191970",
+        "Paraguay": "#CD853F"
+    },
+    "data": {
+        "El Salvador": [
+            73.8,
+            79.5
+        ],
+        "Nicaragua": [
+            73.4,
+            85.4
+        ],
+        "Paraguay": [
+            76.7,
+            94.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

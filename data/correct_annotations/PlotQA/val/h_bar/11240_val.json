@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of children (under age 5) infected with anaemia",
+    "legend": {
+        "Pacific island small states": "#00CED1",
+        "Sub-Saharan Africa (developing only)": "#4682B4",
+        "Greece": "#9ACD32"
+    },
+    "categories": [
+        "1993",
+        "1994",
+        "1995"
+    ],
+    "data": {
+        "Pacific island small states": [
+            38.61614143935729,
+            37.379205430017,
+            36.2624515137275
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            74.1455231072401,
+            73.83260477287509,
+            73.4400555017273
+        ],
+        "Greece": [
+            15.9,
+            15.1,
+            14.4
+        ]
+    },
+    "colors": {
+        "Pacific island small states": "#00CED1",
+        "Sub-Saharan Africa (developing only)": "#4682B4",
+        "Greece": "#9ACD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

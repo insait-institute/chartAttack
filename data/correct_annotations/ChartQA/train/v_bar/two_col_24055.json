@@ -1,0 +1,58 @@
+{
+    "title": "Retail sales in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017"
+        ]
+    },
+    "y_axis": {
+        "label": "Retail sales in million U.S. dollars"
+    },
+    "legend": {
+        "Retail Sales": "#2876dd"
+    },
+    "data": {
+        "Retail Sales": [
+            3589.2,
+            3780.7,
+            4025.5,
+            4207.1,
+            4424.9,
+            4664.2,
+            4797.3,
+            5012.8
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5020
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

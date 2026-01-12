@@ -1,0 +1,67 @@
+{
+    "title": "Total earnings of Thailand by trading goods and services",
+    "legend": {
+        "Goods": "#90EE90",
+        "Services": "#6495ED"
+    },
+    "x_axis": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "y_axis_label": "Total Trade (current US$)",
+    "data": [
+        {
+            "label": "Goods",
+            "color": "#90EE90",
+            "values": [
+                26630654290,
+                17393716738,
+                32607312700,
+                29667166582,
+                16990794509
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#6495ED",
+            "values": [
+                18672989306,
+                4500333228,
+                26249205413,
+                18964131501,
+                6427755421
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 4500333220,
+                "max_value": 32607312700
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

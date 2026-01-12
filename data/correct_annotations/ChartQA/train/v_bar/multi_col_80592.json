@@ -1,0 +1,66 @@
+{
+    "title": "Number of fatalities",
+    "x_axis": {
+        "categories": [
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of fatalities"
+    },
+    "legend": {
+        "Fatalities (excl. suicide)": "#2876dd",
+        "Suicide fatalities": "#0f283e"
+    },
+    "data": {
+        "Fatalities (excl. suicide)": [
+            40,
+            49,
+            46,
+            39,
+            49,
+            40,
+            31
+        ],
+        "Suicide fatalities": [
+            275,
+            286,
+            251,
+            237,
+            250,
+            271,
+            283
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 290
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

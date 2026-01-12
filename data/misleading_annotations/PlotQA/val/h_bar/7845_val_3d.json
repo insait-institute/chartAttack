@@ -1,0 +1,64 @@
+{
+    "title": "Investment in Telecom",
+    "legend": {
+        "Colombia": "#483D8B",
+        "Guyana": "#FF00FF",
+        "Namibia": "#00CED1"
+    },
+    "categories": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "data": {
+        "Colombia": [
+            485800000.0,
+            544800000.0,
+            26000000.0,
+            110500000.0
+        ],
+        "Guyana": [
+            10400000.0,
+            10400000.0,
+            10400000.0,
+            11000000.0
+        ],
+        "Namibia": [
+            8750000.0,
+            8750000.0,
+            8750000.0,
+            8750000.0
+        ]
+    },
+    "colors": {
+        "Colombia": "#483D8B",
+        "Guyana": "#FF00FF",
+        "Namibia": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 544800000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

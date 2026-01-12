@@ -1,0 +1,57 @@
+{
+    "title": "Number of tuberculosis cases reported in 2004",
+    "legend": {
+        "Bermuda": "#f27979",
+        "Bhutan": "#79f200",
+        "Bolivia": "#52a5a5",
+        "Bosnia and Herzegovina": "#5200a5"
+    },
+    "categories": [
+        "Number of tuberculosis cases reported in 2004"
+    ],
+    "data": {
+        "Bermuda": [
+            5.1
+        ],
+        "Bhutan": [
+            307.0
+        ],
+        "Bolivia": [
+            163.0
+        ],
+        "Bosnia and Herzegovina": [
+            78.0
+        ]
+    },
+    "colors": {
+        "Bermuda": "#f27979",
+        "Bhutan": "#79f200",
+        "Bolivia": "#52a5a5",
+        "Bosnia and Herzegovina": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 310
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

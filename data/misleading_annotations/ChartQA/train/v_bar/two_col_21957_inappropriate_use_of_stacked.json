@@ -1,0 +1,77 @@
+{
+    "title": "Index score",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Index score"
+    },
+    "legend": {
+        "2014": "#f27979",
+        "2015": "#f2cf00",
+        "2016": "#9bf279",
+        "2017": "#00a55e",
+        "2018": "#5282a5",
+        "2020": "#2f00a5",
+        "2021": "#f279e0"
+    },
+    "data": {
+        "2014": [
+            0.73
+        ],
+        "2015": [
+            0.74
+        ],
+        "2016": [
+            0.74
+        ],
+        "2017": [
+            0.75
+        ],
+        "2018": [
+            0.75
+        ],
+        "2020": [
+            0.75
+        ],
+        "2021": [
+            0.75
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2014": "#f27979",
+        "2015": "#f2cf00",
+        "2016": "#9bf279",
+        "2017": "#00a55e",
+        "2018": "#5282a5",
+        "2020": "#2f00a5",
+        "2021": "#f279e0"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Unemployed population expressed as percentage of the total labor force",
+    "legend": {
+        "Gabon": "#f27979",
+        "Gambia, The": "#c1f200",
+        "Georgia": "#52a574",
+        "Germany": "#0042a5",
+        "Ghana": "#da79f2"
+    },
+    "categories": [
+        "Unemployed population expressed as percentage of the total labor force"
+    ],
+    "data": {
+        "Gabon": [
+            21.60000038146969
+        ],
+        "Gambia, The": [
+            7.199999809265139
+        ],
+        "Georgia": [
+            13.3000001907349
+        ],
+        "Germany": [
+            5.599999904632571
+        ],
+        "Ghana": [
+            8.199999809265138
+        ]
+    },
+    "colors": {
+        "Gabon": "#f27979",
+        "Gambia, The": "#c1f200",
+        "Georgia": "#52a574",
+        "Germany": "#0042a5",
+        "Ghana": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

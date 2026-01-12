@@ -1,0 +1,54 @@
+{
+    "title": "Number of incidences",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2015",
+            "2020*",
+            "2025",
+            "2030",
+            "2035"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of incidences"
+    },
+    "legend": {
+        "default": "#2876dd"
+    },
+    "data": {
+        "default": [
+            20444,
+            23764,
+            27410,
+            30993,
+            34425,
+            37701
+        ]
+    },
+    "type": "v_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 37710
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Economic growth rate",
+    "x_axis": {
+        "categories": [
+            "Denmark",
+            "Europe"
+        ]
+    },
+    "y_axis": {
+        "label": "Economic growth rate"
+    },
+    "legend": {
+        "2020 forecast pre COVID-19": "#2876dd",
+        "Revised 2020 forecast post COVID-19": "#0f283e"
+    },
+    "data": {
+        "2020 forecast pre COVID-19": [
+            1.5,
+            1.1
+        ],
+        "Revised 2020 forecast post COVID-19": [
+            1.0,
+            0.8
+        ]
+    },
+    "type": "v_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

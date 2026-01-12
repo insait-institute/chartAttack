@@ -1,0 +1,50 @@
+{
+    "title": "Percentage of part-time workers in the year 2014",
+    "x_axis": {
+        "categories": [
+            "Hungary",
+            "Iceland",
+            "Ireland",
+            "Israel"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Part time employment": "#4B0082"
+    },
+    "data": {
+        "Part time employment": [
+            4.19999980926514,
+            16.7000007629395,
+            23.39999961853031,
+            25.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

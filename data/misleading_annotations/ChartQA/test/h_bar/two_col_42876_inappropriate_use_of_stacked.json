@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "Minsk": "#f27979",
+        "Vitebsk Oblast": "#f2cf00",
+        "Minsk Oblast": "#9bf279",
+        "Gomel Oblast": "#00a55e",
+        "Mogilev Oblast": "#5282a5",
+        "Grodno Oblast": "#2f00a5",
+        "Brest Oblast": "#f279e0"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Minsk": [
+            4090.0
+        ],
+        "Vitebsk Oblast": [
+            1935.0
+        ],
+        "Minsk Oblast": [
+            1206.0
+        ],
+        "Gomel Oblast": [
+            460.0
+        ],
+        "Mogilev Oblast": [
+            396.0
+        ],
+        "Grodno Oblast": [
+            347.0
+        ],
+        "Brest Oblast": [
+            339.0
+        ]
+    },
+    "colors": {
+        "Minsk": "#f27979",
+        "Vitebsk Oblast": "#f2cf00",
+        "Minsk Oblast": "#9bf279",
+        "Gomel Oblast": "#00a55e",
+        "Mogilev Oblast": "#5282a5",
+        "Grodno Oblast": "#2f00a5",
+        "Brest Oblast": "#f279e0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4090
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

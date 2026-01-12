@@ -1,0 +1,56 @@
+{
+    "title": "Trade statistics with developing economies of South Asia in 2005",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Pakistan": "#008080",
+        "Senegal": "#BDB76B",
+        "Vietnam": "#FF7F50"
+    },
+    "data": {
+        "Pakistan": [
+            11.1983406562082,
+            3.01228036632923
+        ],
+        "Senegal": [
+            13.1958730296641,
+            2.75442783372212
+        ],
+        "Vietnam": [
+            0.5621457695757089,
+            1.84080454610988
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

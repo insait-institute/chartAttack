@@ -1,0 +1,82 @@
+{
+    "title": "CPIA quality of budgetary and financial management rating",
+    "legend": {
+        "2005": "#7FFFD4",
+        "2006": "#B03060",
+        "2007": "#FF7F50",
+        "2008": "#FFFF00"
+    },
+    "categories": [
+        "Caribbean small states",
+        "East Asia (all income levels)",
+        "East Asia (developing only)",
+        "Europe(all income levels)",
+        "Europe(developing only)",
+        "Fragile and conflict affected situations"
+    ],
+    "data": {
+        "2005": [
+            3.5,
+            3.31818181818182,
+            3.31818181818182,
+            3.5,
+            3.5,
+            2.75
+        ],
+        "2006": [
+            3.5,
+            3.25,
+            3.25,
+            3.55,
+            3.55,
+            2.65909090909091
+        ],
+        "2007": [
+            3.6,
+            3.22727272727273,
+            3.22727272727273,
+            3.5625,
+            3.5625,
+            2.65909090909091
+        ],
+        "2008": [
+            3.6,
+            3.31818181818182,
+            3.31818181818182,
+            3.6875,
+            3.6875,
+            2.65909090909091
+        ]
+    },
+    "colors": {
+        "2005": "#7FFFD4",
+        "2006": "#B03060",
+        "2007": "#FF7F50",
+        "2008": "#FFFF00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

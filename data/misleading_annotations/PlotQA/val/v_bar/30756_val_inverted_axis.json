@@ -1,0 +1,81 @@
+{
+    "title": "Food production relative to the base period 2004-2006",
+    "x_axis": {
+        "categories": [
+            "Malawi",
+            "Malaysia",
+            "Maldives",
+            "Mali",
+            "Malta",
+            "Mauritania"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1961": "#2E8B57",
+        "1962": "#8B008B",
+        "1963": "#90EE90",
+        "1964": "#808000"
+    },
+    "data": {
+        "1961": [
+            23.06,
+            8.73,
+            53.48,
+            27.97,
+            44.74,
+            53.74
+        ],
+        "1962": [
+            24.26,
+            8.91,
+            55.38,
+            30.02,
+            43.42,
+            54.85
+        ],
+        "1963": [
+            23.95,
+            9.34,
+            57.29,
+            31.01,
+            46.16,
+            56.44
+        ],
+        "1964": [
+            25.65,
+            9.28,
+            59.18,
+            31.13,
+            45.37,
+            58.33
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

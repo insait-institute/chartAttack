@@ -1,0 +1,107 @@
+{
+    "title": "Number of children per woman",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of children per woman"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f26f00",
+        "2012": "#f2e879",
+        "2013": "#95f200",
+        "2014": "#8bf279",
+        "2015": "#00a533",
+        "2016": "#52a592",
+        "2017": "#007fa5",
+        "2018": "#526ca5",
+        "2019": "#1900a5",
+        "2020*": "#c379f2",
+        "2021": "#f200df",
+        "2022": "#f279b1"
+    },
+    "data": {
+        "2010": [
+            1.84
+        ],
+        "2011": [
+            1.81
+        ],
+        "2012": [
+            1.79
+        ],
+        "2013": [
+            1.74
+        ],
+        "2014": [
+            1.73
+        ],
+        "2015": [
+            1.69
+        ],
+        "2016": [
+            1.67
+        ],
+        "2017": [
+            1.64
+        ],
+        "2018": [
+            1.63
+        ],
+        "2019": [
+            1.65
+        ],
+        "2020*": [
+            1.66
+        ],
+        "2021": [
+            1.67
+        ],
+        "2022": [
+            1.68
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f26f00",
+        "2012": "#f2e879",
+        "2013": "#95f200",
+        "2014": "#8bf279",
+        "2015": "#00a533",
+        "2016": "#52a592",
+        "2017": "#007fa5",
+        "2018": "#526ca5",
+        "2019": "#1900a5",
+        "2020*": "#c379f2",
+        "2021": "#f200df",
+        "2022": "#f279b1"
+    }
+}

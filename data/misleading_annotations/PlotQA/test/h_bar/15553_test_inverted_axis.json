@@ -1,0 +1,44 @@
+{
+    "title": "Percentage of youth(female) who are not in education, employment or training in Liberia",
+    "legend": {
+        "Unemployed(female)": "#4682B4"
+    },
+    "categories": [
+        "2010",
+        "2012"
+    ],
+    "data": {
+        "Unemployed(female)": [
+            24.35000038146969,
+            16.0
+        ]
+    },
+    "colors": {
+        "Unemployed(female)": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

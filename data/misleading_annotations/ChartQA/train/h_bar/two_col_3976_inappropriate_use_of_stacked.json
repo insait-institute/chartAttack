@@ -1,0 +1,167 @@
+{
+    "title": "",
+    "legend": {
+        "Italy": "#f27979",
+        "Germany": "#f23700",
+        "Portugal": "#f2b179",
+        "Hungary": "#f2a700",
+        "Spain": "#f2e879",
+        "France": "#ccf200",
+        "Greece": "#c3f279",
+        "Belgium": "#5df200",
+        "EU Average": "#8bf279",
+        "Poland": "#00a50c",
+        "Romania": "#52a56c",
+        "Bulgaria": "#00a559",
+        "Austria": "#52a592",
+        "Croatia": "#00a5a5",
+        "Slovakia": "#5292a5",
+        "Latvia": "#0059a5",
+        "Slovenia": "#526ca5",
+        "Lithuania": "#000ca5",
+        "Ireland": "#8b79f2",
+        "Czechia": "#5d00f2",
+        "United Kingdom": "#c379f2",
+        "Estonia": "#cc00f2",
+        "Netherlands": "#f279e8",
+        "Denmark": "#f200a7",
+        "Finland": "#f279b1",
+        "Sweden": "#f20037"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Italy": [
+            200.0
+        ],
+        "Germany": [
+            168.0
+        ],
+        "Portugal": [
+            140.0
+        ],
+        "Hungary": [
+            139.0
+        ],
+        "Spain": [
+            135.0
+        ],
+        "France": [
+            133.0
+        ],
+        "Greece": [
+            133.0
+        ],
+        "Belgium": [
+            130.0
+        ],
+        "EU Average": [
+            118.0
+        ],
+        "Poland": [
+            114.0
+        ],
+        "Romania": [
+            106.0
+        ],
+        "Bulgaria": [
+            100.0
+        ],
+        "Austria": [
+            95.0
+        ],
+        "Croatia": [
+            84.0
+        ],
+        "Slovakia": [
+            73.0
+        ],
+        "Latvia": [
+            72.0
+        ],
+        "Slovenia": [
+            67.0
+        ],
+        "Lithuania": [
+            61.0
+        ],
+        "Ireland": [
+            60.0
+        ],
+        "Czechia": [
+            57.0
+        ],
+        "United Kingdom": [
+            37.0
+        ],
+        "Estonia": [
+            37.0
+        ],
+        "Netherlands": [
+            28.0
+        ],
+        "Denmark": [
+            20.0
+        ],
+        "Finland": [
+            17.0
+        ],
+        "Sweden": [
+            10.0
+        ]
+    },
+    "colors": {
+        "Italy": "#f27979",
+        "Germany": "#f23700",
+        "Portugal": "#f2b179",
+        "Hungary": "#f2a700",
+        "Spain": "#f2e879",
+        "France": "#ccf200",
+        "Greece": "#c3f279",
+        "Belgium": "#5df200",
+        "EU Average": "#8bf279",
+        "Poland": "#00a50c",
+        "Romania": "#52a56c",
+        "Bulgaria": "#00a559",
+        "Austria": "#52a592",
+        "Croatia": "#00a5a5",
+        "Slovakia": "#5292a5",
+        "Latvia": "#0059a5",
+        "Slovenia": "#526ca5",
+        "Lithuania": "#000ca5",
+        "Ireland": "#8b79f2",
+        "Czechia": "#5d00f2",
+        "United Kingdom": "#c379f2",
+        "Estonia": "#cc00f2",
+        "Netherlands": "#f279e8",
+        "Denmark": "#f200a7",
+        "Finland": "#f279b1",
+        "Sweden": "#f20037"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 200
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

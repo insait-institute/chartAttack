@@ -1,0 +1,67 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 1991",
+    "legend": {
+        "Ethiopia": "#f27979",
+        "Fiji": "#f2f200",
+        "Grenada": "#79f279",
+        "Guatemala": "#00a5a5",
+        "India": "#5252a5",
+        "Indonesia": "#a500a5"
+    },
+    "categories": [
+        "Split of the expenses (in %) of different economies in 1991"
+    ],
+    "data": {
+        "Ethiopia": [
+            56.68684793772641
+        ],
+        "Fiji": [
+            53.190163662042
+        ],
+        "Grenada": [
+            61.7553639722564
+        ],
+        "Guatemala": [
+            35.3447784473958
+        ],
+        "India": [
+            10.8964010080328
+        ],
+        "Indonesia": [
+            26.5532081377152
+        ]
+    },
+    "colors": {
+        "Ethiopia": "#f27979",
+        "Fiji": "#f2f200",
+        "Grenada": "#79f279",
+        "Guatemala": "#00a5a5",
+        "India": "#5252a5",
+        "Indonesia": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

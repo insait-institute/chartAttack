@@ -1,0 +1,67 @@
+{
+    "title": "Expenditures in tertiary public institutions of Croatia",
+    "legend": {
+        "All education staff compensation": "#D2B48C",
+        "Current education expenditure": "#BA55D3"
+    },
+    "categories": [
+        "1999",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "data": {
+        "All education staff compensation": [
+            71.9472427368164,
+            61.0871887207031,
+            68.3651885986328,
+            71.2383804321289
+        ],
+        "Current education expenditure": [
+            96.2415924072266,
+            96.8577880859375,
+            94.4028167724609,
+            91.2846527099609
+        ]
+    },
+    "colors": {
+        "All education staff compensation": "#D2B48C",
+        "Current education expenditure": "#BA55D3"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 61.0871887207031,
+                "max_value": 71.9472427368164
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 91.2846527099609,
+                "max_value": 96.8577880859375
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

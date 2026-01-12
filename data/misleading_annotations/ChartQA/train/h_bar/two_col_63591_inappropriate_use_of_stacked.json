@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "China": "#f27979",
+        "Turkey": "#f29100",
+        "United States": "#daf279",
+        "Italy": "#30f200",
+        "Germany": "#52a574",
+        "Vietnam": "#00a5a5",
+        "Bangladesh": "#5274a5",
+        "Republic of Korea": "#2100a5",
+        "India": "#da79f2",
+        "China, Hong Kong SAR": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "China": [
+            7204.8
+        ],
+        "Turkey": [
+            3216.6
+        ],
+        "United States": [
+            2399.4
+        ],
+        "Italy": [
+            2347.1
+        ],
+        "Germany": [
+            2118.1
+        ],
+        "Vietnam": [
+            2089.0
+        ],
+        "Bangladesh": [
+            2035.8
+        ],
+        "Republic of Korea": [
+            1929.5
+        ],
+        "India": [
+            1372.8
+        ],
+        "China, Hong Kong SAR": [
+            1318.7
+        ]
+    },
+    "colors": {
+        "China": "#f27979",
+        "Turkey": "#f29100",
+        "United States": "#daf279",
+        "Italy": "#30f200",
+        "Germany": "#52a574",
+        "Vietnam": "#00a5a5",
+        "Bangladesh": "#5274a5",
+        "Republic of Korea": "#2100a5",
+        "India": "#da79f2",
+        "China, Hong Kong SAR": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7210
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service imports",
+    "x_axis": {
+        "categories": [
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Lower middle income",
+            "North America",
+            "OECD members"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#8A2BE2",
+        "2006": "#FFFF00",
+        "2007": "#5F9EA0"
+    },
+    "data": {
+        "2005": [
+            53.27130949788079,
+            22.7727242752366,
+            22.41588997725911,
+            31.00474139255731,
+            30.7656198801186,
+            51.5122893426143
+        ],
+        "2006": [
+            24.4457194638391,
+            22.6324098216678,
+            22.2389146029008,
+            30.1644325784503,
+            32.19589927139261,
+            24.0494779602902
+        ],
+        "2007": [
+            35.90910002901371,
+            20.773565342684,
+            19.0544832685372,
+            28.36363068412761,
+            32.4186118075156,
+            34.822770958094
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2005": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "2006": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "2007": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

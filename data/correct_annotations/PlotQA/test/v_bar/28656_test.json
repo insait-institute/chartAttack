@@ -1,0 +1,81 @@
+{
+    "title": "Global emissions of Hydrofluorocarbons",
+    "x_axis": {
+        "categories": [
+            "Serbia",
+            "Singapore",
+            "South Africa",
+            "Spain",
+            "Sweden",
+            "Switzerland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#000000",
+        "2000": "#8A2BE2",
+        "2005": "#FF4500",
+        "2008": "#00FA9A"
+    },
+    "data": {
+        "1990": [
+            0.5,
+            12.6,
+            0.2,
+            1950.3,
+            0.2,
+            0.3
+        ],
+        "2000": [
+            1662.0,
+            728.9,
+            254.6,
+            3296.8,
+            568.8,
+            848.2
+        ],
+        "2005": [
+            4293.8,
+            1429.7,
+            524.5,
+            6300.3,
+            1131.9,
+            1613.8
+        ],
+        "2008": [
+            5979.0,
+            1876.4,
+            691.6,
+            8600.9,
+            1498.0,
+            2116.4
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8610
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

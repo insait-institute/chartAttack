@@ -1,0 +1,104 @@
+{
+    "title": "Proportion of the total female labor force of different age groups participating in production in North America",
+    "legend": {
+        "Ages 15-20": "#B8860B",
+        "Ages 20-50": "#2E8B57",
+        "Ages 50+": "#32CD32"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Total Labor Force (in %)",
+    "data": [
+        {
+            "label": "Ages 15-20",
+            "color": "#B8860B",
+            "values": [
+                55.92348156611749,
+                55.5318181088924,
+                54.9311845910524,
+                54.34895889048001
+            ]
+        },
+        {
+            "label": "Ages 20-50",
+            "color": "#2E8B57",
+            "values": [
+                58.5631996651153,
+                58.6836920059826,
+                58.6653525703543,
+                58.8661138841032
+            ]
+        },
+        {
+            "label": "Ages 50+",
+            "color": "#32CD32",
+            "values": [
+                68.5843237102325,
+                68.8046839386319,
+                68.6265029691084,
+                68.8173492187068
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Ages 15-20",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Ages 20-50",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        },
+        {
+            "label": "Ages 50+",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

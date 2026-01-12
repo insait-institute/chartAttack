@@ -1,0 +1,62 @@
+{
+    "title": "Total enrollments of male students in schools as per the survey of 1998 conducted in different countries",
+    "legend": {
+        "Kuwait": "#f27979",
+        "Lao PDR": "#c1f200",
+        "Latvia": "#52a574",
+        "Lebanon": "#0042a5",
+        "Lesotho": "#da79f2"
+    },
+    "categories": [
+        "Total enrollments of male students in schools as per the survey of 1998 conducted in different countries"
+    ],
+    "data": {
+        "Kuwait": [
+            93.52954
+        ],
+        "Lao PDR": [
+            8.08098
+        ],
+        "Latvia": [
+            49.58182
+        ],
+        "Lebanon": [
+            82.77318000000002
+        ],
+        "Lesotho": [
+            24.54769
+        ]
+    },
+    "colors": {
+        "Kuwait": "#f27979",
+        "Lao PDR": "#c1f200",
+        "Latvia": "#52a574",
+        "Lebanon": "#0042a5",
+        "Lesotho": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

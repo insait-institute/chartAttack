@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of individuals or firms listed by a private credit bureau",
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#c1f200",
+        "2012": "#52a574",
+        "2013": "#0042a5",
+        "2014": "#da79f2"
+    },
+    "categories": [
+        "Percentage of individuals or firms listed by a private credit bureau"
+    ],
+    "data": {
+        "2010": [
+            2.60666666666667
+        ],
+        "2011": [
+            2.35333333333333
+        ],
+        "2012": [
+            1.08484848484848
+        ],
+        "2013": [
+            1.11818181818182
+        ],
+        "2014": [
+            1.18484848484848
+        ]
+    },
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#c1f200",
+        "2012": "#52a574",
+        "2013": "#0042a5",
+        "2014": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

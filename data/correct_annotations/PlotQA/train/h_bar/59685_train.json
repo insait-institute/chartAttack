@@ -1,0 +1,72 @@
+{
+    "title": "Total population between the ages 0 to 14 as a percentage of the total population",
+    "legend": {
+        "Greece": "#8B008B",
+        "Italy": "#B8860B",
+        "Kuwait": "#32CD32",
+        "Liberia": "#CD5C5C"
+    },
+    "categories": [
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+    ],
+    "data": {
+        "Greece": [
+            17.2342613134629,
+            16.7377381188101,
+            16.4096779733487,
+            16.0659240113389
+        ],
+        "Italy": [
+            15.2295316372195,
+            15.0057135718304,
+            14.82989375061331,
+            14.6715639096094
+        ],
+        "Kuwait": [
+            30.285284335693,
+            29.9613141107285,
+            29.2858076104489,
+            28.7859020219943
+        ],
+        "Liberia": [
+            44.0404566678619,
+            44.0312396480443,
+            43.86229690495181,
+            43.7167112700768
+        ]
+    },
+    "colors": {
+        "Greece": "#8B008B",
+        "Italy": "#B8860B",
+        "Kuwait": "#32CD32",
+        "Liberia": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

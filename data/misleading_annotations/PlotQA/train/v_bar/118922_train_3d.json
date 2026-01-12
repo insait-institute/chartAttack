@@ -1,0 +1,56 @@
+{
+    "title": "Annual rural vs urban population growth in 2005",
+    "x_axis": {
+        "categories": [
+            "Rural",
+            "Urban "
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Comoros": "#FF0000",
+        "Nicaragua": "#008B8B",
+        "Tunisia": "#00FA9A"
+    },
+    "data": {
+        "Comoros": [
+            2.4570981981484,
+            2.30732761643023
+        ],
+        "Nicaragua": [
+            0.764098867876144,
+            1.72915801991437
+        ],
+        "Tunisia": [
+            0.4848432557480779,
+            1.22781520329423
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

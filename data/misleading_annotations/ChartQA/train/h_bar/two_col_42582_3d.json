@@ -1,0 +1,72 @@
+{
+    "title": "Share of wholesale sales",
+    "legend": {
+        "Sales": "#2876dd"
+    },
+    "categories": [
+        "Germany",
+        "France",
+        "Benelux",
+        "Spain",
+        "Austria",
+        "Finland",
+        "Others*",
+        "Italy",
+        "Switzerland",
+        "Sweden",
+        "Other**",
+        "United Kingdom",
+        "Denmark",
+        "China",
+        "Ireland",
+        "Norway"
+    ],
+    "data": {
+        "Sales": [
+            54.3,
+            9.7,
+            9.6,
+            4.7,
+            3.8,
+            3.2,
+            2.7,
+            2.6,
+            2.5,
+            2.3,
+            2,
+            1.2,
+            0.8,
+            0.4,
+            0.1,
+            0.1
+        ]
+    },
+    "colors": {
+        "Sales": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

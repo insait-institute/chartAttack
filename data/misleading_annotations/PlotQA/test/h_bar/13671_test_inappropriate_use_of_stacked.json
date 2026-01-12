@@ -1,0 +1,67 @@
+{
+    "title": "Split of the expenses made by the government on labor taxes",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#f2f200",
+        "2006": "#79f279",
+        "2007": "#00a5a5",
+        "2008": "#5252a5",
+        "2009": "#a500a5"
+    },
+    "categories": [
+        "Split of the expenses made by the government on labor taxes"
+    ],
+    "data": {
+        "2004": [
+            97905000000.0
+        ],
+        "2005": [
+            107750000000.0
+        ],
+        "2006": [
+            115070000000.0
+        ],
+        "2007": [
+            138320000000.0
+        ],
+        "2008": [
+            151674000000.0
+        ],
+        "2009": [
+            143105000000.0
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#f2f200",
+        "2006": "#79f279",
+        "2007": "#00a5a5",
+        "2008": "#5252a5",
+        "2009": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1204677000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

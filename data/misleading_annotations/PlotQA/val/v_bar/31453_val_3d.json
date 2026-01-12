@@ -1,0 +1,61 @@
+{
+    "title": "Split of tax revenue collected by government in 1991",
+    "x_axis": {
+        "categories": [
+            "Taxes on exports",
+            "Taxes on profits and capital gains"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Congo (Democratic)": "#D2B48C",
+        "Ecuador": "#6495ED",
+        "Ghana": "#483D8B",
+        "Sri Lanka": "#40E0D0"
+    },
+    "data": {
+        "Congo (Democratic)": [
+            4.71364221364222,
+            33.86422136422139
+        ],
+        "Ecuador": [
+            0.380021715526602,
+            58.7404994571118
+        ],
+        "Ghana": [
+            11.3171577665572,
+            19.5471634324924
+        ],
+        "Sri Lanka": [
+            1.66820722743078,
+            14.2641254750062
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

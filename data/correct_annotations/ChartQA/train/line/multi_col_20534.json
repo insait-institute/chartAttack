@@ -1,0 +1,91 @@
+{
+    "title": "",
+    "legend": {
+        "EU": "#2876dd",
+        "Euro area": "#0f283e"
+    },
+    "x_axis": [
+        "Jun '19",
+        "Jul '19",
+        "Aug '19",
+        "Sep '19",
+        "Oct '19",
+        "Nov '19",
+        "Dec '19",
+        "Jan '20",
+        "Feb '20",
+        "Mar '20",
+        "Apr '20",
+        "May '20",
+        "Jun '20"
+    ],
+    "y_axis_label": "Unemployment rate",
+    "data": [
+        {
+            "label": "EU",
+            "color": "#2876dd",
+            "values": [
+                6.3,
+                6.3,
+                6.3,
+                6.3,
+                6.6,
+                6.6,
+                6.5,
+                6.5,
+                6.4,
+                6.5,
+                6.7,
+                7,
+                7.1
+            ]
+        },
+        {
+            "label": "Euro area",
+            "color": "#0f283e",
+            "values": [
+                7.5,
+                7.6,
+                7.5,
+                7.6,
+                7.4,
+                7.4,
+                7.4,
+                7.3,
+                7.2,
+                7.2,
+                7.5,
+                7.7,
+                7.8
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

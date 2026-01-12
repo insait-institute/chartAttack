@@ -1,0 +1,76 @@
+{
+    "title": "Employment to population ratio of the male population of countries for different age-groups",
+    "x_axis": {
+        "categories": [
+            "Other small states",
+            "Small states",
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Age 15+": "#FF1493",
+        "Ages 15-24": "#DAA520"
+    },
+    "data": {
+        "Age 15+": [
+            63.736131620686,
+            66.1268300245708,
+            78.8033462145455,
+            70.8378832233262,
+            70.8234723911868
+        ],
+        "Ages 15-24": [
+            38.84607538390621,
+            40.48234380523061,
+            55.1592285234528,
+            49.23187545017178,
+            49.2077657900082
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Age 15+": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Ages 15-24": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

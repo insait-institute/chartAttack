@@ -1,0 +1,55 @@
+{
+    "title": "Total water productivity of Luxembourg",
+    "legend": {
+        "Water productivity": "#DAA520"
+    },
+    "x_axis": [
+        "1987",
+        "1992",
+        "1997",
+        "2002",
+        "2013"
+    ],
+    "y_axis_label": "Per cubic meter of total freshwater withdrawal(constant 2005 US$ GDP)",
+    "data": [
+        {
+            "label": "Water productivity",
+            "color": "#DAA520",
+            "values": [
+                232.744526546268,
+                366.714745791318,
+                451.902537058406,
+                562.103170150138,
+                736.347393259937
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 230,
+                "max_value": 740
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

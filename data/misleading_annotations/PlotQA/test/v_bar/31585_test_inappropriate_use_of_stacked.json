@@ -1,0 +1,72 @@
+{
+    "title": "Total payments made towards primary income",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Belarus": "#f27979",
+        "Belgium": "#f2f200",
+        "Belize": "#79f279",
+        "Bolivia": "#00a5a5",
+        "Bosnia and Herzegovina": "#5252a5",
+        "Brazil": "#a500a5"
+    },
+    "data": {
+        "Belarus": [
+            17410800000.0
+        ],
+        "Belgium": [
+            330276163319.0
+        ],
+        "Belize": [
+            824213312.1
+        ],
+        "Bolivia": [
+            3362182545.9
+        ],
+        "Bosnia and Herzegovina": [
+            8102600536.6
+        ],
+        "Brazil": [
+            125772626232.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 517419383990
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Belarus": "#f27979",
+        "Belgium": "#f2f200",
+        "Belize": "#79f279",
+        "Bolivia": "#00a5a5",
+        "Bosnia and Herzegovina": "#5252a5",
+        "Brazil": "#a500a5"
+    }
+}

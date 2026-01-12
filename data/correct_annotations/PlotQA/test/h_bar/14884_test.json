@@ -1,0 +1,72 @@
+{
+    "title": "CO2 emissions from solid fuel consumption",
+    "legend": {
+        "1960": "#BEBEBE",
+        "1961": "#663399",
+        "1962": "#008B8B",
+        "1963": "#8A2BE2"
+    },
+    "categories": [
+        "Austria",
+        "Belgium",
+        "Brazil",
+        "Bulgaria"
+    ],
+    "data": {
+        "1960": [
+            18063.642,
+            67960.511,
+            4968.785,
+            18639.361
+        ],
+        "1961": [
+            17674.94,
+            67043.761,
+            4682.759,
+            21448.283
+        ],
+        "1962": [
+            18100.312,
+            68598.569,
+            5672.849,
+            24748.583
+        ],
+        "1963": [
+            19614.783,
+            71341.485,
+            5423.493,
+            26805.77
+        ]
+    },
+    "colors": {
+        "1960": "#BEBEBE",
+        "1961": "#663399",
+        "1962": "#008B8B",
+        "1963": "#8A2BE2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 71350
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

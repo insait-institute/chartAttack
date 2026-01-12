@@ -1,0 +1,62 @@
+{
+    "title": "Annual urban population growth",
+    "legend": {
+        "Isle of Man": "#f27979",
+        "Israel": "#c1f200",
+        "Italy": "#52a574",
+        "Jamaica": "#0042a5",
+        "Japan": "#da79f2"
+    },
+    "categories": [
+        "Annual urban population growth"
+    ],
+    "data": {
+        "Isle of Man": [
+            -0.4222963466985279
+        ],
+        "Israel": [
+            5.35622957745189
+        ],
+        "Italy": [
+            2.83640101522505
+        ],
+        "Jamaica": [
+            4.17352790842849
+        ],
+        "Japan": [
+            2.40726261252606
+        ]
+    },
+    "colors": {
+        "Isle of Man": "#f27979",
+        "Israel": "#c1f200",
+        "Italy": "#52a574",
+        "Jamaica": "#0042a5",
+        "Japan": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

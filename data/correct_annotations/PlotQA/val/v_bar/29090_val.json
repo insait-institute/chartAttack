@@ -1,0 +1,61 @@
+{
+    "title": "Survival rate of children of different countries in Grade 5 of primary education",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cuba": "#CD5C5C",
+        "Ecuador": "#708090",
+        "Japan": "#8B4513",
+        "Senegal": "#D2691E"
+    },
+    "data": {
+        "Cuba": [
+            54.68265,
+            45.18892
+        ],
+        "Ecuador": [
+            41.29482,
+            42.37539
+        ],
+        "Japan": [
+            95.75189,
+            95.24423
+        ],
+        "Senegal": [
+            62.15173000000001,
+            67.33375
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

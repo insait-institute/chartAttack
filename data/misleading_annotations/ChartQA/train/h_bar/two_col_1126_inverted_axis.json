@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Team value": "#2876dd"
+    },
+    "categories": [
+        "Real Madrid",
+        "FC Barcelona",
+        "Manchester United",
+        "Bayern Munich",
+        "Manchester City",
+        "Chelsea FC",
+        "Arsenal FC",
+        "Liverpool FC",
+        "Tottenham Hotspur",
+        "Juventus",
+        "Paris Saint-Germain",
+        "Atletico de Madrid",
+        "Borussia Dortmund",
+        "Schalke 04",
+        "FC Internazionale Milano",
+        "AS Roma",
+        "West Ham United",
+        "AC Milan",
+        "Everton FC",
+        "Newcastle United"
+    ],
+    "data": {
+        "Team value": [
+            4239,
+            4021,
+            3808,
+            3024,
+            2688,
+            2576,
+            2268,
+            2183,
+            1624,
+            1512,
+            1092,
+            953,
+            896,
+            683,
+            672,
+            622,
+            616,
+            583,
+            476,
+            381
+        ]
+    },
+    "colors": {
+        "Team value": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 4240
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Damage caused due to forest depletion",
+    "legend": {
+        "1970": "#DC143C",
+        "1971": "#FF00FF",
+        "1972": "#8B008B"
+    },
+    "categories": [
+        "Middle East & North Africa (all income levels)",
+        "Middle East & North Africa (developing only)",
+        "Middle income",
+        "OECD members",
+        "Other small states",
+        "Small states"
+    ],
+    "data": {
+        "1970": [
+            0.193470800955136,
+            0.269908723002269,
+            0.802136018101748,
+            0.026490098614075,
+            1.71922025460526,
+            0.508860668445293
+        ],
+        "1971": [
+            0.156642366635096,
+            0.225116204252733,
+            0.7275854626978371,
+            0.022241591716795,
+            1.60900599935826,
+            0.413837624522761
+        ],
+        "1972": [
+            0.163354708818129,
+            0.239830739781715,
+            0.729527453011113,
+            0.0175895839316149,
+            1.1457347979464,
+            0.345328832216169
+        ]
+    },
+    "colors": {
+        "1970": "#DC143C",
+        "1971": "#FF00FF",
+        "1972": "#8B008B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1970": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1971": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "1972": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

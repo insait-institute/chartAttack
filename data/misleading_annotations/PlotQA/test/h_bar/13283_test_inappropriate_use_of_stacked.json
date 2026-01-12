@@ -1,0 +1,62 @@
+{
+    "title": "Net incurrence of foreign liabilities",
+    "legend": {
+        "2007": "#f27979",
+        "2008": "#c1f200",
+        "2009": "#52a574",
+        "2010": "#0042a5",
+        "2011": "#da79f2"
+    },
+    "categories": [
+        "Net incurrence of foreign liabilities"
+    ],
+    "data": {
+        "2007": [
+            1.29796460819941
+        ],
+        "2008": [
+            3.05261378806446
+        ],
+        "2009": [
+            2.2563172347641
+        ],
+        "2010": [
+            2.02311878580009
+        ],
+        "2011": [
+            2.41590259578561
+        ]
+    },
+    "colors": {
+        "2007": "#f27979",
+        "2008": "#c1f200",
+        "2009": "#52a574",
+        "2010": "#0042a5",
+        "2011": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

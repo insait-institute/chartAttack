@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "Country": "#2876dd"
+    },
+    "categories": [
+        "Bangladesh",
+        "Tunisia",
+        "Ivory Coast",
+        "Eritrea",
+        "Egypt",
+        "Guinea",
+        "Sudan",
+        "Morocco",
+        "Mali",
+        "Algeria",
+        "Other"
+    ],
+    "data": {
+        "Country": [
+            2608,
+            2113,
+            1410,
+            971,
+            958,
+            945,
+            905,
+            623,
+            568,
+            456,
+            3695
+        ]
+    },
+    "colors": {
+        "Bangladesh": "#2876dd",
+        "Tunisia": "#2876dd",
+        "Ivory Coast": "#2876dd",
+        "Eritrea": "#2876dd",
+        "Egypt": "#2876dd",
+        "Guinea": "#2876dd",
+        "Sudan": "#2876dd",
+        "Morocco": "#2876dd",
+        "Mali": "#2876dd",
+        "Algeria": "#2876dd",
+        "Other": "#C0C0C0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3700
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Balance of payments recorded for exporting goods",
+    "legend": {
+        "2005": "#f27979",
+        "2006": "#00f200",
+        "2007": "#5252a5"
+    },
+    "categories": [
+        "Balance of payments recorded for exporting goods"
+    ],
+    "data": {
+        "2005": [
+            8309909679154.0
+        ],
+        "2006": [
+            9370797137054.0
+        ],
+        "2007": [
+            10841218299710.0
+        ]
+    },
+    "colors": {
+        "2005": "#f27979",
+        "2006": "#00f200",
+        "2007": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10841218299710
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Amount received by the population participating in labor market programs in Uruguay",
+    "legend": {
+        "Social insurance": "#00BFFF",
+        "Social Protection": "#FF7F50",
+        "Unemployment benefits": "#00CED1"
+    },
+    "categories": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Social insurance": [
+            42.7996135215473,
+            44.6773603702351,
+            45.80015574359821,
+            44.5837465653262
+        ],
+        "Social Protection": [
+            35.222284971608,
+            44.45390008666389,
+            45.5321400354421,
+            44.2629881777216
+        ],
+        "Unemployment benefits": [
+            23.3330467707289,
+            24.88684004791881,
+            25.8582977607122,
+            23.2038051450395
+        ]
+    },
+    "colors": {
+        "Social insurance": "#00BFFF",
+        "Social Protection": "#FF7F50",
+        "Unemployment benefits": "#00CED1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

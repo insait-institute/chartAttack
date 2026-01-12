@@ -1,0 +1,57 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "18-29",
+            "30-49",
+            "50-64",
+            "65 and over"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "Support private ownership": "#2876dd",
+        "Do not support private ownership": "#0f283e"
+    },
+    "data": {
+        "Support private ownership": [
+            76,
+            69,
+            53,
+            43
+        ],
+        "Do not support private ownership": [
+            23,
+            24,
+            32,
+            40
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

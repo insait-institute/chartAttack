@@ -1,0 +1,79 @@
+{
+    "title": "Trade statistics with developing economies(within region) in 1962",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "South Asia": "#808000",
+        "Haiti": "#9ACD32",
+        "India": "#191970",
+        "Peru": "#4169E1"
+    },
+    "data": {
+        "South Asia": [
+            6.1854748603352,
+            3.84172449431567
+        ],
+        "Haiti": [
+            2.15311590125028,
+            0.351152048837147
+        ],
+        "India": [
+            4.62036703850306,
+            2.60470751124957
+        ],
+        "Peru": [
+            3.55648535564854,
+            3.01844605925098
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "South Asia": [
+            1.75,
+            0.25
+        ],
+        "Haiti": [
+            1.75,
+            0.25
+        ],
+        "India": [
+            1.75,
+            0.25
+        ],
+        "Peru": [
+            1.75,
+            0.25
+        ]
+    }
+}

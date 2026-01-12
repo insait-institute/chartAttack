@@ -1,0 +1,68 @@
+{
+    "title": "Merchandise imports to low and middle-income economies in Saharan Africa",
+    "x_axis": {
+        "categories": [
+            "Peru",
+            "Portugal",
+            "Senegal",
+            "Spain",
+            "Sudan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#ADFF2F",
+        "1961": "#BDB76B",
+        "1962": "#6A5ACD"
+    },
+    "data": {
+        "1960": [
+            0.0804289544235925,
+            15.4263896354234,
+            1.10208816705336,
+            0.983887066875802,
+            2.54847645429363
+        ],
+        "1961": [
+            0.0853606487409304,
+            13.3546168201237,
+            1.19798234552333,
+            1.40230312035661,
+            3.22851153039832
+        ],
+        "1962": [
+            0.0931619154089808,
+            13.3321805291371,
+            1.55440414507772,
+            1.64863472436888,
+            2.61412407335154
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

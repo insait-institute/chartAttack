@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of GDP spent on health care in different countries in 2009",
+    "legend": {
+        "Central Europe": "#f27979",
+        "East Asia (all income levels)": "#f2f200",
+        "East Asia (developing only)": "#79f279",
+        "Euro area": "#00a5a5",
+        "Europe(all income levels)": "#5252a5",
+        "Europe(developing only)": "#a500a5"
+    },
+    "categories": [
+        "Percentage of GDP spent on health care in different countries in 2009"
+    ],
+    "data": {
+        "Central Europe": [
+            1.97335555129392
+        ],
+        "East Asia (all income levels)": [
+            2.20561678672194
+        ],
+        "East Asia (developing only)": [
+            2.3287114488015
+        ],
+        "Euro area": [
+            2.46935656608727
+        ],
+        "Europe(all income levels)": [
+            2.360017608550569
+        ],
+        "Europe(developing only)": [
+            1.92693095849868
+        ]
+    },
+    "colors": {
+        "Central Europe": "#f27979",
+        "East Asia (all income levels)": "#f2f200",
+        "East Asia (developing only)": "#79f279",
+        "Euro area": "#00a5a5",
+        "Europe(all income levels)": "#5252a5",
+        "Europe(developing only)": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

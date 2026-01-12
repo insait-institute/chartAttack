@@ -1,0 +1,82 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 1991",
+    "legend": {
+        "Compensation of employees": "#00FFFF",
+        "Goods and services": "#D2B48C",
+        "Subsidies and Transfers": "#483D8B",
+        "Other expenses": "#B8860B"
+    },
+    "categories": [
+        "Ethiopia",
+        "Fiji",
+        "Grenada",
+        "Guatemala",
+        "India",
+        "Indonesia"
+    ],
+    "data": {
+        "Compensation of employees": [
+            56.68684793772641,
+            53.190163662042,
+            61.7553639722564,
+            35.3447784473958,
+            10.8964010080328,
+            26.5532081377152
+        ],
+        "Goods and services": [
+            35.5370560570842,
+            25.7663869734984,
+            19.9844428599209,
+            18.79168199648669,
+            13.1881004882659,
+            14.4287949921753
+        ],
+        "Subsidies and Transfers": [
+            7.35520445229792,
+            33.0071664829107,
+            41.1697965571205,
+            13.2066219908002,
+            12.6681922196796,
+            57.0150187734668
+        ],
+        "Other expenses": [
+            3.67800417134606,
+            1.02245073036364,
+            0.267515002530547,
+            1.73680694722779,
+            0.463142714515503,
+            0.12846865364851
+        ]
+    },
+    "colors": {
+        "Compensation of employees": "#00FFFF",
+        "Goods and services": "#D2B48C",
+        "Subsidies and Transfers": "#483D8B",
+        "Other expenses": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

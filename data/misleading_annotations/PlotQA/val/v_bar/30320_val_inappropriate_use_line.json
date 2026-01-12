@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of total fuel exports to different countries",
+    "x_axis": {
+        "categories": [
+            "Greece",
+            "India",
+            "Israel",
+            "Italy",
+            "Japan"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1962": "#A020F0",
+        "1963": "#20B2AA",
+        "1964": "#6B8E23",
+        "1965": "#C71585"
+    },
+    "data": {
+        "1962": [
+            0.235931211274031,
+            0.9781820324590352,
+            1.3502512916755,
+            5.58975385372496,
+            0.396572157992249
+        ],
+        "1963": [
+            0.217774948382581,
+            1.01611275364832,
+            2.19604348134873,
+            5.51322146577216,
+            0.312482701509717
+        ],
+        "1964": [
+            0.167038600242176,
+            1.35388656411549,
+            2.52624413922644,
+            5.05143214711308,
+            0.3530704848359871
+        ],
+        "1965": [
+            0.0433902861016748,
+            1.19332670604762,
+            2.36312445952821,
+            5.44518991196707,
+            0.355348187541752
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

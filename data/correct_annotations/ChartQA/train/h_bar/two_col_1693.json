@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Immigrants": "#2876dd"
+    },
+    "categories": [
+        "Poland",
+        "Syria",
+        "Turkey",
+        "Germany",
+        "Romania",
+        "Iraq",
+        "Iran",
+        "Bosnia and Herzegovina",
+        "United Kingdom",
+        "Norway",
+        "Sweden",
+        "Pakistan",
+        "Afghanistan",
+        "Lithuania",
+        "Lebanon",
+        "India",
+        "Ukraine",
+        "China",
+        "Thailand",
+        "Somalia"
+    ],
+    "data": {
+        "Immigrants": [
+            41859,
+            35659,
+            33219,
+            30936,
+            30288,
+            21894,
+            17571,
+            16599,
+            15812,
+            15580,
+            14588,
+            14483,
+            13941,
+            13162,
+            13140,
+            12701,
+            12298,
+            12060,
+            12037,
+            11196
+        ]
+    },
+    "colors": {
+        "Immigrants": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 41860
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

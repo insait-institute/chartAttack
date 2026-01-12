@@ -1,0 +1,68 @@
+{
+    "title": "Percentage of population having access to drinking water",
+    "x_axis": {
+        "categories": [
+            "Latin America(developing only)",
+            "Least developed countries",
+            "Low & middle income",
+            "Low income",
+            "Lower middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#00FF00",
+        "1991": "#663399",
+        "1992": "#FF00FF"
+    },
+    "data": {
+        "1990": [
+            83.4461181258895,
+            50.4284734004456,
+            69.8775742400223,
+            45.462024800196,
+            69.7086740707144
+        ],
+        "1991": [
+            83.99351983886692,
+            50.1683659606896,
+            70.5959305629305,
+            44.9183162761377,
+            70.5625714120026
+        ],
+        "1992": [
+            84.5613389759875,
+            50.6079273284562,
+            71.52613205668429,
+            45.3347241033492,
+            71.49233383032251
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

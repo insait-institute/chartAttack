@@ -1,0 +1,66 @@
+{
+    "title": "Percentage of value added in manufacturing machinery etc. in countries",
+    "x_axis": {
+        "categories": [
+            "Machinery",
+            "Transport equipments",
+            "Textiles and clothing"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Belgium": "#000000",
+        "Ecuador": "#BDB76B",
+        "Ghana": "#008B8B",
+        "Iraq": "#708090"
+    },
+    "data": {
+        "Belgium": [
+            14.3058117005862,
+            45.6970388001413,
+            14.1638460663
+        ],
+        "Ecuador": [
+            0.391336985934189,
+            31.4459297539121,
+            15.6889526906287
+        ],
+        "Ghana": [
+            3.97686963821256,
+            35.4367445483028,
+            16.1103790500824
+        ],
+        "Iraq": [
+            6.194114229117052,
+            43.6812096070361,
+            14.8023439557837
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

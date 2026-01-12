@@ -1,0 +1,58 @@
+{
+    "title": "Percentage of female workers employed in Agricultural sector",
+    "legend": {
+        "Bulgaria": "#9ACD32",
+        "Indonesia": "#6495ED"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Bulgaria": [
+            7.599999904632571,
+            6.400000095367429,
+            5.800000190734861,
+            5.400000095367429,
+            5.5
+        ],
+        "Indonesia": [
+            44.5999984741211,
+            44.2999992370605,
+            41.0999984741211,
+            41.4000015258789,
+            39.9000015258789
+        ]
+    },
+    "colors": {
+        "Bulgaria": "#9ACD32",
+        "Indonesia": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

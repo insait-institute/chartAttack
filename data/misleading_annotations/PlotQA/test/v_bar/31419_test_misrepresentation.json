@@ -1,0 +1,97 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 2003",
+    "x_axis": {
+        "categories": [
+            "Compensation of employees",
+            "Goods and services",
+            "Subsidies and Transfers",
+            "Other expenses"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Hong Kong": "#00CED1",
+        "India": "#FF0000",
+        "Kuwait": "#CD5C5C",
+        "Spain": "#008B8B"
+    },
+    "data": {
+        "Hong Kong": [
+            25.7604872512333,
+            22.6323852760828,
+            23.6617259811138,
+            27.9322912569718
+        ],
+        "India": [
+            9.001652839366539,
+            11.03701302731669,
+            49.3297839814808,
+            3.01533991250756
+        ],
+        "Kuwait": [
+            30.9265698506852,
+            27.61300879525469,
+            28.5538965023522,
+            12.5383514011045
+        ],
+        "Spain": [
+            9.24217348647765,
+            4.25936753644445,
+            73.36557424162841,
+            5.332137512759268
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Hong Kong": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "India": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Kuwait": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Spain": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

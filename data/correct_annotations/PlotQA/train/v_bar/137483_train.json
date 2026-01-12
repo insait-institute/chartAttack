@@ -1,0 +1,61 @@
+{
+    "title": "Balance of goods and services traded in 2011",
+    "x_axis": {
+        "categories": [
+            "Exports",
+            "Imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Cambodia": "#5F9EA0",
+        "Colombia": "#FF1493",
+        "Germany": "#FFFF00",
+        "Lao PDR": "#4B0082"
+    },
+    "data": {
+        "Cambodia": [
+            5034620818,
+            6937342660
+        ],
+        "Colombia": [
+            58262400117,
+            52125545572
+        ],
+        "Germany": [
+            1432930000000,
+            1205650000000
+        ],
+        "Lao PDR": [
+            1853978326,
+            2422863806
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1432930000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

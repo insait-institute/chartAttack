@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Jordan Larsson",
+        "Martin Olsson",
+        "Joel Andersson",
+        "Simon Hedlund",
+        "Muamer Tankovic",
+        "Marcus Danielson",
+        "Alexander Kacaniklic",
+        "Darijan Bojanic",
+        "Isak Petersson",
+        "Daleho Irandust"
+    ],
+    "data": {
+        "Model": [
+            2800,
+            2000,
+            2000,
+            1400,
+            1100,
+            1000,
+            950,
+            950,
+            950,
+            900
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2800
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Cost of communications and computers with respect to service imports",
+    "legend": {
+        "2005": "#BEBEBE",
+        "2006": "#DC143C",
+        "2007": "#CD5C5C"
+    },
+    "categories": [
+        "India",
+        "Indonesia",
+        "Israel"
+    ],
+    "data": {
+        "2005": [
+            35.8180919844964,
+            48.800241723859,
+            42.0075075400872
+        ],
+        "2006": [
+            37.40792063346871,
+            51.2747721257711,
+            44.5391847037545
+        ],
+        "2007": [
+            34.5748250450646,
+            43.671710423815,
+            44.76767813600649
+        ]
+    },
+    "colors": {
+        "2005": "#BEBEBE",
+        "2006": "#DC143C",
+        "2007": "#CD5C5C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

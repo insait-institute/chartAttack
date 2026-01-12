@@ -1,0 +1,68 @@
+{
+    "title": "Total employment in Agricultural sector",
+    "x_axis": {
+        "categories": [
+            "France",
+            "Hungary",
+            "Israel",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#2E8B57",
+        "1981": "#EE82EE"
+    },
+    "data": {
+        "1980": [
+            8.39999961853027,
+            22.10000038146969,
+            6.300000190734861,
+            14.0
+        ],
+        "1981": [
+            8.10000038146973,
+            21.2999992370605,
+            6.0,
+            13.1999998092651
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 6.300000190734861,
+                "max_value": 22.10000038146969
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 6.0,
+                "max_value": 21.2999992370605
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

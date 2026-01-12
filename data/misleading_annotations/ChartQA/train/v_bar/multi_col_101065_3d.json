@@ -1,0 +1,93 @@
+{
+    "title": "Crude rate per 100,000 population",
+    "x_axis": {
+        "categories": [
+            "2004/05",
+            "2005/06",
+            "2006/07",
+            "2007/08",
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Crude rate per 100,000 population"
+    },
+    "legend": {
+        "Men": "#2876dd",
+        "Women": "#0f283e"
+    },
+    "data": {
+        "Men": [
+            78,
+            71.7,
+            70.1,
+            73,
+            62.9,
+            59,
+            54.2,
+            50.2,
+            46.1,
+            46.7,
+            50.1,
+            38.7,
+            41.7,
+            43,
+            43.5,
+            44.5
+        ],
+        "Women": [
+            22.2,
+            23.5,
+            21.4,
+            23.3,
+            16.7,
+            15.8,
+            13.4,
+            12.9,
+            10.8,
+            12.1,
+            11.8,
+            8.9,
+            9.9,
+            9.6,
+            11.4,
+            9.4
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

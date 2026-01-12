@@ -1,0 +1,64 @@
+{
+    "title": "Distance to Frontier score (on scale of 100) of a country",
+    "x_axis": {
+        "categories": [
+            "Qatar",
+            "Romania",
+            "Rwanda",
+            "Samoa"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2009": "#000000",
+        "2010": "#90EE90",
+        "2011": "#0000FF"
+    },
+    "data": {
+        "2009": [
+            68.41,
+            63.04,
+            57.89,
+            65.26
+        ],
+        "2010": [
+            67.71,
+            62.81,
+            59.62,
+            67.23
+        ],
+        "2011": [
+            69.22,
+            62.86,
+            59.83,
+            67.49
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

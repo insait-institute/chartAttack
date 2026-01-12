@@ -1,0 +1,63 @@
+{
+    "title": "Official Aid vs Net ODA received in 2007 ",
+    "x_axis": {
+        "categories": [
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)",
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "OECD members",
+            "Other small states"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Official aid received": "#BDB76B",
+        "ODA received": "#9ACD32"
+    },
+    "data": {
+        "Official aid received": [
+            31869480000,
+            19120730000,
+            19080670000,
+            54399410000,
+            1045100000,
+            1887850000
+        ],
+        "ODA received": [
+            19120730000,
+            19080670000,
+            54399410000,
+            1045100000,
+            828280000,
+            3240130000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 54399410000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

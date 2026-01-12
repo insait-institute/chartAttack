@@ -1,0 +1,63 @@
+{
+    "title": "Number of FDA enforcement reports issued",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of FDA enforcement reports issued"
+    },
+    "legend": {
+        "Over-the-counter": "#2876dd",
+        "Prescription": "#0f283e"
+    },
+    "data": {
+        "Over-the-counter": [
+            7,
+            26,
+            30,
+            39,
+            28,
+            43
+        ],
+        "Prescription": [
+            89,
+            206,
+            232,
+            195,
+            207,
+            240
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 240
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

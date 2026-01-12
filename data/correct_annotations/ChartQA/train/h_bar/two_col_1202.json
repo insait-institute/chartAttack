@@ -1,0 +1,90 @@
+{
+    "title": "Estimated Jewish population in thousand",
+    "categories": [
+        "United States",
+        "Israel",
+        "Canada",
+        "France",
+        "United Kingdom",
+        "Germany",
+        "Russia",
+        "Argentina",
+        "Australia",
+        "Brazil",
+        "Mexico",
+        "South Africa",
+        "Spain",
+        "Italy",
+        "Ukraine",
+        "Belgium",
+        "Netherlands",
+        "Chile",
+        "Moldova",
+        "Switzerland",
+        "Turkey",
+        "Austria",
+        "Hungary",
+        "India",
+        "Panama"
+    ],
+    "data": {
+        "Jewish Population": [
+            5690,
+            5610,
+            350,
+            310,
+            280,
+            230,
+            230,
+            200,
+            110,
+            110,
+            70,
+            70,
+            60,
+            50,
+            50,
+            30,
+            30,
+            20,
+            20,
+            20,
+            20,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    "colors": {
+        "Jewish Population": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5690
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Jewish Population": "#2876dd"
+    }
+}

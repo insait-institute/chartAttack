@@ -1,0 +1,61 @@
+{
+    "title": "Trade statistics with developing economies of Saharan Africa in 2001",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Arab World": "#2F4F4F",
+        "Bulgaria": "#FF1493",
+        "Cameroon": "#006400",
+        "Malaysia": "#87CEEB"
+    },
+    "data": {
+        "Arab World": [
+            2.27015092914306,
+            1.23061241936266
+        ],
+        "Bulgaria": [
+            0.588625387756505,
+            0.317208244434828
+        ],
+        "Cameroon": [
+            7.62014940346746,
+            21.0498191610465
+        ],
+        "Malaysia": [
+            0.572997323377705,
+            0.426796475163951
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

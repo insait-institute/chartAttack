@@ -1,0 +1,52 @@
+{
+    "title": "Share of the global plasma market in 2017",
+    "legend": {
+        "Global Plasma Market Share": "#2876dd"
+    },
+    "categories": [
+        "United States",
+        "China",
+        "Germany",
+        "Japan",
+        "France",
+        "Rest of the world"
+    ],
+    "data": {
+        "Global Plasma Market Share": [
+            44,
+            16,
+            5,
+            4,
+            3,
+            28
+        ]
+    },
+    "colors": {
+        "Global Plasma Market Share": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

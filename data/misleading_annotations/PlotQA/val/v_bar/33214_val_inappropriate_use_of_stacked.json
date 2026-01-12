@@ -1,0 +1,67 @@
+{
+    "title": "Long-term female unemployment in 2014",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Estonia": "#f27979",
+        "Finland": "#c1f200",
+        "France": "#52a574",
+        "Germany": "#0042a5",
+        "Greece": "#da79f2"
+    },
+    "data": {
+        "Estonia": [
+            39.4000015258789
+        ],
+        "Finland": [
+            20.2999992370605
+        ],
+        "France": [
+            40.7999992370605
+        ],
+        "Germany": [
+            41.5999984741211
+        ],
+        "Greece": [
+            74.1999969482422
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Estonia": "#f27979",
+        "Finland": "#c1f200",
+        "France": "#52a574",
+        "Germany": "#0042a5",
+        "Greece": "#da79f2"
+    }
+}

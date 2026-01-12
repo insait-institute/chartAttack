@@ -1,0 +1,60 @@
+{
+    "title": "Points scored by basketball players",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Dominique Wilkins",
+        "Bob Pettit",
+        "Lou Hudson",
+        "Cliff Hagan",
+        "John Drew",
+        "Joe Johnson",
+        "Kevin Willis",
+        "Josh Smith",
+        "Eddie Johnson",
+        "Zelmo Beaty"
+    ],
+    "data": {
+        "Players": [
+            23292,
+            20880,
+            16049,
+            13447,
+            12621,
+            10606,
+            10582,
+            10371,
+            9631,
+            8727
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23300
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

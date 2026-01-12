@@ -1,0 +1,72 @@
+{
+    "title": "Survival rate of children (female) to Grade 5",
+    "legend": {
+        "Argentina": "#C71585",
+        "Cuba": "#E9967A",
+        "Niger": "#ADFF2F",
+        "Samoa": "#4B0082"
+    },
+    "categories": [
+        "2000",
+        "2006",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Argentina": [
+            94.8872528076172,
+            97.89990234375,
+            96.1945419311523,
+            98.64584350585942
+        ],
+        "Cuba": [
+            96.8702163696289,
+            97.1363983154297,
+            96.98361206054692,
+            97.59951782226558
+        ],
+        "Niger": [
+            71.2350692749023,
+            69.1435394287109,
+            69.0514068603516,
+            63.17012023925779
+        ],
+        "Samoa": [
+            89.7057723999023,
+            94.846580505371,
+            81.0613632202148,
+            91.0943984985352
+        ]
+    },
+    "colors": {
+        "Argentina": "#C71585",
+        "Cuba": "#E9967A",
+        "Niger": "#ADFF2F",
+        "Samoa": "#4B0082"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

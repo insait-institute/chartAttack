@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "Brand": "#2876dd"
+    },
+    "categories": [
+        "Heatilator",
+        "Heat & Glo",
+        "Majestic",
+        "Vermont Castings",
+        "Napoleon",
+        "Superior Fireplaces",
+        "FMI",
+        "Astria",
+        "Regency",
+        "Town & Country Fireplaces",
+        "Monessen",
+        "Spark Modern Fires",
+        "None of these"
+    ],
+    "data": {
+        "Brand": [
+            28,
+            19.6,
+            12.1,
+            7.5,
+            6.5,
+            6.5,
+            2.8,
+            2.8,
+            2.8,
+            1.9,
+            1.9,
+            0.9,
+            6.5
+        ]
+    },
+    "colors": {
+        "Brand": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

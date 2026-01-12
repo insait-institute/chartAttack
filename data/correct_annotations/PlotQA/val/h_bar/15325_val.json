@@ -1,0 +1,50 @@
+{
+    "title": "Index capturing how well Israel is connected to global shipping networks",
+    "legend": {
+        "Liner shipping connectivity index ": "#BA55D3"
+    },
+    "categories": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "data": {
+        "Liner shipping connectivity index ": [
+            33.2,
+            28.49,
+            31.24,
+            32.42,
+            31.7734657414
+        ]
+    },
+    "colors": {
+        "Liner shipping connectivity index ": "#BA55D3"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

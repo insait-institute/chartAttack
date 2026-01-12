@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Prisoners": "#2876dd"
+    },
+    "categories": [
+        "Morocco",
+        "Romania",
+        "Albania",
+        "Tunisia",
+        "Nigeria",
+        "Gambia",
+        "Algeria",
+        "Senegal",
+        "Egypt",
+        "Pakistan",
+        "Ukraine"
+    ],
+    "data": {
+        "Prisoners": [
+            3333,
+            2049,
+            1968,
+            1756,
+            1447,
+            467,
+            446,
+            431,
+            406,
+            287,
+            228
+        ]
+    },
+    "colors": {
+        "Prisoners": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3340
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,70 @@
+{
+    "title": "Market size in billion Indian rupees",
+    "x_axis": {
+        "categories": [
+            "FY 2011",
+            "FY 2012",
+            "FY 2013",
+            "FY 2014",
+            "FY 2015",
+            "FY 2016",
+            "FY 2017",
+            "FY 2018",
+            "FY 2019",
+            "FY 2020",
+            "FY 2021*",
+            "FY 2022*",
+            "FY 2023*",
+            "FY 2024*"
+        ]
+    },
+    "y_axis": {
+        "label": "Market size in billion Indian rupees"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            31,
+            35.3,
+            39.7,
+            28.2,
+            33.1,
+            39,
+            46.9,
+            56.8,
+            68.4,
+            79.5,
+            96.1,
+            111.8,
+            129.1,
+            147.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 150
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

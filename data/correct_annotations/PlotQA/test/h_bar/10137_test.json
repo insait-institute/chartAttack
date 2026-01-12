@@ -1,0 +1,72 @@
+{
+    "title": "Balance of payments for travel services (% of service imports)",
+    "legend": {
+        "2005": "#483D8B",
+        "2006": "#D2B48C",
+        "2007": "#F0E68C"
+    },
+    "categories": [
+        "Lithuania",
+        "Luxembourg",
+        "Macedonia",
+        "Maldives",
+        "Malta",
+        "Mauritius"
+    ],
+    "data": {
+        "2005": [
+            35.8662513246524,
+            10.8057067179926,
+            11.3614308096394,
+            32.8243776670184,
+            22.04624767401,
+            22.9556654097124
+        ],
+        "2006": [
+            35.47603916203079,
+            8.72929051981066,
+            12.4900752442233,
+            33.8860043059362,
+            18.0344661493677,
+            24.8181189639143
+        ],
+        "2007": [
+            33.3916934662499,
+            7.7262350748152,
+            13.2685856634452,
+            36.9067994359085,
+            10.878426607223,
+            22.7377116842607
+        ]
+    },
+    "colors": {
+        "2005": "#483D8B",
+        "2006": "#D2B48C",
+        "2007": "#F0E68C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

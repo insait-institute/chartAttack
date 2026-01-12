@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "India": "#f27979",
+        "Vietnam": "#f29100",
+        "Thailand": "#daf279",
+        "Pakistan": "#30f200",
+        "United States": "#52a574",
+        "China": "#00a5a5",
+        "Burma": "#5274a5",
+        "Cambodia": "#2100a5",
+        "Brazil": "#da79f2",
+        "Uruguay": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "India": [
+            15500.0
+        ],
+        "Vietnam": [
+            6400.0
+        ],
+        "Thailand": [
+            6200.0
+        ],
+        "Pakistan": [
+            4000.0
+        ],
+        "United States": [
+            3000.0
+        ],
+        "China": [
+            2300.0
+        ],
+        "Burma": [
+            2100.0
+        ],
+        "Cambodia": [
+            1450.0
+        ],
+        "Brazil": [
+            900.0
+        ],
+        "Uruguay": [
+            780.0
+        ]
+    },
+    "colors": {
+        "India": "#f27979",
+        "Vietnam": "#f29100",
+        "Thailand": "#daf279",
+        "Pakistan": "#30f200",
+        "United States": "#52a574",
+        "China": "#00a5a5",
+        "Burma": "#5274a5",
+        "Cambodia": "#2100a5",
+        "Brazil": "#da79f2",
+        "Uruguay": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15500
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

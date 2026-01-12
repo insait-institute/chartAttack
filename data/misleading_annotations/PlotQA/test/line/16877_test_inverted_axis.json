@@ -1,0 +1,76 @@
+{
+    "title": "Expenditure on health care (as % of GDP) in Kuwait",
+    "legend": {
+        "Private funds": "#008B8B",
+        "Public funds": "#FF69B4"
+    },
+    "x_axis": [
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "y_axis_label": "Health expenditure (as % of GDP)",
+    "data": [
+        {
+            "label": "Private funds",
+            "color": "#008B8B",
+            "values": [
+                0.7062194377283659,
+                0.626633286573813,
+                0.548651361687291,
+                0.471398692031758,
+                0.418831248675296,
+                0.446291274680144,
+                0.4121833415713611,
+                0.563674870891698
+            ]
+        },
+        {
+            "label": "Public funds",
+            "color": "#FF69B4",
+            "values": [
+                2.84511648227163,
+                2.59163804342619,
+                2.19767640831271,
+                1.89843597796824,
+                1.8262029213247,
+                1.67889260531986,
+                1.51186269842864,
+                3.3709338891083
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

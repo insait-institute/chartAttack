@@ -1,0 +1,61 @@
+{
+    "title": "Survival rate of children of different countries in Grade 5 of primary education",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Burkina Faso": "#00FF7F",
+        "Macao": "#ADFF2F",
+        "Malaysia": "#663399",
+        "Mauritania": "#B8860B"
+    },
+    "data": {
+        "Burkina Faso": [
+            54.18081,
+            56.47407
+        ],
+        "Macao": [
+            74.05941,
+            72.66077
+        ],
+        "Malaysia": [
+            88.56774,
+            88.35134000000002
+        ],
+        "Mauritania": [
+            54.5465,
+            68.45823
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,71 @@
+{
+    "title": "Total male labor force participation rate for ages 15-24",
+    "legend": {
+        "1990": "#00FF7F",
+        "1991": "#FFA07A",
+        "1992": "#A52A2A",
+        "1993": "#FF0000"
+    },
+    "categories": [
+        "Maldives",
+        "Mali",
+        "Malta",
+        "Mauritania"
+    ],
+    "data": {
+        "1990": [
+            63.2999992370605,
+            49.7999992370605,
+            71.5,
+            56.9000015258789
+        ],
+        "1991": [
+            61.2999992370605,
+            49.9000015258789,
+            68.40000152587889,
+            56.7999992370605
+        ],
+        "1992": [
+            59.4000015258789,
+            49.9000015258789,
+            65.0,
+            56.7999992370605
+        ],
+        "1993": [
+            57.4000015258789,
+            49.9000015258789,
+            63.5999984741211,
+            56.7999992370605
+        ]
+    },
+    "colors": {
+        "1990": "#00FF7F",
+        "1991": "#FFA07A",
+        "1992": "#A52A2A",
+        "1993": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

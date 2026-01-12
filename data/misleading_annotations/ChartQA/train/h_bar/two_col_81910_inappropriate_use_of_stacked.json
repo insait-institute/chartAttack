@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Amazon (.co.uk)": "#f27979",
+        "Ebay": "#f29100",
+        "Argos": "#daf279",
+        "Tesco": "#30f200",
+        "Marks & Spencer": "#52a574",
+        "John Lewis": "#00a5a5",
+        "Asda": "#5274a5",
+        "Next": "#2100a5",
+        "Sainsbury's": "#da79f2",
+        "Boots": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Amazon (.co.uk)": [
+            75.9
+        ],
+        "Ebay": [
+            42.6
+        ],
+        "Argos": [
+            38.5
+        ],
+        "Tesco": [
+            31.7
+        ],
+        "Marks & Spencer": [
+            23.2
+        ],
+        "John Lewis": [
+            21.6
+        ],
+        "Asda": [
+            19.8
+        ],
+        "Next": [
+            16.3
+        ],
+        "Sainsbury's": [
+            13.9
+        ],
+        "Boots": [
+            13.8
+        ]
+    },
+    "colors": {
+        "Amazon (.co.uk)": "#f27979",
+        "Ebay": "#f29100",
+        "Argos": "#daf279",
+        "Tesco": "#30f200",
+        "Marks & Spencer": "#52a574",
+        "John Lewis": "#00a5a5",
+        "Asda": "#5274a5",
+        "Next": "#2100a5",
+        "Sainsbury's": "#da79f2",
+        "Boots": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

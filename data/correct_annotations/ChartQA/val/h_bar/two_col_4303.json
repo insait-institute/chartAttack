@@ -1,0 +1,80 @@
+{
+    "title": "Rushing yards",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Sam Cunningham",
+        "Jim Nance",
+        "Tony Collins",
+        "Curtis Martin",
+        "Kevin Faulk",
+        "Don Calhoun",
+        "John Stephens",
+        "Corey Dillon",
+        "Larry Garron",
+        "LeGarrette Blount",
+        "Stevan Ridley",
+        "Antowain Smith",
+        "Craig James",
+        "Leonard Russell",
+        "Laurence Maroney",
+        "Mosi Tatupu",
+        "Sony Michel",
+        "Carl Garrett",
+        "Steve Grogan",
+        "BenJarvus Green-Ellis"
+    ],
+    "data": {
+        "Players": [
+            5453,
+            5323,
+            4647,
+            3799,
+            3607,
+            3391,
+            3249,
+            3180,
+            2981,
+            2917,
+            2817,
+            2781,
+            2469,
+            2437,
+            2430,
+            2415,
+            2292,
+            2235,
+            2176,
+            2064
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 5460
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

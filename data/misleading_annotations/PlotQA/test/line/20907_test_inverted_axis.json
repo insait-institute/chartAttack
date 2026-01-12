@@ -1,0 +1,86 @@
+{
+    "title": "Different expenses of government of Poland",
+    "legend": {
+        "Salary of employees": "#A020F0",
+        "Custom duties": "#7FFFD4",
+        "Interest Payments": "#2E8B57",
+        "Other expenses": "#FF7F50"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Expenses (in $)",
+    "data": [
+        {
+            "label": "Salary of employees",
+            "color": "#A020F0",
+            "values": [
+                43087000000,
+                45419000000,
+                48486000000,
+                54715000000
+            ]
+        },
+        {
+            "label": "Custom duties",
+            "color": "#7FFFD4",
+            "values": [
+                1285000000,
+                1403000000,
+                1760000000,
+                1745000000
+            ]
+        },
+        {
+            "label": "Interest Payments",
+            "color": "#2E8B57",
+            "values": [
+                26178000000,
+                24733000000,
+                23004000000,
+                28863000000
+            ]
+        },
+        {
+            "label": "Other expenses",
+            "color": "#FF7F50",
+            "values": [
+                356683000000,
+                380063000000,
+                402784000000,
+                449262000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 1285000000,
+                "max_value": 449262000000
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

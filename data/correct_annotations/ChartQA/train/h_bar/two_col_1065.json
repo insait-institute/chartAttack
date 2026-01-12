@@ -1,0 +1,72 @@
+{
+    "title": "",
+    "legend": {
+        "Production volume": "#2876dd"
+    },
+    "categories": [
+        "EU-28",
+        "United States",
+        "India",
+        "China",
+        "Russia",
+        "Brazil",
+        "New Zealand",
+        "Mexico",
+        "Argentina",
+        "Canada",
+        "Australia",
+        "Ukraine",
+        "Belarus",
+        "Japan",
+        "South Korea",
+        "Taiwan"
+    ],
+    "data": {
+        "Production volume": [
+            157.5,
+            101.02,
+            93.8,
+            33,
+            31.65,
+            23.51,
+            22,
+            12.75,
+            11.35,
+            9.95,
+            9.1,
+            9,
+            7.75,
+            7.39,
+            2.03,
+            0.44
+        ]
+    },
+    "colors": {
+        "Production volume": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 160
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

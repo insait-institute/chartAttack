@@ -1,0 +1,60 @@
+{
+    "title": "Number of home runs",
+    "legend": {
+        "Home Runs": "#2876dd"
+    },
+    "categories": [
+        "Willie Mays",
+        "Barry Bonds",
+        "Mel Ott",
+        "Willie McCovey",
+        "Matt Williams",
+        "Orlando Cepeda",
+        "Bobby Thomson",
+        "Bobby Bonds",
+        "Will Clark",
+        "Jeff Kent"
+    ],
+    "data": {
+        "Home Runs": [
+            646,
+            586,
+            511,
+            469,
+            247,
+            226,
+            189,
+            186,
+            176,
+            175
+        ]
+    },
+    "colors": {
+        "Home Runs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 650
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

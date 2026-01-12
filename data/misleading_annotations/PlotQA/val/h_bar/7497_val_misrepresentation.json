@@ -1,0 +1,75 @@
+{
+    "title": "Share of expenditures made in primary institutions in 2010",
+    "legend": {
+        "All education staff compensation": "#E9967A",
+        "Current education expenditure": "#FF0000"
+    },
+    "categories": [
+        "Italy",
+        "Japan",
+        "Latvia",
+        "Liechtenstein",
+        "Lithuania"
+    ],
+    "data": {
+        "All education staff compensation": [
+            79.3340835571289,
+            74.7866668701172,
+            67.03330230712889,
+            60.1500015258789,
+            81.0773468017578
+        ],
+        "Current education expenditure": [
+            90.313377380371,
+            90.14806365966801,
+            96.0651702880859,
+            86.58114624023442,
+            86.29653930664058
+        ]
+    },
+    "colors": {
+        "All education staff compensation": "#E9967A",
+        "Current education expenditure": "#FF0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "All education staff compensation": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Current education expenditure": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

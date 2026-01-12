@@ -1,0 +1,100 @@
+{
+    "title": "Imports as a percentage of GDP",
+    "legend": {
+        "Imports": "#2876dd"
+    },
+    "categories": [
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012",
+        "2011",
+        "2010",
+        "2009",
+        "2008",
+        "2007",
+        "2006",
+        "2005",
+        "2004",
+        "2003",
+        "2002",
+        "2001",
+        "2000",
+        "1999",
+        "1998",
+        "1997",
+        "1996",
+        "1995",
+        "1994",
+        "1993",
+        "1992",
+        "1991",
+        "1990"
+    ],
+    "data": {
+        "Imports": [
+            14.6,
+            15.33,
+            15.05,
+            14.64,
+            15.29,
+            16.43,
+            16.47,
+            17.04,
+            17.26,
+            15.74,
+            13.75,
+            17.43,
+            16.46,
+            16.22,
+            15.5,
+            14.67,
+            13.41,
+            13.02,
+            13.14,
+            14.32,
+            12.92,
+            12.27,
+            12.26,
+            11.9,
+            11.78,
+            11.13,
+            10.47,
+            10.21,
+            10.1,
+            10.53
+        ]
+    },
+    "colors": {
+        "Imports": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

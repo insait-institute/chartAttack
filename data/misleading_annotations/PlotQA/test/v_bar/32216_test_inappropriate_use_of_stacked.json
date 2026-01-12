@@ -1,0 +1,67 @@
+{
+    "title": "Current account balance of countries in 2014 after exporting goods and services",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Seychelles": "#f27979",
+        "Singapore": "#c1f200",
+        "Slovak Republic": "#52a574",
+        "Slovenia": "#0042a5",
+        "South Africa": "#da79f2"
+    },
+    "data": {
+        "Seychelles": [
+            -21.9886471388148
+        ],
+        "Singapore": [
+            19.0904433345417
+        ],
+        "Slovak Republic": [
+            0.113183665696754
+        ],
+        "Slovenia": [
+            5.74366513354188
+        ],
+        "South Africa": [
+            -5.45195625885106
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Seychelles": "#f27979",
+        "Singapore": "#c1f200",
+        "Slovak Republic": "#52a574",
+        "Slovenia": "#0042a5",
+        "South Africa": "#da79f2"
+    }
+}

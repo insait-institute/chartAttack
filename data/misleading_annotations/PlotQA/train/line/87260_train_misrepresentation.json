@@ -1,0 +1,125 @@
+{
+    "title": "Expenditure of Ireland on education as percentage of government expenditure",
+    "legend": {
+        "Primary": "#008B8B",
+        "Secondary": "#FF69B4",
+        "Tertiary": "#00CED1"
+    },
+    "x_axis": [
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Expenditure(% of government expenditure on education)",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#008B8B",
+            "values": [
+                31.6120491027832,
+                30.8411197662354,
+                31.9409294128418,
+                32.5221099853516,
+                34.1786003112792,
+                33.5140914916992,
+                33.6460800170898
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#FF69B4",
+            "values": [
+                36.544189453125,
+                34.1263084411621,
+                34.41244888305661,
+                34.39712142944339,
+                35.3127899169922,
+                35.3210983276367,
+                34.833309173584
+            ]
+        },
+        {
+            "label": "Tertiary",
+            "color": "#00CED1",
+            "values": [
+                27.1433296203613,
+                30.2747097015381,
+                28.5612201690674,
+                27.6362590789795,
+                24.8527507781982,
+                23.46116065979,
+                23.3009300231934
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Secondary",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Tertiary",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

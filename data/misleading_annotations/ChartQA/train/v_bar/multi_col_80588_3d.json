@@ -1,0 +1,51 @@
+{
+    "title": "Number of migrants in thousands",
+    "x_axis": {
+        "categories": [
+            "1995 - 2000",
+            "2005 - 2010"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of migrants in thousands"
+    },
+    "legend": {
+        "U.S. to Mexico": "#2876dd",
+        "Mexico to U.S.": "#0f283e"
+    },
+    "data": {
+        "U.S. to Mexico": [
+            670,
+            1390
+        ],
+        "Mexico to U.S.": [
+            2940,
+            1370
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2940
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

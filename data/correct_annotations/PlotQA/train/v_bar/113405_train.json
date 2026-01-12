@@ -1,0 +1,57 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary  and secondary schools in countries",
+    "x_axis": {
+        "categories": [
+            "Japan",
+            "Jordan",
+            "Kazakhstan",
+            "Kiribati"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary completion rate": "#0000FF",
+        "Lower secondary rate": "#BA55D3"
+    },
+    "data": {
+        "Primary completion rate": [
+            99.0550308227539,
+            101.005889892578,
+            99.87139892578129,
+            115.689811706543
+        ],
+        "Lower secondary rate": [
+            29.6164703369141,
+            73.284309387207,
+            99.9409027099609,
+            87.3551483154297
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

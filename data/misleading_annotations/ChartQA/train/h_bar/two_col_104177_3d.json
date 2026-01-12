@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Turnover": "#2876dd"
+    },
+    "categories": [
+        "Greggs*",
+        "Patisserie Holdings",
+        "Sayers the Bakers",
+        "Coopland and Son",
+        "Greenlaigh's Craft Bakery",
+        "Birds the Confectioners",
+        "Bayne's",
+        "Aulds",
+        "Stephens",
+        "Stuart's of Buckhaven"
+    ],
+    "data": {
+        "Turnover": [
+            844,
+            91.9,
+            49.7,
+            41,
+            26,
+            22.3,
+            15.6,
+            15,
+            11,
+            6.2
+        ]
+    },
+    "colors": {
+        "Turnover": "#2876dd"
+    },
+    "y_label": "Turnover in million GBP",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 850
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

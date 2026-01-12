@@ -1,0 +1,73 @@
+{
+    "title": "Earning from merchandise trade",
+    "legend": {
+        "1960": "#006400",
+        "1961": "#006410",
+        "1962": "#006e23"
+    },
+    "categories": [
+        "Cameroon",
+        "Canada",
+        "Central African Republic",
+        "Chad",
+        "Chile"
+    ],
+    "data": {
+        "1960": [
+            29.25295254916231,
+            28.9374072369078,
+            30.2680387885645,
+            12.2802363159623,
+            26.439542635244
+        ],
+        "1961": [
+            29.5013369183511,
+            29.7965539191178,
+            29.243855732078,
+            14.0048664887775,
+            25.8784746354981
+        ],
+        "1962": [
+            29.3119429856186,
+            29.6169366130498,
+            31.6281512190839,
+            12.7634344750361,
+            21.9879388696386
+        ]
+    },
+    "colors": {
+        "1960": "#006400",
+        "1961": "#EE82EE",
+        "1962": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1960": "#006400",
+        "1961": "#006410",
+        "1962": "#006e23"
+    }
+}

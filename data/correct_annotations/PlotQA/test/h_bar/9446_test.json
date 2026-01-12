@@ -1,0 +1,68 @@
+{
+    "title": "Number of internet users",
+    "legend": {
+        "Central Europe": "#006400",
+        "Botswana": "#B8860B",
+        "Djibouti": "#7FFFD4"
+    },
+    "categories": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "data": {
+        "Central Europe": [
+            7.037650207076499,
+            10.2153651273506,
+            18.1941719150839,
+            22.5126441012817,
+            29.1504442319344
+        ],
+        "Botswana": [
+            2.90266662177209,
+            3.430886787025991,
+            3.38592235064273,
+            3.3451901740614,
+            3.30488925316113
+        ],
+        "Djibouti": [
+            0.194500528399956,
+            0.343526262964202,
+            0.48697170451894,
+            0.6259402293998879,
+            0.7813171750686608
+        ]
+    },
+    "colors": {
+        "Central Europe": "#006400",
+        "Botswana": "#B8860B",
+        "Djibouti": "#7FFFD4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

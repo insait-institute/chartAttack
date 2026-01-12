@@ -1,0 +1,54 @@
+{
+    "title": "Percentage of female children (ages 7-14) in employment in 1999",
+    "x_axis": {
+        "categories": [
+            "Self-employed",
+            "Unpaid family workers",
+            "Wage workers"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Nepal": "#9ACD32",
+        "Zimbabwe": "#D2B48C"
+    },
+    "data": {
+        "Nepal": [
+            4.3,
+            92.9,
+            2.7
+        ],
+        "Zimbabwe": [
+            2.5,
+            67.5,
+            30.0
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

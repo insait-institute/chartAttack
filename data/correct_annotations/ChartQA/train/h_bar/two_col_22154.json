@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "India",
+        "New Zealand",
+        "Australia",
+        "England",
+        "Pakistan",
+        "South Africa",
+        "Sri Lanka",
+        "West Indies",
+        "Bangladesh",
+        "Zimbabwe"
+    ],
+    "data": {
+        "Model": [
+            120,
+            118,
+            113,
+            106,
+            90,
+            89,
+            83,
+            81,
+            51,
+            29
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 120
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Emilia-Romagna": "#f27979",
+        "Umbria": "#f24800",
+        "Tuscany": "#f2c179",
+        "Sicily": "#f2da00",
+        "Lombardy": "#daf279",
+        "Piedmont": "#79f200",
+        "Sardinia": "#91f279",
+        "Campania": "#00a510",
+        "Apulia": "#52a574",
+        "Marche": "#00a574",
+        "Lazio": "#52a5a5",
+        "Abruzzo": "#0074a5",
+        "Liguria": "#5274a5",
+        "Trentino-South Tyrol": "#0010a5",
+        "Molise": "#9179f2",
+        "Aosta Valley": "#7900f2",
+        "Calabria": "#da79f2",
+        "Veneto": "#f200da",
+        "Basilicata": "#f279c1",
+        "Friuli-Venezia Giulia": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Emilia-Romagna": [
+            20.5
+        ],
+        "Umbria": [
+            20.4
+        ],
+        "Tuscany": [
+            20.4
+        ],
+        "Sicily": [
+            20.3
+        ],
+        "Lombardy": [
+            19.8
+        ],
+        "Piedmont": [
+            19.7
+        ],
+        "Sardinia": [
+            19.3
+        ],
+        "Campania": [
+            19.3
+        ],
+        "Apulia": [
+            18.8
+        ],
+        "Marche": [
+            18.7
+        ],
+        "Lazio": [
+            18.7
+        ],
+        "Abruzzo": [
+            18.7
+        ],
+        "Liguria": [
+            18.4
+        ],
+        "Trentino-South Tyrol": [
+            18.0
+        ],
+        "Molise": [
+            17.9
+        ],
+        "Aosta Valley": [
+            17.2
+        ],
+        "Calabria": [
+            17.0
+        ],
+        "Veneto": [
+            16.5
+        ],
+        "Basilicata": [
+            16.4
+        ],
+        "Friuli-Venezia Giulia": [
+            15.7
+        ]
+    },
+    "colors": {
+        "Emilia-Romagna": "#f27979",
+        "Umbria": "#f24800",
+        "Tuscany": "#f2c179",
+        "Sicily": "#f2da00",
+        "Lombardy": "#daf279",
+        "Piedmont": "#79f200",
+        "Sardinia": "#91f279",
+        "Campania": "#00a510",
+        "Apulia": "#52a574",
+        "Marche": "#00a574",
+        "Lazio": "#52a5a5",
+        "Abruzzo": "#0074a5",
+        "Liguria": "#5274a5",
+        "Trentino-South Tyrol": "#0010a5",
+        "Molise": "#9179f2",
+        "Aosta Valley": "#7900f2",
+        "Calabria": "#da79f2",
+        "Veneto": "#f200da",
+        "Basilicata": "#f279c1",
+        "Friuli-Venezia Giulia": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

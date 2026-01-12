@@ -1,0 +1,50 @@
+{
+    "title": "Prevalence of overweight children in Lebanon with age under 5 years",
+    "legend": {
+        "Female": "#006400",
+        "Male": "#BA55D3"
+    },
+    "categories": [
+        "1996",
+        "2004"
+    ],
+    "data": {
+        "Female": [
+            20.2000007629395,
+            18.0
+        ],
+        "Male": [
+            21.5,
+            15.3000001907349
+        ]
+    },
+    "colors": {
+        "Female": "#006400",
+        "Male": "#BA55D3"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

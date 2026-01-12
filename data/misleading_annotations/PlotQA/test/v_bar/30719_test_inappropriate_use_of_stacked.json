@@ -1,0 +1,67 @@
+{
+    "title": "Split of the income in different subgroups of a country in 2009",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Peru": "#f27979",
+        "Philippines": "#c1f200",
+        "Poland": "#52a574",
+        "Portugal": "#0042a5",
+        "Romania": "#da79f2"
+    },
+    "data": {
+        "Peru": [
+            52.51
+        ],
+        "Philippines": [
+            49.61
+        ],
+        "Poland": [
+            41.65
+        ],
+        "Portugal": [
+            42.52
+        ],
+        "Romania": [
+            36.97
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Peru": "#f27979",
+        "Philippines": "#c1f200",
+        "Poland": "#52a574",
+        "Portugal": "#0042a5",
+        "Romania": "#da79f2"
+    }
+}

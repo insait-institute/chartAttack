@@ -1,0 +1,56 @@
+{
+    "title": "Logistics performance index measuring the overall level of competence and quality of logistics services",
+    "legend": {
+        "Latvia": "#5F9EA0",
+        "Uruguay": "#8A2BE2"
+    },
+    "categories": [
+        "2007",
+        "2010",
+        "2012",
+        "2014"
+    ],
+    "data": {
+        "Latvia": [
+            2.94,
+            2.96,
+            2.64,
+            3.209473
+        ],
+        "Uruguay": [
+            2.45,
+            2.59,
+            2.98,
+            2.576253
+        ]
+    },
+    "colors": {
+        "Latvia": "#5F9EA0",
+        "Uruguay": "#8A2BE2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

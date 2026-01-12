@@ -1,0 +1,68 @@
+{
+    "title": "Claim of different countries on it's government institutions and different sectors",
+    "x_axis": {
+        "categories": [
+            "Guyana",
+            "Haiti",
+            "Honduras",
+            "Hungary",
+            "Iceland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Central government": "#E9967A",
+        "Domestic economy": "#008B8B",
+        "Private sector": "#FFA07A"
+    },
+    "data": {
+        "Central government": [
+            12.0915010949294,
+            0.443789669147919,
+            -3.46108280893383,
+            -3.06692070198025,
+            -1.69509394981885
+        ],
+        "Domestic economy": [
+            -0.569203004475559,
+            1.05048422146127,
+            12.1668965454537,
+            17.0580806933785,
+            91.04476052123259
+        ],
+        "Private sector": [
+            -0.6661787933359999,
+            0.271002136963073,
+            12.2300592706338,
+            14.072504015633,
+            90.04884252739643
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

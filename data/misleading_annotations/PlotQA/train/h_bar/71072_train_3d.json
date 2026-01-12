@@ -1,0 +1,48 @@
+{
+    "title": "Fossil fuel energy consumption in Europe(developing only)",
+    "legend": {
+        "Fossil fuel energy consumption (% of total)": "#FF8C00"
+    },
+    "categories": [
+        "1984",
+        "1985",
+        "1986",
+        "1987"
+    ],
+    "data": {
+        "Fossil fuel energy consumption (% of total)": [
+            87.8763293770283,
+            87.88537974101222,
+            88.46467035167791,
+            88.7005656916412
+        ]
+    },
+    "colors": {
+        "Fossil fuel energy consumption (% of total)": "#FF8C00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

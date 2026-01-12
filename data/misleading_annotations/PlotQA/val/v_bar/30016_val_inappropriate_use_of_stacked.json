@@ -1,0 +1,67 @@
+{
+    "title": "Total male labor force participation rate for ages 15-24",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Papua New Guinea": "#f27979",
+        "Paraguay": "#c1f200",
+        "Peru": "#52a574",
+        "Philippines": "#0042a5",
+        "Poland": "#da79f2"
+    },
+    "data": {
+        "Papua New Guinea": [
+            60.0
+        ],
+        "Paraguay": [
+            87.4000015258789
+        ],
+        "Peru": [
+            58.0
+        ],
+        "Philippines": [
+            61.9000015258789
+        ],
+        "Poland": [
+            49.2000007629395
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Papua New Guinea": "#f27979",
+        "Paraguay": "#c1f200",
+        "Peru": "#52a574",
+        "Philippines": "#0042a5",
+        "Poland": "#da79f2"
+    }
+}

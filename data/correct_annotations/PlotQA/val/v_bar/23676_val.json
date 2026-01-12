@@ -1,0 +1,60 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary  and secondary schools in countries",
+    "x_axis": {
+        "categories": [
+            "Latin America(all income levels)",
+            "Low & middle income",
+            "Low income",
+            "Lower middle income",
+            "Middle East & North Africa (all income levels)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary completion rate": "#708090",
+        "Lower secondary rate": "#A020F0"
+    },
+    "data": {
+        "Primary completion rate": [
+            77.778465270996,
+            68.80032348632811,
+            31.3535251617432,
+            51.5472259521484,
+            48.7203254699707
+        ],
+        "Lower secondary rate": [
+            16.68139,
+            55.13118000000001,
+            19.10788,
+            15.2501,
+            29.4074
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

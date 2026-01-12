@@ -1,0 +1,86 @@
+{
+    "title": "Number of internet users in millions",
+    "x_axis": {
+        "categories": [
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of internet users in millions"
+    },
+    "legend": {
+        "Internet Users": "#2876dd"
+    },
+    "data": {
+        "Internet Users": [
+            9.43,
+            19.04,
+            24.38,
+            26.27,
+            29.22,
+            31.58,
+            33.01,
+            34.91,
+            35.59,
+            36.19,
+            36.58,
+            37.01,
+            37.18,
+            38.12,
+            40.08,
+            41.12,
+            41.94,
+            43.64,
+            45.28,
+            46.13,
+            46.35,
+            46.82
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

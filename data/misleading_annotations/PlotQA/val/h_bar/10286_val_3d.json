@@ -1,0 +1,60 @@
+{
+    "title": "Educated labor force (as % of total labor force) in different countries in 2008",
+    "legend": {
+        "Cuba": "#ADFF2F",
+        "Ireland": "#00FF7F",
+        "Mongolia": "#F0E68C"
+    },
+    "categories": [
+        "Primary education",
+        "Secondary education",
+        "Tertiary education"
+    ],
+    "data": {
+        "Cuba": [
+            33.0,
+            50.5999984741211,
+            14.5
+        ],
+        "Ireland": [
+            23.5,
+            38.0999984741211,
+            34.7000007629395
+        ],
+        "Mongolia": [
+            34.0999984741211,
+            47.0999984741211,
+            14.5
+        ]
+    },
+    "colors": {
+        "Cuba": "#ADFF2F",
+        "Ireland": "#00FF7F",
+        "Mongolia": "#F0E68C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

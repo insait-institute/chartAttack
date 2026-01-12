@@ -1,0 +1,71 @@
+{
+    "title": "Total revenue generated from different taxes on international trade",
+    "legend": {
+        "OECD members": "#4B0082",
+        "World": "#87CEEB",
+        "Algeria": "#B8860B",
+        "Cabo Verde": "#DC143C"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+    ],
+    "data": {
+        "OECD members": [
+            0.162617875247561,
+            0.264148446419001,
+            0.420851059724674,
+            0.384986262604726
+        ],
+        "World": [
+            4.879524482619821,
+            5.0421921026809,
+            4.654008751761481,
+            4.42300634798561
+        ],
+        "Algeria": [
+            3.12215001109185,
+            3.39341125431611,
+            3.31882052925363,
+            4.45032905250093
+        ],
+        "Cabo Verde": [
+            16.0778852948345,
+            16.3376842451187,
+            15.8325027007662,
+            14.8142572198718
+        ]
+    },
+    "colors": {
+        "OECD members": "#4B0082",
+        "World": "#87CEEB",
+        "Algeria": "#B8860B",
+        "Cabo Verde": "#DC143C"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

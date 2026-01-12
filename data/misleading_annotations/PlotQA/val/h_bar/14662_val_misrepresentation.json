@@ -1,0 +1,80 @@
+{
+    "title": "Export and external balance on goods as percent of GDP for different countries",
+    "legend": {
+        "Austria": "#B03060",
+        "El Salvador": "#00BFFF",
+        "Guyana": "#808000",
+        "Japan": "#A0522D"
+    },
+    "categories": [
+        "Exports of goods",
+        "External balance on goods"
+    ],
+    "data": {
+        "Austria": [
+            31.4820450451102,
+            -0.0148008368162051
+        ],
+        "El Salvador": [
+            18.9923042325584,
+            -7.11001373455557
+        ],
+        "Guyana": [
+            79.5683401563067,
+            -11.19424428218
+        ],
+        "Japan": [
+            10.1465037366569,
+            2.94081048145125
+        ]
+    },
+    "colors": {
+        "Austria": "#B03060",
+        "El Salvador": "#00BFFF",
+        "Guyana": "#808000",
+        "Japan": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Austria": [
+            1.75,
+            0.25
+        ],
+        "El Salvador": [
+            1.75,
+            0.25
+        ],
+        "Guyana": [
+            1.75,
+            0.25
+        ],
+        "Japan": [
+            1.75,
+            0.25
+        ]
+    }
+}

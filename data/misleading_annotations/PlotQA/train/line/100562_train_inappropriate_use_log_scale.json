@@ -1,0 +1,53 @@
+{
+    "title": "Adult literacy rate among the population of Poland with age of 15+ years",
+    "legend": {
+        "Adult literacy rate": "#E9967A"
+    },
+    "x_axis": [
+        "1978",
+        "1994",
+        "2004",
+        "2013"
+    ],
+    "y_axis_label": "Literacy rate(%)",
+    "data": [
+        {
+            "label": "Adult literacy rate",
+            "color": "#E9967A",
+            "values": [
+                98.74274,
+                99.4028,
+                99.6179428100585,
+                99.7624893188477
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 90,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

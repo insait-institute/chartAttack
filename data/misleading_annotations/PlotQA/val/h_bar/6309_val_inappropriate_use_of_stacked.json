@@ -1,0 +1,67 @@
+{
+    "title": "Cost of damage caused to an economy due to CO2 emissions",
+    "legend": {
+        "1987": "#f27979",
+        "1988": "#f2f200",
+        "1989": "#79f279",
+        "1990": "#00a5a5",
+        "1991": "#5252a5",
+        "1992": "#a500a5"
+    },
+    "categories": [
+        "Cost of damage caused to an economy due to CO2 emissions"
+    ],
+    "data": {
+        "1987": [
+            313822.831221185
+        ],
+        "1988": [
+            427214.2420675
+        ],
+        "1989": [
+            483581.221443224
+        ],
+        "1990": [
+            543600.88118373
+        ],
+        "1991": [
+            587239.402254591
+        ],
+        "1992": [
+            646888.175811992
+        ]
+    },
+    "colors": {
+        "1987": "#f27979",
+        "1988": "#f2f200",
+        "1989": "#79f279",
+        "1990": "#00a5a5",
+        "1991": "#5252a5",
+        "1992": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 22699900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

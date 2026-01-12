@@ -1,0 +1,55 @@
+{
+    "title": "Net Official DA received by an economy in 1963",
+    "legend": {
+        "Korea (Republic)": "#6B8E23",
+        "Madagascar": "#BEBEBE",
+        "Zambia": "#4169E1"
+    },
+    "categories": [
+        "% of GNI",
+        "% of gross capital formation"
+    ],
+    "data": {
+        "Korea (Republic)": [
+            6.70767329550964,
+            36.2553489845363
+        ],
+        "Madagascar": [
+            1.12908601811479,
+            16.1540691470902
+        ],
+        "Zambia": [
+            0.84551346060789,
+            4.14995537630978
+        ]
+    },
+    "colors": {
+        "Korea (Republic)": "#6B8E23",
+        "Madagascar": "#BEBEBE",
+        "Zambia": "#4169E1"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

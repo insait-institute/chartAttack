@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "United States": "#f27979",
+        "China": "#f29100",
+        "Germany": "#daf279",
+        "Japan": "#30f200",
+        "India": "#52a574",
+        "United Kingdom": "#00a5a5",
+        "Italy": "#5274a5",
+        "France": "#2100a5",
+        "Mexico": "#da79f2",
+        "Spain": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "United States": [
+            1105.0
+        ],
+        "China": [
+            955.6
+        ],
+        "Germany": [
+            382.6
+        ],
+        "Japan": [
+            261.0
+        ],
+        "India": [
+            253.1
+        ],
+        "United Kingdom": [
+            246.0
+        ],
+        "Italy": [
+            215.5
+        ],
+        "France": [
+            211.7
+        ],
+        "Mexico": [
+            167.2
+        ],
+        "Spain": [
+            156.0
+        ]
+    },
+    "colors": {
+        "United States": "#f27979",
+        "China": "#f29100",
+        "Germany": "#daf279",
+        "Japan": "#30f200",
+        "India": "#52a574",
+        "United Kingdom": "#00a5a5",
+        "Italy": "#5274a5",
+        "France": "#2100a5",
+        "Mexico": "#da79f2",
+        "Spain": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

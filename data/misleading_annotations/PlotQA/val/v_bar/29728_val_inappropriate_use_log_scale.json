@@ -1,0 +1,81 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1985",
+    "x_axis": {
+        "categories": [
+            "Chile",
+            "China",
+            "Colombia",
+            "Comoros",
+            "Congo (Democratic)",
+            "Congo (Republic)"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Industry": "#DB7093",
+        "Manufacturing": "#8FBC8F",
+        "Services": "#DC143C",
+        "Agriculture": "#556B2F"
+    },
+    "data": {
+        "Industry": [
+            5997009669.89929,
+            130843534868.392,
+            12074765479.5226,
+            16108745.0493725,
+            2100647240.84353,
+            1165019250.28702
+        ],
+        "Manufacturing": [
+            1073230774.25743,
+            1850267977.6385,
+            380254030.710173,
+            5333333.23914327,
+            618452403.9005232,
+            3392708328.66443
+        ],
+        "Services": [
+            90190474435.1223,
+            15969238877.1124,
+            57031669.30682889,
+            2512422001.98243,
+            834923688.6477691,
+            2351088794.05941
+        ],
+        "Agriculture": [
+            382705376.295107,
+            1218307863.9811,
+            86448977909.3026,
+            5928804150.5147,
+            41350298.96439579,
+            2153111843.93923
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 130843534870
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

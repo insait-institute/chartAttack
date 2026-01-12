@@ -1,0 +1,80 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "01/02",
+            "02/03",
+            "03/04",
+            "04/05",
+            "05/06",
+            "06/07",
+            "07/08",
+            "08/09",
+            "09/10",
+            "10/11",
+            "11/12",
+            "12/13",
+            "13/14",
+            "14/15",
+            "15/16",
+            "16/17",
+            "17/18",
+            "18/19",
+            "19/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "data": {
+        "Model": [
+            96,
+            97,
+            88,
+            78,
+            77,
+            82,
+            114,
+            121,
+            127,
+            132,
+            117,
+            140,
+            153,
+            157,
+            178,
+            223,
+            246,
+            287,
+            240
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 290
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

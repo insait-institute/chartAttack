@@ -1,0 +1,54 @@
+{
+    "title": "",
+    "legend": {
+        "Magicians": "#2876dd"
+    },
+    "categories": [
+        "David Copperfield",
+        "Penn & Teller",
+        "Criss Angel",
+        "David Blaine",
+        "The Illusionists",
+        "Michael Carbonaro",
+        "Derren Brown"
+    ],
+    "data": {
+        "Magicians": [
+            61,
+            30,
+            16,
+            13.5,
+            12,
+            8.5,
+            8
+        ]
+    },
+    "colors": {
+        "Magicians": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

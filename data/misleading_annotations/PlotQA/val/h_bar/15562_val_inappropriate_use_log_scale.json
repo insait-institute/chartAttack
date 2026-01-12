@@ -1,0 +1,47 @@
+{
+    "title": "Number of children ages 0-14 who are infected with HIV in the year 2013",
+    "legend": {
+        "Children (0-14) living with HIV": "#FFA500"
+    },
+    "categories": [
+        "Bangladesh",
+        "Belize",
+        "Benin",
+        "Bolivia"
+    ],
+    "data": {
+        "Children (0-14) living with HIV": [
+            500,
+            200,
+            8100,
+            1000
+        ]
+    },
+    "colors": {
+        "Children (0-14) living with HIV": "#FFA500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Market value in billion euros",
+    "x_axis": {
+        "categories": [
+            "2019",
+            "2020",
+            "2021",
+            "2022"
+        ]
+    },
+    "y_axis": {
+        "label": "Market value in billion euros"
+    },
+    "legend": {
+        "Devices & systems": "#2876dd",
+        "Software & ICT solutions": "#0f283e",
+        "ICT services": "#bababa",
+        "TLC network systems": "#a60b0b",
+        "Digital advertisement & content": "#87bc24"
+    },
+    "data": {
+        "Devices & systems": [
+            19.1,
+            18.4,
+            19,
+            19.8
+        ],
+        "Software & ICT solutions": [
+            7.7,
+            7.6,
+            8.2,
+            8.8
+        ],
+        "ICT services": [
+            12.3,
+            11.8,
+            12.8,
+            13.6
+        ],
+        "TLC network systems": [
+            20.7,
+            19.9,
+            19.4,
+            19.1
+        ],
+        "Digital advertisement & content": [
+            12,
+            11.9,
+            12.8,
+            13.6
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "scaling_factors": {
+        "Devices & systems": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Software & ICT solutions": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "ICT services": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "TLC network systems": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ],
+        "Digital advertisement & content": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

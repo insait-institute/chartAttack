@@ -1,0 +1,72 @@
+{
+    "title": "Global emissions of Hydrofluorocarbons",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Serbia": "#f27979",
+        "Singapore": "#f2f200",
+        "South Africa": "#79f279",
+        "Spain": "#00a5a5",
+        "Sweden": "#5252a5",
+        "Switzerland": "#a500a5"
+    },
+    "data": {
+        "Serbia": [
+            0.5
+        ],
+        "Singapore": [
+            12.6
+        ],
+        "South Africa": [
+            0.2
+        ],
+        "Spain": [
+            1950.3
+        ],
+        "Sweden": [
+            0.2
+        ],
+        "Switzerland": [
+            0.3
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8610
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Serbia": "#f27979",
+        "Singapore": "#f2f200",
+        "South Africa": "#79f279",
+        "Spain": "#00a5a5",
+        "Sweden": "#5252a5",
+        "Switzerland": "#a500a5"
+    }
+}

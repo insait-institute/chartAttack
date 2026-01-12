@@ -1,0 +1,58 @@
+{
+    "title": "",
+    "legend": {
+        "Installed Capacity": "#2876dd"
+    },
+    "categories": [
+        "Asia",
+        "Europa",
+        "North America",
+        "Oceania",
+        "South America",
+        "Africa",
+        "Eurasia",
+        "Middle East",
+        "Central America and Carribean"
+    ],
+    "data": {
+        "Installed Capacity": [
+            77730,
+            20285,
+            16108,
+            4419,
+            4167,
+            1228,
+            1085,
+            1035,
+            136
+        ]
+    },
+    "colors": {
+        "Installed Capacity": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 77730
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

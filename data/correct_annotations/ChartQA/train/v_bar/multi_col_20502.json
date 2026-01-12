@@ -1,0 +1,68 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Sales to Wholesale Customers": "#2876dd",
+        "Sales through NIKE Direct": "#0f283e",
+        "Global Brand Divisions*": "#bababa"
+    },
+    "data": {
+        "Sales to Wholesale Customers": [
+            22577,
+            23078,
+            23969,
+            25423,
+            23156
+        ],
+        "Sales through NIKE Direct": [
+            7857,
+            9082,
+            10428,
+            11753,
+            12382
+        ],
+        "Global Brand Divisions*": [
+            73,
+            73,
+            88,
+            42,
+            30
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 25430
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

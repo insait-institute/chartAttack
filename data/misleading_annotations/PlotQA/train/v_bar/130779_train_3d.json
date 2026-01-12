@@ -1,0 +1,60 @@
+{
+    "title": "Proportion of the total female labor force of different age groups participating in production in 1991",
+    "x_axis": {
+        "categories": [
+            "Ages 15-20",
+            "Ages 20-50",
+            "Ages 50+"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Angola": "#FFD700",
+        "Fiji": "#8B008B",
+        "Indonesia": "#808000"
+    },
+    "data": {
+        "Angola": [
+            52.2000007629395,
+            66.099998474121,
+            67.5
+        ],
+        "Fiji": [
+            28.2000007629395,
+            30.7000007629395,
+            31.5
+        ],
+        "Indonesia": [
+            41.2000007629395,
+            49.2999992370605,
+            51.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

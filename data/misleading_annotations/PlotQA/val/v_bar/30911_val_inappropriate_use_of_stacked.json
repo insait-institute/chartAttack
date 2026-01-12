@@ -1,0 +1,72 @@
+{
+    "title": "Total exports of goods and services in US$",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Congo (Republic)": "#f27979",
+        "Costa Rica": "#f2f200",
+        "Cote d'Ivoire": "#79f279",
+        "Denmark": "#00a5a5",
+        "Dominican Republic": "#5252a5",
+        "Ecuador": "#a500a5"
+    },
+    "data": {
+        "Congo (Republic)": [
+            26943546.4343425
+        ],
+        "Costa Rica": [
+            108688777.972701
+        ],
+        "Cote d'Ivoire": [
+            187017624.489569
+        ],
+        "Denmark": [
+            2019063422.49182
+        ],
+        "Dominican Republic": [
+            172100000.0
+        ],
+        "Ecuador": [
+            170261661.44503
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2528521060
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Congo (Republic)": "#f27979",
+        "Costa Rica": "#f2f200",
+        "Cote d'Ivoire": "#79f279",
+        "Denmark": "#00a5a5",
+        "Dominican Republic": "#5252a5",
+        "Ecuador": "#a500a5"
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Assets in billion euros",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2014",
+            "2016",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "Assets in billion euros"
+    },
+    "legend": {
+        "Assets": "#2876dd"
+    },
+    "data": {
+        "Assets": [
+            252,
+            341,
+            441,
+            496
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 500
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

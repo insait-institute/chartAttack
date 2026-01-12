@@ -1,0 +1,62 @@
+{
+    "title": "Customs and other import duties (as % of tax revenue) of different countries in 2012",
+    "legend": {
+        "Suriname": "#f27979",
+        "Tanzania": "#c1f200",
+        "Thailand": "#52a574",
+        "Togo": "#0042a5",
+        "Tunisia": "#da79f2"
+    },
+    "categories": [
+        "Customs and other import duties (as % of tax revenue) of different countries in 2012"
+    ],
+    "data": {
+        "Suriname": [
+            9.85392324553204
+        ],
+        "Tanzania": [
+            14.3544613182185
+        ],
+        "Thailand": [
+            6.1469024022251
+        ],
+        "Togo": [
+            23.49083696468489
+        ],
+        "Tunisia": [
+            8.834530825327631
+        ]
+    },
+    "colors": {
+        "Suriname": "#f27979",
+        "Tanzania": "#c1f200",
+        "Thailand": "#52a574",
+        "Togo": "#0042a5",
+        "Tunisia": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

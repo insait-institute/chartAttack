@@ -1,0 +1,71 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "x_axis": {
+        "categories": [
+            "Honduras",
+            "India",
+            "Kenya",
+            "Malaysia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#FFFF00",
+        "1961": "#000000",
+        "1962": "#EE82EE",
+        "1963": "#00FA9A"
+    },
+    "data": {
+        "1960": [
+            38050000.0,
+            4908678405.678411,
+            68907986.37754461,
+            196622645.82183
+        ],
+        "1961": [
+            40050000.0,
+            5413509670.50967,
+            72841984.8005619,
+            190369656.750794
+        ],
+        "1962": [
+            44100000.0,
+            6010714315.71432,
+            74843983.9980405,
+            211213040.764917
+        ],
+        "1963": [
+            47550000.0,
+            6854964026.964029,
+            80541981.7139412,
+            235530311.2258931
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6854964030
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

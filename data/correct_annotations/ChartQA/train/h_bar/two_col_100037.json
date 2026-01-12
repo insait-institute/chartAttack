@@ -1,0 +1,60 @@
+{
+    "title": "Number of games played by baseball players",
+    "legend": {
+        "Players": "#2876dd"
+    },
+    "categories": [
+        "Zack Wheat",
+        "Bill Russell",
+        "Pee Wee Reese",
+        "Gil Hodges",
+        "Jim Gilliam",
+        "Willie Davis",
+        "Duke Snider",
+        "Carl Furillo",
+        "Steve Garvey",
+        "Eric Karros"
+    ],
+    "data": {
+        "Players": [
+            2322,
+            2181,
+            2166,
+            2006,
+            1956,
+            1952,
+            1923,
+            1806,
+            1727,
+            1601
+        ]
+    },
+    "colors": {
+        "Players": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2330
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of GDP spent on health care in different countries in 2006",
+    "legend": {
+        "Private funds": "#2F4F4F",
+        "Public funds": "#8B0000"
+    },
+    "categories": [
+        "Congo (Democratic)",
+        "Congo (Republic)",
+        "Costa Rica",
+        "Cote d'Ivoire",
+        "Croatia",
+        "Cuba"
+    ],
+    "data": {
+        "Private funds": [
+            2.44668995983309,
+            0.878675534993384,
+            2.42587187641555,
+            4.66788014329706,
+            0.9797697252240479,
+            0.5899461719692779
+        ],
+        "Public funds": [
+            0.9389913601669108,
+            1.49403276500662,
+            5.39731392358445,
+            1.39231712670294,
+            6.054411014775949,
+            7.081250078030719
+        ]
+    },
+    "colors": {
+        "Private funds": "#2F4F4F",
+        "Public funds": "#8B0000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

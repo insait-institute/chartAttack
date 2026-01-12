@@ -1,0 +1,126 @@
+{
+    "title": "Individuals in millions",
+    "x_axis": {
+        "categories": [
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Individuals in millions"
+    },
+    "legend": {
+        "Did not use the internet in the last three months": "#2876dd",
+        "Less than weekly": "#0f283e",
+        "At least weekly": "#bababa",
+        "Daily": "#a60b0b"
+    },
+    "data": {
+        "Did not use the internet in the last three months": [
+            18.5,
+            15.3,
+            13.5,
+            11.6,
+            11.1,
+            9.8,
+            8.8,
+            7.4,
+            6.5,
+            6.2,
+            5.1,
+            5.0,
+            4.8,
+            3.9,
+            5.0
+        ],
+        "Less than weekly": [
+            3.7,
+            3.0,
+            2.8,
+            2.5,
+            1.7,
+            2.2,
+            1.5,
+            1.6,
+            1.2,
+            1.4,
+            1.2,
+            1.1,
+            0.8,
+            0.7,
+            0.8
+        ],
+        "At least weekly": [
+            7.4,
+            7.3,
+            7.2,
+            7.3,
+            6.3,
+            5.2,
+            5.3,
+            4.2,
+            4.1,
+            3.5,
+            2.8,
+            4.1,
+            1.9,
+            2.1,
+            2.0
+        ],
+        "Daily": [
+            16.2,
+            20.7,
+            23.0,
+            26.6,
+            29.2,
+            31.4,
+            33.2,
+            35.7,
+            37.6,
+            38.7,
+            41.8,
+            40.9,
+            44.1,
+            45.1,
+            46.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

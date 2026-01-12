@@ -1,0 +1,79 @@
+{
+    "title": "Net enrolment rate in primary and secondary education of Bermuda",
+    "legend": {
+        "Primary": "#8A2BE2",
+        "Secondary": "#5F9EA0"
+    },
+    "x_axis": [
+        "1978",
+        "1979",
+        "1984"
+    ],
+    "y_axis_label": "Net enrolment rate(%)",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#8A2BE2",
+            "values": [
+                82.71959,
+                80.80299000000002,
+                91.64931
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#5F9EA0",
+            "values": [
+                64.90172,
+                59.21239852905271,
+                73.19642639160159
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 50,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        },
+        {
+            "label": "Secondary",
+            "values": [
+                1.75,
+                0.25,
+                0.25
+            ]
+        }
+    ]
+}

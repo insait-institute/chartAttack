@@ -1,0 +1,71 @@
+{
+    "title": "Total male labor force participation rate for ages 15-24",
+    "x_axis": {
+        "categories": [
+            "Myanmar",
+            "Namibia",
+            "Nepal",
+            "Netherlands"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#00FF7F",
+        "1991": "#FF4500",
+        "1992": "#8B4513",
+        "1993": "#90EE90"
+    },
+    "data": {
+        "1990": [
+            57.0,
+            40.0999984741211,
+            84.1999969482422,
+            60.0
+        ],
+        "1991": [
+            57.0,
+            39.5999984741211,
+            84.1999969482422,
+            60.2999992370605
+        ],
+        "1992": [
+            57.0,
+            39.2999992370605,
+            84.3000030517578,
+            60.2999992370605
+        ],
+        "1993": [
+            57.0,
+            39.0999984741211,
+            84.3000030517578,
+            60.9000015258789
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

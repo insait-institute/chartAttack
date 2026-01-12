@@ -1,0 +1,65 @@
+{
+    "title": "Price level ratio of PPP conversion factor (GDP) to market exchange rate",
+    "x_axis": {
+        "categories": [
+            "Russian Federation",
+            "Rwanda",
+            "Samoa"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#cd853f",
+        "1991": "#cd9c3f",
+        "1992": "#cfb647"
+    },
+    "data": {
+        "1990": [
+            0.434942990532507,
+            0.6391287082306489,
+            0.327469184819892
+        ],
+        "1991": [
+            0.444290889886878,
+            0.475612057084552,
+            0.323945177336453
+        ],
+        "1992": [
+            0.451651761093387,
+            0.466198309919149,
+            0.334304310202361
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "1990": "#cd853f",
+        "1991": "#cd9c3f",
+        "1992": "#cfb647"
+    }
+}

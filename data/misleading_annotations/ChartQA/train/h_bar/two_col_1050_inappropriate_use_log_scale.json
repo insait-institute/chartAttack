@@ -1,0 +1,61 @@
+{
+    "title": "",
+    "legend": {
+        "Actors": "#2876dd"
+    },
+    "categories": [
+        "Akshay Kumar",
+        "Amitabh Bachchan",
+        "Salman Khan",
+        "Shah Rukh Khan",
+        "Ranveer Singh",
+        "Rajinikanth",
+        "Ajay Devgn",
+        "Aamir Khan",
+        "Mohanlal",
+        "Alia Bhatt"
+    ],
+    "data": {
+        "Actors": [
+            2932.5,
+            2392.5,
+            2292.5,
+            1243.8,
+            1182,
+            1000,
+            940,
+            850,
+            645,
+            592.1
+        ]
+    },
+    "colors": {
+        "Actors": "#2876dd"
+    },
+    "y_label": "Earnings in million Indian rupees",
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2940
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

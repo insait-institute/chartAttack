@@ -1,0 +1,93 @@
+{
+    "title": "",
+    "y_label": "Number of Academy Awards nominations",
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Walt Disney": [
+            59.0
+        ],
+        "John Williams": [
+            48.0
+        ],
+        "Alfred Newman": [
+            43.0
+        ],
+        "Cedric Gibbons": [
+            39.0
+        ],
+        "Edith Head": [
+            35.0
+        ],
+        "Sammy Cahn": [
+            26.0
+        ],
+        "Max Steiner": [
+            25.0
+        ],
+        "Woody Allen": [
+            23.0
+        ],
+        "Billy Wilder": [
+            21.0
+        ],
+        "Randy Newman": [
+            20.0
+        ],
+        "Kevin O'Connell": [
+            20.0
+        ]
+    },
+    "colors": {
+        "Walt Disney": "#f27979",
+        "John Williams": "#f28400",
+        "Alfred Newman": "#e7f279",
+        "Cedric Gibbons": "#58f200",
+        "Edith Head": "#52a561",
+        "Sammy Cahn": "#00a578",
+        "Max Steiner": "#528fa5",
+        "Woody Allen": "#001ea5",
+        "Billy Wilder": "#a579f2",
+        "Randy Newman": "#dc00f2",
+        "Kevin O'Connell": "#f279bb"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Walt Disney": "#f27979",
+        "John Williams": "#f28400",
+        "Alfred Newman": "#e7f279",
+        "Cedric Gibbons": "#58f200",
+        "Edith Head": "#52a561",
+        "Sammy Cahn": "#00a578",
+        "Max Steiner": "#528fa5",
+        "Woody Allen": "#001ea5",
+        "Billy Wilder": "#a579f2",
+        "Randy Newman": "#dc00f2",
+        "Kevin O'Connell": "#f279bb"
+    }
+}

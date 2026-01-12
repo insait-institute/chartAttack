@@ -1,0 +1,62 @@
+{
+    "title": "Lower secondary completion rate of students in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ethiopia": "#f27979",
+        "Finland": "#79f200",
+        "Gambia, The": "#52a5a5",
+        "Greece": "#5200a5"
+    },
+    "data": {
+        "Ethiopia": [
+            13.5624
+        ],
+        "Finland": [
+            107.04275
+        ],
+        "Gambia, The": [
+            11.9848
+        ],
+        "Greece": [
+            89.30107
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Ethiopia": "#f27979",
+        "Finland": "#79f200",
+        "Gambia, The": "#52a5a5",
+        "Greece": "#5200a5"
+    }
+}

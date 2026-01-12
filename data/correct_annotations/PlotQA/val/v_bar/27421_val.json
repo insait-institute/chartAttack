@@ -1,0 +1,72 @@
+{
+    "title": "Fertility rate in countries",
+    "x_axis": {
+        "categories": [
+            "Upper middle income",
+            "World",
+            "Afghanistan",
+            "Albania",
+            "Algeria",
+            "Angola"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#6495ED",
+        "1961": "#8FBC8F",
+        "1962": "#000000"
+    },
+    "data": {
+        "1960": [
+            5.80451430710343,
+            4.98503516232641,
+            7.45,
+            6.186,
+            7.524,
+            7.379
+        ],
+        "1961": [
+            5.85965251064145,
+            5.00452380613889,
+            7.45,
+            6.076000000000001,
+            7.572999999999999,
+            7.388
+        ],
+        "1962": [
+            5.95410958710453,
+            5.01949067748238,
+            7.45,
+            5.956,
+            7.614,
+            7.396
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

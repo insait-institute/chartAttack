@@ -1,0 +1,68 @@
+{
+    "title": "Total earnings of a country by trading goods",
+    "legend": {
+        "2005": "#8A2BE2",
+        "2006": "#9ACD32",
+        "2007": "#BC8F8F"
+    },
+    "categories": [
+        "Chile",
+        "Colombia",
+        "Congo (Democratic)",
+        "Costa Rica",
+        "Cyprus"
+    ],
+    "data": {
+        "2005": [
+            10836955679.0,
+            1614005589.0,
+            -287600000.0,
+            -3248801354.0,
+            -3740466140.0
+        ],
+        "2006": [
+            22815368203.0,
+            355453501.8,
+            -186900000.0,
+            -3890642005.0,
+            -4317484285.0
+        ],
+        "2007": [
+            24003345174.0,
+            -560374249.5,
+            890700000.0,
+            -5140300748.0,
+            -5961029246.0
+        ]
+    },
+    "colors": {
+        "2005": "#8A2BE2",
+        "2006": "#9ACD32",
+        "2007": "#BC8F8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 24003345180
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

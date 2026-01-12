@@ -1,0 +1,132 @@
+{
+    "title": "",
+    "legend": {
+        "Italy": "#f27979",
+        "Canada": "#f24c00",
+        "Russia": "#f2c579",
+        "United Kingdom": "#f2e500",
+        "United States": "#d2f279",
+        "Venezuela": "#65f200",
+        "Colombia": "#85f279",
+        "Saudi Arabia": "#00a522",
+        "Mexico": "#52a57e",
+        "Turkey": "#00a58b",
+        "Brazil": "#5298a5",
+        "Spain": "#0057a5",
+        "France": "#5264a5",
+        "Argentina": "#1100a5",
+        "Indonesia": "#ac79f2",
+        "Japan": "#b200f2",
+        "Thailand": "#f279eb",
+        "South Korea": "#f20099",
+        "Philippines": "#f2799f"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Italy": [
+            32.0
+        ],
+        "Canada": [
+            29.38
+        ],
+        "Russia": [
+            26.88
+        ],
+        "United Kingdom": [
+            26.58
+        ],
+        "United States": [
+            25.62
+        ],
+        "Venezuela": [
+            24.94
+        ],
+        "Colombia": [
+            24.79
+        ],
+        "Saudi Arabia": [
+            24.22
+        ],
+        "Mexico": [
+            24.03
+        ],
+        "Turkey": [
+            23.54
+        ],
+        "Brazil": [
+            22.67
+        ],
+        "Spain": [
+            22.6
+        ],
+        "France": [
+            22.26
+        ],
+        "Argentina": [
+            22.01
+        ],
+        "Indonesia": [
+            20.94
+        ],
+        "Japan": [
+            19.9
+        ],
+        "Thailand": [
+            18.63
+        ],
+        "South Korea": [
+            18.39
+        ],
+        "Philippines": [
+            17.63
+        ]
+    },
+    "colors": {
+        "Italy": "#f27979",
+        "Canada": "#f24c00",
+        "Russia": "#f2c579",
+        "United Kingdom": "#f2e500",
+        "United States": "#d2f279",
+        "Venezuela": "#65f200",
+        "Colombia": "#85f279",
+        "Saudi Arabia": "#00a522",
+        "Mexico": "#52a57e",
+        "Turkey": "#00a58b",
+        "Brazil": "#5298a5",
+        "Spain": "#0057a5",
+        "France": "#5264a5",
+        "Argentina": "#1100a5",
+        "Indonesia": "#ac79f2",
+        "Japan": "#b200f2",
+        "Thailand": "#f279eb",
+        "South Korea": "#f20099",
+        "Philippines": "#f2799f"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

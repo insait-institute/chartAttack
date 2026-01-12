@@ -1,0 +1,60 @@
+{
+    "title": "Use of IMF credit in the Department of Defense",
+    "legend": {
+        "Afghanistan": "#A020F0",
+        "Bolivia": "#A52A2A",
+        "Kosovo": "#D2691E"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Afghanistan": [
+            40172000,
+            98770000,
+            131082000
+        ],
+        "Bolivia": [
+            54705000,
+            42197000,
+            41130000
+        ],
+        "Kosovo": [
+            83296000,
+            87496000,
+            85282000
+        ]
+    },
+    "colors": {
+        "Afghanistan": "#A020F0",
+        "Bolivia": "#A52A2A",
+        "Kosovo": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 131082000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

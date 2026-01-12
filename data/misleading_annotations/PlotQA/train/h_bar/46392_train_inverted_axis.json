@@ -1,0 +1,72 @@
+{
+    "title": "Population in urban agglomerations of countries",
+    "legend": {
+        "1960": "#FF8C00",
+        "1961": "#FFFF00",
+        "1962": "#66CDAA"
+    },
+    "categories": [
+        "Singapore",
+        "Somalia",
+        "South Africa",
+        "Spain",
+        "Sudan",
+        "Sweden"
+    ],
+    "data": {
+        "1960": [
+            99.2298347910593,
+            3.407476472765,
+            25.9386813060474,
+            15.9562272204892,
+            4.60429494716006,
+            10.7499262491155
+        ],
+        "1961": [
+            99.2924694548872,
+            3.58402704674025,
+            25.89716345917611,
+            16.3684897972462,
+            4.76742619631468,
+            11.0039257989164
+        ],
+        "1962": [
+            99.55856473545879,
+            3.76915167738919,
+            25.94217094969611,
+            16.825095639203,
+            4.93497892767756,
+            11.4819532616694
+        ]
+    },
+    "colors": {
+        "1960": "#FF8C00",
+        "1961": "#FFFF00",
+        "1962": "#66CDAA"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

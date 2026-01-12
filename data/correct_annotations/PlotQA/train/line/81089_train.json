@@ -1,0 +1,76 @@
+{
+    "title": "Export and external balance on goods as percent of GDP for OECD members",
+    "legend": {
+        "Exports of goods": "#4B0082",
+        "External balance on goods": "#DAA520"
+    },
+    "x_axis": [
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "% of GDP",
+    "data": [
+        {
+            "label": "Exports of goods",
+            "color": "#4B0082",
+            "values": [
+                18.19181891928,
+                19.5176504583203,
+                19.87246496273081,
+                20.9782931828984,
+                21.1182507855757,
+                20.9239590983978,
+                22.5929988067223,
+                22.0760276340553
+            ]
+        },
+        {
+            "label": "External balance on goods",
+            "color": "#DAA520",
+            "values": [
+                0.317024723079953,
+                0.5050384722168321,
+                0.345419584263968,
+                0.532876523345351,
+                0.483560730000381,
+                -0.119575761302499,
+                -0.660399834261089,
+                -0.427410283549619
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -10,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

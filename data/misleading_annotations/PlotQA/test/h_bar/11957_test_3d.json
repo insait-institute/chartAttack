@@ -1,0 +1,77 @@
+{
+    "title": "Percentage of new male entrants in the last grade of primary education",
+    "legend": {
+        "Central African Republic": "#87CEEB",
+        "Egypt, Arab Rep.": "#8B0000",
+        "Kazakhstan": "#9ACD32",
+        "Norway": "#D2691E"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Central African Republic": [
+            31.2828006744385,
+            34.0920486450195,
+            33.4338989257813,
+            48.6513900756836,
+            52.4586181640625
+        ],
+        "Egypt, Arab Rep.": [
+            100.973823547363,
+            105.347122192383,
+            98.05715942382808,
+            104.900367736816,
+            107.406349182129
+        ],
+        "Kazakhstan": [
+            106.393257141113,
+            107.409408569336,
+            103.18180847168,
+            102.536613464355,
+            103.327819824219
+        ],
+        "Norway": [
+            102.71166229248,
+            100.703941345215,
+            96.7171173095703,
+            101.498901367188,
+            99.4542083740234
+        ]
+    },
+    "colors": {
+        "Central African Republic": "#87CEEB",
+        "Egypt, Arab Rep.": "#8B0000",
+        "Kazakhstan": "#9ACD32",
+        "Norway": "#D2691E"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

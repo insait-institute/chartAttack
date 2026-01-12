@@ -1,0 +1,64 @@
+{
+    "title": "Number of landed migrants",
+    "legend": {
+        "Migrants": "#2876dd"
+    },
+    "categories": [
+        "Pozzallo",
+        "Lampedusa",
+        "Catania",
+        "Augusta",
+        "Messina",
+        "Trapani",
+        "Crotone",
+        "Palermo",
+        "Porto Empedocle",
+        "Reggio Calabria",
+        "Cagliari",
+        "Brindisi"
+    ],
+    "data": {
+        "Migrants": [
+            3818,
+            3468,
+            2961,
+            2478,
+            2394,
+            1726,
+            1032,
+            809,
+            505,
+            379,
+            176,
+            174
+        ]
+    },
+    "colors": {
+        "Migrants": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3820
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

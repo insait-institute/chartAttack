@@ -1,0 +1,94 @@
+{
+    "title": "Age dependency ratio(old and young) in Samoa",
+    "legend": {
+        "Dependency ratio(old)": "#FF69B4",
+        "Dependency ratio(young)": "#90EE90"
+    },
+    "x_axis": [
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989"
+    ],
+    "y_axis_label": "Ratio",
+    "data": [
+        {
+            "label": "Dependency ratio(old)",
+            "color": "#FF69B4",
+            "values": [
+                5.59388051996809,
+                5.61913230250471,
+                5.85863431795856,
+                6.134767836919591,
+                6.42462492139071,
+                6.689357536928282
+            ]
+        },
+        {
+            "label": "Dependency ratio(young)",
+            "color": "#90EE90",
+            "values": [
+                81.2766906002159,
+                79.1794173008303,
+                77.5775021131748,
+                76.2140430351076,
+                74.8528883298895,
+                73.5039597793202
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Dependency ratio(old)",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Dependency ratio(young)",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

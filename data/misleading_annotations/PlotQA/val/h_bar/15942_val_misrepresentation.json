@@ -1,0 +1,56 @@
+{
+    "title": "Energy use of Bosnia and Herzegovina",
+    "legend": {
+        "Energy use ": "#A0522D"
+    },
+    "categories": [
+        "1990",
+        "1991",
+        "1992",
+        "1993"
+    ],
+    "data": {
+        "Energy use ": [
+            1550.16615875075,
+            1423.33600276527,
+            1034.34415155508,
+            895.0281406183328
+        ]
+    },
+    "colors": {
+        "Energy use ": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1560
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Energy use ": [
+            1.75,
+            0.25,
+            0.25,
+            1.75
+        ]
+    }
+}

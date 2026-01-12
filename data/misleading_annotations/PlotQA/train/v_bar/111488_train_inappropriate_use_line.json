@@ -1,0 +1,60 @@
+{
+    "title": "Net enrollment of males recorded in primary and secondary education in year 1995",
+    "x_axis": {
+        "categories": [
+            "Ethiopia",
+            "Fiji",
+            "Finland",
+            "France",
+            "French Polynesia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Primary": "#DAA520",
+        "Secondary": "#FFFF00"
+    },
+    "data": {
+        "Primary": [
+            26.57599,
+            95.4508,
+            98.4198,
+            96.95134,
+            95.40868
+        ],
+        "Secondary": [
+            37.95465,
+            86.03922,
+            95.33337,
+            41.00761,
+            71.25693000000003
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

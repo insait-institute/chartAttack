@@ -1,0 +1,79 @@
+{
+    "title": "Enrollment rate recorded in primary and secondary education in year 2012",
+    "x_axis": {
+        "categories": [
+            "Primary",
+            "Secondary"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Low income": "#00FFFF",
+        "Hong Kong": "#2F4F4F",
+        "Israel": "#00FF00",
+        "Ukraine": "#D2B48C"
+    },
+    "data": {
+        "Low income": [
+            79.5519104003906,
+            31.3579998016357
+        ],
+        "Hong Kong": [
+            93.5373001098633,
+            88.7415390014648
+        ],
+        "Israel": [
+            97.2988967895508,
+            97.6776885986328
+        ],
+        "Ukraine": [
+            97.9253768920898,
+            85.649559020996
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Low income": [
+            1.75,
+            0.25
+        ],
+        "Hong Kong": [
+            1.75,
+            0.25
+        ],
+        "Israel": [
+            1.75,
+            0.25
+        ],
+        "Ukraine": [
+            1.75,
+            0.25
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Net acquisition and disposal of financial assets and liabilities",
+    "legend": {
+        "Belgium": "#8A2BE2",
+        "Bolivia": "#F0E68C",
+        "Czech Republic": "#000000",
+        "Nigeria": "#FF4500"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Belgium": [
+            9219680886.0,
+            7656953677.0,
+            7477860362.0,
+            -9651825300.0,
+            -17606170174.0,
+            6566625885.0
+        ],
+        "Bolivia": [
+            259347558.1,
+            3025643587.0,
+            2659690532.0,
+            2003713487.0,
+            470520000.0,
+            64281882.92
+        ],
+        "Czech Republic": [
+            -2707565866.0,
+            -4448090531.0,
+            -5533987088.0,
+            -2441671194.0,
+            -4236926445.0,
+            -6446006703.0
+        ],
+        "Nigeria": [
+            26520065122.0,
+            29922504469.0,
+            13244261702.0,
+            8371554210.0,
+            -12509051697.0,
+            -2040568749.0
+        ]
+    },
+    "colors": {
+        "Belgium": "#8A2BE2",
+        "Bolivia": "#F0E68C",
+        "Czech Republic": "#000000",
+        "Nigeria": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 29922504470
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

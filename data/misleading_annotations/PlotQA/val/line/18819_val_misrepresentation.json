@@ -1,0 +1,118 @@
+{
+    "title": "Gender parity index for gross enrollment ratio in different levels of education in High income",
+    "legend": {
+        "Primary education": "#FF00FF",
+        "Secondary education": "#6A5ACD",
+        "Tertiary education": "#D2691E"
+    },
+    "x_axis": [
+        "1980",
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985"
+    ],
+    "y_axis_label": "Gender parity index (GPI)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#FF00FF",
+            "values": [
+                0.991590023040771,
+                0.991590023040771,
+                0.989690005779266,
+                0.986549973487854,
+                0.988390028476715,
+                0.990190029144287
+            ]
+        },
+        {
+            "label": "Secondary education",
+            "color": "#6A5ACD",
+            "values": [
+                1.00417995452881,
+                1.01221001148224,
+                1.00809001922607,
+                1.01091003417969,
+                1.01076996326447,
+                1.01127004623413
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "color": "#D2691E",
+            "values": [
+                0.928420007228851,
+                0.9453099966049192,
+                0.95423001050949,
+                0.9618200063705441,
+                0.970730006694794,
+                0.9839900135993961
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary education",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Secondary education",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

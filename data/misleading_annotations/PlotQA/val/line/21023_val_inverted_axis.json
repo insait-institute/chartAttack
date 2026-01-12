@@ -1,0 +1,86 @@
+{
+    "title": "Percentage of female pupils at different levels of education in Germany",
+    "legend": {
+        "Primary education": "#191970",
+        "Tertiary education": "#DAA520",
+        "Secondary general education": "#5F9EA0",
+        "Secondary vocational education": "#BDB76B"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "Female students (as % of total students)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#191970",
+            "values": [
+                48.5409812927246,
+                48.541259765625,
+                48.5970306396484,
+                48.6213684082031
+            ]
+        },
+        {
+            "label": "Tertiary education",
+            "color": "#DAA520",
+            "values": [
+                48.36544036865229,
+                48.3468017578125,
+                48.2547416687012,
+                48.24499130249021
+            ]
+        },
+        {
+            "label": "Secondary general education",
+            "color": "#5F9EA0",
+            "values": [
+                49.78078842163089,
+                49.7523384094238,
+                49.72721862792971,
+                49.8672294616699
+            ]
+        },
+        {
+            "label": "Secondary vocational education",
+            "color": "#BDB76B",
+            "values": [
+                42.9600486755371,
+                42.96659088134771,
+                42.5373115539551,
+                42.27632904052729
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

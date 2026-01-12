@@ -1,0 +1,72 @@
+{
+    "title": "Net savings as percentage of gross national income",
+    "legend": {
+        "Colombia": "#6A5ACD",
+        "Cote d'Ivoire": "#90EE90",
+        "Iran": "#00FF00",
+        "South Africa": "#FF8C00"
+    },
+    "categories": [
+        "1989",
+        "1990",
+        "1993",
+        "1994"
+    ],
+    "data": {
+        "Colombia": [
+            9.753508573833589,
+            9.362520972093053,
+            8.671495686916451,
+            9.983610157190759
+        ],
+        "Cote d'Ivoire": [
+            -11.9084036046806,
+            -12.8073414436538,
+            -7.478317873696637,
+            9.17971091092427
+        ],
+        "Iran": [
+            3.87988287625457,
+            17.2753888071161,
+            27.0732725277246,
+            25.641180358935
+        ],
+        "South Africa": [
+            6.37237085379707,
+            3.381974636195439,
+            3.62501417997296,
+            4.44678755344562
+        ]
+    },
+    "colors": {
+        "Colombia": "#6A5ACD",
+        "Cote d'Ivoire": "#90EE90",
+        "Iran": "#00FF00",
+        "South Africa": "#FF8C00"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

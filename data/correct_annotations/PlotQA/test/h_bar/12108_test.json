@@ -1,0 +1,77 @@
+{
+    "title": "Claims on domestic economy",
+    "legend": {
+        "Angola": "#8B0000",
+        "Iceland": "#32CD32",
+        "Sweden": "#A020F0",
+        "Uruguay": "#00BFFF"
+    },
+    "categories": [
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Angola": [
+            32.978373802138,
+            34.01806894011,
+            23.2169252758911,
+            13.0635945762118,
+            14.5969747381684
+        ],
+        "Iceland": [
+            47.980233432839,
+            33.6330420859519,
+            -6.83282906988106,
+            -29.185569934047,
+            -58.1072335756764
+        ],
+        "Sweden": [
+            31.0148679228836,
+            42.7961704403568,
+            -11.562880447729,
+            13.5173506970679,
+            19.62758892225261
+        ],
+        "Uruguay": [
+            4.53744282458618,
+            21.8793366248358,
+            -10.3262192617401,
+            11.2774949968855,
+            10.1940822177619
+        ]
+    },
+    "colors": {
+        "Angola": "#8B0000",
+        "Iceland": "#32CD32",
+        "Sweden": "#A020F0",
+        "Uruguay": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,64 @@
+{
+    "title": "Fixed broadband subscriptions (per 100 people) in a country",
+    "legend": {
+        "East Asia (all income levels)": "#90EE90",
+        "Cabo Verde": "#483D8B",
+        "Japan": "#87CEEB"
+    },
+    "categories": [
+        "2005",
+        "2006",
+        "2007",
+        "2009"
+    ],
+    "data": {
+        "East Asia (all income levels)": [
+            3.94663572730761,
+            4.95656192084425,
+            5.78788571285757,
+            8.41907421593071
+        ],
+        "Cabo Verde": [
+            0.195758496273903,
+            0.3763954019172511,
+            0.7924120294472141,
+            2.2589425052603
+        ],
+        "Japan": [
+            18.35039663407,
+            20.7957327907543,
+            22.2422457160813,
+            25.8048385434135
+        ]
+    },
+    "colors": {
+        "East Asia (all income levels)": "#90EE90",
+        "Cabo Verde": "#483D8B",
+        "Japan": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

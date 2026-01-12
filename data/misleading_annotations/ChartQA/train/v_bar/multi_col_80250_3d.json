@@ -1,0 +1,66 @@
+{
+    "title": "App downloads in billions",
+    "x_axis": {
+        "categories": [
+            "2018",
+            "2019",
+            "2020*",
+            "2021*",
+            "2022*",
+            "2023*",
+            "2024*"
+        ]
+    },
+    "y_axis": {
+        "label": "App downloads in billions"
+    },
+    "legend": {
+        "App Store": "#2876dd",
+        "Google Play": "#0f283e"
+    },
+    "data": {
+        "App Store": [
+            30,
+            31,
+            39,
+            38,
+            40,
+            42,
+            45
+        ],
+        "Google Play": [
+            77,
+            85,
+            102,
+            109,
+            119,
+            129,
+            139
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 140
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

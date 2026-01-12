@@ -1,0 +1,64 @@
+{
+    "title": "",
+    "legend": {
+        "Inhabitants": "#2876dd"
+    },
+    "categories": [
+        "Zuid-Holland",
+        "Noord-Holland",
+        "Noord-Brabant",
+        "Gelderland",
+        "Utrecht",
+        "Overijssel",
+        "Limburg",
+        "Friesland",
+        "Groningen",
+        "Drenthe",
+        "Flevoland",
+        "Zeeland"
+    ],
+    "data": {
+        "Inhabitants": [
+            3673893,
+            2853359,
+            2544806,
+            2071972,
+            1342158,
+            1156431,
+            1116137,
+            647672,
+            583990,
+            492167,
+            416546,
+            383032
+        ]
+    },
+    "colors": {
+        "Inhabitants": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3673900
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

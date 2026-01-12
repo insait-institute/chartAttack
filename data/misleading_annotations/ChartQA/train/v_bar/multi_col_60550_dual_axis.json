@@ -1,0 +1,92 @@
+{
+    "title": "Number of students",
+    "x_axis": {
+        "categories": [
+            "2008/09",
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20*"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of students"
+    },
+    "legend": {
+        "Public universities": "#2876dd",
+        "Private universities": "#0f283e"
+    },
+    "data": {
+        "Public universities": [
+            1275143,
+            1302926,
+            1336517,
+            1371355,
+            1344695,
+            1325197,
+            1284772,
+            1269926,
+            1247237,
+            1258632,
+            1311800,
+            1314575
+        ],
+        "Private universities": [
+            155004,
+            168793,
+            193345,
+            201262,
+            203839,
+            214512,
+            221407,
+            226091,
+            244969,
+            234109,
+            283239,
+            318783
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 1247237,
+                "max_value": 1371355
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 155004,
+                "max_value": 318783
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Cost of the damage caused to an economy due to the depletion of various resources in 2013 ",
+    "legend": {
+        "Congo (Republic)": "#00CED1",
+        "Philippines": "#00FA9A"
+    },
+    "categories": [
+        "Coal",
+        "Minerals",
+        "Energy",
+        "Water"
+    ],
+    "data": {
+        "Congo (Republic)": [
+            0.223351696795566,
+            0.0421822000658147,
+            53.9137110433232,
+            53.955893243389
+        ],
+        "Philippines": [
+            0.294185388846497,
+            1.55933811674804,
+            0.2405161060200489,
+            1.99396337180687
+        ]
+    },
+    "colors": {
+        "Congo (Republic)": "#00CED1",
+        "Philippines": "#00FA9A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

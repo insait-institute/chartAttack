@@ -1,0 +1,76 @@
+{
+    "title": "Value added by the industrial sector to the total GDP of a country",
+    "x_axis": {
+        "categories": [
+            "Chad",
+            "Chile",
+            "China",
+            "Congo (Republic)",
+            "Cote d'Ivoire"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#BEBEBE",
+        "1961": "#F4A460",
+        "1962": "#87CEEB",
+        "1963": "#EE82EE"
+    },
+    "data": {
+        "1960": [
+            9.474079453026619,
+            35.266734065314,
+            44.4886753603294,
+            17.0278623527498,
+            13.1387841021551
+        ],
+        "1961": [
+            10.0624548136961,
+            35.9430830708079,
+            31.87704918032789,
+            18.0107513527578,
+            13.8789745254135
+        ],
+        "1962": [
+            9.181805513181393,
+            37.3765239832696,
+            31.2625076133299,
+            17.8921543504908,
+            13.9819108863633
+        ],
+        "1963": [
+            9.79900009813371,
+            38.3075047884381,
+            33.0495418795103,
+            17.7725109223739,
+            14.7002064215418
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

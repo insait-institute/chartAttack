@@ -1,0 +1,51 @@
+{
+    "title": "Value in billion GBP",
+    "x_axis": {
+        "categories": [
+            "2009**",
+            "2014"
+        ]
+    },
+    "y_axis": {
+        "label": "Value in billion GBP"
+    },
+    "legend": {
+        "Direct value": "#2876dd",
+        "Direct and indirect value": "#0f283e"
+    },
+    "data": {
+        "Direct value": [
+            21,
+            26
+        ],
+        "Direct and indirect value": [
+            37,
+            46
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

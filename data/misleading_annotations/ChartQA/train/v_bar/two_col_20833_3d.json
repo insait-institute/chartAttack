@@ -1,0 +1,54 @@
+{
+    "title": "Share of internet users",
+    "x_axis": {
+        "categories": [
+            "10-15",
+            "16-24",
+            "25-34",
+            "35-44",
+            "45-59",
+            "60+"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of internet users"
+    },
+    "legend": {
+        "Internet Users": "#2876dd"
+    },
+    "data": {
+        "Internet Users": [
+            92,
+            97,
+            96,
+            90,
+            74,
+            38
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

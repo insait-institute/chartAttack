@@ -1,0 +1,72 @@
+{
+    "title": "Tourism statistics : Number of departures",
+    "x_axis": {
+        "categories": [
+            "Bulgaria",
+            "Cambodia",
+            "Canada",
+            "China",
+            "Costa Rica",
+            "Cuba"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1995": "#00FF7F",
+        "1996": "#FF00FF",
+        "1997": "#E9967A"
+    },
+    "data": {
+        "1995": [
+            3524000.0,
+            31000.0,
+            18206000.0,
+            4520000.0,
+            273000.0,
+            72000.0
+        ],
+        "1996": [
+            3006000.0,
+            38000.0,
+            18973000.0,
+            5061000.0,
+            283000.0,
+            72000.0
+        ],
+        "1997": [
+            3059000.0,
+            45000.0,
+            19111000.0,
+            5324000.0,
+            288000.0,
+            83000.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 19111000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

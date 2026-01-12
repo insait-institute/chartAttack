@@ -1,0 +1,82 @@
+{
+    "title": "Net Official DA received as a percentage of gross capital formation",
+    "legend": {
+        "1960": "#8FBC8F",
+        "1961": "#708090",
+        "1962": "#9ACD32",
+        "1963": "#FF4500"
+    },
+    "categories": [
+        "Morocco",
+        "Nicaragua",
+        "Niger",
+        "Pakistan",
+        "Peru",
+        "Philippines"
+    ],
+    "data": {
+        "1960": [
+            28.6569449349772,
+            22.7685109398715,
+            0.132897945508672,
+            59.1887235004704,
+            -1.13035428148042,
+            4.2840555285544
+        ],
+        "1961": [
+            56.6852255052291,
+            23.0168972922601,
+            5.929337819642361,
+            36.9639178710338,
+            -1.76712798975642,
+            1.28747679096135
+        ],
+        "1962": [
+            29.32416486504031,
+            15.3083699618045,
+            8.340072128624529,
+            49.34668122106461,
+            0.474208528601084,
+            3.44157643771213
+        ],
+        "1963": [
+            29.6129745820725,
+            15.3788997417248,
+            6.24560424396758,
+            51.2354270964053,
+            0.917366416936014,
+            2.04603643627556
+        ]
+    },
+    "colors": {
+        "1960": "#8FBC8F",
+        "1961": "#708090",
+        "1962": "#9ACD32",
+        "1963": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

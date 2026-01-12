@@ -1,0 +1,52 @@
+{
+    "title": "Energy use(kg of oil equivalent per capita) by countries in the year 1969",
+    "x_axis": {
+        "categories": [
+            "Netherlands",
+            "New Zealand",
+            "Norway",
+            "Poland",
+            "Portugal"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Energy use ": "#A0522D"
+    },
+    "data": {
+        "Energy use ": [
+            3362.78721886904,
+            2374.22857761108,
+            3193.65507820632,
+            2438.36688859326,
+            579.972492793489
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3370
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Enrollment rate recorded in primary schools in year 1984",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Fragile and conflict affected situations": "#f27979",
+        "Heavily indebted poor countries": "#f2f200",
+        "High income": "#79f279",
+        "High income: nonOECD": "#00a5a5",
+        "High income: OECD": "#5252a5",
+        "Latin America(all income levels)": "#a500a5"
+    },
+    "data": {
+        "Fragile and conflict affected situations": [
+            54.6808280944824
+        ],
+        "Heavily indebted poor countries": [
+            44.92422103881839
+        ],
+        "High income": [
+            93.39761352539058
+        ],
+        "High income: nonOECD": [
+            85.2673416137695
+        ],
+        "High income: OECD": [
+            95.3926315307617
+        ],
+        "Latin America(all income levels)": [
+            88.8910598754883
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Fragile and conflict affected situations": "#f27979",
+        "Heavily indebted poor countries": "#f2f200",
+        "High income": "#79f279",
+        "High income: nonOECD": "#00a5a5",
+        "High income: OECD": "#5252a5",
+        "Latin America(all income levels)": "#a500a5"
+    }
+}

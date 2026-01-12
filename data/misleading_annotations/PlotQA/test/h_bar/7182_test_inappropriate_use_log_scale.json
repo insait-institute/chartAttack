@@ -1,0 +1,58 @@
+{
+    "title": "Agricultural methane and nitrous oxide emissions by Lebanon",
+    "legend": {
+        "Methane emissions": "#FF8C00",
+        "Nitrous oxide emissions": "#B03060"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "data": {
+        "Methane emissions": [
+            23.9771101573677,
+            23.9024928303552,
+            24.9024199843872,
+            25.1900705321975,
+            24.8359056235586
+        ],
+        "Nitrous oxide emissions": [
+            62.75565123789021,
+            57.57778521244561,
+            60.9104938271605,
+            65.1652119700748,
+            48.3572216097023
+        ]
+    },
+    "colors": {
+        "Methane emissions": "#FF8C00",
+        "Nitrous oxide emissions": "#B03060"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

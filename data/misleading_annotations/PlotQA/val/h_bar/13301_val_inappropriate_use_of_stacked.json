@@ -1,0 +1,47 @@
+{
+    "title": "Percentage of population that have access to electricity in 1990",
+    "legend": {
+        "Rural Population": "#f27979",
+        "Urban Population": "#00a5a5"
+    },
+    "categories": [
+        "Percentage of population that have access to electricity in 1990"
+    ],
+    "data": {
+        "Rural Population": [
+            6.579184
+        ],
+        "Urban Population": [
+            100.0
+        ]
+    },
+    "colors": {
+        "Rural Population": "#f27979",
+        "Urban Population": "#00a5a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,100 @@
+{
+    "title": "Revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Entertainment and Licensing": "#2876dd",
+        "International": "#2859dd",
+        "U.S. and Canada": "#3144de"
+    },
+    "data": {
+        "Entertainment and Licensing": [
+            155.01,
+            136.49,
+            162.23,
+            181.43,
+            190.96,
+            219.47,
+            244.7,
+            265.2,
+            285.6,
+            298.5,
+            434.5,
+            373.9
+        ],
+        "International": [
+            1459.48,
+            1559.93,
+            1861.9,
+            1782.12,
+            1872.98,
+            2023.0,
+            1971.9,
+            2194.7,
+            2233.6,
+            1847.6,
+            1836.4,
+            1579.0
+        ],
+        "U.S. and Canada": [
+            2447.94,
+            2299.55,
+            2253.46,
+            2116.3,
+            2006.08,
+            2022.43,
+            2225.5,
+            2559.9,
+            2690.5,
+            2433.4,
+            2449.3,
+            2556.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2700
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Entertainment and Licensing": "#2876dd",
+        "International": "#2859dd",
+        "U.S. and Canada": "#3144de"
+    }
+}

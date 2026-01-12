@@ -1,0 +1,62 @@
+{
+    "title": "Fossil fuel energy consumption in 1990",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Egypt, Arab Rep.": "#f27979",
+        "El Salvador": "#79f200",
+        "Estonia": "#52a5a5",
+        "Ethiopia": "#5200a5"
+    },
+    "data": {
+        "Egypt, Arab Rep.": [
+            94.08738163506399
+        ],
+        "El Salvador": [
+            31.4362029415351
+        ],
+        "Estonia": [
+            43.73658072434
+        ],
+        "Ethiopia": [
+            3.86862028300766
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Egypt, Arab Rep.": "#f27979",
+        "El Salvador": "#79f200",
+        "Estonia": "#52a5a5",
+        "Ethiopia": "#5200a5"
+    }
+}

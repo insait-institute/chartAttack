@@ -1,0 +1,56 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy in 2004",
+    "x_axis": {
+        "categories": [
+            "Merchandise exports",
+            "Merchandise imports"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Dominica": "#FFA07A",
+        "Maldives": "#4682B4",
+        "Togo": "#8B4513"
+    },
+    "data": {
+        "Dominica": [
+            68007434.69,
+            227615107.7
+        ],
+        "Maldives": [
+            122832043.6,
+            644978896.5
+        ],
+        "Togo": [
+            407957216.9,
+            556811425.4
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 644978900
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

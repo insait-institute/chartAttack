@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of non-pregnant women suffering from anaemia",
+    "legend": {
+        "1990": "#9ACD32",
+        "1991": "#8B008B",
+        "1992": "#708090"
+    },
+    "categories": [
+        "Chile",
+        "China",
+        "Colombia",
+        "Comoros",
+        "Congo (Democratic)"
+    ],
+    "data": {
+        "1990": [
+            19.5,
+            38.4,
+            32.6,
+            41.1,
+            54.6
+        ],
+        "1991": [
+            17.7,
+            35.9,
+            32.6,
+            40.2,
+            54.4
+        ],
+        "1992": [
+            16.1,
+            33.4,
+            32.8,
+            39.4,
+            54.3
+        ]
+    },
+    "colors": {
+        "1990": "#9ACD32",
+        "1991": "#8B008B",
+        "1992": "#708090"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

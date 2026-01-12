@@ -1,0 +1,70 @@
+{
+    "title": "Percentage of anaemic women in Europe(developing only)",
+    "legend": {
+        "Non-pregnant women": "#2E8B57",
+        "Pregnant women": "#BC8F8F"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Number of anaemic women (in %)",
+    "data": [
+        {
+            "label": "Non-pregnant women",
+            "color": "#2E8B57",
+            "values": [
+                31.6499385979602,
+                31.86544929211211,
+                31.96945124784349,
+                31.83219951017231,
+                31.5533784982976,
+                31.0824120908532
+            ]
+        },
+        {
+            "label": "Pregnant women",
+            "color": "#BC8F8F",
+            "values": [
+                31.6329958229483,
+                31.2517551361116,
+                30.8864177824325,
+                30.4266686326355,
+                29.9756084368199,
+                29.478603939088
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

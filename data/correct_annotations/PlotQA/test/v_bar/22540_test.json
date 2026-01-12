@@ -1,0 +1,63 @@
+{
+    "title": "Total earnings from merchandise exports and imports by the reporting economy(residual) in 1984",
+    "x_axis": {
+        "categories": [
+            "Europe(developing only)",
+            "European Union",
+            "Fragile and conflict affected situations",
+            "Heavily indebted poor countries",
+            "High income",
+            "High income: nonOECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#2F4F4F",
+        "Merchandise imports": "#BEBEBE"
+    },
+    "data": {
+        "Merchandise exports": [
+            25.80939942933031,
+            12.8095673086315,
+            19.2410767593838,
+            18.3818532340021,
+            8.84358869864506,
+            9.372143893643381
+        ],
+        "Merchandise imports": [
+            21.1847621577081,
+            12.305010541861,
+            13.4545983679933,
+            19.3162416925092,
+            7.1261901747684,
+            3.14476004938402
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

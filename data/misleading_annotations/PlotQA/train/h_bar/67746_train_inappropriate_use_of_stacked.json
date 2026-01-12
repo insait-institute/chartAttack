@@ -1,0 +1,62 @@
+{
+    "title": "Net national savings in current US dollars",
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#c1f200",
+        "2010": "#52a574",
+        "2011": "#0042a5",
+        "2012": "#da79f2"
+    },
+    "categories": [
+        "Net national savings in current US dollars"
+    ],
+    "data": {
+        "2008": [
+            789851286.503451
+        ],
+        "2009": [
+            1067870988.5537
+        ],
+        "2010": [
+            1533230889.67908
+        ],
+        "2011": [
+            2071939211.58432
+        ],
+        "2012": [
+            2792693547.7055
+        ]
+    },
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#c1f200",
+        "2010": "#52a574",
+        "2011": "#0042a5",
+        "2012": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2792693550
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

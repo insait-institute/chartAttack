@@ -1,0 +1,56 @@
+{
+    "title": "Prevalence of severe wasting in children of different countries with age under 5 years",
+    "x_axis": {
+        "categories": [
+            "Female",
+            "Male"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "India": "#BEBEBE",
+        "Malawi": "#F4A460",
+        "Niger": "#E9967A"
+    },
+    "data": {
+        "India": [
+            6.699999809265139,
+            8.60000038146973
+        ],
+        "Malawi": [
+            1.39999997615814,
+            2.70000004768372
+        ],
+        "Niger": [
+            6.199999809265139,
+            7.199999809265139
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

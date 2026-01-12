@@ -1,0 +1,70 @@
+{
+    "title": "Consumption in kilowatt hours per capita",
+    "categories": [
+        "Canada",
+        "United States",
+        "Saudi Arabia",
+        "Japan",
+        "France",
+        "Russia",
+        "Germany",
+        "United Kingdom",
+        "China",
+        "Turkey",
+        "Brazil",
+        "Mexico",
+        "India",
+        "South Korea",
+        "Nigeria"
+    ],
+    "data": {
+        "Data": [
+            15438,
+            13098,
+            10239,
+            8010,
+            7141,
+            6917,
+            6848,
+            4906,
+            4906,
+            3348,
+            2570,
+            2329,
+            968,
+            509,
+            157
+        ]
+    },
+    "colors": {
+        "Data": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15440
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Data": "#2876dd"
+    }
+}

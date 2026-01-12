@@ -1,0 +1,78 @@
+{
+    "title": "Net sales in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2019",
+            "2020",
+            "2021"
+        ]
+    },
+    "y_axis": {
+        "label": "Net sales in million U.S. dollars"
+    },
+    "legend": {
+        "Mexico and Central America": "#2876dd",
+        "United Kingdom": "#2865dd",
+        "Canada": "#315ade",
+        "China": "#253ed6",
+        "Other": "#373fe2"
+    },
+    "data": {
+        "Mexico and Central America": [
+            31790,
+            33350,
+            32642
+        ],
+        "United Kingdom": [
+            30547,
+            29243,
+            29234
+        ],
+        "Canada": [
+            18613,
+            18420,
+            19991
+        ],
+        "China": [
+            10702,
+            10671,
+            11430
+        ],
+        "Other": [
+            29172,
+            28446,
+            28063
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 33350
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Mexico and Central America": "#2876dd",
+        "United Kingdom": "#2865dd",
+        "Canada": "#315ade",
+        "China": "#253ed6",
+        "Other": "#373fe2"
+    }
+}

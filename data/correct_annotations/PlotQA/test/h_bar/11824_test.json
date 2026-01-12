@@ -1,0 +1,67 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "legend": {
+        "Cameroon": "#A020F0",
+        "Fiji": "#EE82EE",
+        "Kuwait": "#00CED1",
+        "Panama": "#6B8E23"
+    },
+    "categories": [
+        "2010",
+        "2011",
+        "2012"
+    ],
+    "data": {
+        "Cameroon": [
+            3546599175.81475,
+            3558181017.87774,
+            3614601457.98333
+        ],
+        "Fiji": [
+            386610332.064849,
+            450089225.964756,
+            459243533.158277
+        ],
+        "Kuwait": [
+            6899511514.30565,
+            8646014492.75362,
+            10382279385.4948
+        ],
+        "Panama": [
+            1739100000.0,
+            1836700000.0,
+            1959000000.0
+        ]
+    },
+    "colors": {
+        "Cameroon": "#A020F0",
+        "Fiji": "#EE82EE",
+        "Kuwait": "#00CED1",
+        "Panama": "#6B8E23"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10382279390
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

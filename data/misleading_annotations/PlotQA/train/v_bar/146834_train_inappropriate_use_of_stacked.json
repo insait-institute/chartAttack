@@ -1,0 +1,57 @@
+{
+    "title": "Population of different countries in 1999",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ages 65 and above": "#f27979",
+        "Ages 0-14": "#00f200",
+        "Ages 15-64": "#5252a5"
+    },
+    "data": {
+        "Ages 65 and above": [
+            5.573715970873471
+        ],
+        "Ages 0-14": [
+            31.4194960668793
+        ],
+        "Ages 15-64": [
+            63.0067879622472
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Ages 65 and above": "#f27979",
+        "Ages 0-14": "#00f200",
+        "Ages 15-64": "#5252a5"
+    }
+}

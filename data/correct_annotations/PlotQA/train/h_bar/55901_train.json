@@ -1,0 +1,72 @@
+{
+    "title": "Total population between the ages 15 to 64 as a percentage of the total population",
+    "legend": {
+        "Lower middle income": "#ADFF2F",
+        "Middle income": "#00FF7F",
+        "Cote d'Ivoire": "#6B8E23",
+        "Mauritius": "#0000FF"
+    },
+    "categories": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "data": {
+        "Lower middle income": [
+            58.9912284359081,
+            59.3690098860585,
+            59.7536882684569,
+            60.03502311383061
+        ],
+        "Middle income": [
+            62.0018787942324,
+            62.3792003431593,
+            62.8236418325264,
+            63.22516927546661
+        ],
+        "Cote d'Ivoire": [
+            53.5338311732817,
+            53.6062358840944,
+            53.7188275444383,
+            53.488152294974
+        ],
+        "Mauritius": [
+            67.7177659085136,
+            67.9665389846858,
+            68.102330267318,
+            68.36525817664061
+        ]
+    },
+    "colors": {
+        "Lower middle income": "#ADFF2F",
+        "Middle income": "#00FF7F",
+        "Cote d'Ivoire": "#6B8E23",
+        "Mauritius": "#0000FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

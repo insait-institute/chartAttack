@@ -1,0 +1,68 @@
+{
+    "title": "Information and communication technology goods exported",
+    "x_axis": {
+        "categories": [
+            "Latin America(developing only)",
+            "Low & middle income",
+            "Lower middle income",
+            "Middle income",
+            "North America"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2000": "#663399",
+        "2001": "#8FBC8F",
+        "2002": "#8A2BE2"
+    },
+    "data": {
+        "2000": [
+            12.3284402791801,
+            14.9056307469835,
+            6.00704229832549,
+            15.0101209313913,
+            16.5007050398707
+        ],
+        "2001": [
+            12.5375714241205,
+            15.598824592394,
+            6.15888322662967,
+            15.7152072187749,
+            13.9902044134734
+        ],
+        "2002": [
+            11.8433127499042,
+            16.8247971066789,
+            5.67680229072539,
+            16.9437284259205,
+            12.6327236619726
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

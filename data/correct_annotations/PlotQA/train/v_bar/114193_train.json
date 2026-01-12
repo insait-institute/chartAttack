@@ -1,0 +1,68 @@
+{
+    "title": "Methane emission due to industrial production",
+    "x_axis": {
+        "categories": [
+            "Lebanon",
+            "Libya",
+            "Lithuania",
+            "Luxembourg",
+            "Macedonia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#228B22",
+        "2000": "#87CEEB",
+        "2005": "#FF00FF"
+    },
+    "data": {
+        "1990": [
+            81.7,
+            14815.7,
+            1620.9,
+            98.7,
+            311.0
+        ],
+        "2000": [
+            109.7,
+            11142.0,
+            1816.5,
+            103.7,
+            454.8
+        ],
+        "2005": [
+            119.0,
+            14318.6,
+            1770.9,
+            111.5,
+            464.2
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 14820
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

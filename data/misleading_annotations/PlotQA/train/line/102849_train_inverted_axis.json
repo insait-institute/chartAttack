@@ -1,0 +1,57 @@
+{
+    "title": "Unemployed female youth population of Europe(developing only)",
+    "legend": {
+        "Unemployment youth female": "#A020F0"
+    },
+    "x_axis": [
+        "2004",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Unemployed females(% of female labor force ages 15-24)",
+    "data": [
+        {
+            "label": "Unemployment youth female",
+            "color": "#A020F0",
+            "values": [
+                19.435632348848,
+                19.08095940099189,
+                19.4346803786554,
+                19.2783310965024,
+                18.2892986639237,
+                18.7067462394744
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

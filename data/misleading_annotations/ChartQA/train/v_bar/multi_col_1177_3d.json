@@ -1,0 +1,72 @@
+{
+    "title": "Unit sales in millions",
+    "x_axis": {
+        "categories": [
+            "2014",
+            "2015*",
+            "2016*"
+        ]
+    },
+    "y_axis": {
+        "label": "Unit sales in millions"
+    },
+    "legend": {
+        "Smartwatch": "#2876dd",
+        "Health & fitness tracker": "#0f283e",
+        "Wearable camera": "#bababa",
+        "Wearable headset": "#a60b0b",
+        "Smart glasses": "#87bc24"
+    },
+    "data": {
+        "Smartwatch": [
+            4,
+            26,
+            46
+        ],
+        "Health & fitness tracker": [
+            14,
+            25,
+            38
+        ],
+        "Wearable camera": [
+            8,
+            12,
+            15
+        ],
+        "Wearable headset": [
+            5,
+            7,
+            11
+        ],
+        "Smart glasses": [
+            1,
+            2,
+            5
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

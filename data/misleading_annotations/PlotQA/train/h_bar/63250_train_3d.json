@@ -1,0 +1,62 @@
+{
+    "title": "Total expenditure made by the government on healthcare and R&D projects in 2005",
+    "legend": {
+        "Middle income": "#FF00FF",
+        "OECD members": "#F4A460",
+        "Netherlands": "#8B008B",
+        "Romania": "#00FF7F"
+    },
+    "categories": [
+        "Health",
+        "Research and Development"
+    ],
+    "data": {
+        "Middle income": [
+            5.31413853943496,
+            0.846848360589692
+        ],
+        "OECD members": [
+            11.1015361283165,
+            2.22372263547018
+        ],
+        "Netherlands": [
+            10.88199001,
+            1.80743
+        ],
+        "Romania": [
+            5.47504695,
+            0.40964
+        ]
+    },
+    "colors": {
+        "Middle income": "#FF00FF",
+        "OECD members": "#F4A460",
+        "Netherlands": "#8B008B",
+        "Romania": "#00FF7F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

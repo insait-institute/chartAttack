@@ -1,0 +1,68 @@
+{
+    "title": "Trade statistics with developing economies of South Asia in 1963",
+    "x_axis": {
+        "categories": [
+            "Finland",
+            "France",
+            "Germany",
+            "Greece"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Merchandise exports": "#20B2AA",
+        "Merchandise imports": "#00FFFF"
+    },
+    "data": {
+        "Merchandise exports": [
+            0.51357938718663,
+            0.7328289941049642,
+            1.96750531294989,
+            0.0689179875947622
+        ],
+        "Merchandise imports": [
+            0.719753227464869,
+            0.3946329913180739,
+            5.054151624548741,
+            6.889763779527558
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0.0689179875947622,
+                "max_value": 1.96750531294989
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0.3946329913180739,
+                "max_value": 6.889763779527558
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        }
+    }
+}

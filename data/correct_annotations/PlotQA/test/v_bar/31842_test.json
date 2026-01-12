@@ -1,0 +1,50 @@
+{
+    "title": "Official exchange rate determined by national authorities of <country>",
+    "x_axis": {
+        "categories": [
+            "Congo (Democratic)",
+            "Congo (Republic)",
+            "Costa Rica",
+            "Cote d'Ivoire"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Official exchange rate": "#FF7F50"
+    },
+    "data": {
+        "Official exchange rate": [
+            2.78666666666667e-12,
+            225.655860233957,
+            8.569999999,
+            225.655860233957
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 230
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

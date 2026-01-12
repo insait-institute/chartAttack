@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Post Malone": "#f27979",
+        "Drake": "#f29100",
+        "Billie Eilish": "#daf279",
+        "Ariana Grande": "#30f200",
+        "Youngboy Never Broke Again": "#52a574",
+        "Juice Wrld": "#00a5a5",
+        "XXXTentacion": "#5274a5",
+        "Taylor Swift": "#2100a5",
+        "Eminem": "#da79f2",
+        "Khalid": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Post Malone": [
+            6.7
+        ],
+        "Drake": [
+            6.35
+        ],
+        "Billie Eilish": [
+            4.99
+        ],
+        "Ariana Grande": [
+            4.98
+        ],
+        "Youngboy Never Broke Again": [
+            4.88
+        ],
+        "Juice Wrld": [
+            3.91
+        ],
+        "XXXTentacion": [
+            3.64
+        ],
+        "Taylor Swift": [
+            3.54
+        ],
+        "Eminem": [
+            3.48
+        ],
+        "Khalid": [
+            3.26
+        ]
+    },
+    "colors": {
+        "Post Malone": "#f27979",
+        "Drake": "#f29100",
+        "Billie Eilish": "#daf279",
+        "Ariana Grande": "#30f200",
+        "Youngboy Never Broke Again": "#52a574",
+        "Juice Wrld": "#00a5a5",
+        "XXXTentacion": "#5274a5",
+        "Taylor Swift": "#2100a5",
+        "Eminem": "#da79f2",
+        "Khalid": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

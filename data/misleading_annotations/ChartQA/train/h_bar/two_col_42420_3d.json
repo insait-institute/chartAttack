@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Home Runs": "#2876dd"
+    },
+    "categories": [
+        "Giancarlo Stanton",
+        "Dan Uggla",
+        "Hanley Ramirez",
+        "Mike Lowell",
+        "Miguel Cabrera",
+        "Derrek Lee",
+        "Gary Sheffield",
+        "Jeff Conine",
+        "Cliff Floyd",
+        "Preston Wilson"
+    ],
+    "data": {
+        "Home Runs": [
+            267,
+            154,
+            148,
+            143,
+            138,
+            129,
+            122,
+            120,
+            110,
+            104
+        ]
+    },
+    "colors": {
+        "Home Runs": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 270
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

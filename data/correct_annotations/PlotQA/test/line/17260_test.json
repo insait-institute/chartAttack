@@ -1,0 +1,76 @@
+{
+    "title": "Import and export statistics of goods and services in Europe(developing only)",
+    "legend": {
+        "Exports": "#4682B4",
+        "Imports": "#663399"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Total Trade (in US$)",
+    "data": [
+        {
+            "label": "Exports",
+            "color": "#4682B4",
+            "values": [
+                130251895251.453,
+                144889136666.653,
+                179126300575.04,
+                241545769960.494,
+                285604850777.201,
+                345502676492.868,
+                436509811761.853,
+                555394569198.306
+            ]
+        },
+        {
+            "label": "Imports",
+            "color": "#663399",
+            "values": [
+                134500314691.029,
+                153769493037.117,
+                201074479106.2769,
+                273836432041.6869,
+                326104190390.423,
+                399433119819.779,
+                520039506766.997,
+                636466156743.951
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 100000000000,
+                "max_value": 636466156750
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

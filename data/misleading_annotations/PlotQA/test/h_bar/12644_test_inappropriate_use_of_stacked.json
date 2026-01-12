@@ -1,0 +1,57 @@
+{
+    "title": "Total female labor force participation rate for ages 20-60",
+    "legend": {
+        "United Arab Emirates": "#f27979",
+        "United Kingdom": "#79f200",
+        "United States": "#52a5a5",
+        "Uruguay": "#5200a5"
+    },
+    "categories": [
+        "Total female labor force participation rate for ages 20-60"
+    ],
+    "data": {
+        "United Arab Emirates": [
+            25.0
+        ],
+        "United Kingdom": [
+            52.5999984741211
+        ],
+        "United States": [
+            56.4000015258789
+        ],
+        "Uruguay": [
+            45.0
+        ]
+    },
+    "colors": {
+        "United Arab Emirates": "#f27979",
+        "United Kingdom": "#79f200",
+        "United States": "#52a5a5",
+        "Uruguay": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

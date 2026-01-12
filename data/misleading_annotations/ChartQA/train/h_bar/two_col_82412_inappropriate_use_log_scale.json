@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Users": "#2876dd",
+        "Do not use": "#C0C0C0"
+    },
+    "categories": [
+        "WhatsApp",
+        "Facebook",
+        "YouTube",
+        "Instagram",
+        "Snapchat",
+        "Twitter",
+        "Linkedin",
+        "Tumblr",
+        "Do not use"
+    ],
+    "data": {
+        "Users": [
+            83,
+            77,
+            59,
+            32,
+            15,
+            10,
+            5,
+            3,
+            12
+        ]
+    },
+    "colors": {
+        "Users": "#2876dd",
+        "Do not use": "#C0C0C0"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

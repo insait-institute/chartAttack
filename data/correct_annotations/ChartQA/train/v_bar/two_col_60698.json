@@ -1,0 +1,88 @@
+{
+    "title": "Divorce rate per thousand inhabitants",
+    "x_axis": {
+        "categories": [
+            "1990",
+            "1995",
+            "1999",
+            "2000",
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Divorce rate per thousand inhabitants"
+    },
+    "legend": {
+        "Divorce Rate": "#2876dd"
+    },
+    "data": {
+        "Divorce Rate": [
+            11.4,
+            7.8,
+            7.8,
+            9.9,
+            6.3,
+            7.1,
+            7.3,
+            6.3,
+            7.4,
+            6.7,
+            6.4,
+            6.4,
+            6.6,
+            5.9,
+            5.6,
+            5.5,
+            5.1,
+            5.3,
+            4.6,
+            4.3,
+            4.5,
+            4.4,
+            4.2
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

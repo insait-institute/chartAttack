@@ -1,0 +1,94 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "Apr '20",
+        "May '20",
+        "Jun '20",
+        "Jul '20",
+        "Aug '20",
+        "Sep '20",
+        "Oct '20",
+        "Nov '20",
+        "Dec '20",
+        "Jan '21",
+        "Feb '21",
+        "Mar '21",
+        "Apr '21",
+        "May '21"
+    ],
+    "y_axis_label": "Number of part-time workers in millions",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                19.67,
+                20.84,
+                22.64,
+                23.29,
+                23.61,
+                24.8,
+                26.27,
+                25.89,
+                25.2,
+                24.67,
+                25.54,
+                25.65,
+                25.52,
+                25.2
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 10,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": [
+        {
+            "label": "line",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75,
+                0.25,
+                1.75,
+                1.75,
+                1.5,
+                0.25
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1990",
+    "x_axis": {
+        "categories": [
+            "Industry",
+            "Manufacturing",
+            "Services",
+            "Agriculture"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Middle income": "#8A2BE2",
+        "Guyana": "#708090"
+    },
+    "data": {
+        "Middle income": [
+            952341783810.167,
+            629413113371.765,
+            1225258653367.49,
+            497351107194.565
+        ],
+        "Guyana": [
+            87012655.6962025,
+            36075946.835443,
+            129544308.86076,
+            133189878.481013
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1225258653370
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Share in total sales",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2025"
+        ]
+    },
+    "y_axis": {
+        "label": "Share in total sales"
+    },
+    "legend": {
+        "Premium class passenger cars/ limousines (E/F)": "#2876dd",
+        "medium-sized vehicles (C/D)": "#0f283e",
+        "Compact and mini cars (A/B)": "#bababa"
+    },
+    "data": {
+        "Premium class passenger cars/ limousines (E/F)": [
+            6,
+            7
+        ],
+        "medium-sized vehicles (C/D)": [
+            58,
+            56
+        ],
+        "Compact and mini cars (A/B)": [
+            36,
+            37
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

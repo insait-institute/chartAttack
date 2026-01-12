@@ -1,0 +1,124 @@
+{
+    "title": "Share of respondents",
+    "x_axis": {
+        "categories": [
+            "2001",
+            "2002",
+            "2003",
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Share of respondents"
+    },
+    "legend": {
+        "Morally acceptable": "#2876dd",
+        "Morally wrong": "#0f283e",
+        "Depends on situation": "#bababa"
+    },
+    "data": {
+        "Morally acceptable": [
+            49,
+            50,
+            45,
+            53,
+            49,
+            50,
+            49,
+            51,
+            46,
+            45,
+            45,
+            45,
+            52,
+            56,
+            53,
+            57,
+            54,
+            52,
+            51
+        ],
+        "Morally wrong": [
+            40,
+            44,
+            49,
+            41,
+            46,
+            41,
+            44,
+            44,
+            46,
+            48,
+            48,
+            49,
+            43,
+            37,
+            41,
+            37,
+            42,
+            44,
+            43
+        ],
+        "Depends on situation": [
+            8,
+            4,
+            5,
+            3,
+            4,
+            6,
+            5,
+            3,
+            6,
+            5,
+            4,
+            4,
+            3,
+            4,
+            4,
+            4,
+            3,
+            2,
+            5
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

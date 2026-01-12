@@ -1,0 +1,139 @@
+{
+    "title": "Total electricity produced from different renewable sources in South Africa",
+    "legend": {
+        "Hydroelectric sources": "#2F4F4F",
+        "Nuclear sources": "#FFA07A",
+        "Renewable sources": "#E9967A"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+    ],
+    "y_axis_label": "Electricity production(% of total)",
+    "data": [
+        {
+            "label": "Hydroelectric sources",
+            "color": "#2F4F4F",
+            "values": [
+                0.661166138669447,
+                1.00696015479846,
+                0.7858923696995379,
+                0.362235682709483,
+                0.529742057477735,
+                0.953533839642989,
+                1.09029849380502,
+                0.303137756867086,
+                0.394305399908687
+            ]
+        },
+        {
+            "label": "Nuclear sources",
+            "color": "#FFA07A",
+            "values": [
+                5.902373982435742,
+                6.08748808687197,
+                6.7015185707106,
+                6.40498548063586,
+                6.259713140586129,
+                5.14908273407214,
+                5.48626489266302,
+                5.4759392513665,
+                5.547254389241692
+            ]
+        },
+        {
+            "label": "Renewable sources",
+            "color": "#E9967A",
+            "values": [
+                0.0300757909933031,
+                0.0702754218932006,
+                0.113818894922002,
+                0.0982926026084961,
+                0.147711908851648,
+                0.147473495602215,
+                0.136344503211874,
+                0.128865979381443,
+                0.1249325530237
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Hydroelectric sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Nuclear sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        },
+        {
+            "label": "Renewable sources",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5,
+                1.75
+            ]
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "Mortality rate in different countries in 1992",
+    "x_axis": {
+        "categories": [
+            "Middle East & North Africa (developing only)",
+            "Middle income",
+            "North America",
+            "OECD members",
+            "Other small states"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Female": "#ADFF2F",
+        "Male": "#6495ED"
+    },
+    "data": {
+        "Female": [
+            151.931207933156,
+            168.315787012093,
+            86.8276432860486,
+            80.1824854852825,
+            246.910672555223
+        ],
+        "Male": [
+            205.830620334705,
+            230.918005075252,
+            163.694474915674,
+            161.597345592235,
+            308.660806263782
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 310
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Female": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Male": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

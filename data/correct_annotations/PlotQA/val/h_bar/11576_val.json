@@ -1,0 +1,68 @@
+{
+    "title": "Merchandise exports to low and middle-income economies outside region",
+    "legend": {
+        "Dominica": "#008080",
+        "Ghana": "#FFA07A",
+        "Togo": "#E9967A"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Dominica": [
+            12.2253388134123,
+            31.0172323412453,
+            19.5899300056702,
+            12.9527619122636,
+            4.86298338379121
+        ],
+        "Ghana": [
+            16.4690012535966,
+            18.8720512885926,
+            26.2911692167266,
+            21.9908763587809,
+            21.9929118854391
+        ],
+        "Togo": [
+            13.7442720875469,
+            18.8691146467487,
+            18.3295899195661,
+            16.2865373764081,
+            15.2824074942339
+        ]
+    },
+    "colors": {
+        "Dominica": "#008080",
+        "Ghana": "#FFA07A",
+        "Togo": "#E9967A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

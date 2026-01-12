@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of repeaters in secondary general education of countries in the year 1971",
+    "x_axis": {
+        "categories": [
+            "Cuba",
+            "Cyprus",
+            "Ecuador",
+            "El Salvador",
+            "Gabon"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Percentage of repeaters": "#FFD700"
+    },
+    "data": {
+        "Percentage of repeaters": [
+            13.8723,
+            4.41557,
+            9.04369,
+            1.2843,
+            9.50995
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

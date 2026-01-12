@@ -1,0 +1,81 @@
+{
+    "title": "Total exports of goods and services in US$",
+    "x_axis": {
+        "categories": [
+            "Congo (Republic)",
+            "Costa Rica",
+            "Cote d'Ivoire",
+            "Denmark",
+            "Dominican Republic",
+            "Ecuador"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#87CEEB",
+        "1961": "#CD853F",
+        "1962": "#FF0000",
+        "1963": "#20B2AA"
+    },
+    "data": {
+        "1960": [
+            26943546.4343425,
+            108688777.972701,
+            187017624.489569,
+            2019063422.49182,
+            172100000.0,
+            170261661.44503
+        ],
+        "1961": [
+            29515424.4500054,
+            106792206.859263,
+            218194460.681831,
+            2079942081.60529,
+            152100000.0,
+            161486459.803254
+        ],
+        "1962": [
+            50771655.41924679,
+            113035822.118223,
+            221930266.585481,
+            2236029168.68268,
+            196700000.0,
+            171490502.360296
+        ],
+        "1963": [
+            62818525.1974964,
+            117110967.210209,
+            258264804.451737,
+            2528521058.65508,
+            195000000.0,
+            168697563.59135
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2528521060
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Population in the largent city of the country",
+    "legend": {
+        "Low & middle income": "#A0522D",
+        "Sub-Saharan Africa (all income levels)": "#FF4500",
+        "Iran": "#6495ED"
+    },
+    "categories": [
+        "1971",
+        "1972",
+        "1973"
+    ],
+    "data": {
+        "Low & middle income": [
+            17.5776289331635,
+            17.6965131144681,
+            17.8010316467797
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            29.3282850281167,
+            29.5962447963785,
+            29.8328452105466
+        ],
+        "Iran": [
+            28.1130832023009,
+            28.2376249655611,
+            28.3555932189903
+        ]
+    },
+    "colors": {
+        "Low & middle income": "#A0522D",
+        "Sub-Saharan Africa (all income levels)": "#FF4500",
+        "Iran": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

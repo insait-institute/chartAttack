@@ -1,0 +1,73 @@
+{
+    "title": "Net enrolment rate in primary and secondary education of males of United States",
+    "legend": {
+        "Primary": "#87CEEB",
+        "Secondary": "#4B0082"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "y_axis_label": "Net enrolment rate(%)",
+    "data": [
+        {
+            "label": "Primary",
+            "color": "#87CEEB",
+            "values": [
+                95.1806182861328,
+                93.41287231445308,
+                93.1378326416016,
+                91.7410125732422,
+                92.04871368408199,
+                92.9404525756835,
+                94.40701293945308
+            ]
+        },
+        {
+            "label": "Secondary",
+            "color": "#4B0082",
+            "values": [
+                87.65277099609379,
+                87.6540679931641,
+                87.9568710327148,
+                88.3758316040039,
+                87.27493286132808,
+                86.13394165039058,
+                86.7965087890625
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 80,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

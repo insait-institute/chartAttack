@@ -1,0 +1,81 @@
+{
+    "title": "Value added by manufacturing to the total GDP of a country",
+    "x_axis": {
+        "categories": [
+            "South Asia",
+            "Sub-Saharan Africa (all income levels)",
+            "Sub-Saharan Africa (developing only)",
+            "Upper middle income",
+            "Bangladesh",
+            "Burkina Faso"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#F4A460",
+        "1961": "#6495ED",
+        "1962": "#BDB76B",
+        "1963": "#DB7093"
+    },
+    "data": {
+        "1960": [
+            5855166632.503679,
+            3015762445.93982,
+            2994191255.3874,
+            38089548276.1176,
+            226993053.4801069,
+            37226998.2065029
+        ],
+        "1961": [
+            6452965151.14765,
+            3271147944.92208,
+            3247750029.16779,
+            27836659844.6935,
+            263549989.527465,
+            37217132.0963543
+        ],
+        "1962": [
+            7151096166.272079,
+            3480574906.29782,
+            3455678998.25414,
+            27199058723.7194,
+            276869197.33154,
+            42228731.0329931
+        ],
+        "1963": [
+            8067907045.827391,
+            3983339926.79705,
+            3954847833.6245,
+            31633114772.7168,
+            285087405.338311,
+            43881615.5307803
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 38089548280
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

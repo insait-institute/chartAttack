@@ -1,0 +1,81 @@
+{
+    "title": "Value added in manufacturing (in %) due to transport equipments",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Colombia",
+            "Costa Rica",
+            "Cyprus",
+            "Kenya",
+            "Singapore"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1963": "#00FF00",
+        "1964": "#191970",
+        "1965": "#40E0D0",
+        "1966": "#FF8C00"
+    },
+    "data": {
+        "1963": [
+            52.87267080343571,
+            32.4931569873388,
+            22.5343472090007,
+            32.96683744230469,
+            34.6998489914702,
+            63.81023718879111
+        ],
+        "1964": [
+            52.982456143352,
+            31.08603092696351,
+            23.3965098035943,
+            30.429915256472,
+            34.1698616207402,
+            60.6169374396336
+        ],
+        "1965": [
+            52.8852251111046,
+            30.1457975721235,
+            24.9505402741057,
+            29.75313324104311,
+            36.5039508993655,
+            59.591435552073
+        ],
+        "1966": [
+            52.81159420757261,
+            32.3037973911251,
+            25.5594543443724,
+            30.715617379832,
+            38.5076757502161,
+            60.8595903618876
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

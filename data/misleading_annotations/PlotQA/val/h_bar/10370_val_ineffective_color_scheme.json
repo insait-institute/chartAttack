@@ -1,0 +1,73 @@
+{
+    "title": "Amount invested in equity securities and debt securities",
+    "legend": {
+        "Comoros": "#9acd32",
+        "Malaysia": "#81cd32",
+        "New Zealand": "#6ecf3a"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Comoros": [
+            25499.29003,
+            27820.26012,
+            29774.83268,
+            47156.50536,
+            44957.98186
+        ],
+        "Malaysia": [
+            -3435892078.0,
+            -5388143289.0,
+            23960720566.0,
+            291400434.4,
+            -14993955418.0
+        ],
+        "New Zealand": [
+            290674942.9,
+            -9263852649.0,
+            3852606975.0,
+            -1766963562.0,
+            -3386224849.0
+        ]
+    },
+    "colors": {
+        "Comoros": "#9ACD32",
+        "Malaysia": "#A0522D",
+        "New Zealand": "#2E8B57"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23960720570
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "color": {
+        "Comoros": "#9acd32",
+        "Malaysia": "#81cd32",
+        "New Zealand": "#6ecf3a"
+    }
+}

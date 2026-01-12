@@ -1,0 +1,50 @@
+{
+    "title": "",
+    "legend": {
+        "Restaurant Chain": "#2876dd"
+    },
+    "categories": [
+        "Olive Garden",
+        "Outback Steakhouse",
+        "Panera Bread",
+        "Texas Roadhouse",
+        "IHOP"
+    ],
+    "data": {
+        "Restaurant Chain": [
+            33.2,
+            32.7,
+            31.3,
+            27.8,
+            25.6
+        ]
+    },
+    "colors": {
+        "Restaurant Chain": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

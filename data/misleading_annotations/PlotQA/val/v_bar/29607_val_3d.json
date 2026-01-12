@@ -1,0 +1,81 @@
+{
+    "title": "Oil rents as percent of GDP towards fuel resources",
+    "x_axis": {
+        "categories": [
+            "European Union",
+            "High income",
+            "High income: OECD",
+            "Latin America(all income levels)",
+            "Latin America(developing only)",
+            "Low & middle income"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#A52A2A",
+        "1971": "#8B4513",
+        "1972": "#FFD700",
+        "1973": "#228B22"
+    },
+    "data": {
+        "1970": [
+            0.00801202081682271,
+            0.37433861398102,
+            0.173874332244648,
+            1.15276011889722,
+            0.315451143704164,
+            0.9921665210591372
+        ],
+        "1971": [
+            0.018513106437157,
+            0.501932861096808,
+            0.225797692310809,
+            1.46659223261568,
+            0.419460842213948,
+            1.66536673707203
+        ],
+        "1972": [
+            0.0150871126100411,
+            0.485610199403423,
+            0.205823389538854,
+            1.32822679655125,
+            0.416831763416923,
+            1.56925861810564
+        ],
+        "1973": [
+            0.0187202929449482,
+            0.6864801111466421,
+            0.283309932998863,
+            1.70334554686959,
+            0.596957932191439,
+            2.32121799209297
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

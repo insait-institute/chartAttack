@@ -1,0 +1,52 @@
+{
+    "title": "Social contributions made by the government",
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#00f200",
+        "2010": "#5252a5"
+    },
+    "categories": [
+        "Social contributions made by the government"
+    ],
+    "data": {
+        "2008": [
+            278564733300.0
+        ],
+        "2009": [
+            315795149724.111
+        ],
+        "2010": [
+            394309525020.0
+        ]
+    },
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#00f200",
+        "2010": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 394309525020
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

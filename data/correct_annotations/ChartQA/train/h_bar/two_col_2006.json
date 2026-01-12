@@ -1,0 +1,60 @@
+{
+    "title": "Monthly minimum wage in U.S. dollars*",
+    "categories": [
+        "Chile",
+        "Uruguay",
+        "Ecuador",
+        "Bolivia",
+        "Colombia",
+        "Peru",
+        "Argentina",
+        "Mexico",
+        "Brazil",
+        "Venezuela"
+    ],
+    "data": {
+        "Wage": [
+            441,
+            423,
+            400,
+            309,
+            261,
+            257,
+            243,
+            215,
+            207,
+            1
+        ]
+    },
+    "colors": {
+        "Wage": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 450
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Wage": "#2876dd"
+    }
+}

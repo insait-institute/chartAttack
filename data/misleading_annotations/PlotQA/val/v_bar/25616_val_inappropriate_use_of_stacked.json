@@ -1,0 +1,72 @@
+{
+    "title": "Female Population as percentage of total population",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Denmark": "#f27979",
+        "Djibouti": "#f2f200",
+        "Dominican Republic": "#79f279",
+        "Ecuador": "#00a5a5",
+        "Egypt, Arab Rep.": "#5252a5",
+        "El Salvador": "#a500a5"
+    },
+    "data": {
+        "Denmark": [
+            50.3779546742556
+        ],
+        "Djibouti": [
+            50.2941317136161
+        ],
+        "Dominican Republic": [
+            49.3682679531117
+        ],
+        "Ecuador": [
+            50.00615987335301
+        ],
+        "Egypt, Arab Rep.": [
+            49.35654570963921
+        ],
+        "El Salvador": [
+            50.7130378005405
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Denmark": "#f27979",
+        "Djibouti": "#f2f200",
+        "Dominican Republic": "#79f279",
+        "Ecuador": "#00a5a5",
+        "Egypt, Arab Rep.": "#5252a5",
+        "El Salvador": "#a500a5"
+    }
+}

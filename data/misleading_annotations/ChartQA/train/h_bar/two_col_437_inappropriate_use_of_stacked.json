@@ -1,0 +1,87 @@
+{
+    "title": "Net worth in million U.S. dollars",
+    "categories": [
+        "Net worth in million U.S. dollars"
+    ],
+    "data": {
+        "Michelle Phan": [
+            50.0
+        ],
+        "PewDiePie": [
+            18.0
+        ],
+        "Smosh": [
+            11.8
+        ],
+        "Markiplier": [
+            5.1
+        ],
+        "Grace Helbig": [
+            5.0
+        ],
+        "Roman Atwood": [
+            4.5
+        ],
+        "Jenna Marbles": [
+            2.9
+        ],
+        "Rosanna Pansino": [
+            2.5
+        ],
+        "Lily Singh": [
+            2.5
+        ],
+        "Hank Green": [
+            2.0
+        ]
+    },
+    "colors": {
+        "Michelle Phan": "#f27979",
+        "PewDiePie": "#f29100",
+        "Smosh": "#daf279",
+        "Markiplier": "#30f200",
+        "Grace Helbig": "#52a574",
+        "Roman Atwood": "#00a5a5",
+        "Jenna Marbles": "#5274a5",
+        "Rosanna Pansino": "#2100a5",
+        "Lily Singh": "#da79f2",
+        "Hank Green": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Michelle Phan": "#f27979",
+        "PewDiePie": "#f29100",
+        "Smosh": "#daf279",
+        "Markiplier": "#30f200",
+        "Grace Helbig": "#52a574",
+        "Roman Atwood": "#00a5a5",
+        "Jenna Marbles": "#5274a5",
+        "Rosanna Pansino": "#2100a5",
+        "Lily Singh": "#da79f2",
+        "Hank Green": "#f20091"
+    }
+}

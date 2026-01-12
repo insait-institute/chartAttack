@@ -1,0 +1,107 @@
+{
+    "title": "Total male labor force participation rate for ages 60+",
+    "legend": {
+        "Middle East & North Africa (all income levels)": "#DB7093",
+        "Bahrain": "#BDB76B",
+        "China": "#FFA500",
+        "Sweden": "#808000"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "data": {
+        "Middle East & North Africa (all income levels)": [
+            77.110745282726,
+            77.3324510098625,
+            76.55520718298571,
+            76.4870810551092,
+            76.21332707226141
+        ],
+        "Bahrain": [
+            84.4000015258789,
+            84.8000030517578,
+            85.599998474121,
+            86.599998474121,
+            87.5
+        ],
+        "China": [
+            85.0,
+            84.4000015258789,
+            83.9000015258789,
+            83.599998474121,
+            83.3000030517578
+        ],
+        "Sweden": [
+            79.5,
+            81.3000030517578,
+            81.5,
+            81.5,
+            81.599998474121
+        ]
+    },
+    "colors": {
+        "Middle East & North Africa (all income levels)": "#DB7093",
+        "Bahrain": "#BDB76B",
+        "China": "#FFA500",
+        "Sweden": "#808000"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Middle East & North Africa (all income levels)": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Bahrain": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "China": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "Sweden": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

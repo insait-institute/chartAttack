@@ -1,0 +1,56 @@
+{
+    "title": "Fertility rates in different countries according to the survey of 1968",
+    "x_axis": {
+        "categories": [
+            "Adolescent fertility rate",
+            "Fertility rate"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bahrain": "#D2B48C",
+        "Czech Republic": "#DC143C",
+        "Lesotho": "#8A2BE2"
+    },
+    "data": {
+        "Bahrain": [
+            84.4004,
+            6.86
+        ],
+        "Czech Republic": [
+            47.4402,
+            1.84
+        ],
+        "Lesotho": [
+            82.244,
+            5.805
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

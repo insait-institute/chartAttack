@@ -1,0 +1,92 @@
+{
+    "title": "Share in GDP",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Share in GDP"
+    },
+    "legend": {
+        "Agriculture": "#2876dd",
+        "Industry": "#0f283e",
+        "Services": "#bababa"
+    },
+    "data": {
+        "Agriculture": [
+            0.91,
+            0.73,
+            0.58,
+            0.66,
+            0.68,
+            0.86,
+            1.1,
+            1.2,
+            1.09,
+            1.02,
+            0.99
+        ],
+        "Industry": [
+            65.41,
+            68.66,
+            73.67,
+            72.65,
+            70.03,
+            67.85,
+            61.36,
+            57.29,
+            59.72,
+            63.24,
+            62.52
+        ],
+        "Services": [
+            33.69,
+            32.5,
+            27.36,
+            28.28,
+            31.25,
+            32.84,
+            39.43,
+            42.98,
+            40.85,
+            37.34,
+            38.18
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

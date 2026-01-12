@@ -1,0 +1,64 @@
+{
+    "title": "Volume in thousand liters",
+    "legend": {
+        "Default": "#2876dd",
+        "Others": "#000000"
+    },
+    "categories": [
+        "Australia",
+        "France",
+        "Chile",
+        "Italy",
+        "Others",
+        "Spain",
+        "South Africa",
+        "United States",
+        "Singapore*",
+        "United Kingdom",
+        "Argentina"
+    ],
+    "data": {
+        "Default": [
+            2148.91,
+            616.74,
+            538.92,
+            525.68,
+            265.64,
+            252.64,
+            208.71,
+            194.14,
+            191.95,
+            139.77,
+            109.38
+        ]
+    },
+    "colors": {
+        "Default": "#2876dd",
+        "Others": "#000000"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 2150
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

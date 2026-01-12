@@ -1,0 +1,52 @@
+{
+    "title": "Year over year dollar sales growth",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Year over year dollar sales growth"
+    },
+    "legend": {
+        "Fruit": "#f27979",
+        "Vegetables": "#00a5a5"
+    },
+    "data": {
+        "Fruit": [
+            24.0
+        ],
+        "Vegetables": [
+            19.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "Fruit": "#f27979",
+        "Vegetables": "#00a5a5"
+    }
+}

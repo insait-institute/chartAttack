@@ -1,0 +1,66 @@
+{
+    "title": "Percentage of respondents",
+    "x_axis": {
+        "categories": [
+            "All adults",
+            "Men",
+            "Women"
+        ]
+    },
+    "y_axis": {
+        "label": "Percentage of respondents"
+    },
+    "legend": {
+        "A good amount": "#2876dd",
+        "A great deal": "#0f283e",
+        "A little": "#bababa",
+        "Not at all": "#a60b0b"
+    },
+    "data": {
+        "A good amount": [
+            10,
+            13,
+            7
+        ],
+        "A great deal": [
+            10,
+            11,
+            8
+        ],
+        "A little": [
+            30,
+            34,
+            27
+        ],
+        "Not at all": [
+            50,
+            42,
+            59
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

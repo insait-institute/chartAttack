@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Spend in million GBP": "#2876dd"
+    },
+    "categories": [
+        "Coca-Cola",
+        "Coca-Cola Company",
+        "Diet Coke",
+        "Coca-Cola Zero",
+        "Coca-Cola Life",
+        "Pepsi Max",
+        "Irn-Bru",
+        "7Up",
+        "Fever-Tree",
+        "Orangina"
+    ],
+    "data": {
+        "Spend in million GBP": [
+            13.3,
+            5.6,
+            5.2,
+            3.5,
+            2.4,
+            2.3,
+            1.8,
+            1.4,
+            1.2,
+            1.1
+        ]
+    },
+    "colors": {
+        "Spend in million GBP": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

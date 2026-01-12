@@ -1,0 +1,82 @@
+{
+    "title": "Egg production in billions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Egg production in billions"
+    },
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#f2b500",
+        "2010": "#b5f279",
+        "2011": "#00a529",
+        "2012": "#52a5a5",
+        "2013": "#0029a5",
+        "2014": "#b579f2",
+        "2015": "#f200b5"
+    },
+    "data": {
+        "2008": [
+            15.2
+        ],
+        "2009": [
+            14.8
+        ],
+        "2010": [
+            15.3
+        ],
+        "2011": [
+            14.0
+        ],
+        "2012": [
+            13.9
+        ],
+        "2013": [
+            16.0
+        ],
+        "2014": [
+            16.1
+        ],
+        "2015": [
+            16.1
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#f2b500",
+        "2010": "#b5f279",
+        "2011": "#00a529",
+        "2012": "#52a5a5",
+        "2013": "#0029a5",
+        "2014": "#b579f2",
+        "2015": "#f200b5"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Number of millionaire households",
+    "categories": [
+        "Germany",
+        "France",
+        "Italy",
+        "United Kingdom",
+        "Netherlands",
+        "Switzerland",
+        "Belgium",
+        "Austria",
+        "Spain",
+        "Luxembourg",
+        "Portugal",
+        "Greece",
+        "Finland",
+        "Slovakia",
+        "Cyprus",
+        "Slovenia"
+    ],
+    "data": {
+        "Millionaire Households": [
+            1433985,
+            1334066,
+            818538,
+            796646,
+            703108,
+            555483,
+            415117,
+            200298,
+            168134,
+            50612,
+            46416,
+            34723,
+            25995,
+            9532,
+            7269,
+            6784
+        ]
+    },
+    "colors": {
+        "Millionaire Households": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1433990
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Millionaire Households": "#2876dd"
+    }
+}

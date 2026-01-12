@@ -1,0 +1,67 @@
+{
+    "title": "Mineral rent of different countries at the time of the survey in 1970",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "East Asia (developing only)": "#f27979",
+        "Low & middle income": "#c1f200",
+        "Lower middle income": "#52a574",
+        "Middle East & North Africa (all income levels)": "#0042a5",
+        "Middle East & North Africa (developing only)": "#da79f2"
+    },
+    "data": {
+        "East Asia (developing only)": [
+            0.000167230716210147
+        ],
+        "Low & middle income": [
+            0.007128073615927591
+        ],
+        "Lower middle income": [
+            0.0205969609884004
+        ],
+        "Middle East & North Africa (all income levels)": [
+            0.000581876263771681
+        ],
+        "Middle East & North Africa (developing only)": [
+            0.000821951908609766
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "East Asia (developing only)": "#f27979",
+        "Low & middle income": "#c1f200",
+        "Lower middle income": "#52a574",
+        "Middle East & North Africa (all income levels)": "#0042a5",
+        "Middle East & North Africa (developing only)": "#da79f2"
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Total life expectancy at birth",
+    "legend": {
+        "Luxembourg": "#EE82EE",
+        "Mali": "#8B0000",
+        "Singapore": "#191970"
+    },
+    "categories": [
+        "1975",
+        "1976",
+        "1977",
+        "1978",
+        "1979"
+    ],
+    "data": {
+        "Luxembourg": [
+            70.7571219512195,
+            70.998512195122,
+            71.2567804878049,
+            71.5234390243903,
+            71.7964146341464
+        ],
+        "Mali": [
+            35.9178048780488,
+            36.6330731707317,
+            37.3587073170732,
+            38.09834146341461,
+            38.84904878048779
+        ],
+        "Singapore": [
+            70.2197073170732,
+            70.5939756097561,
+            70.96090243902441,
+            71.3233414634146,
+            71.68273170731709
+        ]
+    },
+    "colors": {
+        "Luxembourg": "#EE82EE",
+        "Mali": "#8B0000",
+        "Singapore": "#191970"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

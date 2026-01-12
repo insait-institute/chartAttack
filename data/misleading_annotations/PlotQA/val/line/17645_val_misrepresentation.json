@@ -1,0 +1,94 @@
+{
+    "title": "Primary income paid to resident and non-resident workers of Montenegro",
+    "legend": {
+        "Resident workers": "#C71585",
+        "Non-resident workers": "#191970"
+    },
+    "x_axis": [
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Payment (in US$)",
+    "data": [
+        {
+            "label": "Resident workers",
+            "color": "#C71585",
+            "values": [
+                219534643.2,
+                247257922.1,
+                232868569.7,
+                195157780.9,
+                194946058.5,
+                240599820.2
+            ]
+        },
+        {
+            "label": "Non-resident workers",
+            "color": "#191970",
+            "values": [
+                226668664.6,
+                219876465.7,
+                268162953.1,
+                264919594.2,
+                282373952.9,
+                300094967.7
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 194946050,
+                "max_value": 300094970
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Resident workers",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        },
+        {
+            "label": "Non-resident workers",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5
+            ]
+        }
+    ]
+}

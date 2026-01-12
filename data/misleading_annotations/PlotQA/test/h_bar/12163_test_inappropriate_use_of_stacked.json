@@ -1,0 +1,57 @@
+{
+    "title": "Total male labor force participation rate for ages 60+",
+    "legend": {
+        "Sweden": "#f27979",
+        "Switzerland": "#79f200",
+        "Syrian Arab Republic": "#52a5a5",
+        "Tajikistan": "#5200a5"
+    },
+    "categories": [
+        "Total male labor force participation rate for ages 60+"
+    ],
+    "data": {
+        "Sweden": [
+            85.599998474121
+        ],
+        "Switzerland": [
+            90.9000015258789
+        ],
+        "Syrian Arab Republic": [
+            83.099998474121
+        ],
+        "Tajikistan": [
+            78.8000030517578
+        ]
+    },
+    "colors": {
+        "Sweden": "#f27979",
+        "Switzerland": "#79f200",
+        "Syrian Arab Republic": "#52a5a5",
+        "Tajikistan": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

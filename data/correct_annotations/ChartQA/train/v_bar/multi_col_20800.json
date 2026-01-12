@@ -1,0 +1,80 @@
+{
+    "title": "Traffic share",
+    "x_axis": {
+        "categories": [
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ]
+    },
+    "y_axis": {
+        "label": "Traffic share"
+    },
+    "legend": {
+        "Direct and organic": "#2876dd",
+        "Email": "#0f283e",
+        "Paid": "#bababa"
+    },
+    "data": {
+        "Direct and organic": [
+            91,
+            91,
+            88,
+            87,
+            84,
+            81,
+            82,
+            79
+        ],
+        "Email": [
+            7,
+            6,
+            6,
+            6,
+            7,
+            7,
+            6,
+            6
+        ],
+        "Paid": [
+            2,
+            3,
+            6,
+            7,
+            9,
+            12,
+            12,
+            15
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

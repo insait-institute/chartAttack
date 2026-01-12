@@ -1,0 +1,68 @@
+{
+    "title": "Number of trademark applications made by the residents of a country",
+    "legend": {
+        "1960": "#8A2BE2",
+        "1961": "#556B2F",
+        "1962": "#FF4500"
+    },
+    "categories": [
+        "Bulgaria",
+        "Finland",
+        "France",
+        "Hungary",
+        "Iran"
+    ],
+    "data": {
+        "1960": [
+            211.0,
+            1421.0,
+            2630.0,
+            216.0,
+            1020.0
+        ],
+        "1961": [
+            267.0,
+            1452.0,
+            2726.0,
+            208.0,
+            949.0
+        ],
+        "1962": [
+            157.0,
+            1555.0,
+            3060.0,
+            188.0,
+            1348.0
+        ]
+    },
+    "colors": {
+        "1960": "#8A2BE2",
+        "1961": "#556B2F",
+        "1962": "#FF4500"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 3060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

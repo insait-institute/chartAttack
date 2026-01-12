@@ -1,0 +1,68 @@
+{
+    "title": "Insurance provided to residents by nonresident insurance enterprises outside a country",
+    "x_axis": {
+        "categories": [
+            "Bulgaria",
+            "Cabo Verde",
+            "Canada",
+            "Chile",
+            "Colombia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2005": "#008B8B",
+        "2006": "#32CD32",
+        "2007": "#6A5ACD"
+    },
+    "data": {
+        "2005": [
+            1.10608205823465,
+            1.41032150771167,
+            6.81132812310644,
+            2.76178974122584,
+            1.3543732271133
+        ],
+        "2006": [
+            1.37598799534285,
+            1.37996734156665,
+            7.82829527797199,
+            2.89496302413648,
+            1.91164261609184
+        ],
+        "2007": [
+            1.26351924393488,
+            1.21744242629215,
+            8.60049746807151,
+            2.94781993952908,
+            2.11058393736331
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

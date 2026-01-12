@@ -1,0 +1,57 @@
+{
+    "title": "Value added by different sectors to the total GDP in the year 1963",
+    "legend": {
+        "Industry": "#f27979",
+        "Manufacturing": "#79f200",
+        "Services": "#52a5a5",
+        "Agriculture": "#5200a5"
+    },
+    "categories": [
+        "Value added by different sectors to the total GDP in the year 1963"
+    ],
+    "data": {
+        "Industry": [
+            34871016.8759234
+        ],
+        "Manufacturing": [
+            23014448.1540935
+        ],
+        "Services": [
+            179620215.854864
+        ],
+        "Agriculture": [
+            141371779.073497
+        ]
+    },
+    "colors": {
+        "Industry": "#f27979",
+        "Manufacturing": "#79f200",
+        "Services": "#52a5a5",
+        "Agriculture": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 620168060
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

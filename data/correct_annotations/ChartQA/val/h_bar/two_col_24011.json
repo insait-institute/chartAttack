@@ -1,0 +1,57 @@
+{
+    "title": "Maximum monthly search volume in millions",
+    "categories": [
+        "Donald Trump",
+        "Kim Jong Un",
+        "Joe Biden",
+        "Kamala Harris",
+        "Boris Johnson",
+        "Kellyanne Conway",
+        "Hillary Clinton",
+        "Justin Trudeau",
+        "Vladimir Putin",
+        "Angela Merkel"
+    ],
+    "data": {
+        "Search Volume": [
+            90.22,
+            83.1,
+            35.52,
+            30.4,
+            30.4,
+            4.09,
+            3.35,
+            3.35,
+            2.74,
+            2.74
+        ]
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Search Volume": "#2876dd"
+    }
+}

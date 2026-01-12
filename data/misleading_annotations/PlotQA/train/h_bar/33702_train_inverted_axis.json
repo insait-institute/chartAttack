@@ -1,0 +1,59 @@
+{
+    "title": "Total female teachers in schools in 1979",
+    "legend": {
+        "Primary school": "#000000",
+        "Secondary school": "#4682B4"
+    },
+    "categories": [
+        "Benin",
+        "Bermuda",
+        "Bhutan",
+        "Botswana",
+        "Brunei Darussalam"
+    ],
+    "data": {
+        "Primary school": [
+            24.40476,
+            87.40458000000002,
+            25.75251,
+            71.29344,
+            44.11587
+        ],
+        "Secondary school": [
+            28.25662,
+            42.77929,
+            26.3196,
+            27.7551,
+            22.2809
+        ]
+    },
+    "colors": {
+        "Primary school": "#000000",
+        "Secondary school": "#4682B4"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

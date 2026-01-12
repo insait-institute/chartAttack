@@ -1,0 +1,64 @@
+{
+    "title": "Total imports from other countries",
+    "x_axis": {
+        "categories": [
+            "Australia",
+            "Austria",
+            "Bangladesh",
+            "Belgium"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1960": "#4B0082",
+        "1961": "#000000",
+        "1962": "#A52A2A"
+    },
+    "data": {
+        "1960": [
+            14.0659870921045,
+            23.2619333531499,
+            9.30725837281466,
+            38.5006742171141
+        ],
+        "1961": [
+            15.0319343065693,
+            21.90190727576,
+            11.6999989681888,
+            39.805297416531
+        ],
+        "1962": [
+            12.6337726709474,
+            22.2017169658101,
+            10.8080969923682,
+            40.584551925824
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

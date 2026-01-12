@@ -1,0 +1,64 @@
+{
+    "title": "",
+    "legend": {
+        "Facebook stakeholders": "#2876dd"
+    },
+    "categories": [
+        "Mark Zuckerberg",
+        "Facebook employees",
+        "Accel Partners",
+        "Dustin Moskovitz",
+        "Digital Sky Technologies",
+        "Eduardo Saverin",
+        "Sean Parker",
+        "Foreign Goldman Sachs clients",
+        "Peter Thiel",
+        "Greylock Partners",
+        "MeriTech Capital Partners",
+        "Elevation Partners"
+    ],
+    "data": {
+        "Facebook stakeholders": [
+            28.2,
+            25,
+            11.4,
+            7.6,
+            5.5,
+            5,
+            4,
+            2.8,
+            2.5,
+            1.5,
+            1.5,
+            1.5
+        ]
+    },
+    "colors": {
+        "Facebook stakeholders": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

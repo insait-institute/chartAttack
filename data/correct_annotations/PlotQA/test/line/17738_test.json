@@ -1,0 +1,67 @@
+{
+    "title": "Employment to population ratio of Angola for age group between 15-24 years",
+    "legend": {
+        "Female": "#BEBEBE",
+        "Male": "#000000"
+    },
+    "x_axis": [
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "y_axis_label": "Employment to population ratio(%)",
+    "data": [
+        {
+            "label": "Female",
+            "color": "#BEBEBE",
+            "values": [
+                46.4000015258789,
+                47.2999992370605,
+                48.4000015258789,
+                48.5,
+                48.2999992370605
+            ]
+        },
+        {
+            "label": "Male",
+            "color": "#000000",
+            "values": [
+                49.5,
+                48.7999992370605,
+                48.7999992370605,
+                48.9000015258789,
+                49.0999984741211
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

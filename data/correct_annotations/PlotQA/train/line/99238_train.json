@@ -1,0 +1,96 @@
+{
+    "title": "Split of the expenses made by the government of Netherlands",
+    "legend": {
+        "Miscellaneous expenses": "#FF69B4",
+        "Labor Taxes": "#87CEEB",
+        "Grants and Revenue": "#2F4F4F",
+        "Services": "#FFA500"
+    },
+    "x_axis": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Expenses (in $)",
+    "data": [
+        {
+            "label": "Miscellaneous expenses",
+            "color": "#FF69B4",
+            "values": [
+                6056000000,
+                7597000000,
+                6653000000,
+                7047000000,
+                7223000000,
+                6686000000
+            ]
+        },
+        {
+            "label": "Labor Taxes",
+            "color": "#87CEEB",
+            "values": [
+                6070000000,
+                5899000000,
+                6340000000,
+                5661000000,
+                5964000000,
+                6852000000
+            ]
+        },
+        {
+            "label": "Grants and Revenue",
+            "color": "#2F4F4F",
+            "values": [
+                10689000000,
+                14015000000,
+                12684000000,
+                13567000000,
+                14898000000,
+                16819000000
+            ]
+        },
+        {
+            "label": "Services",
+            "color": "#FFA500",
+            "values": [
+                11053000000,
+                13251000000,
+                13737000000,
+                13638000000,
+                13399000000,
+                14113000000
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 5661000000,
+                "max_value": 16819000000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

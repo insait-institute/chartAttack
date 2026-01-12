@@ -1,0 +1,78 @@
+{
+    "title": "Value in thousand euros",
+    "x_axis": {
+        "categories": [
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020*"
+        ]
+    },
+    "y_axis": {
+        "label": "Value in thousand euros"
+    },
+    "legend": {
+        "Import value": "#2876dd",
+        "Export value": "#0f283e"
+    },
+    "data": {
+        "Import value": [
+            335259,
+            352430,
+            343266,
+            313190,
+            388779,
+            433366,
+            430198,
+            478312,
+            491585,
+            595280,
+            622861
+        ],
+        "Export value": [
+            558069,
+            563265,
+            576167,
+            534392,
+            643567,
+            734743,
+            722896,
+            678662,
+            601206,
+            664592,
+            674869
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 734750
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

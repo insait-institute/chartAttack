@@ -1,0 +1,52 @@
+{
+    "title": "Long-term public and publicly guaranteed debt and repayments of Upper middle income to the IMF",
+    "legend": {
+        "Debt service (PPG and IMF only)": "#6495ED"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+    ],
+    "data": {
+        "Debt service (PPG and IMF only)": [
+            6.35807361040337,
+            3.81206204891738,
+            3.09093123546636,
+            3.20650454364571,
+            2.53318865221998,
+            2.4372772413736
+        ]
+    },
+    "colors": {
+        "Debt service (PPG and IMF only)": "#6495ED"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

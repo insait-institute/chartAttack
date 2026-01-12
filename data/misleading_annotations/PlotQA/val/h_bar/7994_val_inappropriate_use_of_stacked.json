@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of male children (ages 7-14) in employment in 2005",
+    "legend": {
+        "Azerbaijan": "#f27979",
+        "Nicaragua": "#00f200",
+        "Paraguay": "#5252a5"
+    },
+    "categories": [
+        "Percentage of male children (ages 7-14) in employment in 2005"
+    ],
+    "data": {
+        "Azerbaijan": [
+            5.5
+        ],
+        "Nicaragua": [
+            1.45
+        ],
+        "Paraguay": [
+            9.7
+        ]
+    },
+    "colors": {
+        "Azerbaijan": "#f27979",
+        "Nicaragua": "#00f200",
+        "Paraguay": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

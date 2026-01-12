@@ -1,0 +1,97 @@
+{
+    "title": "Number of offenses",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of offenses"
+    },
+    "legend": {
+        "2010": "#f27979",
+        "2011": "#f28400",
+        "2012": "#e7f279",
+        "2013": "#58f200",
+        "2014": "#52a561",
+        "2015": "#00a578",
+        "2016": "#528fa5",
+        "2017": "#001ea5",
+        "2018": "#a579f2",
+        "2019": "#dc00f2",
+        "2020": "#f279bb"
+    },
+    "data": {
+        "2010": [
+            339149.0
+        ],
+        "2011": [
+            342197.0
+        ],
+        "2012": [
+            317576.0
+        ],
+        "2013": [
+            309172.0
+        ],
+        "2014": [
+            298753.0
+        ],
+        "2015": [
+            294662.0
+        ],
+        "2016": [
+            285437.0
+        ],
+        "2017": [
+            272894.0
+        ],
+        "2018": [
+            273636.0
+        ],
+        "2019": [
+            274990.0
+        ],
+        "2020": [
+            313438.0
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 543430
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": true,
+    "colors": {
+        "2010": "#f27979",
+        "2011": "#f28400",
+        "2012": "#e7f279",
+        "2013": "#58f200",
+        "2014": "#52a561",
+        "2015": "#00a578",
+        "2016": "#528fa5",
+        "2017": "#001ea5",
+        "2018": "#a579f2",
+        "2019": "#dc00f2",
+        "2020": "#f279bb"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": "Proportion of the female labor force (ages 15-64) who participated in production",
+    "legend": {
+        "Switzerland": "#f27979",
+        "Syrian Arab Republic": "#00f200",
+        "Tajikistan": "#5252a5"
+    },
+    "categories": [
+        "Proportion of the female labor force (ages 15-64) who participated in production"
+    ],
+    "data": {
+        "Switzerland": [
+            67.8000030517578
+        ],
+        "Syrian Arab Republic": [
+            19.0
+        ],
+        "Tajikistan": [
+            62.5999984741211
+        ]
+    },
+    "colors": {
+        "Switzerland": "#f27979",
+        "Syrian Arab Republic": "#00f200",
+        "Tajikistan": "#5252a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

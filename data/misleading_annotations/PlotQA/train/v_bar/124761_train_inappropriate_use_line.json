@@ -1,0 +1,64 @@
+{
+    "title": "Unemployed male youth population of a country",
+    "x_axis": {
+        "categories": [
+            "Korea (Republic)",
+            "Norway",
+            "Portugal",
+            "Spain"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1980": "#D2691E",
+        "1981": "#FFA07A",
+        "1982": "#FF00FF"
+    },
+    "data": {
+        "1980": [
+            13.8999996185303,
+            3.20000004768372,
+            8.39999961853027,
+            23.0
+        ],
+        "1981": [
+            13.1999998092651,
+            3.70000004768372,
+            8.699999809265138,
+            28.10000038146969
+        ],
+        "1982": [
+            12.8000001907349,
+            6.199999809265139,
+            7.5,
+            31.7999992370605
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

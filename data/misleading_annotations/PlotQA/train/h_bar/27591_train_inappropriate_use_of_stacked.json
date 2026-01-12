@@ -1,0 +1,67 @@
+{
+    "title": "Net bilateral aid flow in an economy from Greece",
+    "legend": {
+        "OECD members": "#f27979",
+        "Sub-Saharan Africa (all income levels)": "#f2f200",
+        "Sub-Saharan Africa (developing only)": "#79f279",
+        "Upper middle income": "#00a5a5",
+        "World": "#5252a5",
+        "Albania": "#a500a5"
+    },
+    "categories": [
+        "Net bilateral aid flow in an economy from Greece"
+    ],
+    "data": {
+        "OECD members": [
+            120000.0
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            6380000.0
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            6380000.0
+        ],
+        "Upper middle income": [
+            13420000.0
+        ],
+        "World": [
+            28540000.0
+        ],
+        "Albania": [
+            4830000.0
+        ]
+    },
+    "colors": {
+        "OECD members": "#f27979",
+        "Sub-Saharan Africa (all income levels)": "#f2f200",
+        "Sub-Saharan Africa (developing only)": "#79f279",
+        "Upper middle income": "#00a5a5",
+        "World": "#5252a5",
+        "Albania": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 45310000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

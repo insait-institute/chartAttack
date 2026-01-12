@@ -1,0 +1,56 @@
+{
+    "title": "Official Aid vs Net ODA received in 2002 ",
+    "x_axis": {
+        "categories": [
+            "Official aid received",
+            "ODA received"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Algeria": "#8FBC8F",
+        "Cabo Verde": "#20B2AA",
+        "Dominica": "#6B8E23"
+    },
+    "data": {
+        "Algeria": [
+            308180000,
+            308180000
+        ],
+        "Cabo Verde": [
+            144250000,
+            144250000
+        ],
+        "Dominica": [
+            43980000,
+            43980000
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 308180000
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

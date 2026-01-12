@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "legend": {
+        "Edge": "#f27979",
+        "Barbasol": "#f29100",
+        "Private label": "#daf279",
+        "Skintimate Skin Therapy": "#30f200",
+        "Gillette Series": "#52a574",
+        "Gillette Foamy": "#00a5a5",
+        "Skintimate Signature Scents": "#5274a5",
+        "Gillette Fusion Proglide": "#2100a5",
+        "E.O.S.": "#da79f2",
+        "Gillette Satin Care": "#f20091"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Edge": [
+            77.6
+        ],
+        "Barbasol": [
+            42.8
+        ],
+        "Private label": [
+            39.9
+        ],
+        "Skintimate Skin Therapy": [
+            37.4
+        ],
+        "Gillette Series": [
+            28.3
+        ],
+        "Gillette Foamy": [
+            24.0
+        ],
+        "Skintimate Signature Scents": [
+            20.7
+        ],
+        "Gillette Fusion Proglide": [
+            15.9
+        ],
+        "E.O.S.": [
+            15.2
+        ],
+        "Gillette Satin Care": [
+            15.0
+        ]
+    },
+    "colors": {
+        "Edge": "#f27979",
+        "Barbasol": "#f29100",
+        "Private label": "#daf279",
+        "Skintimate Skin Therapy": "#30f200",
+        "Gillette Series": "#52a574",
+        "Gillette Foamy": "#00a5a5",
+        "Skintimate Signature Scents": "#5274a5",
+        "Gillette Fusion Proglide": "#2100a5",
+        "E.O.S.": "#da79f2",
+        "Gillette Satin Care": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

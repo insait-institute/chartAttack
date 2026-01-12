@@ -1,0 +1,76 @@
+{
+    "title": "Percentage of individuals or firms listed by a private credit bureau",
+    "x_axis": {
+        "categories": [
+            "Botswana",
+            "Canada",
+            "Chile",
+            "Colombia",
+            "Costa Rica"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "2004": "#00CED1",
+        "2005": "#8B4513",
+        "2006": "#DB7093",
+        "2007": "#006400"
+    },
+    "data": {
+        "2004": [
+            30.9,
+            100.0,
+            22.0,
+            30.0,
+            4.5
+        ],
+        "2005": [
+            30.8,
+            100.0,
+            22.1,
+            31.7,
+            4.5
+        ],
+        "2006": [
+            43.2,
+            100.0,
+            19.3,
+            28.3,
+            39.2
+        ],
+        "2007": [
+            58.3,
+            100.0,
+            33.5,
+            39.9,
+            52.7
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": false
+}

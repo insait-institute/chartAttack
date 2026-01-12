@@ -1,0 +1,64 @@
+{
+    "title": "Percentage of part-time workers in the year 1986",
+    "x_axis": {
+        "categories": [
+            "Canada",
+            "Denmark",
+            "France",
+            "Greece",
+            "Ireland",
+            "Italy"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Part time employment": "#A020F0"
+    },
+    "data": {
+        "Part time employment": [
+            16.8999996185303,
+            19.2000007629395,
+            11.6000003814697,
+            6.800000190734861,
+            6.099999904632571,
+            4.90000009536743
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "Part time employment": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

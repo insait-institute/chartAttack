@@ -1,0 +1,78 @@
+{
+    "title": "Statutory profit or loss before tax in million GBP",
+    "x_axis": {
+        "categories": [
+            "H1 2012",
+            "H1 2013",
+            "H1 2014"
+        ]
+    },
+    "y_axis": {
+        "label": "Statutory profit or loss before tax in million GBP"
+    },
+    "legend": {
+        "Barclays": "#2876dd",
+        "RBS": "#2865dd",
+        "Lloyds": "#315ade",
+        "HSBC": "#253ed6",
+        "SCB": "#373fe2"
+    },
+    "data": {
+        "Barclays": [
+            871,
+            1677,
+            2501
+        ],
+        "RBS": [
+            -1682,
+            1374,
+            2652
+        ],
+        "Lloyds": [
+            -456,
+            2134,
+            863
+        ],
+        "HSBC": [
+            8077,
+            9112,
+            7238
+        ],
+        "SCB": [
+            2496,
+            2153,
+            1908
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 9120
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "color": {
+        "Barclays": "#2876dd",
+        "RBS": "#2865dd",
+        "Lloyds": "#315ade",
+        "HSBC": "#253ed6",
+        "SCB": "#373fe2"
+    }
+}

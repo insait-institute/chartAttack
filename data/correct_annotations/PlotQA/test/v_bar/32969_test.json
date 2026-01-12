@@ -1,0 +1,52 @@
+{
+    "title": "Percentage of babies born with low-birthweight in the year 1993",
+    "x_axis": {
+        "categories": [
+            "Burkina Faso",
+            "Ghana",
+            "India",
+            "Kenya",
+            "Philippines"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Low-birthweight babies": "#FF8C00"
+    },
+    "data": {
+        "Low-birthweight babies": [
+            17.3,
+            11.3,
+            31.7,
+            11.4,
+            17.9
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

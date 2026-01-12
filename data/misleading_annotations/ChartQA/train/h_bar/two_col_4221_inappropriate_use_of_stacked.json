@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Lars": "#f27979",
+        "Mikael": "#f24800",
+        "Anders": "#f2c179",
+        "Johan": "#f2da00",
+        "Erik": "#daf279",
+        "Per": "#79f200",
+        "Peter": "#91f279",
+        "Karl": "#00a510",
+        "Thomas": "#52a574",
+        "Jan": "#00a574",
+        "Daniel": "#52a5a5",
+        "Fredrik": "#0074a5",
+        "Andreas": "#5274a5",
+        "Hans": "#0010a5",
+        "Stefan": "#9179f2",
+        "Mohamed": "#7900f2",
+        "Mats": "#da79f2",
+        "Marcus": "#f200da",
+        "Mattias": "#f279c1",
+        "Magnus": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Lars": [
+            83396.0
+        ],
+        "Mikael": [
+            79760.0
+        ],
+        "Anders": [
+            76856.0
+        ],
+        "Johan": [
+            74652.0
+        ],
+        "Erik": [
+            65824.0
+        ],
+        "Per": [
+            64294.0
+        ],
+        "Peter": [
+            62207.0
+        ],
+        "Karl": [
+            60784.0
+        ],
+        "Thomas": [
+            60712.0
+        ],
+        "Jan": [
+            58242.0
+        ],
+        "Daniel": [
+            57654.0
+        ],
+        "Fredrik": [
+            54569.0
+        ],
+        "Andreas": [
+            45564.0
+        ],
+        "Hans": [
+            45278.0
+        ],
+        "Stefan": [
+            44942.0
+        ],
+        "Mohamed": [
+            44825.0
+        ],
+        "Mats": [
+            43011.0
+        ],
+        "Marcus": [
+            42860.0
+        ],
+        "Mattias": [
+            41894.0
+        ],
+        "Magnus": [
+            41667.0
+        ]
+    },
+    "colors": {
+        "Lars": "#f27979",
+        "Mikael": "#f24800",
+        "Anders": "#f2c179",
+        "Johan": "#f2da00",
+        "Erik": "#daf279",
+        "Per": "#79f200",
+        "Peter": "#91f279",
+        "Karl": "#00a510",
+        "Thomas": "#52a574",
+        "Jan": "#00a574",
+        "Daniel": "#52a5a5",
+        "Fredrik": "#0074a5",
+        "Andreas": "#5274a5",
+        "Hans": "#0010a5",
+        "Stefan": "#9179f2",
+        "Mohamed": "#7900f2",
+        "Mats": "#da79f2",
+        "Marcus": "#f200da",
+        "Mattias": "#f279c1",
+        "Magnus": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 83400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

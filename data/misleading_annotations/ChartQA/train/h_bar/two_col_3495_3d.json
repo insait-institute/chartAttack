@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Annual Loss": "#2876dd"
+    },
+    "categories": [
+        "California",
+        "New York",
+        "Texas",
+        "Florida",
+        "Ohio",
+        "Illinois",
+        "Missouri",
+        "Pennsylvania",
+        "Virginia",
+        "Colorado"
+    ],
+    "data": {
+        "Annual Loss": [
+            621.45,
+            415.81,
+            313.57,
+            295.03,
+            170.17,
+            150.5,
+            115.91,
+            108.51,
+            101.66,
+            100.66
+        ]
+    },
+    "colors": {
+        "Annual Loss": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 630
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

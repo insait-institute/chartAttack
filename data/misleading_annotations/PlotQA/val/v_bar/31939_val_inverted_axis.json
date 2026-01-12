@@ -1,0 +1,52 @@
+{
+    "title": "Discrepancy in expenditure estimate of GDP of differenct countries in 2000",
+    "x_axis": {
+        "categories": [
+            "Nicaragua",
+            "Norway",
+            "Papua New Guinea",
+            "Paraguay",
+            "Poland"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Discrepancy constant LCU": "#4B0082"
+    },
+    "data": {
+        "Discrepancy constant LCU": [
+            -2012760885.86988,
+            6832844800.0,
+            -88299.99999943539,
+            2000000.0,
+            4929580800.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 6832844800
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,68 @@
+{
+    "title": "Total debt service of a country to exports of goods, services and primary income",
+    "legend": {
+        "Brazil": "#708090",
+        "Georgia": "#00FF7F",
+        "Lesotho": "#FFA07A"
+    },
+    "categories": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "data": {
+        "Brazil": [
+            38.248552319393,
+            28.0520896216672,
+            23.4712959527755,
+            23.4880702453716,
+            19.0443003849607
+        ],
+        "Georgia": [
+            10.6788078272238,
+            5.96220104530979,
+            16.7263580099429,
+            20.9590332487573,
+            17.50177387757
+        ],
+        "Lesotho": [
+            3.05794258258513,
+            5.904368613359479,
+            2.231207248018491,
+            2.5962662981728,
+            2.06769647749094
+        ]
+    },
+    "colors": {
+        "Brazil": "#708090",
+        "Georgia": "#00FF7F",
+        "Lesotho": "#FFA07A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

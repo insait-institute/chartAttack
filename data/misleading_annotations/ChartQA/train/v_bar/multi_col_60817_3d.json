@@ -1,0 +1,56 @@
+{
+    "title": "Sponsorship revenue in million U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2014/15*",
+            "2015/16**"
+        ]
+    },
+    "y_axis": {
+        "label": "Sponsorship revenue in million U.S. dollars"
+    },
+    "legend": {
+        "Jersey (Deutsche Telekom)": "#2876dd",
+        "Kit (Adidas)": "#0f283e",
+        "Stadium (Allianz)": "#bababa"
+    },
+    "data": {
+        "Jersey (Deutsche Telekom)": [
+            34,
+            34
+        ],
+        "Kit (Adidas)": [
+            28,
+            68
+        ],
+        "Stadium (Allianz)": [
+            9,
+            9
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

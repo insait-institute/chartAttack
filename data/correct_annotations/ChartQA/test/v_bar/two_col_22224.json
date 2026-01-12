@@ -1,0 +1,64 @@
+{
+    "title": "Software unit sales in millions",
+    "x_axis": {
+        "categories": [
+            "FY '11",
+            "FY '12",
+            "FY '13",
+            "FY '14",
+            "FY '15",
+            "FY '16",
+            "FY '17",
+            "FY '18",
+            "FY '19",
+            "FY '20",
+            "FY '21"
+        ]
+    },
+    "y_axis": {
+        "label": "Software unit sales in millions"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            9.43,
+            36,
+            49.61,
+            67.89,
+            62.74,
+            48.52,
+            55.08,
+            35.64,
+            13.22,
+            4.99,
+            3.38
+        ]
+    },
+    "type": "v_bar",
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Stacked vertical bar chart": false
+}

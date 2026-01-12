@@ -1,0 +1,64 @@
+{
+    "title": "Daily active users in millions",
+    "x_axis": {
+        "categories": [
+            "2018 Q2",
+            "2018 Q3",
+            "2018 Q4",
+            "2019 Q1",
+            "2019 Q2",
+            "2019 Q3",
+            "2019 Q4",
+            "2020 Q1",
+            "2020 Q2",
+            "2020 Q3",
+            "2020 Q4"
+        ]
+    },
+    "y_axis": {
+        "label": "Daily active users in millions"
+    },
+    "legend": {
+        "Series": "#2876dd"
+    },
+    "data": {
+        "Series": [
+            3.6,
+            3.4,
+            3.2,
+            3.15,
+            3.23,
+            3.29,
+            2.9,
+            3.05,
+            3.79,
+            2.94,
+            2.51
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

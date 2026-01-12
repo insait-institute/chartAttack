@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Natural Search Voice": "#2876dd"
+    },
+    "categories": [
+        "currys.co.uk",
+        "argos.co.uk",
+        "amazon.co.uk",
+        "johnlewis.com",
+        "tesco.com",
+        "appliancesdirect.co.uk",
+        "very.co.uk",
+        "wikipedia.org",
+        "ao.com",
+        "techradar.com"
+    ],
+    "data": {
+        "Natural Search Voice": [
+            65,
+            63,
+            49,
+            48,
+            45,
+            30,
+            20,
+            20,
+            19,
+            15
+        ]
+    },
+    "colors": {
+        "Natural Search Voice": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Natural Search Voice": [
+            0.25,
+            0.75,
+            1.25,
+            1.25,
+            0.25,
+            0.5,
+            0.5,
+            1.5,
+            1.75,
+            1.25
+        ]
+    }
+}

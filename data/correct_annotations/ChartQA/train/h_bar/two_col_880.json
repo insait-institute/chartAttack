@@ -1,0 +1,80 @@
+{
+    "title": "Child deaths in the first year of life per 1,000 live births",
+    "categories": [
+        "Afghanistan",
+        "Somalia",
+        "Central African Republic",
+        "Niger",
+        "Chad",
+        "Sierra Leone",
+        "Gambia",
+        "South Sudan",
+        "Equatorial Guinea",
+        "Mozambique",
+        "Democratic Republic of Congo",
+        "Mali",
+        "Angola",
+        "Nigeria",
+        "Comoros",
+        "Cote d'Ivoire",
+        "Benin",
+        "Pakistan",
+        "Mauritania",
+        "Guinea"
+    ],
+    "data": {
+        "Child deaths": [
+            106.75,
+            88.03,
+            84.22,
+            68.12,
+            67.02,
+            65.34,
+            65.04,
+            64.77,
+            63.25,
+            63.03,
+            62.63,
+            62.31,
+            60.58,
+            58.23,
+            58.21,
+            57.36,
+            57.23,
+            55.26,
+            52.05,
+            50.99
+        ]
+    },
+    "colors": {
+        "Child deaths": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Child deaths": "#2876dd"
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Net savings in current US dollars of Dominica",
+    "legend": {
+        "Net savings(excluding particulate emission damage)": "#7FFFD4",
+        "Net National savings": "#008080"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+    ],
+    "y_axis_label": "Savings(current US$)",
+    "data": [
+        {
+            "label": "Net savings(excluding particulate emission damage)",
+            "color": "#7FFFD4",
+            "values": [
+                32639042.5736412,
+                34190162.5430503,
+                46613839.19558211,
+                38421455.5226991,
+                6865547.95695187
+            ]
+        },
+        {
+            "label": "Net National savings",
+            "color": "#008080",
+            "values": [
+                22452972.2105159,
+                23591353.3374604,
+                35222220.9921886,
+                27056757.3218724,
+                -7051139.77985202
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -7051140,
+                "max_value": 46613840
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

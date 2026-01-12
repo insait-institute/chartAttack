@@ -1,0 +1,68 @@
+{
+    "title": "Methane emission due to industrial production",
+    "legend": {
+        "Low income": "#2E8B57",
+        "Japan": "#BC8F8F",
+        "Qatar": "#A52A2A"
+    },
+    "categories": [
+        "1990",
+        "2000",
+        "2005",
+        "2008",
+        "2010"
+    ],
+    "data": {
+        "Low income": [
+            29369.9,
+            35422.6,
+            41279.9,
+            45092.4,
+            48254.8
+        ],
+        "Japan": [
+            6873.6,
+            4486.9,
+            3458.3,
+            3341.0,
+            3262.0
+        ],
+        "Qatar": [
+            4055.8,
+            12603.1,
+            17991.2,
+            27544.6,
+            39600.2
+        ]
+    },
+    "colors": {
+        "Low income": "#2E8B57",
+        "Japan": "#BC8F8F",
+        "Qatar": "#A52A2A"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 48260
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

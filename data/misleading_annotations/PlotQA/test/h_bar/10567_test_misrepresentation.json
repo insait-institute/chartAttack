@@ -1,0 +1,98 @@
+{
+    "title": "Insurance provided to residents by nonresident insurance enterprises outside a country",
+    "legend": {
+        "2005": "#8B4513",
+        "2006": "#4682B4",
+        "2007": "#6B8E23"
+    },
+    "categories": [
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Kenya",
+        "Korea (Republic)",
+        "Kosovo"
+    ],
+    "data": {
+        "2005": [
+            3.1967520767751,
+            2.76946501900803,
+            5.80367838114573,
+            0.5554050996399511,
+            1.85589282933474,
+            3.48768854969054
+        ],
+        "2006": [
+            3.70199482487734,
+            2.04722137229712,
+            7.066280497686241,
+            0.299511402916176,
+            2.83871531570898,
+            3.95137458489098
+        ],
+        "2007": [
+            4.794173462442769,
+            2.92668546663846,
+            6.209795290305071,
+            0.258648500814052,
+            3.45677978520736,
+            3.65329170471797
+        ]
+    },
+    "colors": {
+        "2005": "#8B4513",
+        "2006": "#4682B4",
+        "2007": "#6B8E23"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2005": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "2006": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "2007": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

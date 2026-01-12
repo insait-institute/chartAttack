@@ -1,0 +1,64 @@
+{
+    "title": "International migrant stocks(%) of Nepal",
+    "legend": {
+        "International migrant stock": "#191970"
+    },
+    "x_axis": [
+        "1985",
+        "1990",
+        "1995",
+        "2000"
+    ],
+    "y_axis_label": "Amount of stocks(% of population)",
+    "data": [
+        {
+            "label": "International migrant stock",
+            "color": "#191970",
+            "values": [
+                1.8781602738009,
+                2.29782397401984,
+                2.92124152764925,
+                3.0233640106242
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "International migrant stock",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75
+            ]
+        }
+    ]
+}

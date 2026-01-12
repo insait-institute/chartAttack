@@ -1,0 +1,60 @@
+{
+    "title": "IAAF score",
+    "categories": [
+        "Laura Strati",
+        "Tania Vicenzino",
+        "Carol Zangobbo",
+        "Sofia Zanotti",
+        "Marta Giaele Giovannini",
+        "Laura Oberto",
+        "Lucrezia Sartori",
+        "Chiara Smeraldo",
+        "Milica Travar",
+        "Stefania Barrucci"
+    ],
+    "data": {
+        "Score": [
+            1136,
+            1103,
+            1051,
+            1014,
+            981,
+            976,
+            972,
+            967,
+            965,
+            959
+        ]
+    },
+    "colors": {
+        "Score": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "legend": {
+        "Score": "#2876dd"
+    }
+}

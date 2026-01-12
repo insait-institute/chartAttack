@@ -1,0 +1,68 @@
+{
+    "title": "",
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "categories": [
+        "Tata Motors",
+        "Isuzu Motors",
+        "Ashok Leyland",
+        "Mahindra & Mahindra",
+        "Force Motors",
+        "VECVs Eicher",
+        "SML Isuzu",
+        "Maruti Suzuki"
+    ],
+    "data": {
+        "Model": [
+            1789,
+            900,
+            392,
+            306,
+            77,
+            67,
+            61,
+            53
+        ]
+    },
+    "colors": {
+        "Model": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1790
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Model": [
+            0.5,
+            2.0,
+            2.0,
+            1.25,
+            1.75,
+            2.0,
+            1.25,
+            2.0
+        ]
+    }
+}

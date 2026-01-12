@@ -1,0 +1,62 @@
+{
+    "title": "Percentage of newborns in 1998 who received the vaccination",
+    "legend": {
+        "Equatorial Guinea": "#BA55D3",
+        "Iran": "#EE82EE",
+        "Jordan": "#BEBEBE",
+        "Senegal": "#FF7F50"
+    },
+    "categories": [
+        "Measles",
+        "Tetanus"
+    ],
+    "data": {
+        "Equatorial Guinea": [
+            82,
+            74
+        ],
+        "Iran": [
+            99,
+            82
+        ],
+        "Jordan": [
+            93,
+            46
+        ],
+        "Senegal": [
+            62,
+            54
+        ]
+    },
+    "colors": {
+        "Equatorial Guinea": "#BA55D3",
+        "Iran": "#EE82EE",
+        "Jordan": "#BEBEBE",
+        "Senegal": "#FF7F50"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

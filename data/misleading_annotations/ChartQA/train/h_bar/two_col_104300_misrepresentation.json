@@ -1,0 +1,74 @@
+{
+    "title": "",
+    "legend": {
+        "Brand Index Score": "#2876dd"
+    },
+    "categories": [
+        "Netflix",
+        "Amazon Prime",
+        "Amazon.com",
+        "M&M's",
+        "Samsung",
+        "Toyota",
+        "Dove - Skincare",
+        "Dawn",
+        "Home Depot",
+        "Aldi"
+    ],
+    "data": {
+        "Brand Index Score": [
+            29.2,
+            28,
+            24.1,
+            20.2,
+            19.7,
+            19.3,
+            19.1,
+            19.1,
+            19,
+            18.7
+        ]
+    },
+    "colors": {
+        "Brand Index Score": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "scaling_factors": {
+        "Brand Index Score": [
+            0.5,
+            0.25,
+            1.75,
+            1.75,
+            1.25,
+            0.5,
+            0.5,
+            0.5,
+            1.75,
+            1.5
+        ]
+    }
+}

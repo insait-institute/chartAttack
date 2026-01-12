@@ -1,0 +1,60 @@
+{
+    "title": "Earning from merchandise exports by the reporting economy(residual) of countries",
+    "legend": {
+        "East Asia (all income levels)": "#808000",
+        "Fragile and conflict affected situations": "#DB7093",
+        "Indonesia": "#9ACD32"
+    },
+    "categories": [
+        "1994",
+        "1995",
+        "1996"
+    ],
+    "data": {
+        "East Asia (all income levels)": [
+            2.01892131954444,
+            2.16665269316132,
+            2.1527628915611
+        ],
+        "Fragile and conflict affected situations": [
+            9.116519968568,
+            8.75223507131645,
+            17.1975130990089
+        ],
+        "Indonesia": [
+            1.28017786361118,
+            5.48798980336331,
+            2.06370046506574
+        ]
+    },
+    "colors": {
+        "East Asia (all income levels)": "#808000",
+        "Fragile and conflict affected situations": "#DB7093",
+        "Indonesia": "#9ACD32"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

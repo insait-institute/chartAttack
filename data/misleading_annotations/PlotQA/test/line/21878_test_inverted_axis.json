@@ -1,0 +1,55 @@
+{
+    "title": "Government expenditure per student as % of GDP per capita in Jamaica",
+    "legend": {
+        "Government expenditure per tertiary student": "#6B8E23"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "y_axis_label": "Expenditure (as % of GDP per capita)",
+    "data": [
+        {
+            "label": "Government expenditure per tertiary student",
+            "color": "#6B8E23",
+            "values": [
+                70.3676605224609,
+                59.6892013549805,
+                32.0679512023926,
+                36.99032974243161,
+                56.4166793823242
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

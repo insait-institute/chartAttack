@@ -1,0 +1,57 @@
+{
+    "title": "Split of the expenses (in %) of different economies in 2000",
+    "x_axis": {
+        "categories": [
+            "Compensation of employees",
+            "Goods and services",
+            "Subsidies and Transfers",
+            "Other expenses"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Iceland": "#228B22",
+        "Iran": "#FFA07A"
+    },
+    "data": {
+        "Iceland": [
+            29.2046877881601,
+            24.2483344347452,
+            21.8852296827934,
+            15.2171094086187
+        ],
+        "Iran": [
+            56.6257851877228,
+            17.933098587414,
+            24.0899374494837,
+            1.35110218228533
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

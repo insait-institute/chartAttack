@@ -1,0 +1,80 @@
+{
+    "title": "",
+    "legend": {
+        "Rushing yards": "#2876dd"
+    },
+    "categories": [
+        "Jonathan Stewart",
+        "DeAngelo Williams",
+        "Cam Newton",
+        "DeShaun Foster",
+        "Christian McCaffrey",
+        "Tim Biakabutuka",
+        "Stephen Davis",
+        "Fred Lane",
+        "Anthony Johnson",
+        "Nick Goings",
+        "Mike Tolbert",
+        "Brad Hoover",
+        "Derrick Moore",
+        "Lamar Smith",
+        "Richard Huntley",
+        "Mike Davis",
+        "Fozzy Whittaker",
+        "Mike Goodson",
+        "Cameron Artis-Payne",
+        "Curtis Samuel"
+    ],
+    "data": {
+        "Rushing yards": [
+            7318,
+            6846,
+            4806,
+            3336,
+            3145,
+            2530,
+            2085,
+            2001,
+            1795,
+            1470,
+            992,
+            961,
+            740,
+            737,
+            665,
+            644,
+            536,
+            501,
+            491,
+            478
+        ]
+    },
+    "colors": {
+        "Rushing yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 7320
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

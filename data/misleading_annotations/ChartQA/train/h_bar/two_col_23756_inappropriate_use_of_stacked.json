@@ -1,0 +1,97 @@
+{
+    "title": "",
+    "legend": {
+        "Privalia.com": "#f27979",
+        "bonprix.it": "#f27900",
+        "Yoox.com": "#f2f279",
+        "Amazon.it": "#79f200",
+        "Zalando.it": "#79f279",
+        "Unieuro.it": "#00a552",
+        "Eprice.it": "#52a5a5",
+        "Lightinthebox.com": "#0052a5",
+        "Miniinthebox.com": "#5252a5",
+        "Mediaworld.it": "#5200a5",
+        "Asics.com": "#f279f2",
+        "Price.ua": "#f20079"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Privalia.com": [
+            3.0
+        ],
+        "bonprix.it": [
+            2.9
+        ],
+        "Yoox.com": [
+            2.4
+        ],
+        "Amazon.it": [
+            2.1
+        ],
+        "Zalando.it": [
+            1.8
+        ],
+        "Unieuro.it": [
+            1.1
+        ],
+        "Eprice.it": [
+            1.1
+        ],
+        "Lightinthebox.com": [
+            1.1
+        ],
+        "Miniinthebox.com": [
+            1.1
+        ],
+        "Mediaworld.it": [
+            1.0
+        ],
+        "Asics.com": [
+            1.0
+        ],
+        "Price.ua": [
+            0.6
+        ]
+    },
+    "colors": {
+        "Privalia.com": "#f27979",
+        "bonprix.it": "#f27900",
+        "Yoox.com": "#f2f279",
+        "Amazon.it": "#79f200",
+        "Zalando.it": "#79f279",
+        "Unieuro.it": "#00a552",
+        "Eprice.it": "#52a5a5",
+        "Lightinthebox.com": "#0052a5",
+        "Miniinthebox.com": "#5252a5",
+        "Mediaworld.it": "#5200a5",
+        "Asics.com": "#f279f2",
+        "Price.ua": "#f20079"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

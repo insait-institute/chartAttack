@@ -1,0 +1,82 @@
+{
+    "title": "",
+    "legend": {
+        "Infections per 100,000 population": "#2876dd"
+    },
+    "categories": [
+        "Autonomous Province of Bolzano",
+        "Aosta Valley",
+        "Veneto",
+        "Emilia Romagna",
+        "Friuli Venezia Giulia",
+        "Autonomous Province of Trento",
+        "Lombardy",
+        "Piedmont",
+        "Campania",
+        "Liguria",
+        "Marche",
+        "Tuscany",
+        "Umbria",
+        "Apulia",
+        "Lazio",
+        "Abruzzo",
+        "Basilicata",
+        "Sicily",
+        "Molise",
+        "Calabria",
+        "Sardinia"
+    ],
+    "data": {
+        "Infections per 100,000 population": [
+            12135.1,
+            9373.3,
+            8778.9,
+            8691.5,
+            8683.4,
+            8591,
+            8427.4,
+            8350.5,
+            7162.9,
+            6844.3,
+            6821.8,
+            6641.5,
+            6622.8,
+            6444,
+            6184.7,
+            5808.8,
+            4831.3,
+            4793,
+            4619.2,
+            3647.7,
+            3575.8
+        ]
+    },
+    "colors": {
+        "Infections per 100,000 population": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12140
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

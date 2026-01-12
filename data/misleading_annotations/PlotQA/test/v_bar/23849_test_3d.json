@@ -1,0 +1,57 @@
+{
+    "title": "Split of the income in different subgroups of a country in 2013",
+    "x_axis": {
+        "categories": [
+            "First 20% of population",
+            "Second 20% of population",
+            "Third 20% of population",
+            "Fourth 20% of population"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Ukraine": "#ADFF2F",
+        "United States": "#CD5C5C"
+    },
+    "data": {
+        "Ukraine": [
+            35.05,
+            14.53,
+            17.93,
+            22.21
+        ],
+        "United States": [
+            46.44,
+            10.29,
+            15.44,
+            22.71
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

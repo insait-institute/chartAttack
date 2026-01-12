@@ -1,0 +1,72 @@
+{
+    "title": "Prime yield",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Prime yield"
+    },
+    "legend": {
+        "2013": "#f27979",
+        "2014": "#f2f200",
+        "2015": "#79f279",
+        "2016": "#00a5a5",
+        "2017": "#5252a5",
+        "2018": "#a500a5"
+    },
+    "data": {
+        "2013": [
+            5.8
+        ],
+        "2014": [
+            5.75
+        ],
+        "2015": [
+            5.35
+        ],
+        "2016": [
+            4.75
+        ],
+        "2017": [
+            4.5
+        ],
+        "2018": [
+            4.25
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2013": "#f27979",
+        "2014": "#f2f200",
+        "2015": "#79f279",
+        "2016": "#00a5a5",
+        "2017": "#5252a5",
+        "2018": "#a500a5"
+    }
+}

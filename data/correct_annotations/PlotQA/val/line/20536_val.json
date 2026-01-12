@@ -1,0 +1,106 @@
+{
+    "title": "Enrolment ratio of female students in different levels of education in Bulgaria",
+    "legend": {
+        "Pre-primary schools": "#A52A2A",
+        "Primary schools": "#20B2AA",
+        "Secondary schools": "#87CEEB",
+        "Tertiary schools": "#F0E68C"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+    ],
+    "y_axis_label": "Gross enrolment ratio (%)",
+    "data": [
+        {
+            "label": "Pre-primary schools",
+            "color": "#A52A2A",
+            "values": [
+                75.2728729248047,
+                76.9032974243164,
+                79.4086532592773,
+                82.0356216430664,
+                82.0638885498047,
+                81.7216796875,
+                82.56861877441409,
+                83.56964111328129
+            ]
+        },
+        {
+            "label": "Primary schools",
+            "color": "#20B2AA",
+            "values": [
+                104.851890563965,
+                104.256553649902,
+                100.630058288574,
+                98.098289489746,
+                100.057243347168,
+                101.553466796875,
+                102.895042419434,
+                103.147499084473
+            ]
+        },
+        {
+            "label": "Secondary schools",
+            "color": "#87CEEB",
+            "values": [
+                85.7685012817383,
+                87.5303192138672,
+                88.40875244140629,
+                89.3748397827148,
+                89.7071685791016,
+                89.05255126953129,
+                87.8568878173828,
+                88.3423004150391
+            ]
+        },
+        {
+            "label": "Tertiary schools",
+            "color": "#F0E68C",
+            "values": [
+                45.1935691833496,
+                45.42596054077151,
+                47.64083099365229,
+                50.59926986694339,
+                54.9564208984375,
+                58.6508903503417,
+                62.0480613708496,
+                66.37058258056639
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 40,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

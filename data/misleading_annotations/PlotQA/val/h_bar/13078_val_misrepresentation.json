@@ -1,0 +1,107 @@
+{
+    "title": "Grants received by the government including technical cooeration",
+    "legend": {
+        "1970": "#6A5ACD",
+        "1971": "#8A2BE2",
+        "1972": "#FF7F50",
+        "1973": "#008080"
+    },
+    "categories": [
+        "Botswana",
+        "Brazil",
+        "Burkina Faso",
+        "Burundi",
+        "Cambodia"
+    ],
+    "data": {
+        "1970": [
+            2690000.0,
+            31840000.0,
+            8150000.0,
+            10350000.0,
+            7050000.0
+        ],
+        "1971": [
+            4800000.0,
+            37470000.0,
+            9540000.0,
+            11430000.0,
+            7560000.0
+        ],
+        "1972": [
+            4430000.0,
+            35760000.0,
+            12780000.0,
+            13580000.0,
+            8980000.0
+        ],
+        "1973": [
+            7390000.0,
+            41620000.0,
+            15320000.0,
+            15640000.0,
+            6880000.0
+        ]
+    },
+    "colors": {
+        "1970": "#6A5ACD",
+        "1971": "#8A2BE2",
+        "1972": "#FF7F50",
+        "1973": "#008080"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 41620000
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "1970": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1971": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1972": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ],
+        "1973": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75
+        ]
+    }
+}

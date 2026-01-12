@@ -1,0 +1,62 @@
+{
+    "title": "Employment in various sectors of an economy in 2005",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Agriculture": "#f27979",
+        "Industry": "#79f200",
+        "Services": "#52a5a5",
+        "Self-employed": "#5200a5"
+    },
+    "data": {
+        "Agriculture": [
+            1.10000002384186
+        ],
+        "Industry": [
+            23.5
+        ],
+        "Services": [
+            75.099998474121
+        ],
+        "Self-employed": [
+            25.5
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Agriculture": "#f27979",
+        "Industry": "#79f200",
+        "Services": "#52a5a5",
+        "Self-employed": "#5200a5"
+    }
+}

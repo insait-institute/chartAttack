@@ -1,0 +1,65 @@
+{
+    "title": "",
+    "legend": {
+        "line": "#2876dd"
+    },
+    "x_axis": [
+        "14-15",
+        "16-17",
+        "18-19",
+        "20-24",
+        "25-29",
+        "30-39",
+        "40-49",
+        "50-59",
+        "60-69",
+        "70 and older"
+    ],
+    "y_axis_label": "Share of respondents",
+    "data": [
+        {
+            "label": "line",
+            "color": "#2876dd",
+            "values": [
+                40,
+                45,
+                60,
+                64,
+                72,
+                63,
+                65,
+                54,
+                47,
+                33
+            ]
+        }
+    ],
+    "type": "line",
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

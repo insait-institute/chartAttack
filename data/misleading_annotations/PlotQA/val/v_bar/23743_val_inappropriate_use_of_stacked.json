@@ -1,0 +1,62 @@
+{
+    "title": "Pupil-teacher ratio in primary vs secondary education in different countries",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Europe(developing only)": "#f27979",
+        "European Union": "#79f200",
+        "Fragile and conflict affected situations": "#52a5a5",
+        "Heavily indebted poor countries": "#5200a5"
+    },
+    "data": {
+        "Europe(developing only)": [
+            24.2881298065186
+        ],
+        "European Union": [
+            18.3932094573975
+        ],
+        "Fragile and conflict affected situations": [
+            36.95164108276371
+        ],
+        "Heavily indebted poor countries": [
+            42.01588821411129
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Europe(developing only)": "#f27979",
+        "European Union": "#79f200",
+        "Fragile and conflict affected situations": "#52a5a5",
+        "Heavily indebted poor countries": "#5200a5"
+    }
+}

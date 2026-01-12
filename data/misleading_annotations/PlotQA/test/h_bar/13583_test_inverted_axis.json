@@ -1,0 +1,72 @@
+{
+    "title": "Amount spent by the government on the salary of employees",
+    "legend": {
+        "Belgium": "#ADFF2F",
+        "Brazil": "#A0522D",
+        "Congo (Republic)": "#006400",
+        "El Salvador": "#CD853F"
+    },
+    "categories": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "data": {
+        "Belgium": [
+            8303300000.0,
+            8738600000.0,
+            9043000000.0,
+            9342400000.0
+        ],
+        "Brazil": [
+            83656030761.51,
+            92230788379.56,
+            105496464730.85,
+            116371965767.15
+        ],
+        "Congo (Republic)": [
+            134840517812.0,
+            142645960588.0,
+            143700000000.0,
+            168049000000.0
+        ],
+        "El Salvador": [
+            1118400000.0,
+            1181200000.0,
+            1316400000.0,
+            1394900000.0
+        ]
+    },
+    "colors": {
+        "Belgium": "#ADFF2F",
+        "Brazil": "#A0522D",
+        "Congo (Republic)": "#006400",
+        "El Salvador": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 168049000000
+            },
+            "show_axis": true,
+            "direction": "right-to-left",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

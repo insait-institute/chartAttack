@@ -1,0 +1,76 @@
+{
+    "title": "Mineral rent as percent of GDP towards fuel resources",
+    "x_axis": {
+        "categories": [
+            "East Asia (developing only)",
+            "Euro area",
+            "Europe(all income levels)",
+            "Europe(developing only)",
+            "European Union"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#BDB76B",
+        "1971": "#6B8E23",
+        "1972": "#DB7093",
+        "1973": "#0000FF"
+    },
+    "data": {
+        "1970": [
+            0.3382323182863179,
+            0.0245768106208781,
+            0.0292921117539955,
+            0.2147828887884911,
+            0.0233533262377935
+        ],
+        "1971": [
+            0.267696444020438,
+            0.0171073531551586,
+            0.0193941376903559,
+            0.118767456428275,
+            0.0162447908059456
+        ],
+        "1972": [
+            0.3142165736786789,
+            0.0150306687994364,
+            0.0169661456238403,
+            0.0944710254863732,
+            0.0143342850898297
+        ],
+        "1973": [
+            0.546552591024022,
+            0.0318806692423538,
+            0.0402233090115538,
+            0.204420981417713,
+            0.0337234869280329
+        ]
+    },
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

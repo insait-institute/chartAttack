@@ -1,0 +1,67 @@
+{
+    "title": "Rent as percent of GDP towards minerals,forest of Lower middle income",
+    "legend": {
+        "1980": "#f27979",
+        "1981": "#f2f200",
+        "1982": "#79f279",
+        "1983": "#00a5a5",
+        "1984": "#5252a5",
+        "1985": "#a500a5"
+    },
+    "categories": [
+        "Rent as percent of GDP towards minerals,forest of Lower middle income"
+    ],
+    "data": {
+        "1980": [
+            0.7078388517040191
+        ],
+        "1981": [
+            0.511235786820225
+        ],
+        "1982": [
+            0.4190598703859121
+        ],
+        "1983": [
+            0.425624899713635
+        ],
+        "1984": [
+            0.382253496642956
+        ],
+        "1985": [
+            0.36570460248479
+        ]
+    },
+    "colors": {
+        "1980": "#f27979",
+        "1981": "#f2f200",
+        "1982": "#79f279",
+        "1983": "#00a5a5",
+        "1984": "#5252a5",
+        "1985": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

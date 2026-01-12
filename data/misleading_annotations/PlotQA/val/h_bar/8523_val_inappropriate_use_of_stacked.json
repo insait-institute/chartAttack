@@ -1,0 +1,57 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service imports",
+    "legend": {
+        "2008": "#f27979",
+        "2009": "#79f200",
+        "2010": "#52a5a5",
+        "2011": "#5200a5"
+    },
+    "categories": [
+        "Cost of communications and computers with respect to commercial service imports"
+    ],
+    "data": {
+        "2008": [
+            28.2916049860714
+        ],
+        "2009": [
+            30.3615771660185
+        ],
+        "2010": [
+            34.0055046250725
+        ],
+        "2011": [
+            27.1725165050262
+        ]
+    },
+    "colors": {
+        "2008": "#f27979",
+        "2009": "#79f200",
+        "2010": "#52a5a5",
+        "2011": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

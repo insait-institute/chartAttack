@@ -1,0 +1,80 @@
+{
+    "title": "Box office gross in million U.S. dollars",
+    "categories": [
+        "Captain America: Civil War",
+        "Rogue One: A Star Wars Story",
+        "Finding Dory",
+        "Zootopia",
+        "The Jungle Book (2016)",
+        "The Secret Life of Pets",
+        "Batman v Superman: Dawn of Justice",
+        "Fantastic Beasts and Where To Find Them",
+        "Deadpool",
+        "Suicide Squad",
+        "Doctor Strange",
+        "Moana",
+        "Sing",
+        "The Mermaid (Mei ren yu)",
+        "X-Men: Apocalypse",
+        "Kung Fu Panda 3",
+        "La La Land",
+        "Warcraft",
+        "Jason Bourne",
+        "Ice Age: Collision Course"
+    ],
+    "data": {
+        "Movies": [
+            1153.3,
+            1056.1,
+            1028.6,
+            1023.8,
+            966.6,
+            875.5,
+            873.3,
+            814,
+            783.1,
+            745.6,
+            677.7,
+            642.9,
+            632.4,
+            553.8,
+            543.9,
+            521.2,
+            445.2,
+            433.7,
+            415.5,
+            408.6
+        ]
+    },
+    "colors": {
+        "Movies": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1160
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Movies": "#2876dd"
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "title": "Year-over year change in bookings",
+    "legend": {
+        "Bookings Change": "#2876dd"
+    },
+    "categories": [
+        "Nashville",
+        "New Orleans",
+        "Palm Springs",
+        "Portland, Maine",
+        "Santa Barbara",
+        "Oregon Coast",
+        "The Adirondacks",
+        "Denver",
+        "Coastal Orange County",
+        "Boulder"
+    ],
+    "data": {
+        "Bookings Change": [
+            365,
+            340,
+            334,
+            328,
+            320,
+            316,
+            316,
+            306,
+            306,
+            291
+        ]
+    },
+    "colors": {
+        "Bookings Change": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 370
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

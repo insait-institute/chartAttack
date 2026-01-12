@@ -1,0 +1,86 @@
+{
+    "title": "CPIA ratings of different social policies of Nicaragua",
+    "legend": {
+        "Social equity": "#D2B48C",
+        "Environmental sustainability": "#191970",
+        "Structural Policies": "#BC8F8F",
+        "Corruption": "#CD5C5C"
+    },
+    "x_axis": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Rating (1=low 6=high)",
+    "data": [
+        {
+            "label": "Social equity",
+            "color": "#D2B48C",
+            "values": [
+                3.7,
+                3.8,
+                3.9,
+                3.7
+            ]
+        },
+        {
+            "label": "Environmental sustainability",
+            "color": "#191970",
+            "values": [
+                3.5,
+                3.5,
+                3.5,
+                3.5
+            ]
+        },
+        {
+            "label": "Structural Policies",
+            "color": "#BC8F8F",
+            "values": [
+                3.66666666666667,
+                3.66666666666667,
+                3.66666666666667,
+                3.66667
+            ]
+        },
+        {
+            "label": "Corruption",
+            "color": "#CD5C5C",
+            "values": [
+                2.5,
+                2.5,
+                3.0,
+                3.0
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,72 @@
+{
+    "title": "Lower secondary completion rate of female students",
+    "legend": {
+        "Europe(all income levels)": "#FFD700",
+        "High income: OECD": "#C71585",
+        "Comoros": "#483D8B",
+        "St. Lucia": "#DB7093"
+    },
+    "categories": [
+        "2002",
+        "2003",
+        "2004",
+        "2013"
+    ],
+    "data": {
+        "Europe(all income levels)": [
+            89.7868499755859,
+            90.0899200439453,
+            89.35364532470699,
+            91.0828704833984
+        ],
+        "High income: OECD": [
+            91.74121856689449,
+            92.0215682983398,
+            93.2128219604492,
+            92.449851989746
+        ],
+        "Comoros": [
+            26.2658195495605,
+            30.5727405548096,
+            32.0667686462402,
+            52.3432312011719
+        ],
+        "St. Lucia": [
+            84.1359786987305,
+            75.4366226196289,
+            71.138671875,
+            81.3762588500977
+        ]
+    },
+    "colors": {
+        "Europe(all income levels)": "#FFD700",
+        "High income: OECD": "#C71585",
+        "Comoros": "#483D8B",
+        "St. Lucia": "#DB7093"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

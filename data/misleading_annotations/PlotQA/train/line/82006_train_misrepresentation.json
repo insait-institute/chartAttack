@@ -1,0 +1,104 @@
+{
+    "title": "Balance of payments as percentage of commercial service imports in China",
+    "legend": {
+        "Transport services": "#F0E68C",
+        "Travel services": "#DB7093"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "y_axis_label": "Balance of Payment (as % of commercial service imports)",
+    "data": [
+        {
+            "label": "Transport services",
+            "color": "#F0E68C",
+            "values": [
+                34.18775993220761,
+                33.4354669687316,
+                31.833967478093,
+                29.40403596368811,
+                32.7997123985,
+                33.8224326545876,
+                30.5540752223307,
+                28.5565802230347
+            ]
+        },
+        {
+            "label": "Travel services",
+            "color": "#DB7093",
+            "values": [
+                24.19342911621661,
+                23.0131316025915,
+                22.8700514623414,
+                27.5906500425073,
+                28.4562564182116,
+                30.5178932223744,
+                36.288634075217,
+                38.9265850357263
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Transport services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Travel services",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

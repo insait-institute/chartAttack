@@ -1,0 +1,107 @@
+{
+    "title": "Number of participants in millions",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": "Number of participants in millions"
+    },
+    "legend": {
+        "2006": "#f27979",
+        "2007": "#f26f00",
+        "2008": "#f2e879",
+        "2009": "#95f200",
+        "2010": "#8bf279",
+        "2011": "#00a533",
+        "2012": "#52a592",
+        "2013": "#007fa5",
+        "2014": "#526ca5",
+        "2015": "#1900a5",
+        "2016": "#c379f2",
+        "2017": "#f200df",
+        "2018": "#f279b1"
+    },
+    "data": {
+        "2006": [
+            0.51
+        ],
+        "2007": [
+            0.62
+        ],
+        "2008": [
+            0.69
+        ],
+        "2009": [
+            0.75
+        ],
+        "2010": [
+            1.13
+        ],
+        "2011": [
+            0.57
+        ],
+        "2012": [
+            1.21
+        ],
+        "2013": [
+            1.18
+        ],
+        "2014": [
+            1.28
+        ],
+        "2015": [
+            1.35
+        ],
+        "2016": [
+            1.55
+        ],
+        "2017": [
+            1.62
+        ],
+        "2018": [
+            1.56
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "colors": {
+        "2006": "#f27979",
+        "2007": "#f26f00",
+        "2008": "#f2e879",
+        "2009": "#95f200",
+        "2010": "#8bf279",
+        "2011": "#00a533",
+        "2012": "#52a592",
+        "2013": "#007fa5",
+        "2014": "#526ca5",
+        "2015": "#1900a5",
+        "2016": "#c379f2",
+        "2017": "#f200df",
+        "2018": "#f279b1"
+    }
+}

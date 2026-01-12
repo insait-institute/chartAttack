@@ -1,0 +1,77 @@
+{
+    "title": "Total population between the ages 15 to 64 as a percentage of the total population",
+    "legend": {
+        "1960": "#9ACD32",
+        "1961": "#000000",
+        "1962": "#6B8E23",
+        "1963": "#CD853F"
+    },
+    "categories": [
+        "Uruguay",
+        "Uzbekistan",
+        "Vanuatu",
+        "Venezuela",
+        "Vietnam"
+    ],
+    "data": {
+        "1960": [
+            63.97980659807122,
+            59.5360915056297,
+            51.339853377498,
+            51.89518150891539,
+            55.1431418984572
+        ],
+        "1961": [
+            63.8232975890183,
+            57.7520619600204,
+            51.2494673403543,
+            51.6281274507533,
+            54.1968507342314
+        ],
+        "1962": [
+            63.71724272213039,
+            55.8304138307701,
+            51.21818128189239,
+            51.3659378949536,
+            53.2907063869263
+        ],
+        "1963": [
+            63.6462820781382,
+            53.80294084200961,
+            51.2335267716761,
+            51.1306252796991,
+            52.4700541054538
+        ]
+    },
+    "colors": {
+        "1960": "#9ACD32",
+        "1961": "#000000",
+        "1962": "#6B8E23",
+        "1963": "#CD853F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,50 @@
+{
+    "title": "Market value in billion U.S. dollars",
+    "x_axis": {
+        "categories": [
+            "2012",
+            "2013",
+            "2014",
+            "2015**"
+        ]
+    },
+    "y_axis": {
+        "label": "Market value in billion U.S. dollars"
+    },
+    "legend": {
+        "Model": "#2876dd"
+    },
+    "data": {
+        "Model": [
+            1.56,
+            1.64,
+            1.76,
+            1.88
+        ]
+    },
+    "type": "v_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

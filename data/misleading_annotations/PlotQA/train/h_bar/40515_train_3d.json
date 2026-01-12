@@ -1,0 +1,64 @@
+{
+    "title": "Split of the expenses of government of different countries in 1993",
+    "legend": {
+        "Burundi": "#F4A460",
+        "Grenada": "#483D8B",
+        "Kuwait": "#A0522D"
+    },
+    "categories": [
+        "Miscellaneous expenses",
+        "Labor Taxes",
+        "Grants and Revenue",
+        "Services"
+    ],
+    "data": {
+        "Burundi": [
+            10308000000,
+            560000000,
+            24616000000,
+            9818000000
+        ],
+        "Grenada": [
+            330000,
+            8930000,
+            16330000,
+            23980000
+        ],
+        "Kuwait": [
+            175000000,
+            2000000,
+            2188000000,
+            1050000000
+        ]
+    },
+    "colors": {
+        "Burundi": "#F4A460",
+        "Grenada": "#483D8B",
+        "Kuwait": "#A0522D"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 24616000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

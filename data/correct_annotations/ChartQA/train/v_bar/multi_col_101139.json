@@ -1,0 +1,66 @@
+{
+    "title": "Number of pharmacy staff",
+    "x_axis": {
+        "categories": [
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of pharmacy staff"
+    },
+    "legend": {
+        "Pharmacists": "#2876dd",
+        "Pharmacy technicians": "#0f283e"
+    },
+    "data": {
+        "Pharmacists": [
+            47407,
+            48815,
+            50292,
+            51906,
+            53967,
+            55258,
+            56288
+        ],
+        "Pharmacy technicians": [
+            21824,
+            22406,
+            22693,
+            23074,
+            23318,
+            23367,
+            23387
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 56290
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

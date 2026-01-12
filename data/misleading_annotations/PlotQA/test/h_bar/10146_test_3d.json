@@ -1,0 +1,56 @@
+{
+    "title": "Life expectancy at birth in 1986",
+    "legend": {
+        "Algeria": "#40E0D0",
+        "Greenland": "#32CD32",
+        "Hong Kong": "#5F9EA0"
+    },
+    "categories": [
+        "Female",
+        "Male"
+    ],
+    "data": {
+        "Algeria": [
+            66.382,
+            63.405
+        ],
+        "Greenland": [
+            67.66,
+            61.0
+        ],
+        "Hong Kong": [
+            79.4,
+            74.1
+        ]
+    },
+    "colors": {
+        "Algeria": "#40E0D0",
+        "Greenland": "#32CD32",
+        "Hong Kong": "#5F9EA0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 80
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

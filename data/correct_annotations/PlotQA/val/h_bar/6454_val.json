@@ -1,0 +1,50 @@
+{
+    "title": "Percentage of children employment in Zambia",
+    "legend": {
+        "Girls": "#C71585",
+        "Boys": "#228B22"
+    },
+    "categories": [
+        "2005",
+        "2008"
+    ],
+    "data": {
+        "Girls": [
+            46.76866,
+            33.3
+        ],
+        "Boys": [
+            48.9289,
+            35.4
+        ]
+    },
+    "colors": {
+        "Girls": "#C71585",
+        "Boys": "#228B22"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

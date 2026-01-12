@@ -1,0 +1,60 @@
+{
+    "title": "Density of new businesses",
+    "legend": {
+        "2004": "#A0522D",
+        "2005": "#E9967A",
+        "2006": "#FF00FF"
+    },
+    "categories": [
+        "High income: nonOECD",
+        "High income: OECD",
+        "Low & middle income"
+    ],
+    "data": {
+        "2004": [
+            8.43566942049764,
+            4.21905907897598,
+            1.55258032697541
+        ],
+        "2005": [
+            9.1079741264402,
+            4.62919339446552,
+            1.74110114656414
+        ],
+        "2006": [
+            11.2760793440803,
+            4.944807322712411,
+            1.9315611669731
+        ]
+    },
+    "colors": {
+        "2004": "#A0522D",
+        "2005": "#E9967A",
+        "2006": "#FF00FF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

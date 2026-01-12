@@ -1,0 +1,67 @@
+{
+    "title": "Percentage of new entrants in the last grade of primary education",
+    "legend": {
+        "Europe(developing only)": "#FF7F50",
+        "World": "#ADFF2F",
+        "Dominica": "#191970",
+        "Sierra Leone": "#00BFFF"
+    },
+    "categories": [
+        "2011",
+        "2012",
+        "2013"
+    ],
+    "data": {
+        "Europe(developing only)": [
+            99.9820022583008,
+            98.5723114013672,
+            99.5725631713867
+        ],
+        "World": [
+            91.8250045776367,
+            92.4208602905273,
+            92.3093643188477
+        ],
+        "Dominica": [
+            92.510643005371,
+            103.960403442383,
+            102.664131164551
+        ],
+        "Sierra Leone": [
+            76.62188720703129,
+            72.35621643066409,
+            71.0285415649414
+        ]
+    },
+    "colors": {
+        "Europe(developing only)": "#FF7F50",
+        "World": "#ADFF2F",
+        "Dominica": "#191970",
+        "Sierra Leone": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 110
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

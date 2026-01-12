@@ -1,0 +1,70 @@
+{
+    "title": "PPP conversion factor for GDP and private consumption in Morocco",
+    "legend": {
+        "GDP": "#2E8B57",
+        " Private consumption": "#808000"
+    },
+    "x_axis": [
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "PPP conversion factor (LCU per international $)",
+    "data": [
+        {
+            "label": "GDP",
+            "color": "#2E8B57",
+            "values": [
+                3.7328282732855,
+                3.71715183288763,
+                3.67108798248884,
+                3.609207933446141,
+                3.547945213809899,
+                3.49496585713846
+            ]
+        },
+        {
+            "label": " Private consumption",
+            "color": "#808000",
+            "values": [
+                4.4420972647969,
+                4.494989455295,
+                4.446538317996692,
+                4.39527301723915,
+                4.29281834209374,
+                4.29526436611
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,132 @@
+{
+    "title": "Share of vaccinated infants",
+    "legend": {
+        "Ceuta": "#f27979",
+        "Region of Valencia": "#f24c00",
+        "Balearic Islands": "#f2c579",
+        "Andalusia": "#f2e500",
+        "Melilla": "#d2f279",
+        "Murcia": "#65f200",
+        "Aragon": "#85f279",
+        "Navarra": "#00a522",
+        "Castile and Leon": "#52a57e",
+        "Cantabria": "#00a58b",
+        "Castile-La Mancha": "#5298a5",
+        "Basque Country": "#0057a5",
+        "Extremadura": "#5264a5",
+        "Galicia": "#1100a5",
+        "Catalonia": "#ac79f2",
+        "Community of Madrid": "#b200f2",
+        "Asturias": "#f279eb",
+        "La Rioja": "#f20099",
+        "Canary Islands": "#f2799f"
+    },
+    "categories": [
+        "Share of vaccinated infants"
+    ],
+    "data": {
+        "Ceuta": [
+            99.6
+        ],
+        "Region of Valencia": [
+            99.3
+        ],
+        "Balearic Islands": [
+            98.8
+        ],
+        "Andalusia": [
+            97.0
+        ],
+        "Melilla": [
+            96.6
+        ],
+        "Murcia": [
+            96.1
+        ],
+        "Aragon": [
+            95.8
+        ],
+        "Navarra": [
+            95.2
+        ],
+        "Castile and Leon": [
+            95.1
+        ],
+        "Cantabria": [
+            93.4
+        ],
+        "Castile-La Mancha": [
+            93.4
+        ],
+        "Basque Country": [
+            93.4
+        ],
+        "Extremadura": [
+            93.3
+        ],
+        "Galicia": [
+            93.1
+        ],
+        "Catalonia": [
+            92.9
+        ],
+        "Community of Madrid": [
+            92.1
+        ],
+        "Asturias": [
+            90.2
+        ],
+        "La Rioja": [
+            90.0
+        ],
+        "Canary Islands": [
+            85.5
+        ]
+    },
+    "colors": {
+        "Ceuta": "#f27979",
+        "Region of Valencia": "#f24c00",
+        "Balearic Islands": "#f2c579",
+        "Andalusia": "#f2e500",
+        "Melilla": "#d2f279",
+        "Murcia": "#65f200",
+        "Aragon": "#85f279",
+        "Navarra": "#00a522",
+        "Castile and Leon": "#52a57e",
+        "Cantabria": "#00a58b",
+        "Castile-La Mancha": "#5298a5",
+        "Basque Country": "#0057a5",
+        "Extremadura": "#5264a5",
+        "Galicia": "#1100a5",
+        "Catalonia": "#ac79f2",
+        "Community of Madrid": "#b200f2",
+        "Asturias": "#f279eb",
+        "La Rioja": "#f20099",
+        "Canary Islands": "#f2799f"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

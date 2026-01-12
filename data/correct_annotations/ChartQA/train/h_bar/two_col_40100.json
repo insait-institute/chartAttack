@@ -1,0 +1,64 @@
+{
+    "title": "",
+    "legend": {
+        "Share of households": "#2876dd"
+    },
+    "categories": [
+        "Northern Ireland",
+        "North East",
+        "Wales",
+        "West Midlands",
+        "North West",
+        "Yorkshire and The Humber",
+        "East Midlands",
+        "South West",
+        "Scotland",
+        "East of England",
+        "South East",
+        "London"
+    ],
+    "data": {
+        "Share of households": [
+            58,
+            58,
+            57,
+            56,
+            55,
+            55,
+            53,
+            53,
+            53,
+            51,
+            50,
+            37
+        ]
+    },
+    "colors": {
+        "Share of households": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

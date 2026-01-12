@@ -1,0 +1,86 @@
+{
+    "title": "CPIA ratings of different policies of Niger",
+    "legend": {
+        "Revenue mobilization": "#8FBC8F",
+        "Public resource use": "#483D8B",
+        "Macroeconomic management": "#B8860B",
+        "Rule based governance": "#6B8E23"
+    },
+    "x_axis": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "y_axis_label": "Rating (1=low 6=high)",
+    "data": [
+        {
+            "label": "Revenue mobilization",
+            "color": "#8FBC8F",
+            "values": [
+                3.5,
+                3.5,
+                3.5,
+                3.5
+            ]
+        },
+        {
+            "label": "Public resource use",
+            "color": "#483D8B",
+            "values": [
+                3.5,
+                3.5,
+                3.5,
+                3.5
+            ]
+        },
+        {
+            "label": "Macroeconomic management",
+            "color": "#B8860B",
+            "values": [
+                3.5,
+                4.0,
+                4.0,
+                4.0
+            ]
+        },
+        {
+            "label": "Rule based governance",
+            "color": "#6B8E23",
+            "values": [
+                3,
+                3,
+                3,
+                3
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "log"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

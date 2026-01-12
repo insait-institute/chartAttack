@@ -1,0 +1,71 @@
+{
+    "title": "Nitrous oxide emissions in energy sector",
+    "x_axis": {
+        "categories": [
+            "Ireland",
+            "Israel",
+            "Italy",
+            "Jamaica"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#90EE90",
+        "2000": "#B8860B",
+        "2005": "#C71585",
+        "2008": "#32CD32"
+    },
+    "data": {
+        "1990": [
+            6644.8,
+            733.2,
+            15588.6,
+            321.7
+        ],
+        "2000": [
+            6977.3,
+            875.7,
+            14074.0,
+            361.6
+        ],
+        "2005": [
+            6774.5,
+            949.9,
+            12497.4,
+            353.5
+        ],
+        "2008": [
+            6494.4,
+            968.9,
+            11762.2,
+            354.8
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15590
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

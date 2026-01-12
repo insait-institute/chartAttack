@@ -1,0 +1,92 @@
+{
+    "title": "Revenue in million euros",
+    "x_axis": {
+        "categories": [
+            "2009/10",
+            "2010/11",
+            "2011/12",
+            "2012/13",
+            "2013/14",
+            "2014/15",
+            "2015/16",
+            "2016/17",
+            "2017/18",
+            "2018/19",
+            "2019/20"
+        ]
+    },
+    "y_axis": {
+        "label": "Revenue in million euros"
+    },
+    "legend": {
+        "Matchday": "#2876dd",
+        "Broadcasting": "#0f283e",
+        "Commercial": "#bababa"
+    },
+    "data": {
+        "Matchday": [
+            129.1,
+            123.6,
+            126.2,
+            119,
+            113.8,
+            129.8,
+            129,
+            136.4,
+            143.4,
+            144.8,
+            108.2
+        ],
+        "Broadcasting": [
+            158.7,
+            183.5,
+            199.2,
+            188.3,
+            204.2,
+            199.9,
+            227.7,
+            236.8,
+            251.3,
+            257.9,
+            224
+        ],
+        "Commercial": [
+            150.8,
+            172.4,
+            187.2,
+            211.6,
+            231.5,
+            247.3,
+            263.4,
+            301.4,
+            356.2,
+            354.6,
+            359.6
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 360
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

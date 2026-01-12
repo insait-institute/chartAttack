@@ -1,0 +1,82 @@
+{
+    "title": "Total labor force participation rate for ages 15-24",
+    "legend": {
+        "1990": "#FFD700",
+        "1991": "#F0E68C",
+        "1992": "#40E0D0",
+        "1993": "#C71585"
+    },
+    "categories": [
+        "Malawi",
+        "Malaysia",
+        "Maldives",
+        "Mali",
+        "Malta",
+        "Mauritania"
+    ],
+    "data": {
+        "1990": [
+            55.2999992370605,
+            51.4000015258789,
+            41.0,
+            40.5,
+            69.599998474121,
+            36.0999984741211
+        ],
+        "1991": [
+            54.9000015258789,
+            51.0,
+            40.2999992370605,
+            40.5,
+            66.8000030517578,
+            36.2000007629395
+        ],
+        "1992": [
+            54.5,
+            50.5999984741211,
+            39.5999984741211,
+            40.5999984741211,
+            63.5999984741211,
+            36.4000015258789
+        ],
+        "1993": [
+            54.0999984741211,
+            50.2000007629395,
+            39.0,
+            40.5999984741211,
+            62.4000015258789,
+            36.4000015258789
+        ]
+    },
+    "colors": {
+        "1990": "#FFD700",
+        "1991": "#F0E68C",
+        "1992": "#40E0D0",
+        "1993": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "log"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

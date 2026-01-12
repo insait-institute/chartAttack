@@ -1,0 +1,66 @@
+{
+    "title": "",
+    "legend": {
+        "Share of respondents": "#2876dd"
+    },
+    "categories": [
+        "Samsung",
+        "Apple",
+        "Nokia",
+        "Other",
+        "Sony Ericsson",
+        "LG",
+        "Blackberry",
+        "Motorola",
+        "BenQ-Siemens",
+        "Panasonic",
+        "HTC",
+        "Philips",
+        "I don't have a mobile phone"
+    ],
+    "data": {
+        "Share of respondents": [
+            31,
+            22,
+            21,
+            12,
+            10,
+            5,
+            5,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "colors": {
+        "Share of respondents": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

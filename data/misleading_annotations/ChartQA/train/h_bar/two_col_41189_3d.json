@@ -1,0 +1,58 @@
+{
+    "title": "",
+    "legend": {
+        "M&A deal count": "#2876dd"
+    },
+    "categories": [
+        "PwC",
+        "EY",
+        "SEB",
+        "Carnegie Investment Bank",
+        "Handelsbanken Capital Markets",
+        "BDO",
+        "KPMG",
+        "Oaklins",
+        "Livngstone Partners"
+    ],
+    "data": {
+        "M&A deal count": [
+            38,
+            24,
+            17,
+            17,
+            15,
+            15,
+            13,
+            12,
+            12
+        ]
+    },
+    "colors": {
+        "M&A deal count": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

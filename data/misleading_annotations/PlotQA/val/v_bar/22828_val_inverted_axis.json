@@ -1,0 +1,63 @@
+{
+    "title": "Mobile cellular and fixed telephone subscriptions recorded in 1985",
+    "x_axis": {
+        "categories": [
+            "Euro area",
+            "Europe(all income levels)",
+            "European Union",
+            "High income",
+            "High income: nonOECD",
+            "High income: OECD"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Mobile cellular": "#FF1493",
+        "Fixed telephone": "#6495ED"
+    },
+    "data": {
+        "Mobile cellular": [
+            90036,
+            322211,
+            259136,
+            748600,
+            12376,
+            736224
+        ],
+        "Fixed telephone": [
+            96695759,
+            166722750,
+            134258129,
+            353666048,
+            30125798,
+            323540250
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 353666050
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

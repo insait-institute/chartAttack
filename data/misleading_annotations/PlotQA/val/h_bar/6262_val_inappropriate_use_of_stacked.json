@@ -1,0 +1,57 @@
+{
+    "title": "Net enrolment rate in primary and secondary education of France",
+    "legend": {
+        "1980": "#f27979",
+        "1981": "#79f200",
+        "1982": "#52a5a5",
+        "1983": "#5200a5"
+    },
+    "categories": [
+        "Net enrolment rate in primary and secondary education of France"
+    ],
+    "data": {
+        "1980": [
+            96.95571
+        ],
+        "1981": [
+            95.53711
+        ],
+        "1982": [
+            94.16765
+        ],
+        "1983": [
+            92.75348
+        ]
+    },
+    "colors": {
+        "1980": "#f27979",
+        "1981": "#79f200",
+        "1982": "#52a5a5",
+        "1983": "#5200a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

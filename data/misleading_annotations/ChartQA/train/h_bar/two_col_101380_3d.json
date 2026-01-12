@@ -1,0 +1,60 @@
+{
+    "title": "",
+    "legend": {
+        "Travel Spend": "#2876dd"
+    },
+    "categories": [
+        "Switzerland",
+        "Australia",
+        "New Zealand",
+        "United States",
+        "United Kingdom",
+        "Germany",
+        "Canada",
+        "Austria",
+        "Ireland",
+        "China"
+    ],
+    "data": {
+        "Travel Spend": [
+            12100,
+            11700,
+            9500,
+            8700,
+            8400,
+            7600,
+            6900,
+            6800,
+            6300,
+            5900
+        ]
+    },
+    "colors": {
+        "Travel Spend": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": false,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 12100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true
+}

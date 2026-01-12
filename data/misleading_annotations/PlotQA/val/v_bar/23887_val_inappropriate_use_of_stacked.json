@@ -1,0 +1,72 @@
+{
+    "title": "Percentage of GDP spent on health care in different countries in 2013",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Pacific island small states": "#f27979",
+        "Small states": "#f2f200",
+        "South Asia": "#79f279",
+        "Sub-Saharan Africa (all income levels)": "#00a5a5",
+        "Sub-Saharan Africa (developing only)": "#5252a5",
+        "Upper middle income": "#a500a5"
+    },
+    "data": {
+        "Pacific island small states": [
+            1.10488291658535
+        ],
+        "Small states": [
+            2.30217488627649
+        ],
+        "South Asia": [
+            2.59068629024419
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            3.16808216238632
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            3.19531944409524
+        ],
+        "Upper middle income": [
+            2.76468766868283
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Pacific island small states": "#f27979",
+        "Small states": "#f2f200",
+        "South Asia": "#79f279",
+        "Sub-Saharan Africa (all income levels)": "#00a5a5",
+        "Sub-Saharan Africa (developing only)": "#5252a5",
+        "Upper middle income": "#a500a5"
+    }
+}

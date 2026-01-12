@@ -1,0 +1,62 @@
+{
+    "title": "Balance of Payments of ICT services as percentage of service exports",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Czech Republic": "#f27979",
+        "Egypt, Arab Rep.": "#79f200",
+        "El Salvador": "#52a5a5",
+        "Estonia": "#5200a5"
+    },
+    "data": {
+        "Czech Republic": [
+            24.4221821421457
+        ],
+        "Egypt, Arab Rep.": [
+            13.2189638452187
+        ],
+        "El Salvador": [
+            8.37601401865997
+        ],
+        "Estonia": [
+            17.1649373291817
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Czech Republic": "#f27979",
+        "Egypt, Arab Rep.": "#79f200",
+        "El Salvador": "#52a5a5",
+        "Estonia": "#5200a5"
+    }
+}

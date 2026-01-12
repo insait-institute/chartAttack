@@ -1,0 +1,64 @@
+{
+    "title": "Number of people participated in R&D projects in Singapore",
+    "legend": {
+        "Researchers": "#B8860B",
+        "Technicians": "#556B2F"
+    },
+    "x_axis": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "y_axis_label": "Number of participants (per million people)",
+    "data": [
+        {
+            "label": "Researchers",
+            "color": "#B8860B",
+            "values": [
+                4706.45212,
+                4881.85078,
+                5291.76865,
+                5424.78639
+            ]
+        },
+        {
+            "label": "Technicians",
+            "color": "#556B2F",
+            "values": [
+                402.651,
+                465.21897,
+                528.22681,
+                519.40163
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 400,
+                "max_value": 5430
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

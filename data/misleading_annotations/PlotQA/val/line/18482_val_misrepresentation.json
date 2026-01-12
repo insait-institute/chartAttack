@@ -1,0 +1,111 @@
+{
+    "title": "Proportion of the total female labor force of different age groups participating in production in Philippines",
+    "legend": {
+        "Ages 15-20": "#00BFFF",
+        "Ages 20-50": "#FF8C00",
+        "Ages 50+": "#FF7F50"
+    },
+    "x_axis": [
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Total Labor Force (in %)",
+    "data": [
+        {
+            "label": "Ages 15-20",
+            "color": "#00BFFF",
+            "values": [
+                36.7999992370605,
+                37.2000007629395,
+                37.0999984741211,
+                37.0,
+                36.9000015258789
+            ]
+        },
+        {
+            "label": "Ages 20-50",
+            "color": "#FF8C00",
+            "values": [
+                50.2999992370605,
+                50.9000015258789,
+                51.0,
+                51.0999984741211,
+                51.0999984741211
+            ]
+        },
+        {
+            "label": "Ages 50+",
+            "color": "#FF7F50",
+            "values": [
+                51.9000015258789,
+                52.5,
+                52.5999984741211,
+                52.7000007629395,
+                52.7999992370605
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 30,
+                "max_value": 60
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Ages 15-20",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Ages 20-50",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        },
+        {
+            "label": "Ages 50+",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75
+            ]
+        }
+    ]
+}

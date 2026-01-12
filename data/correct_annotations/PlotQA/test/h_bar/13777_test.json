@@ -1,0 +1,67 @@
+{
+    "title": "Population of different countries in 1976",
+    "legend": {
+        "Colombia": "#6495ED",
+        "Guam": "#6B8E23",
+        "Rwanda": "#00CED1",
+        "Tunisia": "#B8860B"
+    },
+    "categories": [
+        "Ages 65 and above",
+        "Ages 0-14",
+        "Ages 15-64"
+    ],
+    "data": {
+        "Colombia": [
+            3.61701258898288,
+            42.7907977013524,
+            53.59218970966471
+        ],
+        "Guam": [
+            2.42278741115048,
+            36.1897972448787,
+            61.38741534397079
+        ],
+        "Rwanda": [
+            2.55002533490972,
+            47.33727876401201,
+            50.1126959010783
+        ],
+        "Tunisia": [
+            3.72168287588296,
+            43.2768693033459,
+            53.0014478207712
+        ]
+    },
+    "colors": {
+        "Colombia": "#6495ED",
+        "Guam": "#6B8E23",
+        "Rwanda": "#00CED1",
+        "Tunisia": "#B8860B"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

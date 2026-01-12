@@ -1,0 +1,68 @@
+{
+    "title": "Male unemployment expressed as percentage of male labor force",
+    "x_axis": {
+        "categories": [
+            "Montenegro",
+            "Morocco",
+            "Mozambique",
+            "Myanmar",
+            "Namibia"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1991": "#8B4513",
+        "1992": "#FF4500",
+        "1993": "#8B0000"
+    },
+    "data": {
+        "1991": [
+            17.7999992370605,
+            12.3000001907349,
+            21.3999996185303,
+            3.5,
+            17.2000007629395
+        ],
+        "1992": [
+            18.5,
+            12.6999998092651,
+            21.1000003814697,
+            3.40000009536743,
+            17.2000007629395
+        ],
+        "1993": [
+            19.1000003814697,
+            13.1999998092651,
+            21.0,
+            3.40000009536743,
+            17.2999992370605
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

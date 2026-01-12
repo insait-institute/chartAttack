@@ -1,0 +1,67 @@
+{
+    "title": "Proportion of the total female labor force of different age groups participating in production in 2011",
+    "legend": {
+        "Benin": "#F4A460",
+        "Cyprus": "#8B4513",
+        "Lebanon": "#5F9EA0",
+        "Sri Lanka": "#C71585"
+    },
+    "categories": [
+        "Ages 15-20",
+        "Ages 20-50",
+        "Ages 50+"
+    ],
+    "data": {
+        "Benin": [
+            57.5,
+            67.40000152587889,
+            68.599998474121
+        ],
+        "Cyprus": [
+            36.7000007629395,
+            56.4000015258789,
+            66.0
+        ],
+        "Lebanon": [
+            18.0,
+            22.39999961853031,
+            25.0
+        ],
+        "Sri Lanka": [
+            26.0,
+            34.9000015258789,
+            38.2999992370605
+        ]
+    },
+    "colors": {
+        "Benin": "#F4A460",
+        "Cyprus": "#8B4513",
+        "Lebanon": "#5F9EA0",
+        "Sri Lanka": "#C71585"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

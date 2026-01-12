@@ -1,0 +1,81 @@
+{
+    "title": "Number of persons",
+    "x_axis": {
+        "categories": [
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+        ]
+    },
+    "y_axis": {
+        "label": "Number of persons"
+    },
+    "legend": {
+        "Men": "#2876dd",
+        "Women": "#0f283e"
+    },
+    "data": {
+        "Men": [
+            1217701,
+            1247425,
+            1274161,
+            1304828,
+            1327083,
+            1332934,
+            1369327,
+            1395599,
+            1428860,
+            1451873,
+            1475159,
+            1500815
+        ],
+        "Women": [
+            1401693,
+            1422091,
+            1434090,
+            1456936,
+            1475099,
+            1470918,
+            1498470,
+            1510735,
+            1532368,
+            1545744,
+            1562463,
+            1578963
+        ]
+    },
+    "type": "v_bar",
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show labels": true,
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1578970
+            },
+            "show_axis": true,
+            "direction": "top-to-bottom",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

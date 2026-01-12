@@ -1,0 +1,62 @@
+{
+    "title": "Methane emissions from agricultural activities and animals",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Iceland": "#f27979",
+        "India": "#79f200",
+        "Indonesia": "#52a5a5",
+        "Iran": "#5200a5"
+    },
+    "data": {
+        "Iceland": [
+            245.3
+        ],
+        "India": [
+            366945.5
+        ],
+        "Indonesia": [
+            81997.9
+        ],
+        "Iran": [
+            17655.9
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 379990
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Iceland": "#f27979",
+        "India": "#79f200",
+        "Indonesia": "#52a5a5",
+        "Iran": "#5200a5"
+    }
+}

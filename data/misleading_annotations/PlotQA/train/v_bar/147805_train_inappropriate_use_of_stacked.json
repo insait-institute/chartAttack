@@ -1,0 +1,67 @@
+{
+    "title": "Official entrance age of children to secondary education",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Bermuda": "#f27979",
+        "Bhutan": "#c1f200",
+        "Bolivia": "#52a574",
+        "Bosnia and Herzegovina": "#0042a5",
+        "Botswana": "#da79f2"
+    },
+    "data": {
+        "Bermuda": [
+            5.0
+        ],
+        "Bhutan": [
+            6.0
+        ],
+        "Bolivia": [
+            6.0
+        ],
+        "Bosnia and Herzegovina": [
+            6.0
+        ],
+        "Botswana": [
+            7.0
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Bermuda": "#f27979",
+        "Bhutan": "#c1f200",
+        "Bolivia": "#52a574",
+        "Bosnia and Herzegovina": "#0042a5",
+        "Botswana": "#da79f2"
+    }
+}

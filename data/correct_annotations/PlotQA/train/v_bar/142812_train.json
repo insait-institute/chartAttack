@@ -1,0 +1,76 @@
+{
+    "title": "Net national savings in current US dollars",
+    "x_axis": {
+        "categories": [
+            "Dominican Republic",
+            "Israel",
+            "Italy",
+            "Netherlands",
+            "South Africa"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1970": "#20B2AA",
+        "1971": "#7FFFD4",
+        "1972": "#6B8E23",
+        "1973": "#808000"
+    },
+    "data": {
+        "1970": [
+            132763996.300971,
+            214639600.80804,
+            17554967448.8197,
+            7312583948.090441,
+            1656104295.79043
+        ],
+        "1971": [
+            105405203.236646,
+            608698266.9910411,
+            17452284600.0028,
+            8195975323.277571,
+            2265184050.73391
+        ],
+        "1972": [
+            280497029.590953,
+            970531584.912248,
+            19253691674.1064,
+            10111999089.9038,
+            2635447402.56513
+        ],
+        "1973": [
+            364502146.467925,
+            810872908.634848,
+            23307317106.8906,
+            14818659976.1809,
+            3671686900.79342
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 23307317110
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

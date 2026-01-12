@@ -1,0 +1,97 @@
+{
+    "title": "Percentage of electricity generation",
+    "legend": {
+        "New Hampshire": "#f27979",
+        "South Carolina": "#f27900",
+        "Illinois": "#f2f279",
+        "Tennessee": "#79f200",
+        "Connecticut": "#79f279",
+        "Maryland": "#00a552",
+        "New Jersey": "#52a5a5",
+        "Pennsylvania": "#0052a5",
+        "New York": "#5252a5",
+        "North Carolina": "#5200a5",
+        "Alabama": "#f279f2",
+        "Virginia": "#f20079"
+    },
+    "categories": [
+        "Percentage of electricity generation"
+    ],
+    "data": {
+        "New Hampshire": [
+            61.0
+        ],
+        "South Carolina": [
+            56.0
+        ],
+        "Illinois": [
+            54.0
+        ],
+        "Tennessee": [
+            44.0
+        ],
+        "Connecticut": [
+            42.0
+        ],
+        "Maryland": [
+            38.0
+        ],
+        "New Jersey": [
+            37.0
+        ],
+        "Pennsylvania": [
+            36.0
+        ],
+        "New York": [
+            34.0
+        ],
+        "North Carolina": [
+            32.0
+        ],
+        "Alabama": [
+            31.0
+        ],
+        "Virginia": [
+            30.0
+        ]
+    },
+    "colors": {
+        "New Hampshire": "#f27979",
+        "South Carolina": "#f27900",
+        "Illinois": "#f2f279",
+        "Tennessee": "#79f200",
+        "Connecticut": "#79f279",
+        "Maryland": "#00a552",
+        "New Jersey": "#52a5a5",
+        "Pennsylvania": "#0052a5",
+        "New York": "#5252a5",
+        "North Carolina": "#5200a5",
+        "Alabama": "#f279f2",
+        "Virginia": "#f20079"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 70
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

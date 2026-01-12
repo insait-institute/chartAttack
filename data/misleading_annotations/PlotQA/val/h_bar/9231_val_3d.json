@@ -1,0 +1,56 @@
+{
+    "title": "Percentage of repeaters in secondary general education in the year 2004",
+    "legend": {
+        "Burkina Faso": "#00FF7F",
+        "Madagascar": "#F0E68C",
+        "Slovenia": "#5F9EA0"
+    },
+    "categories": [
+        "Female",
+        "Male"
+    ],
+    "data": {
+        "Burkina Faso": [
+            25.9428100585938,
+            23.34771919250489
+        ],
+        "Madagascar": [
+            14.1545495986938,
+            14.5117597579956
+        ],
+        "Slovenia": [
+            0.322649985551834,
+            2.36161994934082
+        ]
+    },
+    "colors": {
+        "Burkina Faso": "#00FF7F",
+        "Madagascar": "#F0E68C",
+        "Slovenia": "#5F9EA0"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": true,
+    "Show labels": false
+}

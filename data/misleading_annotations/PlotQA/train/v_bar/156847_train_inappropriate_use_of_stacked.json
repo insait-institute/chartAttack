@@ -1,0 +1,72 @@
+{
+    "title": "Prevalence of undernourishment (in terms of % of population) in 1996",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Central African Republic": "#f27979",
+        "Chad": "#f2f200",
+        "Chile": "#79f279",
+        "China": "#00a5a5",
+        "Colombia": "#5252a5",
+        "Congo (Republic)": "#a500a5"
+    },
+    "data": {
+        "Central African Republic": [
+            49.4
+        ],
+        "Chad": [
+            50.9
+        ],
+        "Chile": [
+            5.5
+        ],
+        "China": [
+            18.5
+        ],
+        "Colombia": [
+            15.8
+        ],
+        "Congo (Republic)": [
+            45.4
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Central African Republic": "#f27979",
+        "Chad": "#f2f200",
+        "Chile": "#79f279",
+        "China": "#00a5a5",
+        "Colombia": "#5252a5",
+        "Congo (Republic)": "#a500a5"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "title": "",
+    "legend": {
+        "Share of respondents": "#2876dd"
+    },
+    "categories": [
+        "Messenger",
+        "WhatsApp",
+        "Skype",
+        "Twitter",
+        "Gadu-Gadu",
+        "iMessage (Apple)",
+        "Viber",
+        "Google Talk",
+        "LinkedIN",
+        "BlackBerry Messanger",
+        "Other"
+    ],
+    "data": {
+        "Share of respondents": [
+            86.4,
+            43.9,
+            23,
+            19.3,
+            8,
+            7.9,
+            7.6,
+            3.4,
+            2.9,
+            1.4,
+            2.1
+        ]
+    },
+    "colors": {
+        "Share of respondents": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 90
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

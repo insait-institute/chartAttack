@@ -1,0 +1,62 @@
+{
+    "title": "Total expenditure spent by the government in healthcare projects",
+    "legend": {
+        "2002": "#f27979",
+        "2003": "#c1f200",
+        "2004": "#52a574",
+        "2005": "#0042a5",
+        "2006": "#da79f2"
+    },
+    "categories": [
+        "Total expenditure spent by the government in healthcare projects"
+    ],
+    "data": {
+        "2002": [
+            5.60191721557725
+        ],
+        "2003": [
+            5.774511506654989
+        ],
+        "2004": [
+            5.77220249912436
+        ],
+        "2005": [
+            5.793171202026192
+        ],
+        "2006": [
+            5.838054431987599
+        ]
+    },
+    "colors": {
+        "2002": "#f27979",
+        "2003": "#c1f200",
+        "2004": "#52a574",
+        "2005": "#0042a5",
+        "2006": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

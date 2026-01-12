@@ -1,0 +1,57 @@
+{
+    "title": "Social contributions made by the government of Finland",
+    "legend": {
+        "Social contributions": "#40E0D0"
+    },
+    "x_axis": [
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+    ],
+    "y_axis_label": "Amount spent (% of revenue)",
+    "data": [
+        {
+            "label": "Social contributions",
+            "color": "#40E0D0",
+            "values": [
+                33.0890629116076,
+                31.8113079787834,
+                31.47617153979781,
+                32.2489016041688,
+                28.90541592023601,
+                30.5820962663068
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Domestic credit provided to private sector by different financial corporations in countries",
+    "legend": {
+        "Banks": "#4169E1",
+        "Money lenders": "#F4A460"
+    },
+    "categories": [
+        "Europe(developing only)",
+        "Latin America(all income levels)",
+        "Latin America(developing only)",
+        "Least developed countries",
+        "Other small states",
+        "Pacific island small states"
+    ],
+    "data": {
+        "Banks": [
+            14.433564717237,
+            22.6386522863597,
+            20.8967960940017,
+            14.1714889675942,
+            25.1821393663827,
+            26.8673840716438
+        ],
+        "Money lenders": [
+            14.5354959674735,
+            23.8491140870533,
+            21.7973754652363,
+            14.4620668843734,
+            25.2607426822824,
+            32.813925150552
+        ]
+    },
+    "colors": {
+        "Banks": "#4169E1",
+        "Money lenders": "#F4A460"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 40
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

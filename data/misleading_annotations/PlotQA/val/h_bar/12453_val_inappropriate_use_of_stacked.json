@@ -1,0 +1,62 @@
+{
+    "title": "Total exports of goods and services in constant 2005 US$",
+    "legend": {
+        "2004": "#f27979",
+        "2005": "#c1f200",
+        "2006": "#52a574",
+        "2007": "#0042a5",
+        "2008": "#da79f2"
+    },
+    "categories": [
+        "Total exports of goods and services in constant 2005 US$"
+    ],
+    "data": {
+        "2004": [
+            1643896553800.0
+        ],
+        "2005": [
+            1667077758900.0
+        ],
+        "2006": [
+            1688969195900.0
+        ],
+        "2007": [
+            1779131598200.0
+        ],
+        "2008": [
+            1713493435600.0
+        ]
+    },
+    "colors": {
+        "2004": "#f27979",
+        "2005": "#c1f200",
+        "2006": "#52a574",
+        "2007": "#0042a5",
+        "2008": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 8917025853400
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

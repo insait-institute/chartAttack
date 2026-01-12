@@ -1,0 +1,67 @@
+{
+    "title": "Total amount collected by an economy from different taxes in 1996",
+    "legend": {
+        "Belize": "#0000FF",
+        "Ethiopia": "#663399"
+    },
+    "categories": [
+        "Taxes on revenue",
+        "Taxes on exports",
+        "Taxes on goods and services",
+        "Taxes on income"
+    ],
+    "data": {
+        "Belize": [
+            250638000,
+            12000,
+            104340000,
+            51883000
+        ],
+        "Ethiopia": [
+            4835100000,
+            131000000,
+            1052700000,
+            1676500000
+        ]
+    },
+    "colors": {
+        "Belize": "#0000FF",
+        "Ethiopia": "#663399"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 12000,
+                "max_value": 250638000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "secondary_axis": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 131000000,
+                "max_value": 4835100000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        }
+    }
+}

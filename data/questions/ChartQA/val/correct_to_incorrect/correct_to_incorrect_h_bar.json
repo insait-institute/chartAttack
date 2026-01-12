@@ -1,0 +1,383 @@
+[
+    {
+        "imgname": "15143133009400",
+        "question": "The value is 40.49, find the category?",
+        "gold": "Kidney cancer",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "bladder cancer"
+        }
+    },
+    {
+        "imgname": "two_col_100022",
+        "question": "What was the second-most-shared news page on Facebook in January 2017?",
+        "gold": "CNN",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "daily mail"
+        }
+    },
+    {
+        "imgname": "two_col_4573",
+        "question": "How many people visit Kokkejaelvel every day?",
+        "gold": "27006",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 25000.0
+        }
+    },
+    {
+        "imgname": "two_col_23298",
+        "question": "What is the highest surgical cosmetic procedures worldwide in 2019?",
+        "gold": "Breast augmentation",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "1795551"
+        }
+    },
+    {
+        "imgname": "two_col_83117",
+        "question": "Which car took the first place in terms of road handling quality?",
+        "gold": "Porsche",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "alfa romeo"
+        }
+    },
+    {
+        "imgname": "two_col_81558",
+        "question": "How much money did the US Chamber of Commerce spend in the 2016 election cycle?",
+        "gold": "20355534",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 2.0
+        }
+    },
+    {
+        "imgname": "two_col_81872",
+        "question": "What was the most popular newspaper in the UK in the fourth quarter of 2020?",
+        "gold": "Metro",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "the times"
+        }
+    },
+    {
+        "imgname": "two_col_81872",
+        "question": "What was the second most popular newspaper in the UK?",
+        "gold": "The Guardian",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "the sun"
+        }
+    },
+    {
+        "imgname": "two_col_4732",
+        "question": "What percentage of all vinyl album sales did rock vinyl account for in 2018?",
+        "gold": "41.7",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": 45.0
+        }
+    },
+    {
+        "imgname": "two_col_104136",
+        "question": "Which state produced the most sunflower seeds in South Africa in 2019 and 2020?",
+        "gold": "Free State",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_82487",
+        "question": "Which country had the largest loss of sales due to counterfeit sporting goods?",
+        "gold": "France",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_23389",
+        "question": "Where did migrants arrive from January to December 2018?",
+        "gold": "Pozzallo",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "augusta"
+        }
+    },
+    {
+        "imgname": "two_col_23389",
+        "question": "Which country ranked second in the Italian migration chart?",
+        "gold": "Lampedusa",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "misrepresentation"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "catania",
+            "misrepresentation": "augusta"
+        }
+    },
+    {
+        "imgname": "two_col_83211",
+        "question": "Is the sum value  of country Germany and Ireland more then Costa Rica ?",
+        "gold": "No",
+        "question_class": "Compositional",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inverted_axis",
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inverted_axis": "yes",
+            "inappropriate_use_of_stacked": "yes"
+        }
+    },
+    {
+        "imgname": "two_col_2542",
+        "question": "How much money did Brownsteing, Hyatt spend in 2020?",
+        "gold": "48.37",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inverted_axis"
+        ],
+        "misleading_answers": {
+            "inverted_axis": 31.6
+        }
+    },
+    {
+        "imgname": "two_col_100847",
+        "question": "What has the second least reviews?",
+        "gold": "YellowPages.com",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "5"
+        }
+    },
+    {
+        "imgname": "two_col_100847",
+        "question": "What online review site did 59 percent of respondents say they had visited to conduct research on a local business?",
+        "gold": "Yelp",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "google"
+        }
+    },
+    {
+        "imgname": "two_col_42039",
+        "question": "What was Nigeria's most popular social media in the third quarter of 2020?",
+        "gold": "WhatsApp",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "fb messenger"
+        }
+    },
+    {
+        "imgname": "multi_col_80249",
+        "question": "Identify the category in y-axis, where the bar value is 8,5,12,20 %?",
+        "gold": "Chinese language TV",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_43799",
+        "question": "Which autonomous community in Spain had the highest number of deaths due to homicide?",
+        "gold": "Andalusia",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_log_scale"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_log_scale": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_100128",
+        "question": "Who is the career touchdown leader of the Atlanta Falcons?",
+        "gold": "Roddy White",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "julio jones"
+        }
+    },
+    {
+        "imgname": "two_col_2665",
+        "question": "Who has hit the most home runs in Chicago White Sox franchise history?",
+        "gold": "Frank Thomas",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "invalid answer"
+        }
+    },
+    {
+        "imgname": "two_col_4303",
+        "question": "Who is the career rushing leader of the New England Patriots?",
+        "gold": "Sam Cunningham",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "antowain smith"
+        }
+    },
+    {
+        "imgname": "03250329017073",
+        "question": "How many categories are there in the chart?",
+        "gold": "3",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 1.0
+        }
+    },
+    {
+        "imgname": "two_col_22210",
+        "question": "Who is the career rushing leader of the Kansas City Chiefs?",
+        "gold": "Jamaal Charles",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "abner haynes"
+        }
+    },
+    {
+        "imgname": "two_col_104500",
+        "question": "Which country was responsible for five percent of the global blood plasma market?",
+        "gold": "Germany",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "france"
+        }
+    },
+    {
+        "imgname": "two_col_24011",
+        "question": "Who was the most searched politician worldwide in 2020?",
+        "gold": "Donald Trump",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": "angela merkel"
+        }
+    },
+    {
+        "imgname": "two_col_61091",
+        "question": "How many cases of COVID-19 were confirmed in Denmark as of March 23, 2020?",
+        "gold": "564",
+        "question_class": "Data retrieval",
+        "question_type": "machine",
+        "possible_misleading_techniques": [
+            "inappropriate_use_of_stacked"
+        ],
+        "misleading_answers": {
+            "inappropriate_use_of_stacked": 1450.0
+        }
+    },
+    {
+        "imgname": "two_col_100521",
+        "question": "What years are the starting years on this graph?",
+        "gold": "2010/11",
+        "question_class": "Data retrieval",
+        "question_type": "human",
+        "possible_misleading_techniques": [
+            "3d"
+        ],
+        "misleading_answers": {
+            "3d": "invalid answer"
+        }
+    }
+]

@@ -1,0 +1,81 @@
+{
+    "title": "Industrial nitrous oxide emissions in energy sector",
+    "x_axis": {
+        "categories": [
+            "Russian Federation",
+            "Serbia",
+            "Slovak Republic",
+            "South Africa",
+            "Spain",
+            "Sweden"
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "1990": "#00CED1",
+        "2000": "#EE82EE",
+        "2005": "#FF0000",
+        "2008": "#87CEEB"
+    },
+    "data": {
+        "1990": [
+            15159.5,
+            658.4,
+            1049.0,
+            959.8,
+            2982.4,
+            811.6
+        ],
+        "2000": [
+            10227.1,
+            505.0,
+            1065.7,
+            1489.9,
+            2493.0,
+            746.1
+        ],
+        "2005": [
+            13494.6,
+            522.3,
+            1234.3,
+            2137.4,
+            1685.1,
+            458.8
+        ],
+        "2008": [
+            13012.3,
+            250.3,
+            1263.1,
+            17.9,
+            1224.9,
+            461.1
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 15160
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

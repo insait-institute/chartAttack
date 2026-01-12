@@ -1,0 +1,104 @@
+{
+    "title": "Pupil-teacher ratio in primary vs secondary education in Least developed countries",
+    "legend": {
+        "Primary education": "#FF4500",
+        "Secondary Education": "#6B8E23"
+    },
+    "x_axis": [
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993"
+    ],
+    "y_axis_label": "Pupil-teacher ratio(headcount basis)",
+    "data": [
+        {
+            "label": "Primary education",
+            "color": "#FF4500",
+            "values": [
+                41.2119293212891,
+                41.6802215576172,
+                42.95257949829099,
+                43.31803131103521,
+                43.2015914916992,
+                43.439380645752,
+                43.066089630127,
+                43.10535812377921
+            ]
+        },
+        {
+            "label": "Secondary Education",
+            "color": "#6B8E23",
+            "values": [
+                25.1347103118896,
+                24.137300491333,
+                23.6986808776855,
+                23.15873908996581,
+                23.375129699707,
+                23.98067092895511,
+                24.2667102813721,
+                25.0610599517822
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 20,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "Primary education",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        },
+        {
+            "label": "Secondary Education",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

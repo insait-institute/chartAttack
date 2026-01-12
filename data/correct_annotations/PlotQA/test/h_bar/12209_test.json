@@ -1,0 +1,82 @@
+{
+    "title": "Net bilateral aid flow from different donors of Development Assistance Committee in the year 1998",
+    "legend": {
+        "Greece": "#EE82EE",
+        "Luxembourg": "#66CDAA",
+        "Australia": "#FFA07A",
+        "Finland": "#87CEEB"
+    },
+    "categories": [
+        "Albania",
+        "Algeria",
+        "Argentina",
+        "Armenia",
+        "Azerbaijan",
+        "Bangladesh"
+    ],
+    "data": {
+        "Greece": [
+            16160000,
+            150000,
+            10000,
+            4040000,
+            60000,
+            90000
+        ],
+        "Luxembourg": [
+            310000,
+            410000,
+            100000,
+            140000,
+            380000,
+            410000
+        ],
+        "Australia": [
+            15010000,
+            300000,
+            50000,
+            230000,
+            20000,
+            21910000
+        ],
+        "Finland": [
+            2910000,
+            410000,
+            1180000,
+            130000,
+            280000,
+            190000
+        ]
+    },
+    "colors": {
+        "Greece": "#EE82EE",
+        "Luxembourg": "#66CDAA",
+        "Australia": "#FFA07A",
+        "Finland": "#87CEEB"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 21910000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

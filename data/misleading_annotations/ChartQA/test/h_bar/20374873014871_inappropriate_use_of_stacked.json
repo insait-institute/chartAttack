@@ -1,0 +1,62 @@
+{
+    "title": "Share that agrees that vaccines are important for children to have, 2018",
+    "categories": [
+        "Share that agrees that vaccines are important for children to have, 2018"
+    ],
+    "data": {
+        "United Arab Emirates": [
+            94.0
+        ],
+        "Mauritania": [
+            91.0
+        ],
+        "Spain": [
+            88.0
+        ],
+        "Armenia": [
+            73.0
+        ],
+        "South Korea": [
+            72.0
+        ]
+    },
+    "colors": {
+        "United Arab Emirates": "#f27979",
+        "Mauritania": "#c1f200",
+        "Spain": "#52a574",
+        "Armenia": "#0042a5",
+        "South Korea": "#da79f2"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "United Arab Emirates": "#f27979",
+        "Mauritania": "#c1f200",
+        "Spain": "#52a574",
+        "Armenia": "#0042a5",
+        "South Korea": "#da79f2"
+    }
+}

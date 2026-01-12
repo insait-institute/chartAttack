@@ -1,0 +1,62 @@
+{
+    "title": "Lower secondary completion rate of students in different countries",
+    "legend": {
+        "Burkina Faso": "#f27979",
+        "Burundi": "#c1f200",
+        "Cabo Verde": "#52a574",
+        "Cambodia": "#0042a5",
+        "Cameroon": "#da79f2"
+    },
+    "categories": [
+        "Lower secondary completion rate of students in different countries"
+    ],
+    "data": {
+        "Burkina Faso": [
+            15.9766597747803
+        ],
+        "Burundi": [
+            15.2531299591064
+        ],
+        "Cabo Verde": [
+            91.78616333007808
+        ],
+        "Cambodia": [
+            47.11701965332029
+        ],
+        "Cameroon": [
+            38.91563034057621
+        ]
+    },
+    "colors": {
+        "Burkina Faso": "#f27979",
+        "Burundi": "#c1f200",
+        "Cabo Verde": "#52a574",
+        "Cambodia": "#0042a5",
+        "Cameroon": "#da79f2"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 100
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

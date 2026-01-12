@@ -1,0 +1,137 @@
+{
+    "title": "",
+    "legend": {
+        "Mexico": "#f27979",
+        "Brazil": "#f24800",
+        "Argentina": "#f2c179",
+        "Chile": "#f2da00",
+        "Peru": "#daf279",
+        "Colombia": "#79f200",
+        "Panama": "#91f279",
+        "Uruguay": "#00a510",
+        "Costa Rica": "#52a574",
+        "Guatemala": "#00a574",
+        "Ecuador": "#52a5a5",
+        "Venezuela": "#0074a5",
+        "El Salvador": "#5274a5",
+        "Honduras": "#0010a5",
+        "Bolivia": "#9179f2",
+        "Nicaragua": "#7900f2",
+        "Paraguay": "#da79f2",
+        "Belize": "#f200da",
+        "Guyana": "#f279c1",
+        "Suriname": "#f20048"
+    },
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Mexico": [
+            172.18
+        ],
+        "Brazil": [
+            97.11
+        ],
+        "Argentina": [
+            31.01
+        ],
+        "Chile": [
+            19.06
+        ],
+        "Peru": [
+            17.3
+        ],
+        "Colombia": [
+            11.7
+        ],
+        "Panama": [
+            7.45
+        ],
+        "Uruguay": [
+            6.54
+        ],
+        "Costa Rica": [
+            6.14
+        ],
+        "Guatemala": [
+            4.02
+        ],
+        "Ecuador": [
+            3.95
+        ],
+        "Venezuela": [
+            2.98
+        ],
+        "El Salvador": [
+            2.56
+        ],
+        "Honduras": [
+            2.47
+        ],
+        "Bolivia": [
+            2.25
+        ],
+        "Nicaragua": [
+            1.14
+        ],
+        "Paraguay": [
+            1.13
+        ],
+        "Belize": [
+            0.6
+        ],
+        "Guyana": [
+            0.14
+        ],
+        "Suriname": [
+            0.12
+        ]
+    },
+    "colors": {
+        "Mexico": "#f27979",
+        "Brazil": "#f24800",
+        "Argentina": "#f2c179",
+        "Chile": "#f2da00",
+        "Peru": "#daf279",
+        "Colombia": "#79f200",
+        "Panama": "#91f279",
+        "Uruguay": "#00a510",
+        "Costa Rica": "#52a574",
+        "Guatemala": "#00a574",
+        "Ecuador": "#52a5a5",
+        "Venezuela": "#0074a5",
+        "El Salvador": "#5274a5",
+        "Honduras": "#0010a5",
+        "Bolivia": "#9179f2",
+        "Nicaragua": "#7900f2",
+        "Paraguay": "#da79f2",
+        "Belize": "#f200da",
+        "Guyana": "#f279c1",
+        "Suriname": "#f20048"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 180
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false
+}

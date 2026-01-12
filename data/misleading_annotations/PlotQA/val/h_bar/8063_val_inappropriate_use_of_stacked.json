@@ -1,0 +1,67 @@
+{
+    "title": "Unemployed population expressed as percentage of the total labor force",
+    "legend": {
+        "Moldova": "#f27979",
+        "Mongolia": "#f2f200",
+        "Montenegro": "#79f279",
+        "Morocco": "#00a5a5",
+        "Mozambique": "#5252a5",
+        "Myanmar": "#a500a5"
+    },
+    "categories": [
+        "Unemployed population expressed as percentage of the total labor force"
+    ],
+    "data": {
+        "Moldova": [
+            7.599999904632571
+        ],
+        "Mongolia": [
+            5.900000095367429
+        ],
+        "Montenegro": [
+            18.6000003814697
+        ],
+        "Morocco": [
+            12.5
+        ],
+        "Mozambique": [
+            23.89999961853031
+        ],
+        "Myanmar": [
+            3.90000009536743
+        ]
+    },
+    "colors": {
+        "Moldova": "#f27979",
+        "Mongolia": "#f2f200",
+        "Montenegro": "#79f279",
+        "Morocco": "#00a5a5",
+        "Mozambique": "#5252a5",
+        "Myanmar": "#a500a5"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 30
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

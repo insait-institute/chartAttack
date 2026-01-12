@@ -1,0 +1,80 @@
+{
+    "title": "Receiving yards by player",
+    "categories": [
+        "Stanley Morgan",
+        "Rob Gronkowski",
+        "Wes Welker",
+        "Julian Edelman",
+        "Troy Brown",
+        "Irving Fryar",
+        "Ben Coates",
+        "Jim Colclough",
+        "Terry Glenn",
+        "Gino Cappelletti",
+        "Deion Branch",
+        "Randy Moss",
+        "Kevin Faulk",
+        "James White",
+        "Harold Jackson",
+        "Russ Francis",
+        "Vincent Brisby",
+        "Art Graham",
+        "Shawn Jefferson",
+        "Randy Vataha"
+    ],
+    "data": {
+        "Receiving yards": [
+            10352,
+            7861,
+            7459,
+            6822,
+            6366,
+            5726,
+            5471,
+            5001,
+            4669,
+            4589,
+            4297,
+            3904,
+            3701,
+            3184,
+            3162,
+            3157,
+            3142,
+            3107,
+            3081,
+            3055
+        ]
+    },
+    "colors": {
+        "Receiving yards": "#2876dd"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": false,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10360
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Receiving yards": "#2876dd"
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "title": "Cost of communications and computers with respect to commercial service exports",
+    "legend": {
+        "2005": "#00FFFF",
+        "2006": "#8A2BE2",
+        "2007": "#BC8F8F"
+    },
+    "categories": [
+        "Czech Republic",
+        "El Salvador",
+        "France",
+        "Georgia",
+        "Germany",
+        "Greece"
+    ],
+    "data": {
+        "2005": [
+            36.2789629195751,
+            47.14935002141271,
+            47.19434390226029,
+            9.66047203919589,
+            44.0332115925849,
+            8.55057279523713
+        ],
+        "2006": [
+            35.8679077766197,
+            46.5261276630313,
+            46.74360145628329,
+            8.73528582874866,
+            42.63675793935021,
+            8.36487468641306
+        ],
+        "2007": [
+            36.8876837776808,
+            40.64021212880761,
+            46.3317745849675,
+            7.108490652796951,
+            42.9182546718889,
+            8.64030993339883
+        ]
+    },
+    "colors": {
+        "2005": "#00FFFF",
+        "2006": "#8A2BE2",
+        "2007": "#BC8F8F"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 50
+            },
+            "show_axis": false,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": {
+        "2005": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "2006": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ],
+        "2007": [
+            1.75,
+            0.25,
+            0.25,
+            1.75,
+            0.75,
+            0.5
+        ]
+    }
+}

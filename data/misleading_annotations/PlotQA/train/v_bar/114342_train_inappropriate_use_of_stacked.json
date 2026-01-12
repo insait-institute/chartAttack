@@ -1,0 +1,67 @@
+{
+    "title": "Cost of communications and computers with respect to service imports",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Italy": "#f27979",
+        "Jamaica": "#c1f200",
+        "Japan": "#52a574",
+        "Kenya": "#0042a5",
+        "Korea (Republic)": "#da79f2"
+    },
+    "data": {
+        "Italy": [
+            47.3018399271862
+        ],
+        "Jamaica": [
+            34.0771496449387
+        ],
+        "Japan": [
+            40.6370999320927
+        ],
+        "Kenya": [
+            45.55131496056151
+        ],
+        "Korea (Republic)": [
+            37.8091766537589
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 60
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Italy": "#f27979",
+        "Jamaica": "#c1f200",
+        "Japan": "#52a574",
+        "Kenya": "#0042a5",
+        "Korea (Republic)": "#da79f2"
+    }
+}

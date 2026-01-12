@@ -1,0 +1,76 @@
+{
+    "title": "S&P Global Equity Indices of Qatar",
+    "legend": {
+        "S&P Global Equity Indices": "#A52A2A"
+    },
+    "x_axis": [
+        "2006",
+        "2007",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+    ],
+    "y_axis_label": "Global Equity Indices (annual % change)",
+    "data": [
+        {
+            "label": "S&P Global Equity Indices",
+            "color": "#A52A2A",
+            "values": [
+                -40.334582029,
+                35.4433645824374,
+                5.0577060326,
+                27.7444003575216,
+                3.34188168081855,
+                -1.86271344499629,
+                23.97447844043689,
+                22.9955948041079
+            ]
+        }
+    ],
+    "type": "line",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": -50,
+                "max_value": 40
+            },
+            "show_axis": false,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "image_dimensions": {
+        "width": 12,
+        "height": 6
+    },
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "scaling_factors": [
+        {
+            "label": "S&P Global Equity Indices",
+            "values": [
+                1.75,
+                0.25,
+                0.25,
+                1.75,
+                0.75,
+                0.5,
+                0.5,
+                0.5
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "Number of start-up procedures to register a business",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "Small states": "#f27979",
+        "South Asia": "#79f200",
+        "Sub-Saharan Africa (all income levels)": "#52a5a5",
+        "Sub-Saharan Africa (developing only)": "#5200a5"
+    },
+    "data": {
+        "Small states": [
+            7.533333333333331
+        ],
+        "South Asia": [
+            7.75
+        ],
+        "Sub-Saharan Africa (all income levels)": [
+            11.25
+        ],
+        "Sub-Saharan Africa (developing only)": [
+            11.25
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 20
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "Small states": "#f27979",
+        "South Asia": "#79f200",
+        "Sub-Saharan Africa (all income levels)": "#52a5a5",
+        "Sub-Saharan Africa (developing only)": "#5200a5"
+    }
+}

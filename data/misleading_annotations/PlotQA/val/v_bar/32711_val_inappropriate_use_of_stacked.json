@@ -1,0 +1,72 @@
+{
+    "title": "Prevalence of severe wasting among children with age under 5 years in 1988",
+    "x_axis": {
+        "categories": [
+            ""
+        ]
+    },
+    "y_axis": {
+        "label": ""
+    },
+    "legend": {
+        "El Salvador": "#f27979",
+        "Ghana": "#f2f200",
+        "Togo": "#79f279",
+        "Tunisia": "#00a5a5",
+        "Uganda": "#5252a5",
+        "Zimbabwe": "#a500a5"
+    },
+    "data": {
+        "El Salvador": [
+            0.5
+        ],
+        "Ghana": [
+            2.20000004768372
+        ],
+        "Togo": [
+            1.70000004768372
+        ],
+        "Tunisia": [
+            1.0
+        ],
+        "Uganda": [
+            0.8999999761581421
+        ],
+        "Zimbabwe": [
+            0.400000005960464
+        ]
+    },
+    "type": "v_bar",
+    "main_axes": {
+        "y_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 10
+            },
+            "show_axis": true,
+            "direction": "bottom-to-top",
+            "scale": "linear"
+        },
+        "x_axis": {
+            "show_axis": true,
+            "direction": "left-to-right"
+        }
+    },
+    "Stacked vertical bar chart": true,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Vertical band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true,
+    "colors": {
+        "El Salvador": "#f27979",
+        "Ghana": "#f2f200",
+        "Togo": "#79f279",
+        "Tunisia": "#00a5a5",
+        "Uganda": "#5252a5",
+        "Zimbabwe": "#a500a5"
+    }
+}

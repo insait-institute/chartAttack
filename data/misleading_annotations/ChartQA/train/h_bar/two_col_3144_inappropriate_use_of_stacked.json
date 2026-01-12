@@ -1,0 +1,87 @@
+{
+    "title": "",
+    "categories": [
+        ""
+    ],
+    "data": {
+        "Nate Colbert": [
+            163.0
+        ],
+        "Adrian Gonzalez": [
+            161.0
+        ],
+        "Phil Nevin": [
+            156.0
+        ],
+        "Dave Winfield": [
+            154.0
+        ],
+        "Tony Gwynn": [
+            135.0
+        ],
+        "Ryan Klesko": [
+            133.0
+        ],
+        "Ken Caminiti": [
+            121.0
+        ],
+        "Will Myers": [
+            110.0
+        ],
+        "Hunter Renfroe": [
+            89.0
+        ],
+        "Chase Headley": [
+            87.0
+        ]
+    },
+    "colors": {
+        "Nate Colbert": "#f27979",
+        "Adrian Gonzalez": "#f29100",
+        "Phil Nevin": "#daf279",
+        "Dave Winfield": "#30f200",
+        "Tony Gwynn": "#52a574",
+        "Ryan Klesko": "#00a5a5",
+        "Ken Caminiti": "#5274a5",
+        "Will Myers": "#2100a5",
+        "Hunter Renfroe": "#da79f2",
+        "Chase Headley": "#f20091"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 170
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Nate Colbert": "#f27979",
+        "Adrian Gonzalez": "#f29100",
+        "Phil Nevin": "#daf279",
+        "Dave Winfield": "#30f200",
+        "Tony Gwynn": "#52a574",
+        "Ryan Klesko": "#00a5a5",
+        "Ken Caminiti": "#5274a5",
+        "Will Myers": "#2100a5",
+        "Hunter Renfroe": "#da79f2",
+        "Chase Headley": "#f20091"
+    }
+}

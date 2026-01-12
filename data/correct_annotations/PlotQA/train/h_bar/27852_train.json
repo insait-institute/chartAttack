@@ -1,0 +1,62 @@
+{
+    "title": "Balance of goods and services traded in 2006",
+    "legend": {
+        "Exports": "#6495ED",
+        "Imports": "#00BFFF"
+    },
+    "categories": [
+        "Armenia",
+        "Aruba",
+        "Australia",
+        "Austria",
+        "Azerbaijan",
+        "Bahamas"
+    ],
+    "data": {
+        "Exports": [
+            1052970724.0,
+            4717024446.0,
+            124641000000.0,
+            129453000000.0,
+            12749075000.0,
+            703540000.0
+        ],
+        "Imports": [
+            1999936187.0,
+            4724341246.0,
+            136761000000.0,
+            126221000000.0,
+            4953862000.0,
+            2766500000.0
+        ]
+    },
+    "colors": {
+        "Exports": "#6495ED",
+        "Imports": "#00BFFF"
+    },
+    "type": "h_bar",
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 136761000000
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Stacked horizontal bar chart": false,
+    "Horizontal grid": false,
+    "Vertical grid": false,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "Show labels": true
+}

@@ -1,0 +1,117 @@
+{
+    "title": "Number of millionaire households",
+    "categories": [
+        "Number of millionaire households"
+    ],
+    "data": {
+        "Germany": [
+            1433985.0
+        ],
+        "France": [
+            1334066.0
+        ],
+        "Italy": [
+            818538.0
+        ],
+        "United Kingdom": [
+            796646.0
+        ],
+        "Netherlands": [
+            703108.0
+        ],
+        "Switzerland": [
+            555483.0
+        ],
+        "Belgium": [
+            415117.0
+        ],
+        "Austria": [
+            200298.0
+        ],
+        "Spain": [
+            168134.0
+        ],
+        "Luxembourg": [
+            50612.0
+        ],
+        "Portugal": [
+            46416.0
+        ],
+        "Greece": [
+            34723.0
+        ],
+        "Finland": [
+            25995.0
+        ],
+        "Slovakia": [
+            9532.0
+        ],
+        "Cyprus": [
+            7269.0
+        ],
+        "Slovenia": [
+            6784.0
+        ]
+    },
+    "colors": {
+        "Germany": "#f27979",
+        "France": "#f25a00",
+        "Italy": "#f2d379",
+        "United Kingdom": "#d3f200",
+        "Netherlands": "#b5f279",
+        "Switzerland": "#1ef200",
+        "Belgium": "#52a567",
+        "Austria": "#00a567",
+        "Spain": "#52a5a5",
+        "Luxembourg": "#0067a5",
+        "Portugal": "#5267a5",
+        "Greece": "#1400a5",
+        "Finland": "#b579f2",
+        "Slovakia": "#d300f2",
+        "Cyprus": "#f279d3",
+        "Slovenia": "#f2005a"
+    },
+    "type": "h_bar",
+    "Stacked horizontal bar chart": true,
+    "Horizontal grid": true,
+    "Vertical grid": true,
+    "Chart legend": true,
+    "Horizontal band": false,
+    "Show labels": true,
+    "main_axes": {
+        "x_axis": {
+            "axis_range": {
+                "min_value": 0,
+                "max_value": 1433990
+            },
+            "show_axis": true,
+            "direction": "left-to-right",
+            "scale": "linear"
+        },
+        "y_axis": {
+            "show_axis": true,
+            "direction": "bottom-to-top"
+        }
+    },
+    "Show title": true,
+    "Fontsize": 12,
+    "3D effect": false,
+    "legend": {
+        "Germany": "#f27979",
+        "France": "#f25a00",
+        "Italy": "#f2d379",
+        "United Kingdom": "#d3f200",
+        "Netherlands": "#b5f279",
+        "Switzerland": "#1ef200",
+        "Belgium": "#52a567",
+        "Austria": "#00a567",
+        "Spain": "#52a5a5",
+        "Luxembourg": "#0067a5",
+        "Portugal": "#5267a5",
+        "Greece": "#1400a5",
+        "Finland": "#b579f2",
+        "Slovakia": "#d300f2",
+        "Cyprus": "#f279d3",
+        "Slovenia": "#f2005a"
+    }
+}
