@@ -52,7 +52,7 @@ python finetuning_sentence_transformer_multilabel_MNR_IRE.py \
 ```
 
 ## Citation
-```bibtext
+```bibtex
 @article{chartAttack2026,
   title={ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation},
   author={Ortiz-Barajas, Jesus-German and Tonglet, Jonathan and Gupta, Vivek and Gurevych, Iryna},
