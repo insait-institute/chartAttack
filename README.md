@@ -39,7 +39,9 @@ Multimodal large language models (MLLMs) are increasingly used to automate chart
 ### Fine-tune the Demonstration selection module
 ```bash
 cd src/demonstration_selection_module/
+```
 
+```
 python finetuning_sentence_transformer_multilabel_MNR_IRE.py \
     --dataset PlotQA \
     --dataset_version ef-anchor_postive_median_balanced \
