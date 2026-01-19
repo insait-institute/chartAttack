@@ -36,6 +36,8 @@ Multimodal large language models (MLLMs) are increasingly used to automate chart
    # Install dependencies
    pip install -r requirements.txt
 
+## Usage
+
 ### Fine-tune the Demonstration selection module
 ```bash
 cd src/demonstration_selection_module/
