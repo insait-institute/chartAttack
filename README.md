@@ -36,6 +36,21 @@ Multimodal large language models (MLLMs) are increasingly used to automate chart
    # Install dependencies
    pip install -r requirements.txt
 
+### Fine-tune the Demonstration selection module
+```bash
+cd src/demonstration_selection_module/
+
+python finetuning_sentence_transformer_multilabel_MNR_IRE.py \
+    --dataset PlotQA \
+    --dataset_version ef-anchor_postive_median_balanced \
+    --chart_type h_bar \
+    --partition train \
+    --val_partition val \
+    --batch_size 64 \
+    --epochs 5 \
+    --learning_rate 3e-5
+```
+
 ## Citation
 ```bibtext
 @article{chartAttack2026,
