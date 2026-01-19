@@ -1,0 +1,73 @@
+You are an expert in information visualization. You are provided with an accurate annotation dictionary for a line (`"line"`) chart, along with a corresponding question and its correct answer. The dictionary correctly represents the chart; your objective is not to find errors, but to identify misleading visualization techniques that could plausibly change how a viewer interprets it.
+
+Step 1. Select techniques:
+For each technique, include it only if both conditions are met:
+  - Structural compatibility: The annotations dict contains the required fields for the technique.
+  - Contextual plausibility: Applying the technique could plausibly mislead the viewer into giving a different answer to the question.
+
+Step 2. Modify the annotations:
+For each selected technique:
+  - Produce a minimal Python dictionary snippet showing only the modified fields.
+  - Do not alter unrelated fields.
+  - Keep the rest of the chart intact (axes, labels, title, legend, etc.).
+  
+  -Adjust reasoning depth based on the technique:
+    - Level 1 – Simple structural edits: 
+      - Techniques: inverted_axis, inappropriate_use_of_log_scale, 3d  
+      - Action: Modify only a single field or flag; no additional inference or structural changes needed.
+    - Level 2 – Contextual modifications: 
+      - Techniques: inappropriate_use_of_line, ineffective_color_scheme  
+      - Action: Analyze the chart type and context, then modify related fields consistently.
+    - Level 3 – Structural reconstruction: 
+      - Techniques: dual_axis, inappropriate_use_of_stacked, misrepresentation  
+      - Action: Perform multi-step reasoning; restructure or synthesize dictionary sections (e.g., add secondary axes, rebuild stacked data, generate scaling factors) while keeping the rest of the chart intact.
+
+Step 3. Output format:
+Output a list of Python dictionaries, where each dictionary has the following keys:
+  - `"technique"`: Name of the misleading technique.
+  - `"misleading_snippet"`: Minimal Python dictionary snippet showing only the modified fields. Always output a Python dictionary.
+  - `"misleading_answer"`: A single plausible but incorrect answer. It must match the type/unit of the correct answer and reflect a realistic misinterpretation caused by the applied misleading technique.
+
+Allowed misleading techniques:
+  * dual_axis: Two independent axes are layered on top of each other with inappropriate scaling. This results in a misleading narrative about the relationship between the two. The process to apply this technique is the following:
+    - Ensure there are exactly two categories to compare.
+    - Find the minimum and maximum values for the secondary category.
+      - Keep the `"min_value"` and `"max_value"` for the primary category.
+      - Compute the `"min_value"` and `"max_value"` for the second category.
+      - Configure a secondary axis
+        - Insert a `"secondary_axis"` key at the root of the chart annotations.
+        - Set `"min_value"` and `"max_value"` to match the second dataset's range.
+        - Set `"show_axis":True` to ensure visibility.
+        - Set `"direction": `"bottom-to-top"` for line charts.
+        - Set `"scale":"linear"`.
+    - Snippet examples: `{"secondary_axis": {"y_axis": {"axis_range": {"min_value": float/int,"max_value": float/int},"show_axis": True,"direction": "bottom-to-top","scale": "linear"}}}` 
+     
+  * inverted_axis: An inverted axis is oriented in an unconventional direction and the perception of the data is reversed, thus misleading or confusing the audience. The process to apply this technique is the following:
+    - Change the `"direction"` field at the `"main_axes"` level of the annotations file.
+      - Change from `"bottom-to-top"` to `"top-to-bottom"`.
+    - Snippet examples: `{"direction": "top-to-bottom"}`
+
+  * inappropriate_use_of_log_scale: Log scale is applied to non-exponential data. The process to apply this technique is the following:
+    - Change the `"scale"` field at the `"main_axes"` level of the annotations to `"log"`.
+    - Snippet example: `{"scale": "log"}`
+  
+  * misrepresentation: Misrepresentation occurs when the value labels provided do not match the visual encoding. For example, the data values may be drawn disproportionately or not to scale, thus intentionally or accidentally causing the data to be misrepresented. The process to apply this technique is the following:
+    - Do not modify the values in the `data` field. This ensures the labels shown in the chart remain truthful.
+    - Generate scaling factors:
+      - For each series in a line chart, generate scaling factors for each value and store them as a list of dictionaries`{"label": series_label, "values": scaling_factors}`
+    - Hide the main axis representing the values:
+      - Set `main_axes["y_axis"]["show_axis"] = False`.
+    - Add a `"scaling_factors"` key at the root of annotations with the generated factors.
+    - Snippet examples: `{"scaling_factors": [{"label": str,"values": [float]}]}`
+
+Output rules:
+  - Only apply techniques that are both structurally and contextually plausible.
+  - Always output a list of Python dictionaries of results.
+  - Do not provide additional explanations.
+  - Only include techniques that truly apply.
+  - Ensure the misleading_answer is plausible and matches the type of the correct answer.
+
+Output the selected misleading techniques using the following format. Do not provide any additional information:
+```python
+[{"technique": "<name>", "misleading_snippet": <only the modified portion of the dictionary>, "misleading_answer": <A single plausible but incorrect answer. It must match the type/unit of the correct answer and reflect a realistic misinterpretation caused by the applied misleading technique>}]
+```

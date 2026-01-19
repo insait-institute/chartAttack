@@ -41,7 +41,7 @@ Multimodal large language models (MLLMs) are increasingly used to automate chart
 cd src/demonstration_selection_module/
 ```
 
-```
+```python
 python finetuning_sentence_transformer_multilabel_MNR_IRE.py \
     --dataset PlotQA \
     --dataset_version ef-anchor_postive_median_balanced \
@@ -51,6 +51,24 @@ python finetuning_sentence_transformer_multilabel_MNR_IRE.py \
     --batch_size 64 \
     --epochs 5 \
     --learning_rate 3e-5
+```
+### Misleader-generator module inference
+```bash
+cd src/misleader_generator_module
+```
+
+```python
+python few_shot_attacker.py \
+  --model_checkpoint Qwen/Qwen2.5-Coder-7B-Instruct \
+  --dataset PlotQA \
+  --partition test \
+  --chart_type v_bar \
+  --shots 5 \
+  --zero_shot False \
+  --version complete \
+  --data_dir datasets \
+  --prompt_dir prompts \
+  --response_dir responses
 ```
 
 ## Citation
