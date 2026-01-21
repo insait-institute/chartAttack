@@ -75,11 +75,14 @@ python few_shot_attacker.py \
 
 ## Citation
 ```bibtex
-@article{chartAttack2026,
-  title={ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation},
-  author={Ortiz-Barajas, Jesus-German and Tonglet, Jonathan and Gupta, Vivek and Gurevych, Iryna},
-  journal={arXiv preprint},
-  year={2026}
+@misc{ortizbarajas2026chartattacktestingvulnerabilityllms,
+      title={ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation}, 
+      author={Jesus-German Ortiz-Barajas and Jonathan Tonglet and Vivek Gupta and Iryna Gurevych},
+      year={2026},
+      eprint={2601.12983},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.12983}, 
 }
 ```
 
