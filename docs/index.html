@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="ChartAttack: a framework for evaluating how multimodal LLMs can generate misleading charts, and AttackViz, a chart QA dataset labeled with effective misleaders.">
+  <meta property="og:title" content="ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation"/>
+  <meta property="og:description" content="ChartAttack: a framework for evaluating how multimodal LLMs can generate misleading charts, and AttackViz, a chart QA dataset labeled with effective misleaders."/>
+  <meta property="og:url" content="https://insait-institute.github.io/chartAttack/"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="https://raw.githubusercontent.com/insait-institute/chartAttack/refs/heads/master/docs/static/images/social.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation">
+  <meta name="twitter:description" content="A framework for evaluating how MLLMs can generate misleading charts, and AttackViz, a chart QA dataset labeled with effective misleaders.">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="https://raw.githubusercontent.com/insait-institute/chartAttack/refs/heads/master/docs/static/images/social_x.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="chart generation, multimodal large language models, MLLM, LLM, misleading charts, chart question answering, chart QA, jailbreak, adversarial prompting, malicious prompting, data visualization, misinformation, deceptive visualization, AttackViz, ChartAttack, AI safety, robustness, security, PlotQA, ChartQA, ChartX">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation</title>
+  <link rel="icon" type="image/x-icon" href="static/images/icon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+<section class="hero is-orange">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation</h1>
+
+            <p class="is-size-5" style="color: var(--authors_aff); margin-bottom: 1.5rem;">Accepted at the <b>2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Main Conference</b></p>
+
+            <!-- Authors -->
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+              <a href="https://jgermanob.github.io/" target="_blank">Jesus-German Ortiz-Barajas</a><sup>1</sup>,</span>
+              <span class="author-block">
+              <a href="https://jtonglet.github.io/" target="_blank">Jonathan Tonglet</a><sup>2,3</sup>,</span>
+              <span class="author-block">
+              <a href="https://vgupta123.github.io/" target="_blank">Vivek Gupta</a><sup>4</sup>,</span>
+              <span class="author-block">
+              <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp" target="_blank">Iryna Gurevych</a><sup>1,2</sup></span>
+            </div>
+
+            <!-- Affiliations -->
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <sup>1</sup><a href="https://insait.ai/" target="_blank">INSAIT, Sofia University "St. Kliment Ohridski"</a>,
+              </span>
+              <br>
+              <span class="author-block">
+                <sup>2</sup><a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp" target="_blank">UKP Lab, TU Darmstadt &amp; ATHENE</a>,
+              </span>
+              <span class="author-block">
+                <sup>3</sup><a href="https://www.kuleuven.be/" target="_blank">KU Leuven</a>,
+              </span>
+              <span class="author-block">
+                <sup>4</sup><a href="https://www.asu.edu/" target="_blank">Arizona State University</a>
+              </span>
+              <span class="eql-cntrb">
+                <small><br>Corresponding author:
+                  <a href="mailto:german.ortiz@insait.ai">german.ortiz@insait.ai</a>
+                </small>
+              </span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <!-- ArXiv abstract Link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/2601.12983" target="_blank"
+                      class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon"><i class="ai ai-arxiv"></i></span>
+                      <span>arXiv</span>
+                  </a>
+                </span>
+                <!-- Github link -->
+                <span class="link-block">
+                  <a href="https://github.com/insait-institute/chartAttack" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon"><i class="fab fa-github"></i></span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <!-- HuggingFace collection link -->
+                <span class="link-block">
+                  <a href="https://huggingface.co/collections/INSAIT-Institute/chartattack" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">🤗</span>
+                    <span>Data</span>
+                  </a>
+                </span>
+              </div>
+            </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Teaser Image-->
+<section class="hero teaser is-light-orange">
+    <div class="container is-max-desktop">
+        <div class="hero-body has-text-centered">
+            <img src="static/images/framework_overview.svg" alt="Overview of the ChartAttack framework" style="width: 100%; height: auto;"/>
+            <h2 class="subtitle has-text-centered">
+              We introduce <b>ChartAttack</b>, a framework that automatically injects misleading design choices (<b>misleaders</b>) into chart annotations to induce incorrect answers to chart questions,
+              and <b>AttackViz</b>, a chart question-answering dataset labeled with effective misleaders and the incorrect answers they cause.
+              We use ChartAttack to evaluate how well misleading charts deceive both multimodal LLMs and human readers.
+            </h2>
+        </div>
+    </div>
+</section>
+<!-- End teaser Image -->
+
+<section class="hero is-light">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="column has-text-centered">
+          <h2 class="title is-3">Is MLLM-based chart generation <span class="orange-text">safe?</span></h2>
+          <div class="has-text-justified">
+            <p>
+              </p><ul>
+                <li><div class="caption">ChartAttack reduces MLLM chart QA accuracy by 17.2 points in-domain and 11.9 points cross-domain, with targeted deception: originally correct answers shift to the attacker-intended answer 11.2-14.9% of the time.</div></li>
+                <li><div class="caption">A controlled human study shows that ChartAttack-generated charts also fool people: QA accuracy drops from 88.3% to 71.9% when exposed to misleading charts.</div></li>
+                <li><div class="caption">Simple prompt-based safeguards fail to stop the attack, and fine-tuning on AttackViz improves in-domain robustness but does not fully transfer cross-domain.</div></li>
+              </ul>
+            <p></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--Motivation -->
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Motivation</h2>
+        <div class="content has-text-justified">
+          <p>
+            Charts are widely used to communicate complex information across domains such as politics, climate, and healthcare, and play a critical role during crises such as the COVID-19 pandemic. However, poorly designed or intentionally manipulated charts can propagate misinformation. Misleading charts distort the interpretation of underlying data through misleaders: design choices that violate visualization principles and systematically bias perception or inference, such as inverting axes to reverse perceived trends.
+            <br>
+            <br>
+            Chart creation has been democratized by user-friendly tools, and designers increasingly use MLLMs for chart generation and analysis. While MLLMs simplify legitimate tasks, they can be exploited to generate misleading content at scale, including misleading charts. However, the effectiveness of MLLM-based misleading chart generation and its impact on readers had not been systematically quantified. To address this gap, we present the first systematic study of this jailbreaking attack.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Motivation -->
+
+<!-- Framework & Dataset -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">The ChartAttack Framework &amp; AttackViz Corpus</h2>
+        <div class="content has-text-justified">
+          <p>
+          <span class="orange-text">ChartAttack:</span> Given chart annotations (a JSON file with data and formatting specifications), a question, and its correct answer, ChartAttack applies known misleaders to the chart design without changing the underlying data. A Demonstration Selection module retrieves similar examples for few-shot prompting, and a Misleader-Generator module (a code-instruction-tuned MLLM) selects compatible misleaders, specifies minimal design modifications, and produces a plausible but incorrect misleading answer. Because the data is untouched, the correct answer always remains recoverable from the underlying table.
+          <br>
+          <br>
+          <span class="orange-text">AttackViz corpus:</span> To support and evaluate ChartAttack, we build AttackViz, a multi-label chart QA dataset covering horizontal bar, vertical bar, and line charts, built on top of PlotQA (in-domain) and extended cross-domain to ChartQA and ChartX. Each instance pairs a clean chart with a set of applicable misleaders, the corresponding modified chart annotation, and the resulting misleading answer.
+          </p>
+          <div class="columns">
+          <div class="column" style="text-align: center;">
+          <img src="static/images/attackviz_pipeline.png" alt="Pipeline to create the AttackViz corpus" style="width: 90%; height: auto;">
+          <div class="fig-caption">Pipeline to create the AttackViz corpus.</div>
+          </div>
+          </div>
+          <p>
+          <span class="orange-text">Misleaders:</span> We focus on bar (horizontal and vertical) and line charts, which together account for 64% of misleading-chart taxonomy techniques and 49% of real-world misleading visualizations. Out of a taxonomy of 74 misleaders, we select 11 that satisfy six criteria (frequent in real-world charts, previously studied, correct answer and data unchanged, chart-grammar violation, Python implementable).
+          </p>
+          <div class="responsive-table-wrapper">
+            <table class="table is-bordered is-striped is-narrow">
+              <thead>
+                <tr><th>Misleader</th><th>Definition</th><th>Affected chart types</th></tr>
+              </thead>
+              <tbody>
+                <tr><td>Dual axis</td><td>Two independent axes are layered with inappropriate scaling, creating a misleading narrative about the relationship between them.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"> <img class="chart-type-icon" src="static/images/line_icon.png" title="Line" alt="Line"></td></tr>
+                <tr><td>Inverted axis</td><td>An axis oriented in an unconventional direction, reversing the perception of the data.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"> <img class="chart-type-icon" src="static/images/line_icon.png" title="Line" alt="Line"></td></tr>
+                <tr><td>Inappropriate use of log scale</td><td>A logarithmic scale applied to non-exponential data, leading to misinterpretation.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"> <img class="chart-type-icon" src="static/images/line_icon.png" title="Line" alt="Line"></td></tr>
+                <tr><td>Inappropriate axis range</td><td>The axis range is too broad or too narrow, allowing changes to be minimized or maximized.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"> <img class="chart-type-icon" src="static/images/line_icon.png" title="Line" alt="Line"></td></tr>
+                <tr><td>Inappropriate item order</td><td>Items are arranged in an unconventional order, misleading the audience.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"> <img class="chart-type-icon" src="static/images/line_icon.png" title="Line" alt="Line"></td></tr>
+                <tr><td>Misrepresentation</td><td>Visual encoding does not match value labels, e.g., values drawn disproportionately or not to scale.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"> <img class="chart-type-icon" src="static/images/line_icon.png" title="Line" alt="Line"></td></tr>
+                <tr><td>Inappropriate use of stacked</td><td>Too many layers are stacked, making the visualization difficult to interpret.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"></td></tr>
+                <tr><td>3D</td><td>Objects closer in perspective appear larger despite being the same size in 3D, causing misleading perception.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"></td></tr>
+                <tr><td>Ineffective color scheme</td><td>A color scheme that does not effectively represent data, e.g., rainbow colors for sequential data.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"></td></tr>
+                <tr><td>Truncated axis</td><td>The axis does not start from zero, resulting in an exaggerated difference between bars.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/h_bar_icon.png" title="Horizontal bar" alt="Horizontal bar"> <img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"></td></tr>
+                <tr><td>Inappropriate use of line</td><td>A line chart used in an unconventional way, e.g., encoding a categorical variable on an axis.</td><td class="has-text-centered"><img class="chart-type-icon" src="static/images/v_bar_icon.png" title="Vertical bar" alt="Vertical bar"></td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="fig-caption">Definitions of the 11 misleaders used to build the AttackViz corpus.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Framework & Dataset -->
+
+<!--Findings -->
+<section class="section hero">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Findings</h2>
+        <div class="content has-text-justified">
+          <p>
+            <span class="orange-text">MLLM-based evaluation results:</span>
+            We evaluate ChartAttack's effectiveness at degrading chart QA performance across 16 open- and closed-weight MLLMs, from LLaVA-1.6 to GPT-4o, Gemini-2.5, and Claude-4.6, under in-domain (PlotQA) and cross-domain (ChartQA, ChartX) settings.
+            In-domain, all models perform worse on misleading charts, with accuracy drops ranging from 4.4 to 26.6 points (17.2 on average); larger drops tend to occur for stronger models, and even the highest-performing ones (InternVL-3.5 14B/38B, Ovis-2.5 2B/9B, 80-86% clean-chart accuracy) decline by 22-27 points. Conditional deception rates confirm the errors are targeted rather than random: originally correct answers shift to the attacker-intended answer 11.2% of the time on average, while originally incorrect answers rarely change (1.7%). At the misleader level, perceptual manipulations are the most damaging: inappropriate stacking, 3D effects, and log scales reduce accuracy by 41.5, 30.6, and 18.8 points, respectively.
+            <br>
+            <br>
+            Cross-domain, accuracy on misleading charts drops by 4.2-19.1 points across models, with average declines of 11.5 points on ChartQA and 12.3 points on ChartX; high-performing models are not immune. Conditional deception rates remain lower than in-domain: 11.7%/14.9% for originally correct answers and 2.7%/1.9% for originally incorrect answers on ChartQA/ChartX, respectively.
+            <div class="columns">
+            <div class="column">
+            <img src="static/images/results_accuracy.svg" alt="Average accuracy on AttackViz" style="width: 100%; height: auto;">
+            <div class="fig-caption">Average accuracy on AttackViz, by model (top) and by misleader (bottom).</div>
+            </div>
+            </div>
+            <div class="columns">
+            <div class="column">
+            <img src="static/images/results_deception_rate.svg" alt="Average deception rate on AttackViz" style="width: 100%; height: auto;">
+            <div class="fig-caption">Average deception rate (DR) on AttackViz, by model (top) and by misleader (bottom).</div>
+            </div>
+            </div>
+
+          <span class="orange-text">Human evaluation:</span>
+          We conduct a two-phase human study with 48 participants in a controlled setting to isolate the effect of misleading chart design on chart QA performance, using a between-subjects design: both groups view correct charts in the first phase, while only the experimental group views misleading charts in the second phase. Participants exposed to misleading charts had significantly lower odds of answering correctly than participants exposed to correct charts (OR = 0.266, 95% CI [0.197, 0.357], p &lt; 0.001), corresponding to roughly 73% lower odds of a correct response. Baseline performance was comparable between groups, while second-phase accuracy decreased from 88.3% in the control group to 71.9% in the experimental group.
+          <br>
+          <br>
+          <span class="orange-text">Mitigation strategies - Fine-tuned MLLM on AttackViz:</span>
+          We fine-tune Qwen2.5-VL-3B-Instruct on AttackViz using QLoRA with 4-bit NF4 quantization, applying LoRA adapters to the attention and feed-forward layers, and compare it with its quantized instruct base model. On the in-domain PlotQA partition, the base model achieves 41.66% accuracy on the AttackViz test set, while the fine-tuned model reaches 52.17% (+10.51 points), with gains across all misleaders ranging from 11.73 to 48.78 points. Cross-domain transfer is mixed: on ChartQA, six misleaders improve (+1.34 to +2.85 points) while others decline, most notably inverted axis (-14.87 points); on ChartX, nine of ten applicable misleaders decline, with only misrepresentation improving (+1.23 points). Clean-chart accuracy also decreases by 10.89 points on PlotQA, 11.74 points on ChartQA, and 23.89 points on ChartX. These preliminary results show that robustness-oriented fine-tuning can substantially improve in-domain robustness, but its limited cross-domain transfer and degradation on clean charts indicate that the gains do not yet generalize reliably.
+          </p>
+          <div class="responsive-table-wrapper">
+            <table class="table is-bordered is-striped is-narrow">
+              <thead>
+                <tr>
+                  <th rowspan="2">Misleader</th>
+                  <th colspan="3" class="has-text-centered" style="background-color: #d1f694;">PlotQA</th>
+                  <th colspan="3" class="has-text-centered" style="background-color: #d1f694;">ChartQA</th>
+                  <th colspan="3" class="has-text-centered" style="background-color: #d1f694;">ChartX</th>
+                </tr>
+                <tr>
+                  <th class="has-text-centered">Base</th><th class="has-text-centered">SFT</th><th class="has-text-centered">&Delta;</th>
+                  <th class="has-text-centered">Base</th><th class="has-text-centered">SFT</th><th class="has-text-centered">&Delta;</th>
+                  <th class="has-text-centered">Base</th><th class="has-text-centered">SFT</th><th class="has-text-centered">&Delta;</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td>3D</td><td class="has-text-right">23.58</td><td class="has-text-right">37.74</td><td class="has-text-right green">+14.16</td><td class="has-text-right">24.67</td><td class="has-text-right">22.16</td><td class="has-text-right red">-2.51</td><td class="has-text-right">18.50</td><td class="has-text-right">14.54</td><td class="has-text-right red">-3.96</td></tr>
+                <tr><td>Dual axis</td><td class="has-text-right">36.78</td><td class="has-text-right">54.02</td><td class="has-text-right green">+17.24</td><td class="has-text-right">28.95</td><td class="has-text-right">31.58</td><td class="has-text-right green">+2.63</td><td class="has-text-right">52.78</td><td class="has-text-right">22.22</td><td class="has-text-right red">-30.56</td></tr>
+                <tr><td>Inappropriate axis range</td><td class="has-text-right">13.91</td><td class="has-text-right">62.69</td><td class="has-text-right green">+48.78</td><td class="has-text-right">16.09</td><td class="has-text-right">17.43</td><td class="has-text-right green">+1.34</td><td class="has-text-right">39.22</td><td class="has-text-right">19.61</td><td class="has-text-right red">-19.61</td></tr>
+                <tr><td>Inappropriate item order</td><td class="has-text-right">33.33</td><td class="has-text-right">45.06</td><td class="has-text-right green">+11.73</td><td class="has-text-right">16.22</td><td class="has-text-right">17.57</td><td class="has-text-right green">+1.35</td><td class="has-text-right">63.16</td><td class="has-text-right">47.37</td><td class="has-text-right red">-15.79</td></tr>
+                <tr><td>Inappropriate use of line</td><td class="has-text-right">26.92</td><td class="has-text-right">48.08</td><td class="has-text-right green">+21.16</td><td class="has-text-right">46.67</td><td class="has-text-right">49.52</td><td class="has-text-right green">+2.85</td><td class="has-text-right">41.18</td><td class="has-text-right">17.65</td><td class="has-text-right red">-23.53</td></tr>
+                <tr><td>Inappropriate use of log scale</td><td class="has-text-right">24.85</td><td class="has-text-right">39.88</td><td class="has-text-right green">+15.03</td><td class="has-text-right">43.12</td><td class="has-text-right">38.99</td><td class="has-text-right red">-4.13</td><td class="has-text-right">--</td><td class="has-text-right">--</td><td class="has-text-right">--</td></tr>
+                <tr><td>Inappropriate use of stacked</td><td class="has-text-right">18.54</td><td class="has-text-right">31.01</td><td class="has-text-right green">+12.47</td><td class="has-text-right">26.73</td><td class="has-text-right">23.65</td><td class="has-text-right red">-3.08</td><td class="has-text-right">14.93</td><td class="has-text-right">10.45</td><td class="has-text-right red">-4.48</td></tr>
+                <tr><td>Ineffective color scheme</td><td class="has-text-right">27.45</td><td class="has-text-right">42.48</td><td class="has-text-right green">+15.03</td><td class="has-text-right">31.43</td><td class="has-text-right">32.86</td><td class="has-text-right green">+1.43</td><td class="has-text-right">36.36</td><td class="has-text-right">21.21</td><td class="has-text-right red">-15.15</td></tr>
+                <tr><td>Inverted axis</td><td class="has-text-right">34.17</td><td class="has-text-right">53.85</td><td class="has-text-right green">+19.68</td><td class="has-text-right">55.90</td><td class="has-text-right">41.03</td><td class="has-text-right red">-14.87</td><td class="has-text-right">24.81</td><td class="has-text-right">21.80</td><td class="has-text-right red">-3.01</td></tr>
+                <tr><td>Misrepresentation</td><td class="has-text-right">39.86</td><td class="has-text-right">58.36</td><td class="has-text-right green">+18.50</td><td class="has-text-right">37.09</td><td class="has-text-right">38.74</td><td class="has-text-right green">+1.65</td><td class="has-text-right">6.12</td><td class="has-text-right">7.35</td><td class="has-text-right green">+1.23</td></tr>
+                <tr><td>Truncated axis</td><td class="has-text-right">25.75</td><td class="has-text-right">68.86</td><td class="has-text-right green">+43.11</td><td class="has-text-right">19.36</td><td class="has-text-right">19.08</td><td class="has-text-right red">-0.28</td><td class="has-text-right">66.67</td><td class="has-text-right">44.44</td><td class="has-text-right red">-22.23</td></tr>
+                <tr><td><strong>None (clean chart)</strong></td><td class="has-text-right">76.64</td><td class="has-text-right">65.75</td><td class="has-text-right red">-10.89</td><td class="has-text-right">91.82</td><td class="has-text-right">80.08</td><td class="has-text-right red">-11.74</td><td class="has-text-right">94.50</td><td class="has-text-right">70.61</td><td class="has-text-right red">-23.89</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="fig-caption">Accuracy (%) of the base and fine-tuned (SFT) Qwen2.5-VL-3B-Instruct models on the AttackViz test set, by misleader and dataset partition. &Delta; = SFT &minus; base; <span class="green">green</span> marks improved robustness, <span class="red">red</span> marks decline. "None" is the clean-chart (no misleader) accuracy.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Findings -->
+
+<!-- Dataset Examples -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">AttackViz Examples</h2>
+        <div class="content has-text-justified">
+          <p>
+          Each AttackViz instance pairs a correct chart with its misleading counterpart, a question, the correct answer (in green), and the misleading answer caused by the applied misleader (in red).
+          </p>
+        </div>
+        <div class="columns">
+        <div class="column" style="text-align: center;">
+        <img src="static/images/attackviz_example_v_bar.svg" alt="Vertical bar chart examples from AttackViz" style="width: 100%; height: auto;">
+        <div class="fig-caption">Vertical bar chart examples from AttackViz.</div>
+        </div>
+        </div>
+        <div class="columns">
+        <div class="column" style="text-align: center;">
+        <img src="static/images/attackviz_example_h_bar.svg" alt="Horizontal bar chart examples from AttackViz" style="width: 100%; height: auto;">
+        <div class="fig-caption">Horizontal bar chart examples from AttackViz.</div>
+        </div>
+        </div>
+        <div class="columns">
+        <div class="column" style="text-align: center;">
+        <img src="static/images/attackviz_example_line.svg" alt="Line chart examples from AttackViz" style="width: 100%; height: auto;">
+        <div class="fig-caption">Line chart examples from AttackViz.</div>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Dataset Examples -->
+
+<!--BibTex citation -->
+<section class="section hero is-light">
+    <div class="container is-max-desktop content">
+      <h2><a href="#citation" class="header-link">Citation</a></h2>
+<!-- To be updated to an @inproceedings entry once the ACL Anthology / camera-ready venue details are assigned -->
+<pre id="BibTeX">@article{ortizbarajas2026chartattack,
+    title        = {ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation},
+    author       = {Ortiz-Barajas, Jesus-German and Tonglet, Jonathan and Gupta, Vivek and Gurevych, Iryna},
+    year         = {2026},
+    journal      = {arXiv preprint arXiv:2601.12983},
+    url          = {https://arxiv.org/abs/2601.12983}
+}</pre>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <button class="button is-small" onclick="copyBibtex()">📋 Copy to clipboard</button>
+        </div>
+      </div>
+    </div>
+  </section>
+<!--End BibTex citation -->
+
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content has-text-centered">
+        This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a>.
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+  </body>
+  </html>
