@@ -3,9 +3,13 @@
 > #### Jesus-German Ortiz-Barajas, Jonathan Tonglet, Vivek Gupta, and Iryna Gurevych
 >  
 
-🤗: [Collection: AttackViz dataset and fine-tune models](https://huggingface.co/collections/INSAIT-Institute/chartattack)
+<p align="center">
+  <a href="https://chartattack.insait.ai"><img src="https://img.shields.io/badge/🌐-Project%20Website-blue" alt="Project Website"></a>
+  <a href="https://arxiv.org/abs/2601.12983"><img src="https://img.shields.io/badge/arXiv-2601.12983-b31b1b" alt="arXiv"></a>
+  <a href="https://huggingface.co/collections/INSAIT-Institute/chartattack"><img src="https://img.shields.io/badge/🤗-Collection-yellow" alt="Hugging Face Collection"></a>
+</p>
 
-This repository contains the code and dataset associated with the arXiv preprint: [ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation](#). The code is released under an **Apache 2.0** license. The Attackviz dataset is released under an **GPLv3** license.
+This repository contains the code and dataset associated with the arXiv preprint: ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation. The code is released under an **Apache 2.0** license. The Attackviz dataset is released under an **GPLv3** license.
 
 <p align="center">
   <img width="100%" src="img/ChartAttack_v2.png" alt="ChartAttack framework"/>
