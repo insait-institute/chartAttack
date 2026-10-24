@@ -80,14 +80,25 @@ python few_shot_attacker.py \
 
 ## Citation
 ```bibtex
-@misc{ortizbarajas2026chartattacktestingvulnerabilityllms,
-      title={ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation}, 
-      author={Jesus-German Ortiz-Barajas and Jonathan Tonglet and Vivek Gupta and Iryna Gurevych},
-      year={2026},
-      eprint={2601.12983},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2601.12983}, 
+@inproceedings{ortiz-barajas-etal-2026-chartattack,
+    title = "{C}hart{A}ttack: Testing the Vulnerability of {LLM}s to Malicious Prompting in Chart Generation",
+    author = "Ortiz-Barajas, Jesus-German  and
+      Tonglet, Jonathan  and
+      Gupta, Vivek  and
+      Gurevych, Iryna",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.196/",
+    pages = "4495--4526",
+    ISBN = "979-8-89176-459-0",
+    abstract = "Multimodal large language models (MLLMs) are increasingly used to automate chart generation from data tables, improving efficiency but introducing new misuse risks. We present ChartAttack, a framework for evaluating how MLLMs use design misleaders to generate charts that induce incorrect interpretations. We also introduce AttackViz, a chart question-answering (QA) dataset labeled with effective misleaders and their induced incorrect answers. ChartAttack reduces MLLM QA accuracy by 17.2 points in-domain and 11.9 points cross-domain. Conditional deception rates show targeted effects: correct answers shift to attacker-intended answers 11.2{\%} of the time in-domain and 11.7-14.9{\%} cross-domain, while originally incorrect answers rarely change. A controlled human study shows that ChartAttack-generated charts also reduce human QA performance. Finally, fine-tuning on AttackViz improves in-domain MLLM robustness to misleading charts. Our findings highlight the need for secure, robust MLLM chart generation. Code and data are publicly available on the project website."
 }
 ```
 
