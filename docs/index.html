@@ -92,6 +92,18 @@
 
             <div class="column has-text-centered">
               <div class="publication-links">
+                <!-- ACL Anthology Link -->
+                <span class="link-block">
+                  <a href="https://aclanthology.org/2026.emnlp-main.196/" target="_blank"
+                      class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <svg viewBox="0 0 68 46" width="1.1em" height="1.1em" fill="currentColor" aria-hidden="true">
+                          <path fill-rule="evenodd" d="M41.98 0V3.02H0V46H68V30.99H56.99V0ZM15.01 17.99H41.98V30.99H15.01Z"/>
+                        </svg>
+                      </span>
+                      <span>Paper</span>
+                  </a>
+                </span>
                 <!-- ArXiv abstract Link -->
                 <span class="link-block">
                   <a href="https://arxiv.org/abs/2601.12983" target="_blank"
@@ -341,13 +353,25 @@
 <section class="section hero is-light">
     <div class="container is-max-desktop content">
       <h2><a href="#citation" class="header-link">Citation</a></h2>
-<!-- To be updated to an @inproceedings entry once the ACL Anthology / camera-ready venue details are assigned -->
-<pre id="BibTeX">@article{ortizbarajas2026chartattack,
-    title        = {ChartAttack: Testing the Vulnerability of LLMs to Malicious Prompting in Chart Generation},
-    author       = {Ortiz-Barajas, Jesus-German and Tonglet, Jonathan and Gupta, Vivek and Gurevych, Iryna},
-    year         = {2026},
-    journal      = {arXiv preprint arXiv:2601.12983},
-    url          = {https://arxiv.org/abs/2601.12983}
+<pre id="BibTeX">@inproceedings{ortiz-barajas-etal-2026-chartattack,
+    title = "{C}hart{A}ttack: Testing the Vulnerability of {LLM}s to Malicious Prompting in Chart Generation",
+    author = "Ortiz-Barajas, Jesus-German  and
+      Tonglet, Jonathan  and
+      Gupta, Vivek  and
+      Gurevych, Iryna",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.196/",
+    pages = "4495--4526",
+    ISBN = "979-8-89176-459-0",
+    abstract = "Multimodal large language models (MLLMs) are increasingly used to automate chart generation from data tables, improving efficiency but introducing new misuse risks. We present ChartAttack, a framework for evaluating how MLLMs use design misleaders to generate charts that induce incorrect interpretations. We also introduce AttackViz, a chart question-answering (QA) dataset labeled with effective misleaders and their induced incorrect answers. ChartAttack reduces MLLM QA accuracy by 17.2 points in-domain and 11.9 points cross-domain. Conditional deception rates show targeted effects: correct answers shift to attacker-intended answers 11.2{\%} of the time in-domain and 11.7-14.9{\%} cross-domain, while originally incorrect answers rarely change. A controlled human study shows that ChartAttack-generated charts also reduce human QA performance. Finally, fine-tuning on AttackViz improves in-domain MLLM robustness to misleading charts. Our findings highlight the need for secure, robust MLLM chart generation. Code and data are publicly available on the project website."
 }</pre>
       <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
